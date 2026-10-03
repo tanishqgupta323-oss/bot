@@ -257,6 +257,21 @@ def live_news(state):
 
 # ---------- main ----------
 def main():
+    # A manual GitHub Actions run performs a direct Gemini diagnostic only.
+    # Scheduled runs continue to execute the normal bot.
+    if os.getenv("GEMINI_TEST", "").lower() in {"1", "true", "yes"}:
+        if not GEMINI_KEY:
+            print("Gemini connection test FAILED: GEMINI_API_KEY secret is missing.")
+        else:
+            result = ask_gemini('Return exactly this JSON object and nothing else: {"gemini_test":"ok"}')
+            if isinstance(result, dict) and result.get("gemini_test") == "ok":
+                print("Gemini connection test PASSED.")
+            elif result is None:
+                print("Gemini connection test FAILED. Check the HTTP status and response above.")
+            else:
+                print("Gemini returned an unexpected result:", json.dumps(result)[:500])
+        return
+
     if not TOKEN or not CHAT_ID:
         print("TELEGRAM_TOKEN / TELEGRAM_CHAT_ID missing")
         return
