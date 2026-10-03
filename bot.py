@@ -71,6 +71,9 @@ def ask_gemini(prompt):
             "generationConfig": {"responseMimeType": "application/json", "temperature": 0.1},
         }
         r = requests.post(url, headers={"x-goog-api-key": GEMINI_KEY}, json=body, timeout=60)
+        if not r.ok:
+            print("gemini HTTP status:", r.status_code)
+            print("gemini response:", r.text[:500])
         r.raise_for_status()
         text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
         return json.loads(text)
