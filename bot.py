@@ -27,8 +27,9 @@ MAX_ATTEMPTS = 8
 CAL_URL = "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
 RSS_FEEDS = [
     "https://www.forexlive.com/feed",
-    "https://www.fxstreet.com/rss/news",
-    "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "https://www.fxstreet.com/rss/news",
+   "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "https://cointelegraph.com/rss",
 ]
 STATE_FILE = "state.json"
 IST = timezone(timedelta(hours=5, minutes=30))
