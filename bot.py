@@ -15,7 +15,7 @@ except ImportError:
 TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
-MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
 TEST_MODE = True   # test khatam hone par False kar dena
 CURRENCIES = ["USD", "EUR"]
 
