@@ -1,5 +1,6 @@
 import os
 import json
+import time
 import html
 import email.utils
 import xml.etree.ElementTree as ET
@@ -18,7 +19,7 @@ CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
 CURRENCIES = ["USD", "EUR"]
-TEST_MODE = True   # True karoge to har run par "hi telegram ok" test message aayega
+TEST_MODE = False   # True karoge to har run par "hi telegram ok" test message aayega
 
 ALERT_MINUTES = [60, 30, 10]
 RESOLVE_WINDOW_MIN = 90   # release ke baad itne minute tak actual dhundhna
@@ -83,22 +84,31 @@ def send_telegram(text):
 
 
 def ask_gemini(prompt):
-    try:
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
-        body = {
-            "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"responseMimeType": "application/json", "temperature": 0.1},
-        }
-        r = requests.post(url, headers={"x-goog-api-key": GEMINI_KEY}, json=body, timeout=60)
-        if r.status_code != 200:
-            print("gemini HTTP status:", r.status_code)
-            print("gemini response:", r.text[:300])
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
+    body = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.1},
+    }
+    for attempt in range(3):
+        try:
+            r = requests.post(url, headers={"x-goog-api-key": GEMINI_KEY}, json=body, timeout=60)
+            if r.status_code in (429, 500, 503) and attempt < 2:
+                print("gemini HTTP status:", r.status_code, "- retrying")
+                time.sleep(4 * (attempt + 1))
+                continue
+            if r.status_code != 200:
+                print("gemini HTTP status:", r.status_code)
+                print("gemini response:", r.text[:300])
+                return None
+            text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+            return json.loads(text)
+        except Exception as e:
+            print("gemini error:", type(e).__name__)
+            if attempt < 2:
+                time.sleep(3)
+                continue
             return None
-        text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-        return json.loads(text)
-    except Exception as e:
-        print("gemini error:", type(e).__name__)
-        return None
+    return None
 
 
 def esc(x):
@@ -129,7 +139,6 @@ def bias_block(item):
         bias_line("XAUUSD", item.get("xauusd")),
         bias_line("BTCUSD", item.get("btcusd")),
     ])
-
 
 # ---------- calendar ----------
 def get_events(state, now):
