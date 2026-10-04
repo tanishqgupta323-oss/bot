@@ -1,5 +1,6 @@
 import os
 import json
+import html
 import email.utils
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -16,10 +17,10 @@ TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
-TEST_MODE = True   # test khatam hone par False kar dena
 CURRENCIES = ["USD", "EUR"]
+TEST_MODE = True   # True karoge to har run par "hi telegram ok" test message aayega
 
-ALERT_MINUTES = [60, 30, 10, 1]
+ALERT_MINUTES = [60, 30, 10]
 RESOLVE_WINDOW_MIN = 90   # release ke baad itne minute tak actual dhundhna
 MAX_ATTEMPTS = 8
 CAL_URL = "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
@@ -31,6 +32,14 @@ RSS_FEEDS = [
 STATE_FILE = "state.json"
 IST = timezone(timedelta(hours=5, minutes=30))
 HEADERS = {"User-Agent": "Mozilla/5.0 (news-alert-bot)"}
+
+AFFECTS = {
+    "USD": ["EURUSD", "XAUUSD", "BTCUSD"],
+    "EUR": ["EURUSD"],
+}
+LINE = "━━━━━━━━━━━━━━━━━━"
+ARROW = {"BULLISH": "▲", "BEARISH": "▼", "NEUTRAL": "▬"}
+IMPACT_ICON = {"HIGH": "🔥", "MEDIUM": "⚡", "LOW": "💧"}
 
 
 # ---------- helpers ----------
@@ -58,7 +67,16 @@ def send_telegram(text):
     # Public repo hai, isliye logs mein token ya chat id kabhi print nahi karte
     try:
         url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-        r = requests.post(url, data={"chat_id": CHAT_ID, "text": text}, timeout=15)
+        r = requests.post(
+            url,
+            data={
+                "chat_id": CHAT_ID,
+                "text": text,
+                "parse_mode": "HTML",
+                "disable_web_page_preview": "true",
+            },
+            timeout=15,
+        )
         print("telegram status:", r.status_code)
     except Exception as e:
         print("telegram error:", type(e).__name__)
@@ -72,10 +90,10 @@ def ask_gemini(prompt):
             "generationConfig": {"responseMimeType": "application/json", "temperature": 0.1},
         }
         r = requests.post(url, headers={"x-goog-api-key": GEMINI_KEY}, json=body, timeout=60)
-        if not r.ok:
+        if r.status_code != 200:
             print("gemini HTTP status:", r.status_code)
-            print("gemini response:", r.text[:500])
-        r.raise_for_status()
+            print("gemini response:", r.text[:300])
+            return None
         text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
         return json.loads(text)
     except Exception as e:
@@ -83,12 +101,34 @@ def ask_gemini(prompt):
         return None
 
 
+def esc(x):
+    return html.escape(str(x))
+
+
 def fmt_ist(dt):
     return dt.astimezone(IST).strftime("%d %b, %I:%M %p") + " IST"
 
 
+def norm(bias):
+    b = str(bias).upper()
+    return b if b in ARROW else "NEUTRAL"
+
+
 def ico(bias):
-    return {"BULLISH": "🟢", "BEARISH": "🔴"}.get(str(bias).upper(), "⚪")
+    return {"BULLISH": "🟢", "BEARISH": "🔴"}.get(norm(bias), "⚪")
+
+
+def bias_line(pair, bias):
+    b = norm(bias)
+    return f"{ico(b)} <b>{pair}</b>   {b} {ARROW[b]}"
+
+
+def bias_block(item):
+    return "\n".join([
+        bias_line("EURUSD", item.get("eurusd")),
+        bias_line("XAUUSD", item.get("xauusd")),
+        bias_line("BTCUSD", item.get("btcusd")),
+    ])
 
 
 # ---------- calendar ----------
@@ -140,10 +180,17 @@ def pre_alerts(events, state, now):
         for x in ALERT_MINUTES:
             if x >= w:
                 state["sent"].append(f"{ev['id']}|{x}")
+        mins = max(1, round(left))
+        pairs = " · ".join(AFFECTS.get(ev["country"], ["EURUSD"]))
         send_telegram(
-            f"⏰ {w} min mein news: {ev['title']} ({ev['country']})\n"
+            f"🔔 <b>NEWS ALERT · in about {mins} min</b>\n"
+            f"{LINE}\n"
+            f"📅 <b>{esc(ev['title'])}</b> ({esc(ev['country'])})\n"
+            f"🔥 Impact: <b>HIGH</b>\n"
             f"🕒 {fmt_ist(ev['time'])}\n"
-            f"Forecast: {ev['forecast']} | Previous: {ev['previous']}"
+            f"📈 Forecast: {esc(ev['forecast'])}  |  Previous: {esc(ev['previous'])}\n\n"
+            f"🎯 <b>Watch:</b> {pairs}\n"
+            f"⚠️ Expect sharp moves and wider spreads around the release."
         )
 
 
@@ -197,21 +244,24 @@ def resolve_events(events, state, now):
             "Use only the headlines above, never guess or use memory. "
             "Step 2: if found, compare actual vs forecast (consider whether higher is good or bad "
             "for this indicator, e.g. unemployment) and judge the likely immediate impact on "
-            "EURUSD, XAUUSD (gold) and BTCUSD. A stronger USD is normally bearish for all three, "
-            "a stronger EUR is bullish for EURUSD. "
+            "EURUSD, XAUUSD (gold) and BTCUSD, each one independently. "
+            "A stronger USD is normally bearish for all three, a weaker USD is normally bullish "
+            "for all three, and a stronger EUR is bullish for EURUSD. "
             'Return JSON: {"found": true or false, "actual": "...", '
             '"eurusd": "BULLISH"|"BEARISH"|"NEUTRAL", "xauusd": "BULLISH"|"BEARISH"|"NEUTRAL", '
-            '"btcusd": "BULLISH"|"BEARISH"|"NEUTRAL", "reason": "one short line"}.'
+            '"btcusd": "BULLISH"|"BEARISH"|"NEUTRAL", '
+            '"reason": "one clear English sentence, max 25 words"}.'
         )
         res = ask_gemini(prompt)
         if isinstance(res, dict) and res.get("found"):
             send_telegram(
-                f"📊 {ev['title']} ({ev['country']})\n"
-                f"Actual: {res.get('actual')} | Forecast: {ev['forecast']} | Previous: {ev['previous']}\n"
-                f"{ico(res.get('eurusd'))} EURUSD: {res.get('eurusd')}\n"
-                f"{ico(res.get('xauusd'))} XAUUSD: {res.get('xauusd')}\n"
-                f"{ico(res.get('btcusd'))} BTCUSD: {res.get('btcusd')}\n"
-                f"{res.get('reason', '')}"
+                f"📊 <b>DATA RELEASED</b>\n"
+                f"{LINE}\n"
+                f"📅 <b>{esc(ev['title'])}</b> ({esc(ev['country'])})\n"
+                f"✅ Actual: <b>{esc(res.get('actual'))}</b>\n"
+                f"📈 Forecast: {esc(ev['forecast'])}  |  Previous: {esc(ev['previous'])}\n\n"
+                f"💡 <i>{esc(res.get('reason', ''))}</i>\n\n"
+                f"{bias_block(res)}"
             )
             state["resolved"].append(ev["id"])
         else:
@@ -233,11 +283,17 @@ def live_news(state):
         f"Headlines:\n{lines}\n\n"
         "Pick ONLY headlines that can move EURUSD, XAUUSD (gold) or BTCUSD. "
         "Examples: Fed or ECB decisions and speeches, US or Eurozone inflation, jobs and GDP surprises, "
-        "USD strength, real yields, safe-haven geopolitics, Bitcoin ETF flows, major crypto regulation. "
-        "Skip everything else (other currencies, stocks, routine commentary). "
-        'Return a JSON list: [{"index": 0, "eurusd": "BULLISH"|"BEARISH"|"NEUTRAL", '
-        '"xauusd": "BULLISH"|"BEARISH"|"NEUTRAL", "btcusd": "BULLISH"|"BEARISH"|"NEUTRAL", '
-        '"reason": "one short line"}]. Return [] if none.'
+        "USD strength or weakness, real yields, safe-haven geopolitics, Bitcoin ETF flows, "
+        "major crypto regulation. Skip everything else (other currencies, stocks, routine commentary). "
+        "Judge each instrument independently and let the direction follow the news: "
+        "positive or hawkish USD news is usually bearish for EURUSD, gold and BTC; "
+        "negative or dovish USD news is usually bullish for them; "
+        "crypto-specific news mainly affects BTCUSD; euro-positive news is bullish for EURUSD. "
+        "Use NEUTRAL when an instrument is not clearly affected. "
+        'Return a JSON list: [{"index": 0, "impact": "HIGH"|"MEDIUM"|"LOW", '
+        '"eurusd": "BULLISH"|"BEARISH"|"NEUTRAL", "xauusd": "BULLISH"|"BEARISH"|"NEUTRAL", '
+        '"btcusd": "BULLISH"|"BEARISH"|"NEUTRAL", '
+        '"reason": "one clear English sentence, max 25 words"}]. Return [] if none.'
     )
     res = ask_gemini(prompt)
     if not isinstance(res, list):
@@ -247,44 +303,33 @@ def live_news(state):
             h = new[int(item["index"])]
         except Exception:
             continue
+        biases = [norm(item.get(k)) for k in ("eurusd", "xauusd", "btcusd")]
+        if all(b == "NEUTRAL" for b in biases):
+            continue
+        impact = str(item.get("impact", "MEDIUM")).upper()
+        if impact not in IMPACT_ICON:
+            impact = "MEDIUM"
         send_telegram(
-            f"📰 {h['title']}\n"
-            f"{ico(item.get('eurusd'))} EURUSD: {item.get('eurusd')}\n"
-            f"{ico(item.get('xauusd'))} XAUUSD: {item.get('xauusd')}\n"
-            f"{ico(item.get('btcusd'))} BTCUSD: {item.get('btcusd')}\n"
-            f"{item.get('reason', '')}\n{h['link']}"
+            f"📰 <b>LIVE NEWS · {IMPACT_ICON[impact]} {impact} IMPACT</b>\n"
+            f"{LINE}\n"
+            f"{esc(h['title'])}\n\n"
+            f"💡 <i>{esc(item.get('reason', ''))}</i>\n\n"
+            f"{bias_block(item)}\n\n"
+            f'🔗 <a href="{esc(h["link"])}">Read more</a>'
         )
 
 
 # ---------- main ----------
-TEST_MODE = True   # test khatam hone par False kar dena
-
-
 def test_ping():
     res = ask_gemini('Reply with this JSON only: {"ok": true}')
     gemini_ok = isinstance(res, dict) and res.get("ok") is True
     if gemini_ok:
         send_telegram("hi telegram ok and gemini ok")
     else:
-        send_telegram("hi telegram ok, but gemini FAILED (Actions log dekho)")
+        send_telegram("hi telegram ok, but gemini FAILED (check the Actions log)")
 
 
 def main():
-    # A manual GitHub Actions run performs a direct Gemini diagnostic only.
-    # Scheduled runs continue to execute the normal bot.
-    if os.getenv("GEMINI_TEST", "").lower() in {"1", "true", "yes"}:
-        if not GEMINI_KEY:
-            print("Gemini connection test FAILED: GEMINI_API_KEY secret is missing.")
-        else:
-            result = ask_gemini('Return exactly this JSON object and nothing else: {"gemini_test":"ok"}')
-            if isinstance(result, dict) and result.get("gemini_test") == "ok":
-                print("Gemini connection test PASSED.")
-            elif result is None:
-                print("Gemini connection test FAILED. Check the HTTP status and response above.")
-            else:
-                print("Gemini returned an unexpected result:", json.dumps(result)[:500])
-        return
-
     if not TOKEN or not CHAT_ID:
         print("TELEGRAM_TOKEN / TELEGRAM_CHAT_ID missing")
         return
