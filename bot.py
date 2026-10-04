@@ -16,6 +16,7 @@ TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+TEST_MODE = True   # test khatam hone par False kar dena
 CURRENCIES = ["USD", "EUR"]
 
 ALERT_MINUTES = [60, 30, 10, 1]
@@ -256,6 +257,18 @@ def live_news(state):
 
 
 # ---------- main ----------
+TEST_MODE = True   # test khatam hone par False kar dena
+
+
+def test_ping():
+    res = ask_gemini('Reply with this JSON only: {"ok": true}')
+    gemini_ok = isinstance(res, dict) and res.get("ok") is True
+    if gemini_ok:
+        send_telegram("hi telegram ok and gemini ok")
+    else:
+        send_telegram("hi telegram ok, but gemini FAILED (Actions log dekho)")
+
+
 def main():
     # A manual GitHub Actions run performs a direct Gemini diagnostic only.
     # Scheduled runs continue to execute the normal bot.
@@ -275,6 +288,10 @@ def main():
     if not TOKEN or not CHAT_ID:
         print("TELEGRAM_TOKEN / TELEGRAM_CHAT_ID missing")
         return
+
+    if TEST_MODE:
+        test_ping()
+
     now = datetime.now(timezone.utc)
     state = load_state()
     events = get_events(state, now)
