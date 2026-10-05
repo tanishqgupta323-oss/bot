@@ -126,7 +126,7 @@
       "actual": "-",
       "currency": "EUR",
       "event_id": "3211a3665e2674bff16c3962",
-      "forecast": "-1.0%",
+      "forecast": "-0.9%",
       "impact": "LOW",
       "previous": "2.5%",
       "scheduled_at": "2026-10-06T06:00:00+00:00",
@@ -159,7 +159,7 @@
       "actual": "-",
       "currency": "EUR",
       "event_id": "5cdd527473d22f2de52948d0",
-      "forecast": "0.3%",
+      "forecast": "0.2%",
       "impact": "LOW",
       "previous": "-0.6%",
       "scheduled_at": "2026-10-06T09:00:00+00:00",
@@ -192,7 +192,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "9c7989825551caeeea14aca0",
-      "forecast": "-95.2B",
+      "forecast": "-100.8B",
       "impact": "LOW",
       "previous": "-88.6B",
       "scheduled_at": "2026-10-06T12:30:00+00:00",
@@ -220,6 +220,17 @@
       "scheduled_at": "2026-10-06T14:45:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "FOMC Member Bowman Speaks"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
+      "event_id": "908ab1994bbc5764ef81d9f6",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "-",
+      "scheduled_at": "2026-10-06T17:15:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "FOMC Member Schmid Speaks"
     },
     {
       "actual": "-",
@@ -308,6 +319,17 @@
       "scheduled_at": "2026-10-08T06:00:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "German Trade Balance"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
+      "event_id": "26553c7250caf26335bbf235",
+      "forecast": "-",
+      "impact": "MEDIUM",
+      "previous": "-",
+      "scheduled_at": "2026-10-08T08:30:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "FOMC Member Waller Speaks"
     },
     {
       "actual": "-",
@@ -442,7 +464,7 @@
       "title": "FOMC Member Collins Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-05T14:55:50.662078+00:00",
+  "calendar_fetched_at": "2026-10-05T18:01:36.193529+00:00",
   "first_run_complete": true,
   "resolved_events": [],
   "seen_headlines": [
