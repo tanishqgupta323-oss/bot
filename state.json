@@ -1,7 +1,7 @@
 {
   "actual_attempts": {
     "01b7fa11cb061c532f1f91a3": 8,
-    "16ee463b527ffaa939c9a2e9": 1,
+    "16ee463b527ffaa939c9a2e9": 2,
     "18ad454a90e090bf19c4a1d0": 8,
     "25a847a2a55adc197177ffda": 8,
     "319c9ec527b0cfd7390b20ec": 8,
@@ -15,7 +15,7 @@
     "ba437c2e98c85559357fccee": 8,
     "dc60f37d305e72d38fe83cd9": 8,
     "dcb688efa8a47feb4ea54821": 8,
-    "e76e418b92a33a7a9f6330ee": 1
+    "e76e418b92a33a7a9f6330ee": 2
   },
   "calendar": [
     {
@@ -470,7 +470,7 @@
       "title": "FOMC Member Collins Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-06T09:25:44.971618+00:00",
+  "calendar_fetched_at": "2026-10-06T12:25:50.998358+00:00",
   "first_run_complete": true,
   "resolved_events": [],
   "seen_headlines": [
