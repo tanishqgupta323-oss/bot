@@ -1,6 +1,7 @@
 {
   "actual_attempts": {
     "01b7fa11cb061c532f1f91a3": 8,
+    "070491d5d377790c3275cd4a": 1,
     "16ee463b527ffaa939c9a2e9": 8,
     "18ad454a90e090bf19c4a1d0": 8,
     "25a847a2a55adc197177ffda": 8,
@@ -9,16 +10,14 @@
     "3de4fabe54ad9154f77135c0": 8,
     "5900804b607f5de476bf8b03": 8,
     "5cdd527473d22f2de52948d0": 8,
-    "732f8d69f0380b4bf34ca3b3": 8,
     "8d0ded031b30f18c610f8417": 8,
-    "8d99ce19e93c0e5104a60552": 7,
+    "8d99ce19e93c0e5104a60552": 8,
     "8f007d87b2e2fe48c6b2ae3e": 8,
     "9c7989825551caeeea14aca0": 8,
     "ac41fb04d25825baf3395d74": 8,
     "ba437c2e98c85559357fccee": 8,
     "dc60f37d305e72d38fe83cd9": 8,
-    "dcb688efa8a47feb4ea54821": 8,
-    "e76e418b92a33a7a9f6330ee": 8
+    "dcb688efa8a47feb4ea54821": 8
   },
   "calendar": [
     {
@@ -178,22 +177,22 @@
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "16ee463b527ffaa939c9a2e9",
+      "event_id": "3f70144edd1c79c5dabc270d",
       "forecast": "-",
       "impact": "LOW",
-      "previous": "-",
-      "scheduled_at": "2026-10-06T12:15:00+00:00",
+      "previous": "20.0K",
+      "scheduled_at": "2026-10-06T12:14:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "ADP Weekly Employment Change"
     },
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "e76e418b92a33a7a9f6330ee",
+      "event_id": "16ee463b527ffaa939c9a2e9",
       "forecast": "-",
       "impact": "LOW",
-      "previous": "20.0K",
-      "scheduled_at": "2026-10-06T12:16:00+00:00",
+      "previous": "22.5K",
+      "scheduled_at": "2026-10-06T12:15:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "ADP Weekly Employment Change"
     },
@@ -211,11 +210,11 @@
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "732f8d69f0380b4bf34ca3b3",
+      "event_id": "070491d5d377790c3275cd4a",
       "forecast": "44.5",
       "impact": "LOW",
       "previous": "45.6",
-      "scheduled_at": "2026-10-06T14:10:00+00:00",
+      "scheduled_at": "2026-10-06T14:01:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "RCM/TIPP Economic Optimism"
     },
@@ -278,7 +277,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "635cc2aed2feb1848f1eb450",
-      "forecast": "-",
+      "forecast": "2.1M",
       "impact": "LOW",
       "previous": "0.9M",
       "scheduled_at": "2026-10-07T14:30:00+00:00",
@@ -473,7 +472,7 @@
       "title": "FOMC Member Collins Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-06T12:25:50.998358+00:00",
+  "calendar_fetched_at": "2026-10-06T15:25:51.048174+00:00",
   "first_run_complete": true,
   "resolved_events": [],
   "seen_headlines": [
