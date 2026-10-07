@@ -10,7 +10,7 @@
     "3de4fabe54ad9154f77135c0": 8,
     "5900804b607f5de476bf8b03": 8,
     "5cdd527473d22f2de52948d0": 8,
-    "803cabcbf2220100c2ac511e": 6,
+    "803cabcbf2220100c2ac511e": 7,
     "8d0ded031b30f18c610f8417": 8,
     "8d99ce19e93c0e5104a60552": 8,
     "8f007d87b2e2fe48c6b2ae3e": 8,
@@ -290,6 +290,17 @@
     {
       "actual": "-",
       "currency": "USD",
+      "event_id": "935ea6742c6b5cac570ecc2a",
+      "forecast": "-",
+      "impact": "MEDIUM",
+      "previous": "-",
+      "scheduled_at": "2026-10-07T17:00:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "President Trump Speaks"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
       "event_id": "bd61feb4634c9cdc9f51e7c7",
       "forecast": "-",
       "impact": "LOW",
@@ -475,7 +486,7 @@
       "title": "FOMC Member Collins Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-07T03:35:46.014395+00:00",
+  "calendar_fetched_at": "2026-10-07T06:35:48.566297+00:00",
   "first_run_complete": true,
   "resolved_events": [],
   "seen_headlines": [
