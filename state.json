@@ -753,6 +753,8 @@
     "782c66952c08ed2cc4d0aba7b2ff4c7ca3af30d57b76fa98d392d1b28af835ff",
     "d2480be83a3a036ef9a9aa820deb6c473ba1261fa9e650bf26596c7dcf03693f"
   ],
-  "sent_alerts": [],
+  "sent_alerts": [
+    "741bbe6ef88663e87a1d8c85:60"
+  ],
   "version": 2
 }
