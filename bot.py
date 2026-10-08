@@ -40,6 +40,8 @@ DEFAULT_FEEDS = (
     "https://www.forexlive.com/feed",
     "https://www.fxstreet.com/rss/news",
     "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "https://www.investing.com/rss/news.rss",
+    "https://news.google.com/rss/search?q=gold+OR+Fed+OR+Iran+OR+Trump+OR+Bitcoin+when:1d&hl=en-US&gl=US&ceid=US:en",
 )
 BIAS_VALUES = {"BULLISH", "BEARISH", "NEUTRAL", "UNCLEAR"}
 IMPACT_VALUES = {"HIGH", "MEDIUM", "LOW", "UNKNOWN"}
