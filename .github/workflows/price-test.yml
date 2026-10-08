@@ -1,0 +1,15 @@
+name: price-test
+
+on:
+workflow_dispatch:
+
+jobs:
+test:
+runs-on: ubuntu-latest
+steps:
+- name: Test price API from GitHub server
+run: |
+for s in "EURUSD=X" "GC=F" "BTC-USD"; do
+code=$(curl -s -o /tmp/out.json -w "%{http_code}" -A "Mozilla/5.0" "https://query1.finance.yahoo.com/v8/finance/chart/${s}?interval=5m&range=1d")
+echo "$s -> HTTP $code, bytes: $(wc -c < /tmp/out.json)"
+done
