@@ -1667,5 +1667,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "ABC News",
+  "title": "Concerns over Iran drone attack prompted pulling bombers from UK base, sources say",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORkRia1pRVlJyY3lxNHJ1SDRldHZYczVIX2VLczBCdXl1TVVzYXkwb2g4eGhMUnZ0Y2p4MzFzRDgtWVNFb1lKd3FNSXc5U2NubXR2eWpQcTliVzVWZnNUbl9uZmNKUUNOYWhJNmZQeWNlclFGM1VGZTl4d3UzbVhfSXRqcEJJOUtGUjJ5bF9ITWJxTHc0ZHJaVklrc3h5YmthQUF3TjdPRkdyT2pDc3Fj0gG0AUFVX3lxTE12aFY4eXJmQTVXX1JaQ1ZQTHpLSHdSM1VDUTdPbFZIbTVmdTRld1hiOGNGLUJBbTJnUFNOMTI0VkluaGRNcWdkZENzUDZSa3pOUkYwX0c1dTQtLUdkQ25fNkpUTjhYNGQ4bXVUSjhPM3lsblN3ZVJTOHQ0UmtkS2ltcUNJTjM1SU96WmZzTUQwcS1QakVFR0tOODBfaUhsbVgwWmtpUmo5cVJBWERicU41Rk1qaA?oc=5",
+  "published_at": "2026-10-09T22:16:23+00:00",
+  "sent_at": "2026-10-09T23:25:39.321244+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

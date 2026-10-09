@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-09T22:40:42.669083+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 211,
+    "count": 212,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -715,12 +715,32 @@
         "rhetoric",
         "weekly"
       ]
+    },
+    {
+      "at": "2026-10-09T23:25:38.743772+00:00",
+      "w": [
+        "attack",
+        "base",
+        "bombers",
+        "concerns",
+        "drone",
+        "iran",
+        "prompted",
+        "pulling",
+        "sources"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "af402bb66f710e0e0afd0d3b9f832a6624ecf7530aa7c08555de1c202a344a41",
+    "1a1bf8c54614bd2995b1c82663e2b4d75a005e5b6e0e62b2b2ea26bd16cb752b",
+    "0cf23679d5dd874ea719ba462d8769f39981bc86f94c08ab0744b7ee5dac8b88",
+    "b84e1939b723fbab879d857350b6993f90f90cdb842aca1fc1b0cb21c5dcd469",
+    "3713bb4526ded6847ebbaa86bce64ae4d9986154bae9b982ae5c16c2ca307073",
+    "8ed67142c88214cd15f22c101ffa4b3c7a248963086503443091dad685730ad6",
     "170268c9fc37d18485c2fbd3681e68db221a82559ee924a921a8fb1f591fab2a",
     "0e2470e89dcff8648af3ad023317466dc3c038bc060856272d86b82a5c0c0100",
     "8336e79e7ca5d1e2803629190d789116f1dfeb907076a093c18213ec9ada5808",
@@ -1714,13 +1734,7 @@
     "b45283fbc4d36a80abf2a47f6ddeccb98a1fc98021683b555f391a5fe706eafd",
     "c2e84320f79284269fe9fde6d68a34e1e544349d3a300dc4372b510bafed6f18",
     "f68ea8f1bb9659911c1e7b455e89615295f1a5848bb4284c3fb69fec35adaf35",
-    "fbda050ec27aa2847c75b9679a05f088d5f85fc2a0c468594b50a818df011533",
-    "d6a4ee5d88941c6edce16eada52d2cda7994536fcac8ab65ccdd13637656b87d",
-    "505eca03a60b8a2f4af83fedd83fc7e90a5eec43fa2c694c910ac59ab60d42df",
-    "4258397d5130ff14bae8e5489e9f90c8b741130db8e516e5aeee3c0d37ed9f8b",
-    "9f6bd9cc5e4def8c69c373f5103c39c839ad049e7c1c01f2f7ca2616506d94a9",
-    "06ec76a560170b649c583a8197c1920376e0e524c889b6993424decd805f4c93",
-    "686641c8a50ca9dc76415100b94ef13e25428cad54638e4d22592e16b9a1f622"
+    "fbda050ec27aa2847c75b9679a05f088d5f85fc2a0c468594b50a818df011533"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
