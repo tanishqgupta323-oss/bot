@@ -54,5 +54,33 @@
   "xauusd": "NEUTRAL",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "European Central Bank: Conditional support and French risks – Rabobank",
+  "link": "https://www.fxstreet.com/news/european-central-bank-conditional-support-and-french-risks-rabobank-202610091317",
+  "published_at": "2026-10-09T13:17:08+00:00",
+  "sent_at": "2026-10-09T13:50:49.577523+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "NEUTRAL",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "United States: Core CPI trend seen moderating – TD Securities",
+  "link": "https://www.fxstreet.com/news/united-states-core-cpi-trend-seen-moderating-td-securities-202610091256",
+  "published_at": "2026-10-09T12:56:18+00:00",
+  "sent_at": "2026-10-09T13:50:49.995052+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
