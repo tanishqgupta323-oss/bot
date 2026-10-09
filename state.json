@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-09T22:40:42.669083+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 208,
+    "count": 209,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -700,12 +700,31 @@
         "flash",
         "nears"
       ]
+    },
+    {
+      "at": "2026-10-09T23:10:44.356193+00:00",
+      "w": [
+        "aussie",
+        "bets",
+        "extends",
+        "fed",
+        "gains",
+        "hawkish",
+        "offset",
+        "pause",
+        "rhetoric",
+        "weekly"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "48dc6584f743ceba57c9e6734a90d95d1443fd695cad0110464dde3eb489f48b",
+    "c0fd38d655f03660f1003ef69bc5662cf5779e29d3cc73f3d1290f387ca4e6dc",
+    "719488f745460576820b0bc69df8110c3b6ea14c37e16bc120b41a44d949cb14",
+    "10d948ae2e4bbf1564e6a32c244a77309966a29e66a9b03485e1558fe07a2dd6",
     "abc2bbcda7fa2f963de704ac4239129d24c8cbc70fb42e68c6efa2cb3eefbca9",
     "a5a321ec8b861cbd86636341c41ee87069d03907989f59b130794cfa22875d8f",
     "441d12e1f512bf27700c63f4dcf4cfddf6610cd7644043ef83223b17bfdf595f",
@@ -1701,11 +1720,7 @@
     "dde8f0afba7fb3c4587d23068027f531782ae110dc0f071387b74dca608fd0c2",
     "40423573081d291d39c6fa7512e2746a5ce7046472b36b62cadf4b15c600305b",
     "cbed52b1d97051452923cc5f1b9f28b635396199d20bf7bbb9b8fe899c3d03b0",
-    "526b5ca09b2fa4df21b14a38f4c63dcf30f1b13a8af3730f626d6811fc3fce7a",
-    "08b0ee058d81a2cc30ce46e77d5d996c9c19bb2bd0bef20e1e425cd22e130626",
-    "93d1fc7843ee5c8c4407135887467d683dcac9c37a357413cece37d63ef88196",
-    "fc2f687d675f4eadd8d8e65155a2d6f33235356d51046fb1db205ed123815604",
-    "fa1be9900594af7d7e4e8a8fc3dfb67cce3ed359cb166e9fbda759f62cbf7ab1"
+    "526b5ca09b2fa4df21b14a38f4c63dcf30f1b13a8af3730f626d6811fc3fce7a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
