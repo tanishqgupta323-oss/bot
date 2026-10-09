@@ -208,5 +208,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "US consumer sentiment deteriorates further in October",
+  "link": "https://www.investing.com/news/economy-news/us-consumer-sentiment-deteriorates-further-in-october-4941370",
+  "published_at": null,
+  "sent_at": "2026-10-09T14:25:40.452919+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
