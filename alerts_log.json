@@ -96,5 +96,47 @@
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "AFP.com",
+  "title": "Stocks advance, oil retreats as Trump rules out pre-vote Iran attack - AFP.com",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQUs2NzVOanRyTklXX1k5cWFEb1ZCVEZvOUkxNDJTbGtwdW5EMHg0R3V5SHpBZTFpLWU0MjE0dWM5RzZjTVgxLV8wRDF6RmRENmZPcURhSUhoYkwwa0drMU5DM1NsX2h1bVNydUYwdnhESlNFSFZvS3lHYm9udERoQk9FVjI0andyNFZtRm01eGI?oc=5",
+  "published_at": "2026-10-09T14:03:21+00:00",
+  "sent_at": "2026-10-09T14:05:39.820827+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "US October UMich prelim consumer sentiment 46.3 vs 47.8 expected",
+  "link": "https://investinglive.com/news/us-october-umich-prelim-consumer-sentiment-vs-47-8-expected/",
+  "published_at": "2026-10-09T14:00:04+00:00",
+  "sent_at": "2026-10-09T14:05:40.155934+00:00",
+  "impact": "LOW",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Michigan consumer sentiment dips below forecast, signals caution",
+  "link": "https://www.investing.com/news/economic-indicators/michigan-consumer-sentiment-dips-below-forecast-signals-caution-93CH-4941337",
+  "published_at": null,
+  "sent_at": "2026-10-09T14:05:40.479038+00:00",
+  "impact": "LOW",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
