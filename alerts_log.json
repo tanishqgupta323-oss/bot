@@ -264,5 +264,33 @@
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
+  "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+  "published_at": "2026-10-09T14:55:23+00:00",
+  "sent_at": "2026-10-09T14:55:39.940535+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BULLISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WSJ",
+  "title": "Trump Announces White House Hearing to Investigate Fed’s Lisa Cook - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFFPTmlvOFRaNEFPS0UxVXJzRlFLWnZlREg2VV9pSjFCeHgwUERoeG9yeVZBVTN1OFFVZHczX2UyMzIzdnlhSjB3b3FrNFBOX2xZOTl5a3JkZnNqd3J1bExoOFByZHJXa0NFcG9HYWxDN09raEF0Vm9sejVlYldScFo0TGt1YWY0bHdDS09yMVUxRTBsRkl4UHdWQXZ0ZjloaDJrSjRHNVdsczcyRWRqQkFTbGpkNWs?oc=5",
+  "published_at": "2026-10-09T14:45:36+00:00",
+  "sent_at": "2026-10-09T14:55:40.473073+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
