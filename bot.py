@@ -166,6 +166,7 @@ class CalendarEvent:
 def utc_now() -> datetime:
     return datetime.now(UTC)
 
+
 def quota_day(now: datetime) -> str:
     """Gemini free quotas reset at midnight Pacific time; use that day boundary."""
     try:
@@ -174,20 +175,21 @@ def quota_day(now: datetime) -> str:
     except Exception:
         return now.astimezone(timezone(timedelta(hours=-8))).strftime("%Y-%m-%d")
 
+
 def log_alert(record: dict[str, Any]) -> None:
-       """Append one sent-alert record for later accuracy tracking. Never raises."""
-       try:
-           rows: list[dict[str, Any]] = []
-           if ALERTS_LOG_FILE.exists():
-               loaded = json.loads(ALERTS_LOG_FILE.read_text(encoding="utf-8"))
-               if isinstance(loaded, list):
-                   rows = loaded
-           rows.append(record)
-           ALERTS_LOG_FILE.write_text(
-               json.dumps(rows[-2000:], ensure_ascii=False, indent=1), encoding="utf-8"
-           )
-       except (OSError, ValueError) as exc:
-           LOG.warning("Could not write alerts log (%s)", type(exc).__name__)
+    """Append one sent-alert record for later accuracy tracking. Never raises."""
+    try:
+        rows: list[dict[str, Any]] = []
+        if ALERTS_LOG_FILE.exists():
+            loaded = json.loads(ALERTS_LOG_FILE.read_text(encoding="utf-8"))
+            if isinstance(loaded, list):
+                rows = loaded
+        rows.append(record)
+        ALERTS_LOG_FILE.write_text(
+            json.dumps(rows[-2000:], ensure_ascii=False, indent=1), encoding="utf-8"
+        )
+    except (OSError, ValueError) as exc:
+        LOG.warning("Could not write alerts log (%s)", type(exc).__name__)
 
 
 def parse_datetime(value: Any) -> datetime | None:
@@ -205,6 +207,52 @@ def parse_datetime(value: Any) -> datetime | None:
     if parsed.tzinfo is None:
         return None
     return parsed.astimezone(UTC)
+
+
+# ----------------------------- duplicate-story filter -----------------------------
+STOPWORDS = {
+    "the", "and", "for", "with", "from", "that", "this", "are", "was", "has", "have", "will",
+    "after", "over", "into", "amid", "says", "say", "new", "its", "his", "her", "their", "about",
+    "than", "more", "who", "what", "how", "why", "but", "not", "you", "can", "may", "could",
+    "would", "out", "off", "all", "one", "two",
+}
+GENERIC_SUFFIXES = (" - Breaking News, Latest News and Videos",)
+
+
+def split_publisher(headline: Headline) -> tuple[str, str]:
+    """Return (clean_title, publisher). Google News titles end with ' - Publisher'."""
+    title = headline.title
+    for suffix in GENERIC_SUFFIXES:
+        if title.endswith(suffix):
+            title = title[: -len(suffix)]
+    publisher = headline.source
+    if headline.source == "news.google.com" and " - " in title:
+        title, publisher = title.rsplit(" - ", 1)
+        title, publisher = title.strip(), publisher.strip()
+    return title, publisher
+
+
+def story_words(title: str) -> list[str]:
+    """Key words of a headline, used to spot the same story from different publishers."""
+    text = (title.lower() + " ").replace("’", "'").replace("'s ", " ")
+    cleaned = "".join(ch if ch.isalnum() else " " for ch in text)
+    return sorted({w for w in cleaned.split() if len(w) >= 3 and w not in STOPWORDS})
+
+
+def is_duplicate_story(words: list[str], recent: list[dict[str, Any]], now: datetime, hours: int = 8) -> bool:
+    current = set(words)
+    if len(current) < 3:
+        return False
+    cutoff = now - timedelta(hours=hours)
+    for entry in recent:
+        stamp = parse_datetime(entry.get("at"))
+        if stamp is None or stamp < cutoff:
+            continue
+        other = set(entry.get("w", []))
+        common = len(current & other)
+        if common >= 3 and common / max(1, min(len(current), len(other))) >= 0.6:
+            return True
+    return False
 
 
 def display_time(value: datetime) -> str:
@@ -275,6 +323,7 @@ class StateStore:
             "seen_headlines": [],
             "first_run_complete": False,
             "gemini_usage": {"day": "", "count": 0},
+            "recent_stories": [],
         }
 
     def load(self) -> dict[str, Any]:
@@ -288,7 +337,7 @@ class StateStore:
             for key in self.empty():
                 if key in loaded:
                     state[key] = loaded[key]
-            for key in ("calendar", "sent_alerts", "resolved_events", "seen_headlines"):
+            for key in ("calendar", "sent_alerts", "resolved_events", "seen_headlines", "recent_stories"):
                 if not isinstance(state.get(key), list):
                     state[key] = []
             if not isinstance(state.get("actual_attempts"), dict):
@@ -299,23 +348,6 @@ class StateStore:
         except (OSError, json.JSONDecodeError, ValueError) as exc:
             LOG.error("Could not read state file (%s); starting with empty state", type(exc).__name__)
             return self.empty()
-
-    def save(self, state: dict[str, Any]) -> None:
-        self.path.parent.mkdir(parents=True, exist_ok=True)
-        payload = json.dumps(state, ensure_ascii=False, indent=2, sort_keys=True)
-        fd, temp_name = tempfile.mkstemp(prefix=self.path.name + ".", suffix=".tmp", dir=str(self.path.parent))
-        try:
-            with os.fdopen(fd, "w", encoding="utf-8") as handle:
-                handle.write(payload)
-                handle.flush()
-                os.fsync(handle.fileno())
-            os.replace(temp_name, self.path)
-        finally:
-            try:
-                if os.path.exists(temp_name):
-                    os.unlink(temp_name)
-            except OSError:
-                pass
 
     def save(self, state: dict[str, Any]) -> None:
         self.path.parent.mkdir(parents=True, exist_ok=True)
@@ -517,6 +549,7 @@ def parse_calendar_rows(raw: Any, calendar_url: str, currencies: tuple[str, ...]
             )
         )
     return sorted(events, key=lambda event: event.scheduled_at)
+
 
 def extract_feed_items(root: ET.Element, feed_url: str) -> list[Headline]:
     """Read RSS 2.0 and common Atom feeds."""
@@ -883,7 +916,10 @@ class TradingNewsBot:
             return
         # Mark as reviewed only after Gemini returned a valid list, so API failures are retried.
         state["seen_headlines"] = ([item.identity for item in new_items] + seen_list)[:self.config.max_seen_links]
+        now = utc_now()
+        recent = list(state.get("recent_stories", []))
         sent_count = 0
+        skipped = 0
         for item in result:
             if not isinstance(item, dict):
                 continue
@@ -894,16 +930,19 @@ class TradingNewsBot:
             biases = [normalized_bias(item.get(key)) for key in ("eurusd", "xauusd", "btcusd")]
             if all(value in {"NEUTRAL", "UNCLEAR"} for value in biases):
                 continue
+            clean_title, publisher = split_publisher(headline)
+            words = story_words(clean_title)
+            if is_duplicate_story(words, recent, now):
+                skipped += 1
+                continue
             if self.telegram.send(live_news_message(headline, item)):
                 sent_count += 1
-                publisher = headline.source
-                if headline.source == "news.google.com" and " - " in headline.title:
-                    publisher = headline.title.rsplit(" - ", 1)[-1].strip()
+                recent.append({"w": words, "at": now.isoformat()})
                 log_alert({
                     "kind": "live_news",
                     "source": headline.source,
                     "publisher": publisher,
-                    "title": headline.title[:200],
+                    "title": clean_title[:200],
                     "link": headline.link,
                     "published_at": headline.published_at.isoformat() if headline.published_at else None,
                     "sent_at": utc_now().isoformat(),
@@ -913,7 +952,9 @@ class TradingNewsBot:
                     "btcusd": normalized_bias(item.get("btcusd")),
                     "checks": {},
                 })
-        LOG.info("Live news: %d new headlines reviewed, %d alerts sent", len(new_items), sent_count)
+        state["recent_stories"] = recent[-200:]
+        LOG.info("Live news: %d new headlines reviewed, %d alerts sent, %d duplicates skipped",
+                 len(new_items), sent_count, skipped)
 
     def run(self) -> int:
         if not self.config.telegram_token or not self.config.telegram_chat_id:
