@@ -488,5 +488,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Fed says household income, wealth, debt stress increased from 2022 to 2025",
+  "link": "https://www.investing.com/news/economy-news/fed-says-household-income-wealth-debt-stress-rose-from-2022-to-2025-4941348",
+  "published_at": null,
+  "sent_at": "2026-10-09T16:40:47.524160+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
