@@ -362,5 +362,33 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Trump launches committee to probe Fed’s Lisa Cook, White House says",
+  "link": "https://www.investing.com/news/economy-news/trump-launches-committee-to-probe-feds-lisa-cook-white-house-statement-4941345",
+  "published_at": null,
+  "sent_at": "2026-10-09T15:31:18.031916+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Securitize rallies as Wall Street sees strategic upside in tokenized stock launch",
+  "link": "https://www.investing.com/news/stock-market-news/securitize-rallies-as-wall-street-sees-strategic-upside-in-tokenized-stock-launch-4941437",
+  "published_at": null,
+  "sent_at": "2026-10-09T15:31:18.388389+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
