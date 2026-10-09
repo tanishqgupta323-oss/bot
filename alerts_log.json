@@ -670,5 +670,47 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Washington Post",
+  "title": "Analysis | Trump is trying last-minute ways to bring down prices - The Washington Post",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUZtbmtRdDdBeEZzNmNuZ1BpbkdmLU5laGZIYjZ6cm5QUDhPVkpDUm9WZVZvV19iVU5LQ0F1Vk1XekJoV0lFSkJVZDd0Q0p5QWZ0QklUOEtOMUxacEExVW5HeGRfcklGeHhsbzBCT2pubkg4R3ZNb01mWmF1NWVsUW9BMlFjd0s5U0R5YUswUkpKZU1ZRTBwM3hKWnJ2Z2R5bVktSA?oc=5",
+  "published_at": "2026-10-09T18:29:07+00:00",
+  "sent_at": "2026-10-09T18:31:07.212412+00:00",
+  "impact": "LOW",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "FOX 10 Phoenix",
+  "title": "Wet weekend in store for the Valley; Trump sets Iran timeline | Morning News Brief - FOX 10 Phoenix",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEJkeVFVUFNOdGwxZl9VWEo0SVdpY19qOUNlZVJVU1BFdU1lNGFxSy1yaVllRXpVUzJEZXpyZ0IxQmxaOWlzWFhJdDduVFVWTW14cnQyS2hEWjlIZEZxclNCMExhcXVoaFlNNXRFLThaaFJrMHhXS0tiV0hmVHdBVVZIYTU4NnJjX0x3VkxBOURoTWJ6YmNiVS01Qy1WT3R2YmxPMg?oc=5",
+  "published_at": "2026-10-09T17:13:51+00:00",
+  "sent_at": "2026-10-09T18:31:07.514491+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Spectrum News",
+  "title": "Trump es­tab­lishes committee to in­ves­tigate Federal Reserve's Lisa Cook in latest effort to fire her - Spectrum News",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVUpKM045UU92T1JETG9nQ0ZQUEJXaUVxUkJTXzlOVlRuM3hxZ09fVHJNNUM4ckpTOU1YeDRQaEpLQTN3SlRtX2hsVm1RY3QzaFpPSm5fYVBWbW5wZ1VvU0xuOWJUWktzZlJkcUp3VlN3V3RjZDhqeVVJdEk2UXFKVEg2T3JvNUlqWTNTTFVHemNLQkw5clFXWDB6dTZBSTNTSVVNYkJEOVI4cGNrMFhyaE9SZw?oc=5",
+  "published_at": "2026-10-09T14:59:00+00:00",
+  "sent_at": "2026-10-09T18:31:07.815659+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
