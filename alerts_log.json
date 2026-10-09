@@ -1341,6 +1341,11 @@
     "EURUSD": -0.0224,
     "XAUUSD": -0.0592,
     "BTCUSD": -0.0418
+   },
+   "60": {
+    "EURUSD": -0.0224,
+    "XAUUSD": -0.1254,
+    "BTCUSD": -0.2489
    }
   }
  },
@@ -1403,5 +1408,19 @@
     "BTCUSD": -0.1176
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "Dollar Index stalls under its high as the Fed's hawks repeat themselves",
+  "link": "https://www.fxstreet.com/news/dollar-index-stalls-under-its-high-as-the-feds-hawks-repeat-themselves-202610091910",
+  "published_at": "2026-10-09T19:10:33+00:00",
+  "sent_at": "2026-10-09T20:10:46.819611+00:00",
+  "impact": "LOW",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

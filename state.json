@@ -11,7 +11,7 @@
     "2e0400f14d953238ecf30641": 8,
     "319c9ec527b0cfd7390b20ec": 8,
     "3211a3665e2674bff16c3962": 8,
-    "394d397f22cc110cfdef40ee": 1,
+    "394d397f22cc110cfdef40ee": 2,
     "3de4fabe54ad9154f77135c0": 8,
     "5900804b607f5de476bf8b03": 8,
     "5cdd527473d22f2de52948d0": 8,
@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-09T19:35:32.590329+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 165,
+    "count": 167,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -566,12 +566,32 @@
         "reach",
         "target"
       ]
+    },
+    {
+      "at": "2026-10-09T20:10:46.098183+00:00",
+      "w": [
+        "dollar",
+        "fed",
+        "hawks",
+        "high",
+        "index",
+        "repeat",
+        "stalls",
+        "themselves",
+        "under"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "5babbf797746112e53b70c317a83a3818cbb7e8b1c1f7e5073d6605a9817d944",
+    "d7d27657605b12028d3661d87ee4ed7d2674dbdcab35699b7377981fd07edc2f",
+    "1b6e14ffdf4d0c176579026c8de0060f6a62d5fd6ac1fb1a6cb395b27aa4a81b",
+    "019fe0f8745593acc8765ff14c9705b13de59aff1cf7ec2141e7fdee4b3983a8",
+    "5330f45c426cca55bf5593958e348b56d4b84b3790be003db728dda5c4a4d0ec",
+    "25cef4730067ab740ebc4332640f5c2a42869937e7e7b7cd29f7439fe3a34ba0",
     "59c929c9eeeb5205ad4c978c790757f67e4f465a4b252973e32d74b65953e669",
     "43537bcd4f838441ece5403de5d8dc7545d637a2b68bfe84e4b1716c487c1361",
     "8f48d4dcc1cc20c79a6498b8736073b677b9e58fee9954ddf41125c4b5331e2f",
@@ -1565,13 +1585,7 @@
     "e01195578dcf1cf5dec98b87e89ef3efa1e684254334a86e9cf11f041546ad5a",
     "017fec42b4358043f552b522c9ea785b6c4afb1330f46842e0f4a7808e3d218a",
     "0288b2f648dbb189e207d2593d2c86793587af3cafa62ac11935323d752d0c6f",
-    "e426a862a3d0536cf0305be2b8416837dcd8c3861ea2a77b141de842c034d740",
-    "275d20efcc871df7341941833c1d019001ecb402c05534d3b9ad823b6d1ccf49",
-    "09417cd8ca8151ca55c661a2602f210b5cafb6752d2c05e3d59614179980f96f",
-    "5617d5751958379a28bd5e400a0b67bfc74e0495aa32f5fe94238cf4497d2cb2",
-    "07fd5dc41136be8ca49ba8320147a13885f2a02db92d92fc805a6a7320874bfb",
-    "f5ada38f90defdf4b34f5e2c3eb9099ba478424ff17721a79ad8341825a14b5e",
-    "10e0e5f4d4ab8181f8a9c72cde77ee9f454e1d5c3e2ea205c6e3ff61fa7560c3"
+    "e426a862a3d0536cf0305be2b8416837dcd8c3861ea2a77b141de842c034d740"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
