@@ -1697,5 +1697,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Reuters",
+  "title": "Kremlin says Putin in phone call with Trump downplays immediate Ukraine talks resumption",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa1VpS1UxU2RzcFdfQkpkUXdBQkd5cTZPdTRrU3hTSzFhOHpaN25PcHJjblJGdGQxSlBSNjZ2S0tnSlhUYmRLZmtubDJ4NU5WYXJxRHBSdy1kSHBpdGktVFpZcGVTNTJPZHlvREE1QnVuXzE5SXR1Y19KLWdmdTlKMWIwRjBGQzFFbGVUTmw3TUNaY0FjWHRCSjdWSk1kT3NHVlJGSlY3MVR6d0REZlVjdmhpX3JPOFgwZVF0UlYtb3c?oc=5",
+  "published_at": "2026-10-09T22:04:42+00:00",
+  "sent_at": "2026-10-09T23:40:45.961231+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

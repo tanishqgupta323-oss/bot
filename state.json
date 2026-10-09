@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-09T22:40:42.669083+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 214,
+    "count": 215,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -729,12 +729,35 @@
         "pulling",
         "sources"
       ]
+    },
+    {
+      "at": "2026-10-09T23:40:45.392502+00:00",
+      "w": [
+        "call",
+        "downplays",
+        "immediate",
+        "kremlin",
+        "phone",
+        "putin",
+        "resumption",
+        "talks",
+        "trump",
+        "ukraine"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "31814f72d5c52dca167ea9ab030a6dce2fc405a3f3955a87374a6e56f5399b90",
+    "45f17983ac46dcab84ff5b0f602044e34a9ef91e9346a3ef8a747e0a8a02c257",
+    "1e398892e5320039cec6eb2d77e54e7e97dc9b3d4a2aa12cde9c878547f789a8",
+    "090a7e4874741bd15f22cdc6d14a5e22e8b9cb786872022ecfad87ce7a73e6cd",
+    "7329b73c448b6ecb09caae3444ca8095aaf1791f3f5a4218154a8ca52aba81a0",
+    "93ff0a5cfa56a8a11a8a43a2b8f6c18165ec5f2572d7a78dcfe6743d6f137250",
+    "28099386ad6d37db92c0bb67958fe3e767c813726a7a7666ec6a3b7cb612ca74",
+    "25e7e7f8ba21b4b66f215a7e70ba4e5ac4d90bd839afa4edb6a3f0f18dee8d20",
     "498eef91121bf7dc38601ba44de166f900664bb9093bdffdd2e83250f848af54",
     "6dff3f3684d4cafb8fccc6cf8a6e75402cef76a508beef55118b10f3b554874a",
     "e8e979e0b207eb6cfbed6aa7c18917ab71811fb7f8044cd23acb5ae9f6c4c259",
@@ -1726,15 +1749,7 @@
     "b06b3a18e75521c2688568ae05f527a4a9cb3ede2353a4c048434c4a436eb858",
     "6dc51354ac3b4be3cc17ba1232f172256c2562740ef0cb3d21cc087aa21df9b3",
     "d3ee0f3933976410f88ab1fccd1cb249a046162fc71a057a82e18b37a546409e",
-    "e7469e22232d33045bb883249a15dd60a1ce97b5d31a18f2af5be22a5120303d",
-    "be9193111ae7218b6fcebae415d144ce2b40e904fa8f09b26d890de94eecc0e2",
-    "6e4d6024956f237d6800f63eb2ad066b587b5faa09faf009a61bfa6cf06c066d",
-    "0d1e036a10556f8a1ff5104964f3ba7b36f94e43f6efc72cacddc1a369c36214",
-    "16eb3a43663e4d0ec916be51fe3fc71e52ea2050ef67e144cf9f7ff74e017c92",
-    "f0fdfb7802d17cb89d7e37d336cda2adff18741a07a420e4707ffa385c3f199d",
-    "2df7f851bea4515e39765c7d1684e3bfa7c94b789defceaca583f133a46badb0",
-    "bb8a923525ee19a26f2dfd5b0ab91d51c3b182caabe1a5022d579003e4c726d4",
-    "b45283fbc4d36a80abf2a47f6ddeccb98a1fc98021683b555f391a5fe706eafd"
+    "e7469e22232d33045bb883249a15dd60a1ce97b5d31a18f2af5be22a5120303d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
