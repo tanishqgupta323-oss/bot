@@ -503,14 +503,23 @@
       "title": "FOMC Member Collins Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-09T10:25:37.357057+00:00",
+  "calendar_fetched_at": "2026-10-09T13:31:05.734227+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 81,
+    "count": 82,
     "day": "2026-10-09"
   },
   "resolved_events": [],
   "seen_headlines": [
+    "b11e6d059b986d565f25c5ccb53c628fe043acee66ac6783725765f20e3d8608",
+    "ccaaf0be53c40df8852a65cc443ef89c5356182b14270d85c8ac7c015b449778",
+    "d227dcf1a2108cd648be3653944256ad403a4e8c49bbad09bf957b9128c5bfd3",
+    "ab661e0e6d368fd12eed9443387257915a17b31c7fbd6740d82eb88e6d1785e1",
+    "28cfe5c927f4eb08319fbaa7f69329beaaea87eb32a124aee355188766a80462",
+    "ef6f47078dec8934dc15fc8b590ab2c47197e34155c747ec61a5ed5206325ad7",
+    "01fccbeb1900ef2c5fed88bc1c2d388ab9a016bfcea349d9d1f648157f07fbdf",
+    "b87abb3796186ffa173c4a4207a9a0b63a342efa15ccbab1e1f0289f2382a947",
+    "bce493413542b0eafc80aec504ae0cf5365d21d21147fcfe3789273cebd7111e",
     "4af1b22cd0df2206f7c922060bd5f1e701be1503465cc2e32df917851abacff1",
     "4aa37cb613e85ec2c6b005f68e19c58ecb28f42033d75bcfc3f38380f0a27157",
     "3642ec1f7b9a1dfe1d27bd854939d84942648b2ea8fed9414a89fdfb548b8560",

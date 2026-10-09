@@ -26,5 +26,19 @@
   "xauusd": "NEUTRAL",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "EUR/USD outlook as euro stays pinned near multi month lows",
+  "link": "https://www.investing.com/news/forex-news/eurusd-outlook-as-euro-stays-pinned-near-multi-month-lows-93CH-4941222",
+  "published_at": null,
+  "sent_at": "2026-10-09T13:31:33.557226+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "NEUTRAL",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
