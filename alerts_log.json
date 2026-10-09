@@ -418,5 +418,19 @@
   "xauusd": "NEUTRAL",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The New York Times",
+  "title": "Trump Administration Hits International Criminal Court With Severe Sanctions - The New York Times",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHBFOGx1NzFvVkdzQWlHbm5vTGFlNFNBSm5fWWVPWC1EYXNoVmgtd2ZXSWJnaFZtSjhvRU5pd1YtMUVUV1FMYllka1hZQm5pck04N2pza0hZRU5NZXZtSEVnQWFGemMzWk00WlJaeVlDajNmQk0zNUg0RlhGYVBRX0dlYzBVS0w5aEJXLVdSMVdjZUxQalpnemtrRlg?oc=5",
+  "published_at": "2026-10-09T15:23:16+00:00",
+  "sent_at": "2026-10-09T15:40:50.949134+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
