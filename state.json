@@ -11,7 +11,7 @@
     "2e0400f14d953238ecf30641": 8,
     "319c9ec527b0cfd7390b20ec": 8,
     "3211a3665e2674bff16c3962": 8,
-    "394d397f22cc110cfdef40ee": 6,
+    "394d397f22cc110cfdef40ee": 7,
     "3de4fabe54ad9154f77135c0": 8,
     "5900804b607f5de476bf8b03": 8,
     "5cdd527473d22f2de52948d0": 8,
@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-09T19:35:32.590329+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 175,
+    "count": 177,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -580,12 +580,27 @@
         "themselves",
         "under"
       ]
+    },
+    {
+      "at": "2026-10-09T20:35:40.018438+00:00",
+      "w": [
+        "bargain",
+        "gain",
+        "gold",
+        "heads",
+        "high",
+        "hits",
+        "hunting",
+        "week",
+        "weekly"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "604f9f3cb29354001bea77c4bd305f0610f564d7ba578120d85bb8f3718b4890",
     "bd014887550ccfd5b2209535341dc5eb8585758c474d058e3c7de1543d8b5130",
     "0614798143512aa8ec679bdb216cf8ef0d9f1052db2d9ffa5246c7c80376e993",
     "4a5338bf0bd8949d2bf2f2f5ee781a114d0a19037e62015b89ffa325f42983ff",
@@ -1584,8 +1599,7 @@
     "7e9a0dd19137d2802e617951fbdfb659c30b8077ae7ca4dc2952885f4b820f07",
     "a0b50c9e0b3f9f9dcaa54387aac019786fc5f56aed07affa6af23a76a8549f99",
     "a63d02fb08ff777fe3d8c29d12d815bd7499f29c7f8320ee09329b6860cb2400",
-    "958faaff9becf985dc8f7c7fcee0d76cb1f4be0697864ee4f2c4d97ec4d8223b",
-    "e1c3f6f10f0f3a177d33dc149131df9aa7be2882f59b00c61fb73b66b9b9726e"
+    "958faaff9becf985dc8f7c7fcee0d76cb1f4be0697864ee4f2c4d97ec4d8223b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
