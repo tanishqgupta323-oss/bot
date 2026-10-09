@@ -334,5 +334,19 @@
   "xauusd": "NEUTRAL",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Orange County Register",
+  "title": "Trump establishes committee to investigate Federal Reserve’s Lisa Cook in latest effort to fire her - Orange County Register",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83aWJRQmNKR3B2eEVvYjFuN0s2VTlDU3M1TXlyeHZxNElkTk5kZWNod0dMNHhBYlp4S2F1NEVLZFAwMnFPNFZPcUpqZGdueVBMYkJQX21sdzZSQ0NETjFZSEVfQ1lKSTNBa3RzcFQ1bExCc1RSMEo4?oc=5",
+  "published_at": "2026-10-09T14:32:20+00:00",
+  "sent_at": "2026-10-09T15:05:41.681376+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
