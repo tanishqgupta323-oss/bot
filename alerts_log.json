@@ -292,5 +292,47 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The New York Times",
+  "title": "Trump Announces White House Inquiry Into Fed Governor Cook - The New York Times",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00c05fZUF5M2NfeElKZDZPSWkxcHJpM21Qd29XV0xyZU1JNDItU1F6WjJ4czJ5ay11ZW5nY1dZTUU3SE5CS210bWNtSnR5VXVSdXdZMW95TTk3dTRrV29WN0ZwMkpMVXV5VTlCdVFwS0FhZFR2dHBz?oc=5",
+  "published_at": "2026-10-09T14:34:04+00:00",
+  "sent_at": "2026-10-09T15:01:37.900193+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Iran International",
+  "title": "Iran turns on Pakistan as Saudi defense pact takes effect - Iran International",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oalJQczFBRWlQdlJsT2FlYkRLbGdiQ1RSbmxqZmo2UktJeF80QWJja05sdGNVZ3NoUWp1NHIzSkdSbHNVYnZYbzVjVUhfNWtjUkE?oc=5",
+  "published_at": "2026-10-09T14:23:14+00:00",
+  "sent_at": "2026-10-09T15:01:38.205403+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "China, EU strike deal to cut Chinese hybrid vehicle exports by over half",
+  "link": "https://www.investing.com/news/economic-indicators/china-eu-strike-deal-to-cut-chinese-hybrid-vehicle-exports-by-over-half-4941416",
+  "published_at": null,
+  "sent_at": "2026-10-09T15:01:38.507459+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BULLISH",
+  "xauusd": "NEUTRAL",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
