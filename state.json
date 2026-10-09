@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-09T19:35:32.590329+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 200,
+    "count": 201,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -645,12 +645,42 @@
         "trump",
         "won"
       ]
+    },
+    {
+      "at": "2026-10-09T22:31:03.787178+00:00",
+      "w": [
+        "accuses",
+        "deal",
+        "end",
+        "oil",
+        "smokescreen",
+        "talks",
+        "trump",
+        "ukraine",
+        "war",
+        "zelenskyy"
+      ]
+    },
+    {
+      "at": "2026-10-09T22:31:03.787178+00:00",
+      "w": [
+        "ahead",
+        "donald",
+        "iran",
+        "midterms",
+        "reverses",
+        "stance",
+        "strikes",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "9b506f9e7a7b4e55cfb1fe20d908d0d4543be922d466d0b45ad1f720ef8c200f",
+    "440a00b751c14beede3faf06bea404114131585e934630e64fff77de83be666a",
     "fd6a223e16fde5d75e934786fb6875528a7ab75767c7858402df6a5d5bd986e0",
     "b1d6fc4a373b80a4d5371ec91b342f9c2a201ef63161642f6a7208a9b157b972",
     "517f81209d0f182d85d3d7d5059c652e9823fd2a74a46869c540b590928372df",
@@ -1648,9 +1678,7 @@
     "82b887e871705c69adc9c146307ac830025a9d81767227921b3a0efae614a919",
     "8b361fefe6286a98a5c9d193aea7da1b8c5c7d69cce3a01c091a7186fa7b11e5",
     "093cd388aa4eeebb516e9bbaec5a419580908a58aa4e5cace15c14f9b855712a",
-    "11ea8716dc7bdec922b0556215735a696eafdddf4e9f2a514aa9223be709d398",
-    "277d21fe6b971afb7fd19faf0f59aee17c561fb481d448d535383d63a8c85c8e",
-    "9bb23107b55737b64953f980e31539d5ff0779abf97346d1275e1d6be00bc866"
+    "11ea8716dc7bdec922b0556215735a696eafdddf4e9f2a514aa9223be709d398"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -1516,6 +1516,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0074
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0406
    }
   }
  },
@@ -1531,7 +1536,13 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BEARISH",
   "btcusd": "NEUTRAL",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0647
+   }
+  }
  },
  {
   "kind": "live_news",
@@ -1545,6 +1556,40 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BEARISH",
   "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0647
+   }
+  }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Politico",
+  "title": "Zelenskyy accuses Trump of ‘smokescreen’ oil deal amid talks to end Ukraine war",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGJLMDNhQUZreGMxSjN2a1pqVmdwd0tsY2d4eXZ0a2U5SUZsWUd3Q25BS3JGRDJ5TkFfcFRNZjR3ZHY1SzBqcnJ5RWdRNTNUbWZBM0hkTEg3NkMzcEVxdWV4NFRYOWJrMWVic2pOY0lYVC1KSDBLN2puNnpIOFBESlZ4MWZiWnpGZDRKOXoyOA?oc=5",
+  "published_at": "2026-10-09T22:10:00+00:00",
+  "sent_at": "2026-10-09T22:31:04.317838+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Jerusalem Post",
+  "title": "Donald Trump reverses stance on Iran strikes ahead of US midterms",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDZmVfaUtfeE93YV9iUkVNZG1zcTFXWXpncG91YzZQX2NwWVV6R2tKU3NfeEE5Z0lFeGZHdHdLWHJwN3VqVENnX1NWTS14Z19QSHhicDhtbVdJZGhxRElJ?oc=5",
+  "published_at": "2026-10-09T22:03:00+00:00",
+  "sent_at": "2026-10-09T22:31:04.598876+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]
