@@ -40,5 +40,19 @@
   "xauusd": "NEUTRAL",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Bitcoin sellers had their shot. They missed.",
+  "link": "https://investinglive.com/cryptocurrency/bitcoin-sellers-had-their-shot-they-missed/",
+  "published_at": "2026-10-09T13:35:32+00:00",
+  "sent_at": "2026-10-09T13:40:51.328356+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
