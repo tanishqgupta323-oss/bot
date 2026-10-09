@@ -236,5 +236,33 @@
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Axios",
+  "title": "Trump orders new investigation of Fed's Lisa Cook - Axios",
+  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaTFduakwwLUdRVWF1SzQ0YTdjX3NTWHFFVEdPeTA1VEkzaVpQclBtLTBMcTFnbFpmVFN4Z0w2N2U0X3pFVzJJZE56LVdGZUhkZndzSFpESXdFc1IwZjM4R3ln?oc=5",
+  "published_at": "2026-10-09T14:34:35+00:00",
+  "sent_at": "2026-10-09T14:35:50.863907+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Jerusalem Post",
+  "title": "Command decisions: CENTCOM chief Brad Cooper's ups and downs in shaping Trump's war on Iran - The Jerusalem Post",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NTlpBZEVNN295eFVxc21MZ3UyMFc1NUVaUEhpX0p0MjBMUlJUblJ6Yk41VVFTMVNrak9VbXB6cVVUV2lKdVM0WHBBRW1uR0pXWXU2X3JfcmpmZ2hqU0ZyU09NV2d5ZEEwYmc?oc=5",
+  "published_at": "2026-10-09T11:47:46+00:00",
+  "sent_at": "2026-10-09T14:35:51.196241+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
