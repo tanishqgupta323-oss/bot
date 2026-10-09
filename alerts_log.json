@@ -432,5 +432,19 @@
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Guardian",
+  "title": "Trump establishes committee to investigate Fed governor Lisa Cook - The Guardian",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSWxUYmFvYllNNUhmZXdXYWVFWTBuMU84ZjVCU1duc2RkMWl5VVI1eWxZdHYySHRWY3VrWm9wNFdSUjlTdFdFLXdGbldpSUtuSTRKZW5tejJZNWtPWDM1TFNkUkhoeFBiNDBhZ3Eza2xXeWpVQ2R6dTRnaUNVbHFDMVhsZ2VqVG1DbTVyemNNeDNydjg?oc=5",
+  "published_at": "2026-10-09T15:39:00+00:00",
+  "sent_at": "2026-10-09T16:01:30.447016+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
