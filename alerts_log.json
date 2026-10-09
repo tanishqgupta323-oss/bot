@@ -726,5 +726,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al-Monitor",
+  "title": "Deal or war? Israel fears fallout from Trump’s next move on Iran - Al-Monitor",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2lEZlpJRS00WFMzOG5JQ3pzNTkzWi0yM00tRV9iVVRuSThCYXBNeElCMkp1U3FBV3hLYzRqdlBFY21hbWhSWWdtU0lJUmsyenlaWlcxZkhFQnU1VGZBQnl6UHBiT0Y2NGl6cWVDR2RhbHE0dVAydUhRdExFRlo1WHJPM0lNbGViVWJJak5mLUstb3F0a0NvTkYtUTl2VExf?oc=5",
+  "published_at": "2026-10-09T18:26:10+00:00",
+  "sent_at": "2026-10-09T18:55:36.709199+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
