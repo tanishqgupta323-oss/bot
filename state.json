@@ -501,14 +501,15 @@
       "title": "FOMC Member Collins Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-09T04:25:31.991169+00:00",
+  "calendar_fetched_at": "2026-10-09T07:25:33.019908+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 4,
+    "count": 5,
     "day": "2026-10-09"
   },
   "resolved_events": [],
   "seen_headlines": [
+    "adf6b3b2a49be78a9c6ee64088b5cf6d62363829f1395f55df8f58f55e250660",
     "987d6a5f7fc5293fdbd5dbab8fda486bfef668f53f068295366b10a9a9e152da",
     "c7e97e34c1958c0301f2224bafbb49f6a2c5b016f75437d3231bfe0b03391613",
     "66d0fed6771c4b973fad9245c6564bd33c1256441bb74c63064e3987dbcdfc1b",
