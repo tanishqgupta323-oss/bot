@@ -138,5 +138,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "Gold: Short covering signals renewed bullish momentum - TD Securities",
+  "link": "https://www.fxstreet.com/news/gold-short-covering-signals-renewed-bullish-momentum-td-securities-202610091358",
+  "published_at": "2026-10-09T13:58:54+00:00",
+  "sent_at": "2026-10-09T14:10:53.419555+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
