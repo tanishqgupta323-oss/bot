@@ -1591,5 +1591,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
+  "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+  "published_at": "2026-10-08T21:22:58+00:00",
+  "sent_at": "2026-10-09T22:45:44.908250+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

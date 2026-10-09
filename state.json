@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-09T22:40:42.669083+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 203,
+    "count": 204,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -673,12 +673,30 @@
         "strikes",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-09T22:45:44.336719+00:00",
+      "w": [
+        "among",
+        "between",
+        "cantor",
+        "democrat",
+        "fitzgerald",
+        "investigators",
+        "probes",
+        "senate",
+        "tether",
+        "ties",
+        "top"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "11ea8716dc7bdec922b0556215735a696eafdddf4e9f2a514aa9223be709d398",
+    "bfe7f81ee445cf26a813c94e0ff181bc0e1e50054e97ffe0d87ae9fa12a9a001",
     "ca5df97304a1a863bb9822d94545c9d94c9f706d27f71cb37541ed356506175f",
     "901c7dd2993a7e7fc744b448ee7e617c62c457b9db47459dd1ac74bc38907482",
     "4a57f18d9c4b1e8689394451c018e080722af27d234950d0d93fe675f42fdcf4",
@@ -1676,9 +1694,7 @@
     "1902a19299380e2c9c8550fbca4578c22154cee1b501790708f972ff2bdaf13b",
     "c2013504da1825b5fd2eaa918b41a453782a6a607ff6bcb48147e496f8124e46",
     "ddc3371c4203920bf4ee27adba4aa8267cebf73a8169d5e90dea83198d437743",
-    "6147fae914093d87a40f67109632cdcacf2d70e572dc743556111c4d4d310e3c",
-    "90c67227a1ea5e14d0f9a3fccd5c043fedbe61ee6c005bcf3eac9f3c41bcd342",
-    "f1decfe32c7f313a04cb030cb6199f9a90a94ff30d71c8260ad4e0f4a39b7be4"
+    "6147fae914093d87a40f67109632cdcacf2d70e572dc743556111c4d4d310e3c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
