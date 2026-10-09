@@ -348,5 +348,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNN",
+  "title": "Trump launches new effort to oust Fed Governor Lisa Cook | CNN Business - CNN",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUy05RlZfRVJUaEZRdDliT0tDVHRxZUFmTGkwZkVBbmdQYXluQ1FsTmFTVFQ3dUFNM3JLemFMZTh0c2NBMS16dkxaY3V6OGtpb0hRcTRSc1NyY3JiZFQwTnBtZm9oTFE3anBvM0xMWVJtSktrckNmdzRxSlBSZWd5U19ENEN1TmVPQzR5RVpuanpDdHR6Y1ZQVkctQUQtSmc?oc=5",
+  "published_at": "2026-10-09T14:26:59+00:00",
+  "sent_at": "2026-10-09T15:20:50.212786+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "UNCLEAR",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
