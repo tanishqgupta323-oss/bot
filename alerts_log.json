@@ -586,5 +586,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Fox News",
+  "title": "Trump sets up committee to investigate Fed Governor Lisa Cook over mortgage fraud allegations - Fox News",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1FDZ2psWENyMUJkeVVxTDVJNG9BclZ1RlVaQmhwbmRvRGFkd1VmWFp0dXdjQU1obHpQZ3pnLVBzbTBMQ1lYa09CNFh6aTFkZ0lFX19uSlBjenlaQmxpNlIyS1NBUnpoV2Z0Tngtbmh4aE84eTQ5Snd0U0IwZ2QtazlOX3p6Z096SHFGVUZLNnF2NUlPUlRTOHhRV05oRTlzdk0xWUdISVVGWGZDdHRLdFVIS0l3NTh6N3fSAb8BQVVfeXFMUDZzM3NiLTBUUWhXSmd0U0I5SnNoMVhYZERTWEpLMDdmMDRER3JnZ05yZEZRanpaQmM2M3JQTkdkOUh3aFJBVy1kZXgwY1JDNmp1RjZ2cUNLRUtOWnhIaUZLcnZCV0JYLTdJNEJwQ1dDdTk5MklSa1dlb3dfZ3QxMTJxaE9qSWhSd3c2QVB0X25kZXNpbWxydnViVlRmalljYUFBbTBkSlBHdGRKWUVLWHR2WEFZMHhCR01iaFZMTkU?oc=5",
+  "published_at": "2026-10-09T16:44:24+00:00",
+  "sent_at": "2026-10-09T17:20:46.240589+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
