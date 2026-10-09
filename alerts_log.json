@@ -572,5 +572,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNBC",
+  "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuaUVGUmpxb2xIeHlHdzRhS2tXcUp6cWtoU2Q0YU5GNFdWamNoaXc1cUhVeTE5aDVzZmdJUGRlUkMzamUwTngxa2NSYUNZWHZSTFd4WEhyeVpHTkpjWjUzT2t1Wk1RVEnSAWxBVV95cUxPR2x1SFlzaVVlOS1SUld3eVBMMDAzUzRnU2x0WE5YcWMwTE03SXdIU0hLRGZoaVNkMGw4TEpjMlhidUJCY0YxRjhvWnE0azZfNEdMc2tPMEh5Q21NREZzdTdfVjNDQ25UUFhMRlU?oc=5",
+  "published_at": "2026-10-09T14:04:54+00:00",
+  "sent_at": "2026-10-09T17:15:46.401689+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
