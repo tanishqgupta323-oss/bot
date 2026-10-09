@@ -516,5 +516,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CBC",
+  "title": "Trump administration hits International Criminal Court with sweeping sanctions - CBC",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrOVRFcXkyQjZZYXZKUkxFRWEwZHY1NUNHSksxZ0pBV1gzb0MtaHFoZHdwZk43bHBmS2Y5TU93cVNBSmZUMUs1VzVvTDJkU19BWDhESk5OTUhTYjBKNTNKajJ4dHVUcFYzSU13?oc=5",
+  "published_at": "2026-10-09T16:01:36+00:00",
+  "sent_at": "2026-10-09T16:55:40.991033+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
