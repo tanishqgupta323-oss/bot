@@ -506,11 +506,14 @@
   "calendar_fetched_at": "2026-10-09T10:25:37.357057+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 59,
+    "count": 60,
     "day": "2026-10-09"
   },
   "resolved_events": [],
   "seen_headlines": [
+    "b8b3b864ab953662d2c2beb345e191657e1b44bcc54f90482eeb25fb586b7181",
+    "c4369ba711fa8dc031b539e483b4d980e1af8322d9b508fc025c0bffbb08ee2a",
+    "00b74a0da5e769abaaad1047d5d3f06147221c6784949b90bb0357d018f28ab8",
     "cd726685a10e383ce523171f916e244f0d79399d4f92b653fb87fd209e10c850",
     "314c6cdfd973c0d6fcf1be2ca835499fdf9961bb24ab71d670579d00dc48fa31",
     "bb429826fce531a8c26046ebf8477ace47552c3522d17ce5fa464ad45e7a7d34",
