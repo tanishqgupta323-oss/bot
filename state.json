@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-09T22:40:42.669083+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 206,
+    "count": 207,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -689,12 +689,28 @@
         "ties",
         "top"
       ]
+    },
+    {
+      "at": "2026-10-09T23:01:20.528689+00:00",
+      "w": [
+        "anniversary",
+        "crash",
+        "crumbles",
+        "crypto",
+        "flash",
+        "nears"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "441d12e1f512bf27700c63f4dcf4cfddf6610cd7644043ef83223b17bfdf595f",
+    "c2013504da1825b5fd2eaa918b41a453782a6a607ff6bcb48147e496f8124e46",
+    "f428d622b7874cc4a9354d83cb5421080ae4f5d48570d9f186fd4bb0b23f2257",
+    "20b6e197bae12e835dce8b6bc7c936f99696f38441693015661f0c61e938e6b8",
+    "960a9acfe774256f9824af740b18402fcbe1035675f6a0a2de73461d67ef2e0b",
     "757cbfb76153471bd0a69666b3bb200a11ed6b0ffe88b23b493e22617c686a1e",
     "5b22a64ac4ee9126f1b1f9d7f7409d6ba1723aa67510acff29ca3d2a2868ccd3",
     "ddc3371c4203920bf4ee27adba4aa8267cebf73a8169d5e90dea83198d437743",
@@ -1689,12 +1705,7 @@
     "fc2f687d675f4eadd8d8e65155a2d6f33235356d51046fb1db205ed123815604",
     "fa1be9900594af7d7e4e8a8fc3dfb67cce3ed359cb166e9fbda759f62cbf7ab1",
     "64d84e1761f4521cbb28fb3319da67e4ec22f30d671bc62d4cfd90d98eb47e2b",
-    "11999d56c8e683db365c480a52085e209911373d35c4a73fd2adcf7aa658497e",
-    "4fa61dd8d20775c8260444c264790e15b2622d9e2b6bc08cc5529df21af5b2f4",
-    "896b4d627872d9f7dd041eee0fdecd769d6cac209be7f4bc31e359d59a0c4ea8",
-    "bda50817e4f63378a81c7adf86d8f566595f88f6c336e8d1715c4389eab3bd08",
-    "69c2daa06dea98261f1c60199e963f1210bb8384193d38d8e30f1aff2d73263f",
-    "893239deb953cf5458d8bf76118f1140efe0405d90ace5214f8a3f5ee5ac2767"
+    "11999d56c8e683db365c480a52085e209911373d35c4a73fd2adcf7aa658497e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
