@@ -37,7 +37,7 @@
     "dc60f37d305e72d38fe83cd9": 8,
     "dcb688efa8a47feb4ea54821": 8,
     "f15f694a11e16bb296039927": 8,
-    "f8859ff217d65448d57444d9": 5
+    "f8859ff217d65448d57444d9": 6
   },
   "calendar": [
     {
@@ -506,7 +506,7 @@
   "calendar_fetched_at": "2026-10-09T07:25:33.019908+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 41,
+    "count": 42,
     "day": "2026-10-09"
   },
   "resolved_events": [],
