@@ -558,5 +558,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "British Pound holds ground as US Consumer Sentiment deteriorates",
+  "link": "https://www.fxstreet.com/news/british-pound-holds-its-ground-as-us-consumer-sentiment-deteriorates-202610091612",
+  "published_at": "2026-10-09T16:12:56+00:00",
+  "sent_at": "2026-10-09T17:10:57.077932+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
