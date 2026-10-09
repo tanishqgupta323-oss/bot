@@ -33,6 +33,7 @@ except ImportError:
 # ----- quick switch: True = har run par Telegram + Gemini connection test (asli kaam nahi) -----
 FORCE_TEST_MODE = False
 GEMINI_DAILY_CAP = 350   # max Gemini calls per quota day (free limit is 500)
+ALERTS_LOG_FILE = Path(os.getenv("ALERTS_LOG_FILE", "alerts_log.json"))
 
 UTC = timezone.utc
 IST = timezone(timedelta(hours=5, minutes=30))
@@ -172,6 +173,21 @@ def quota_day(now: datetime) -> str:
         return now.astimezone(ZoneInfo("America/Los_Angeles")).strftime("%Y-%m-%d")
     except Exception:
         return now.astimezone(timezone(timedelta(hours=-8))).strftime("%Y-%m-%d")
+
+def log_alert(record: dict[str, Any]) -> None:
+       """Append one sent-alert record for later accuracy tracking. Never raises."""
+       try:
+           rows: list[dict[str, Any]] = []
+           if ALERTS_LOG_FILE.exists():
+               loaded = json.loads(ALERTS_LOG_FILE.read_text(encoding="utf-8"))
+               if isinstance(loaded, list):
+                   rows = loaded
+           rows.append(record)
+           ALERTS_LOG_FILE.write_text(
+               json.dumps(rows[-2000:], ensure_ascii=False, indent=1), encoding="utf-8"
+           )
+       except (OSError, ValueError) as exc:
+           LOG.warning("Could not write alerts log (%s)", type(exc).__name__)
 
 
 def parse_datetime(value: Any) -> datetime | None:
@@ -880,6 +896,23 @@ class TradingNewsBot:
                 continue
             if self.telegram.send(live_news_message(headline, item)):
                 sent_count += 1
+                publisher = headline.source
+                if headline.source == "news.google.com" and " - " in headline.title:
+                    publisher = headline.title.rsplit(" - ", 1)[-1].strip()
+                log_alert({
+                    "kind": "live_news",
+                    "source": headline.source,
+                    "publisher": publisher,
+                    "title": headline.title[:200],
+                    "link": headline.link,
+                    "published_at": headline.published_at.isoformat() if headline.published_at else None,
+                    "sent_at": utc_now().isoformat(),
+                    "impact": normalized_impact(item.get("impact")),
+                    "eurusd": normalized_bias(item.get("eurusd")),
+                    "xauusd": normalized_bias(item.get("xauusd")),
+                    "btcusd": normalized_bias(item.get("btcusd")),
+                    "checks": {},
+                })
         LOG.info("Live news: %d new headlines reviewed, %d alerts sent", len(new_items), sent_count)
 
     def run(self) -> int:
