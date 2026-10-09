@@ -1488,5 +1488,19 @@
     "BTCUSD": 0.0298
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WSJ",
+  "title": "U.S. Stocks Rise as Iran Escalation Fears Subside",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUEk1S05kM2xybmFka25kR0pBbkNJeE8zUXJXSkt6eFJocUU3eUg2a1BjcGE4RnI2WEc2ZmFvQjNmTjlNc1BTeFNMZE90RnRjazNfQVdhU1I4ZTRFLTNwdUdnUDJxdEc5OVdxdGFnM3VReTgtY2NYLVByZ01GRkpuR3B1QW9lOHIyUVZqeDV4dW82LWRtT0Jj?oc=5",
+  "published_at": "2026-10-09T20:31:00+00:00",
+  "sent_at": "2026-10-09T21:25:35.758994+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
