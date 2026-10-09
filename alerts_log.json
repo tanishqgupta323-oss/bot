@@ -12,5 +12,19 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "China, EU reach \"understanding\" on hybrid vehicle trade after marathon talks",
+  "link": "https://www.investing.com/news/economy-news/china-eu-reach-understanding-on-hybrid-vehicle-trade-after-marathon-talks-4941158",
+  "published_at": null,
+  "sent_at": "2026-10-09T13:05:38.752478+00:00",
+  "impact": "LOW",
+  "eurusd": "BULLISH",
+  "xauusd": "NEUTRAL",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
