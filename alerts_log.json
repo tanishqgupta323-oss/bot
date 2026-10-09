@@ -1346,7 +1346,13 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BEARISH",
   "btcusd": "NEUTRAL",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": -0.0112,
+    "XAUUSD": -0.0403,
+    "BTCUSD": -0.0756
+   }
+  }
  },
  {
   "kind": "live_news",
@@ -1357,6 +1363,20 @@
   "published_at": "2026-10-09T17:59:50+00:00",
   "sent_at": "2026-10-09T19:25:34.532217+00:00",
   "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Fed’s Musalem says more rate hikes needed to reach 2% target",
+  "link": "https://www.investing.com/news/economy-news/feds-musalem-says-more-rate-hikes-needed-to-reach-2-target-93CH-4941624",
+  "published_at": null,
+  "sent_at": "2026-10-09T19:40:46.215220+00:00",
+  "impact": "HIGH",
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
