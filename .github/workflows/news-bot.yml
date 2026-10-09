@@ -29,6 +29,10 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
+      - name: Track price moves
+        continue-on-error: true
+        run: python tracker.py
+
       - name: Save state
         run: |
           git config user.name "news-bot"
