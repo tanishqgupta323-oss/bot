@@ -82,5 +82,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNBC",
+  "title": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuVEF1amtTYUJibUtHWFNSTDQ0OS1FVmJRaHJFVno4bl9HZ2FpQzZmd2R6R0k5YldsY1lEQzlWRDFCb296ZjdBcmJGdzlRQ2dkV1k5a0NPNFU3WEFMOUMtaGJta1prUTdmV2NGWFU0NFlYLWlBc3fSAXtBVV95cUxPY3ppLXJOekstSmt4ajJLWVE2alNHXzhuUjZWTm9NSGdaay1mNVpqYUhoMEJUTmZCeUUtdVlMQ0RWUmx6OG12Y1AtR2ticWJycWxVUWYzRGpldC1TT1gwYk93YVhTTVJqQm1fMFBtYlU2Q3Q5QjdEY082TGM?oc=5",
+  "published_at": "2026-10-09T10:37:42+00:00",
+  "sent_at": "2026-10-09T13:55:39.516666+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
