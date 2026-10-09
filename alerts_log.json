@@ -1191,6 +1191,11 @@
     "EURUSD": -0.0224,
     "XAUUSD": -0.0379,
     "BTCUSD": -0.1529
+   },
+   "60": {
+    "EURUSD": 0.0224,
+    "XAUUSD": 0.0805,
+    "BTCUSD": -0.1265
    }
   }
  },
@@ -1306,6 +1311,20 @@
   "eurusd": "BULLISH",
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Financial Times",
+  "title": "Trump agrees deal with Putin for Russia to release diesel on to global market",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEpfQUt4N0dsSkdPd0R3NnBQYnpPY01HdDBXbDU3MkRhVnF4RElJZldwd1NmTFdGSzQwSm4wbWRRZ2dOVUI1VmdVQ2QzWVUycjk4Y1dGU01mbGp0WTlSMXVRZm96blV6R040cUhmcUZoMHdMZGJfY1RuMkEzQk41bmRuNnE?oc=5",
+  "published_at": "2026-10-09T19:01:24+00:00",
+  "sent_at": "2026-10-09T19:20:46.625488+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "NEUTRAL",
   "checks": {}
  }
 ]

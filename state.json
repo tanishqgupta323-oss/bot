@@ -507,7 +507,7 @@
   "calendar_fetched_at": "2026-10-09T16:31:06.298872+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 154,
+    "count": 155,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -523,12 +523,27 @@
         "lisa",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-09T19:20:46.039868+00:00",
+      "w": [
+        "agrees",
+        "deal",
+        "diesel",
+        "global",
+        "market",
+        "putin",
+        "release",
+        "russia",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "c3e539dbb1c424965c7ccc02284261e0b43479111bdddc40c3d09d9c6dbd3fa5",
     "b16b1331bfc49b176234f91c7fe719c6d0e4457d6ec607e78a1dc633eb845298",
     "85473e71d2811e365df29d0981086419fde2099b2db22df222faf78463bbde6b",
     "b10b67cd15e0843ab48e8bc1a95fbf5e485379d4684fa2224cb5cf3d16897e63",
@@ -1527,8 +1542,7 @@
     "3236cdbe987fe650f6ef0d4963f2630d424ca0dbd8d7aedd43877434259b6642",
     "4ededfddee4bb4d36d8ea4e3874eda56eb3aa1452b5653ee905d0c69fcbecdeb",
     "32dfb6cf0210526c6577a1ee375e7380b868607d4ad9bc0b9be2feb32db50a7b",
-    "3b168a94c94bc30743c4e7e6ce345e3dc74e7c6480601b96e305f39206813efb",
-    "e15fa9207c639b9b3637140d2934ccc0213d25bfab2d392313c45953af395638"
+    "3b168a94c94bc30743c4e7e6ce345e3dc74e7c6480601b96e305f39206813efb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
