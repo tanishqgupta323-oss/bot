@@ -740,5 +740,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "SCOTUSblog",
+  "title": "Trump announces committee investigation of Fed Governor Lisa Cook",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSzEteVpBaXpTZ1dVcFFoejBFNDh6d1I2b0t1RzZWRTgtUTBJaGFfbWNEMS1xdEZYcUhuQkI2ZHFGSFJ6ZnFZMEVoODV3VllUQmp4Y3owMVhfcU1vR1JLN1F5Q1pvT1J2TlpoTGMzb0VUR0tpQzNnWVliUUhMM1AxM0U5UjNNb29ZaW5jZ01oZE1sQ3BFTFJQek4tZVNsYVlXVUpv?oc=5",
+  "published_at": "2026-10-09T19:04:43+00:00",
+  "sent_at": "2026-10-09T19:05:35.989396+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]

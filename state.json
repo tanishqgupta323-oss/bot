@@ -507,14 +507,30 @@
   "calendar_fetched_at": "2026-10-09T16:31:06.298872+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 151,
+    "count": 152,
     "day": "2026-10-09"
   },
-  "recent_stories": [],
+  "recent_stories": [
+    {
+      "at": "2026-10-09T19:05:35.442738+00:00",
+      "w": [
+        "announces",
+        "committee",
+        "cook",
+        "fed",
+        "governor",
+        "investigation",
+        "lisa",
+        "trump"
+      ]
+    }
+  ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "4e1b7bd4613402838fc27f2c0351973e6ff194cc8df9341a195b8efefbae51e2",
+    "5d3e4e9c9556d53ad6f3ae74a0f5752b232671c3c3e7bb996497c62406f4a181",
     "5f1d9acdbbc4cb104ef1a83377ef83971fa72523f39889e0b336258130724ac9",
     "a8a592b0b09c9391843efd4b7281f80bdd5e1822cb3e3a26fcf85450d3633047",
     "cc88e01ae52e848784eb3854ee59a7b4a907d87955cceeb1ef64f70f0d86f9bd",
@@ -1512,9 +1528,7 @@
     "c4c6bdd27fdf13d4911976a5f7df2ee09863b0013797e3e2a075fd0ed8b68fd6",
     "ade6d3c115763ce228d7fc99aa044976245bc588df12fc805deae96dd5864bb8",
     "ecff21625e2be187f08d4c0da564f958098a082724200f12fb932231aa692e02",
-    "2acda6afd8a731fe026a0628c8671f8d3a2f827c0dfdfa1976e0d97830dc991b",
-    "31101255ac6c3005bdd7004da6b6f5d7666de0ff9258d277bd89957fb8fed1ec",
-    "5f405058eede6e38f0662edb503b17b69699dcd2407211ab6748a68030c9687d"
+    "2acda6afd8a731fe026a0628c8671f8d3a2f827c0dfdfa1976e0d97830dc991b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
