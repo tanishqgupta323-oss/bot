@@ -507,7 +507,7 @@
   "calendar_fetched_at": "2026-10-09T16:31:06.298872+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 155,
+    "count": 156,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -537,12 +537,34 @@
         "russia",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-09T19:25:33.930600+00:00",
+      "w": [
+        "claims",
+        "donald",
+        "end",
+        "house",
+        "iran",
+        "soon",
+        "speech",
+        "trump",
+        "very",
+        "war",
+        "white"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "071c6adaa0b108c707bae61cbd5526894754c959fc5328aeec9e8d619cac9bc6",
+    "f18a6d3622db72b1266774f7e5ec9613fef73befcaa93f5d67495f02be19bc00",
+    "042accd5b440b1ae623f7688ed0cac7aea2f41748a7e6310e096356489d5d4d1",
+    "fa4c8fbd45a85790529160382eb64e690598e2f6182ae8d2dfba554932d5fd5c",
+    "83dd6455711a9801e2d886f56f149874b68a8d8637171bdf5798bb415464f1ac",
+    "10de7bcd15ab5205d59c0ff376c5313bf4b1ee27c017b5e365d23ca667bda9de",
     "c3e539dbb1c424965c7ccc02284261e0b43479111bdddc40c3d09d9c6dbd3fa5",
     "b16b1331bfc49b176234f91c7fe719c6d0e4457d6ec607e78a1dc633eb845298",
     "85473e71d2811e365df29d0981086419fde2099b2db22df222faf78463bbde6b",
@@ -1536,13 +1558,7 @@
     "ce20d9ae5a179babf6c7912983bc313450fb70b52aea9677b41402bba23228a1",
     "daa57cef5a73af98071b93c4c15cd595eb49c50221f548cba108129db1e03299",
     "451b831b2f92b2368a71a663c7d5f122e28a327cf488f5188c3621a565347025",
-    "79d8400bc0c7259f097c42520755dcb7f9ab76a8bbf41aab4ac9068f290744be",
-    "2967de498062c4bf629e8b3bcfc248549b43d4470918dab5ff876d1698ac33a4",
-    "7e7f1d84319c1507bb002d794ab5a1aa3e3f47fbb94d4f8a3f1635362e019589",
-    "3236cdbe987fe650f6ef0d4963f2630d424ca0dbd8d7aedd43877434259b6642",
-    "4ededfddee4bb4d36d8ea4e3874eda56eb3aa1452b5653ee905d0c69fcbecdeb",
-    "32dfb6cf0210526c6577a1ee375e7380b868607d4ad9bc0b9be2feb32db50a7b",
-    "3b168a94c94bc30743c4e7e6ce345e3dc74e7c6480601b96e305f39206813efb"
+    "79d8400bc0c7259f097c42520755dcb7f9ab76a8bbf41aab4ac9068f290744be"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

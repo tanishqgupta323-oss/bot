@@ -1311,7 +1311,13 @@
   "eurusd": "BULLISH",
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": -0.0224,
+    "XAUUSD": -0.0592,
+    "BTCUSD": -0.0418
+   }
+  }
  },
  {
   "kind": "live_news",
@@ -1325,6 +1331,20 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BEARISH",
   "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Jerusalem Post",
+  "title": "Donald Trump claims Iran war will 'end very soon' in White House speech",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16MUM0UzNXT3ItQVdfM283WS1aMm5kZVRmeW93SmdHa1Q4bkprc01YX2xKTWRuRGRMbEMtODRYMUhsaTRMRVFmb0RUQ2RpOW1NcGFMOVREOTVLcDZ5bWNMdFBteExpMVhJdmc?oc=5",
+  "published_at": "2026-10-09T17:59:50+00:00",
+  "sent_at": "2026-10-09T19:25:34.532217+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]
