@@ -1518,5 +1518,33 @@
     "BTCUSD": -0.0074
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Fox Business",
+  "title": "Trump says Russia has agreed to deliver millions in diesel fuel after 'highly successful discussion'",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmt2SzE3VkE4X0ZRNEQwT3pDQ3BRSkdpM0tScWlna0xNVDV3N3p4cjFMSWxhTzhYQTFKS3plc3pyaHVnLVE3QjhINlItemVwYVBjc3d5Y0JJUEhWaThZdV80cE83ZUFpUnRLWlc4eDktYWZIR2VLeERzbjhwa2l4NXRuRHgtUGlia3cyMnRaa2ItOGNEUkt4S1hZOHRpTVpJVjliSmY5aUJ1TUNMYlFNbGlKZTEwMUFVcGZj0gHAAUFVX3lxTE13N09CYVZwaG14TzFzSGJ4eVZfSGhKZWtnTDNlUXhJNlNXZC1NazRlZWp0OUtyUjRwcWdBeTAtWlAwUUUzaGZwa3kzbEJfX2RJNmNTR1JpZlQ0LUdUWjE2TkVDUTR4T29INlY5aUNYVkxtcDdPNUVHZGVFNks5S3dNUnhhMTNXMlBZVmZOcllIckQ2VDJCclliVU1PZ0k0NHlSeC04Ny1sT3JZalJzYWUzb3Q0OWpDa2ZudldfcmNWSQ?oc=5",
+  "published_at": "2026-10-09T21:08:00+00:00",
+  "sent_at": "2026-10-09T22:10:48.926134+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Axios",
+  "title": "Trump: U.S. won't attack Iran before midterms",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14RFBvYzVXa3RmREx2eGVTVVNwMDZCclJsZzZPVkxiR0lieFFwZDRncDFSNkxaUUk5UHFlRUUtSm1sWnJOM1VNQ2VSdFlGNkg1UFJTekJMN1JUVWw2aW0zZUVIRGx3RENQSHp5d21BQWtmX1FCaUVySg?oc=5",
+  "published_at": "2026-10-09T14:20:25+00:00",
+  "sent_at": "2026-10-09T22:10:49.231153+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

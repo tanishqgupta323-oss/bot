@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-09T19:35:32.590329+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 196,
+    "count": 197,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -619,12 +619,41 @@
         "stocks",
         "subside"
       ]
+    },
+    {
+      "at": "2026-10-09T22:10:48.336838+00:00",
+      "w": [
+        "agreed",
+        "deliver",
+        "diesel",
+        "discussion",
+        "fuel",
+        "highly",
+        "millions",
+        "russia",
+        "successful",
+        "trump"
+      ]
+    },
+    {
+      "at": "2026-10-09T22:10:48.336838+00:00",
+      "w": [
+        "attack",
+        "before",
+        "iran",
+        "midterms",
+        "trump",
+        "won"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "ab6305d0dfa1608017fdbe68633efe7ec221ae5782398ba9503b65d1ea2d600b",
+    "687c6ac2ba0954c24db0b399b26742a7146602644f2ffe8778713e1271d60583",
+    "117764c16c11a651cd9168736965f92a0055fe9d467234de0cbbe8791f9ad4aa",
     "a9779a443c6144d1ccfeead1b7f2b7ce075cbb104096633d954ec9688679bb50",
     "6454f04c821589bf862e42d3ef86009610b56bf973f5aa15045269ab4ff73113",
     "a694dc70707a8cf42a05cd0adb896743274316a41637b16410cd7b252299bf37",
@@ -1621,10 +1650,7 @@
     "cd505da5c82faa71bb4382a96f56ebe5cac66d725b5ab998121158c06d613105",
     "edb9322d6e21cba9c4dbb9b7dd7f3435482a8a88d548680f14faace69bcc2d0c",
     "6570bfb3d17fbba734e108b8261e686e77722de869a65051edea0fd35b9a2ad1",
-    "70170685c94665772d5b9f8f685b59895eb85d3023bd25afc2b64be1eb41572d",
-    "822758ac653d732f3231bbcd650bb62a16dd02eb06939b8654897870a3a603be",
-    "2f0e391fb8e6754887e6293cad8fd20e84be63eb056e87396668d8139189e72d",
-    "cfec7ca3a2570e07d4d405ecf7844b64d3e1528a924273a750cbb2449339510d"
+    "70170685c94665772d5b9f8f685b59895eb85d3023bd25afc2b64be1eb41572d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
