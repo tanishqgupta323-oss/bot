@@ -28,7 +28,7 @@
     "a3edb12ccffbca22e6472b61": 8,
     "ac41fb04d25825baf3395d74": 8,
     "b496be22a0e365b10534569b": 8,
-    "b5a5e936ee43d6e9d217d711": 1,
+    "b5a5e936ee43d6e9d217d711": 2,
     "ba437c2e98c85559357fccee": 8,
     "bd61feb4634c9cdc9f51e7c7": 8,
     "cddfa5200951cdaf67f0b6e7": 8,
@@ -505,11 +505,14 @@
   "calendar_fetched_at": "2026-10-09T07:25:33.019908+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 12,
+    "count": 14,
     "day": "2026-10-09"
   },
   "resolved_events": [],
   "seen_headlines": [
+    "d41bb26a6ba2d287eefafa73f8a5bc324fa53039eb39f5a2c093e576dcf81a48",
+    "f20e3da7a9c838d3de3112e8360dfda59b97d48e1f2fd7fee95e694708cfbbf9",
+    "6f67cac9c7a89a6118404d06d614d0fdc08eb05a6a9247fc86db89c84f621e36",
     "574df36a0890fbca84212cf654a12265226e3c6a6133990b17b5382244c430e7",
     "b55df7c4b9abf5f2a82bfb2d29915548d55f32366b5821b1beb1ac828661a7bb",
     "fc9e713fe47287bfaf2d3cae47d6c27b2b9e12263024d0b50219fee03a28a5e5",
