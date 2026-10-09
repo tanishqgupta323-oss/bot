@@ -32,6 +32,7 @@ except ImportError:
 
 # ----- quick switch: True = har run par Telegram + Gemini connection test (asli kaam nahi) -----
 FORCE_TEST_MODE = False
+GEMINI_DAILY_CAP = 350   # max Gemini calls per quota day (free limit is 500)
 
 UTC = timezone.utc
 IST = timezone(timedelta(hours=5, minutes=30))
@@ -117,7 +118,7 @@ class Config:
             telegram_chat_id=os.getenv("TELEGRAM_CHAT_ID", "").strip(),
             gemini_api_key=os.getenv("GEMINI_API_KEY", "").strip(),
             # Gemini model IDs change; use one available in your AI Studio project.
-            gemini_model=os.getenv("GEMINI_MODEL", "gemini-3.8-flash").strip(),
+            gemini_model=os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite").strip(),
             calendar_url=os.getenv("CALENDAR_URL", DEFAULT_CALENDAR_URL).strip(),
             rss_feeds=csv_values(os.getenv("RSS_FEEDS"), DEFAULT_FEEDS),
             state_file=Path(os.getenv("STATE_FILE", "state.json")),
@@ -163,6 +164,14 @@ class CalendarEvent:
 
 def utc_now() -> datetime:
     return datetime.now(UTC)
+
+def quota_day(now: datetime) -> str:
+    """Gemini free quotas reset at midnight Pacific time; use that day boundary."""
+    try:
+        from zoneinfo import ZoneInfo
+        return now.astimezone(ZoneInfo("America/Los_Angeles")).strftime("%Y-%m-%d")
+    except Exception:
+        return now.astimezone(timezone(timedelta(hours=-8))).strftime("%Y-%m-%d")
 
 
 def parse_datetime(value: Any) -> datetime | None:
@@ -249,6 +258,7 @@ class StateStore:
             "actual_attempts": {},
             "seen_headlines": [],
             "first_run_complete": False,
+            "gemini_usage": {"day": "", "count": 0},
         }
 
     def load(self) -> dict[str, Any]:
@@ -267,10 +277,29 @@ class StateStore:
                     state[key] = []
             if not isinstance(state.get("actual_attempts"), dict):
                 state["actual_attempts"] = {}
+            if not isinstance(state.get("gemini_usage"), dict):
+                state["gemini_usage"] = {"day": "", "count": 0}
             return state
         except (OSError, json.JSONDecodeError, ValueError) as exc:
             LOG.error("Could not read state file (%s); starting with empty state", type(exc).__name__)
             return self.empty()
+
+    def save(self, state: dict[str, Any]) -> None:
+        self.path.parent.mkdir(parents=True, exist_ok=True)
+        payload = json.dumps(state, ensure_ascii=False, indent=2, sort_keys=True)
+        fd, temp_name = tempfile.mkstemp(prefix=self.path.name + ".", suffix=".tmp", dir=str(self.path.parent))
+        try:
+            with os.fdopen(fd, "w", encoding="utf-8") as handle:
+                handle.write(payload)
+                handle.flush()
+                os.fsync(handle.fileno())
+            os.replace(temp_name, self.path)
+        finally:
+            try:
+                if os.path.exists(temp_name):
+                    os.unlink(temp_name)
+            except OSError:
+                pass
 
     def save(self, state: dict[str, Any]) -> None:
         self.path.parent.mkdir(parents=True, exist_ok=True)
@@ -372,10 +401,23 @@ class Gemini:
         self.client = client
         self.api_key = api_key
         self.model = model
+        self.usage: dict[str, Any] = {"day": "", "count": 0}
 
     @property
     def available(self) -> bool:
         return bool(self.api_key and self.model)
+
+    def _allow_call(self) -> bool:
+        """Count calls per quota day and stop before the free daily limit is exceeded."""
+        day = quota_day(utc_now())
+        if self.usage.get("day") != day:
+            self.usage["day"] = day
+            self.usage["count"] = 0
+        if int(self.usage.get("count", 0)) >= GEMINI_DAILY_CAP:
+            LOG.warning("Gemini daily cap (%d) reached; skipping AI calls until the quota resets", GEMINI_DAILY_CAP)
+            return False
+        self.usage["count"] = int(self.usage.get("count", 0)) + 1
+        return True
 
     @staticmethod
     def error_detail(response: requests.Response) -> str:
@@ -388,6 +430,8 @@ class Gemini:
 
     def json_response(self, prompt: str) -> Any | None:
         if not self.available:
+            return None
+        if not self._allow_call():
             return None
         url = self.ENDPOINT.format(model=self.model)
         body = {
@@ -457,7 +501,6 @@ def parse_calendar_rows(raw: Any, calendar_url: str, currencies: tuple[str, ...]
             )
         )
     return sorted(events, key=lambda event: event.scheduled_at)
-
 
 def extract_feed_items(root: ET.Element, feed_url: str) -> list[Headline]:
     """Read RSS 2.0 and common Atom feeds."""
@@ -845,6 +888,7 @@ class TradingNewsBot:
             return 2
         now = utc_now()
         state = self.store.load()
+        self.gemini.usage = state["gemini_usage"]
         events = self.refresh_calendar(state, now)
         self.send_due_reminders(events, state, now)
         if self.gemini.available:
