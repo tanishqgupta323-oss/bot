@@ -460,5 +460,19 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WTAP",
+  "title": "Trump establishes committee to investigate Federal Reserve’s Lisa Cook in latest effort to fire her - WTAP",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ1hBQXNzSGJURHZLLXIwSXR0dG8zdHkxSTJMV3NuRTZ6cEZFN2ZZRmE0QU52Q2otTUZ0eExQc1JlOXIwY1pTazJOd3g4SkxFcUxaZ3ROdDRodXdVVTE1X09BQUU1blBkYmVaVlh5ZTloVWxscmU1OUpOU3V2d0h1aHVHeUlIOVEyVEZHcEtyd0pISC1RYnNZYkY3akpjZEU0SmtFTUdlUW1tTk1XNU1UeWpyQzgxVXJMTWQxRVk2OA?oc=5",
+  "published_at": "2026-10-09T15:14:00+00:00",
+  "sent_at": "2026-10-09T16:20:48.016684+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
