@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T22:55:32.707905+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 150,
+    "count": 151,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1657,12 +1657,28 @@
         "trump",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-10T23:50:47.921416+00:00",
+      "w": [
+        "300",
+        "airport",
+        "attack",
+        "authorities",
+        "houthi",
+        "kills",
+        "saudi",
+        "wounded"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "b6d0b96e79c2e7ffbe525955442c009a9c2fd442ab555c23ec295cee1e4746da",
+    "75684e96311011110053263817273f2c72932b20842b8d8670efc0f2e7d052f7",
+    "4c51e709f609ccc4f9b324221e4da8cb2b5dd161a0bf28d179b4a7278218d377",
     "877441699394dc8bf6d5b51da64e3abe87685065cf3b2b70f6c6e4433d4fa600",
     "6679c3d990b84c2627c0d068122f1b6465ae0d8d26ca7139a7d7864052eb74b4",
     "12b7fea07b64321e233888e6a9cfea4bec187b7aa1a2c3ce6c7b53a388c2b9e6",
@@ -2659,10 +2675,7 @@
     "743b48effe05001a3e6cb267b212b0c6ab5fa8aa866e797d9b5d14f30be05f3a",
     "17f158b40e1fae05cd70dbaafd21c9dc903bedfdb4b24e7926bff67285ff494a",
     "d29e5add9523b3282f846b4229a1df25c69bbff0bafbecf678b3c2039d3b9e91",
-    "1dd9f36c8160ce2cbad00eff32637f862be3b205631320b6e106a44520c960a0",
-    "ce52ecf4f3f8743d710c598bb39e87044c53d02fc474dcc2b7c7a0220a6b8158",
-    "a920fdc97af443d926dc7a15460367f232984d8e06b5db90af77d40f52886274",
-    "1774df4d4a55d25b8cf254c570ec15d5230eb21e737e42c0ca722e78466b984f"
+    "1dd9f36c8160ce2cbad00eff32637f862be3b205631320b6e106a44520c960a0"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
