@@ -2841,6 +2841,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0025
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0448
    }
   }
  },
@@ -2929,6 +2934,20 @@
   "impact": "MEDIUM",
   "eurusd": "NEUTRAL",
   "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
+  "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+  "published_at": "2026-10-09T10:14:59+00:00",
+  "sent_at": "2026-10-10T20:15:45.197270+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
   "btcusd": "BEARISH",
   "checks": {}
  }

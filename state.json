@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T19:55:32.391553+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 111,
+    "count": 112,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1430,12 +1430,26 @@
         "ukraine",
         "zelenskyy"
       ]
+    },
+    {
+      "at": "2026-10-10T20:15:44.724972+00:00",
+      "w": [
+        "alleged",
+        "crypto",
+        "exchanges",
+        "links",
+        "russia",
+        "sanctions",
+        "slaps",
+        "three"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "08d7338e9434caa621e6a1674b814befa92cb10502a8ac6d80a128a5c93aa01c",
     "fdc0a1b637b7fd49bb80da33565c2c75f49e7b072dc828686467811849f2b3b2",
     "dc969597e3959e2d78f2b4c478301e86a1522605a80e8574ea6f2b8d042ec883",
     "21ccfde1a06076a2c72d1d60854012ce36d17f77560aabb5e5d422352b885591",
@@ -2434,8 +2448,7 @@
     "6fa16f80f495fbf15287179a8fc49e727fbc9b01ea47248c57b4d907c65cef9f",
     "a12b4cdf1f9864b1cfba23d7f18cf3b98bc09bcc7b63b3f150e8b59c8f304f5d",
     "351b419923fc2b46a62e9ecca73bd471e65e3e05bfe8cce47c64f85bea0d10bc",
-    "f0a2ddfbd3d442554421b97a90b0ccf34f231ce48dcb2e9be8b837f743ecd0bf",
-    "7e0ddbf5fc4ec665986cdac1d3d831fc295855443bd04cdda702f486021310d2"
+    "f0a2ddfbd3d442554421b97a90b0ccf34f231ce48dcb2e9be8b837f743ecd0bf"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
