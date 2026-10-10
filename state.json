@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-09T22:40:42.669083+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 231,
+    "count": 232,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -783,12 +783,28 @@
         "sanctions",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-10T01:35:33.141009+00:00",
+      "w": [
+        "adds",
+        "banks",
+        "controls",
+        "funds",
+        "ledger",
+        "stablecoins",
+        "tokenized",
+        "xrp"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "85358a5de5c4a0c60c55f016b0f4a1739499aa0572b147c842d313c5776f0085",
+    "f1decfe32c7f313a04cb030cb6199f9a90a94ff30d71c8260ad4e0f4a39b7be4",
+    "8f3c889985ef8fb518300677d532b4a958e6e12830dac0f7d566dfff7acb8092",
     "1957ccdf0c5ca9ce04da59bc65ab71d6640f15687d1154ba8c550735fc2b1dc5",
     "e9144a7d150fcb8040b1bfec2a27744464d2cb4d4d7b646b94c4addf90115f28",
     "d2355aa5249b35c057480a544618e29e702012e897497c7a8c09027563e77d2b",
@@ -1785,10 +1801,7 @@
     "53aca38685f7d21ac2d12bb62bf1a2f716799a82f853c2bad2fab5a460ef9243",
     "2372992996b6249d56f04a3916fd7ed4917f086ba2554cd5a00f254035216945",
     "667039c95e523842a1e612ef4eef4056e5ffed16c8e28830990d1743287ff6fa",
-    "1e5aac815bd80fd0ac7cf79b17e1d0949f1b0197433abd86023933de148f95cb",
-    "0fc81a91e010124efa48dd84b040722e200e6dab464aa896079463a98453127c",
-    "745e5cb2bee601737d0c02cf68ca4b26886bc9c3f3b772f29d99fe83ae55cb2b",
-    "813301cd1664c8c6b288ca90fefdee075eb810528be7dbd92e766302502e1dbc"
+    "1e5aac815bd80fd0ac7cf79b17e1d0949f1b0197433abd86023933de148f95cb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

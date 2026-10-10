@@ -1808,5 +1808,19 @@
     "BTCUSD": 0.0695
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+  "link": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+  "published_at": "2026-10-09T04:21:36+00:00",
+  "sent_at": "2026-10-10T01:35:34.146288+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
