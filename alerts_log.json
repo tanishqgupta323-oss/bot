@@ -2358,5 +2358,33 @@
     "BTCUSD": 0.0141
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Reuters",
+  "title": "Neither Putin nor Trump wanted to hang up first, Kremlin aide says after 'very friendly' call",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbGNZcXF1MzIzdnVYLWpLT2dwWmYwYVF2dDJDME1Cdl9HSVpfcVF0RE1XVnNEMVZuUmxBdnZFQlRqZlpraG5oaFdfbVhMSXc2OE5ZQ01ZR2JINm5FUTJCRmdOVF8zVHVUU3lRd25WWVRrRmxveGVOeUNnaG1XVDM4ZW51V0lONEtUV1NrLTFIMTZVSjFzMVpDZFVlLTh1UG9WWlhsdnJpRWVVOU1ZR0s3RVlUNlctZw?oc=5",
+  "published_at": "2026-10-10T13:15:45+00:00",
+  "sent_at": "2026-10-10T13:25:34.461838+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WMTW",
+  "title": "'Total betrayal of Ukraine': Lawmakers react to Trump's diesel deal with Russia",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjVQMVE1dHUyREExdTdMS2h6aDNuR3BZVXBCejlCa05Ibi14WjFfbnY5Tm9JdXB5S2RzQUExQUFRdnZFaW95REJOaWFKX3RwbzMzMTVGVHJ3bUpDaGRkMlZBY3h6Q1Zud3ctX3p5S20xeUdLbzVUd3BCRXR5My0yZHI2ZU1wMXhNbDNiOHNUdw?oc=5",
+  "published_at": "2026-10-10T13:11:00+00:00",
+  "sent_at": "2026-10-10T13:25:34.763378+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

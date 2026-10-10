@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T10:45:42.888620+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 48,
+    "count": 49,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1090,12 +1090,47 @@
         "war",
         "wider"
       ]
+    },
+    {
+      "at": "2026-10-10T13:25:33.904120+00:00",
+      "w": [
+        "aide",
+        "call",
+        "first",
+        "friendly",
+        "hang",
+        "kremlin",
+        "neither",
+        "nor",
+        "putin",
+        "trump",
+        "very",
+        "wanted"
+      ]
+    },
+    {
+      "at": "2026-10-10T13:25:33.904120+00:00",
+      "w": [
+        "betrayal",
+        "deal",
+        "diesel",
+        "lawmakers",
+        "react",
+        "russia",
+        "total",
+        "trump",
+        "ukraine"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "3a0fae715a8d03c08bff533a69aa821d67d7386960c6fb6fc24d1378d93c3009",
+    "8afb8828e52669e597d30ae1bbc12ec0563275d0c4ed0a0ee7bfe96a0150b9fc",
+    "a89e608be45209dc322ac79ca0c0a0cd7838dd8f34e039e1bf7992884431c102",
+    "ebd8220019283828dd79bd7115e176315e0c0ff6f52589d5e611bec2302da84d",
     "118dabc7fa09862a32b67a4e2f10e66a4222e28c2e65008bb764662f04acde03",
     "75afe5d298ba21ccb336a9885aa7def1f00b660b957b557a96fe1661469af8a1",
     "4d5125b78851b2abba53139ff88fadbef06ef2fbc5479f92bf4b399fe08bc37f",
@@ -2091,11 +2126,7 @@
     "fc9e713fe47287bfaf2d3cae47d6c27b2b9e12263024d0b50219fee03a28a5e5",
     "5311baaaa04fbad93eabd08d7b5223ad01f7f390697a4e9f2b9e647c20a50572",
     "492acacd9f87911ae77f217d7fd817dedc963abc3e2f7725769a8b0607f3fae7",
-    "b1cbdf81fdffd71370f04689f7c0647ed7948a929b0306fb316b284fc9253d38",
-    "67434d990ce932d7987f7e8dd6e26e447bca2eb2979909161b49674e6c381baa",
-    "2d1e66b9356db5e4c071ed61f40bd0d06c3aa8c50c05423ae53c8522ef3f82f4",
-    "7d3455951a63e7ba2ece97b8d2de196c7f767db3a7e1d4e0be43cc881e4452db",
-    "692c837f391a398897d3d5d50b2b0ce63faa31053ebea3b7a27cb99e540ab401"
+    "b1cbdf81fdffd71370f04689f7c0647ed7948a929b0306fb316b284fc9253d38"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
