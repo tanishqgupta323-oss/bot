@@ -2691,6 +2691,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0471
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1167
    }
   }
  },
@@ -2711,6 +2716,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0471
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1167
    }
   }
  },
@@ -2764,6 +2774,20 @@
   "sent_at": "2026-10-10T18:45:42.614482+00:00",
   "impact": "MEDIUM",
   "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "South China Morning Post",
+  "title": "Trump demands Ukraine get new president, lashes out at Zelensky",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWwyQXIxdHByLWJHbHRxd0J0cWp3WUJINHJfQ002ZWhydVBIN3ZXTEVHSUFERWJhbVhQYTJZcGFPNjJuZnc4WHIzdHhMMkx3N0pZem9ZcV9QZUs2ZlpleE4zQjc4OWh3Rmc4ZUNRbkkzaUtHa003akVvQlJuMlgtbjMwTXhmQUpPWDVpc1RSUWdINWVEUG5YeXFKRDhYa1FuNFF0QUtyMUZPaTFDeG5aVkZUdDRfZ2I4dUZkVUQzUXZKaU9ERmfSAcYBQVVfeXFMT0pNS0htdGIxek13VkYyTE9Ba0xfaVNZWmt0YlNieXlnNFRZUElFR2tYSnN5bGI3T0oxdmV5amp0eDNtZkRveVVUVnR3TzhTYzM3SU1iYVpTWnBialNBbE93QTFNVDFjajlBTnlQc3VKbG95TVVKTjRRWXNJcVBtVGUtbEdqMlpJMXdEeE9kVFowcmRmSTlDcVBjUm05dGY2WVZvaXQ3YWpEcUJKWG1MVEJJay1JUEtHeHpPZWJ1eFVrTkJsQ2Vn?oc=5",
+  "published_at": "2026-10-10T18:31:07+00:00",
+  "sent_at": "2026-10-10T18:50:47.600659+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
   "checks": {}

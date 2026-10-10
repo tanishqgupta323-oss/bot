@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T16:50:44.863032+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 95,
+    "count": 96,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1336,12 +1336,25 @@
         "well",
         "zelenskyy"
       ]
+    },
+    {
+      "at": "2026-10-10T18:50:46.963376+00:00",
+      "w": [
+        "demands",
+        "get",
+        "lashes",
+        "president",
+        "trump",
+        "ukraine",
+        "zelensky"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "c2e4dfca13c9cdb06ca608f25774ba50b3494a3b0c0cf6bd4a5f1a36a8e7b6a1",
     "ca00a0048e497f063e880e7880e424e12f787f2207db1fa1370fb07a0c090766",
     "a3cc421add079cde68d592eb2c00a61d851a5b0e7b82b9dc55c4419104b6f0c3",
     "d3dd4c7350994cae66729e44000efda1f29ee5dc30f8f8b09092e879d95571dc",
@@ -2340,8 +2353,7 @@
     "311784bbec4a3bf54b4c72cae30eac6b7826b706b0690d213a0d6e432dc0057f",
     "17af423beb56d84258e64c6b638a7f3a2ef9411c63e6efbec1f2798ee84a0694",
     "5943e589b88cceb1508d4de001ce6d0a9a4751fd3fac930ffd49af342cd45328",
-    "905575eacd756df4c4cd6a884518ffdc167586282149022ffd1d43332b4379fc",
-    "24f9eecd60420cf1c8c31b2497d7869cccecf9f75452c7afffe48a42d932acd4"
+    "905575eacd756df4c4cd6a884518ffdc167586282149022ffd1d43332b4379fc"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
