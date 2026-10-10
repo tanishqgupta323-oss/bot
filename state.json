@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T22:55:32.707905+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 144,
+    "count": 145,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1634,12 +1634,40 @@
         "strait",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-10T23:15:46.124470+00:00",
+      "w": [
+        "cooperate",
+        "does",
+        "exist",
+        "iran",
+        "trump",
+        "warns"
+      ]
+    },
+    {
+      "at": "2026-10-10T23:15:46.124470+00:00",
+      "w": [
+        "iran",
+        "kremlin",
+        "proposal",
+        "putin",
+        "relayed",
+        "trump",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "ba2e470fdb3690620c0761ff90b4aedb1bc5f1b104d92e0dc613203eb675a3c0",
+    "c70169e413be549d88fbcda8de7299ce78ce49509bdae572d0d31e324eb904ad",
+    "abb6661d1309f2e9c816a737cb67172b9678b160bea2a4a34d4bb3905f55da07",
+    "93a7a7a5af5eb9761adfbdc942aa7d5138db1e595793401b49167650186cf1ea",
+    "6a3c9f811297f4933385d695df121a74682a2b645870e0f75ab41ded6396860f",
     "82770271eaaca82e60bebdb2debd0bbf3e8f410423b4ca4b3b1561ea85f6842c",
     "7154b7a5e7368e888a3e06b8b0c8cdf2f5a20bb3064f17a4f3db1b4936fe513f",
     "02c7df5e6afafe92b316ef5c07abc5d1254795396512f5c7812ffc951b5c5858",
@@ -2634,12 +2662,7 @@
     "254f8311c80295bd9b2d76b1b3f1dfa02ac095d964551f017f7788792c765f33",
     "6d8bb580bed945f5fcbafaf03a8cb9afd07b6e56c5c168c63b54578a5df34a31",
     "e1d979e43a116717e406a5b759b5903071d9b3364abd1bee4dd7f6d3e2354ef3",
-    "ec9bae714f05729a682aa55df728294e474edbb7be2a0641c102815086524b7c",
-    "6f0c87b2115f195e2ed389ed0ee0d27d0a687b5d8f0738d1b9ea17e98ebfb4d9",
-    "7d0ff22bb4beda630e00377e10e9e03233e030d994613802cf53b049d44015ef",
-    "afb2f8b68b85375bfb19f3b4502e8bdddcf70e340fc062275bfae1e9f8a7fd73",
-    "f9b0bde2ffcc7e3bde11d467d0c50243fa808aee3b70ee167c81b46e9dfbe66b",
-    "879a9b4fb132c0004f96908a809cd057df9a6f9588384f50ce3b2b3ca4a7794f"
+    "ec9bae714f05729a682aa55df728294e474edbb7be2a0641c102815086524b7c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

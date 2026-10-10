@@ -3191,6 +3191,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0265
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0424
    }
   }
  },
@@ -3246,7 +3251,13 @@
   "eurusd": "BULLISH",
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0342
+   }
+  }
  },
  {
   "kind": "live_news",
@@ -3256,6 +3267,34 @@
   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbGNQQlVEcExQWjNfampyNDNIUW56alR2MUo3RkVnb1MtTXExZlJsaG1YbjJ0c2hST21tVkRhX1BTa0NwR0VSYzRzalVNMXBTcW16M19rVmM1QmViMGg1WVdSSHBsYnhRS2RKaHZ5V1A5c1VGLTI5dFBYanJKbE9HRUJVRHEyY1VzMDM4aTBqU2lMRi1ZYWYwa0t4XzhydTZMUC1rQXlyYTRjTWp3N0hneVNYWExDZUJWWnBoNUV6X2tzNkIxVTVxRU1WLTMxcnRIeWhxelNJTQ?oc=5",
   "published_at": "2026-10-10T22:01:46+00:00",
   "sent_at": "2026-10-10T23:01:17.281788+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Fox News",
+  "title": "Trump warns Iran it will ‘not exist’ if it does not cooperate with US",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90VzBSVTE3ODFXaVVycE42cElReGRSek91WUNDUjBMQWxXTjNHcmdkalhEbzNaXzRIVFhyUGltOWlMdjM5amFoaEJBNVJyLUJGejlTOG9B?oc=5",
+  "published_at": "2026-10-10T21:03:57+00:00",
+  "sent_at": "2026-10-10T23:15:46.843971+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNBC",
+  "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9reE82RTlXQ0dWeU9VQ2hqcTRId1hxZ0VSeEU2ZHBfa1NBd0dsQTAtbXFtMkpld1N2MWNjbFFrQWprZ1FLZU1ZQUVjcDlHbUFOdHF0T1JwdV9CRktCcFpSNUZzSEh3ZHU2a0FtZ0hKSEY4SzJtc3luU21PZw?oc=5",
+  "published_at": "2026-10-10T13:41:46+00:00",
+  "sent_at": "2026-10-10T23:15:47.184011+00:00",
   "impact": "LOW",
   "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
