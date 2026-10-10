@@ -2641,6 +2641,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.0011
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1029
    }
   }
  },
@@ -2661,6 +2666,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.0011
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1029
    }
   }
  },
@@ -2743,5 +2753,19 @@
     "BTCUSD": 0.0005
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Politico",
+  "title": "Trump says Zelenskyy ‘better damn well stop' attacks on Russian oil refineries, calls for new Ukrainian leader",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTVXT0VxQ0RQbUVXbjN2SEg5bnBITl94U0plVEtzZTdYMnM1RE1YUE94aUd2SmlhU2UxMGhvMkNTNGxYS19RSFpMMGNtZjdFNmE2U09WVWxwRC00RVc5TUhmMnpjN0p3YVFlX2JzWUEwcm1HYUFwWnZkRTVnVktNRjQzS2VPME0?oc=5",
+  "published_at": "2026-10-10T18:05:00+00:00",
+  "sent_at": "2026-10-10T18:45:42.614482+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

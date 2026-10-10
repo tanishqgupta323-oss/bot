@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T16:50:44.863032+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 94,
+    "count": 95,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1318,12 +1318,33 @@
         "whether",
         "yemen"
       ]
+    },
+    {
+      "at": "2026-10-10T18:45:41.961595+00:00",
+      "w": [
+        "attacks",
+        "better",
+        "calls",
+        "damn",
+        "leader",
+        "oil",
+        "refineries",
+        "russian",
+        "stop",
+        "trump",
+        "ukrainian",
+        "well",
+        "zelenskyy"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "ca00a0048e497f063e880e7880e424e12f787f2207db1fa1370fb07a0c090766",
+    "a3cc421add079cde68d592eb2c00a61d851a5b0e7b82b9dc55c4419104b6f0c3",
+    "d3dd4c7350994cae66729e44000efda1f29ee5dc30f8f8b09092e879d95571dc",
     "5730e96aa383dc32545aa29503383e428b7bc255ae423edf8c6fb194fd93a88e",
     "703fbc1bccabf6f7ba71d8c151bc6bb2e2a729d9c130a1c555bc7da6313d9608",
     "9a911729a6115251351cb85ed9e1ccd97005e9455a60ef8e3996a1033623e5ed",
@@ -2320,10 +2341,7 @@
     "17af423beb56d84258e64c6b638a7f3a2ef9411c63e6efbec1f2798ee84a0694",
     "5943e589b88cceb1508d4de001ce6d0a9a4751fd3fac930ffd49af342cd45328",
     "905575eacd756df4c4cd6a884518ffdc167586282149022ffd1d43332b4379fc",
-    "24f9eecd60420cf1c8c31b2497d7869cccecf9f75452c7afffe48a42d932acd4",
-    "3f002cfd216278e7be3b63d9fc784ce999764470f1c941968f0f49ddbd5486f2",
-    "ec8be27b99da79c4f233b62382156e07a492b6523091bb73ad194e934db74f6f",
-    "33fbbc5fda9da33dd32ea222afc624e0b01799b17b4ebefe1c28c91274535191"
+    "24f9eecd60420cf1c8c31b2497d7869cccecf9f75452c7afffe48a42d932acd4"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
