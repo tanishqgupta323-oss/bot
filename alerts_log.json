@@ -2516,6 +2516,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0402
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0626
    }
   }
  },
@@ -2613,6 +2618,34 @@
   "eurusd": "NEUTRAL",
   "xauusd": "NEUTRAL",
   "btcusd": "BULLISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Iran International",
+  "title": "Iran may be restoring activity at nuclear-linked site struck by Israel",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXS0RINjZ3cWlBSWoyVUtfVVg2M1RtbXpRQnZwNVJIQl92eU1fMnJwTVp5NTFPQ3NHWTR4OGlTekI3Wmp1enJ5NWg0Q2I4QWJpMVE?oc=5",
+  "published_at": "2026-10-10T16:38:12+00:00",
+  "sent_at": "2026-10-10T17:45:47.085063+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
+  "link": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
+  "published_at": "2026-10-09T09:08:09+00:00",
+  "sent_at": "2026-10-10T17:45:47.451334+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]

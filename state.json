@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T16:50:44.863032+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 84,
+    "count": 85,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1259,12 +1259,44 @@
         "sam",
         "secures"
       ]
+    },
+    {
+      "at": "2026-10-10T17:45:46.378847+00:00",
+      "w": [
+        "activity",
+        "iran",
+        "israel",
+        "linked",
+        "nuclear",
+        "restoring",
+        "site",
+        "struck"
+      ]
+    },
+    {
+      "at": "2026-10-10T17:45:46.378847+00:00",
+      "w": [
+        "bitcoin",
+        "digital",
+        "galaxy",
+        "mara",
+        "million",
+        "pivots",
+        "strategy",
+        "transfers"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "b91431bb2f9cce91c91b57920657588488dbce0fbebcf9ca91c6032ed83f35c6",
+    "19e51b08b24436903b02767c94dbad5cb87da22332ac1fda4932daa21164d643",
+    "4985831986bc50b482ca115fad85b103d00d20d5ec90fd956fd840b1a85c8b97",
+    "5d15ff4de735c938c6a5483a2585e3b1ad8dbf58a43c7474a9e579da17b6b655",
+    "239ad169f48fd6a2b4ba976dd998cd49062d03dd4368247fd4b88564dadd11ae",
+    "fbec9d9adad5147d742116fb03d3aeb94b041f3bccb5bab54d2170432a1f01c2",
     "84160d5a5e2aff3c04bc54cb36935c42e5e45e035d2250398e4f71197f275686",
     "f6aad5a7caed247802d20f4669f5ee8515ffa2f877993f61205474e57883e8b0",
     "5c80711245c9384ba549b456c371bf935491566a126fac1957bda8e969e7913e",
@@ -2258,13 +2290,7 @@
     "485463af3b01073a048556a1536238917dbbc7f9878fcfa75e72cb6978a694e0",
     "44838538d0c7c313eebed02da26b05cbc366cd8e8141d47aa382ef1f99bd9163",
     "953ef2b9cb3df18087b60c26fa23a405d4f61959532ab599b0e73baad476816e",
-    "c9116fba36edf48a73d185c1765c0523ca5447f492dc539025dd00efc8c2b2bb",
-    "2d9dc9c30d9a6a7e856a5f5900f4ba5218231ece3a2dde659dcd88c3c374dfd8",
-    "cf266fd5f83482982d919bc9d90d8dffc292bc2fb014e6e677dfc78f71f2cfa9",
-    "c9fe9e7fd0446c8687d9507a5ccf6fa28cdcb62dc42f2e44d8b4f033371c9834",
-    "294c94ad0028136ebbbd5d5bd571d2640714d859d6b8aa12c5e7ca66db4a69f1",
-    "f21950e3b833848bf59ebb8687209e4eb289d96718edbceb31f28fd961db305c",
-    "4c524e47c0047ef5f9726c7a31320033340ec138ba37a2455bf981dd5412cdd6"
+    "c9116fba36edf48a73d185c1765c0523ca5447f492dc539025dd00efc8c2b2bb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
