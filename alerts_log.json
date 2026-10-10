@@ -2091,6 +2091,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.1153
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1912
    }
   }
  },
@@ -2106,6 +2111,20 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
+  "link": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+  "published_at": "2026-10-09T06:40:54+00:00",
+  "sent_at": "2026-10-10T10:35:33.526836+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BULLISH",
   "checks": {}
  }
 ]

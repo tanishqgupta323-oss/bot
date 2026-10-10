@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T07:40:45.222575+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 22,
+    "count": 23,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -950,12 +950,27 @@
         "treasury",
         "yields"
       ]
+    },
+    {
+      "at": "2026-10-10T10:35:33.016784+00:00",
+      "w": [
+        "500",
+        "bitcoin",
+        "commitments",
+        "debut",
+        "lending",
+        "million",
+        "power",
+        "set",
+        "tech"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "c8daf8c74f9cdcc700f91004c449a60e84339ae99b5ca5c019eeea7e603ea673",
     "a954ba4df574d21c70cb52beef16fc99f555f634035d42e0608d7287c1cc670c",
     "2b01d983e125a33e0a6cbaf2b6739ac24b8d65071e18d6f05c1dca5fc874861a",
     "7c7121ddfa3c0e6f1f7d44eaee277f688983812b8d8fad575c4260c0d45dbea2",
@@ -1954,8 +1969,7 @@
     "f14a3540fb7e18d02114911df7cccec192b1bb70b10b98ed8c14300b01d7e94a",
     "aae7dab02d91d999dc8a27ccc1a05fef5a3c8c31193d8089d21591c51033c153",
     "0f3e85d1aaf0254f25b9c62ba0edeb36cbfc98223294e5a69ef3a513cb049bf7",
-    "c4f6890318a5800fd01cf4586d3c9a638d545e730cfc2b281389da3b60c00d23",
-    "a9437d623cb129be83cf4d3eaca8688bdb6de15968c9de6a345e17915154a388"
+    "c4f6890318a5800fd01cf4586d3c9a638d545e730cfc2b281389da3b60c00d23"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
