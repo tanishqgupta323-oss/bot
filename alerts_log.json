@@ -1931,7 +1931,13 @@
   "eurusd": "BEARISH",
   "xauusd": "NEUTRAL",
   "btcusd": "NEUTRAL",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0016
+   }
+  }
  },
  {
   "kind": "live_news",
@@ -1945,6 +1951,20 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BEARISH",
   "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Economist",
+  "title": "World in Brief: Trump agrees diesel deal with Putin; targets Fed governor",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQkJib0wzb3ZLbG45d1VhbmtKMVZjT1VRamxaUjE5MHNQQ2tDWndOdkhLeGJ2c2JuN3dDYWl3NDNjc2lkTUpCRG1sSkVaYjNwVzI2Z2VyaDRfelRjaE04WnhNYXBMTUpuVkhMTEY1SDdBWDR6Sk56UVpIRk1XMGJQRjdXUHZjVjZWWWx2YnlTdVc0bWUtOUlz?oc=5",
+  "published_at": "2026-10-10T05:03:50+00:00",
+  "sent_at": "2026-10-10T05:10:45.030219+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
   "checks": {}
  }
 ]
