@@ -3132,5 +3132,19 @@
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "Gold edges higher but remains capped in tight range as Dollar and yields rebound",
+  "link": "https://www.fxstreet.com/news/gold-recovery-stalls-near-4-200-as-us-dollar-treasury-yields-stabilise-202610091100",
+  "published_at": "2026-10-09T11:00:03+00:00",
+  "sent_at": "2026-10-10T22:01:22.215717+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

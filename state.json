@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T19:55:32.391553+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 131,
+    "count": 132,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1545,12 +1545,33 @@
         "york",
         "zaporizhzhia"
       ]
+    },
+    {
+      "at": "2026-10-10T22:01:21.718799+00:00",
+      "w": [
+        "capped",
+        "dollar",
+        "edges",
+        "gold",
+        "higher",
+        "range",
+        "rebound",
+        "remains",
+        "tight",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "9d71b5e9ce41353929e9876707f997bf3e240d18be0731670da38604c5e36772",
+    "5b1d12d3966fb4d051fc272d5338104b14933ba026bbd4e492270dd28027a402",
+    "4727a1afa482ec39a0838c8a394682dda27b32486e0b62ed6275292543d6ac84",
+    "314c6cdfd973c0d6fcf1be2ca835499fdf9961bb24ab71d670579d00dc48fa31",
+    "16050a220e0c61b69d53ffa822a1a5aa2084bf12352a1b4b67f279e02fc3ffb7",
+    "cd34d036680800c6d99df7332c303cf0da095a69251cb6a36b7390676a3cad9e",
     "ccb80ed662a5fa264005a6143f8761e512967d063bee6c04c135667adcbf7192",
     "42eb3efd584d73e924ed08bcb65046e227e256e8d0b9d5c5599286977c8cf3a0",
     "18632c057b3d1335ba93fb67db868ab2dc6e8a90bfed770f43749bc7c1352138",
@@ -2544,13 +2565,7 @@
     "911bf05d4085db94263dd05a214efa862f831d47b4ae02b602048100ee8067d8",
     "9de55cf2ed10e4804fbcad63c9954e641d9afc4c8f208ba39116f7f236f536f1",
     "881a4166cefd50a3abcefb7ba561b31827a5ac173e1dcd6c4fbfe986c6b99613",
-    "bfabd7b098affda17a79049561d66a17b9ceca608c86750a78e6d2cd68ee94c6",
-    "c5add9dfaea7267dbb04a72556172b0afc31e4bdc0193eda315aed02d03c082a",
-    "b341beb5df1474db3f09b12aaf4bad5a5c0fd3e2fdf03bdf1c6733c938e9b457",
-    "b8b3b864ab953662d2c2beb345e191657e1b44bcc54f90482eeb25fb586b7181",
-    "c4369ba711fa8dc031b539e483b4d980e1af8322d9b508fc025c0bffbb08ee2a",
-    "00b74a0da5e769abaaad1047d5d3f06147221c6784949b90bb0357d018f28ab8",
-    "cd726685a10e383ce523171f916e244f0d79399d4f92b653fb87fd209e10c850"
+    "bfabd7b098affda17a79049561d66a17b9ceca608c86750a78e6d2cd68ee94c6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
