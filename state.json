@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T13:45:46.369193+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 68,
+    "count": 69,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1144,12 +1144,28 @@
         "reuters",
         "riyadh"
       ]
+    },
+    {
+      "at": "2026-10-10T15:40:45.125391+00:00",
+      "w": [
+        "airport",
+        "attack",
+        "backed",
+        "capital",
+        "damaging",
+        "hit",
+        "houthis",
+        "iran",
+        "saudi"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "8aad36a51a957302ff48b9580ebf7f7e131210d7a3718a962b66c64a997a5154",
+    "bda031c30c3822749138878b5be4341c2fb9bb7e3a4c2a2ce78b88587c003781",
     "85ff2cc531694e0ebd3d38aadd157c4e9a37bc02e79ef9cd23faf18194a816d2",
     "adab485f9a619d1c8ff1ecf324fe591bfea2ae10e71dc493451ad5b5a9b02b26",
     "b07e9d7eb01538dfb6a8fa28b4a726fb3651f8946b49e8bdd002b3d610c0d277",
@@ -2147,9 +2163,7 @@
     "2089e019410bd78bfbdfba477bd6d61d009c3ef24d8acfeb1e9c47eb6efc30f5",
     "455dbd85859834a4ebd0603746cab53a05a8668e15755493d4f13839edd62b92",
     "450e9553905c900347537d6ec1763c8bb1b0a2e6f7d72023ec91705b4411a32d",
-    "f86f7689f6afb2a27e4cf5d7e7c3cf54bed8ff8a3b62f3bc898c7e8abb466005",
-    "41bd0c4a243c98642be306f46f4a152a3ac8f4687854591483a97c4058ec91b7",
-    "aa33520bba721876a2cf4622ac47a6683f80622147a8e8ecf77c7e7afef27520"
+    "f86f7689f6afb2a27e4cf5d7e7c3cf54bed8ff8a3b62f3bc898c7e8abb466005"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
