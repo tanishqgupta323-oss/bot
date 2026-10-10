@@ -2216,6 +2216,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0403
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0514
    }
   }
  },
@@ -2291,7 +2296,13 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0228
+   }
+  }
  },
  {
   "kind": "live_news",
@@ -2305,6 +2316,26 @@
   "eurusd": "BEARISH",
   "xauusd": "NEUTRAL",
   "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0228
+   }
+  }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Washington Post",
+  "title": "Saudi Arabia faces new level of peril in Houthi attacks, amid wider Iran war",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZaSjhHakhEb2hLUXUxdWZVb1pVQXJicTgtVENldndaRTI4VG5iaFJyV0sxSTRieVliX0c3SV81SEYtNmFxOXd2YUM2bDh6Tjk0cnBCVWM0RWNJeE4xLUVKXy10ZUM5cVNHc2tZYXR2R1A5U21MRVVjb0hMcHp5VTNfc29FTWFUaW51MVhnemJfRW9CMk8wb29HWVpzQ3pENDZscW43SEVxNHhUcUxrN3JBaUo4bWtENEE?oc=5",
+  "published_at": "2026-10-10T12:24:10+00:00",
+  "sent_at": "2026-10-10T12:50:47.303658+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]
