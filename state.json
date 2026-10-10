@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T01:40:43.424440+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 244,
+    "count": 245,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -811,12 +811,28 @@
         "ukraine",
         "unlikely"
       ]
+    },
+    {
+      "at": "2026-10-10T03:10:45.877346+00:00",
+      "w": [
+        "deal",
+        "diesel",
+        "hold",
+        "miami",
+        "officials",
+        "peace",
+        "russia",
+        "talks",
+        "ukraine"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "9c8a8eb6fb18ee0098feb432363c9878c6eb93a5c1d937023cbe2afa1e0fca41",
+    "6bb52b0ffb44e148eb414266214ceba923aab946f44399050530cf97318d824a",
     "c0b1edd17e19936fae7701fa0323212f859bc7a612f35722227f8e2848773467",
     "7488e1e0e09c619d7353b099cda308ecd8d78e363d9367b585ba015a622acb9a",
     "5aa87e834ede9abd8653033ae91f9e9f3d3aef0dbdc9b0e45b08483b88132454",
@@ -1814,9 +1830,7 @@
     "05a3d40a1ac47c6a07ca51a59febc0ffe5beb68489bfc7be312448cb8f6c41af",
     "912e15f3c6b13b249271243ea7dcda189631f87c858afcd5fbcc2ff61e0d85b8",
     "1716083d71a9dd57e0e062d2870efcbc9cce9a335295dfd94e25a28292981453",
-    "62a9f1da08e692d1a5af1df270fbf8f4c85c424f88461200f2294df5c831040b",
-    "6e8dec0acc056073ef035a703ff7e95003558d28978d291944329cb463627419",
-    "90bd3aa1384cfc5666a09117d574f080f68f9097486d8e0b93049df8432ea09e"
+    "62a9f1da08e692d1a5af1df270fbf8f4c85c424f88461200f2294df5c831040b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

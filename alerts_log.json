@@ -1868,5 +1868,19 @@
     "BTCUSD": -0.1027
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "U.S., Ukraine and EU officials hold Miami peace talks amid Russia diesel deal",
+  "link": "https://www.investing.com/news/economy-news/us-ukraine-and-eu-officials-hold-miami-peace-talks-amid-russia-diesel-deal-4941945",
+  "published_at": null,
+  "sent_at": "2026-10-10T03:10:46.586853+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
