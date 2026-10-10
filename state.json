@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T19:55:32.391553+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 117,
+    "count": 118,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1471,12 +1471,47 @@
         "trump",
         "zelensky"
       ]
+    },
+    {
+      "at": "2026-10-10T20:50:44.746338+00:00",
+      "w": [
+        "bitcoin",
+        "door",
+        "etfs",
+        "ether",
+        "listed",
+        "locally",
+        "opens",
+        "thailand"
+      ]
+    },
+    {
+      "at": "2026-10-10T20:50:44.746338+00:00",
+      "w": [
+        "escalation",
+        "geopolitical",
+        "improves",
+        "losses",
+        "next",
+        "recovers",
+        "risk",
+        "sentiment",
+        "solana",
+        "some",
+        "watch"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "2f15a0535bc2b915b08e69246108f901b5c6b5a7cc6d0da3d7e28fead6215220",
+    "ea9cc66873ca3322c4b077f66345e0a7acf062332e0d371a61d0bd479bd0a33e",
+    "f77dd849017dc03c42905616c4643f900584f38f2dda6df8ad2def239aeb75ef",
+    "9dfb59b67067dea64486bd0584186d91925fd175c7b0bbdf7cf1fafc0c9ee63a",
+    "d9930b84659151465edcf70304c684fb9277d04c227fbbfcbb0855c61d564ee7",
+    "9cdcbe4622f250c80006a359f9e6df24591ea33b7949d232d8fa199e1a85d070",
     "cd9968f499633b360c153052da779d5b9584a4a8191e0aa07c1df02bfc6473c4",
     "998986215f6d4f7149a6650f526f08ea7b4db8987a9c6ed967b669aefa069fb0",
     "2cb23c7a200d8eaa61d59d55489442952367db7efe35e587d7a7f5dc924914e9",
@@ -2470,13 +2505,7 @@
     "83518cc1f883613b5003f981c71771241816e2df39949a77c1f924b535c23831",
     "e82beb90a9e6bdfda222139617309dfa546b22e68b924d736e9878e34cfeb5cf",
     "07b16076f832c6eae323f20c7f7d4fa6ded177017adc56a566efb15dd83827b7",
-    "32877c36cd0ba4dd7e90538fca4a597ee30957919396f041bbb8d461aa2ab58f",
-    "f947a0dbd990c37da5cb9772d50d24ebbc9f0105693e9a8f018a684f8019e64e",
-    "19113ebdeea968eb991b00a1ac6a8123681d0e3ce4a9983f2ea5fa47b8228469",
-    "6d5b3b2c81c519d49d565e5d9038514a9e89b3c020c9ee3d93ebaf79cd54d833",
-    "25f0d81b244b7eb2bdf50b657b531547cfbd3d2b68d1425c05c1c6e6b3ec0a0c",
-    "7c1cb83a1b304fefd5dad4e936914d2c4c4f9d108fdefa9126c983d7828f24bd",
-    "3b2ccaf17c855adf6b2a135dfd3fdd8d8ec43aa78502d446af7f4d02e2421620"
+    "32877c36cd0ba4dd7e90538fca4a597ee30957919396f041bbb8d461aa2ab58f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

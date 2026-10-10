@@ -3016,6 +3016,40 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0459
+   }
+  }
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+  "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+  "published_at": "2026-10-09T10:16:55+00:00",
+  "sent_at": "2026-10-10T20:50:45.462421+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BULLISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Solana recovers some losses as geopolitical de-escalation improves risk sentiment. What to watch next?",
+  "link": "https://investinglive.com/cryptocurrency/solana-recovers-some-losses-as-geopolitical-de-escalation-improves-risk-sentiment-what-to-watch-next/",
+  "published_at": "2026-10-09T10:15:56+00:00",
+  "sent_at": "2026-10-10T20:50:45.807269+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "BULLISH",
   "checks": {}
  }
 ]
