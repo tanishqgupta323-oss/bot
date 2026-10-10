@@ -505,10 +505,10 @@
       "title": "FOMC Member Collins Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-10T19:55:32.391553+00:00",
+  "calendar_fetched_at": "2026-10-10T22:55:32.707905+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 141,
+    "count": 142,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1604,12 +1604,28 @@
         "pentagon",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-10T22:55:34.656159+00:00",
+      "w": [
+        "500",
+        "dollar",
+        "ease",
+        "escalation",
+        "jumps",
+        "oil",
+        "treasury",
+        "trump",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "3586ff862b8641d6a270f1882b38e4074cd6dd6d26c7262522381c304ffe883c",
+    "671d8052938862993f4775b8c328fff8214af43166f97504d6d83a2d193b3fc3",
     "592c432bd31354dbfa1e696373a4082cb5a799445309efbd7e4b02d079480dec",
     "9c8d43fe36353e5ddbb8410506dfb3b52c04b1a757423f36a2439d8834b41c1e",
     "e51eb4e48631fa3343f8f6faff3a5429bad206fa8040fea9de86ea501ddb374f",
@@ -2607,9 +2623,7 @@
     "4d3c19efdbbfc952ea9e7f10365951d7a46c274e497c73ec95c9cb77680f419b",
     "706471c7c9d72a05aa747b81d3575646f1cce3df63b9ec84cf6e8657fa21b927",
     "b1c00091ad5fab2399917342a76e5d487378057caccca1e7f7a6c0be28c02ed3",
-    "e27f46b34d1d26ae92f97d3aeeb241850b32f5ba11f7bf66c60c3229f71ed9f9",
-    "ac896e08b1d06fec1282526bd5f0bdd2ef5779c58dc6eb17190ee2cfc7437424",
-    "dc35b982b0c46946e14474086b84078eead70893cb9f42fabf9c2911d213189c"
+    "e27f46b34d1d26ae92f97d3aeeb241850b32f5ba11f7bf66c60c3229f71ed9f9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

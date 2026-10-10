@@ -3141,6 +3141,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0339
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0902
    }
   }
  },
@@ -3216,6 +3221,20 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "S&P 500 jumps as oil, Treasury yields and US dollar ease after Trump's de-escalation",
+  "link": "https://investinglive.com/stocks/s-p-500-jumps-as-oil-treasury-yields-and-us-dollar-ease-after-trump-s-de-escalation/",
+  "published_at": "2026-10-09T11:22:07+00:00",
+  "sent_at": "2026-10-10T22:55:35.349795+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
   "checks": {}
  }
 ]
