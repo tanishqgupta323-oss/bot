@@ -2241,5 +2241,19 @@
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Business Insider",
+  "title": "The Iran war is exposing dangerous gaps in the US military system built to save wounded troops",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVDFPM0UtMHhyMTBwQmdxZkdFa2QzU0JabHljN256bnBBWjhBVFh6UDlEb1ZNTkJ5cy14bHJXdnQ0VEVrTm1zMmtQM0J0M2ZQWElBbXcwWmlOM3lPOVpERFZzTzMxYjE0RVNidzZJRV9aM2I2YWxRTVlwSEdSTDJ0R0FCS2x1Tk1MZ0dFYkc2U0hzbVZlS0FCOF9sbw?oc=5",
+  "published_at": "2026-10-10T11:07:00+00:00",
+  "sent_at": "2026-10-10T12:10:52.343466+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

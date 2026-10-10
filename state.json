@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T10:45:42.888620+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 37,
+    "count": 38,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1032,12 +1032,32 @@
         "strikes",
         "tension"
       ]
+    },
+    {
+      "at": "2026-10-10T12:10:51.599241+00:00",
+      "w": [
+        "built",
+        "dangerous",
+        "exposing",
+        "gaps",
+        "iran",
+        "military",
+        "save",
+        "system",
+        "troops",
+        "war",
+        "wounded"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "2c8188e48f01fe5b2988a98782dced85d75e55752b0bc1a391047dc8653708c2",
+    "d7f7d189b6b137185ac48de05d140cc9a58b6770152165f2ae98bfe03f4d61b0",
+    "c930508aece68f014b36a699ee456289b50e88ee77ce893677acabcb6ed2f563",
+    "49e74867159d593914ea0e62959813b28b19faba2637b15e4829c266c50f3cb3",
     "a9b5b9e66f2b7e53d8d20af5a9341f6c357a12bf8bc69564c38fce84cd49ee88",
     "19d681f6e2f5317fba4c399afd230c635e3f331472110df44bf631d70392a323",
     "0b7fc67feaca8525f343cc139bab993176ec08356f4df1806ae5107e617ab94d",
@@ -2033,11 +2053,7 @@
     "f82dfa4ad55933346a0b55db42809057a69b47a953748f7dcc73979bd838fcae",
     "b6435a1ac04ea3a0a9e51573cfac9b6efc4ec672cad01bf5f2d64f3113fc96a9",
     "b931434f22387fc85e7f35235f8f33569b68acbc80e7c6b26b446850efdc1af5",
-    "c44f899c29ee978ca6fb8cb94fddffa88109aaa37252debafc9a949c1315e1b3",
-    "ba24952417d5f62984eefd0c4750fae15c908a9726b075be596b6971cca1636e",
-    "2a9d3d2b3fdc5b924e54d60a537e7344b9786edd5090d984b99b387aca30e699",
-    "9130da3bc42ba9485779cc0c81a2b9e0048bd554976fe05df293453b831b269b",
-    "ce90ab20bd6e41bd2bf3ce957c5e8fd94330a6c1a082341e23d300765810191c"
+    "c44f899c29ee978ca6fb8cb94fddffa88109aaa37252debafc9a949c1315e1b3"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
