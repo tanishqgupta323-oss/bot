@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import bisect
+import html
 import json
 import sys
 from datetime import datetime, timedelta
@@ -18,7 +19,9 @@ PAIR_KEYS = {"EURUSD": "eurusd", "XAUUSD": "xauusd", "BTCUSD": "btcusd"}
 HORIZONS = (15, 60)
 # A move smaller than this (in %) counts as "flat" and is not scored as hit or miss.
 NOISE_PCT = {"EURUSD": 0.03, "XAUUSD": 0.08, "BTCUSD": 0.15}
-MAX_GAP_MIN = 10   # if no candle within 10 minutes, the market was closed -> no price
+MAX_GAP_MIN = 10        # if no candle within 10 minutes, the market was closed -> no price
+MIN_JUDGMENTS = 10      # a source needs this many scored judgments to be called "best"
+LINE = "━━━━━━━━━━━━━━━━━━"
 
 
 def fetch_candles(pair: str):
@@ -105,7 +108,26 @@ def update_checks(rows: list[Any], now: datetime, candles: dict[str, Any]) -> in
     return changed
 
 
-def build_report(rows: list[Any]) -> str:
+# ----------------------------- statistics -----------------------------
+def decided(counts: dict[str, int]) -> int:
+    return counts["hit"] + counts["miss"]
+
+
+def rate(counts: dict[str, int]) -> float | None:
+    total = decided(counts)
+    return counts["hit"] / total * 100 if total else None
+
+
+def hit_rate(counts: dict[str, int]) -> str:
+    value = rate(counts)
+    return f"{value:.0f}% ({counts['hit']}/{decided(counts)})" if value is not None else "-"
+
+
+def avg_delay(entry: dict[str, Any]) -> float | None:
+    return sum(entry["delays"]) / len(entry["delays"]) if entry["delays"] else None
+
+
+def compute_stats(rows: list[Any]) -> dict[str, Any]:
     """Per-source accuracy over unique stories (same story from many sites counts once)."""
     valid = [r for r in rows if isinstance(r, dict) and parse_datetime(r.get("sent_at"))]
     valid.sort(key=lambda r: parse_datetime(r["sent_at"]))
@@ -144,27 +166,92 @@ def build_report(rows: list[Any]) -> str:
                 outcome = verdict(str(row.get(key, "")).upper(), moves.get(pair), pair)
                 if outcome:
                     entry[horizon][outcome] += 1
+    return {"stats": stats, "alerts": len(valid), "unique": unique_total, "duplicates": duplicates}
 
-    def hit_rate(counts: dict[str, int]) -> str:
-        decided = counts["hit"] + counts["miss"]
-        return f"{counts['hit'] / decided * 100:.0f}% ({counts['hit']}/{decided})" if decided else "-"
 
+def build_report(rows: list[Any]) -> str:
+    """Wide text report for the terminal."""
+    data = compute_stats(rows)
     lines = [
         "SOURCE ACCURACY REPORT",
-        f"Alerts logged: {len(valid)} | unique stories: {unique_total} | duplicate alerts ignored: {duplicates}",
+        f"Alerts logged: {data['alerts']} | unique stories: {data['unique']} | duplicate alerts ignored: {data['duplicates']}",
         "A pair counts as a hit if price moved the way the bias said, beyond a small noise band.",
         "-" * 78,
         f"{'SOURCE':<18}{'STORIES':>8}  {'15 MIN HIT RATE':<20}{'60 MIN HIT RATE':<20}{'AVG DELAY':>10}",
         "-" * 78,
     ]
-    for source, entry in sorted(stats.items(), key=lambda item: -item[1]["stories"]):
-        delay = f"{sum(entry['delays']) / len(entry['delays']):.0f} min" if entry["delays"] else "n/a"
+    for source, entry in sorted(data["stats"].items(), key=lambda item: -item[1]["stories"]):
+        delay = avg_delay(entry)
+        delay_text = f"{delay:.0f} min" if delay is not None else "n/a"
         lines.append(
-            f"{source:<18}{entry['stories']:>8}  {hit_rate(entry['15']):<20}{hit_rate(entry['60']):<20}{delay:>10}"
+            f"{source:<18}{entry['stories']:>8}  {hit_rate(entry['15']):<20}{hit_rate(entry['60']):<20}{delay_text:>10}"
         )
     lines.append("-" * 78)
     lines.append("Small samples are noise. Treat results as hints until you have 50-100 stories per source.")
     return "\n".join(lines)
+
+
+def build_telegram_report(rows: list[Any], days: int = 7) -> str:
+    """Short phone-friendly weekly report (Telegram HTML) covering the last `days` days."""
+    cutoff = utc_now() - timedelta(days=days)
+    recent_rows = []
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        sent = parse_datetime(row.get("sent_at"))
+        if sent is not None and sent >= cutoff:
+            recent_rows.append(row)
+
+    data = compute_stats(recent_rows)
+    stats = data["stats"]
+    header = (
+        f"📊 <b>WEEKLY SOURCE REPORT</b>\n{LINE}\n"
+        f"Last {days} days · Alerts: {data['alerts']} · Unique stories: {data['unique']} · "
+        f"Duplicates: {data['duplicates']}\n"
+    )
+    if not stats:
+        return header + "\nNo alerts logged in this period."
+
+    blocks = []
+    for source, entry in sorted(stats.items(), key=lambda item: -item[1]["stories"]):
+        delay = avg_delay(entry)
+        delay_text = f"{delay:.0f} min" if delay is not None else "n/a"
+        blocks.append(
+            f"{source} · {entry['stories']} stories\n"
+            f"  15m  {hit_rate(entry['15'])}\n"
+            f"  60m  {hit_rate(entry['60'])}\n"
+            f"  delay {delay_text}"
+        )
+    body = "<pre>" + html.escape("\n\n".join(blocks)) + "</pre>"
+
+    total60 = {"hit": 0, "miss": 0, "flat": 0}
+    for entry in stats.values():
+        for key in total60:
+            total60[key] += entry["60"][key]
+    overall = f"{rate(total60):.0f}% ({total60['hit']}/{decided(total60)})" if decided(total60) else "-"
+
+    ranked = [
+        (rate(entry["60"]), source) for source, entry in stats.items()
+        if decided(entry["60"]) >= MIN_JUDGMENTS and rate(entry["60"]) is not None
+    ]
+    if ranked:
+        best_rate, best_source = max(ranked)
+        best_line = f"🏆 Best 60m hit rate: {html.escape(best_source)} ({best_rate:.0f}%)"
+    else:
+        best_line = f"🏆 Best source: not enough data yet (need {MIN_JUDGMENTS}+ scored judgments per source)"
+
+    delays = [(avg_delay(entry), source) for source, entry in stats.items() if len(entry["delays"]) >= 3]
+    fast_line = ""
+    if delays:
+        fastest_delay, fastest_source = min(delays)
+        fast_line = f"\n⚡ Fastest average delay: {html.escape(fastest_source)} ({fastest_delay:.0f} min)"
+
+    return (
+        f"{header}\n{body}\n\n"
+        f"🎯 Overall 60m hit rate: {overall}\n{best_line}{fast_line}\n\n"
+        "⚠️ <i>A coin flip scores about 50%. Small samples are noise; "
+        "trust a source only after 50-100 stories. Not financial advice.</i>"
+    )
 
 
 def main() -> int:
