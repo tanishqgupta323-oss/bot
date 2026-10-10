@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-09T22:40:42.669083+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 223,
+    "count": 224,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -744,12 +744,49 @@
         "trump",
         "ukraine"
       ]
+    },
+    {
+      "at": "2026-10-10T00:50:46.222411+00:00",
+      "w": [
+        "billion",
+        "bitcoin",
+        "bitfinex",
+        "government",
+        "hack",
+        "moves",
+        "sale",
+        "sign",
+        "tied"
+      ]
+    },
+    {
+      "at": "2026-10-10T00:50:46.222411+00:00",
+      "w": [
+        "crypto",
+        "gives",
+        "months",
+        "platforms",
+        "regulator",
+        "remove",
+        "securities",
+        "stablecoins",
+        "unauthorized"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "b7903545d6bb24c7ceb8d098afd3a0372b4446b6909f712279bde1b99de13412",
+    "93297eb84a2d0d07c151bf3742d15687710874ec8249dcb1127d3b49b6b8229f",
+    "6e236503f73f756849eebd6ef6d3a425cc18ac6d33097b3f2fdf0227efb4f5f3",
+    "fe934396bf705dcd0f0aabfa0619efde2573226e5e8433bd7bf4b02b7034c12f",
+    "91813003b56fb4bee0870019d818f5ce18bc7bbb74e98d6bb57f9397ff727c99",
+    "295d89b2ebf5cb365e8de1244c5f188a16bf9613624d2ad73d63223bb1d78ab8",
+    "78aaf5efaaceb90fccdf46d4c3729018f821b50cb4d7f925df22c4ea020ac9bd",
+    "87a91cb630c3d166d4f2923a2e0831557ac74dfb092c2d9f4da93e675a535529",
+    "1b10d5fbc6b6363c230c0efa121890f200ea560af967e3c0aae70f40268b4631",
     "62d62299b57b12edc1bc08800e59524dd9c30d109e46f3571316c59b5dfb3a5b",
     "637b089e44227c9cd07aaf78f2dbfc12d94f6a955006a6b2d4da4c0afb323514",
     "256d104f467fb1b7c390aa1dc92124f682443d7aa30d69828b9244a2f0f16926",
@@ -1740,16 +1777,7 @@
     "ff24c71f10926aa1cfe32d8cf2e8475c25f264ba6d3ac294cb706cf1622e5a29",
     "686a7bc07530a84c4d569859fdb1c2449836cffe251c8bd7ba3a23d9934b688e",
     "8ca9df67b2146d46debb15c47a30baffedbac32274eac6c409c3b2950fb9cc96",
-    "669a9d3c1ed3bd536321af043221eca6c65cee7b888a28c1ecd8ae968a487bf8",
-    "10916e566855cb847424f5644bb4c77b7f687bfd791cbc3d7ee7e6fd4c9b6a17",
-    "ad6abdcf89a2583afbb3acff7dded99c81be9fa265324b9a28cc36aec337e1b2",
-    "cc816db779cf656eee6c844def8c3388df4356c47fdc70531ad2c6cb2a70927d",
-    "5045c9a5cffe05d0fbfa20e659c52136e7e2e4105be3e98b8107dc6b7c07a7de",
-    "9d5db14c9f4d004e7001c54bb867b51685ecfa646212fca354add917882fa678",
-    "ebaeac890f98157fbc472764c1ce1251549a6006f96a6d3745e9592874bc0448",
-    "0f8dbc31937df48f6e5a454da82acf39077bbbdfc0a7b0eedb392734606b3288",
-    "7e8ab3a7bf4eec7fafcfc4034817e0fa54727411e53eb111ebf0be950969badd",
-    "5727e97699f581237f8f3bbd66b29f3877e72eaa6fe9c045962b68c39a495a3b"
+    "669a9d3c1ed3bd536321af043221eca6c65cee7b888a28c1ecd8ae968a487bf8"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

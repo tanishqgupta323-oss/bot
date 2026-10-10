@@ -1748,5 +1748,33 @@
     "BTCUSD": -0.0605
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
+  "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+  "published_at": "2026-10-08T15:43:04+00:00",
+  "sent_at": "2026-10-10T00:50:46.786312+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+  "link": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+  "published_at": "2026-10-08T15:23:26+00:00",
+  "sent_at": "2026-10-10T00:50:47.098541+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
