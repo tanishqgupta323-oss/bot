@@ -2206,7 +2206,13 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0403
+   }
+  }
  },
  {
   "kind": "live_news",
@@ -2218,6 +2224,20 @@
   "sent_at": "2026-10-10T12:01:22.782638+00:00",
   "impact": "MEDIUM",
   "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Jerusalem Post",
+  "title": "Tension rises in Iraqi Kurdistan, Iran continues strikes against Kurdish forces",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ha2gwX0NKQ3EzWG9Nc1lYX2NWcUxJZTBaRlRMQUgweFpKLVA2Vk9kc0xxRWxXcHhMU0hDU1N0aHJqTXZqdndmek9OR1JUaTNjMkdQWHFhUHFTSTdn?oc=5",
+  "published_at": "2026-10-10T10:32:11+00:00",
+  "sent_at": "2026-10-10T12:05:37.245312+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
   "checks": {}

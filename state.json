@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T10:45:42.888620+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 36,
+    "count": 37,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1017,12 +1017,29 @@
         "ukraine",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-10T12:05:36.577289+00:00",
+      "w": [
+        "against",
+        "continues",
+        "forces",
+        "iran",
+        "iraqi",
+        "kurdish",
+        "kurdistan",
+        "rises",
+        "strikes",
+        "tension"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "a9b5b9e66f2b7e53d8d20af5a9341f6c357a12bf8bc69564c38fce84cd49ee88",
+    "19d681f6e2f5317fba4c399afd230c635e3f331472110df44bf631d70392a323",
     "0b7fc67feaca8525f343cc139bab993176ec08356f4df1806ae5107e617ab94d",
     "7517e7e076908aee9fb1e429271263858f66f41f6ee0255c9074058a5594a1fd",
     "19c446cde8549bf95b81e8b68adc774eddea7d6135ae2aa94296622700a7dec6",
@@ -2020,9 +2037,7 @@
     "ba24952417d5f62984eefd0c4750fae15c908a9726b075be596b6971cca1636e",
     "2a9d3d2b3fdc5b924e54d60a537e7344b9786edd5090d984b99b387aca30e699",
     "9130da3bc42ba9485779cc0c81a2b9e0048bd554976fe05df293453b831b269b",
-    "ce90ab20bd6e41bd2bf3ce957c5e8fd94330a6c1a082341e23d300765810191c",
-    "55db6ed51094828d01fbc855a80976c5cd431c4e6e21da177346e64f7eda4757",
-    "cefce2a5daccb499ec2d0cbf29ef5bd8832dee0f70770f4fc3fa2f26e2ae348b"
+    "ce90ab20bd6e41bd2bf3ce957c5e8fd94330a6c1a082341e23d300765810191c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
