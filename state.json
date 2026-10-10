@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T13:45:46.369193+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 56,
+    "count": 57,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1133,12 +1133,27 @@
         "trump",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-10T14:05:35.323664+00:00",
+      "w": [
+        "airport",
+        "blast",
+        "heard",
+        "loud",
+        "reuters",
+        "riyadh"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "1cacfe535ec5c3e8181f0e62c3fcda01b765bf3fcb7004998963609ca250da12",
+    "7a90c255c51c1cf66ee111925fce7ab7edca10b4847e760be3f5311d9211669f",
+    "672a5c754d663c6f0e9e0ae019e27f39c3473e3b3effeed118a7d90b0c4b7c11",
+    "b78984a56f318e8fd4eb1fa893fdfe87b07545f6ae550316de030bfc7c61bd8b",
     "cd86b0f76157f18683baf122a8dba2c251574d9ef5b194d07b4dbac6c91643cc",
     "9016700744c08f081e3c65e7f0d3a8e0a007a4e4e5a7ffad19ffd9a3ad69ef6b",
     "8599f8bc02750165be114cf6e803fea02f6ca61458efad724bc2b45b571c34c7",
@@ -2134,11 +2149,7 @@
     "03ddbc2cf94327920ff91a7114c57766e8e55d4471cb428cbf88a13edabccd5f",
     "213daf3e1a6e39fd71f3ec6d7151d502bfaf6bed8a931a1a859aabfec5b186aa",
     "fa7ad696de3742f6ea168d68198446cb578bb26ee910a808516a8f4adf7efbec",
-    "12a641978393d94f5de76c056ab60eb71596d224c86f218f44105bba3ba45972",
-    "6d637d65bf523aa28e947d660b1ddcf25c4bd207440054a5ad4340447e72ecfc",
-    "51e2add946775ac78b31860e23a0673df8f671e2d30a677ac577d17c743b0e0d",
-    "468a5cf0cf70697238c243e5789be8a987962fdae93c6738d3d535cd4e27b19b",
-    "2ee4246bb830e117e59b848846bd165ca9453245e0d838811a35b4db3527c569"
+    "12a641978393d94f5de76c056ab60eb71596d224c86f218f44105bba3ba45972"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

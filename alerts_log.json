@@ -2427,5 +2427,19 @@
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Iran International",
+  "title": "Loud blast heard at Riyadh airport - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sRVZkc1llYlBWclY5QUl4V3NRQU5NQklQRzQyWWFRSHdMNWhDeWZ3YWJQcTYyNlFCSlZYdUlmMWJwRDUtUzMzTFhGc3k?oc=5",
+  "published_at": "2026-10-10T13:21:10+00:00",
+  "sent_at": "2026-10-10T14:05:36.007120+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
