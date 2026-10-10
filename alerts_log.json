@@ -2616,7 +2616,13 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0011
+   }
+  }
  },
  {
   "kind": "live_news",
@@ -2630,7 +2636,13 @@
   "eurusd": "NEUTRAL",
   "xauusd": "NEUTRAL",
   "btcusd": "BULLISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0011
+   }
+  }
  },
  {
   "kind": "live_news",
@@ -2668,6 +2680,20 @@
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHZoelUtdHRTbk42U19GLVM4OGV3QlR5SFI4VFJzQzNObUlUS19BR1UyMTE0alVmMFppTzF2NFpNQUdBTUhhTjJFVVlGanQwdUM0UGRSb2p6eWJJenZQbDlScGlFU2FfbWJncUd5ZEUwX1ZsY2N5dW5wRUU4MlctVUpUbWNRdmE0MkFDb0RkcjJYRWdSdm1LWnA0M0lmQkdBTjRDTE9PbkFPc2FhNnpsQ3JVQzZ2Z1FwaE9sRkxHX1hqcU5ENFlz?oc=5",
   "published_at": "2026-10-10T17:44:12+00:00",
   "sent_at": "2026-10-10T17:50:47.721789+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Fortune",
+  "title": "Trump weighs whether US should join Saudi Arabia's fight against Iran-backed Houthi rebels in Yemen",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUGR6ZDk3dnIzWGxVS05BRlluSkV1MVVOQy1Nd0FNQVVYQ3ZFVHZrdHhRc01yMlB2el8wYXVNMG1fbm5rVEtKempwZTVfREFtdFQwVUtxelFTS2E4d1VvUTRLUS1EOGtVdVlPenQ0X00wYWNXck1lYXpwTC1hazM1Q1JjM3lhZk1DNXNkNTVObHpCQQ?oc=5",
+  "published_at": "2026-10-10T17:53:00+00:00",
+  "sent_at": "2026-10-10T18:01:21.224994+00:00",
   "impact": "MEDIUM",
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",

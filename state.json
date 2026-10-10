@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T16:50:44.863032+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 88,
+    "count": 89,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1299,12 +1299,33 @@
         "troops",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-10T18:01:20.554770+00:00",
+      "w": [
+        "against",
+        "arabia",
+        "backed",
+        "fight",
+        "houthi",
+        "iran",
+        "join",
+        "rebels",
+        "saudi",
+        "should",
+        "trump",
+        "weighs",
+        "whether",
+        "yemen"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "d8fe545320998c13950b6211a0ac01dc43ca8d55cf78a25438056d3e8c0ba89f",
+    "d29643f31ef6c3b1238e150dfac8e1ec658ac4c73932c61b3a26b090f9f1f7bb",
     "0ae470aaef8e35f3b3bc12ccda1d1e0a85c1cbcd32b61fc5612d12ffd98919bc",
     "179e236ea4ebdc58c956fec2baf2256e9dcc1c2880861832d983a84b9f2dbeae",
     "750217ae6b3e75f8cf159f8e1d88842572dca1d26d0c769fe58945813e910978",
@@ -2302,9 +2323,7 @@
     "ef01cb4bb68b22aa48524bda4380a9873dd3c8a215de65bdf173a68cda7cb34b",
     "32ac98a849801ebf594ca671c79d4aed32972b3e92ac9773c41dce1b83271588",
     "0c0c3ca20ab3bed5399bc48443c71b142dbfa0433aff8f245ab2145f2f5b76e8",
-    "e9067d02cd3cbdbdd767e7ae972a6cf831d2f7ddef7720e5303c3a6d1a301018",
-    "e212e90662a6c39910ccf23c928991b3f48d47ef1be7a9529efb17996c333766",
-    "607167351c5f15609a297fa49e280120215b5baba6399a3cf41b0a29681caa82"
+    "e9067d02cd3cbdbdd767e7ae972a6cf831d2f7ddef7720e5303c3a6d1a301018"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
