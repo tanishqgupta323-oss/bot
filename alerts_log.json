@@ -2518,5 +2518,19 @@
     "BTCUSD": -0.0402
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "EU-China trade relations hit crunch time as Brussels pushes for rebalancing",
+  "link": "https://www.investing.com/news/stock-market-news/euchina-trade-relations-hit-crunch-time-as-brussels-pushes-for-rebalancing-4942158",
+  "published_at": null,
+  "sent_at": "2026-10-10T17:15:45.710681+00:00",
+  "impact": "LOW",
+  "eurusd": "BEARISH",
+  "xauusd": "NEUTRAL",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

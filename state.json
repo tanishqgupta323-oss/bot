@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T16:50:44.863032+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 79,
+    "count": 80,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1170,12 +1170,31 @@
         "riyadh",
         "wounded"
       ]
+    },
+    {
+      "at": "2026-10-10T17:15:45.164764+00:00",
+      "w": [
+        "brussels",
+        "china",
+        "crunch",
+        "hit",
+        "pushes",
+        "rebalancing",
+        "relations",
+        "time",
+        "trade"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "b4ec4452b451758b4d1ebf59f3f6fee0988c8f8f5d3a2a5f2e19d91d1dd753be",
+    "cd52022aab0d0e0eb0e737dcf28582e4c3a93a57d5115af7332043552cf3df99",
+    "980590a6bb8a7f87704f8ee96901758617c8392eb52c8e7277c95269b4fab359",
+    "604646eb07dba58596821e3937b10edc9864d8e88a0db595c41d2c96bde749ea",
+    "1f24465f30a5b9cdb803368b9953ffe848af0f00b1d0c7fbfd4f5642cbff0f5e",
     "e75482513577c7ee34f2224b9101691c207440fd26ad949879ac964b8a1a7488",
     "8e0c6b40f2bb9375fffc2e555eb9e0a4e2c0877e8ab240f726cc35d5e7282055",
     "4b7fce1ff11ea8387f17e82fec1ca7797ee71ca219e735e29687a64f4a9ff2f5",
@@ -2170,12 +2189,7 @@
     "ad81e32bf7b478a204fbdd4f25bea7ffa904a4e74bc0e759dbf4017558d875fd",
     "0b5e7727d341fa286ea7a9ce6ec7eec5b93b580904d1c20278b66ddc1d07bd12",
     "a8aff8421fd9b918da44939f6ebe561ddef5990a7e7f101ce1fcb25bc5ceb54e",
-    "ca95cee745e80b902f0fb40584e367b35efaa34b76d78e0778d42df8266f3d91",
-    "9c6161e92f1eaae64e3a3a955605073dc331d9ed202b0b204eee278bd3fcee9c",
-    "42fed26d3f30baec728eff693f62dca5ccdfced99b46328caf85e8e219a6eadb",
-    "90e351de62577679d9b09e8b86bd78a1923a892dbd3dedb2147825a6d4b4cf26",
-    "13b5a90beda125e03698adeec2287963dd28ebccaf50a82f26bea99abc3a5a11",
-    "6076ed5b4b35f4a32a556437ded20b6aa6b48d057e233bf881ca18426f6a1bf3"
+    "ca95cee745e80b902f0fb40584e367b35efaa34b76d78e0778d42df8266f3d91"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
