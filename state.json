@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T10:45:42.888620+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 24,
+    "count": 25,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -964,12 +964,26 @@
         "set",
         "tech"
       ]
+    },
+    {
+      "at": "2026-10-10T10:55:34.521539+00:00",
+      "w": [
+        "deal",
+        "diesel",
+        "gift",
+        "putin",
+        "russia",
+        "trump",
+        "zelensky"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "bb8c67bfa8af5ae2a18334d592a377a6fcadaaf8657fcdab6197caa9e5023312",
+    "b5d468c507a867b221a66101ed55d3042974076f72370cd0ac496f527e82739f",
     "dd0db23e7827a4effb732d41cad9a61b018bac216c84ebc5d0f03869ea6e6058",
     "c8daf8c74f9cdcc700f91004c449a60e84339ae99b5ca5c019eeea7e603ea673",
     "a954ba4df574d21c70cb52beef16fc99f555f634035d42e0608d7287c1cc670c",
@@ -1967,9 +1981,7 @@
     "32cc44992b77962add1dd61d6d0a5c13d1d94e7a240f9b20be6ab49da30a3dad",
     "681945f231a8304b1f45af3a33fafcb4042edf12ed0ced0a3a6ad96b886496cc",
     "6b9b3c1f1dfa72298c802838e8f528960c47696993df6fbfa5e6fe58ae4eef0e",
-    "f14a3540fb7e18d02114911df7cccec192b1bb70b10b98ed8c14300b01d7e94a",
-    "aae7dab02d91d999dc8a27ccc1a05fef5a3c8c31193d8089d21591c51033c153",
-    "0f3e85d1aaf0254f25b9c62ba0edeb36cbfc98223294e5a69ef3a513cb049bf7"
+    "f14a3540fb7e18d02114911df7cccec192b1bb70b10b98ed8c14300b01d7e94a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

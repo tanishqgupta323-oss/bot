@@ -2131,6 +2131,26 @@
   "eurusd": "NEUTRAL",
   "xauusd": "NEUTRAL",
   "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0001
+   }
+  }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Times",
+  "title": "Trump’s diesel deal with Putin is gift to Russia, says Zelensky",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMndMSlVsNGpEYXNHTFQxSHFtdlpTLThfNnppYXdGZHg0MGVzaGNNc3NhYVNqWnRZQUV2RS13b2VkZFdLWHktQWRUYnNzTFFkZWlUTkE2SnY4eEN2eF9qY1dNTWNYQnU2b2h3Qm9Yckt0eGo0VkJjeFF6X2RVSlhHZzFmMDc0LVhHYVI3WEl5eVZFd3g4YjZLemJRYw?oc=5",
+  "published_at": "2026-10-10T10:25:18+00:00",
+  "sent_at": "2026-10-10T10:55:35.172806+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
   "checks": {}
  }
 ]
