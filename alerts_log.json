@@ -3177,5 +3177,19 @@
   "xauusd": "NEUTRAL",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "New York Post",
+  "title": "'Significant' activity detected at Iran nuclear site that was battered during early stages of the war",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHRwYUNvd2ZPQmVGbjFZc3NDWE5ZMk4wQmt5Z1BEcXQ4U0dWZ1pMTFhaU2RWSmlacUxhcS1PVnRzd1N1MVFHMTJFV21SdWlJNXhwUUxjN1NOLUtHNXk4SnJNcE5MZWhGY2NYZjJIdmVxX1FjNFIyNURtWmdUSGx2ekNCLWQybklZdjg1NW9fS1hTb2J4VUhEUVZoOHM4ci1iNGVqeXFOZFY0OW5lV3FTRUViUThjblYzd3oxNUZaeVYwcHFIUnB3Qjh2UktiRFRqam10RXpnNlI?oc=5",
+  "published_at": "2026-10-10T21:10:00+00:00",
+  "sent_at": "2026-10-10T22:25:38.518594+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

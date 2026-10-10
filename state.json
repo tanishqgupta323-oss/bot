@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T19:55:32.391553+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 136,
+    "count": 137,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1576,12 +1576,29 @@
         "trump",
         "underpins"
       ]
+    },
+    {
+      "at": "2026-10-10T22:25:37.863257+00:00",
+      "w": [
+        "activity",
+        "battered",
+        "detected",
+        "during",
+        "early",
+        "iran",
+        "nuclear",
+        "significant",
+        "site",
+        "stages",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "20059c98c69f10e2c03557c244be88d39892229061aeb93b3d9a267612813007",
     "e42681304f0c2d9a2caa7e80777838f9a039e1de46119df90ce86dbb79a1111c",
     "5c889306df7bf25a2d6e3bcaf789e4cb23258b1b6870e731027e32b20a936d1d",
     "c7f42e130c2ec10976bd1eb9569e1d59d5415c1bbbd7c6b00c0d7516804ec9d6",
@@ -2580,8 +2597,7 @@
     "671d8052938862993f4775b8c328fff8214af43166f97504d6d83a2d193b3fc3",
     "50e202ac8d29d7d55864f5a989d18651f07671f988f2721b82b11fac993f32b4",
     "38357dee89870d9e25c6dd709bede160b2bbb82144aded753df6a86b003601bf",
-    "e52124bf4172894cd8281d94ac4a0134e00f249dbff7d2b5cff33f1c18cb044c",
-    "dd609cf604062cca9c3b73115ae10a0565dc7d56846b04947e781da7a826e4f3"
+    "e52124bf4172894cd8281d94ac4a0134e00f249dbff7d2b5cff33f1c18cb044c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
