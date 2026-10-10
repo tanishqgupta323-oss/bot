@@ -2408,5 +2408,19 @@
     "BTCUSD": -0.0494
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNBC",
+  "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9reE82RTlXQ0dWeU9VQ2hqcTRId1hxZ0VSeEU2ZHBfa1NBd0dsQTAtbXFtMkpld1N2MWNjbFFrQWprZ1FLZU1ZQUVjcDlHbUFOdHF0T1JwdV9CRktCcFpSNUZzSEh3ZHU2a0FtZ0hKSEY4SzJtc3luU21PZ9IBgAFBVV95cUxOQTZlbjRaZGxKSXVpakFCZGtHekNRRGdLZUd4UGc3a0pyNnk3aGlFQmdNVEN0LXRXQ2dQNDV4RUpMY2UtYlVieTlDck5tZkQtVXNYSS1lV1c1QzVFR1NqQnJRZHJHMVFIT3FiSkFPMnFQclRfLVlmOFZZakxIZUxteg?oc=5",
+  "published_at": "2026-10-10T13:41:46+00:00",
+  "sent_at": "2026-10-10T13:50:46.621107+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

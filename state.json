@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T13:45:46.369193+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 54,
+    "count": 55,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1121,12 +1121,25 @@
         "trump",
         "ukraine"
       ]
+    },
+    {
+      "at": "2026-10-10T13:50:45.931080+00:00",
+      "w": [
+        "iran",
+        "kremlin",
+        "proposal",
+        "putin",
+        "relayed",
+        "trump",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "8599f8bc02750165be114cf6e803fea02f6ca61458efad724bc2b45b571c34c7",
     "ad4b3914b4a8d43e55ab913e3bab32968fb72b00d6bbb821d55a2fe3ff88da80",
     "307effd44ab7dfc80051783abc2504abecdc36e72271efe56de4607fa0a59d2c",
     "f45911cf13bb3850b3563d250d1ca113bdc32080dae732038a347235d673b0ee",
@@ -2125,8 +2138,7 @@
     "468a5cf0cf70697238c243e5789be8a987962fdae93c6738d3d535cd4e27b19b",
     "2ee4246bb830e117e59b848846bd165ca9453245e0d838811a35b4db3527c569",
     "6a3f8b5ac08faec1e38afd36bb2a59d8395c1a9cdd8ccf28c445816340723056",
-    "d728bacd1f77a19c444e197584270c25caf4898f2df5ff3be35d05730461a7e7",
-    "5ea8fef6ba9222d43c0cf1400414e5f440ed6d293642b6eacdcc93279485c716"
+    "d728bacd1f77a19c444e197584270c25caf4898f2df5ff3be35d05730461a7e7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
