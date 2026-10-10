@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T19:55:32.391553+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 140,
+    "count": 141,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1592,12 +1592,28 @@
         "stages",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-10T22:50:43.743879+00:00",
+      "w": [
+        "again",
+        "casualties",
+        "increases",
+        "iran",
+        "number",
+        "pentagon",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "592c432bd31354dbfa1e696373a4082cb5a799445309efbd7e4b02d079480dec",
+    "9c8d43fe36353e5ddbb8410506dfb3b52c04b1a757423f36a2439d8834b41c1e",
+    "e51eb4e48631fa3343f8f6faff3a5429bad206fa8040fea9de86ea501ddb374f",
+    "ca22a72f71debfb4ec92aa0424515aabbc9d2db211f3105517eb476e24afc07f",
     "6ef501578d5b8c60f213921f9372803364ddd6cd8c46309505d735435d6c548c",
     "82b887e871705c69adc9c146307ac830025a9d81767227921b3a0efae614a919",
     "4b52bf11d62489fc8ebef8d2c6086ea8bc975d5fa0e78c46e904595154ead202",
@@ -2593,11 +2609,7 @@
     "b1c00091ad5fab2399917342a76e5d487378057caccca1e7f7a6c0be28c02ed3",
     "e27f46b34d1d26ae92f97d3aeeb241850b32f5ba11f7bf66c60c3229f71ed9f9",
     "ac896e08b1d06fec1282526bd5f0bdd2ef5779c58dc6eb17190ee2cfc7437424",
-    "dc35b982b0c46946e14474086b84078eead70893cb9f42fabf9c2911d213189c",
-    "0bd78b8166d686e7d029bf8e59f60296b0c8f5377b7b18bf22ab2edd203507ee",
-    "3586ff862b8641d6a270f1882b38e4074cd6dd6d26c7262522381c304ffe883c",
-    "b99bf818f0c429a9fa3a24601e9d21dea1f47dc5c770cd03b8ac42c2e1f71109",
-    "671d8052938862993f4775b8c328fff8214af43166f97504d6d83a2d193b3fc3"
+    "dc35b982b0c46946e14474086b84078eead70893cb9f42fabf9c2911d213189c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
