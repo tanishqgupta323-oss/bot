@@ -2806,6 +2806,26 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0075
+   }
+  }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "PBS",
+  "title": "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPczlSNXliYm9yYnRRbzN4MEdfLXR4bFZLdHZzS3dTUUw2dG1wX0NKR240UkpBRWN3el95NHlsNnpEQ3NzUVZyX25jbWxmeW1XZk00Wi1ORFd4TFVvYnhVOUhUQ0NXajhtZ1BzZnZINm1MUGMxRWpuMEZWTnJwTF8wcEpIaGxnSjU3cGlhVkcyZWZnYnEzV1BZSTlpQ1lJS1NHcXRsYllCUG5kXzJCUmpvWTlYamJ0SndDbmhQV2Z2TURxRzJ2aFl4WE5FR2RrbU5nVGfSAdcBQVVfeXFMTmxHTHJYeWtka09CSmxNNmVUSkNvRUJBcHZCTXVYRVlrdEtnQXRtT3hNdG9QNU5aam5wRnlMZVJoTzFDbmNwWXUtRHhpTjRYYWdFQ3FHazV4YzdYRUlQQXFadjd6X2JnUTljcC0yU3U1UjFWNm1DZ1VKeGhHMVd1VjlzRElxanJhdmdDcXRDdENrQzN5TnkyeXR0MjBEcUMyc2dmemhacGxTYkowX0VjdU1uYzhxcUlqSlZPenlNRllCdEJNYnFTSWRONnVOWlZUajAtRWE2UWs?oc=5",
+  "published_at": "2026-10-09T20:33:22+00:00",
+  "sent_at": "2026-10-10T19:10:48.763737+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
   "checks": {}
  }
 ]
