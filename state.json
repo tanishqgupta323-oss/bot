@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T07:40:45.222575+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 4,
+    "count": 5,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -912,12 +912,26 @@
         "stocks",
         "yields"
       ]
+    },
+    {
+      "at": "2026-10-10T08:15:43.251316+00:00",
+      "w": [
+        "build",
+        "capacity",
+        "iran",
+        "missiles",
+        "pauses",
+        "protects",
+        "strikes",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "909f9e450ef90fd3aba741ecef24d3933856ffdafae5bb3411912fcf48d76b6e",
     "7aebb2ae2e9ff485f4333dceae778e7e69283af186065462472e4bb00fe42b63",
     "71700f6693af5cdcb5745cad80095d8764325c979da0bfd634ca210661e7bf7e",
     "47ec227904fdb1e3d114110cea7f54486ee9d597ec3909ba1b309cac40286eff",
@@ -1916,8 +1930,7 @@
     "bf7a14f2096087b7d0c217eabdc5e163728e81fdc3bd615bf0c12e1d63c81174",
     "4d88d2c6d88a3900a6bed347ffd949fbc20e8580e0ed1305c77c51903d178608",
     "7265a0c3eb5616e454d104cf0ba886061e67388c10ae2d9edac7f7341db1a949",
-    "bb56f56e25013f2891142b9b7d7ce0c3c37c3bcdbaa75a8f73f2cb5808d6c29b",
-    "acb975fe4540102f72393867710761b4ab86afe88ada3eecc042629ec06ab60e"
+    "bb56f56e25013f2891142b9b7d7ce0c3c37c3bcdbaa75a8f73f2cb5808d6c29b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

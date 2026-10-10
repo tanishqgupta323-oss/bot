@@ -2048,5 +2048,19 @@
     "BTCUSD": 0.0752
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bloomberg.com",
+  "title": "Iran Protects Capacity to Build Missiles as Trump Pauses Strikes",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZmU2NW82Vk9haFhnenk4S2N1N01ud1BXWm9Ubm5GQXdfT0ZVZk5XTnNoLUtUNjlOZ1l5bVpHbnhBZ3hTVDB5MlJObmhKWi1IVm9IcVNFMGx5V0U1TmxoVEg2OURNVlNRd01ieWhBenEtTHplWlZrRDVxbnRfb3FYbjhuMHAwM19JTFdZY2dJZzdkNGpMbVFoTHhCUF96OWhxRDI1T3RyYWlzb2p5S1RmcWVsZGdsQQ?oc=5",
+  "published_at": "2026-10-09T21:02:01+00:00",
+  "sent_at": "2026-10-10T08:15:43.921983+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
