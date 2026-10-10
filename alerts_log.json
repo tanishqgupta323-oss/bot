@@ -1741,6 +1741,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.0722
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0605
    }
   }
  }
