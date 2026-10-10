@@ -508,8 +508,8 @@
   "calendar_fetched_at": "2026-10-10T04:40:44.981333+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 264,
-    "day": "2026-10-09"
+    "count": 1,
+    "day": "2026-10-10"
   },
   "recent_stories": [
     {
@@ -897,12 +897,29 @@
         "trump",
         "ukraine"
       ]
+    },
+    {
+      "at": "2026-10-10T07:01:20.792026+00:00",
+      "w": [
+        "bank",
+        "bloomberg",
+        "bond",
+        "caution",
+        "european",
+        "investor",
+        "slide",
+        "spark",
+        "stocks",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "fd97251afc69524a70a1808ad712a836fbbd2c0baa73f5b2d3f86a194e702d83",
+    "bba090d261bc118bb056da1be345aad66f5db1652ed1627d247233200c84d3f2",
     "350951a77145ab12f41fb37e69e2147686035f333566a80bb4a8eed9303927a5",
     "d0d21df593f7c0d5ffefba96163c23ec782736f53d460bd05ca9ec306f4ba6e7",
     "48986aa10dd11c5e64054c34f1428150046ed5a4fbfbd8250d93273ce13837e5",
@@ -1900,9 +1917,7 @@
     "a1e20e10b8d700aa589b39c3bc6b3b4fca01ce77e8d1bcd63aa2068fbe46ce4f",
     "2209ecfe45eb9d41ff3b147da134ab0725a0990d50ffdc3772268595f62850bc",
     "f76d61760178e8821757ee8f5895a105b209ce47bd7ca2ce96d0bec6f0e0f902",
-    "34c8598ba62e45685281e90fc833a221093edc9b4f7d175f9069dd45faebe8c9",
-    "cb3400e4d9d0e76378073ac299465d4bdb2f8b2a067f5d0ea1b69e1208aac1bf",
-    "6f04ae04c3f7cdf1c130944e07db6cc319d6f60daeac2ac14b7aceb568d1b28f"
+    "34c8598ba62e45685281e90fc833a221093edc9b4f7d175f9069dd45faebe8c9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

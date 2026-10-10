@@ -2018,5 +2018,19 @@
     "BTCUSD": 0.0003
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "European bank stocks slide 8% as bond yields spark investor caution - Bloomberg",
+  "link": "https://www.investing.com/news/stock-market-news/european-bank-stocks-slide-8-as-bond-yields-spark-investor-caution--bloomberg-4942017",
+  "published_at": null,
+  "sent_at": "2026-10-10T07:01:21.564563+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
