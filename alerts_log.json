@@ -2531,7 +2531,13 @@
   "eurusd": "BEARISH",
   "xauusd": "NEUTRAL",
   "btcusd": "NEUTRAL",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0003
+   }
+  }
  },
  {
   "kind": "live_news",
@@ -2545,6 +2551,34 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Axios",
+  "title": "Trump tells Ukraine to replace Zelensky over Russia fuel deal",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPamtrTldJeHllcEY1cFBNVmNycFFlZ0J2RHgwVHpUZ3liUnVIUjh3WjdfY202UnRTWThCOVNLU1pUMERsWXMzemNwWUpkRVJYODhtbDhuNmZSWUJmV3h0QU84UGFka0pTQW9WcHhETlpEQjNEWGl6YXBrZFR3OE83X0Nn?oc=5",
+  "published_at": "2026-10-10T17:30:11+00:00",
+  "sent_at": "2026-10-10T17:35:36.583573+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CBC",
+  "title": "Trump says Ukraine should get a new president, blames Zelenskyy for U.S. diesel prices",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUDloZWtvT3hkeExpei1wZENiNTd5SGJLYVVYa0VwMFB6b0h3WndlTjBCZzM1SWk1MDAzdHZ4YUstcU9jUVFrczhHcy16UWREN2pEeTgybGhBOVNWX0hlaVRZZHR1RVdiS3h5NTB0WTdpR2VSRVNBaGJKMkY0aGFpQ0gzSFR1dFBX?oc=5",
+  "published_at": "2026-10-10T17:24:22+00:00",
+  "sent_at": "2026-10-10T17:35:36.898423+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
   "checks": {}
  }
 ]
