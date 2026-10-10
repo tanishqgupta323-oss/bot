@@ -3108,5 +3108,19 @@
     "BTCUSD": 0.0386
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Facebook",
+  "title": "The New York Times. . Hours after President Trump announced a deal to buy Russian diesel, a Russian attack in Zaporizhzhia, Ukraine, on Saturday killed at least 20 people, including children. The Krem",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZTVXR0NQNnE0YUgyOTZybmF6azEtQkFVZU80aEVvdjBzQnZmcDVNZ1VNR25xbEtMd1lKaVZ0VllJT3phYXZUTWNIeTV3NTZHbzZjTGlHSkM3c1prWFhaZ2pzVHkwMUtScEZPdmdHUkRMTllCN0swbzItQ3hiSkR0VV9GbGpmMWFwdDFlNkh3REx6MnVQVm9Xd1Z1VFhVM2tKZ3d0eGczaThBQjJCMmhfUjhVaVNwaGFNbnctOTBZSXoxVWJBNk41MlpWSXdJYjIxSVBmTw?oc=5",
+  "published_at": "2026-10-10T20:55:05+00:00",
+  "sent_at": "2026-10-10T21:50:45.040972+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

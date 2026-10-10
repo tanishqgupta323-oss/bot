@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T19:55:32.391553+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 129,
+    "count": 130,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1515,12 +1515,46 @@
         "strike",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-10T21:50:44.489015+00:00",
+      "w": [
+        "announced",
+        "attack",
+        "buy",
+        "children",
+        "deal",
+        "diesel",
+        "disc",
+        "hours",
+        "immediate",
+        "including",
+        "killed",
+        "kremlin",
+        "least",
+        "people",
+        "president",
+        "resumption",
+        "russian",
+        "said",
+        "saturday",
+        "there",
+        "times",
+        "trump",
+        "ukraine",
+        "york",
+        "zaporizhzhia"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "42eb3efd584d73e924ed08bcb65046e227e256e8d0b9d5c5599286977c8cf3a0",
+    "18632c057b3d1335ba93fb67db868ab2dc6e8a90bfed770f43749bc7c1352138",
+    "3c36e8dc930514fdaebb2149b9bf5704114d1f5709958890d5b7237483046e21",
+    "33fbbc5fda9da33dd32ea222afc624e0b01799b17b4ebefe1c28c91274535191",
     "cfde342f954c2bb5f30d13157785defa38e4a5b327db9c6b9178fafbac03ae3e",
     "d4a8b4dcb8cfde8afad309a428c9608d471157f7bb0da3137eaadba9766cad90",
     "a5c386779bd5e03218277e02c0455f4666ac2d7ff42d5183cb7b2d139c109b4f",
@@ -2516,11 +2550,7 @@
     "c4369ba711fa8dc031b539e483b4d980e1af8322d9b508fc025c0bffbb08ee2a",
     "00b74a0da5e769abaaad1047d5d3f06147221c6784949b90bb0357d018f28ab8",
     "cd726685a10e383ce523171f916e244f0d79399d4f92b653fb87fd209e10c850",
-    "314c6cdfd973c0d6fcf1be2ca835499fdf9961bb24ab71d670579d00dc48fa31",
-    "bb429826fce531a8c26046ebf8477ace47552c3522d17ce5fa464ad45e7a7d34",
-    "d13995e49df96d02d1494bfb7718c415b4229151073e8fdb6fc29ad3ef6c56a6",
-    "544ec6211b40f0118c5e9b71e354e9b8b1246616a7f86b34af38c3e8f02ba922",
-    "ee5e86a04efba6698de71ec936f12789eb1b1e88985ad4d01359817949833d8a"
+    "314c6cdfd973c0d6fcf1be2ca835499fdf9961bb24ab71d670579d00dc48fa31"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
