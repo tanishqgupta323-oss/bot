@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T16:50:44.863032+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 85,
+    "count": 86,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1285,12 +1285,29 @@
         "strategy",
         "transfers"
       ]
+    },
+    {
+      "at": "2026-10-10T17:50:46.987587+00:00",
+      "w": [
+        "during",
+        "iran",
+        "killed",
+        "official",
+        "pentagon",
+        "raises",
+        "toll",
+        "troops",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "87e394c7674bef0b4446f38b95608e2a525e27b113d6753c55ad9d62ab9dae1c",
+    "e5dcdf913edefe2d68bf68a52088c858f2143dc8fea5e59a37e958d46415af2d",
+    "f434391a3c36ceeb679ecebb175a035f197cc3c6509b3344df8c67455d954225",
     "b91431bb2f9cce91c91b57920657588488dbce0fbebcf9ca91c6032ed83f35c6",
     "19e51b08b24436903b02767c94dbad5cb87da22332ac1fda4932daa21164d643",
     "4985831986bc50b482ca115fad85b103d00d20d5ec90fd956fd840b1a85c8b97",
@@ -2287,10 +2304,7 @@
     "e507c5169d1dded08ec80d0d9f1bd2cb282569acd30e80eca1e982dffd6b9d3f",
     "40931df658714c876090afa7bb9cac57c7263b092c2e222b048a11bcd570c499",
     "179e236ea4ebdc58c956fec2baf2256e9dcc1c2880861832d983a84b9f2dbeae",
-    "485463af3b01073a048556a1536238917dbbc7f9878fcfa75e72cb6978a694e0",
-    "44838538d0c7c313eebed02da26b05cbc366cd8e8141d47aa382ef1f99bd9163",
-    "953ef2b9cb3df18087b60c26fa23a405d4f61959532ab599b0e73baad476816e",
-    "c9116fba36edf48a73d185c1765c0523ca5447f492dc539025dd00efc8c2b2bb"
+    "485463af3b01073a048556a1536238917dbbc7f9878fcfa75e72cb6978a694e0"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

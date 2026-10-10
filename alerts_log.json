@@ -2647,5 +2647,19 @@
   "xauusd": "NEUTRAL",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Washington Post",
+  "title": "Pentagon raises official toll of troops killed during war with Iran to 21",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHZoelUtdHRTbk42U19GLVM4OGV3QlR5SFI4VFJzQzNObUlUS19BR1UyMTE0alVmMFppTzF2NFpNQUdBTUhhTjJFVVlGanQwdUM0UGRSb2p6eWJJenZQbDlScGlFU2FfbWJncUd5ZEUwX1ZsY2N5dW5wRUU4MlctVUpUbWNRdmE0MkFDb0RkcjJYRWdSdm1LWnA0M0lmQkdBTjRDTE9PbkFPc2FhNnpsQ3JVQzZ2Z1FwaE9sRkxHX1hqcU5ENFlz?oc=5",
+  "published_at": "2026-10-10T17:44:12+00:00",
+  "sent_at": "2026-10-10T17:50:47.721789+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
