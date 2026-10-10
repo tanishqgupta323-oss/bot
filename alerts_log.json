@@ -2891,6 +2891,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.0818
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0421
    }
   }
  },
@@ -2911,6 +2916,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.0818
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0421
    }
   }
  },
@@ -2980,6 +2990,20 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Le Monde.fr",
+  "title": "Zelensky blasts Trump-Putin diesel deal as Russian strikes kill 16",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVpoek1GUjEtRS12aW9laElHNG1BVE8zX2oweXhIcFRMNmI0VUdxaktHNjQ4NnYwS2x1ODg2SWkyR0ZuRWEzR3dnc2wxQXZCQjktaUlRc2JXdTMzcnFQMWZaVlloZnNIblg2NkhYeDJmd0daYnAwN25pSHRUc2ZmZDQxSzRBb1RDWllZeHlIQk1qbTlLcVJsVkRmS3hKUTA0RWtwMGt4X2k1dGZ3cDJSajRqUGxvREZxSFd0dGw2b0gzNXpYUTRLQ2owVGNpaDR0UnpqYXR2TQ?oc=5",
+  "published_at": "2026-10-10T17:12:26+00:00",
+  "sent_at": "2026-10-10T20:31:06.307737+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
   "checks": {}
  }
 ]
