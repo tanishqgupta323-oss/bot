@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T01:40:43.424440+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 237,
+    "count": 238,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -796,12 +796,31 @@
         "tokenized",
         "xrp"
       ]
+    },
+    {
+      "at": "2026-10-10T02:10:48.224256+00:00",
+      "w": [
+        "attacks",
+        "cites",
+        "drone",
+        "peace",
+        "putin",
+        "talks",
+        "tells",
+        "trump",
+        "ukraine",
+        "unlikely"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "53a056c19715f571200fbe653979e9c93bbf76adfed081ad3b05ca5f11663cf4",
+    "25c4715332037ddec0c2ef64f9966f37d691cc909d7cae7d84cdb04a0d7268a7",
+    "0c285774a07506933236526b8770d3c8bc64217ecb72b2e72c3ecdc773efcd8b",
+    "e70cede7a94cba259597921697270e5e4a3051e686f7d8796561997bb10825a6",
     "95d164787313844e04ef1f0096717fb9dd9751bc56e8f942ea0f5627ca37736a",
     "1e32e47271144b7536a3b95d86d7cec8c0d29304da0bbc91d36f694be77c361e",
     "7645a3fa02acdac3d0a75833eac898f27a147e2e968c6069a0b863a1ba2d30d0",
@@ -1797,11 +1816,7 @@
     "2796dccd9dfc89619e666acf6d65721147d3e7d58254dca1d93ef6088ac2c747",
     "9df7dd77ce224affcabc6e25b3c5b49400e0155e250ca04a3f15c014f933b586",
     "e25f2eb2986a2771f453a221829cd82e2d839be03c6f9a94182f8cdd8bcc2a4c",
-    "c6cbd3987bb276984d5660d07fcfbd4d502e12a160ad603f978aeadb38ab158e",
-    "38148648d41f24468d7a8c65c0bdcd2e3eceac19f6459dc9c17840d71331e41a",
-    "f5b9180747f5c50748912b06c32dfbcafe24d4073a0786d2f34209599803541a",
-    "f56692c29a5f6a96f41031dbfb14839f8f8cb9897d58c51464177b1d4a018d78",
-    "f01127ff5ce3f1c04af1d70036c6d588bca8903c36932ffcffe3a93999ed3683"
+    "c6cbd3987bb276984d5660d07fcfbd4d502e12a160ad603f978aeadb38ab158e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

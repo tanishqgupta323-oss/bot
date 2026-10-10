@@ -1816,6 +1816,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.0695
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1006
    }
   }
  },
@@ -1838,5 +1843,19 @@
     "BTCUSD": 0.1163
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al Jazeera",
+  "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS21icGllSk12TlZ5V2dyYnpGZE9vOXZMME0xeDlwc2YxajQ5UTF3RXBQTV9XTkY4VVRfNGxzcU9wOHJZTU9nbERrTENuMWpxU1ktaVpydk5WbVhSRXNiLU1BbENxVWlRZEEzZUE1c1ZwOXAzeEFBSmNNT3pMMmNhUmw0alRmUkVGODRCbnh5czJGOUE5SnUwdFpoYU4ycE9DSldubUU5Wjk4dlRFVXVRNV9n0gG3AUFVX3lxTE1aRTJOT1R1M3lvZXkwZ1NOQXZwajdxTmxOZFhtODNBTS0wZTZkRWdDWVAxU1h3TS1MWVFRb053a0tnVGRiUHpjV3VOUDJZcDE4RjdYZ21kenI4dkN0N0gyV0NyLVdQX015aEt5dUdBc2xSZk94aW9zLWVlemlKUnl6cV9jVzdLdGRlZmsyclFTNzZLeDZwNXE2WXdlRTBCd094UVZZUjJPZ3F5b3NzQW1SdHo4SFAydw?oc=5",
+  "published_at": "2026-10-10T01:45:16+00:00",
+  "sent_at": "2026-10-10T02:10:48.851847+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
