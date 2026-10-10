@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T19:55:32.391553+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 122,
+    "count": 123,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1500,12 +1500,29 @@
         "some",
         "watch"
       ]
+    },
+    {
+      "at": "2026-10-10T21:15:46.229841+00:00",
+      "w": [
+        "500",
+        "before",
+        "bitcoin",
+        "iran",
+        "midterms",
+        "near",
+        "rules",
+        "steadies",
+        "strike",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "d22674ef0eb024c1cc58c1791f3b69cadacee41bae75ff3c4cf0d2bd7b47d7a9",
+    "9169a3657525593f3102af76cbb7fc3b3a022ce506e66db3b37b6f7165b34031",
     "20f570795166ab74d00ba784b46430c01a00d3643dc7b54853654bcd74c4482e",
     "ccd37787e66f1dacf986de9d827882b2f9ee7c64324a693fd117961b5609113f",
     "26ebee43c051832b74bb5b4d1dbf934675b4968a9965bf6de330c15d95a9b8e3",
@@ -2503,9 +2520,7 @@
     "cbf54fe521a064189c9cb1070b26543c0f1f10e06d2214c880c9f200556a31a4",
     "c38636e90c6bc05bfde2043e9262449d0db9a125e332f84762118c0225299965",
     "1c0820c17a96b28e0b04a1599babfd751db4fbb297c33acb217d668a2d5455f5",
-    "89f4914b1d7a92607b7d9b1f3b1c45bd23ad6c966612a8bfd8448882bc679130",
-    "87bcf4131b64f411ebffeac067f18936a0249f88ce598410dc34f79285af5603",
-    "cecf40de9754757609a4dee912e36ebc19dd20a35690a0c6c8b22b6c383edd14"
+    "89f4914b1d7a92607b7d9b1f3b1c45bd23ad6c966612a8bfd8448882bc679130"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

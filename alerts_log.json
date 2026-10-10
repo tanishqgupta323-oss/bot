@@ -3073,5 +3073,19 @@
     "BTCUSD": -0.0085
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
+  "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
+  "published_at": "2026-10-09T10:44:22+00:00",
+  "sent_at": "2026-10-10T21:15:46.886576+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
