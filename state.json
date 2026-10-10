@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T10:45:42.888620+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 39,
+    "count": 40,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1048,12 +1048,41 @@
         "war",
         "wounded"
       ]
+    },
+    {
+      "at": "2026-10-10T12:31:06.900966+00:00",
+      "w": [
+        "deal",
+        "fuel",
+        "peace",
+        "putin",
+        "sputter",
+        "strike",
+        "talks",
+        "trump",
+        "ukraine"
+      ]
+    },
+    {
+      "at": "2026-10-10T12:31:06.900966+00:00",
+      "w": [
+        "bond",
+        "disrupt",
+        "european",
+        "french",
+        "rally",
+        "rising",
+        "spreads",
+        "stocks"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "516cc4dce793988d121996eeded8dd78a6f15f6815f52175417bf58dde0a279d",
+    "d311b1029569a51df6406cbef75a043eee5f7b1e6133bcc7bca5f469cda48d14",
     "effd80d6cbe022a803524af03c5ca4b3e154514f7c0d35044d9e3e60c487fabf",
     "669ddf09124bc0a262e65aad2a8e0ec4326b9bd3aab129f3da043fd619ff88de",
     "2c8188e48f01fe5b2988a98782dced85d75e55752b0bc1a391047dc8653708c2",
@@ -2051,9 +2080,7 @@
     "3e187344a73fb486db7aec64fc13deb8d678985640ccdb57dbf1b0ee964e96d8",
     "62ee0d0e4c75c54edac843a1019024a928f227dcac078c60158672d834f37029",
     "58b8ae7ef2c074d38ac4c8a093753d8ac9ba785741d192a72ed8aaea281f0fc0",
-    "bdbb17687043e5a26744c9913f476484068cc27b9c0ba18c36f6b1153e60e891",
-    "f82dfa4ad55933346a0b55db42809057a69b47a953748f7dcc73979bd838fcae",
-    "b6435a1ac04ea3a0a9e51573cfac9b6efc4ec672cad01bf5f2d64f3113fc96a9"
+    "bdbb17687043e5a26744c9913f476484068cc27b9c0ba18c36f6b1153e60e891"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

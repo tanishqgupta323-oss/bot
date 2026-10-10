@@ -2191,6 +2191,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.0557
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0142
    }
   }
  },
@@ -2265,6 +2270,40 @@
   "impact": "MEDIUM",
   "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0539
+   }
+  }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The New York Times",
+  "title": "Ukraine Peace Talks Sputter After Trump and Putin Strike Fuel Deal",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemRINWVHeU1PM2lHVjQ0RXNIamU0eDYwcDBkYW9PTnNxa2tNVjVhTHpLdFUzbVpOWnhXNmFvZVdmdEUtZ2pGT3VES2Z3c3R2bFBLdUVhOVBLRDA1VS1Fem9HWElCeWQ1ZjRpUjl2U0JvOUdMal9VNC1TRXBidDU4bW9ITGQ2aUFWM2UxclR2aw?oc=5",
+  "published_at": "2026-10-10T12:13:37+00:00",
+  "sent_at": "2026-10-10T12:31:07.542167+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Will rising French bond spreads disrupt the rally in European stocks?",
+  "link": "https://www.investing.com/news/stock-market-news/will-rising-french-bond-spreads-disrupt-the-rally-in-european-stocks-4942091",
+  "published_at": null,
+  "sent_at": "2026-10-10T12:31:07.872443+00:00",
+  "impact": "LOW",
+  "eurusd": "BEARISH",
+  "xauusd": "NEUTRAL",
   "btcusd": "NEUTRAL",
   "checks": {}
  }
