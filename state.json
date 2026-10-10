@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-09T22:40:42.669083+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 226,
+    "count": 227,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -772,12 +772,25 @@
         "stablecoins",
         "unauthorized"
       ]
+    },
+    {
+      "at": "2026-10-10T01:05:33.894815+00:00",
+      "w": [
+        "diesel",
+        "export",
+        "lifts",
+        "russia",
+        "sanctions",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "26dc5279b142d8ee6a544fe2af11dcde6b42c094900a88402ae8a270421a601f",
+    "7b09477b38e8ea1d7124584886674308b5aeae983b31fcfa1b9edbac59ffa93e",
     "3076d0404bdd46b4e992cdea4795141d85a3dfd5a51a20e4ca4e1e74477f6474",
     "dde5c7c770290f860df737691022e20265ec41294c6bd8710ff26715488568d8",
     "5727e97699f581237f8f3bbd66b29f3877e72eaa6fe9c045962b68c39a495a3b",
@@ -1775,9 +1788,7 @@
     "5c88e8dd4433a995248664b945593821fe642a3eac18e039b52ab8920e3d8fdb",
     "0e1b48de8d235bf7a81b829c88ec33d93a82c35475ed281daf512956556b6ad7",
     "4fd52997c7f46ae5f12411e5fb3e9fd29f47a1ca9d04f6a71d38214fb8e15cbc",
-    "0c472199611a621381e0d0796c733210b8aff3c4ad67ab47fef81e66cdf3bd9e",
-    "77d3f6fc83dc3b225d22d84d9cc5636b36425ba27eb12f2950334f51801e94cb",
-    "ff24c71f10926aa1cfe32d8cf2e8475c25f264ba6d3ac294cb706cf1622e5a29"
+    "0c472199611a621381e0d0796c733210b8aff3c4ad67ab47fef81e66cdf3bd9e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

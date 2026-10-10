@@ -1776,5 +1776,19 @@
   "xauusd": "NEUTRAL",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Hill",
+  "title": "Trump says Russia will export diesel, lifts sanctions",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUtNR2lvVlBpM29SdzRlelE2aDA5SjdLOEd3U0JWeDAwTEN0Snl2RG1tU3BaUWplM2xQOGM4M1k2VWtiYm1DWkN5WC1pd3p6NDBzMUpfeW1IdVhBejhjTnp6NkVwcWM4UU8ybHhRdGtDUk9XYXRxUEwxN3E1ZzgyNnVVOURQMC1MbVdES0l4Q2VtNnJvc3Q5UDhnM3NTNU9BTzdfNmpjSFBzbnFZaWp3NDZB0gG3AUFVX3lxTE1kYm1Xc1pOMEtaSlJOR1BTMEJmWFotdGloMWlRXzhsVU9EV0NFSWVKX2psSURqenBOdkpyc2Q4Z2JIMW5WTGwzbUx0TDVHaHdJMm5paXR5bktKQUhPNEZ3MnhVV01LUUJlRVo5X19kclpTdjBMUmZoY3FXamt4REJmcUxlUkRVVzVVN2l0Mng2TDJkcXZDR0lZcTEzTC0zYjRYU3lDYWpSTi1yMkMwMVY0NGxIRm02SQ?oc=5",
+  "published_at": "2026-10-09T22:23:00+00:00",
+  "sent_at": "2026-10-10T01:05:34.403217+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
