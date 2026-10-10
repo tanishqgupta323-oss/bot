@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T13:45:46.369193+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 75,
+    "count": 76,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1158,12 +1158,27 @@
         "iran",
         "saudi"
       ]
+    },
+    {
+      "at": "2026-10-10T16:40:47.679611+00:00",
+      "w": [
+        "airport",
+        "blast",
+        "eyewitnesses",
+        "multiple",
+        "people",
+        "riyadh",
+        "wounded"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "6f7fbe0fb5dd1905b43a51cbd7562171cccdafb7795087d1c67f523eea37ec14",
+    "45cec6622fdec5f88c35a934e03814f7c86e82a9f09ae2d21eeac20c63ace75b",
+    "e26f93fdf34d21d3e381577f8681184b22936c3351d5e9eb193cbd23ef310f0b",
     "8538738f19057551a08cbfa281faac85715cbb14bb8c9c8fc9347ab292c9c428",
     "daece7e91f4718d9c260f81f565fce2861ab178de902f5d241addf6ea93bb761",
     "6ffa875b1be3a5e290fd199553dd91518434a17bc0bf3da1e6ef29f0582e9bf1",
@@ -2160,10 +2175,7 @@
     "ab18f787f7693ae5ae436ca031a0acb24f93de01bb85eab04559a31b2955dad7",
     "7c2386c78e6136523cd653950bbc192588b3d0a67ecbdf08999312ab7e348933",
     "a3127cc67e37ee7a100c04cef937467d9f6eb24f7ae1cc843f5b3744ed293980",
-    "1002cc1fa12a58316778180db3fcc94232f32b3c20666eddd75f2687d95f1cc7",
-    "5d200546a6072f90e6717eea3c88672bf43d1d5d1ad90b0c7a62bffaa1d1e005",
-    "4df7e34efb0d0972d8345bdd36b8246a4c9692f216b62adccd1518ffeded2cb2",
-    "7f0c4d41704a7e69a12cc192183b51766738081a93d7495e1010ad0c93733eba"
+    "1002cc1fa12a58316778180db3fcc94232f32b3c20666eddd75f2687d95f1cc7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
