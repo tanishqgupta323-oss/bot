@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T16:50:44.863032+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 100,
+    "count": 101,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1364,12 +1364,30 @@
         "reserve",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-10T19:20:43.947075+00:00",
+      "w": [
+        "airport",
+        "attack",
+        "houthis",
+        "joining",
+        "president",
+        "riyadh",
+        "saudi",
+        "strikes",
+        "trump",
+        "weighs"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "85bcfe9a723d5342e2658127e88d6c2d5cce387c40836d1645ab900f82108177",
+    "f31b8c079408502a06debe0859f7e0257d7a492eab20d1deacfe0656b3879272",
+    "dfb800eab0c96dba3b8ab8a860f890480b2581490a9f386ebec963ddc250a1ab",
     "a39e1942d00b78e9d0ef41bc7ae0c913e861cb21ac61440498c6c8e5f7167bc8",
     "54e9df65592c07102f4ac64a73599ca06f81aab7bc662fb1782e922b97c52a7f",
     "be157c1c6762800765276ec6f1932bae97421928921ed7f324163d12139591af",
@@ -2366,10 +2384,7 @@
     "2559d7653b122f2362092878c22aec36e38bd2c31db00067f21aed62fb08a1ed",
     "642f952d5b142f6cbb34f97db82f3e004a13b37cfa3b54b8f4140d7b40b9d13b",
     "e6bff08d46a7d5f2092150ad183e51510b5a0a2133e97b6142c3bbf6a3443079",
-    "554d505139e4ab12b7ed3761ddf63f60919d2de172a054fd635ccd804c525edb",
-    "f83863c697f2d4d9a9285df61b99da66815ee9749ccedd9e7ea4fecba8c98d1e",
-    "6e8885db7f1faa8852985f3fc52949275d96c03e44f214746fe9db97a21b3c64",
-    "6a1a4f87604c1f8749e8f34dd6f0d0b36ecba6b4acd6690940fa03fcb9438f45"
+    "554d505139e4ab12b7ed3761ddf63f60919d2de172a054fd635ccd804c525edb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
