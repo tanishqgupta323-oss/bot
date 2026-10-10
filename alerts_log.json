@@ -2941,6 +2941,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0471
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0239
    }
   }
  },
@@ -2961,6 +2966,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0471
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0239
    }
   }
  },
@@ -3036,7 +3046,13 @@
   "eurusd": "NEUTRAL",
   "xauusd": "NEUTRAL",
   "btcusd": "BULLISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0085
+   }
+  }
  },
  {
   "kind": "live_news",
@@ -3050,6 +3066,12 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BEARISH",
   "btcusd": "BULLISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0085
+   }
+  }
  }
 ]
