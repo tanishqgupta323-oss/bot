@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T22:55:32.707905+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 142,
+    "count": 143,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1618,12 +1618,31 @@
         "trump",
         "yields"
       ]
+    },
+    {
+      "at": "2026-10-10T23:01:16.741011+00:00",
+      "w": [
+        "actions",
+        "before",
+        "elections",
+        "hormuz",
+        "iran",
+        "midterm",
+        "muses",
+        "renaming",
+        "step",
+        "strait",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "02c7df5e6afafe92b316ef5c07abc5d1254795396512f5c7812ffc951b5c5858",
+    "10bbca6eaa7183eb3864905fc9c5f1fc2a5e16f5a8faf27cd10ef0bb1864311a",
+    "4c925ea76abe74df36a5e2073cc6b0d9aae85b1535d625d9b949520413b7883f",
     "3586ff862b8641d6a270f1882b38e4074cd6dd6d26c7262522381c304ffe883c",
     "671d8052938862993f4775b8c328fff8214af43166f97504d6d83a2d193b3fc3",
     "592c432bd31354dbfa1e696373a4082cb5a799445309efbd7e4b02d079480dec",
@@ -2620,10 +2639,7 @@
     "f9b0bde2ffcc7e3bde11d467d0c50243fa808aee3b70ee167c81b46e9dfbe66b",
     "879a9b4fb132c0004f96908a809cd057df9a6f9588384f50ce3b2b3ca4a7794f",
     "d18d5e3aede361462d3346188e1b0ad9d77633c371951aa613928f29dba6aa2b",
-    "4d3c19efdbbfc952ea9e7f10365951d7a46c274e497c73ec95c9cb77680f419b",
-    "706471c7c9d72a05aa747b81d3575646f1cce3df63b9ec84cf6e8657fa21b927",
-    "b1c00091ad5fab2399917342a76e5d487378057caccca1e7f7a6c0be28c02ed3",
-    "e27f46b34d1d26ae92f97d3aeeb241850b32f5ba11f7bf66c60c3229f71ed9f9"
+    "4d3c19efdbbfc952ea9e7f10365951d7a46c274e497c73ec95c9cb77680f419b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
