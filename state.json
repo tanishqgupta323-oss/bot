@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T10:45:42.888620+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 35,
+    "count": 36,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1004,12 +1004,29 @@
         "told",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-10T12:01:21.998619+00:00",
+      "w": [
+        "end",
+        "hosts",
+        "kills",
+        "productive",
+        "russia",
+        "talks",
+        "ukraine",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "0b7fc67feaca8525f343cc139bab993176ec08356f4df1806ae5107e617ab94d",
+    "7517e7e076908aee9fb1e429271263858f66f41f6ee0255c9074058a5594a1fd",
+    "19c446cde8549bf95b81e8b68adc774eddea7d6135ae2aa94296622700a7dec6",
+    "44afe227a6865cb77a5ec63f6c5e81adc77045db2a0802929d728607e854d88c",
     "e87b6df53fd6d285ebbf9ce5b3df68f89fc20dbec4165c29f845d5403db4125e",
     "5de14b6998c0776741df915c52e138a443fca55748c73a8c0fd4db88e5c3c9a0",
     "05d75ffa0e098c0734ddd3cfe3120143e540e5f153406c23802ba0f949e4c321",
@@ -2005,11 +2022,7 @@
     "9130da3bc42ba9485779cc0c81a2b9e0048bd554976fe05df293453b831b269b",
     "ce90ab20bd6e41bd2bf3ce957c5e8fd94330a6c1a082341e23d300765810191c",
     "55db6ed51094828d01fbc855a80976c5cd431c4e6e21da177346e64f7eda4757",
-    "cefce2a5daccb499ec2d0cbf29ef5bd8832dee0f70770f4fc3fa2f26e2ae348b",
-    "541eb4d7b9c6f4c8e8e1a23dcd145582c864c37c43ddf4056c0b3cbafa03c972",
-    "273811a8251489ab1905b2da40dd4ec4ae1060d82620fdfadefe6258242f8ca3",
-    "e70208165140abf6ee3a6c3f7da96cddaa141c312f1d4a7d0deacf4c4b91fa76",
-    "adf6b3b2a49be78a9c6ee64088b5cf6d62363829f1395f55df8f58f55e250660"
+    "cefce2a5daccb499ec2d0cbf29ef5bd8832dee0f70770f4fc3fa2f26e2ae348b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

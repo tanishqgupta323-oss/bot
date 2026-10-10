@@ -2166,6 +2166,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0171
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0665
    }
   }
  },
@@ -2199,6 +2204,20 @@
   "sent_at": "2026-10-10T11:45:50.308033+00:00",
   "impact": "MEDIUM",
   "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al Jazeera",
+  "title": "Russia kills 15 in Ukraine as US hosts ‘productive’ talks to end war",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVRaMG1aRnhiZDJkQ1NPY3J2RVpHaVE5TkwwWmFMQjBNUGloLUNZbHYyNm50RmZaYTlSSlJNQmFHellyeTB2VVhxSk9Ka1hEX1FQWUhsN1hGcS1PQVVSUFJuTW1tQ01KZU1GX3RVcGc3cEZ3bGpqLXZHZXpuQmJ4S1NfampTN2gwbmszTUMyeVNPemhVeFUzaXMxbnJKMElSb0l1RnBOONIBrAFBVV95cUxPOEF4cGJIaG42czhBRHVhOGZ2STlHRThabnNjZFd4SkFtYWRobHlFMUVHQXJScnYzZ1p4ODJXLVE1emFwSHBuaGJwZXNobTBLMXBUNEtvRGgyMXN3QjJuTUh2ZUlUMVdTVnJQQ2d5UmZFZmNfVzQ4cm1hQ3EzbENCcmlyTEdCMFdsSFY0cWEyWXkyNWxOUlE0NXA3aktfTS1NeDVFenZwS092bHRL?oc=5",
+  "published_at": "2026-10-10T11:36:37+00:00",
+  "sent_at": "2026-10-10T12:01:22.782638+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
   "checks": {}
