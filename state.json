@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T10:45:42.888620+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 29,
+    "count": 30,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -976,12 +976,32 @@
         "trump",
         "zelensky"
       ]
+    },
+    {
+      "at": "2026-10-10T11:25:44.102431+00:00",
+      "w": [
+        "bitcoin",
+        "close",
+        "day",
+        "highs",
+        "live",
+        "loss",
+        "set",
+        "slips",
+        "updates",
+        "week"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "0159d7525d077cd0042df1ac9b1f96e2da077cfad6a6c395bf90348eea08e50d",
+    "8c26cfef680276910959fdd011db31769337fa1cabce66101dc3674dce6325f3",
+    "5ea82512175756fa40a22fae00bc92cfda823c17e7d2fd78771199cd3ef6a996",
+    "54cec4f06eb3af1eb1afcb55f4b84fc4af08d9f54ceb3c07881f5818ea17540a",
+    "b424326b3c8c065da692f19a5c0a121e5f5627111061d63069ef4f13d5bf29cb",
     "958ba4290e0fa041870fc099b36536d65ef68a39527aa1256aadb8ecb4f8d22b",
     "253eb436a7023e975ed57d647ebd84bb3867a9323d80c95babba29a01bfb8d05",
     "0f43ce12b97d2a484f83c2f9c0ada304e496156033ead4f6dd3fc346a7b93eaf",
@@ -1976,12 +1996,7 @@
     "b3ba69ae6d81fbdcbf624dcdea5f502b3649a44203120e0fdab3aedd7624ab55",
     "5c77ad1d08afd3717bcb3e1fea913b3f4f2bc610b645e01ff913ccb51d4b2e9a",
     "dfb800eab0c96dba3b8ab8a860f890480b2581490a9f386ebec963ddc250a1ab",
-    "e17a3b91ba541fe5c9f22c6b750775d009bd55783e481ecb7748dac796abc7a9",
-    "51d8874715f888663c90f377e46356c9fba7e32995d958ea7a22dfd3eb9d02f2",
-    "d6933a20c6a5b315a6f510e433fb3ee787852cc201ee97f687ecb7810cbab6d4",
-    "4107bde1d7246ce231dcca9078b856e3ba8f806489aa67fedf838eb868e01074",
-    "28af66c816de0f3b1f58418ac6727b3db3794e1862d60d3e71f35efad5bb198a",
-    "35c45097448378cc79caa404a0668ea44150239e4ade33cdfab250995b00bc10"
+    "e17a3b91ba541fe5c9f22c6b750775d009bd55783e481ecb7748dac796abc7a9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

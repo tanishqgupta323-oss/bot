@@ -2158,5 +2158,19 @@
     "BTCUSD": -0.0171
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Live updates: Bitcoin slips from day's highs, set to close week with a loss",
+  "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+  "published_at": "2026-10-09T06:51:32+00:00",
+  "sent_at": "2026-10-10T11:25:44.819826+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
