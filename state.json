@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T07:40:45.222575+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 21,
+    "count": 22,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -938,12 +938,28 @@
         "war",
         "zaporizhzhia"
       ]
+    },
+    {
+      "at": "2026-10-10T10:31:04.835945+00:00",
+      "w": [
+        "despite",
+        "futures",
+        "gold",
+        "rising",
+        "surged",
+        "treasury",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "a954ba4df574d21c70cb52beef16fc99f555f634035d42e0608d7287c1cc670c",
+    "2b01d983e125a33e0a6cbaf2b6739ac24b8d65071e18d6f05c1dca5fc874861a",
+    "7c7121ddfa3c0e6f1f7d44eaee277f688983812b8d8fad575c4260c0d45dbea2",
+    "edeecebb5f3474a0de3cc97ece6972c3e5434019a7833c216658272a131d59db",
     "59c64a15236f64779d3771b58730195b3e5a97400c32013ee7bdcb7578057b52",
     "6c9654062a693375c38c354af139ae956676ab4f44755801bcd2534b8d3764ca",
     "f172c0c79ff11ab8573b24ba2eabaa24449bf0ab30d52ef16d6019ce0e37f77e",
@@ -1939,11 +1955,7 @@
     "aae7dab02d91d999dc8a27ccc1a05fef5a3c8c31193d8089d21591c51033c153",
     "0f3e85d1aaf0254f25b9c62ba0edeb36cbfc98223294e5a69ef3a513cb049bf7",
     "c4f6890318a5800fd01cf4586d3c9a638d545e730cfc2b281389da3b60c00d23",
-    "a9437d623cb129be83cf4d3eaca8688bdb6de15968c9de6a345e17915154a388",
-    "543571f034b2ee6becd8f6ec05bb7ff709e027325c08fd6084c3fc54d08d7b5f",
-    "c8daf8c74f9cdcc700f91004c449a60e84339ae99b5ca5c019eeea7e603ea673",
-    "501d3e1bf8f8af25843f65b2d5c15e55624c2a3df4612356df3046ab202d15e0",
-    "972189d539c3a953fc97331a718db269d5ec8ef0d3f9101c5231ecb2080e5bf6"
+    "a9437d623cb129be83cf4d3eaca8688bdb6de15968c9de6a345e17915154a388"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

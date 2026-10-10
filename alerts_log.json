@@ -2093,5 +2093,19 @@
     "BTCUSD": -0.1153
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CME Group",
+  "title": "Gold futures surged despite rising Treasury yields.",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdTVsS2JSMHVnWEtrMHdGNFFaV1JCVGo1MXVFZi15czRFa1J0R2xxSm5fTTZFZXMxYmtpQzU5eHlvbDN1RnNGa3dWVTBzcy1TMk0wVGlId0Zyc2hLQUZvek5UbVBNbFVIcjdtdDBscGlZci00TWplRk9fLXlhNTFKeVBNU3JsZVFQWnE3cjJYX1h4VVpMYVFLWTRFS0NVREt0Ym1Wai1hT3VRdw?oc=5",
+  "published_at": "2026-10-10T09:26:24+00:00",
+  "sent_at": "2026-10-10T10:31:05.410975+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
