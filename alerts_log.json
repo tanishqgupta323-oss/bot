@@ -2903,5 +2903,33 @@
     "BTCUSD": 0.0818
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WSJ",
+  "title": "Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSndPUFQ0bUtiVkdLSEFGRnlNLW52UTVCUVB1TWpPMUhGOW5ocG4waEhLeTc0V212cVBLMFJaalZvd2Jxc0JIbmhTNUpfVlctMjByTGhwYTgxSnRGbFY0NmhuYmZGSEZmYm9UakZMTm5MdXRWM0ExLWU4eXMwQk9vQ0hDUGJkbmk4dFNkYzJ1T3hQQmFpR2t5cnBnWHRGdWN2SWtoc0FiTU93WnpwcDJmaVhR?oc=5",
+  "published_at": "2026-10-10T20:00:00+00:00",
+  "sent_at": "2026-10-10T20:05:37.262411+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "USA Today",
+  "title": "Trump calls for leadership change in Ukraine in rebuke to Zelenskyy",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZE9xd1A4bmZ4d0ljTk81b2JDVHB4TnQzeWdCaUxuZlRXMEw1SVp0TTZOS2dTbWVKRE45MU50bHFKeXR6QUItMjA4elJJcnRocEJ4RlROMDVpbnFXOEtqdmtHZDJTZWZBRUJ1d0N0dXJlbVJKTzBfTVNSRVMxRlZKM3BkRXdyZG1IY0d3R3FmVkZ0UFZmX3VzNVVGUjdoM1pKOEJyUjJJVmE?oc=5",
+  "published_at": "2026-10-10T19:08:00+00:00",
+  "sent_at": "2026-10-10T20:05:37.605413+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
