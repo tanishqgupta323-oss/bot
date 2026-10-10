@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T19:55:32.391553+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 133,
+    "count": 134,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1560,12 +1560,31 @@
         "tight",
         "yields"
       ]
+    },
+    {
+      "at": "2026-10-10T22:10:44.042474+00:00",
+      "w": [
+        "bears",
+        "bitcoin",
+        "crypto",
+        "face",
+        "gains",
+        "iran",
+        "liquidation",
+        "pledge",
+        "pressure",
+        "trump",
+        "underpins"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "e92f4488e7a56991c5785a57dc359d366127f6a080212633063995f2d17a73af",
+    "badb5acd88467970ef6ae1abfc511e7c2f5b81ad36139025ef93dc4efa78c581",
+    "bfabd7b098affda17a79049561d66a17b9ceca608c86750a78e6d2cd68ee94c6",
     "26cc3b714fcff41dc4a6ba527457699b0d05688d4b05d1ac470cffbc946dab06",
     "c734a0b2dd3099be297973ec46fa49ae6bcca5475fa2ce1ac6428f64a146751d",
     "b8b3b864ab953662d2c2beb345e191657e1b44bcc54f90482eeb25fb586b7181",
@@ -2562,10 +2581,7 @@
     "ae36e1acee658be60217d59479a4f3275e3d254beb69559f57e2fc7abaa323e6",
     "1e6f6212a30830ad18cc58754e61fcca3a48655aa5679281bd008c13bb605266",
     "648e7d5bb413b57e4d29910d4ec101964c7ff4d763d8357922177fc49c70083f",
-    "63f6db1f91045b12bf9b2f3ddb51bb2a2952f7508242679dc34b2b3b1cb15efc",
-    "84ce5411a9282d58807c2579a8d52d6921cc1fffb9ec8db4ddbb11eae7e0e94a",
-    "c69b48578f890fd96304fd01ec36bf2a4a0d7b39cd782cca1312b1a5016a89ad",
-    "911bf05d4085db94263dd05a214efa862f831d47b4ae02b602048100ee8067d8"
+    "63f6db1f91045b12bf9b2f3ddb51bb2a2952f7508242679dc34b2b3b1cb15efc"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
