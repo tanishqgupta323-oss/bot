@@ -2551,7 +2551,13 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0409
+   }
+  }
  },
  {
   "kind": "live_news",
@@ -2579,6 +2585,34 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Anadolu Ajansı",
+  "title": "Trump says ‘it’s time for Ukraine to get a new president’ who can ‘make a deal’ with Russia",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXEzV3J0ejJqZGpwaTRoY1pMcXdRMXpTTDBqclZZTFRqaDViY2VlTEdWNkJFbDRaVFcxdC1CRXFwTFFHYWZ5X1ZHTjZGNDlIVmVrZU5Ja3prbXQ1QVFmWjZsVHhIWjU2YUZ4SEN0QVlka3ZoZXBQaXctTUF4b3ZMTHVySFRKcVNybHZ1dzQ4S2R4UERKSmFLT1Z6XzhLMmpNMzRDbWtZbXlmYlRDY3hiVWV3TE5EYU5vcUFlV3A2UEdXREU?oc=5",
+  "published_at": "2026-10-10T16:54:36+00:00",
+  "sent_at": "2026-10-10T17:40:45.792982+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
+  "link": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
+  "published_at": "2026-10-09T09:06:00+00:00",
+  "sent_at": "2026-10-10T17:40:46.877354+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BULLISH",
   "checks": {}
  }
 ]

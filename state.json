@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T16:50:44.863032+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 83,
+    "count": 84,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1228,12 +1228,50 @@
         "ukraine",
         "zelenskyy"
       ]
+    },
+    {
+      "at": "2026-10-10T17:40:45.261337+00:00",
+      "w": [
+        "deal",
+        "get",
+        "make",
+        "president",
+        "russia",
+        "time",
+        "trump",
+        "ukraine"
+      ]
+    },
+    {
+      "at": "2026-10-10T17:40:45.261337+00:00",
+      "w": [
+        "altman",
+        "backed",
+        "bain",
+        "bitcoin",
+        "capital",
+        "crypto",
+        "insurer",
+        "led",
+        "meanwhile",
+        "million",
+        "round",
+        "sam",
+        "secures"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "84160d5a5e2aff3c04bc54cb36935c42e5e45e035d2250398e4f71197f275686",
+    "f6aad5a7caed247802d20f4669f5ee8515ffa2f877993f61205474e57883e8b0",
+    "5c80711245c9384ba549b456c371bf935491566a126fac1957bda8e969e7913e",
+    "64f3bc56133f24f9ea5d5775ce810e155514b0aeb4c426444512738802cc015c",
+    "2d911fa6e79c0662390c8d6f1bf7dcafe42ca745e125813caafb1a594a61a96a",
+    "2fc00ce997ad78c754aee3faa0ead110017d62353d64687b7b15577e96c145ce",
+    "3d259b260a961c71dd3d52538d5ebb8ac3a656c480b6a7202d85292151b5edd8",
     "8dbda935598d20160d911eda6eff795fa8fb5ca450f8c1ab2f9fb1c2ae36f816",
     "10e440a4901d324831cc0848b5889be74d6ee70f094d5f7f54532e84e846646b",
     "7dc78cea684a9d52099c811cf9fe09f0314e283d19229eb5325f772110286ce4",
@@ -2226,14 +2264,7 @@
     "c9fe9e7fd0446c8687d9507a5ccf6fa28cdcb62dc42f2e44d8b4f033371c9834",
     "294c94ad0028136ebbbd5d5bd571d2640714d859d6b8aa12c5e7ca66db4a69f1",
     "f21950e3b833848bf59ebb8687209e4eb289d96718edbceb31f28fd961db305c",
-    "4c524e47c0047ef5f9726c7a31320033340ec138ba37a2455bf981dd5412cdd6",
-    "ecae3face6aecba45ad8725336fd2a29083ed0f2d5128861996408855f8b04ce",
-    "239ad169f48fd6a2b4ba976dd998cd49062d03dd4368247fd4b88564dadd11ae",
-    "daafb1ef01ef82fad8c7cd70b1950d34d80f7f59b0bb3b1af6d680f9c6936e9e",
-    "61f2f681598d11c8427624b7638cc8e983f49e6521d76706c51ff2e19ffe09d1",
-    "da3d877e625fd2a240a16b8ed7d052ebbe9950f883cba2a7388fcac316749be7",
-    "44cade53ccddba4531624891a07977b0b2bea229b6d390f332524d5440a92514",
-    "fbec9d9adad5147d742116fb03d3aeb94b041f3bccb5bab54d2170432a1f01c2"
+    "4c524e47c0047ef5f9726c7a31320033340ec138ba37a2455bf981dd5412cdd6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
