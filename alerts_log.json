@@ -2841,5 +2841,33 @@
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Iran International",
+  "title": "Iran’s oil lifeline could run dry by mid-December, Kpler says",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SQVhvOHRaT0x2MC1uR3d6VlZhQ1M2c2ZiUk1jcEJLYU8ycTdiVkNIUm10TUY2OS1sTHRpZ0E0ZFgwMUl1VTZlQ0d2M2tXSmxkMEE?oc=5",
+  "published_at": "2026-10-10T14:33:21+00:00",
+  "sent_at": "2026-10-10T19:25:36.293114+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "Breaking: UoM Consumer Sentiment Index declines to 46.3 in October",
+  "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-decline-in-october-amid-high-oil-prices-202610091000",
+  "published_at": "2026-10-09T10:00:00+00:00",
+  "sent_at": "2026-10-10T19:25:36.632019+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]

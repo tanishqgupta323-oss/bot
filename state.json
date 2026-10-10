@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T16:50:44.863032+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 101,
+    "count": 102,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1379,12 +1379,41 @@
         "trump",
         "weighs"
       ]
+    },
+    {
+      "at": "2026-10-10T19:25:35.628159+00:00",
+      "w": [
+        "december",
+        "dry",
+        "iran",
+        "kpler",
+        "lifeline",
+        "mid",
+        "oil",
+        "run"
+      ]
+    },
+    {
+      "at": "2026-10-10T19:25:35.628159+00:00",
+      "w": [
+        "breaking",
+        "consumer",
+        "declines",
+        "index",
+        "october",
+        "sentiment",
+        "uom"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "9ec5568e68538954e3650c6a2767f0cbc04371d20a000745bc72ee14ba25c353",
+    "f5d9d9781cc47e73d0e2a5d3458800f69fe48db34e079260b1ca1fa88dc51a1e",
+    "8130a371e77ee9fc4582a7069a429cd46c73fa00dfc5e7ca8230e38fd5430ba7",
+    "f83863c697f2d4d9a9285df61b99da66815ee9749ccedd9e7ea4fecba8c98d1e",
     "85bcfe9a723d5342e2658127e88d6c2d5cce387c40836d1645ab900f82108177",
     "f31b8c079408502a06debe0859f7e0257d7a492eab20d1deacfe0656b3879272",
     "dfb800eab0c96dba3b8ab8a860f890480b2581490a9f386ebec963ddc250a1ab",
@@ -2380,11 +2409,7 @@
     "da47030275c7a35171f4d3c402aed232d4592b19771bc5d110d79749fed18177",
     "2561374c4cc0edbcdea0048e8aa562925b475a18f354023b49c7e297ba97f646",
     "103889c5cf976d6460a57d0d1ff807866ac5d440d4dea03f2c1d4325eb8dd8e0",
-    "a8f72863b2094e37d2eecf569ec619cee9ecee5b783ead9c7d8891e5401ba02a",
-    "2559d7653b122f2362092878c22aec36e38bd2c31db00067f21aed62fb08a1ed",
-    "642f952d5b142f6cbb34f97db82f3e004a13b37cfa3b54b8f4140d7b40b9d13b",
-    "e6bff08d46a7d5f2092150ad183e51510b5a0a2133e97b6142c3bbf6a3443079",
-    "554d505139e4ab12b7ed3761ddf63f60919d2de172a054fd635ccd804c525edb"
+    "a8f72863b2094e37d2eecf569ec619cee9ecee5b783ead9c7d8891e5401ba02a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
