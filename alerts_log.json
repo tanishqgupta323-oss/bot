@@ -1898,5 +1898,19 @@
     "BTCUSD": 0.0835
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Bitcoin trades above $82,000 as rising oil prices, Fed outlook weigh",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+  "published_at": null,
+  "sent_at": "2026-10-10T04:31:05.748152+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]

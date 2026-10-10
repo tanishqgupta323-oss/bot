@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T01:40:43.424440+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 250,
+    "count": 251,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -825,12 +825,28 @@
         "talks",
         "ukraine"
       ]
+    },
+    {
+      "at": "2026-10-10T04:31:05.119786+00:00",
+      "w": [
+        "000",
+        "above",
+        "bitcoin",
+        "fed",
+        "oil",
+        "outlook",
+        "prices",
+        "rising",
+        "trades",
+        "weigh"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "acffc8fc72fafaa126a61e01418c0a8b93cf9448bb20874920b4e677c11a79d9",
     "7beca85eec37606c13b63263e269a792406b88ad8dd113a041a65d83eafee16c",
     "0b09d8466f690e1055f41cea96c41d469106e33877c4808212d137958cc72a31",
     "827aaa3198e91350c6fd1921be5fb4f6f66a8b60dab23e3130260cb12aea5acd",
@@ -1829,8 +1845,7 @@
     "5b9bc7de709d781f3cd4134772d65b9c2becb8fd041c319a719e44c19e10004e",
     "e5b4fd5846ef2768baa78e21e8d0eb27db694c80d9d44245ae13f85a1b7d7fd7",
     "cc45317309db41d12217147984781b86b0f64120eab25d504f6f8300c958dabf",
-    "a35d65a0023a146517146bee2b7a7d98efc68b35a80696f30a20d4c108cd5c97",
-    "a90a8a8010f7bf4df31ebe7398ce1263208739ed74e722c28cdd7e9751609bd7"
+    "a35d65a0023a146517146bee2b7a7d98efc68b35a80696f30a20d4c108cd5c97"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
