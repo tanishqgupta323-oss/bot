@@ -1932,5 +1932,19 @@
   "xauusd": "NEUTRAL",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Trump vows quick end to Iran war as fighting in Yemen intensifies",
+  "link": "https://www.investing.com/news/economy-news/trump-vows-quick-end-to-iran-war-as-fighting-in-yemen-intensifies-4941977",
+  "published_at": null,
+  "sent_at": "2026-10-10T05:05:36.698353+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

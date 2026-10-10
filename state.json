@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T04:40:44.981333+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 255,
+    "count": 256,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -853,12 +853,29 @@
         "raise",
         "risks"
       ]
+    },
+    {
+      "at": "2026-10-10T05:05:36.145597+00:00",
+      "w": [
+        "end",
+        "fighting",
+        "intensifies",
+        "iran",
+        "quick",
+        "trump",
+        "vows",
+        "war",
+        "yemen"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "e44ebf56587f7b45320964af4110eebca1626dd893ad2b6a86db9a9f8663087f",
+    "d2fe0477990557ae89d98471b4d8e5be6362d948bae705aa214295358e79f579",
+    "84345c2be785abed33da2870c1c8701a5da0871c21e7f1a18686340c6a6b5fdc",
     "912e15f3c6b13b249271243ea7dcda189631f87c858afcd5fbcc2ff61e0d85b8",
     "12f761ddfd81f952ddb033943e50a8d0257a16c153d548a3704149547d9c27c6",
     "a3df73a8a034d5661c980d4aa6caab6f866974fed5fe700bae337819084e88c8",
@@ -1855,10 +1872,7 @@
     "b6e8048dc7c917d9327d6eaa28aa2415b9308fab892b05fb521b7043b08a48d3",
     "a563fb53944fd7f052bf83d7406afe7e1e23f2e023a6159c677e9581ec557d0c",
     "9cc7a7b1df9641d3e61d606743c7109b44836193942970b0266bd8ba745ab1bf",
-    "c67f85a458dd58e62148f0088bef0d3d0876814483fbec2807766cf617ceefae",
-    "5dbce17a8ccfce100847a213037ee3ec3875e9003d17793a73b1a7e819bd0f47",
-    "ee21dfd4f1c9d8b12a0f4e6c177edc2885535110c326c96a0f2d224b150d40d4",
-    "8d3cf321990934df8135256b5f5b4a76721f11fc9e72239c78a8fcfacf84df89"
+    "c67f85a458dd58e62148f0088bef0d3d0876814483fbec2807766cf617ceefae"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
