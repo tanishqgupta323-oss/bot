@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T04:40:44.981333+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 260,
+    "count": 261,
     "day": "2026-10-09"
   },
   "recent_stories": [
@@ -882,12 +882,30 @@
         "trump",
         "world"
       ]
+    },
+    {
+      "at": "2026-10-10T06:10:48.098329+00:00",
+      "w": [
+        "deal",
+        "diesel",
+        "fuel",
+        "hours",
+        "putin",
+        "russian",
+        "site",
+        "strikes",
+        "trump",
+        "ukraine"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "848e1839b96deef449b70bab91182c001c9594e7e0fd1cb16fe20f02eb11dccc",
+    "da2c22180e6099001151dc8877c9ea71c884735c615a10730a8b7a40355633b1",
+    "98344e298195036221a516f573d2a39f4068bad67350047836da61be02354b2c",
     "bd890f499b4c03ca44942e3e1aef9618e5d943821792b762b20437450d3871e6",
     "1a578f0a6e400e2868c74185ebc2dded681f433f14964d214c4e728963af2f01",
     "44a79edc0af59e94daaaeef774342475e23b86bb5f65dbc7e9495ef87492e836",
@@ -1884,10 +1902,7 @@
     "662213e9e2bb62c657d0247a955c84c653816b1ae1096273001deea4651a88ab",
     "0a48e90d53ab97967c0aac8054f64753843a06e5b488a258f50cb5fe2b7744b8",
     "7c264e45cc352810a8929b7fe6111c37ed9cd532c1c226f8d118500a79e01f7a",
-    "47563d37bc5e1e7bc04f4a642329ad36f480ae3965b7017df6c6a02f41ec3d8a",
-    "b9b7c99436958d5481c57f67b49692dccc739f5e07cbae7662be85385f5eb28a",
-    "5f4b3600aafbbe0de7338e710a6130a36e2b7bb19b5dc2857e5a47e339a6b3b1",
-    "093ef7bcb93ca9c0b779be746d20e0cf61ddd6e2d64a07928b2c6af0be55601a"
+    "47563d37bc5e1e7bc04f4a642329ad36f480ae3965b7017df6c6a02f41ec3d8a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

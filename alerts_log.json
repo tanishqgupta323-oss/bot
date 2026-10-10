@@ -1966,6 +1966,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.0174
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1351
    }
   }
  },
@@ -1988,5 +1993,19 @@
     "BTCUSD": 0.0103
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al Jazeera",
+  "title": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZm4wZXlBcWhVd1BSYmx2Mi15S2lhR0dic3FLUEs0ZXlnaDY1Tmg3M3FJZGFoN0NuOVp2Q1FTVjVVYk5YbjUzNmZMNDFhVF9kdFBYaklSeXhta0ZyclNSb1N1NHhJWEo2SGpXeE42cEhJU3dycldKcmxtQnFhWjlvRGNlWW5ZaV81X0xQRzNieUvSAZYBQVVfeXFMTXVSNHA2N0xUWHZIY3hNQXJCQzd2UnFVT3NfR3NWWUhUZmNqdFlrSVpjNTZMZHNneWhPZXdhbG04QVVfQzctbnZuS01tdEhMQWhnQ3RDQnVMb0lxbEstdE56WkNIaTZYM01ZSEZfaF9wYXM1NU5xSkw5OTdxQkZ2ZVhhUEZuZ3FHYUs3U1g2QUlMQXgzbEF3?oc=5",
+  "published_at": "2026-10-10T04:35:16+00:00",
+  "sent_at": "2026-10-10T06:10:48.760655+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
