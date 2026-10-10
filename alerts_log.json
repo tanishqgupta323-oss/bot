@@ -2532,5 +2532,19 @@
   "xauusd": "NEUTRAL",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "ABC News",
+  "title": "Rubio orders US diplomats to push countries for swift action against Iran amid 'elevated risk of attack'",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcC15TzQ1NnFqeXZSQzRQVkJ4MkZKeUEzRi1GR2hZbDlSY0FSMG1kcEFTaHFOdXZEMHl4UFptbnRIeEN3YjE2WVl1VmNBdm5iWVg1NmU0NFhzS1JLRjdGYm5aV0FTOUM3REp4R3FyN0JnRTZrcmxzN3lERW1ld1puTzlJczhuaW9pMmVnaFhUNDA3djJ1RkdWSUU2elNqRlNiN2FJ0gGoAUFVX3lxTE9HYTk1b1BuNVFTT2tCYzNiM3dmSWhfUmxwbTEtaWJOSDZpbXZIalBMdDBYQnJWSEhOME8tZWpHaGpyS2lfbEszQmNhY05Uc1lGeG81RkRtWm5rWmJNZ1NfNFVsUWFUR1phWFotMUp1STZrU1RMZ1ppVGR2OHZjb01VMHo4NmxZcEx6OFllTUhrek1wRUJEWWwwTkpOaWdnaUJoTGU4QTFsdQ?oc=5",
+  "published_at": "2026-10-10T08:17:48+00:00",
+  "sent_at": "2026-10-10T17:20:49.309931+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

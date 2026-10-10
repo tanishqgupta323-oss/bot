@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T16:50:44.863032+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 80,
+    "count": 81,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1184,12 +1184,30 @@
         "time",
         "trade"
       ]
+    },
+    {
+      "at": "2026-10-10T17:20:48.714902+00:00",
+      "w": [
+        "action",
+        "against",
+        "attack",
+        "countries",
+        "diplomats",
+        "elevated",
+        "iran",
+        "orders",
+        "push",
+        "risk",
+        "rubio",
+        "swift"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "824b25710b64a4d24d5720e6d8daeb8097d93c3f57039422e4faccd1eefe5901",
     "b4ec4452b451758b4d1ebf59f3f6fee0988c8f8f5d3a2a5f2e19d91d1dd753be",
     "cd52022aab0d0e0eb0e737dcf28582e4c3a93a57d5115af7332043552cf3df99",
     "980590a6bb8a7f87704f8ee96901758617c8392eb52c8e7277c95269b4fab359",
@@ -2188,8 +2206,7 @@
     "1c34abaab4f37dd412aa282e5f06bb12ee8a9640fe1c35ef6e17a7c5b9427748",
     "ad81e32bf7b478a204fbdd4f25bea7ffa904a4e74bc0e759dbf4017558d875fd",
     "0b5e7727d341fa286ea7a9ce6ec7eec5b93b580904d1c20278b66ddc1d07bd12",
-    "a8aff8421fd9b918da44939f6ebe561ddef5990a7e7f101ce1fcb25bc5ceb54e",
-    "ca95cee745e80b902f0fb40584e367b35efaa34b76d78e0778d42df8266f3d91"
+    "a8aff8421fd9b918da44939f6ebe561ddef5990a7e7f101ce1fcb25bc5ceb54e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
