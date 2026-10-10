@@ -1911,6 +1911,26 @@
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0345
+   }
+  }
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "French fiscal risks raise chance of ECB pause after December",
+  "link": "https://www.investing.com/news/economy-news/french-fiscal-risks-raise-chance-of-ecb-pause-after-december-4941964",
+  "published_at": null,
+  "sent_at": "2026-10-10T04:50:47.421429+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "NEUTRAL",
+  "btcusd": "NEUTRAL",
   "checks": {}
  }
 ]
