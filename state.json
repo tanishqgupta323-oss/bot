@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T10:45:42.888620+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 32,
+    "count": 33,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -991,12 +991,26 @@
         "updates",
         "week"
       ]
+    },
+    {
+      "at": "2026-10-10T11:45:49.647731+00:00",
+      "w": [
+        "deal",
+        "iran",
+        "kremlin",
+        "peace",
+        "position",
+        "putin",
+        "told",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "bd8e39fde5d5e8fc9c482825f367dad9010c3348a5ca9d242a96b8b40291209d",
     "5d552b4a203b9a5d7e13771f1f3ce31b5b3058b5f1f66062a87a17717a4560a9",
     "f2974903077a1613dfbe64a6829c9734d3363e6991743cfd466e800d74ee0583",
     "6d50f2cf7a1af7c3f89ea326dad7895eaf7811a5c77e750ee7bd32b4cddaae98",
@@ -1995,8 +2009,7 @@
     "987d6a5f7fc5293fdbd5dbab8fda486bfef668f53f068295366b10a9a9e152da",
     "c7e97e34c1958c0301f2224bafbb49f6a2c5b016f75437d3231bfe0b03391613",
     "66d0fed6771c4b973fad9245c6564bd33c1256441bb74c63064e3987dbcdfc1b",
-    "ebb1f6fda564213029add2ae55d71cb5523901e63839ff882703e38865e955cf",
-    "b3ba69ae6d81fbdcbf624dcdea5f502b3649a44203120e0fdab3aedd7624ab55"
+    "ebb1f6fda564213029add2ae55d71cb5523901e63839ff882703e38865e955cf"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -2181,6 +2181,26 @@
   "eurusd": "NEUTRAL",
   "xauusd": "NEUTRAL",
   "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0557
+   }
+  }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "France 24",
+  "title": "Putin told Trump about Iran's position on peace deal: Kremlin",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVE4ckNWS0sxUk16VVJCblFwS216SzU0N3JyVkRzM0tNaDY3ampMalpqV1E4eUVXUXBpUU10aWNZU254dGg1SkpUbm9XZkhXb3RONEVGZ1lvbmR4WE1BRTNmckJENXI2X1paYXBIS3FYYnhKT2Qya05Sd3NQeVFYd0NyZjhhRUpRZmp5LUl6Rjg1TDFYRktkYTlGd0FfRVlKdFB4eE4wZjkybTg?oc=5",
+  "published_at": "2026-10-10T11:39:41+00:00",
+  "sent_at": "2026-10-10T11:45:50.308033+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
   "checks": {}
  }
 ]
