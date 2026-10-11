@@ -3997,6 +3997,39 @@
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0822
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "New York Post",
+  "title": "Iran sets supertanker ablaze after US takes out ship breaking blockade",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaEpobHdGeDJGWEtYM2hfQzFFaHJVdnlObTFEMEJ2V3NDSi1ZbHM5YUY5bk5felVWN29FdENYQTAyQXVQdVhEZXZJeFh1LUgtc2dKSWZfU3lZeUZHQ2l4VzRpX0JhQmdzaGFDcnJaZzF4XzBTc29GRzZqcmxnOUZHNmh0Vk5nenh1UjVSQ1MwazhDcFNGZTNtU05MUnRQY3Y4TmxsRnBHZ21DYkdKMnRYZWVn?oc=5",
+  "published_at": "2026-10-11T16:27:00+00:00",
+  "sent_at": "2026-10-11T17:45:45.039124+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.2284
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.2062
+   }
+  },
+  "checks_base": "published"
  }
 ]
