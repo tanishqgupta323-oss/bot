@@ -511,7 +511,7 @@
   "calendar_fetched_at": "2026-10-11T08:05:32.405986+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 22,
+    "count": 23,
     "day": "2026-10-11"
   },
   "recent_stories": [
@@ -1875,12 +1875,32 @@
         "sentiment",
         "umich"
       ]
+    },
+    {
+      "at": "2026-10-11T10:15:44.575851+00:00",
+      "w": [
+        "airport",
+        "attack",
+        "fight",
+        "joining",
+        "kills",
+        "leads",
+        "major",
+        "saudi",
+        "trump",
+        "weigh"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "e9f41704be2d4509fd6ca59d5c05c580e475964dfbc41367a124749bd8a8b8f5",
+    "509ae69b0d9b6d752617406bc1d7377d4a71ee0c1915d3dc284a157fd4c0ef33",
+    "36bd38c1155608ad9fba1acbd6b87ae9d010b3ab2ded428f9c18af8032d29714",
+    "fcde8848f9e4f243c1b8e07828b71cf2d4d21a1606922eecd3240a49ee7149b5",
+    "89c1927a4acb901e0d856b12e84c1ec4f1545d6d780861d4722dc64247595b18",
     "fa737e96d6e9fb010591dc562c178b26584115a1be49678944f7ad72fc5e9bce",
     "ebe3de212928c8b37da5133cb78e0d80727bd361c88af352f42c1220a0a5c2ec",
     "a299066714da6388bfc92daffcad4a716b836d5b41ebc66b03b5044d40fb9cb4",
@@ -2875,12 +2895,7 @@
     "2e289d5c7a66b0c766ff1b01c4353e631439ee07e4edbbb05a79c66d216afca7",
     "a9b330df008838c0579985613098d96cc17c2e23ef0d23fa8914e79763e1d988",
     "e2046c301ab4b28f1a76eb3b20e2b43aef9bae6f32b726b854324e89d24e8cee",
-    "d4d93b73c03adced6784738ed90df1fe6678d0832b30fdfa07de7ee6b7085e12",
-    "31a1e6399d70b598f9e9ae007747bd1cd2504f6a336658246d01020739291ef3",
-    "f96bd93cedbf18e34aad463dcfa155f82eca969d6737d04380af1167df063d4a",
-    "8a11dd5e8b8f1c663ad74b12d7d073c6967d155ca6288fa11f95584cd6fbe666",
-    "d6e9de14cbce85dd876159986465b9234983ebb4bd35a0894295e9bc345cbea9",
-    "2ee8392f9e9d72c11385084acb6db37f96505c9aa1349013716fc73273d57b26"
+    "d4d93b73c03adced6784738ed90df1fe6678d0832b30fdfa07de7ee6b7085e12"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
