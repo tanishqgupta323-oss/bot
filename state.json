@@ -511,7 +511,7 @@
   "calendar_fetched_at": "2026-10-11T08:05:32.405986+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 29,
+    "count": 30,
     "day": "2026-10-11"
   },
   "recent_stories": [
@@ -1890,12 +1890,28 @@
         "trump",
         "weigh"
       ]
+    },
+    {
+      "at": "2026-10-11T10:55:34.599311+00:00",
+      "w": [
+        "concerns",
+        "dollar",
+        "dominate",
+        "euro",
+        "firm",
+        "fiscal",
+        "french",
+        "struggles"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "8ba25872d44afdf046cc40a6afefed33dc778e239040293086f3ec1933f4c995",
+    "c50b0c6f0e49f4a3a7b3f9cdc011a6a08cae851bdb91494b82984ce02dc91247",
+    "fa4e1b7cd3fd0adca077d7ed186958a60a46a6dea2e3989cdaf656c9be2f8898",
     "cc603dd2654884235840b15fa4874b0af8b21cdd793bac1dc77ea722969d2d48",
     "fff73aa24fe38bee8459bd1a5ded6b582db27bd6f2af2c30c6404893612a42fd",
     "81c3936116420264eec0de23bbfd4ebfa81d501ec279bb25df60ac395fd66700",
@@ -2892,10 +2908,7 @@
     "ecabc219c648ea56d988f2b4eeb488fe4a7c22813bc0c664edd3565b9176fb41",
     "08ebf4f8feae80c5885ed02fc84e50cc0770c9b7dfab6be0575ce90a4ceb4768",
     "68605d0a37eefce9c3013feb65f6a0cb594d9c603ba52dad37bfb129a84731dd",
-    "ef727b9dd66e927bbb0997783a48118de083217f903b473503c0c3f160e87c5f",
-    "7d74d7485ee39081e626792be49e339cabe77dc40896a95a820efa7f1ca4699e",
-    "38428d594b373d5386ad3050de5163df9cf5f9dbca4085fd2863141480d2c9eb",
-    "65a342efe750a18a66782cad163c5e84cc478a3a99d1fc0746723604589e754b"
+    "ef727b9dd66e927bbb0997783a48118de083217f903b473503c0c3f160e87c5f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

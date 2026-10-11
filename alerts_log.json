@@ -3901,5 +3901,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "Euro struggles as French fiscal concerns and firm US Dollar dominate",
+  "link": "https://www.fxstreet.com/news/euro-struggles-as-french-fiscal-concerns-and-firm-us-dollar-dominate-202610091544",
+  "published_at": "2026-10-09T15:44:52+00:00",
+  "sent_at": "2026-10-11T10:55:34.599526+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": -0.0214,
+    "BTCUSD": -0.1512
+   },
+   "60": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0261,
+    "BTCUSD": -0.3435
+   }
+  },
+  "checks_base": "published"
  }
 ]
