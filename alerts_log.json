@@ -3606,7 +3606,13 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0667
+   }
+  }
  },
  {
   "kind": "live_news",
@@ -3620,7 +3626,13 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0667
+   }
+  }
  },
  {
   "kind": "live_news",
