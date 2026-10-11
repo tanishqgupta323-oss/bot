@@ -3541,6 +3541,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.0333
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.188
    }
   }
  },
@@ -3609,6 +3614,20 @@
   "impact": "LOW",
   "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "European Central Bank: Conditional support and French risks – Rabobank",
+  "link": "https://www.fxstreet.com/news/european-central-bank-conditional-support-and-french-risks-rabobank-202610091317",
+  "published_at": "2026-10-09T13:17:08+00:00",
+  "sent_at": "2026-10-11T03:31:04.102045+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "NEUTRAL",
   "btcusd": "NEUTRAL",
   "checks": {}
  }
