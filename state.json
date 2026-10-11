@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-11T02:01:15.308992+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 177,
+    "count": 178,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1753,12 +1753,27 @@
         "saudi",
         "strikes"
       ]
+    },
+    {
+      "at": "2026-10-11T02:25:34.909566+00:00",
+      "w": [
+        "hit",
+        "iranian",
+        "mountain",
+        "nuclear",
+        "pickaxe",
+        "pretty",
+        "site",
+        "soon",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "3c6c6530d2f48e0029e65d1f4551df13baf1f08a9d197fbde9258219fc86b1bf",
     "cafe302a73ca0a96c9efebc0a0009770f37cea31dd8b4535069c66a2ed9f5a2e",
     "c10efd34fa3596ef76f9986d15ada4a3fd72447e90b7fd2a8b4c443427f0e10d",
     "6bb6b42b9cc77a28f865fca72043b9f8429d5926457ddcfc683e2b9c2d3d0e81",
@@ -2757,8 +2772,7 @@
     "ab661e0e6d368fd12eed9443387257915a17b31c7fbd6740d82eb88e6d1785e1",
     "28cfe5c927f4eb08319fbaa7f69329beaaea87eb32a124aee355188766a80462",
     "ef6f47078dec8934dc15fc8b590ab2c47197e34155c747ec61a5ed5206325ad7",
-    "01fccbeb1900ef2c5fed88bc1c2d388ab9a016bfcea349d9d1f648157f07fbdf",
-    "b87abb3796186ffa173c4a4207a9a0b63a342efa15ccbab1e1f0289f2382a947"
+    "01fccbeb1900ef2c5fed88bc1c2d388ab9a016bfcea349d9d1f648157f07fbdf"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
