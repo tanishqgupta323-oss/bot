@@ -1,27 +1,34 @@
 #!/usr/bin/env python3
-"""Tracker: checks how price moved 15 and 60 minutes after each logged alert."""
+"""Tracker: how price moved 15 and 60 minutes after each news item.
+
+Moves are measured from the news PUBLISH time when the feed gives it, otherwise from the
+alert time. A pair is a hit if price moved the way the bias said (BULLISH up, BEARISH down).
+"""
 from __future__ import annotations
 
 import bisect
 import html
 import json
+import re
 import sys
 from datetime import datetime, timedelta
 from typing import Any
 
 import requests
 
-from bot import ALERTS_LOG_FILE, parse_datetime, story_words, utc_now
+from bot import ALERTS_LOG_FILE, STOPWORDS, parse_datetime, utc_now
 
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 SYMBOLS = {"EURUSD": "EURUSD=X", "XAUUSD": "GC=F", "BTCUSD": "BTC-USD"}
 PAIR_KEYS = {"EURUSD": "eurusd", "XAUUSD": "xauusd", "BTCUSD": "btcusd"}
 HORIZONS = (15, 60)
-# A move smaller than this (in %) counts as "flat" and is not scored as hit or miss.
-NOISE_PCT = {"EURUSD": 0.03, "XAUUSD": 0.08, "BTCUSD": 0.15}
-MAX_GAP_MIN = 10        # if no candle within 10 minutes, the market was closed -> no price
-MIN_JUDGMENTS = 10      # a source needs this many scored judgments to be called "best"
+# Only essentially unchanged prices (below these % moves) are skipped; everything else is up or down.
+NOISE_PCT = {"EURUSD": 0.005, "XAUUSD": 0.01, "BTCUSD": 0.02}
+MAX_GAP_MIN = 10          # if no candle within 10 minutes, the market was closed -> no price
+MAX_RECHECK_DAYS = 6      # Yahoo keeps ~7 days of 1-minute data
+MIN_JUDGMENTS = 10        # a source needs this many scored judgments to be called "best"
 LINE = "━━━━━━━━━━━━━━━━━━"
+BASIS_NOTE = "Moves are measured from the news publish time when the feed gives it, otherwise from the alert time."
 
 
 def fetch_candles(pair: str):
@@ -61,18 +68,29 @@ def verdict(bias: str, pct: float | None, pair: str) -> str | None:
     return "hit" if (bias == "BULLISH") == went_up else "miss"
 
 
+def base_time(row: dict[str, Any], sent: datetime) -> tuple[datetime, str]:
+    """Start of the measurement: publish time if known and sensible, else the alert time."""
+    published = parse_datetime(row.get("published_at"))
+    if published is not None and published <= sent:
+        return published, "published"
+    return sent, "sent"
+
+
+def horizons_due(row: dict[str, Any], now: datetime) -> list[int]:
+    sent = parse_datetime(row.get("sent_at"))
+    if sent is None:
+        return []
+    base, basis = base_time(row, sent)
+    checks = row.get("checks") if isinstance(row.get("checks"), dict) else {}
+    if row.get("checks_base", "sent") != basis:
+        if now - base >= timedelta(days=MAX_RECHECK_DAYS):
+            return []          # too old to recompute; keep what we have
+        checks = {}
+    return [h for h in HORIZONS if str(h) not in checks and now >= base + timedelta(minutes=h + 2)]
+
+
 def pending(rows: list[Any], now: datetime) -> bool:
-    for row in rows:
-        if not isinstance(row, dict):
-            continue
-        sent = parse_datetime(row.get("sent_at"))
-        if sent is None:
-            continue
-        checks = row.get("checks") if isinstance(row.get("checks"), dict) else {}
-        for horizon in HORIZONS:
-            if str(horizon) not in checks and now >= sent + timedelta(minutes=horizon + 2):
-                return True
-    return False
+    return any(isinstance(row, dict) and horizons_due(row, now) for row in rows)
 
 
 def update_checks(rows: list[Any], now: datetime, candles: dict[str, Any]) -> int:
@@ -83,13 +101,17 @@ def update_checks(rows: list[Any], now: datetime, candles: dict[str, Any]) -> in
         sent = parse_datetime(row.get("sent_at"))
         if sent is None:
             continue
+        due = horizons_due(row, now)
+        if not due:
+            continue
+        base, basis = base_time(row, sent)
         if not isinstance(row.get("checks"), dict):
             row["checks"] = {}
+        if row.get("checks_base", "sent") != basis:
+            row["checks"] = {}          # recompute from the better start time
+        row["checks_base"] = basis
         checks = row["checks"]
-        for horizon in HORIZONS:
-            key = str(horizon)
-            if key in checks or now < sent + timedelta(minutes=horizon + 2):
-                continue
+        for horizon in due:
             result: dict[str, float | None] = {}
             incomplete = False
             for pair in SYMBOLS:
@@ -98,12 +120,12 @@ def update_checks(rows: list[Any], now: datetime, candles: dict[str, Any]) -> in
                     incomplete = True
                     result[pair] = None
                     continue
-                start = price_at(data, sent)
-                end = price_at(data, sent + timedelta(minutes=horizon))
+                start = price_at(data, base)
+                end = price_at(data, base + timedelta(minutes=horizon))
                 result[pair] = round((end - start) / start * 100, 4) if start and end else None
-            if incomplete and now < sent + timedelta(hours=6):
+            if incomplete and now < base + timedelta(hours=6):
                 continue   # price data unavailable right now; retry on the next run
-            checks[key] = result
+            checks[str(horizon)] = result
             changed += 1
     return changed
 
@@ -127,26 +149,37 @@ def avg_delay(entry: dict[str, Any]) -> float | None:
     return sum(entry["delays"]) / len(entry["delays"]) if entry["delays"] else None
 
 
+def story_key_words(title: str) -> set[str]:
+    """Key words of a headline; a trailing ' - Publisher' is removed so sites do not look different."""
+    text = title or ""
+    for _ in range(2):
+        text = re.sub(r"\s+-\s+[^-]{2,60}$", "", text)
+    text = text.lower().replace("\u2019", "'").replace("'s ", " ")
+    cleaned = "".join(ch if ch.isalnum() else " " for ch in text + " ")
+    return {w for w in cleaned.split() if len(w) >= 3 and w not in STOPWORDS}
+
+
 def compute_stats(rows: list[Any]) -> dict[str, Any]:
     """Per-source accuracy over unique stories (same story from many sites counts once)."""
     valid = [r for r in rows if isinstance(r, dict) and parse_datetime(r.get("sent_at"))]
     valid.sort(key=lambda r: parse_datetime(r["sent_at"]))
-    recent: list[tuple[datetime, set[str]]] = []
+    earlier: list[tuple[datetime, set[str]]] = []
     stats: dict[str, dict[str, Any]] = {}
     duplicates = 0
     unique_total = 0
 
     for row in valid:
         sent = parse_datetime(row["sent_at"])
-        words = set(story_words(str(row.get("title", ""))))
-        recent = [(t, w) for t, w in recent if t >= sent - timedelta(hours=8)]
-        if len(words) >= 3 and any(
+        words = story_key_words(str(row.get("title", "")))
+        earlier = [(t, w) for t, w in earlier if t >= sent - timedelta(hours=8)]
+        is_dup = len(words) >= 3 and any(
             len(words & other) >= 3 and len(words & other) / max(1, min(len(words), len(other))) >= 0.6
-            for _, other in recent
-        ):
+            for _, other in earlier
+        )
+        earlier.append((sent, words))
+        if is_dup:
             duplicates += 1
             continue
-        recent.append((sent, words))
         unique_total += 1
 
         source = str(row.get("source") or "unknown")
@@ -175,7 +208,8 @@ def build_report(rows: list[Any]) -> str:
     lines = [
         "SOURCE ACCURACY REPORT",
         f"Alerts logged: {data['alerts']} | unique stories: {data['unique']} | duplicate alerts ignored: {data['duplicates']}",
-        "A pair counts as a hit if price moved the way the bias said, beyond a small noise band.",
+        "A pair counts as a hit if price moved the way the bias said (BULLISH up, BEARISH down).",
+        BASIS_NOTE,
         "-" * 78,
         f"{'SOURCE':<18}{'STORIES':>8}  {'15 MIN HIT RATE':<20}{'60 MIN HIT RATE':<20}{'AVG DELAY':>10}",
         "-" * 78,
@@ -249,6 +283,7 @@ def build_telegram_report(rows: list[Any], days: int = 7) -> str:
     return (
         f"{header}\n{body}\n\n"
         f"🎯 Overall 60m hit rate: {overall}\n{best_line}{fast_line}\n\n"
+        f"ℹ️ {html.escape(BASIS_NOTE)}\n"
         "⚠️ <i>A coin flip scores about 50%. Small samples are noise; "
         "trust a source only after 50-100 stories. Not financial advice.</i>"
     )
