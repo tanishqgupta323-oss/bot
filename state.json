@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T22:55:32.707905+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 160,
+    "count": 161,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1695,12 +1695,29 @@
         "strikes",
         "warns"
       ]
+    },
+    {
+      "at": "2026-10-11T00:45:44.911131+00:00",
+      "w": [
+        "dollar",
+        "iran",
+        "kickstart",
+        "mixed",
+        "morning",
+        "oil",
+        "rebound",
+        "retreats",
+        "stocks",
+        "uncertainty"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "d388a4bf39519d40ee56570e6afc15466f906db6bcf473c747a56e7764e282a1",
+    "79453b33d46304ec85a76aa1bf9fa89d6ea85c2c2b04f96ec26b1e5af2a03bd9",
     "1d9d387e6f2a090e64f2240ce20136bd649eac039afc75be8538612aefc59604",
     "10bcd8f76d6ab7cc05b35908bb0dc22ebb59d9f7f6e59745694799f59b40c192",
     "aabc7f57d829e5050f0aead1c12779718ce560e2d483cb371673bda65de2cdd5",
@@ -2698,9 +2715,7 @@
     "942e7efe83f96f43d6debd110bd4e5888c4b42e23f6d5a7959a3da208d01f5e8",
     "ae0878108eb1ac7bf3f019679ed0430b3368e3fd0f63447952e73f2620cc7a4d",
     "149a3d6d87ec173bb0f1ffd285dedce4e77b9a779e7af534c3ae50985053d837",
-    "abb9caf48655b4aaf154b1aff107df7c28c08b4649e5a4b33ae99edae8288733",
-    "5600f01a60c13bbe71f632c200aa4ae1679da07a2ace9a7a796756977b2c8632",
-    "74eb5aa2cad6886042d6b12c2e97d6e4b65c717cadca20f12d3b6931d2c8de8f"
+    "abb9caf48655b4aaf154b1aff107df7c28c08b4649e5a4b33ae99edae8288733"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -3402,5 +3402,19 @@
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Morning Kickstart: Dollar mixed, stocks rebound and oil retreats amid Iran uncertainty",
+  "link": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-mixed-stocks-rebound-and-oil-retreats-amid-iran-uncertainty/",
+  "published_at": "2026-10-09T12:17:51+00:00",
+  "sent_at": "2026-10-11T00:45:45.587934+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
