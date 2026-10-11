@@ -505,10 +505,10 @@
       "title": "FOMC Member Collins Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-10T22:55:32.707905+00:00",
+  "calendar_fetched_at": "2026-10-11T02:01:15.308992+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 173,
+    "count": 174,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1723,12 +1723,31 @@
         "trying",
         "vessel"
       ]
+    },
+    {
+      "at": "2026-10-11T02:01:17.892034+00:00",
+      "w": [
+        "briefing",
+        "deal",
+        "fuel",
+        "public",
+        "russian",
+        "trump",
+        "tussle",
+        "ukraine",
+        "war",
+        "worsens",
+        "zelenskyy"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "157427ff3f4dadad14cac25f5ad95b470265efa8e67e1cb42ba387f1882ebc24",
+    "c4633925ff63c1beda8013cc510c612a6d14b6a637191de7b834e9700def6b2a",
+    "2996217863492829876ad5cdba0f60e20a0ac717e8a4ed07fe80c384f00fb702",
     "1c7888622f5a8d937cae4c972bcea1549a0dfdc41a9abd2e5352bda726398f3c",
     "18b40193c55a92067d88428d1ce4abe46fb423020f04324eaf0840bceebb6ac4",
     "9f007b8911b68a45514524c7279b603f4786f373b8a03fabdf190d32bd66b942",
@@ -2725,10 +2744,7 @@
     "c4adc313c2b3655393c8791fc474ecf4efc92ec3c576ad53f240a64e611355f1",
     "becf276a1490fbf5f7c36a402af6959ff89b4528781a15f9bf991fea6b6733a2",
     "68c5ad1519a51f13131a49da786113ed47b40cfbfa9679f674ef50ff98b9b2cc",
-    "782d608c9cc5593ccc3e2d0d20e86f0ed2c9d7f506dba63fd9132180c60d12fc",
-    "8e1ab5049daf5ef4364b66ef78c288f9dc38efaccf4d017586b0fb299f1e5487",
-    "bdf5a32f5ea0a334e05c428c89eb7fcbefc7e3df50874de79bb63fc86801b5ee",
-    "c8c0e38cf8860341a96b897a09705e8f61ea97a7bb0a539724e1d546561faae7"
+    "782d608c9cc5593ccc3e2d0d20e86f0ed2c9d7f506dba63fd9132180c60d12fc"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

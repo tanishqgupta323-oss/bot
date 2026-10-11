@@ -3468,5 +3468,19 @@
     "BTCUSD": 0.0255
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Guardian",
+  "title": "Ukraine war briefing: Trump and Zelenskyy’s public tussle over Russian fuel deal worsens",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZk9KNlJNSjlZWGJEaUs4eklyQUd6UlRBTWFwaHRGcU5vUFpRNVJxQjZKVHVIUzhsaFhjLVRxUlo4QnRGTkdsNG42eUxLUDBlY2dYUU9rSHNXUzVmR0lEMy02cEttUTJoZXdjaXE4Ujd6RlFVSW9mMzJHcWhsUjRJOHhYaDFpdXVtaGs1aFVBdmJVNkNHV2hpT2xXZHp3eGd6aEt0R1RURENRUmZjSkpPVlRhWkwzanM?oc=5",
+  "published_at": "2026-10-11T01:47:00+00:00",
+  "sent_at": "2026-10-11T02:01:18.517953+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
