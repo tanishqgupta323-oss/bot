@@ -34,6 +34,8 @@ except ImportError:
 FORCE_TEST_MODE = False
 GEMINI_DAILY_CAP = 350   # max Gemini calls per quota day (free limit is 500)
 ALERTS_LOG_FILE = Path(os.getenv("ALERTS_LOG_FILE", "alerts_log.json"))
+ALERT_IMPACTS = {"HIGH"}      # live-news impact levels sent to Telegram (add "MEDIUM" or "LOW" to get more)
+LOG_FILTERED_ALERTS = False   # True = still log the filtered ones silently (no Telegram) for source statistics
 
 UTC = timezone.utc
 IST = timezone(timedelta(hours=5, minutes=30))
@@ -920,6 +922,7 @@ class TradingNewsBot:
         recent = list(state.get("recent_stories", []))
         sent_count = 0
         skipped = 0
+        filtered = 0
         for item in result:
             if not isinstance(item, dict):
                 continue
@@ -935,26 +938,35 @@ class TradingNewsBot:
             if is_duplicate_story(words, recent, now):
                 skipped += 1
                 continue
+            impact = normalized_impact(item.get("impact"))
+            record = {
+                "kind": "live_news",
+                "source": headline.source,
+                "publisher": publisher,
+                "title": clean_title[:200],
+                "link": headline.link,
+                "published_at": headline.published_at.isoformat() if headline.published_at else None,
+                "sent_at": utc_now().isoformat(),
+                "impact": impact,
+                "eurusd": normalized_bias(item.get("eurusd")),
+                "xauusd": normalized_bias(item.get("xauusd")),
+                "btcusd": normalized_bias(item.get("btcusd")),
+                "checks": {},
+            }
+            if impact not in ALERT_IMPACTS:
+                filtered += 1
+                if LOG_FILTERED_ALERTS:
+                    record["silent"] = True
+                    recent.append({"w": words, "at": now.isoformat()})
+                    log_alert(record)
+                continue
             if self.telegram.send(live_news_message(headline, item)):
                 sent_count += 1
                 recent.append({"w": words, "at": now.isoformat()})
-                log_alert({
-                    "kind": "live_news",
-                    "source": headline.source,
-                    "publisher": publisher,
-                    "title": clean_title[:200],
-                    "link": headline.link,
-                    "published_at": headline.published_at.isoformat() if headline.published_at else None,
-                    "sent_at": utc_now().isoformat(),
-                    "impact": normalized_impact(item.get("impact")),
-                    "eurusd": normalized_bias(item.get("eurusd")),
-                    "xauusd": normalized_bias(item.get("xauusd")),
-                    "btcusd": normalized_bias(item.get("btcusd")),
-                    "checks": {},
-                })
+                log_alert(record)
         state["recent_stories"] = recent[-200:]
-        LOG.info("Live news: %d new headlines reviewed, %d alerts sent, %d duplicates skipped",
-                 len(new_items), sent_count, skipped)
+        LOG.info("Live news: %d new headlines reviewed, %d alerts sent, %d duplicates skipped, %d below impact filter",
+                 len(new_items), sent_count, skipped, filtered)
 
     def run(self) -> int:
         if not self.config.telegram_token or not self.config.telegram_chat_id:
