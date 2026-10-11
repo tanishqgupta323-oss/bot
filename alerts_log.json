@@ -4031,5 +4031,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WBAL-TV",
+  "title": "'ENERGY CEASEFIRE:' Trump announces de-escalation in Russia-Ukraine war",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHRTS0x5c25UQXNLWWY0a2ExM0xHYlVLRzhRbndpZlRMSERoRnlPaTkzRlozdHd5RmdwRkN3dEpMUnJKSGMwcVFsdklnTFJPRmY1UDQ2MXBseFZtUGlLYXM5eVlPeWFKeFdiV2xSZ3NxYjhIckVCWFhqYXhkaG96RURaRlRlbjlR?oc=5",
+  "published_at": "2026-10-11T15:31:00+00:00",
+  "sent_at": "2026-10-11T17:55:34.873163+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.3251
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.859
+   }
+  },
+  "checks_base": "published"
  }
 ]
