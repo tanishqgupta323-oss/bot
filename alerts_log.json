@@ -3516,6 +3516,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.0501
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1486
    }
   }
  },
@@ -3578,5 +3583,33 @@
     "BTCUSD": -0.1347
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al Jazeera",
+  "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNW9FeS0xY0pkWHlqMHYyZnVvVUUxd3RSOG5fdlFrY2pqcmt3T3htTXQxNjk1VHdVX3ZZZ0l2SmZSdE50UzZld3lYNWlDMk5kbnBFcTNPUjVrOXN4R1pNc3VnVkVHcmozZVpUSG9XT2tYWk1OZjI2M1RPU3ZkRHF0M3BkQ0J5dWN5c2NqOEUtWl9UOE0tNFpuZmVDZTRFVHRsTXlLUm9iOTFsbGtoQ0NLSDhR0gG3AUFVX3lxTE5oeXI0NjB5enlxWHA5LVQ1X3l6SU9CV2xzN2Jxa0tNbkVyX0VtZ1FTY21RMFh3M2plMUV4cUpzNC1aVkFYZHVxbGVWNHAwSDRBQ01QRXBnU1dyZFJ1SENOQjNWMmlzTF9tWmpReHdDeWhjOHE2RUdCbHJWamRRa3RCSV8yQkNLNGsxc1NoTU5mRlBlbm5VVnU4aXRYVW44Yzh1QTg4S2F6ZldxODhGMmMyLWk0VUtpSQ?oc=5",
+  "published_at": "2026-10-11T03:14:01+00:00",
+  "sent_at": "2026-10-11T03:25:34.948170+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "NBC News",
+  "title": "Trump responds to potential U.S. involvement after Saudi attack",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlJablZPdVVoMkIwN2s4cExlV2V5U0xmZ3h3M3F5aERBXzBuZ01GbHNnQzlNVEhkVXpTLVg4N1p0ajdFVDRMZm1IRjBpM2YtTW5NcTVQYkEyeEJjQTV3bXhCY1RoUzFxX0Y1bDctWVZhZWpFZjhPdmx4eVBsM04zeExQRkRGVFMxX08xc0dzZEtPSFNXWnJTeEJzVy1CT3VtQ3pla2tSZFpRUjRxTjhLN0Z3?oc=5",
+  "published_at": "2026-10-11T02:46:44+00:00",
+  "sent_at": "2026-10-11T03:25:35.270850+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

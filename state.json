@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-11T02:01:15.308992+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 186,
+    "count": 187,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1794,12 +1794,42 @@
         "shot",
         "they"
       ]
+    },
+    {
+      "at": "2026-10-11T03:25:34.371939+00:00",
+      "w": [
+        "attempting",
+        "blockade",
+        "disable",
+        "forces",
+        "gulf",
+        "iran",
+        "oman",
+        "run",
+        "ship"
+      ]
+    },
+    {
+      "at": "2026-10-11T03:25:34.371939+00:00",
+      "w": [
+        "attack",
+        "involvement",
+        "potential",
+        "responds",
+        "saudi",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "c50931627924396e2be4d80c5e109e3769866f97f1e5a92a7f0a435801b62d91",
+    "29a08aef2a318550e35016def6d45268efc8a5854baa188dcaaf6fc2c94037c8",
+    "6dac0c67568a6417b3cc8ddef6276ff021804b46801b05e8378f4a9d98851be7",
+    "02d1e61006794bfd73f9207861f47681c6b37f1858d67b24d117cf025441d2fc",
+    "1de5bf30db5c4575d43358ef0d37541ce0bed0888f7f855e952aa4fc6d97fb7b",
     "ab4e380058e5b8c607beba5d9efc9e05b8243767ca44e31b024d22b9984ca1a9",
     "b8e8386aa25f86fdf3f940dc5ebec7009dbbf732bf82edd7416c74f28dd50bab",
     "bc21a24230024bbd9f36fb0c4ec69ac447f9f3b942c9b39a28a35a7b8977dc5d",
@@ -2794,12 +2824,7 @@
     "bd28511418005008a9908e06fcceefb177f0f5fee3215f80adfd0c5283ab8e73",
     "cfb76a15689197fbeb9e26ec38279f9ba670e7c26b3e11c51eef06f9aacd625c",
     "5f47037e3d0527c198f6a91e9766f3b9cf51d40a71b22d34cb74b0baa1d5914d",
-    "20d1cfda5404f8daba01c5215e6844143d2e19e20d73fcc287cc937bbb8aa56b",
-    "25dc95f631aca14fdc5f400202a5be553f2b222a313a7d8408c4dec0fc814e40",
-    "bcaf5e6d68d056543c325ddb4616426970e454ea1c81cebe7b7f878a1d6d4e6f",
-    "3376cfcf87caf8c8b50e981f1225f96fee46ca37d3645410d67ae2dc843a77b8",
-    "ffb42592e3519215c3e580cb1c149686ddfca0520774ee94491a01591bcdeccc",
-    "33d4bde6f93f4cd594df167a29db93faff6efa188acaded1e495f988a13c5a4a"
+    "20d1cfda5404f8daba01c5215e6844143d2e19e20d73fcc287cc937bbb8aa56b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
