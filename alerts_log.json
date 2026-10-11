@@ -3553,5 +3553,19 @@
     "BTCUSD": 0.0254
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Bitcoin sellers had their shot. They missed.",
+  "link": "https://investinglive.com/cryptocurrency/bitcoin-sellers-had-their-shot-they-missed/",
+  "published_at": "2026-10-09T13:35:32+00:00",
+  "sent_at": "2026-10-11T02:55:33.858628+00:00",
+  "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
