@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-11T02:01:15.308992+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 176,
+    "count": 177,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1739,12 +1739,31 @@
         "worsens",
         "zelenskyy"
       ]
+    },
+    {
+      "at": "2026-10-11T02:20:46.626971+00:00",
+      "w": [
+        "again",
+        "airport",
+        "arabia",
+        "attacked",
+        "days",
+        "houthi",
+        "riyadh",
+        "saudi",
+        "strikes"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "cafe302a73ca0a96c9efebc0a0009770f37cea31dd8b4535069c66a2ed9f5a2e",
+    "c10efd34fa3596ef76f9986d15ada4a3fd72447e90b7fd2a8b4c443427f0e10d",
+    "6bb6b42b9cc77a28f865fca72043b9f8429d5926457ddcfc683e2b9c2d3d0e81",
+    "9036ca8bd3bc131e119612a8ad9df920cc59b046e3ad68424191f48732bcd3b2",
+    "25117b78c2ea60d2665b8274b93d12a0662c23ddf21bb501df8726839da16743",
     "782d608c9cc5593ccc3e2d0d20e86f0ed2c9d7f506dba63fd9132180c60d12fc",
     "406882bd0a56450f142ab55c437631c648bdd646265fad3f62b25c980f033a63",
     "200d7baf0d4aa648ef216ef8a8a597e3b46b9949b51ee3a3bd342f30ffcc4239",
@@ -2739,12 +2758,7 @@
     "28cfe5c927f4eb08319fbaa7f69329beaaea87eb32a124aee355188766a80462",
     "ef6f47078dec8934dc15fc8b590ab2c47197e34155c747ec61a5ed5206325ad7",
     "01fccbeb1900ef2c5fed88bc1c2d388ab9a016bfcea349d9d1f648157f07fbdf",
-    "b87abb3796186ffa173c4a4207a9a0b63a342efa15ccbab1e1f0289f2382a947",
-    "bce493413542b0eafc80aec504ae0cf5365d21d21147fcfe3789273cebd7111e",
-    "4af1b22cd0df2206f7c922060bd5f1e701be1503465cc2e32df917851abacff1",
-    "4aa37cb613e85ec2c6b005f68e19c58ecb28f42033d75bcfc3f38380f0a27157",
-    "3642ec1f7b9a1dfe1d27bd854939d84942648b2ea8fed9414a89fdfb548b8560",
-    "c4adc313c2b3655393c8791fc474ecf4efc92ec3c576ad53f240a64e611355f1"
+    "b87abb3796186ffa173c4a4207a9a0b63a342efa15ccbab1e1f0289f2382a947"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

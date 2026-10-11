@@ -3466,6 +3466,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.0255
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0383
    }
   }
  },
@@ -3478,6 +3483,26 @@
   "published_at": "2026-10-11T01:47:00+00:00",
   "sent_at": "2026-10-11T02:01:18.517953+00:00",
   "impact": "LOW",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0517
+   }
+  }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The New York Times",
+  "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanlHRHF6bWpaWFM5UW41VnZYSmJmYzVrUkFzQmZUdldhUUJfdkwwck5OYkxfWmlvRnRkSENQUHp3Rmk3ci1VMDBlak1IeDQtcHJocGRfakhyWUttLVlxbkZNSjZjMUIzNk9wNndNaURjdGNrNUxpZklFNDkyWmo5U3I5RFZTZ0FvdlNhUVZvaDg5NkhudVk4RVhR?oc=5",
+  "published_at": "2026-10-11T00:31:33+00:00",
+  "sent_at": "2026-10-11T02:20:47.312975+00:00",
+  "impact": "MEDIUM",
   "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
