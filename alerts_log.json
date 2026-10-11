@@ -3438,5 +3438,19 @@
     "BTCUSD": -0.0135
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Times of Israel",
+  "title": "US military says it disabled cargo vessel trying to bypass Iran blockade",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLUpYZmpoMWt5eDIwZ2UxSzctTWJXTENpM1dRcVZDWUtKcU1QU3Brdkd2VFVoQWt5NWFocnZieDdMSG4zTnBZZk1RR1lKWkxmNVRVb3ZsRGNBSUpET0lUNlJjdFl3UXFTbmp0a1g1SGRxUC1oamFQZkZxcE1MRWJoWXFNcEUxZ1VwU2NrTjI0OVFxTDRzWkVWNF9ocWJZMHB2VFlPQlp0Y3d1MzJyblM4MDgtUVMydDJSYnc?oc=5",
+  "published_at": "2026-10-11T00:29:38+00:00",
+  "sent_at": "2026-10-11T01:15:44.662797+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

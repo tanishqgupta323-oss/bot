@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T22:55:32.707905+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 166,
+    "count": 167,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1710,12 +1710,27 @@
         "stocks",
         "uncertainty"
       ]
+    },
+    {
+      "at": "2026-10-11T01:15:44.158094+00:00",
+      "w": [
+        "blockade",
+        "bypass",
+        "cargo",
+        "disabled",
+        "iran",
+        "military",
+        "trying",
+        "vessel"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "8e6f3daba8a93548cb7332d228b0b3b26f6c831735e4a0a4fcbaad18e993dfd0",
+    "3036108ae1eca7c3ad01c0f202a19d1a93081d510ec95e00ba3feeb901c265b4",
     "8546b977db74c81d15cf65e56d7684b9abf5776d108c23bfcdbd1d581076cabe",
     "de888b6df30c442285dace55b5cf908f9883f6066ffd51e00fcc441b7ae64361",
     "7763b4acdf1c45ee8b8eba3484f69c89e9d4619acce9eccefb3808db52ab0641",
@@ -2713,9 +2728,7 @@
     "e6e6936470e8feb260e9c8ba9249e46a4799689f6a32d2a2325ae105784d637c",
     "6d7c7eb00b8f0539523b16c597b4b054a9bc59dbb6c30b6032f4fcda7874ffe1",
     "e5eca887677daf97959a54b0913216b99f05603c92a477bfc57ea31c2d957bf5",
-    "bb134adcd3b8a7df4771a8b6bee2abdc8ffc1f1127bada448af7965d5187428c",
-    "b497651a4d36acbf1aed8a0e09d29a693ac8202303df6c516131d1bfda5ae0b0",
-    "6f4ad7adc98cee7eb484b6c90940945bb04e2eddb067f792b91cb31ba24021bc"
+    "bb134adcd3b8a7df4771a8b6bee2abdc8ffc1f1127bada448af7965d5187428c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
