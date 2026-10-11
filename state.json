@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-11T02:01:15.308992+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 193,
+    "count": 194,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1848,12 +1848,27 @@
         "video",
         "zelensky"
       ]
+    },
+    {
+      "at": "2026-10-11T04:01:18.711756+00:00",
+      "w": [
+        "airport",
+        "attack",
+        "houthis",
+        "join",
+        "riyadh",
+        "saudi",
+        "strikes",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "f700c3a52cb0c0c4ffea742da9171c5bb2cf5a8ae4fcf4600e6d4b5c0b03f51a",
+    "aa6ecf27f0b67ff45840027e36d4cf36aedfb28df5f30d697e73e95c4aa552d2",
     "43a80e3866e0464d3c5c28ea5c0ec8b3d0edaf9c15b6b0d079023ebd9a90419c",
     "bcbe154cf51ee276f010eafb0d241d2f2f417449c81c5f4bcd5305dfbf4ab1e4",
     "34cc53eba7d2eef403c6983547bf78a3472d9cbf83674a4e28a6ae30d5cca3cb",
@@ -2851,9 +2866,7 @@
     "f4fdb7922580c2c2a78bbf5e7e18e6e76144d4b2385d3d9b16cd4546500d7e02",
     "867e8e311f39199c03a0624723b68259bff5cc4c3f5fb051e3ad9736ea9dd993",
     "093c4e55cb1135d90b8eba32122d75d91b45a241bd25bba91c07f844d4bcb91f",
-    "ce4cfaaa787010865f4f62d10e53d1ea0d367702059f2ac283942e8e8c1b375a",
-    "6f5a3bc8ae75645686d07379bd83e7e96b9b62b009f66d73a3f08fe1ab0e58ae",
-    "3a6a5586638f6c8d53173eed8e28a22e26595282abac18ccdcb6011e356ebd40"
+    "ce4cfaaa787010865f4f62d10e53d1ea0d367702059f2ac283942e8e8c1b375a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

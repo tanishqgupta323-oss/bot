@@ -3591,6 +3591,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.1347
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.3071
    }
   }
  },
@@ -3666,6 +3671,20 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al Jazeera",
+  "title": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3Nablp0Yy0ycXVDejJ4THRTTFA3bEF6YVktUC1LdHA2anNERjZJYXVIakdPN29WUm9pZk1GN1RmSVc2enJKeDNrVmxJUm1zUEdqVndCdmFyV1FCQlJjbU1TTlEwd2VydndNM2FEQlluX3EwR3k2cWdMaDlra2ZXZ3Y3ZlBLTUljVjZBT2V5ZXUwc3Fja0pzeUtBWHF5MkE3S0VpM0ZWYlg4U0JvSDJuQ9IBtgFBVV95cUxOMURRYUZ6TGZaVW9yWkRZMVBVTXhvRjc3cnFzS1BGMXZxYWwwaGxwMm90RVBVenFDUFlocGJuTGpHeFZFeWVrOURsenA1Q2NLYmgxZ0xtQno4OTg3bFktY2hwZGUyMl9iOGJTb3pmTGRpWmhTNG85Ykt2SThramhUR1c4OHRCbVVRTHEtS1dySFhwMVRLVkpuNTdTbGd3Y2gtbDR0VWdQaFdIdGNsQVpWMEdHeFVSUQ?oc=5",
+  "published_at": "2026-10-11T02:05:38+00:00",
+  "sent_at": "2026-10-11T04:01:19.289652+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]
