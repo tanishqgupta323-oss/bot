@@ -3984,5 +3984,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "ABC7 Bay Area",
+  "title": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTk5ckFtakpxdnN0QURNS00wN1lIZ0NPYW9pNTYtQXAyVXVDVU92am9ld2d2Qnl2d1M0TF81YUVhLTJSUnlNX3dxVlRVWEhNcVRGN1VMLWYwT2M2MHJmTzlLbEsyRlo4TUpkVEE4N2N6ZnhjZm12b0FoQ0JYLTItY0ZYYWo2NC1zQjhOUmRhVGpvbXM5Z3JuWnhLaGRZV0V6RDkxamZqM3NEdw?oc=5",
+  "published_at": "2026-10-11T17:26:21+00:00",
+  "sent_at": "2026-10-11T17:31:05.783737+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
