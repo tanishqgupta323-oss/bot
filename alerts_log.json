@@ -3316,6 +3316,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0089
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.042
    }
   }
  },
@@ -3336,6 +3341,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0089
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.042
    }
   }
  },
@@ -3371,6 +3381,12 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0193
+   }
+  }
  }
 ]
