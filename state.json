@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T22:55:32.707905+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 158,
+    "count": 159,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1683,12 +1683,25 @@
         "plan",
         "remaining"
       ]
+    },
+    {
+      "at": "2026-10-11T00:35:33.906881+00:00",
+      "w": [
+        "intelligence",
+        "jeopardise",
+        "kyiv",
+        "russia",
+        "sharing",
+        "strikes",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "2022c1e27b17d1e37278efcc9389fb741f9a7042a5855863cf80d422ce5036a0",
     "279fa4b1ba31dd708f358a61bc123f8da24815cd48eb06fcf76d811509396703",
     "5cfa3e296a91dca9a41c73b173bc40ded17be384c91827443808b587b06f1a9e",
     "aa3aa86fc8f9507c3c405c4357c5ede77c87a9495ed7762e16cebd61b3468b90",
@@ -2687,8 +2700,7 @@
     "74eb5aa2cad6886042d6b12c2e97d6e4b65c717cadca20f12d3b6931d2c8de8f",
     "d388a4bf39519d40ee56570e6afc15466f906db6bcf473c747a56e7764e282a1",
     "79453b33d46304ec85a76aa1bf9fa89d6ea85c2c2b04f96ec26b1e5af2a03bd9",
-    "6e59f9b38826215d009e863e5cbfab18a3efc71decb72bc0778eefcd28821c80",
-    "c8a621492ec823f6dc1690302ba1de1f6ed4f557e9bab272592e775517c80124"
+    "6e59f9b38826215d009e863e5cbfab18a3efc71decb72bc0778eefcd28821c80"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

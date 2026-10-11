@@ -3388,5 +3388,19 @@
     "BTCUSD": 0.0193
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Financial Times",
+  "title": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVllVZnNTaS1hU1kwSDByOGpELXQwV19OYlJJV0swSU95NjRyWmhfcEE1NTUzV25aVzVXQzN0ZmhMQW5tdUtqektsRkdrWTBqeUhsN3NEM2tnbUZQV2daSEM1NWJYbnNBak9haTJxdmFGb240R3A1c045S0trVDZpNEQ5N1k?oc=5",
+  "published_at": "2026-10-10T11:29:43+00:00",
+  "sent_at": "2026-10-11T00:35:34.530936+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
