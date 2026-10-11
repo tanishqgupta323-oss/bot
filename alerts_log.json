@@ -3653,5 +3653,19 @@
     "BTCUSD": 0.0345
    }
   }
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The New York Times",
+  "title": "Video: Trump Blames Zelensky for Stalled Peace Talks After Russian Attack Kills at Least 20",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTGUxSlhobkJlX2FpbEdkdURNQTNsbTBCQUlZYUI0NEY4T0NkYUhKWE5RcnZ1UmhqcGx5clg2ZE01TldHVzROVTZ4bWFpM2h4VXVnTGw1WXVORWVUMGZlNHVDSFZQdDZNWTNpOElCeWFLREpMdHBTYzE2UnBNQ1c4WVRZWkVVYXN5TVZXcktFRHJMemZFN29ZRWdOaUgxUQ?oc=5",
+  "published_at": "2026-10-10T19:23:59+00:00",
+  "sent_at": "2026-10-11T03:55:33.665070+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
