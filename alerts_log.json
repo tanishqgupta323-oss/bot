@@ -3686,5 +3686,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "US October UMich prelim consumer sentiment 46.3 vs 47.8 expected",
+  "link": "https://investinglive.com/news/us-october-umich-prelim-consumer-sentiment-vs-47-8-expected/",
+  "published_at": "2026-10-09T14:00:04+00:00",
+  "sent_at": "2026-10-11T04:05:33.614541+00:00",
+  "impact": "MEDIUM",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
