@@ -3266,6 +3266,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0342
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1283
    }
   }
  },
@@ -3338,6 +3343,20 @@
   "published_at": null,
   "sent_at": "2026-10-10T23:50:48.535560+00:00",
   "impact": "MEDIUM",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Iran International",
+  "title": "Bessent outlines US plan to cut off Iran's remaining economic lifelines",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuRUhReTdFX0ZfZkFRVWNFQzVsMGhYU3NOV1RXRWJIak5NOEtYdF9abUR5SEZ5VUJBTC12UG5uZG9fdDd0VDRSSl9pM2lPNW9JeFE?oc=5",
+  "published_at": "2026-10-10T23:23:00+00:00",
+  "sent_at": "2026-10-11T00:01:30.399002+00:00",
+  "impact": "LOW",
   "eurusd": "NEUTRAL",
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",

@@ -508,7 +508,7 @@
   "calendar_fetched_at": "2026-10-10T22:55:32.707905+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 152,
+    "count": 153,
     "day": "2026-10-10"
   },
   "recent_stories": [
@@ -1670,12 +1670,32 @@
         "saudi",
         "wounded"
       ]
+    },
+    {
+      "at": "2026-10-11T00:01:29.787024+00:00",
+      "w": [
+        "bessent",
+        "cut",
+        "economic",
+        "iran",
+        "lifelines",
+        "outlines",
+        "plan",
+        "remaining"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "3b23fa277f24866900d60480aff4f542a0073ce7a00719908588353b31e8eb5b",
+    "ff45c5f3e458e408ebd4563d26ef531a0f730305020f36b1ecafd0715549182e",
+    "1a1eb54f305e364275c4db7dd3deaa952f2e5377b20cb8e3c9113185a3e74452",
+    "1907c196809d48f99ccec0aadfe110618266f3289de5798f6527068f58a59a8f",
+    "4155b13a0e30efe7b3f0a7fe21e5b0ab406519ed41ae8b146492c4d13bd518d0",
+    "1de2018445e2b5094b7cbc2606a183b1bd696bf0b373b80a59910ef417be3734",
+    "53ddd4a3f0bd7eaa60fbcf418c8bbac49b73d1f005bbfcc429013dbe4387e1d4",
     "4c71d50468272c137dc1a7d63424e6e1a069810100c9eac3af6d96d8f4c59ed5",
     "021d3ddc740a34ac4116dfea8c21b8035dd63a327276b988c2d847ebc4e138f5",
     "b6d0b96e79c2e7ffbe525955442c009a9c2fd442ab555c23ec295cee1e4746da",
@@ -2668,14 +2688,7 @@
     "431c4d9247372a9402c7e9907d46b9c454401126c4b51b79583086659e3154b3",
     "8b8b528851d12be3caf5029a535288556cc808b49c50d285b41561cccfc9dda5",
     "ec1b20769375f11249c04be673beb85da23ddf46b094775bac4ae44c19d220c3",
-    "f2e1af8e790bf20387668515f88ba325a571089a0bfa69f6e0ff9e598b4a4753",
-    "31a52e4299e271dcd20d78b0c5ce616721705f7b95f54301f8fd6f2842c84605",
-    "d61b948587c98a4ed0087dc7766b02dd7d456240aa444c567e8da73c0276832f",
-    "0d0b03300e559f115679d77a77e1cda3dc7646e6d88b3c69b721e9ec661ba414",
-    "621b144899835443a88ed384016e9d2c5adfb9ed837b87c385d3ea6d37787f17",
-    "9a1d94dd8e0ac48467cde1e2744446f3bde7f129add386acb41d325622b7486b",
-    "743b48effe05001a3e6cb267b212b0c6ab5fa8aa866e797d9b5d14f30be05f3a",
-    "17f158b40e1fae05cd70dbaafd21c9dc903bedfdb4b24e7926bff67285ff494a"
+    "f2e1af8e790bf20387668515f88ba325a571089a0bfa69f6e0ff9e598b4a4753"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
