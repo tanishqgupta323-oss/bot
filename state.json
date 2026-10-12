@@ -513,7 +513,7 @@
   "calendar_fetched_at": "2026-10-12T14:31:10.804023+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 123,
+    "count": 124,
     "day": "2026-10-12"
   },
   "recent_stories": [
@@ -2124,12 +2124,31 @@
         "index",
         "month"
       ]
+    },
+    {
+      "at": "2026-10-12T17:25:44.327104+00:00",
+      "w": [
+        "avoid",
+        "fed",
+        "hammack",
+        "higher",
+        "hold",
+        "inflationary",
+        "mindset",
+        "needed",
+        "rates",
+        "taking"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "d79587617f35f25696b36eb46fb0797280b95e9abd7f6ae81a81d831e8a65801",
+    "e1737672dea455c05362e3c7d7c06cdf7425885a7d0e8f7eeff07e151511536a",
+    "92b45a2fe91502cd7e89878838c4209d54d2f574f4551eb600d150f11cef2eda",
+    "c75968bb38accc32fd10158cbe813cbab9ecd79fc5111ce8c8b5731a314dc007",
     "26c8567712450c3c1961168d09117bda71bb0bc25f8f373c8b6a5855124fb778",
     "546be1a1b2cbc759d3e169cd9a65d286984244d3566ac9d2d1a0504af1453dc2",
     "61d1a85045e8a509d1858115144a26d8a24d33e78f39dba989a6c97306f45336",
@@ -3125,11 +3144,7 @@
     "5c5cae65c3ef4f514142d2b348f83d13e10aa1322b88a07b1ec37ff16aa3a243",
     "ab6305d0dfa1608017fdbe68633efe7ec221ae5782398ba9503b65d1ea2d600b",
     "382e201fc5bc1a3a62972fc9e415443cfe875dc483218049b96ac5f1615d8c29",
-    "f293eb388d22274b694e5ac184ebd9bf06cc95f417e829f42dba875b19296e60",
-    "d8be47a34e6527e3d799b4e76acffaf1db10992cdddba69f2e4969d44276c1cd",
-    "9b63001194b1e60defcb64100a69c0b6d9f21171e2188f561de86569bf4cbb17",
-    "6ef1b04f33f822adcda4f5100dfd35686fca74321ae3fb85bdc37924fc44c9d3",
-    "3edf4efed30acb125368b905ed372fa0002cd9fcef1931d995448edc449a87ff"
+    "f293eb388d22274b694e5ac184ebd9bf06cc95f417e829f42dba875b19296e60"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

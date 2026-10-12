@@ -4322,5 +4322,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNBC",
+  "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iRWdUXzU4TE1qSExlakQ2Nk9qM0ljX2tRaXg2d3ZhdG56Vmc4TTJqdGMyQmE2aFNQT3l1eHRlb0tWdWgtbWJOXzk2OXJoUlVfU05TaU5TRy1QOXlVQlNpcjAtdkFPRFFiajBIOU9DY3ZEcWUwMDJWdWx30gF_QVVfeXFMT0RHU1ZWNllmUG93MHhmemF0dzQ3VHRvX2JYcGV4RmxrMHNvRnotcEZZanBJYTdjemxLS1pnNDRLZEloYXpqeEp6ZHQ0X01ZQkN1a0JtWEpXdjNqUVdsZWE2X2M2Q1dwQjFsMk8wQUw1UzllTmJmNFZHcHFzQ01rVQ?oc=5",
+  "published_at": "2026-10-12T17:08:43+00:00",
+  "sent_at": "2026-10-12T17:25:44.327245+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0072,
+    "BTCUSD": 0.0047
+   }
+  },
+  "checks_base": "published"
  }
 ]
