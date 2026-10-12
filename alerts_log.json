@@ -4106,6 +4106,11 @@
     "EURUSD": -0.0112,
     "XAUUSD": 0.0378,
     "BTCUSD": 0.1838
+   },
+   "60": {
+    "EURUSD": -0.0449,
+    "XAUUSD": -0.1677,
+    "BTCUSD": 0.0249
    }
   },
   "checks_base": "sent"
@@ -4127,6 +4132,32 @@
     "EURUSD": 0.0,
     "XAUUSD": -0.0189,
     "BTCUSD": 0.1331
+   },
+   "60": {
+    "EURUSD": -0.0561,
+    "XAUUSD": -0.243,
+    "BTCUSD": -0.0975
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Seatrade Maritime News",
+  "title": "Iran hits tanker in Sohar and two in Hormuz, US disables bulker",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU255S0ZwRHJ6dTY1RHlYLVdxNDI5SlZ5cU5sVUV4RWtjTXp6NG5JZnlzazhDT24xWHVTTC1TSnItX2tKZEVGa3VnbWp0MG9PUERvQm5BUGUzWTFMNmR6cnBoQ1gwQ2pzWE44cUtlVmRWdFYzOVdLV2NER3ZXdlZiVlRDWE1GMkJkdWFXaFY2LWNUZlRoTXhfSGhYZkQ5SGFReGZLbUEzVXE?oc=5",
+  "published_at": "2026-10-12T02:28:56+00:00",
+  "sent_at": "2026-10-12T03:15:48.285460+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0224,
+    "XAUUSD": -0.0897,
+    "BTCUSD": 0.0046
    }
   },
   "checks_base": "published"

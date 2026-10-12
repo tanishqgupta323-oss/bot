@@ -511,7 +511,7 @@
   "calendar_fetched_at": "2026-10-12T02:20:49.456883+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 203,
+    "count": 204,
     "day": "2026-10-11"
   },
   "recent_stories": [
@@ -2016,12 +2016,25 @@
         "surging",
         "week"
       ]
+    },
+    {
+      "at": "2026-10-12T03:15:48.285331+00:00",
+      "w": [
+        "bulker",
+        "disables",
+        "hits",
+        "hormuz",
+        "iran",
+        "sohar",
+        "tanker"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "f4d43fa79adc62112698efcb7225367fa973ac9c3984530382db1423b96b3172",
     "044d8820d8937af80de0d6b67085d664307658a6375542720afbde5bac6a1021",
     "6244d8c3139668fc029fd6f2aedaced05b26410a1e97527c37bc65e6fa79afcc",
     "1a129c89daec45a9148d565b9236039ec6db1f3f4a01a86d9226938abf5cb82c",
@@ -3020,8 +3033,7 @@
     "23a3ad0d6e6e51ce067a3d1a56ca6f292f2035c76fc2dd6427c3e602ced4b08e",
     "03714ea0808be7ebc62019cf835a00ff46571bb3073831c5f85a27bc3fee08aa",
     "6c96aae190f5292a7f8c89552c7042ea48f2d617930cf15e2ad8c25f05d9b657",
-    "5e05f05f53cc67f4e21b1497e97a5226ea72cc55dbe80f9fc0282a02549b5e05",
-    "5e4910342d7407b46a92ee0290cd2572c0029d98abadd200c0146c648aabbcde"
+    "5e05f05f53cc67f4e21b1497e97a5226ea72cc55dbe80f9fc0282a02549b5e05"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
