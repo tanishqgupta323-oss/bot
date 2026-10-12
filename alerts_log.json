@@ -4265,5 +4265,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Analysis-US yield surge triggers mortgage hedging, adds to bond market pressure",
+  "link": "https://www.investing.com/news/economy-news/analysisus-yield-surge-triggers-mortgage-hedging-adds-to-bond-market-pressure-4944828",
+  "published_at": null,
+  "sent_at": "2026-10-12T15:01:33.407497+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
