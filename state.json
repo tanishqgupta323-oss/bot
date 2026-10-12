@@ -513,7 +513,7 @@
   "calendar_fetched_at": "2026-10-12T20:40:45.537392+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 171,
+    "count": 172,
     "day": "2026-10-12"
   },
   "recent_stories": [
@@ -2242,12 +2242,32 @@
         "usd",
         "wrap"
       ]
+    },
+    {
+      "at": "2026-10-12T21:50:48.320770+00:00",
+      "w": [
+        "cool",
+        "demand",
+        "fed",
+        "hammack",
+        "keeps",
+        "mind",
+        "needed",
+        "open",
+        "pace",
+        "tightening"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "a60dcd2edaed21bf0480ac24293a190c0c34eb508cde4eb58f4f869a63be951f",
+    "d59968738a1c48c8e0c82d3eea2e326abd9f0a8b889311cb874ae0a95ad3148d",
+    "487f2c17c152ad65db84cb72ac5d4ed39cfec6009db54152a99ff39f8914b3ce",
+    "c292abf5166b95f027cb8d99115c46fa292f269d3032db17595f8becc4c072c5",
+    "ac7d4bc8f1c2dd7929f19829261085828b16eaacaafb8be603f94029a9f24114",
     "7de2b8f2900c68d62a62a57a6052da73c9dd0912d35a5afc1259c58a49cff7ad",
     "438f28419452000dd10ac25186986131ccbd9f16db54877cdcc34da48e9ca061",
     "db13ea4a06101f5fe4c1a20a33af02b0041ea55a57b282ea9573c45b719502f2",
@@ -3242,12 +3262,7 @@
     "adeca98ca46a8134f5a396076cd87d0270713aa1dc7ccaac7a41739b5e9e271b",
     "f1decfe32c7f313a04cb030cb6199f9a90a94ff30d71c8260ad4e0f4a39b7be4",
     "dd486f34804b15197fe997ebab37e77f9af2d8feaf38577c421d7b6f2db0e748",
-    "8c20576d23223a2e58aa4b92b44425ad405ea1e2429c09597f4768de90bb2600",
-    "a612b26d85028564b8ccbe6a136599e8ec635e8d833bc8e27f811d6888056c7c",
-    "7f2ea6851da65a194005809121e159caee4613a8045c682163e010bc7bbd2ed7",
-    "b9d6991c27de3001bb7c62baa53b0208f3012b25e95abdc9777ccf15ce14fb22",
-    "1522a3b89bd73f283bbb3724f80ed225f922c9364c8a6899bf65f9f9d4d2ac77",
-    "569abf3996eb2be4300cecea1b2eb650f14fbbbae98bb512040e607a2cfb6565"
+    "8c20576d23223a2e58aa4b92b44425ad405ea1e2429c09597f4768de90bb2600"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
