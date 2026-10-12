@@ -4447,5 +4447,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Reuters",
+  "title": "Fed's Hammack backs restrictive policy, says better if it comes 'relatively quickly'",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3JSQmJSVHVtZDBjMUV0VUlYb0xQaGJvUUkyZG12VVQzVWJYc0pIcjZjQ2R5VUR5Nm1MaTV4SVpLOTB2Rno0b0lRak5ORWFKX21GdGVrTm51b2VKYU9DQWdBUk1TNWlUZkt4WjQ2dEx1OEt0N2hKNjYtVUh1elVZSFJMNG80WUxVUTdqVTdMaU43VUE5SzVGd1FsWnlGSU95VElLNk92VzlMU0NIU1VkZW5nc0xrak11STE1MTl4X19kRUpHZ1E?oc=5",
+  "published_at": "2026-10-12T18:19:38+00:00",
+  "sent_at": "2026-10-12T19:55:35.565461+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0112,
+    "XAUUSD": 0.0262,
+    "BTCUSD": -0.0506
+   },
+   "60": {
+    "EURUSD": -0.0223,
+    "XAUUSD": -0.1478,
+    "BTCUSD": -0.1394
+   }
+  },
+  "checks_base": "published"
  }
 ]
