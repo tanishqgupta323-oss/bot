@@ -4551,5 +4551,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "Fed’s Hammack sees thriving economy, backs further rate hikes",
+  "link": "https://www.fxstreet.com/news/feds-hammack-sees-thriving-economy-backs-further-rate-hikes-202610122150",
+  "published_at": "2026-10-12T21:50:29+00:00",
+  "sent_at": "2026-10-12T22:15:48.211389+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": null,
+    "BTCUSD": -0.0562
+   }
+  },
+  "checks_base": "published"
  }
 ]
