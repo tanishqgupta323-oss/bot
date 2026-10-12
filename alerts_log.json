@@ -4582,5 +4582,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "Euro collapses below 1.12 as Fed hawkish rhetoric lifts the US Dollar",
+  "link": "https://www.fxstreet.com/news/euro-collapses-below-112-as-fed-hawkish-rhetoric-lifts-the-us-dollar-202610122222",
+  "published_at": "2026-10-12T22:22:13+00:00",
+  "sent_at": "2026-10-12T23:15:45.062885+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": -0.0334,
+    "BTCUSD": -0.0135
+   }
+  },
+  "checks_base": "published"
  }
 ]

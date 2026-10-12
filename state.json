@@ -513,7 +513,7 @@
   "calendar_fetched_at": "2026-10-12T20:40:45.537392+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 186,
+    "count": 187,
     "day": "2026-10-12"
   },
   "recent_stories": [
@@ -2271,12 +2271,29 @@
         "sees",
         "thriving"
       ]
+    },
+    {
+      "at": "2026-10-12T23:15:45.062678+00:00",
+      "w": [
+        "below",
+        "collapses",
+        "dollar",
+        "euro",
+        "fed",
+        "hawkish",
+        "lifts",
+        "rhetoric"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "5ff0ed54add2641724fc5aebd52c31f0cb3be308b2476f36f3ad0db8612a242f",
+    "3638de3dea853695e37a04bd2075efb57f50b2c75c41d64abcc7c494c66afa26",
+    "02011927482cba582ed560574947f6f6c80a3823bd5f18930be6b94458a70275",
+    "3fdb6badc591b8da6655e0c9d2d2ff2b04c9c89a44d8c2de5e6d90efc10715f7",
     "53cbd28dfeb275c1e32fff6ad2b437721694c3aabb804b73adabbcd0725f7edb",
     "0b7fc67feaca8525f343cc139bab993176ec08356f4df1806ae5107e617ab94d",
     "52a62dad627dfabc9bb96eef74b083b21c35279d79ae2c19b0b35ef4a33667f7",
@@ -3272,11 +3289,7 @@
     "5cf10077c1db98573cf64aa074ae63dcf3d2676d74ab707bbbb7902747431df5",
     "138b284085491a178b5f85632e406a4de724cdeef4d7994b68a84bf0d02af8c8",
     "a614b2b9d61de1865c2983909069c997d170ff0df0c38bdb4623c5446bf560bf",
-    "9c53889a840be913cd604b1b0a4b422c9e88f43b77b6cefef21943e448f899a3",
-    "c7908e2974c999fcf9ed3e3b5533c06d3743e758f08773d7eae2b402361e6788",
-    "7c864330eb1fb8170fd7930961f7f139818c37692828a26779b0b348472dfce8",
-    "ed460b0886f9a3b8af9cd4919ae793be6a72f74cb4b3f558e46220c4f681be0e",
-    "d7ccb7cd32dd2b3d0e6826a2fecaa688267cc97214593b59fe26cdc5bddb8e19"
+    "9c53889a840be913cd604b1b0a4b422c9e88f43b77b6cefef21943e448f899a3"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
