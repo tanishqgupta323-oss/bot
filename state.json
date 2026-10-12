@@ -513,7 +513,7 @@
   "calendar_fetched_at": "2026-10-12T17:35:32.860861+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 133,
+    "count": 134,
     "day": "2026-10-12"
   },
   "recent_stories": [
@@ -2163,12 +2163,31 @@
         "strike",
         "vlcc"
       ]
+    },
+    {
+      "at": "2026-10-12T18:15:52.149280+00:00",
+      "w": [
+        "fed",
+        "hammack",
+        "higher",
+        "neutral",
+        "policy",
+        "rate",
+        "restraint",
+        "sees",
+        "urges"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "1c65921e5ef77874db7df217ff46d500b7d768a09421dad896311affd2015de3",
+    "5788b405477c5f16f62eec43b6d400ac8e3ec4a847c9fe07f9c0d29c099c8904",
+    "57f875a603d4e722366eb7406bef2d39dceec42ac02d4417da95aeda773513ba",
+    "63febc02d992769d8a30ac0493cb545b0202b3d4eb9553eed0f22ba63caa8030",
+    "338fe78b115bfcb511c7153248c21a7872ac608553c5626aaf06e04f7eae0b39",
     "7c94832b943d584f8cc7f9d0ea5d5d8bd175db2c9c7e6f8cfe41fd31076307ff",
     "b7463000b06e34400ff591a8642c02dacff75ec9c3b20296fb20dce7a8a594d8",
     "3107c7db0d0170bd332768b054866ee365d0550c241dd5162474f4b33858bc59",
@@ -3163,12 +3182,7 @@
     "68605d0a37eefce9c3013feb65f6a0cb594d9c603ba52dad37bfb129a84731dd",
     "5e1e147ff9b36a20aca7ffe519174b422e6135dc8dc527396e94d77789f678d7",
     "53a1b7db6ff1746f28184f6650d16b4da3c9c916f2b205b087d1a4328bb4fd8a",
-    "c5e07dd35d3186eec033a25d769ce5f3d7e939bad2767654bc6feef3597c8937",
-    "4611b8d5770e09b77dc2c1054da5588d271d02c7baa85e3cf00af039675131ed",
-    "0e847bacac969a58281f7043fccf6d13dca9418a079ab0ccca80f32d93571297",
-    "664d42128b23b2e68026a34a4dba7945a0302742a6d38893e9426c231a1b3301",
-    "4b93dad2dbc00e6706dd11a0669541ab382a1f43cdf9d59bdd3f4115b57aaa83",
-    "c0a5ebcc787d1c6f1d75169401394c41f06cdeae068ba29c0d06f8feb5178d5f"
+    "c5e07dd35d3186eec033a25d769ce5f3d7e939bad2767654bc6feef3597c8937"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

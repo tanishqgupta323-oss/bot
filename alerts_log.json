@@ -4395,5 +4395,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "Fed’s Hammack sees higher neutral rate, urges more policy restraint",
+  "link": "https://www.fxstreet.com/news/feds-hammack-sees-higher-neutral-rate-urges-more-policy-restraint-202610121753",
+  "published_at": "2026-10-12T17:53:52+00:00",
+  "sent_at": "2026-10-12T18:15:52.149452+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0223,
+    "XAUUSD": 0.0334,
+    "BTCUSD": null
+   }
+  },
+  "checks_base": "published"
  }
 ]
