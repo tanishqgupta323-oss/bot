@@ -511,7 +511,7 @@
   "calendar_fetched_at": "2026-10-12T02:20:49.456883+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 198,
+    "count": 199,
     "day": "2026-10-11"
   },
   "recent_stories": [
@@ -1998,12 +1998,31 @@
         "near",
         "stays"
       ]
+    },
+    {
+      "at": "2026-10-12T02:45:45.947696+00:00",
+      "w": [
+        "200",
+        "above",
+        "await",
+        "data",
+        "drifts",
+        "etf",
+        "gold",
+        "higher",
+        "inflation",
+        "inflows",
+        "markets",
+        "surging",
+        "week"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "138b284085491a178b5f85632e406a4de724cdeef4d7994b68a84bf0d02af8c8",
     "a614b2b9d61de1865c2983909069c997d170ff0df0c38bdb4623c5446bf560bf",
     "9c53889a840be913cd604b1b0a4b422c9e88f43b77b6cefef21943e448f899a3",
     "c7908e2974c999fcf9ed3e3b5533c06d3743e758f08773d7eae2b402361e6788",
@@ -3002,8 +3021,7 @@
     "966f69a929bb1046c1ecf2fc40e9c3218a903fab8bc766b5322b5cfef545dced",
     "026cc9a5589900da86f520c01712d9575b6846d35dbe04e2bb08db69966888a8",
     "674b39f875f8ae9956e3a3e113ddddf6c1caad40627082d1aa688e0351c07db8",
-    "3ba2f4f12ee853df23798b8e24b2d7ab33398626a8bc973a3f31f21ccdd06727",
-    "1ba9f2a962c0afa000268930cf2e9123f53ac24749dfea7b0d6d63b50f67ca57"
+    "3ba2f4f12ee853df23798b8e24b2d7ab33398626a8bc973a3f31f21ccdd06727"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

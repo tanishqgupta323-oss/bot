@@ -4109,5 +4109,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "Gold drifts higher above $4,200 on surging ETF inflows, markets await US inflation data this week",
+  "link": "https://www.fxstreet.com/news/gold-drifts-higher-above-4-200-on-surging-etf-inflows-markets-await-us-inflation-data-this-week-202610120213",
+  "published_at": "2026-10-12T02:13:44+00:00",
+  "sent_at": "2026-10-12T02:45:45.947841+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.0189,
+    "BTCUSD": 0.1331
+   }
+  },
+  "checks_base": "published"
  }
 ]
