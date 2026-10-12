@@ -4343,5 +4343,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Fed’s Hammack calls for quick move to restrictive policy",
+  "link": "https://www.investing.com/news/economy-news/feds-hammack-calls-for-quick-move-to-restrictive-policy-4945003",
+  "published_at": null,
+  "sent_at": "2026-10-12T17:31:08.097988+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
