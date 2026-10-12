@@ -513,7 +513,7 @@
   "calendar_fetched_at": "2026-10-12T17:35:32.860861+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 144,
+    "count": 145,
     "day": "2026-10-12"
   },
   "recent_stories": [
@@ -2177,12 +2177,32 @@
         "sees",
         "urges"
       ]
+    },
+    {
+      "at": "2026-10-12T19:15:48.056730+00:00",
+      "w": [
+        "bets",
+        "dollar",
+        "fed",
+        "fuels",
+        "gold",
+        "hike",
+        "oil",
+        "rally",
+        "shock",
+        "tumbles"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "f54798a3f7c16c242952f5fe5e3830af4e50408ae1498d9f53ad603f2dea36ef",
+    "f7113dbc7fd8773d2837a129e5147e1622b97e437f5e6ba96c89c31d54a8f72c",
+    "39b9a22a0f71d762342c8d58002bedbcad9c0c13fbc5564711b014be47523bcb",
+    "7dec23440925ba95fe17118a6e67e6141887a188f29b91a29518f3828507ab22",
+    "d1a1896998ad5da8f826b988979b70ead1b61d261e551fc239c514ef22a4e43e",
     "159121a838e5cac324a7f2213b0f2fd25a93e2cdc98ae6760369f59f316fc67a",
     "29ff44fda71852b7d9674cbdb47d82635f0882552bf3d8658dc1c495f45d8eff",
     "6521ae24b5807eb71b06bb7fabf7beba5c94fd51c0ae8bfe523cdbbb89c32362",
@@ -3177,12 +3197,7 @@
     "9c1b7a657edecaf81cb62b6da82c419841ad3433e8173f5def965129754cadfd",
     "8ed368594e317ece7073268542c4cfc3db7dd96af37192c00310c7e989222d6c",
     "290efdb2c06f62c11aacf426d0978048fc5bd8b078839ea1e55873f6006ec770",
-    "5760e117a6ada3791f2a551d5906c94d4c69de9ea263362b3add2cb1eeea36ce",
-    "016d8d726185d371fd9ec1f1083cbe6153adee9a8ce1c23746677df7a72517f1",
-    "d480422d3ed7c0a1ec1e41ee55983c3eb568a172fc2663579d4708630becc193",
-    "3f48a059aca51ca5b2eab67acb2baf4d0ce20e50ba8de06df0bfa2d1bf6661ca",
-    "94a3bd4385dc844f2380449876b46d9bd572d8e0417c01624c1e54e6a270fc4a",
-    "c9ecfff42e3ad4902c5a6a7b2d68ead5406af05239bc3aabbab4f46c1076a4cb"
+    "5760e117a6ada3791f2a551d5906c94d4c69de9ea263362b3add2cb1eeea36ce"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
