@@ -4062,5 +4062,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CBS News",
+  "title": "Saudi airport attacked again as Iran war intensifies",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVmc2aUdFakt6Nm9FS0FxYlo2dE5wcmZMZTZlUUZZOE9mTWVyc0JBa2h0WUxhc05lLVlkelE0N1B6ZVZTZnRObzlYQ2thYWJLN3dFXzlIWHNmVFN6dFdGNVNSbWxWMGJNeUVpNGlPTTVTbDRNRUZfazRJVUg4NDUwQWxHWGsyV2plSTRNd2d4Y1JjWnM?oc=5",
+  "published_at": "2026-10-11T22:44:00+00:00",
+  "sent_at": "2026-10-12T00:05:44.465902+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": -0.0166,
+    "BTCUSD": -0.0517
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": 0.2446,
+    "BTCUSD": 0.0109
+   }
+  },
+  "checks_base": "published"
  }
 ]

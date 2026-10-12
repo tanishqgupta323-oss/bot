@@ -511,7 +511,7 @@
   "calendar_fetched_at": "2026-10-11T23:20:46.193964+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 168,
+    "count": 169,
     "day": "2026-10-11"
   },
   "recent_stories": [
@@ -1971,12 +1971,26 @@
         "ukraine",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-12T00:05:44.465793+00:00",
+      "w": [
+        "again",
+        "airport",
+        "attacked",
+        "intensifies",
+        "iran",
+        "saudi",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "9f6c3db9599b11c4d1adacc5dfe12143896a3ccb51686e2735b255dce3d79502",
+    "8c27e79da3233a3327b1a4a346fa0eac9f0e3ea6bc8996a99f3f39c2cca33418",
     "7beca85eec37606c13b63263e269a792406b88ad8dd113a041a65d83eafee16c",
     "68e5a83a5a3efc399d88c467ca5dcb45ccc7c4b91b9bfce35a2053cea259a63e",
     "2f27e403899fa3a99b98c2066818a53b7c40e98b14836df1465b3c8ec2ac310b",
@@ -2974,9 +2988,7 @@
     "e44ebf56587f7b45320964af4110eebca1626dd893ad2b6a86db9a9f8663087f",
     "d2fe0477990557ae89d98471b4d8e5be6362d948bae705aa214295358e79f579",
     "84345c2be785abed33da2870c1c8701a5da0871c21e7f1a18686340c6a6b5fdc",
-    "912e15f3c6b13b249271243ea7dcda189631f87c858afcd5fbcc2ff61e0d85b8",
-    "12f761ddfd81f952ddb033943e50a8d0257a16c153d548a3704149547d9c27c6",
-    "a3df73a8a034d5661c980d4aa6caab6f866974fed5fe700bae337819084e88c8"
+    "912e15f3c6b13b249271243ea7dcda189631f87c858afcd5fbcc2ff61e0d85b8"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
