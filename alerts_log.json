@@ -4218,5 +4218,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Business Insider Africa",
+  "title": "U.S. President Trump says world’s most powerful military may join Saudi Arabia’s war against Iran-backed Houthis as Egypt condemns airport drone strike",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemFfU1VVZ2R1WHRjRGZNUUtiRWZNX2tuTG5zSVh5ODZXY01VOUY3cUZsNy0tQU5TU1JKUlJNZE1GLWNENmFZWjlmT29DN1NSaTdzOXVRRXkxamd6dVdoa1dGbG9YZ3Z6YkdYcnFVUVczWlU5NVRzcktNZ1BTMElhM2d2V3A4akdFNWlRMFdPUWptR2Z2Z0dUblNJcjhfX0FQX3FISUtqNXhoTDE0WXAwX2VOeE1DeXRuRHkxTWRiUXZjcklPR01hMm1pN2FONTcwRXdJ?oc=5",
+  "published_at": "2026-10-12T12:00:00+00:00",
+  "sent_at": "2026-10-12T13:01:28.696460+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0559,
+    "XAUUSD": 0.0715,
+    "BTCUSD": -0.0761
+   }
+  },
+  "checks_base": "published"
  }
 ]

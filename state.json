@@ -511,7 +511,7 @@
   "calendar_fetched_at": "2026-10-12T11:25:36.607351+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 64,
+    "count": 65,
     "day": "2026-10-12"
   },
   "recent_stories": [
@@ -2056,12 +2056,47 @@
         "remains",
         "usd"
       ]
+    },
+    {
+      "at": "2026-10-12T13:01:28.696147+00:00",
+      "w": [
+        "against",
+        "airport",
+        "arabia",
+        "backed",
+        "condemns",
+        "drone",
+        "egypt",
+        "houthis",
+        "iran",
+        "join",
+        "military",
+        "most",
+        "powerful",
+        "president",
+        "saudi",
+        "strike",
+        "trump",
+        "war",
+        "world"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "0dbb50459224aab7b0d137a748d8b66c733b97d9feff6536afbc003bb9ee0059",
+    "dd90b242a0d1042911a1c7ef4dff5ab21ccbc0502b234bd5be35ebdb683f49be",
+    "8fd4c58c90c2a03fe1842f0b3899ad5e15f80b6825b1048d638a54f29f59eaec",
+    "1979e6846e676a9127fd65775fb4b7a31e58746b98ad2277c3f7ba5400fd6f54",
+    "f5355aeda73a3fb5abc35954079028675155822ed348b3f950d82826a1dd3e43",
+    "91d07cf4b4c905583be0d1e94acb8a39fdd6fca1297da9ab7bd184ddc83635e5",
+    "1966321fcce279ef9b3084f25123e66451b4cb3a592c16a04ccb42bdcae48421",
+    "d37b97a15f757fbec98b0f61e63c7a2bf45eebc042a5f35cce3c0bd36bbd69ae",
+    "04a71b0b683a25d6fcdfb8f89fb08588a5fafdeadd00121a476aa5e6db2d123e",
+    "7b3c69b1e1797e5a7a5cea997cea388daf58dc6f291992b80c19a0dc7ecf1aac",
+    "6c7d13ae64226bdbcb69b036d2e3e8a630a9e798866c22b8d2e8c6109f807111",
     "e05fc9a802662e981baa5c37cec0d127460a00e41969d2ce6689e25330a6b243",
     "2eae9ab6a9b617ab16de4761ee68f32e9ae817f31ec77ac690843db8aaba8d6c",
     "e5f438973df59f776240028bff6698c499076080d4036b5d5c6ea52d230af142",
@@ -3050,18 +3085,7 @@
     "cb05adff5f716090ab8b7936a4d7b7af571ea61f82536e105d5e37c6bb445660",
     "ed54141792e71ea126cd3d55954b61e05e7c5ad2e9832f6acfa3326a2a3ba520",
     "c1610b9398c085df9bf099744a32366966d7d8b940e27d88018edd204bb0743b",
-    "152068e9790e8f14cd668efe6bb6b2e6470698c2cf5579cb4ea6034537e2a50a",
-    "6976790231970160a1411a2a04ad77d71ae5f54b51bd958577665abdf6ae5936",
-    "4a4801f406a429fbf636d78b55cbb7cd13380f7202b50a031decbb6d99dbf5f9",
-    "56e6a8e3235c3782849c22e081f027dc7e2ad12ddf232b67d13b7dd75f4972f1",
-    "c6a3a050e441404452ba265c2f7151d6d5762d10a53f5d59497daf0914b72f98",
-    "07a8204f874273233dc03e434d55b08a11e65f7db79d29558b7cd78a3427eb0d",
-    "b28d519138c03db4376db4639c62c6133f5c664ca47e8e6ba939487bcf5ea5f1",
-    "ff527a09ba984796d3ee5cd499fa98b164a424d2b17cd5777f219afa00c98099",
-    "22ef9ec17f8c651c9f831f99c3b90a3f0b600843e284f5507d315aa0084a5fb1",
-    "5105d914777dfb0700cb17451243a41f93cc083757e8430bc1a2d5548263a589",
-    "26a0ee7dc3823bbfec049e29c4ee0ea763fc01b44481f7db53be03a9cf3b085d",
-    "c3757728d64377e5101c8c8b658fd27c5e62dbe893b8f84507a3e6b0b7660903"
+    "152068e9790e8f14cd668efe6bb6b2e6470698c2cf5579cb4ea6034537e2a50a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
