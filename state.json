@@ -511,7 +511,7 @@
   "calendar_fetched_at": "2026-10-11T23:20:46.193964+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 192,
+    "count": 193,
     "day": "2026-10-11"
   },
   "recent_stories": [
@@ -1983,12 +1983,32 @@
         "saudi",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-12T02:10:49.690247+00:00",
+      "w": [
+        "conflict",
+        "data",
+        "dollar",
+        "focus",
+        "high",
+        "inflation",
+        "mideast",
+        "month",
+        "near",
+        "stays"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "68e0cb282ef03056013e8e1304a8e71aad8cd6db2a284da90015d0e07080d232",
+    "e060891a6e313fbd8a72b39fd234a66864d40b6340f56f2738dffec4cc20c082",
+    "175302d810605680ef425c9977815b8292a0bcda2a653de51a86d5b95c868715",
+    "fe06cb202f1f676028d1925ecc38e4c885938e861a7a38d06f5dff7ff1b43174",
+    "44520226fd699a2a645c621d5c87c0f574b8ed4306869de1663e06ecba13c5d5",
     "8479a751f9f8810441e5e705579c105332bd6a2cad387481c940278f3fddf3b7",
     "cbe46b7e29d3012010e69f26b97569f95cd6e7c567a27577d57a656284d0050c",
     "5d552b4a203b9a5d7e13771f1f3ce31b5b3058b5f1f66062a87a17717a4560a9",
@@ -2983,12 +3003,7 @@
     "49e74867159d593914ea0e62959813b28b19faba2637b15e4829c266c50f3cb3",
     "a9b5b9e66f2b7e53d8d20af5a9341f6c357a12bf8bc69564c38fce84cd49ee88",
     "19d681f6e2f5317fba4c399afd230c635e3f331472110df44bf631d70392a323",
-    "0b7fc67feaca8525f343cc139bab993176ec08356f4df1806ae5107e617ab94d",
-    "7517e7e076908aee9fb1e429271263858f66f41f6ee0255c9074058a5594a1fd",
-    "19c446cde8549bf95b81e8b68adc774eddea7d6135ae2aa94296622700a7dec6",
-    "44afe227a6865cb77a5ec63f6c5e81adc77045db2a0802929d728607e854d88c",
-    "e87b6df53fd6d285ebbf9ce5b3df68f89fc20dbec4165c29f845d5403db4125e",
-    "5de14b6998c0776741df915c52e138a443fca55748c73a8c0fd4db88e5c3c9a0"
+    "0b7fc67feaca8525f343cc139bab993176ec08356f4df1806ae5107e617ab94d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

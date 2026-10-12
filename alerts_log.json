@@ -4088,5 +4088,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Dollar stays near 18-month high as Mideast conflict, inflation data in focus",
+  "link": "https://www.investing.com/news/economy-news/dollar-stays-near-18month-high-as-mideast-conflict-inflation-data-in-focus-4942999",
+  "published_at": null,
+  "sent_at": "2026-10-12T02:10:49.690408+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
