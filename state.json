@@ -513,7 +513,7 @@
   "calendar_fetched_at": "2026-10-12T20:40:45.537392+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 160,
+    "count": 161,
     "day": "2026-10-12"
   },
   "recent_stories": [
@@ -2221,12 +2221,37 @@
         "speaking",
         "today"
       ]
+    },
+    {
+      "at": "2026-10-12T20:55:35.120276+00:00",
+      "w": [
+        "2026",
+        "americas",
+        "climbs",
+        "eurusd",
+        "finish",
+        "hits",
+        "investinglive",
+        "low",
+        "mixed",
+        "news",
+        "oct",
+        "oil",
+        "rises",
+        "stocks",
+        "usd",
+        "wrap"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "7516164a1b2ac433652ba4ced990b56b107cefb86366292f9cb2c3f22d2e3b24",
+    "504a5d22f2bb5e5bcdcec773675ee19e205b5bd6a4933c240631cdba750b646f",
+    "7beca85eec37606c13b63263e269a792406b88ad8dd113a041a65d83eafee16c",
+    "7488e1e0e09c619d7353b099cda308ecd8d78e363d9367b585ba015a622acb9a",
     "3de0e9e6268be234d6e1acddcf01916753e8fb56c9b8e4bea39c58e0fddb6a57",
     "de1ddf0b0014fb2d20096056be439913716629536ed9453b4b919dc4428bdeae",
     "e15f7e0a5997d972087fdfab6fecf71cc5d4f57208b0449db2b6539fc9c71fef",
@@ -3222,11 +3247,7 @@
     "bcc14fc7e9ca9b2cfd3ffde20511dc4297d457332f19b55fad6f353462cdb2e7",
     "75a13d9cc7fd80024cc31943998024e6bb1a93699c81427139373acc17ca2bde",
     "c82e15092f2ffe6daf93400b59e43bda7736f8f511f5b2f383c02c3ac17e9c92",
-    "c0540578bed3d03791c71d7ee023c9c5c59a59463be4a41de0d7dd2cc0c4d8d1",
-    "eaf58f272089f89df2eae6b6b32f590f7d3353ecabc674318e65acb383593651",
-    "20641bfc2c773256d8f0a30d3a4d874946708d3159a03d04b75f6d0fa8fc9922",
-    "a3df73a8a034d5661c980d4aa6caab6f866974fed5fe700bae337819084e88c8",
-    "a4dea4e49ad342fe66170464c061a20fea7b57375eae20d17ab0c08b4f065253"
+    "c0540578bed3d03791c71d7ee023c9c5c59a59463be4a41de0d7dd2cc0c4d8d1"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
