@@ -4244,5 +4244,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "Australian Dollar retreats as Fed hawkish stance, Iran tensions boost US Dollar",
+  "link": "https://www.fxstreet.com/news/australian-dollar-retreats-as-fed-hawkish-stance-iran-tensions-boost-us-dollar-202610121409",
+  "published_at": "2026-10-12T14:09:56+00:00",
+  "sent_at": "2026-10-12T14:15:46.046846+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

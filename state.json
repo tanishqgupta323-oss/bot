@@ -511,7 +511,7 @@
   "calendar_fetched_at": "2026-10-12T11:25:36.607351+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 79,
+    "count": 80,
     "day": "2026-10-12"
   },
   "recent_stories": [
@@ -2080,12 +2080,32 @@
         "war",
         "world"
       ]
+    },
+    {
+      "at": "2026-10-12T14:15:46.046713+00:00",
+      "w": [
+        "australian",
+        "boost",
+        "dollar",
+        "fed",
+        "hawkish",
+        "iran",
+        "retreats",
+        "stance",
+        "tensions"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "1bba673481131cc06bfcd6e2b1f0373f2ebc4d864c5e0f7259651cd20ac319ca",
+    "8351a2be708448d58ebd5f06df3afeeb006abbf714eb0178c7928e30297960d0",
+    "eba883edc5156ea05febbf3bd4d0629bf1363b8702eef7f5a79aef9a4c2e2262",
+    "bf137efe7467bebceb5eaea3b5f8abeedabdce4acac0d4d2b1b69037f508789e",
+    "6e6d33dba1b00dcfa8231dc5870385f6bd78c47e43d9d055e89d7937cf4bac64",
+    "e05b56f5d3c6885ec3118487d047c4389da95e19f333bea741a7cad83ef29462",
     "9b012c47f54f0206e3af9c39e512d6d1126ab41ebf6bfbb24ed619c81b3ea65d",
     "706bb0e6a603a43294c2bab0836bb8826e11b312f50fd343d823fb7119e2e934",
     "1073c6e4852878d7e9bb1b550e84d80d7154279972d6edaec7ec3a8b6b527670",
@@ -3079,13 +3099,7 @@
     "6b6a7318f340db089b896ba9196b6207337b55d68be47bca2f19f9e545c2c0b2",
     "8742d1a756986cd9eeeb29cc4b4d27823c4dc95b18bb009ff66b9c66cd56c92f",
     "38ea3176cc6f6f406a87d00f11b484b4e154cd1d5c7f803c688d0684751104cc",
-    "d6393e911630e0efe35849b196105178aed497c10c46f8a8426f0e011c3ef2dc",
-    "7d0b83180567a1f9afd486fd29e86822f4101ec30630ea8281d81a226e98268f",
-    "52bf9aa7411d3d2d5ff772a2bc41bb390714308a59c150bd671a975d52a6933e",
-    "133fe14166b64a26b91dae892580f4076aa5fbe6cf55edbd7cf3189df2d0f47f",
-    "804ced3386e96e429ccf591075a61088fb96ab8b1cb10f10608f8180f67de9f5",
-    "332421430b95abed4ed58fb4b6d4746c7a8ebcf4fb4300de09bf62cacc272bd7",
-    "dd5ac0ecb0adda9b13682ecea0ed740876e88df11a175d845918c7ed045bfffb"
+    "d6393e911630e0efe35849b196105178aed497c10c46f8a8426f0e011c3ef2dc"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
