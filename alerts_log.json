@@ -4166,5 +4166,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Market playbook: What if US CPI comes in hot but stocks refuse to fall?",
+  "link": "https://investinglive.com/education/market-playbook-what-if-us-cpi-comes-in-hot-but-stocks-refuse-to-fall/",
+  "published_at": "2026-10-12T06:33:47+00:00",
+  "sent_at": "2026-10-12T06:40:48.257221+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
