@@ -4473,5 +4473,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "FX Today: US Dollar hits 17-month high, RBA minutes and Fed speaking, up next",
+  "link": "https://www.fxstreet.com/news/fx-today-us-dollar-hits-17-month-high-rba-minutes-and-fed-speaking-up-next-202610121934",
+  "published_at": "2026-10-12T19:34:42+00:00",
+  "sent_at": "2026-10-12T20:05:37.683566+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.031,
+    "BTCUSD": 0.0091
+   }
+  },
+  "checks_base": "published"
  }
 ]

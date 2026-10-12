@@ -513,7 +513,7 @@
   "calendar_fetched_at": "2026-10-12T17:35:32.860861+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 154,
+    "count": 155,
     "day": "2026-10-12"
   },
   "recent_stories": [
@@ -2206,12 +2206,32 @@
         "relatively",
         "restrictive"
       ]
+    },
+    {
+      "at": "2026-10-12T20:05:37.683470+00:00",
+      "w": [
+        "dollar",
+        "fed",
+        "high",
+        "hits",
+        "minutes",
+        "month",
+        "next",
+        "rba",
+        "speaking",
+        "today"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "dcd98b87fe68723f57f63d66e6110352de8ae77b305ac323abff6065041d6310",
+    "3837b111a8e472ca7c6f4a59a5b8cc47a9c9442455144e52f7de9d3728744cba",
+    "35ef69f3c288e2929218c854578916c858083976ab72a7077dbbe7fb0f5129f9",
+    "9671186ae4bef077f008ddde847508c42f4862118db19762a5b458343095514e",
+    "646cb6f8e02a8897cc7873ef583b07826d9bc6c121b3f87448fae8932366e4d4",
     "000e56f6a2527e9261df295e7df375d9dc5c329ba568e9014308238768294b6e",
     "fcde8848f9e4f243c1b8e07828b71cf2d4d21a1606922eecd3240a49ee7149b5",
     "a83c921507f5cb051bfa3ed00241a7d6788de943bb1e60c6beb2aad8774017ca",
@@ -3206,12 +3226,7 @@
     "351d2945d93023d491af672c79f024a4b7466ac6da8298b8cd49f3290084d366",
     "a394d23d9df264c915edb99bdc8e21673663b2072041a648d749c9c8fe03aa70",
     "ca46558fbb7f2214768e3b90bad3247a14cdfd97b2cb2171d56ff4444b0e3c08",
-    "f4fcec01b2e337b4d8da1dbd17b77934224f12a2d63532c89128a0c0277a82fe",
-    "75aeb416b995de849bc60f6d174c85b770e9b9b2fece5b7c8058ba9d8999172c",
-    "e51cff8af117cd476f65255d2ba9e0d8dff357569b8497bfb004d8160994937d",
-    "313462df19301f466be80ab1817acb0f7e85d3704a2d0059f2b65bcb54e9ed56",
-    "69f3da93571c6b15701fd2b992bf01516aba347182b5bda92f922a641376b355",
-    "3ad6e8a43bc677b459ca0325d32872095fe729b6161d2eb110ccc93534889044"
+    "f4fcec01b2e337b4d8da1dbd17b77934224f12a2d63532c89128a0c0277a82fe"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
