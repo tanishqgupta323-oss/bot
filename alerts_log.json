@@ -4364,5 +4364,31 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "TradeWinds News",
+  "title": "Iran claims strike on Adnoc L&S VLCC in the Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVQ5Rzk3ZEtmMnhjZm12bG5FbUJKem5xQl9zLTVBSUpfSXFUcEE0dm1yWlhZSXlyZE9XMmlKbU5CNEhqb1ZON2dnc2EzaURPZ0RtT3lkOHpYNXlLamNtTGNSQmMyM0tvYkF2OWJ6M2JHQUM4V2VqOWt0UDZ2OFdzcUlwYjNsMDc5RmtDS01rRC1fcVVYV042U09idFlySDEtVkIzX3lVbDhoa1RLdkJaTg?oc=5",
+  "published_at": "2026-10-12T15:57:36+00:00",
+  "sent_at": "2026-10-12T17:55:36.659205+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0335,
+    "XAUUSD": -0.074,
+    "BTCUSD": 0.2324
+   },
+   "60": {
+    "EURUSD": 0.0223,
+    "XAUUSD": -0.0644,
+    "BTCUSD": -0.2451
+   }
+  },
+  "checks_base": "published"
  }
 ]

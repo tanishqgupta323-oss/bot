@@ -513,7 +513,7 @@
   "calendar_fetched_at": "2026-10-12T17:35:32.860861+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 129,
+    "count": 130,
     "day": "2026-10-12"
   },
   "recent_stories": [
@@ -2151,12 +2151,27 @@
         "quick",
         "restrictive"
       ]
+    },
+    {
+      "at": "2026-10-12T17:55:36.659041+00:00",
+      "w": [
+        "adnoc",
+        "claims",
+        "hormuz",
+        "iran",
+        "strait",
+        "strike",
+        "vlcc"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "16e03eec891c7648b3d062c54c7d6dd48efb23f2c9993f9de30774f55f1098cf",
+    "500ce703be891ed8c8c857bacf54a1aaf663f1fce8a4b9b5fac0dbb41bdda6e1",
+    "f3fa9fd8674f0ef307e7c83ace3567d608b8a5ceb62bdd66603901ac29b2f164",
     "4cd4ebfdc639255a8cc873190b4cf44573560ba0040df43c0b255cecc43c9b12",
     "ed5b501d40b06d6371589b88b646da89c3d854470810372ec21a83cbf69dfd91",
     "e54b2ff993075c732bb1563f49db03c5a1c5f3534a956537a9d9dd55ebc6b8ce",
@@ -3153,10 +3168,7 @@
     "0f0a8a81fb81266afb0d3a1e1290ead60c28e8f3a5e99db43ac1d1ba15ad3043",
     "b548a6fc34a3816c10b47061353500f4792e17831f1d8fee7292def36dfe1675",
     "f04b308365e11d732c41522b759dfa6d8bc951df8a7e198a2023d01281d172c0",
-    "7d9166f863d240b1566558d5975b66ed6e2cef68c0e7b50ec742e36a12267430",
-    "1496530ffe59dc2442d2d73b38fad5b63a69da226d79fbcb35ec0e86e5b4d8d0",
-    "ca2964da5ebbe9eda7eaa6f8c7b1b0a0b2a5f2411dd21564cf31dcd4f84ccb39",
-    "f3de79727dfc56c0531ac2ffd053ad985d1813f8e40c692afe3cf53003a0f444"
+    "7d9166f863d240b1566558d5975b66ed6e2cef68c0e7b50ec742e36a12267430"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
