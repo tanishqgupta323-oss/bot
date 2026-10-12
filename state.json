@@ -508,10 +508,10 @@
       "title": "German Buba President Nagel Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-11T23:20:46.193964+00:00",
+  "calendar_fetched_at": "2026-10-12T02:20:49.456883+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 194,
+    "count": 195,
     "day": "2026-10-11"
   },
   "recent_stories": [
@@ -2004,6 +2004,8 @@
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "b7c4865732ebb98727b54aee93fd0e3b87665d1fc68545f20cb6a3ec48cc4d39",
+    "0b7fc67feaca8525f343cc139bab993176ec08356f4df1806ae5107e617ab94d",
     "96471d986457447d2017553ba4f4170ce316a32474aeab8c61b4f55b6788c7ed",
     "f374b8827babbd9b162eb362f16ec0e248881894f29d1f12738b3524fa025f93",
     "ba4dbc9158d261051559d0eb22655a6d4e38435cf0ba73bbd94f777c282b71e1",
@@ -3001,9 +3003,7 @@
     "d311b1029569a51df6406cbef75a043eee5f7b1e6133bcc7bca5f469cda48d14",
     "effd80d6cbe022a803524af03c5ca4b3e154514f7c0d35044d9e3e60c487fabf",
     "669ddf09124bc0a262e65aad2a8e0ec4326b9bd3aab129f3da043fd619ff88de",
-    "2c8188e48f01fe5b2988a98782dced85d75e55752b0bc1a391047dc8653708c2",
-    "d7f7d189b6b137185ac48de05d140cc9a58b6770152165f2ae98bfe03f4d61b0",
-    "c930508aece68f014b36a699ee456289b50e88ee77ce893677acabcb6ed2f563"
+    "2c8188e48f01fe5b2988a98782dced85d75e55752b0bc1a391047dc8653708c2"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
