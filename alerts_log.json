@@ -4192,5 +4192,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "Euro consolidates around 1.1200, remains close to 17-month low vs bullish USD",
+  "link": "https://www.fxstreet.com/news/euro-consolidates-around-11200-remains-close-to-17-month-low-vs-bullish-usd-202610120821",
+  "published_at": "2026-10-12T08:21:08+00:00",
+  "sent_at": "2026-10-12T08:45:47.757278+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": 0.0452,
+    "BTCUSD": 0.1721
+   }
+  },
+  "checks_base": "published"
  }
 ]

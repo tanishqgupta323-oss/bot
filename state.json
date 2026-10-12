@@ -511,7 +511,7 @@
   "calendar_fetched_at": "2026-10-12T08:25:33.622506+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 18,
+    "count": 19,
     "day": "2026-10-12"
   },
   "recent_stories": [
@@ -2041,12 +2041,33 @@
         "refuse",
         "stocks"
       ]
+    },
+    {
+      "at": "2026-10-12T08:45:47.757062+00:00",
+      "w": [
+        "1200",
+        "around",
+        "bullish",
+        "close",
+        "consolidates",
+        "euro",
+        "low",
+        "month",
+        "remains",
+        "usd"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "ce781c6af0909044207e595bf2b147d5093174c898ab9579a788c93fa9dc683b",
+    "4faf62367a772b5063b15e55b32aed4c8b4967d9dd85886968ecee0a26963876",
+    "f953ecbabcda17867e2d01b8ca920cb0d9078546b973348ef741a4f7fafd9009",
+    "0d1085f163e9a639a90e36bedf61aad2f10507fb970bb8218dcdd9e7b9e5846d",
+    "2fead1ce42f09653e89fe264fceb32684f29d6e2c201dd80bb672c3c0040ab2a",
+    "3586ff862b8641d6a270f1882b38e4074cd6dd6d26c7262522381c304ffe883c",
     "5d67747bddf0eb0d6b00944f18eb00f1bded8e834a4d2b2eba00f9b1581b6bcd",
     "20e64a2cdc9fd873e3eeee3351ed86b2ec776f28b330457e4f85640bda7072c2",
     "b7c7bee195667d0d713380ab139d2dced5d1c7785a0d9245f201deacebb008a7",
@@ -3040,13 +3061,7 @@
     "c4bf2c9c5d803a176536a99c9811664314d83ba0a4f6da215fbe0bfee6ad3ca2",
     "aa45a3fd59efb5559867b2cf8d6c505512c1d57ac4205c57ba34d8e704b65890",
     "1332271a50ae5d093724f53f2e4a2c9e5076e6d04a0fe1c036331032cc84e9cb",
-    "5a851dc24dfb27948090df0898b42b5014ddf81815af80479bdba79906907d63",
-    "98384150b0265235c57ddaf36e4e92a60cb86535f1eb01da989e1d6d883e59cc",
-    "ba2e470fdb3690620c0761ff90b4aedb1bc5f1b104d92e0dc613203eb675a3c0",
-    "c70169e413be549d88fbcda8de7299ce78ce49509bdae572d0d31e324eb904ad",
-    "abb6661d1309f2e9c816a737cb67172b9678b160bea2a4a34d4bb3905f55da07",
-    "93a7a7a5af5eb9761adfbdc942aa7d5138db1e595793401b49167650186cf1ea",
-    "6a3c9f811297f4933385d695df121a74682a2b645870e0f75ab41ded6396860f"
+    "5a851dc24dfb27948090df0898b42b5014ddf81815af80479bdba79906907d63"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
