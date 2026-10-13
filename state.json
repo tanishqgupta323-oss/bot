@@ -2,7 +2,7 @@
   "actual_attempts": {
     "162a0e9c1a002ca8bff6b72d": 8,
     "29ce61889b8928b1b1dd55ed": 8,
-    "304183b2b3207b2798be8cb9": 6,
+    "304183b2b3207b2798be8cb9": 7,
     "661b8542c343d8e7cca4eba1": 8,
     "835833e3e832ad4ca1fe704c": 8,
     "d11bb0a1f3256756fb11928f": 8,
@@ -542,7 +542,7 @@
   "calendar_fetched_at": "2026-10-13T17:55:35.440093+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 199,
+    "count": 201,
     "day": "2026-10-13"
   },
   "recent_stories": [
@@ -2473,12 +2473,26 @@
         "sees",
         "september"
       ]
+    },
+    {
+      "at": "2026-10-13T20:35:39.630852+00:00",
+      "w": [
+        "appropriate",
+        "fed",
+        "increase",
+        "interest",
+        "rate",
+        "williams"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "e16af023988890d3434b660e152dde497598ebb36d2bf3bcdef4b9814a91ef44",
+    "f473798c349dc4ddf3b427c96bd794e3a30f194d523d80f3117cbd13a388f78e",
+    "cd2fc91ab7247d7363a8244f6393952049acfc261b325bc18efef3425983215b",
     "249651968488a375113d8249f3e6a0b1144d22510e48649c816458a8beea8565",
     "f44e1305aafb1c37dbc2ddbf9efb580b58a1f7a001312870855411a4c836b7c0",
     "a9e9b40c9e79890a4195cbf8ebd2f3f8e374c344c8ea20e81fe42d7f80d3c888",
@@ -3475,10 +3489,7 @@
     "1937330d0ac740c9f105fdec7f82fe48ba4d656746b423e03e92aa3c9a40f005",
     "f27519fc77864fbe4edc032037889a0d9753be8c0422cd8a23073c76540ac6ac",
     "65555da197344f336d8e7bfaf3bb156f7e22e9e6343dab423822a44a66083349",
-    "00edaaf2147f3c3fbf6cd14b91b787a2f9d299d26c88bcf3a8ec882863ce0341",
-    "1c65921e5ef77874db7df217ff46d500b7d768a09421dad896311affd2015de3",
-    "5788b405477c5f16f62eec43b6d400ac8e3ec4a847c9fe07f9c0d29c099c8904",
-    "57f875a603d4e722366eb7406bef2d39dceec42ac02d4417da95aeda773513ba"
+    "00edaaf2147f3c3fbf6cd14b91b787a2f9d299d26c88bcf3a8ec882863ce0341"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
