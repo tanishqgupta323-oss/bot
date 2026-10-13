@@ -4608,5 +4608,40 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "BofA sees gold struggling to hold $4,000 as Iran war oil shock keeps Fed hawkish",
+  "link": "https://investinglive.com/commodities/bofa-sees-gold-struggling-to-hold-4-000-as-iran-war-oil-shock-keeps-fed-hawkish/",
+  "published_at": "2026-10-13T00:14:36+00:00",
+  "sent_at": "2026-10-13T00:20:48.521558+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "Gold tumbles below $4,200 on higher oil prices, firmer US Dollar",
+  "link": "https://www.fxstreet.com/news/gold-tumbles-below-4-200-on-higher-oil-prices-firmer-us-dollar-202610122318",
+  "published_at": "2026-10-12T23:18:51+00:00",
+  "sent_at": "2026-10-13T00:20:49.137564+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": 0.0787,
+    "BTCUSD": -0.2632
+   }
+  },
+  "checks_base": "published"
  }
 ]

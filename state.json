@@ -513,7 +513,7 @@
   "calendar_fetched_at": "2026-10-12T23:40:50.264976+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 197,
+    "count": 198,
     "day": "2026-10-12"
   },
   "recent_stories": [
@@ -2284,12 +2284,53 @@
         "lifts",
         "rhetoric"
       ]
+    },
+    {
+      "at": "2026-10-13T00:20:48.521444+00:00",
+      "w": [
+        "000",
+        "bofa",
+        "fed",
+        "gold",
+        "hawkish",
+        "hold",
+        "iran",
+        "keeps",
+        "oil",
+        "sees",
+        "shock",
+        "struggling",
+        "war"
+      ]
+    },
+    {
+      "at": "2026-10-13T00:20:48.521444+00:00",
+      "w": [
+        "200",
+        "below",
+        "dollar",
+        "firmer",
+        "gold",
+        "higher",
+        "oil",
+        "prices",
+        "tumbles"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "a362381cfff29a1ae37e4f3d2f5ed9aef75f2c906bf7a84740bfc1039179a15e",
+    "28ae6c11bc2e92674eb6196ceaf64822e968a3b7f9ada53c57da0bd00058e05a",
+    "263c221e3c32250d4b878fb126f276bf8f09d1f266df5df5c9dd047bb545eee2",
+    "871a7f61953a20884ff652fbf868ee3abb281905c0f021e279ab3925a8344599",
+    "51289457bdfe395cdfd77e3327bf598f90ee19559712601f7b0d01a147537eaa",
+    "8edf9f685eb4e725eefe6327b43e16158d671588f6598b072b3e5576ff6221be",
+    "cf217c1bf0dd7e9ce14d088a826297e31947af6028833764af4499729694ca6d",
+    "506f7db219da71cb8bbf62128d189fffb2ce9f9cc464cde5cd44d81b009a3e6e",
+    "6395aa45848a8e5560cbf58eb54e4c15053cebb4bd7b35d6b7e8e8038eb0bfa1",
     "933744dba54788e79b5ef8414522020f9f1b6f475c2750a2e39cee9a073d8098",
     "bd44cc4283c96672f15ba411156244101be4fa1dcd287900d2f9f99eb807c307",
     "4d9693beebd4cf00b1f538e9f6cc63e40903c879c72a4f5d983d3c232f03b9fa",
@@ -3280,16 +3321,7 @@
     "bcedba348cc8b3928bd203b750c5afbe1316cba257253907cb0dbc7e03c30df4",
     "f8d92507fe3fba889b5ce5937b5c056b654c767d1913d231e98833120d89c2ad",
     "9e4c5ef6bca5af91654a70e3c8a253876ea7753365cc1217c1c0cbbcec4c6b29",
-    "bf814a892c0b5f25fe5e562a24ea9b46cd4332b38e65b4fdf152a14e0cb74164",
-    "d6bb48d674ae7462d6053cdaf378d974fbd05e81158ab1d1e15668cb8a3de147",
-    "3025eaddcca6f328a65a1974970fbead2b199c10d841971898e90e30c94cb309",
-    "ac608153710daa9b103f43c6946e3aee06c52214fd6bb8f7a917ab25eef290e8",
-    "b9e4b45b2db1b49e4cc90d89cfb3db4b6f94e851e548fa1d671384f22e1c62ca",
-    "bee1eec9de7c4454322d7420bdb95ed27ce6d219878a35b5b2ce5f64b111f1ef",
-    "3c59a19b35e1f52b7a5cd3cd2054b5a2a3e5cfe064f3a42b1f40ec7a99bee124",
-    "dd161eefa09aa6009ab7f49dab4d416625b2bdb1a8a8d5b9f4516315890c8c90",
-    "79fb742fbbfa5683c3b712ae3120e73cfcb02675ac84aa6e94654e6d52ccf617",
-    "92676bac6923a22d84d340f428c4a99755fbc63af50dca79e2a9db9c1a94d7c5"
+    "bf814a892c0b5f25fe5e562a24ea9b46cd4332b38e65b4fdf152a14e0cb74164"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
