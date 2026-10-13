@@ -2,7 +2,7 @@
   "actual_attempts": {
     "162a0e9c1a002ca8bff6b72d": 8,
     "29ce61889b8928b1b1dd55ed": 8,
-    "304183b2b3207b2798be8cb9": 3,
+    "304183b2b3207b2798be8cb9": 4,
     "661b8542c343d8e7cca4eba1": 8,
     "835833e3e832ad4ca1fe704c": 8,
     "d11bb0a1f3256756fb11928f": 8,
@@ -542,7 +542,7 @@
   "calendar_fetched_at": "2026-10-13T17:55:35.440093+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 193,
+    "count": 195,
     "day": "2026-10-13"
   },
   "recent_stories": [
@@ -2459,12 +2459,31 @@
         "three",
         "year"
       ]
+    },
+    {
+      "at": "2026-10-13T20:20:50.108076+00:00",
+      "w": [
+        "backs",
+        "collins",
+        "driving",
+        "fed",
+        "hike",
+        "inflation",
+        "oil",
+        "sees",
+        "september"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "cfc91e65b865bc1ad683f20485c4432bfae49b59fd12679c34c94ac4f08874b8",
+    "ff6e59837386089bc2e1b9125cd5b604a3f8a59125f6e5145ff24051cf58c4ee",
+    "003f88065a4fed436717941004852939a13326e2b67d00fe82766e00124cbc36",
+    "219c8ab26caa7a7f8d7e984c0917aa5006e5ef1399fd195cc7f5ea9d4cf32005",
+    "871484361667ccd6345faa8407b371c6fdb0397f09aadecf7c8ba3fb8b3d1f42",
     "229f5e4092145d991822f3c114d237a302a23716904b9cdbf8a56db8bd481f03",
     "d9c36a483585f497c0c0030a73e70b47a2944fc9cf7911a947672601391ed8dd",
     "b081b5d895ba604dcff0c476091b2fccd4f4ae0467c132bf11441bcfaaf6c68f",
@@ -3459,12 +3478,7 @@
     "7c94832b943d584f8cc7f9d0ea5d5d8bd175db2c9c7e6f8cfe41fd31076307ff",
     "b7463000b06e34400ff591a8642c02dacff75ec9c3b20296fb20dce7a8a594d8",
     "3107c7db0d0170bd332768b054866ee365d0550c241dd5162474f4b33858bc59",
-    "a57a3ff98f5165d0042a9a837807548116515cc1b619769f295389bab07b5865",
-    "9f3ec7796abb912ab3dba461660a67906563b9fe3e9fcc515831d7f49cfe7a30",
-    "35fd49502457747d946b0c481b14f48617d6099bb0a4d8ad84abc9f7f159d6ff",
-    "3f567b7629de4bd0fe68e8bb05480c6900f6351f934cee2a6d7583174abf84d9",
-    "af855707a0b5b73b9f9e830f3e33c791049e8d8aacc7525ea595cac0a16cbf08",
-    "f3de79727dfc56c0531ac2ffd053ad985d1813f8e40c692afe3cf53003a0f444"
+    "a57a3ff98f5165d0042a9a837807548116515cc1b619769f295389bab07b5865"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
