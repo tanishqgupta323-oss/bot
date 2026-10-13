@@ -2,7 +2,7 @@
   "actual_attempts": {
     "29ce61889b8928b1b1dd55ed": 8,
     "661b8542c343d8e7cca4eba1": 8,
-    "835833e3e832ad4ca1fe704c": 4,
+    "835833e3e832ad4ca1fe704c": 5,
     "d11bb0a1f3256756fb11928f": 8
   },
   "calendar": [
@@ -516,7 +516,7 @@
   "calendar_fetched_at": "2026-10-13T08:45:44.722739+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 43,
+    "count": 45,
     "day": "2026-10-13"
   },
   "recent_stories": [
@@ -2362,12 +2362,27 @@
         "today",
         "yields"
       ]
+    },
+    {
+      "at": "2026-10-13T10:25:47.999618+00:00",
+      "w": [
+        "000",
+        "below",
+        "bitcoin",
+        "dollar",
+        "edge",
+        "falls",
+        "keeps",
+        "markets",
+        "strength"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "84c386b5d40eaace6d227e923527434642bd5e9af6ffa458decb88a24af103e5",
     "4aee037bf67363dfa4507789bdfe204c22a3cc8624e09a268215b3366731d59e",
     "5b702da1f34208c0ff466e2d63175d5c57f742de1cb0a5cac5cc81189af90c3e",
     "1b1546910a13f299215154743d77bd13691785043542d2652a2079e6f7ed7348",
@@ -3366,8 +3381,7 @@
     "b5e222867394c94a1ef2c05c961622b3bb246e527c1052354a885cc0357ab6c4",
     "eebfae0bd1600425ae1250e2f0a488fb467cadb2aa90bec832e0fd6895fe4b7e",
     "f9462e5e49bd0d3c7291b895ac217167d9df92fa2e93e38e7683e918858cf28b",
-    "4a46232a466815e728bba1a14bad2d8178b02b7fdc0aa79322c7e5af8f3a93df",
-    "237fb174c36825639014704381c6686fb0777eef31758ed07dfd5e502045ef04"
+    "4a46232a466815e728bba1a14bad2d8178b02b7fdc0aa79322c7e5af8f3a93df"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
