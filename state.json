@@ -2,7 +2,7 @@
   "actual_attempts": {
     "162a0e9c1a002ca8bff6b72d": 8,
     "29ce61889b8928b1b1dd55ed": 8,
-    "304183b2b3207b2798be8cb9": 2,
+    "304183b2b3207b2798be8cb9": 3,
     "661b8542c343d8e7cca4eba1": 8,
     "835833e3e832ad4ca1fe704c": 8,
     "d11bb0a1f3256756fb11928f": 8,
@@ -542,7 +542,7 @@
   "calendar_fetched_at": "2026-10-13T17:55:35.440093+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 191,
+    "count": 193,
     "day": "2026-10-13"
   },
   "recent_stories": [
@@ -2465,6 +2465,8 @@
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "229f5e4092145d991822f3c114d237a302a23716904b9cdbf8a56db8bd481f03",
+    "d9c36a483585f497c0c0030a73e70b47a2944fc9cf7911a947672601391ed8dd",
     "b081b5d895ba604dcff0c476091b2fccd4f4ae0467c132bf11441bcfaaf6c68f",
     "19e8244a5541c0dc2e854162934e9b884e0f58ad17aab5cec2da4e1057dd019c",
     "7d04ab2c51dfdcad94ac2fdce20d082adf1469a77077c1ddeaea8f129f920a7d",
@@ -3462,9 +3464,7 @@
     "35fd49502457747d946b0c481b14f48617d6099bb0a4d8ad84abc9f7f159d6ff",
     "3f567b7629de4bd0fe68e8bb05480c6900f6351f934cee2a6d7583174abf84d9",
     "af855707a0b5b73b9f9e830f3e33c791049e8d8aacc7525ea595cac0a16cbf08",
-    "f3de79727dfc56c0531ac2ffd053ad985d1813f8e40c692afe3cf53003a0f444",
-    "16e03eec891c7648b3d062c54c7d6dd48efb23f2c9993f9de30774f55f1098cf",
-    "500ce703be891ed8c8c857bacf54a1aaf663f1fce8a4b9b5fac0dbb41bdda6e1"
+    "f3de79727dfc56c0531ac2ffd053ad985d1813f8e40c692afe3cf53003a0f444"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
