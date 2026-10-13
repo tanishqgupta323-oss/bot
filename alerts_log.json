@@ -4790,5 +4790,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "Dollar Index slips from its 18-month high before US CPI",
+  "link": "https://www.fxstreet.com/news/dollar-index-slips-from-its-18-month-high-before-us-cpi-202610131604",
+  "published_at": "2026-10-13T16:04:22+00:00",
+  "sent_at": "2026-10-13T16:40:57.881940+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0335,
+    "BTCUSD": 0.0285
+   }
+  },
+  "checks_base": "published"
  }
 ]
