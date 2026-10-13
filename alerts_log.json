@@ -4860,6 +4860,11 @@
     "EURUSD": 0.0,
     "XAUUSD": -0.0239,
     "BTCUSD": -0.0968
+   },
+   "60": {
+    "EURUSD": 0.0112,
+    "XAUUSD": -0.0478,
+    "BTCUSD": 0.1394
    }
   },
   "checks_base": "published"
@@ -4902,6 +4907,11 @@
     "EURUSD": 0.0,
     "XAUUSD": -0.1362,
     "BTCUSD": -0.1129
+   },
+   "60": {
+    "EURUSD": 0.0112,
+    "XAUUSD": -0.0573,
+    "BTCUSD": 0.1542
    }
   },
   "checks_base": "published"
@@ -4926,5 +4936,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Aramco HQ hit in Houthi attack as fire extinguished in Dhahran - Bloomberg",
+  "link": "https://www.investing.com/news/stock-market-news/aramco-hq-hit-in-houthi-attack-as-fire-extinguished-in-dhahran--bloomberg-4947574",
+  "published_at": null,
+  "sent_at": "2026-10-13T21:10:48.641767+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

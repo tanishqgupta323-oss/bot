@@ -542,7 +542,7 @@
   "calendar_fetched_at": "2026-10-13T20:55:36.780735+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 208,
+    "count": 209,
     "day": "2026-10-13"
   },
   "recent_stories": [
@@ -2499,12 +2499,33 @@
         "risks",
         "signals"
       ]
+    },
+    {
+      "at": "2026-10-13T21:10:48.641630+00:00",
+      "w": [
+        "aramco",
+        "attack",
+        "bloomberg",
+        "dhahran",
+        "extinguished",
+        "fire",
+        "hit",
+        "houthi"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "d6bb0bfe676f3e474841be1d7532d8ccc724928c6c20dfcca7a4e9d3139645cc",
+    "fd3600f5cb79fc0541222019d46efb4263855910063b033149b7973ca22e72a5",
+    "1cf01263b0ee796c3e16edde0a2145f81c4072387aa6bf61c93953eda1074e86",
+    "a9f2247049e0a01a6dae611a6b9d588243004bffcdcf9c37f1cf979b52decfc7",
+    "e09ffe005ae6fa2e5e50c8cda8f5bbb2e3d2bf107c3438b8e35e9026f177da5a",
+    "39f01462190e9734cba81792a3e9905427f135e2fc7f701d9079790f51f2a586",
+    "621b8bffb15faa14198bfe05f9b833f3b401a1ad1c1876e66bfc94310b607913",
+    "30567f4ac5d7d1479d8307460928494f89385dce680687fe1ca5b156e1c26265",
     "1c8333522640d150dc8644976cf8461fd58117f0770c3406abcdb06730179efd",
     "f00be745f849aa9164e7050e7eed0281f2ddafa7408454aae4e4067ce0c03e01",
     "e194e133a3e2bb4cf72b2070501dd240d2a197cc6b672cf2b2b2121431b73cfb",
@@ -3496,15 +3517,7 @@
     "6521ae24b5807eb71b06bb7fabf7beba5c94fd51c0ae8bfe523cdbbb89c32362",
     "5c56c0cb332b7ca98915327bb83d0caef80d870bc10a2e334307449ca7bdcf15",
     "1dc71a05f9b3c9a0ffac1ebd4bf30fc53fe89bfde659b531e35cfc02dbe0de79",
-    "0c08dc793cb2ef05343da57234596ed11a87819aec8299036bb5d773daf1b6f0",
-    "2ddd577841091d916a14a75343539f27a03a2d82b981c77c17f448ec16bf6458",
-    "adf3cc6f80c16c04d717de38660ef4484cdaed0ae0d3e77e703a5714425fe31c",
-    "048a23dcc37784b88025066e26798a7699b63797b42a5207e27b6f816810165d",
-    "9f56708cb0e0f6cf1571b8bb515f8b85d97d955a467463f32991586925869704",
-    "78651ece9ff4160a915b9e5cdebc8090e9797cd93c7671711fc2d6b07131035a",
-    "2753caf55904dadc0791e0720b9d5921f47aab593e8a0ff2d18da3ec893e5c5a",
-    "9ba7a9ca7236941c6054899add5daa4cd4df946e45fb2505b6bf556e1525611a",
-    "84c3a9a629e1d954806518b3fbca42b71c5622c21544771366b03e2651c1222d"
+    "0c08dc793cb2ef05343da57234596ed11a87819aec8299036bb5d773daf1b6f0"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
