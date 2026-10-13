@@ -539,7 +539,7 @@
   "calendar_fetched_at": "2026-10-13T11:45:49.489161+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 86,
+    "count": 87,
     "day": "2026-10-13"
   },
   "recent_stories": [
@@ -2399,12 +2399,29 @@
         "markets",
         "strength"
       ]
+    },
+    {
+      "at": "2026-10-13T13:01:44.631684+00:00",
+      "w": [
+        "75k",
+        "adp",
+        "average",
+        "change",
+        "drops",
+        "employment",
+        "week"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "850134c90225489c1bc6f38525f661937509c3f96dfac2b87c96bc42ce1daa96",
+    "cbbfb9528cafaaca7d945fe3fc1114ee50792c091bab21b6dc60bd4771dd422b",
+    "59b1e87f48c6ef74b30b0ca4b17bf9d61988b9937fb922dd7ac192df850b7f1b",
+    "79c7b4d2bbb818cfd6fbc11027c67b39524ba224ce125b76a36156f2da39e01e",
+    "d9863251367280eb269fd80614adc39f000851236c0c471b1b6435e0bb8920a0",
     "dd910f74073e32907f8467caffadbcf0eaeef3684ae86d3a5b83230625a0c333",
     "93f6ce3bd609ae7bae825a824b81a9b8bad2e5210fb133e2b26c09f4c6527d58",
     "1c28fcfd051fd3782b48fb37f159ef2b99709eb332bb63c566c91364f9690137",
@@ -3399,12 +3416,7 @@
     "54d592a6d52974850a7955bce89a30d9f0528316de3b836f1747f82995b468e4",
     "2cc405cc82f3a4dad7f9b06527d1ade23daab61c0ea049c0f780cbc70189ba9b",
     "67e63581f1c575ad3a4e9ded3f5244bbe384705a7f6401b4545678063ba4bb6d",
-    "a58b27d762abff0b619a8abd6bb7804ba90e7cf6d6cdbca2f41740d100e0f0e9",
-    "151cc610771c1e1d30773ff1da83f972bcbbc6238df6f245622db262ef562547",
-    "db7cdd64df50873f1616ff448d743de1a26803be8e573247fe41011ebfbeb42e",
-    "db72cf716ffac1059a63156a406e82e83e9a13a82847a181091038f2b0d98ec8",
-    "a055564d2e4dabcdaf317072e77ba10c550c3995e5bc8fe0011f063dc8f2d669",
-    "ad78846be86bbe22de634888458fe8980db96b4e89f54dfee649b92c38cec869"
+    "a58b27d762abff0b619a8abd6bb7804ba90e7cf6d6cdbca2f41740d100e0f0e9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

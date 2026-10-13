@@ -4764,5 +4764,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "US ADP Employment Change 4-week average drops to 24.75K",
+  "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-drops-to-2475k-202610131237",
+  "published_at": "2026-10-13T12:37:35+00:00",
+  "sent_at": "2026-10-13T13:01:44.631805+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0336,
+    "XAUUSD": -0.0784,
+    "BTCUSD": -0.1111
+   }
+  },
+  "checks_base": "published"
  }
 ]
