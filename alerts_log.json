@@ -4660,5 +4660,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Dollar holds near 18-month high as geopolitical risks rise",
+  "link": "https://www.investing.com/news/economy-news/dollar-holds-near-18month-high-as-geopolitical-risks-rise-4945309",
+  "published_at": null,
+  "sent_at": "2026-10-13T01:59:47.852314+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

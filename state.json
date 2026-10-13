@@ -513,7 +513,7 @@
   "calendar_fetched_at": "2026-10-12T23:40:50.264976+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 212,
+    "count": 213,
     "day": "2026-10-12"
   },
   "recent_stories": [
@@ -2316,12 +2316,28 @@
         "prices",
         "tumbles"
       ]
+    },
+    {
+      "at": "2026-10-13T01:59:47.852142+00:00",
+      "w": [
+        "dollar",
+        "geopolitical",
+        "high",
+        "holds",
+        "month",
+        "near",
+        "rise",
+        "risks"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "0e4d072e189b3545eec2b71e0e66bd901443007563e48b4aa00519d7726da93e",
+    "3de7af376b76464b02caf4f7d6565557959cd5fa432fbc0796535f4f0ca4f09f",
+    "7266b1f20b06281e74694d22800efd2ccc3d9d80562a9b8e35a6f33b86d21cc7",
     "b6ebe7b95041204af26b185a695004706b2ca1cf06f0d2d6532f62438a7abd8a",
     "020e8d9b869a5face6bfd34620d2b7acd230ecdecf6edf13c55306a1ca73ebb4",
     "211521e7afb6b77b715d3f8610d66c4e5e9ef2fbe3a4a25f6ed4f79e32222d4c",
@@ -3318,10 +3334,7 @@
     "cc1cce1d62ecf39caf9fc0e3017df14e86c05041fa6082cd2dca90257051f887",
     "9db9a5f82829d5823a9b749a5306004169b694810530b7840567e14e9602cf9f",
     "f24c21efa86b7e3aabc9145b7b90469479cbefdfac2a5bff18a5740496bc8cd0",
-    "e7d1516f961d65c53101c7862ceb089c03c516d47db4781873adfc42b9fec184",
-    "0f9f14a8622af8c30e810ddb299926a8c67c1c3181b08fc65e8846f50014cf85",
-    "b5bf8c8f80ebd268598b66271af236883634f8571b2d8f052c211ae804ed6054",
-    "d79ccaa7b9cb798b7a0008c9a054095da4e206a3731d970ff269e32c446e4064"
+    "e7d1516f961d65c53101c7862ceb089c03c516d47db4781873adfc42b9fec184"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
