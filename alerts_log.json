@@ -4834,8 +4834,27 @@
     "EURUSD": -0.0112,
     "XAUUSD": -0.0096,
     "BTCUSD": -0.0723
+   },
+   "60": {
+    "EURUSD": -0.0112,
+    "XAUUSD": 0.0072,
+    "BTCUSD": 0.0062
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Fed’s Collins backs another rate hike by year-end, flags three inflation pressures",
+  "link": "https://investinglive.com/central-banks/fed-s-collins-backs-another-rate-hike-by-year-end-flags-three-inflation-pressures/",
+  "published_at": "2026-10-13T20:08:15+00:00",
+  "sent_at": "2026-10-13T20:10:50.778441+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
