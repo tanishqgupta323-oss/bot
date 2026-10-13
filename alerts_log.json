@@ -4712,5 +4712,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "fxstreet.com",
+  "publisher": "fxstreet.com",
+  "title": "Forex Today: US Dollar retreats from 18-month high as bond yields, oil prices ease",
+  "link": "https://www.fxstreet.com/news/forex-today-us-dollar-retreats-from-17-month-high-as-bond-yields-oil-prices-ease-202610130659",
+  "published_at": "2026-10-13T06:59:09+00:00",
+  "sent_at": "2026-10-13T07:20:49.780784+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0335,
+    "XAUUSD": -0.0901,
+    "BTCUSD": -0.0143
+   }
+  },
+  "checks_base": "published"
  }
 ]
