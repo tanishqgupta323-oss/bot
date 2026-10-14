@@ -566,7 +566,7 @@
   "calendar_fetched_at": "2026-10-14T21:10:43.696454+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 268,
+    "count": 269,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2988,6 +2988,22 @@
         "rate",
         "rising"
       ]
+    },
+    {
+      "at": "2026-10-14T23:35:36.833283+00:00",
+      "w": [
+        "citi",
+        "december",
+        "expects",
+        "fed",
+        "hike",
+        "hotter",
+        "icymi",
+        "inflation",
+        "now",
+        "rate",
+        "september"
+      ]
     }
   ],
   "resolved_events": [
@@ -2995,6 +3011,11 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "00cdfc1facc6ef8f55c7a6e8d6a33ff3ab61e3f9c4f2b0d368f2e69ce8375b06",
+    "f608716cc0c7e5bc5232b16179a992acc345efc3901789e912874fa47c12bdb7",
+    "f6c478e3d91aa2c18c08e8c51eb3ceaf89c69a9c104eb7b7f96237301abf81a7",
+    "a16ce938426c904dd39b0036636ce6f00ef60fcc625df083061b16c2f8f576b5",
+    "f1decfe32c7f313a04cb030cb6199f9a90a94ff30d71c8260ad4e0f4a39b7be4",
     "7d9445ada992e937f180c5b6eb415c5936a3cbb9dc0baa290bc5e4c03ca5339c",
     "0f0f1da930ef644b7e298da906ccad45f17d88879499c2dc3b7f82b43680c1ac",
     "d39091520a8c6f7cce232c36d8ef1ae3f55535ca33db38aa9e680ff029a6057d",
@@ -3989,12 +4010,7 @@
     "523c18d89ac09a8642eec3bf2ee12516ba800031254c0687bbe52ca8bdd2ebf0",
     "01dc49b3cadbf97e4596cbc4c4dd77ba42b66c1cb9606ed31b4282635d2743c8",
     "2d94e8b84208f92aa3e5cfab80f2f94d8f220091127681ae8cb6f450bb2ccc90",
-    "06a0bf38f3cd2f60d2e79f193f6fef04f17a80d68034b6f5c69a5522efae3abb",
-    "d3dfade684a4d93ed56a6a938a082044d2a6550a867ab24a281ce5394a43c863",
-    "4bffff79e04895a85e3af80298f0637cdcb8a372438f6d53a4b3daa9a9ea9f38",
-    "80e2726dbb72c674c9697c2ad5b174e0aa12ba4f7fb4fe6afc3b8dd95fd2fcbc",
-    "68d3c30dd367f226e275e97fddf0ae49b400ecf47593ef7cb929cdcf9db315d1",
-    "4bb351028e0cb9d82bbfd17c8aaa5d5a0bd17644fa2f0741140d4fe69904b8dd"
+    "06a0bf38f3cd2f60d2e79f193f6fef04f17a80d68034b6f5c69a5522efae3abb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
