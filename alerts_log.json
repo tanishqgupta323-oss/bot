@@ -5302,6 +5302,11 @@
     "EURUSD": 0.0222,
     "XAUUSD": 0.1751,
     "BTCUSD": -0.3281
+   },
+   "60": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0778,
+    "BTCUSD": -0.5186
    }
   },
   "checks_base": "published"
@@ -5339,7 +5344,14 @@
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": -0.0222,
+    "XAUUSD": -0.0534,
+    "BTCUSD": 0.0382
+   }
+  },
+  "checks_base": "sent"
  },
  {
   "kind": "live_news",
@@ -5353,6 +5365,13 @@
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": -0.0445,
+    "XAUUSD": -0.2013,
+    "BTCUSD": -0.1251
+   }
+  },
+  "checks_base": "published"
  }
 ]
