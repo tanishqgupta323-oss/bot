@@ -5,6 +5,7 @@
     "23a9bdfb5a63d7bc060105e9": 8,
     "29ce61889b8928b1b1dd55ed": 8,
     "304183b2b3207b2798be8cb9": 8,
+    "49a35c375ac10fe63b08e551": 1,
     "59e0835940d1fdba2950a52c": 8,
     "5a3769e06a7e62a12ab771cd": 8,
     "62fd90effb3a1981c82de2c6": 8,
@@ -13,7 +14,7 @@
     "7de87c3bd42c86c6a66f1ef1": 2,
     "835833e3e832ad4ca1fe704c": 8,
     "902edbc5b5404f8bf5eb4a67": 8,
-    "a07b9c09b04cba566323a8af": 6,
+    "a07b9c09b04cba566323a8af": 7,
     "d11bb0a1f3256756fb11928f": 8,
     "d16b2c4f789b78dc61bafa0e": 8,
     "d2fe173795bd18b78ad5b559": 8,
@@ -560,10 +561,10 @@
       "title": "German Buba President Nagel Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-14T15:01:29.773049+00:00",
+  "calendar_fetched_at": "2026-10-14T18:05:38.596575+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 180,
+    "count": 183,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2853,6 +2854,8 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "f62af5a8b27ea69e3bfd50aab32ba3b6d3ded5637b2e0e9ac6314519ced0da20",
+    "c6dcb5ce1e6c5e12babc7ea97952c7b42fce555ed51dbcdd53617cdacd9f7f49",
     "a0820b2c89938fbebdc45220f18e95d92283bc2609d70cc4ad0c0479357280e1",
     "3acb39968c0bd7d93b8bad808d2732485ecca8d86cb9c51c823f6ffdc52797ac",
     "e7bc89e9a78581f37c969748a2eba79c5ada57d71477e18bd730268d67855e71",
@@ -3850,9 +3853,7 @@
     "fcf8d72b9979cf007eb9bd34eb2e31bfc9e99a7c4feb656cfbe6069ed01f41e2",
     "8e1464d68190adeb0c53eaec200c1c060334a7efba876ca99c866c00623a368f",
     "b3f96e50a70954ad67fd2492860c2e9de01b3a1832f71a06d2636af1d6ee798e",
-    "da43144df4c5413272028e0f01d6e30be6b6b0c30c95269ae4b77333939f3161",
-    "3f5f1dd950f072667fdbbf2e2fa9871c681e9c2092996d767684c6ee624e72a8",
-    "3f93b3a85cb9686e5278940050b457793edd6d75fbd8368ab81dad2cf4b7ab13"
+    "da43144df4c5413272028e0f01d6e30be6b6b0c30c95269ae4b77333939f3161"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
