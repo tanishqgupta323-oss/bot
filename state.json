@@ -8,10 +8,10 @@
     "661b8542c343d8e7cca4eba1": 8,
     "6f5619eaf55ac0a14e0b6102": 8,
     "835833e3e832ad4ca1fe704c": 8,
-    "902edbc5b5404f8bf5eb4a67": 2,
+    "902edbc5b5404f8bf5eb4a67": 3,
     "d11bb0a1f3256756fb11928f": 8,
     "d16b2c4f789b78dc61bafa0e": 8,
-    "e18389dfa889070891fdfb1e": 3,
+    "e18389dfa889070891fdfb1e": 4,
     "fde5e0b2b49b56a301194e79": 8
   },
   "calendar": [
@@ -558,7 +558,7 @@
   "calendar_fetched_at": "2026-10-14T09:01:24.413601+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 44,
+    "count": 46,
     "day": "2026-10-14"
   },
   "recent_stories": [
