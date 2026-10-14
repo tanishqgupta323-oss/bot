@@ -5778,5 +5778,31 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "MarketWatch",
+  "title": "What to expect at the next Fed meeting now that rate-hike odds are rising",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjlTcGhWTmRxZXNLdlJwRENqLXZkLVlBWDRad1dUQkRHaWZEa3VhZDFPZEprRFdNT2l5TFJJVl9YbFlBUXpZVElfemsxc0diREhzZnBTTmdrYms2WHBCa0dIRG9QRngxZEFyUm11UTNyQmhyMWRhQmljTzNMaDM4Ykd4OTE5TnJoVVJHb3IzMUFtbHZuV21ycHpYZDhTQ0hCTlEweDk4bnQzWUViVnpwM2JJNUlrNzE1VmxiNXp6VnB4UlNXeDRB?oc=5",
+  "published_at": "2026-10-14T19:04:00+00:00",
+  "sent_at": "2026-10-14T23:01:18.806588+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0335,
+    "XAUUSD": 0.2308,
+    "BTCUSD": 0.3798
+   },
+   "60": {
+    "EURUSD": 0.0223,
+    "XAUUSD": 0.1652,
+    "BTCUSD": 0.363
+   }
+  },
+  "checks_base": "published"
  }
 ]

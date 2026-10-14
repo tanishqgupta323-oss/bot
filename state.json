@@ -566,7 +566,7 @@
   "calendar_fetched_at": "2026-10-14T21:10:43.696454+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 262,
+    "count": 263,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2974,6 +2974,20 @@
         "rate",
         "urgently"
       ]
+    },
+    {
+      "at": "2026-10-14T23:01:18.806410+00:00",
+      "w": [
+        "expect",
+        "fed",
+        "hike",
+        "meeting",
+        "next",
+        "now",
+        "odds",
+        "rate",
+        "rising"
+      ]
     }
   ],
   "resolved_events": [
@@ -2981,6 +2995,9 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "0ae0b79fd4bcbc17c8588fd1dedac0583062f2e9b2744858c64d97ae2ea88a04",
+    "2fb521f0f90fa8a92b46e99df3d69c265939a22866c5a4c7326672547ddeb8d0",
+    "0c64c62a23e3bab7e0c7ad7abde793f971f0ccb039f1f095e3fd446109679968",
     "bfe8b0a47cf2eb5fe4d649f0aa5295c14706bdadc369ab2c4181c7d03f09133e",
     "7ea9ebf3223d4bf2db8b484e00e05a29dfe1a5c059bcf4a8ad20727aa3d5f74e",
     "b94ae31bb83052ebbf995bb12cd47fdc314762d27d5cee326a45618e9cb8d25b",
@@ -3977,10 +3994,7 @@
     "2e206cf3666f40606da3cfdcacae45bf3fc91638a0c6be6f1e9d394ac91be7f8",
     "63c21ece0d25a0bba6887af1364273cb9859204b2a34e4787a6e72707aceda19",
     "cd6f22ef52b934771a2d5eeea088c0a443bf428dcaa493c739657e4e7404c02b",
-    "1ec1038a0c487fcb3982f6bd567b58fd565f4775a902bf02856d630773489e7d",
-    "eba2fee2a798b37c79d0a88b283f3e676c66296ba136b3e56ea7789372ce22ac",
-    "4197931dfda27527322de350272bd87edef66bf8a14d1f3c74e3c461bddf24a6",
-    "7732bb5527972a177f5ccb6d779bbb0159343bac3dfd510badda820bd0bea120"
+    "1ec1038a0c487fcb3982f6bd567b58fd565f4775a902bf02856d630773489e7d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
