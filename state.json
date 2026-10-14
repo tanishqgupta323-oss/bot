@@ -562,7 +562,7 @@
   "calendar_fetched_at": "2026-10-14T12:01:26.551162+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 136,
+    "count": 137,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2699,6 +2699,20 @@
         "levels",
         "play"
       ]
+    },
+    {
+      "at": "2026-10-14T14:21:05.760711+00:00",
+      "w": [
+        "back",
+        "fed",
+        "heats",
+        "hike",
+        "inflation",
+        "month",
+        "rate",
+        "september",
+        "table"
+      ]
     }
   ],
   "resolved_events": [
@@ -2706,6 +2720,9 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "20a80e660d5384fd45df7b391f2e46fe62e5928f65ce6a96d347ddfc79fdc69e",
+    "a157302ba1e678e2310e7660df4ed376935c17d5ddcb1b3e65ac663bb986a673",
+    "ac97c54ab72b0796e05cf5e6bff43524a5023077d643b8af71dfa3e15a28690d",
     "ec689ffb565a8cfe3ac9d2d20631d811a5546de889bdc69753079b2da966bba7",
     "dc8b6bab8d5a783172c9c7de36170c5b6349e15891314807ad050ce8bdc4c370",
     "f015cc884131ccf999f81d5485206aca210c479edd696d58d100410b6cc0bc68",
@@ -3702,10 +3719,7 @@
     "101fc4a71c5141aed2bc7a399be80bda46532eb457dc479d72690e8b39d029f9",
     "3137fa9783921581dd4ddc8020b594b913e12622abc9477eb21ace441da03ea5",
     "9fc1f5d6ec577c1f8c2c25a9398322143efde2a0ca69028924ede3a65a24902d",
-    "e2ac262d194d1c57c22df6886c9ec1e56db89524ca566eef409cf795e401f093",
-    "a02defa131a60aa52d2f01cf396d1ab056226e1f5d35c6e431bd25fb5304998d",
-    "014fba7c43bb4244e115f273144da976b0a532fa76f39d6914b393e549c52136",
-    "ea752d99c4ad55109a474edbd725755fae5e6b760be7b2f84ac6076c97a01f9b"
+    "e2ac262d194d1c57c22df6886c9ec1e56db89524ca566eef409cf795e401f093"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
