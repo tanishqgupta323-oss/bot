@@ -5440,5 +5440,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Canadian dollar touches an 18-month low as the US dollar jumps on hot CPI",
+  "link": "https://investinglive.com/forex/canadian-dollar-touches-an-18-month-low-as-the-us-dollar-jumps-on-hot-cpi/",
+  "published_at": "2026-10-14T15:52:50+00:00",
+  "sent_at": "2026-10-14T16:01:24.211375+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
