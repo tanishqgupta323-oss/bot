@@ -5137,5 +5137,33 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Fed rate hike seen more likely after inflation data",
+  "link": "https://www.investing.com/news/economy-news/fed-rate-hike-seen-more-likely-after-inflation-data-4949259",
+  "published_at": null,
+  "sent_at": "2026-10-14T12:50:52.727172+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "US consumer prices accelerate in September on costlier gasoline; core CPI firmer",
+  "link": "https://www.investing.com/news/economy-news/us-consumer-prices-accelerate-in-september-on-costlier-gasoline-core-cpi-firmer-4949258",
+  "published_at": null,
+  "sent_at": "2026-10-14T12:50:53.225329+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

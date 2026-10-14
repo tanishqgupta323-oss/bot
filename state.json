@@ -5,9 +5,9 @@
     "23a9bdfb5a63d7bc060105e9": 8,
     "29ce61889b8928b1b1dd55ed": 8,
     "304183b2b3207b2798be8cb9": 8,
-    "59e0835940d1fdba2950a52c": 3,
+    "59e0835940d1fdba2950a52c": 4,
     "5a3769e06a7e62a12ab771cd": 8,
-    "62fd90effb3a1981c82de2c6": 3,
+    "62fd90effb3a1981c82de2c6": 4,
     "661b8542c343d8e7cca4eba1": 8,
     "6f5619eaf55ac0a14e0b6102": 8,
     "7de87c3bd42c86c6a66f1ef1": 2,
@@ -15,7 +15,7 @@
     "902edbc5b5404f8bf5eb4a67": 8,
     "d11bb0a1f3256756fb11928f": 8,
     "d16b2c4f789b78dc61bafa0e": 8,
-    "d2fe173795bd18b78ad5b559": 3,
+    "d2fe173795bd18b78ad5b559": 4,
     "fde5e0b2b49b56a301194e79": 8
   },
   "calendar": [
@@ -562,7 +562,7 @@
   "calendar_fetched_at": "2026-10-14T12:01:26.551162+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 104,
+    "count": 108,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2635,6 +2635,32 @@
         "september",
         "sharply"
       ]
+    },
+    {
+      "at": "2026-10-14T12:50:52.726878+00:00",
+      "w": [
+        "data",
+        "fed",
+        "hike",
+        "inflation",
+        "likely",
+        "rate",
+        "seen"
+      ]
+    },
+    {
+      "at": "2026-10-14T12:50:52.726878+00:00",
+      "w": [
+        "accelerate",
+        "consumer",
+        "core",
+        "costlier",
+        "cpi",
+        "firmer",
+        "gasoline",
+        "prices",
+        "september"
+      ]
     }
   ],
   "resolved_events": [
@@ -2642,6 +2668,16 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "57274569e29f9d32e85da3bda6c34b7fda20ccba535fa94221cfa824cfe0306b",
+    "2ec147e254079c0512dfd81015aa99b88e830b1f2b66718254c1aa94faeec744",
+    "7f12806de470755ef2e86d0b673d3640052c356762f46353d254c07f911e9d84",
+    "7bf4932c821e037af4dab9dfdc2fc5edfe9ae0eacbd1ce25373b3021ea20a038",
+    "c74d9fcc06abd11d07b7239af343177873701977d6e6d2b0c35d0aa806ced394",
+    "839a886d691df54fdd66331d32cd88d315f196e1de86d983c95eb94e99cc6617",
+    "f25ad9ec5b9b441cb0da8e1e4e3f56cb3b1d649f76c57c077ab5f09e6fd77e5e",
+    "23557c8ac718d7a36286c80e7d5f8600a2649108680e47387be7bff0533da4ab",
+    "676183ac370c2aa732db8ef7cc7f74e963b79e3a3ccc272685c17b562ddee917",
+    "d311c9a6e6873dc2017398961f8e67504b9236742eaaf7aa439a136fabe0ff78",
     "c8f4427fb7c3bff2c2cf4f68c8da3bd8e1b09611e8b3e52747554202023a046f",
     "3f271dfd42c525cb4b9c7b802a81fa356794cf650c785f8621d21f94f3a7440f",
     "91b0f8a18c487a39cc3b2e0982153307069499e1e69fddb7a477f6f12622c21a",
@@ -3631,17 +3667,7 @@
     "5492c675b85524fa0a0acd510a9851381307ee9db201e0dcadd666379ad4fe46",
     "fc424cf46a5ebfe983518af6e7bba2cf87cdf75438a2dce369c8693db40e89fd",
     "b850a527351bb2991cda46b8597322e01987ca5fafc8119542dffb622e9bc5e2",
-    "ccf467e57528fea97687ef5a496847afdf4165ca26126d90e18379441346bef7",
-    "667e0acb77dbecdcf440c4e5b1a14a40b2057a3af0401e88e6de43304bbc7aa8",
-    "b6c1729064796ec6ec46dcebceb95180674ed40f0dadfe19d83760b62a8900b3",
-    "8793bc52261639c9f8732d84b69c074603439318fb8337eb5c129a0482eb9c6d",
-    "a2ab7482c711e83f4eeb37ae36382108bc9825cb50c1b47f8cd24896ab024c03",
-    "52263ebb5dccd36c4d4a89b2180a63ea91b87d12f4f5148d4bd5233325eaa7c5",
-    "6285be73514b953c9990b6b03ee3bf57a4f3a430d5e8fa53c9317035f0a61a86",
-    "fcf477506a6efeacc354f47e165cabfd4dd44efda4efb69f5fca9d762f35ab67",
-    "037487fb13afb93d455f87f72bbb6c550cfe31d06e2f92f843fc27ba5af86e3f",
-    "7c3e056c99b26e5a5f926cf76530565ed0494196e5a1025a5b8c2efe6c60cb75",
-    "3969aab59c18b4609589a470989035d3987a5c5999941162717f4a19d0e2d1b0"
+    "ccf467e57528fea97687ef5a496847afdf4165ca26126d90e18379441346bef7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
