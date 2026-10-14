@@ -5024,5 +5024,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+  "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+  "published_at": "2026-10-14T03:50:54+00:00",
+  "sent_at": "2026-10-14T03:55:37.006234+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
