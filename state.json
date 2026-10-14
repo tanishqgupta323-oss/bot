@@ -1,5 +1,6 @@
 {
   "actual_attempts": {
+    "0e4d49dde627a8093c6a42c7": 1,
     "162a0e9c1a002ca8bff6b72d": 8,
     "29ce61889b8928b1b1dd55ed": 8,
     "304183b2b3207b2798be8cb9": 8,
@@ -542,7 +543,7 @@
   "calendar_fetched_at": "2026-10-13T23:55:37.291721+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 260,
+    "count": 262,
     "day": "2026-10-13"
   },
   "recent_stories": [
@@ -2526,12 +2527,29 @@
         "signals",
         "slide"
       ]
+    },
+    {
+      "at": "2026-10-14T02:16:55.439460+00:00",
+      "w": [
+        "canada",
+        "carney",
+        "effect",
+        "retaliate",
+        "take",
+        "tariffs",
+        "trump",
+        "vows"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "93baa663bb24fc639cef942946da1b7433ae62e2b86e769d722a2c44ad3e2b53",
+    "9f007b8911b68a45514524c7279b603f4786f373b8a03fabdf190d32bd66b942",
+    "8b965e35a594fbbc0068eee9b3088e898b23b8674c8b0d342fb26b2a104af11b",
+    "c5dae7baab55b1743068ffe4113f2cf4a369afdc6408f6a71693676bcdc2e08a",
     "bdb8bb80d12cd8bd2b7e15dc7fe87115ba7956dede03dda38115cc8dd88f6e12",
     "1908570cc906045406e09d21ea061fa11de98b36aca03afbb4e44cdcf609180a",
     "8a866c3a628baea0c786843493f2989c55e6c53e68302a70494952b39bf5c528",
@@ -3527,11 +3545,7 @@
     "ece3620f5b05115e1c954c54304a7b69b95a3abc4915745e17edca1d04d469c0",
     "476f4253f1006ff4c4e126defef705868315d9d13e43eed7b2cc932bcefbb428",
     "9a7da5783dd69d0c098b26c22c3f1709046adb2d7c3b25e805c260e02ba56fba",
-    "f443b4d29ba9eb56e1fd00f948396bedb55ae15aef03a172ad7f4a334fdd0aa2",
-    "6ca841e9e1b411fe366d2ce7a9e80304b99a6316469f36e145507501cf364352",
-    "e363297e55262d63d77b6ce88bc9fabeaf8b1bcf0387ee74d1c242da68293eb6",
-    "828afc229c1df6ef926938a00a4a02a53677daf1ef1845fdf8737527f850cdf7",
-    "c13d2eec1a7b35fb30b9bcbdaabc49df14a75bf1665446484b432d834ee86762"
+    "f443b4d29ba9eb56e1fd00f948396bedb55ae15aef03a172ad7f4a334fdd0aa2"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
