@@ -5340,5 +5340,19 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "What technical levels are in play now for the broader US stock indices following the higher CPI data?",
+  "link": "https://investinglive.com/stocks/what-technical-levels-are-in-play-now-for-the-broader-us-stock-indices-following-the-higher-cpi-data/",
+  "published_at": "2026-10-14T14:48:48+00:00",
+  "sent_at": "2026-10-14T14:55:37.473526+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

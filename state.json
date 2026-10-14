@@ -562,7 +562,7 @@
   "calendar_fetched_at": "2026-10-14T12:01:26.551162+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 141,
+    "count": 142,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2743,6 +2743,22 @@
         "wall",
         "weigh"
       ]
+    },
+    {
+      "at": "2026-10-14T14:55:37.473348+00:00",
+      "w": [
+        "broader",
+        "cpi",
+        "data",
+        "following",
+        "higher",
+        "indices",
+        "levels",
+        "now",
+        "play",
+        "stock",
+        "technical"
+      ]
     }
   ],
   "resolved_events": [
@@ -2750,6 +2766,9 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "f270aa072bcf5554299743c355d461b893acd3a2a8e69b9ceb82598414986921",
+    "799b32898432be2df52ea9eabdbf789b5b5e5803e8a5d16ff10ec78ab582ff66",
+    "68bbbe7ac24f639732c5bec3e639e51712e5f0a4b9c62802891cf420361f1a14",
     "23c805d2c073936106ef0d5234b717ef92b36ef78771748c67d6faa7452514d7",
     "7da80988899b157435bcd16f6c5205589b6598939b639644f7ddbbdb140d8d6a",
     "5587260db5813c8dc2f9e819bc14b6fcf8c82ef22104aff90e5697ce0591a193",
@@ -3746,10 +3765,7 @@
     "c6be27ba24a56ba001912f0f54f2e5def09a6c02ba2d9fa109708f2f55887791",
     "4dc8da47f7436da8fe57f01f49cbc94577e7aef48655da48ba630633253f0854",
     "9b9bb4b602dd856c3e3016d577b3e8559834654f7bc2aeefba7c137522c0d129",
-    "4781428ce971299bb034af7c40717aa6b3a51971329c4e078cb1185be79e5e63",
-    "9d44c75869aff4a41c3fd1e89074eab4f73a29bc0ab41a585eab99cbaf592715",
-    "8011400ac5cbddd03cbc478faaec9b35731014e32f6aada46da9352be4e9b55f",
-    "b21398818b33d51094b79e967364c3ac15f974892dea619e1240452bc6f90a7e"
+    "4781428ce971299bb034af7c40717aa6b3a51971329c4e078cb1185be79e5e63"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
