@@ -5557,7 +5557,14 @@
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": 0.0223,
+    "XAUUSD": -0.0583,
+    "BTCUSD": 0.0301
+   }
+  },
+  "checks_base": "sent"
  },
  {
   "kind": "live_news",
@@ -5579,5 +5586,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Red hot CPI report fuels AI rout",
+  "link": "https://www.investing.com/news/economy-news/red-hot-cpi-report-fuels-ai-rout-4949874",
+  "published_at": null,
+  "sent_at": "2026-10-14T18:50:50.080261+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
