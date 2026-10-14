@@ -562,7 +562,7 @@
   "calendar_fetched_at": "2026-10-14T12:01:26.551162+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 140,
+    "count": 141,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2726,6 +2726,23 @@
         "overbought",
         "surges"
       ]
+    },
+    {
+      "at": "2026-10-14T14:51:22.003206+00:00",
+      "w": [
+        "banks",
+        "bets",
+        "chips",
+        "cpi",
+        "data",
+        "fuels",
+        "hike",
+        "hot",
+        "rate",
+        "slides",
+        "wall",
+        "weigh"
+      ]
     }
   ],
   "resolved_events": [
@@ -2733,6 +2750,16 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "23c805d2c073936106ef0d5234b717ef92b36ef78771748c67d6faa7452514d7",
+    "7da80988899b157435bcd16f6c5205589b6598939b639644f7ddbbdb140d8d6a",
+    "5587260db5813c8dc2f9e819bc14b6fcf8c82ef22104aff90e5697ce0591a193",
+    "e033698b5a2d9cb9636dbeeb8ce536442d3a5dada805f92ab94a662293d1c5aa",
+    "7204f497840d18ea1b34dab9b0e3b68085a763f3d1640a701c09f2fa6cf75e2f",
+    "1b0b0a88b970252baf34be93735233f7cc9ff7a805a603d6f093491c66add70d",
+    "33e88ba1d9b16ac1de81216f87f2faa68dcb38a3b01d877b6279eaa7fc94d4bf",
+    "3202c28c7e8561471fbdc046b5b46bd9b6d7dc27dc16411289de33d7c7224137",
+    "a756d550976b2b002616baf96f365e9448e7e9d9e9b10d7b80218d482d545e76",
+    "c995fefda0ba861f2f30e54266763cb103e2165c4edbbe34a59bab6139c7c08e",
     "5bbafbb919982fbe4d8318a8dee2e4c6b9cdcd1a7c707bb682c20ab072c4dfe1",
     "3d9981acda1640a6b3f2334f8a79c2401703307d0b243f3a0410f20d501029f1",
     "4e3bd22ac27cbb5d9f9a224eb87dbf81c185f8c93564bb012941b0b64f92507d",
@@ -3722,17 +3749,7 @@
     "4781428ce971299bb034af7c40717aa6b3a51971329c4e078cb1185be79e5e63",
     "9d44c75869aff4a41c3fd1e89074eab4f73a29bc0ab41a585eab99cbaf592715",
     "8011400ac5cbddd03cbc478faaec9b35731014e32f6aada46da9352be4e9b55f",
-    "b21398818b33d51094b79e967364c3ac15f974892dea619e1240452bc6f90a7e",
-    "053cb6db18ccefd0b1f4698cd66e20776b474a5212e395a3159165cbc026ca31",
-    "49ca961939c4d059c0f201a86570c85e0805cf8f29679126c8f755209ffc8800",
-    "acaaaeb7b91adfaebfe991c52ed39d22710407ce9481adeb299246cb2226e600",
-    "f1c608e2375d0ab62ba68b3673c2ed1527ca4a60d7819403cf6031a239b3da95",
-    "c1460de3b45e9d3dbe65c5b1db19b88c69c3072a10df2d79d73e106774fb65d5",
-    "da7defefe0f7fc384d1f92b0650713beffc4a2f57b793d3e8620b06e4c20087b",
-    "4c32f5f6f8250d7af8fd7879f1fbbe38292ac100e56023c260216f4bfff4b98c",
-    "0861ce96991ca28b9d29b0d10a74ca7bc984b48adf76d0d7ece08bfcbe71bc07",
-    "9152943aa66772e991e47bbf524bd0ade5c21b9bc3ab821caf08e028fbbd8e70",
-    "7cbf771ff677aecaa7ce7a1343f5603ffd97c904fc8382be76e72871bd2a7eca"
+    "b21398818b33d51094b79e967364c3ac15f974892dea619e1240452bc6f90a7e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
