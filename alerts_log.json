@@ -5508,5 +5508,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WSJ",
+  "title": "Two Cargo Ships Sink Near Strait of Hormuz, as Iranian Attacks Increase",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeVJzcVMzeW15SzZXQ09EZHdZNzdXY0lmbWVJNjRDLVlodjE0SVBTeFBES1VudmJROGNiQ3RlYU1NM2FlLWs0eVhadlR1Q3luYnoxTDBkRjBwcFdoN052cUxSOVBkQTFBSkdVYTd0elBuX3F0X19feXBuRGgtTVZfZmVvY21yU0F0RkdKX01DMHZDZE5ITUtMTzFZTnBJX1VnSWpwRW4xQQ?oc=5",
+  "published_at": "2026-10-14T14:14:00+00:00",
+  "sent_at": "2026-10-14T16:31:36.006171+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0668,
+    "XAUUSD": 0.0923,
+    "BTCUSD": -0.0723
+   },
+   "60": {
+    "EURUSD": -0.0334,
+    "XAUUSD": -0.1531,
+    "BTCUSD": -0.3169
+   }
+  },
+  "checks_base": "published"
  }
 ]

@@ -562,7 +562,7 @@
   "calendar_fetched_at": "2026-10-14T15:01:29.773049+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 158,
+    "count": 159,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2831,6 +2831,20 @@
         "revives",
         "silver"
       ]
+    },
+    {
+      "at": "2026-10-14T16:31:36.005490+00:00",
+      "w": [
+        "attacks",
+        "cargo",
+        "hormuz",
+        "increase",
+        "iranian",
+        "near",
+        "ships",
+        "sink",
+        "strait"
+      ]
     }
   ],
   "resolved_events": [
@@ -2838,6 +2852,12 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "5bec854c31295901668927d6a8e8ef069844ef8636c76dc054eaf9f7770df538",
+    "68eeef79c92f808f3ac51470caa042baa5ab8a49c3f4be22c290c2e84862429f",
+    "d01383f3d41e25745cde815d4a911473570f0add14b449b24c86c7de83fbd378",
+    "b90ad168cacff438f9de19eecbbad314b0b849ca7ce724a64175e663aee9381b",
+    "7c0121a58bc48577679a36d68e6a18313f305a5d43f8a31d28b9401e179c3482",
+    "850134c90225489c1bc6f38525f661937509c3f96dfac2b87c96bc42ce1daa96",
     "cb309345ca25d9adf5abbe6400ebac81b2d910e346228f331db6b1af2e89c152",
     "68cb3b37127fed3d90242a2aa43dec1f5d4fddc001c1be6ac3be6c24a97db3b0",
     "bfdb2e307c1aa759e9473ef45070837e0911fe9ab03f74a5357702bd6151c20a",
@@ -3831,13 +3851,7 @@
     "953dc2efab18d03c416c864102887cfdbef82ca27089b09a17c5709353ff19a2",
     "9f6d2100b85740cd8b7c732dfbd1c9a486f809f4083104fe75505b9b0b3f9834",
     "1727f23f80a466b8b0cfad9efb8086901f89c27c74696c85292c18b8bb986b32",
-    "b9140f8a02efe0bd43ec076d7ba39c6ab526b2fcc3cc5972da9ac9c1cbb92176",
-    "a9ccbc83edf588012ba40f5d5f681bb5e02c4de1efb5552322a5ca857241856d",
-    "d3b276a2e55bfb5fe8c805f4e87a291b9c980d34495a50581574cac637503019",
-    "cc25fae7850f0b2c27cdbe759f8f089fe8bbaae10dcd0117d9be5f3e4432aa48",
-    "86402229f1686157624c13d28055d0d172ae586086aa0ee625cd87a5683fdcea",
-    "fdf053b6495513a99e6c8cc18dde67d9758cd70504db7ccd10f8c3ff9890deb3",
-    "4dd9e1217b069bb1eebf124e1ce7e0724bc1212b899771716e0dbc9d6d3ad613"
+    "b9140f8a02efe0bd43ec076d7ba39c6ab526b2fcc3cc5972da9ac9c1cbb92176"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
