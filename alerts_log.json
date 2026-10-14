@@ -5482,5 +5482,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Kitco",
+  "title": "Gold, silver drop as hotter CPI revives Fed-rate pressure - Kitco AM Report",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTklMek95YWRodEhfWGJzYnF1QXlDNVdGcE9zVEpxbWFxeVJNWGFFdzUybk5IZFBMRWN4cllxcVJ2Yk9pMk5tT3VjS3dhdWl3bFpDNW1FWnFkNFFOUGdlOFdlRG5XdXdBQnpsQllxOTNsVUZMcW0wQlgwVF9kWEx0dWZGZDNGWFRsb0pMNmYwS0RlOVdUR0RiY3l2cWF1MDBNMGF1TlY3ZDhFZkRZREtiSnJ5cEdsUQ?oc=5",
+  "published_at": "2026-10-14T13:00:57+00:00",
+  "sent_at": "2026-10-14T16:20:52.606455+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0111,
+    "XAUUSD": -0.0827,
+    "BTCUSD": -0.307
+   },
+   "60": {
+    "EURUSD": -0.089,
+    "XAUUSD": 0.0,
+    "BTCUSD": -0.4005
+   }
+  },
+  "checks_base": "published"
  }
 ]
