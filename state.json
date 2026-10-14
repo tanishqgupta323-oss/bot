@@ -558,7 +558,7 @@
   "calendar_fetched_at": "2026-10-14T12:01:26.551162+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 88,
+    "count": 89,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2599,12 +2599,46 @@
         "tumbles",
         "updates"
       ]
+    },
+    {
+      "at": "2026-10-14T12:31:23.159648+00:00",
+      "w": [
+        "american",
+        "aramco",
+        "attack",
+        "attacked",
+        "attacks",
+        "counting",
+        "escalate",
+        "facilities",
+        "houthi",
+        "iran",
+        "moments",
+        "saudi",
+        "until",
+        "warships"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "5291d311e272257b6b9231e115ad8d25e4c411d812c8b7652a2dce87b8c0cae3",
+    "eeb12d885f5625d9f4f5f1de56a2bf9cfd1a06f47005244401e48a591a141300",
+    "72384acee2951b8eb82eac05cfbfda5a3c3fd3d329ef250988c2ca8da32010d6",
+    "08da6a8de8c9556073b16944cbd7fe1b431f27c92e0933ad63d46eea6c8a4e85",
+    "c391ddcaf5121ab1f0c09dc2072e85fe6755f0b15d48ae1fcac2884c06f10212",
+    "b0158005ad67fc97feccd5e80bc839e216dd0a4707e93529df7b2523442eddcf",
+    "e92fcc52a4ac4622092b0a7d87ed07d7c9aa23ce9a1132d34f8dced8a7a78984",
+    "ab8953ca75ad9307816b76d7943077d4d61a5a6036fce97b7c025c7e6d3538c5",
+    "63f13011e4f1427972b640b93e6941a1c0f16310c82fa881bd946fff5c2aee9b",
+    "3ed3da94a6c285e9138e76dca6f02ab92b6fb7f026937cfde7bb627c10aad98d",
+    "b3a3445fe21db51863f6ff2a2a860857921993569c2454072bd94dbfe5907b3c",
+    "70acd8ca71e74094ff90577da4c4c7484bdd027c6880286f2dfeed281aba0240",
+    "06d8c7394c624e73abfb7249781e6e6d539b1ced1a9a74e08f9988900a93500a",
+    "537c35d58c2120ad32fd924fd18b51c5fbf58ed351da5768b94d0e7e7989e1d9",
+    "2905e9323850232a5a7f24619ea1ad11a988156a00ebbbbbf540841c850f02d3",
     "22fa408bd108e914a03490faf3ac5b97ecdb9feeae678c69407ac81e2ab05a9a",
     "9960e782ff6b7c0b3aa52698edad9aac7a12e63ad1539ea273174e7b61024ed1",
     "4215ece8a9ade779caa0133187031bc0e55405d08d5fbc3667e74fc363b4deb8",
@@ -3589,22 +3623,7 @@
     "01b176bc8aac75743e29a02811f6abd36dba266329fc1aca3015b7f5302bbf8d",
     "99d268a7b2f09a2c1052feec18d6a8ee0bc492daa937f604145e51fd312777c3",
     "7023d0c7b2bc1983ab2992364c5b9fe8e3ca7bbf1f7fa54eb133f612ff96ff9f",
-    "fe57d8091e55ad86fe01071eabb04bded2de58b25c839de801f175f29f99afcb",
-    "17d59a9f31fef429fcbf7607644a2a2954910a1afd7b0961e3453cd1708fbf3f",
-    "6f7e614cb8573d9fe8bf9d74cde8fd621dbd8f845d2e2dd5409036b01d01b82d",
-    "1e343ce5a803908a36272fcb6ddab139fc6203affc05c604ca86267f4aeb9a87",
-    "8a083cdfa9a3002638ca886d2cc226e309013cb45b7ee5a2dc28ada1fac4cc5a",
-    "3573c204f9a6312b6b8e1ba2fa73e4e750be375f158db4eaa81d1891f311ee18",
-    "98118b2f37e97cf0235d2a7e22d49234d582b440853ee2a2cb8dcdd8035c7dea",
-    "20b3ebb0c802786b48410247bce05e3d4949ca08d23718c3a55a91c9117d2354",
-    "fc322248d00d83d6f59a84388a841ff64bf6e4a4885877784cf8bcdc59f929d6",
-    "36b3548697938bcd904f6f19ecc1f04f059defad454527f18a665cd7f8ec7c40",
-    "d7be066767ff5fc20643ad69595d5562baed9742af7f10301ee85c0320b23730",
-    "20e8ee82c6a67ad21564cea35bc7098b54a3d180805504a69e994f8133da944f",
-    "ce89326dae4960b4782ff770fa6392bcd685a5bd83cd5df932044f9226aa76ec",
-    "08cf33b0cad37cd677be368ab032102476d07d0971dd9e5b202aac3860b7a0a0",
-    "451eea4ff9baa8bd48e0c17fe3ef9f76895f7c025c70e422742f790e91b18119",
-    "8161225bc976aaf0c7867f19d8f4c3c98f8e5f4faec63f2a35669c853a47b53f"
+    "fe57d8091e55ad86fe01071eabb04bded2de58b25c839de801f175f29f99afcb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
