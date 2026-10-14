@@ -565,7 +565,7 @@
   "calendar_fetched_at": "2026-10-14T18:05:38.596575+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 217,
+    "count": 218,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2914,6 +2914,20 @@
         "wall",
         "worries"
       ]
+    },
+    {
+      "at": "2026-10-14T19:40:46.979091+00:00",
+      "w": [
+        "adviser",
+        "bunch",
+        "good",
+        "inflation",
+        "news",
+        "report",
+        "sees",
+        "trump",
+        "whole"
+      ]
     }
   ],
   "resolved_events": [
@@ -2921,6 +2935,8 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "96ef50b43115c0dbfb7534f3114c4c22bcd499fbd234100425d246f04f7fad01",
+    "a46334c020eadc2c786a0b450c3a43db698d5adb7bfafb81441dafa622de3a16",
     "b08762b0dc5891bf19d75a234670711612b666143595b6305b24963efc5be7af",
     "bbed3a4842086376f0dad3cdd37cdc02dae31c0a35bbac41e88fb0bbef530f6f",
     "c7925be95d9a5a58abd6ba131b283ecd7a6b1317340db651b25c8824f9dcd89c",
@@ -3918,9 +3934,7 @@
     "4ff5d1c29bbf6e4dfaf15c032e2e7e908e3570751425e1a09d8fd04cdcc6084d",
     "e16af023988890d3434b660e152dde497598ebb36d2bf3bcdef4b9814a91ef44",
     "f473798c349dc4ddf3b427c96bd794e3a30f194d523d80f3117cbd13a388f78e",
-    "cd2fc91ab7247d7363a8244f6393952049acfc261b325bc18efef3425983215b",
-    "249651968488a375113d8249f3e6a0b1144d22510e48649c816458a8beea8565",
-    "f44e1305aafb1c37dbc2ddbf9efb580b58a1f7a001312870855411a4c836b7c0"
+    "cd2fc91ab7247d7363a8244f6393952049acfc261b325bc18efef3425983215b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

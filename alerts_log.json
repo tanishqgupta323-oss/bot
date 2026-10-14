@@ -5657,5 +5657,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Hill",
+  "title": "Trump adviser sees ‘a whole bunch of good news’ in inflation report",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZmhpdks3Y1pINGJwOWZTdmlRSDcySGdNeTF6dWV2MWFOU2JFQnV2aTAyeWJZeWFoUDQ1S2s5aE1IX2JkNkRxb2picngzMnNDTEh4R2JpLXMxV1pEeTZqZjZFNGZ2bkJleDMzZmJwMThMOXBoVHMyb19Tb0RyOWc4NHRPVFc2cjZkY0NEbngxY3NUUQ?oc=5",
+  "published_at": "2026-10-14T17:54:00+00:00",
+  "sent_at": "2026-10-14T19:40:46.979268+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0446,
+    "XAUUSD": 0.0877,
+    "BTCUSD": -0.0081
+   },
+   "60": {
+    "EURUSD": 0.1562,
+    "XAUUSD": 0.3289,
+    "BTCUSD": 0.1872
+   }
+  },
+  "checks_base": "published"
  }
 ]
