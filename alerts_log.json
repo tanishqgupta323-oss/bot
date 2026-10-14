@@ -5612,5 +5612,45 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Fed’s Goolsbee: CPI was discouraging, more bad months would be unacceptable",
+  "link": "https://investinglive.com/central-banks/fed-s-goolsbee-cpi-was-discouraging-more-bad-months-would-be-unacceptable/",
+  "published_at": "2026-10-14T19:24:33+00:00",
+  "sent_at": "2026-10-14T19:31:10.939394+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Reuters",
+  "title": "Wall Street tumbles as hot inflation data feeds worries about Fed rate hikes",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
+  "published_at": "2026-10-14T18:19:18+00:00",
+  "sent_at": "2026-10-14T19:31:11.510699+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0558,
+    "XAUUSD": 0.0316,
+    "BTCUSD": 0.0404
+   },
+   "60": {
+    "EURUSD": 0.0669,
+    "XAUUSD": 0.2795,
+    "BTCUSD": 0.3244
+   }
+  },
+  "checks_base": "published"
  }
 ]

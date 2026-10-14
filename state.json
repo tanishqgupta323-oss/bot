@@ -11,7 +11,7 @@
     "62fd90effb3a1981c82de2c6": 8,
     "661b8542c343d8e7cca4eba1": 8,
     "6f5619eaf55ac0a14e0b6102": 8,
-    "6ff7659b4b0f41c292d42cfb": 6,
+    "6ff7659b4b0f41c292d42cfb": 7,
     "7de87c3bd42c86c6a66f1ef1": 2,
     "835833e3e832ad4ca1fe704c": 8,
     "902edbc5b5404f8bf5eb4a67": 8,
@@ -565,7 +565,7 @@
   "calendar_fetched_at": "2026-10-14T18:05:38.596575+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 213,
+    "count": 215,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2886,6 +2886,34 @@
         "report",
         "rout"
       ]
+    },
+    {
+      "at": "2026-10-14T19:31:10.939212+00:00",
+      "w": [
+        "bad",
+        "cpi",
+        "discouraging",
+        "fed",
+        "goolsbee",
+        "months",
+        "unacceptable"
+      ]
+    },
+    {
+      "at": "2026-10-14T19:31:10.939212+00:00",
+      "w": [
+        "data",
+        "fed",
+        "feeds",
+        "hikes",
+        "hot",
+        "inflation",
+        "rate",
+        "street",
+        "tumbles",
+        "wall",
+        "worries"
+      ]
     }
   ],
   "resolved_events": [
@@ -2893,6 +2921,13 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "bbed3a4842086376f0dad3cdd37cdc02dae31c0a35bbac41e88fb0bbef530f6f",
+    "c7925be95d9a5a58abd6ba131b283ecd7a6b1317340db651b25c8824f9dcd89c",
+    "45c3e595af59755e45830a3743e133ed8fccf6d69e0504d56af3b8caf166dc88",
+    "71021c4ece39242872c6f6c34145dde3c7f21c7350b7da43096c4a2bfc6e5f13",
+    "5b1c281e9968da13bfbb1975d8c70e7c12b3a135c6973e3f3fc3ebdb7a51609f",
+    "0cd38b93038e3aa079d2097f04b25167e466e77d55cbf4f7862da69e2adc4b84",
+    "118cb727115f2651a4fb608a645aa066ac990c01cfe973046d1001f97b279b8e",
     "97e00523af2a0ac890f0205be946c8688dfbbd72427aa6ad98d6e9a4ca4960ef",
     "0bdb63d442a8c4b3cd4d59f145c1473bdb3974d874315fc2c1acf1155b17fe3b",
     "f0d0a4e624678fa5e8f9b58ac10e42f14ffce02374452bedebe8cd7ce318d9ef",
@@ -3885,14 +3920,7 @@
     "cd2fc91ab7247d7363a8244f6393952049acfc261b325bc18efef3425983215b",
     "249651968488a375113d8249f3e6a0b1144d22510e48649c816458a8beea8565",
     "f44e1305aafb1c37dbc2ddbf9efb580b58a1f7a001312870855411a4c836b7c0",
-    "a9e9b40c9e79890a4195cbf8ebd2f3f8e374c344c8ea20e81fe42d7f80d3c888",
-    "dcaaf2f0c3dcef4ef83a570eafb7d29d03e76c69834943cfd3dcfc4ff870d174",
-    "d8c97490e2dedea4c996d93054cbed39bbd8d8ed4b3a873de1876ec66930c113",
-    "3f567b7629de4bd0fe68e8bb05480c6900f6351f934cee2a6d7583174abf84d9",
-    "cfc91e65b865bc1ad683f20485c4432bfae49b59fd12679c34c94ac4f08874b8",
-    "ff6e59837386089bc2e1b9125cd5b604a3f8a59125f6e5145ff24051cf58c4ee",
-    "003f88065a4fed436717941004852939a13326e2b67d00fe82766e00124cbc36",
-    "219c8ab26caa7a7f8d7e984c0917aa5006e5ef1399fd195cc7f5ea9d4cf32005"
+    "a9e9b40c9e79890a4195cbf8ebd2f3f8e374c344c8ea20e81fe42d7f80d3c888"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
