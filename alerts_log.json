@@ -5146,6 +5146,11 @@
     "EURUSD": -0.1226,
     "XAUUSD": -0.6926,
     "BTCUSD": -0.0043
+   },
+   "60": {
+    "EURUSD": -0.1893,
+    "XAUUSD": -0.736,
+    "BTCUSD": 0.0799
    }
   },
   "checks_base": "published"
@@ -5243,5 +5248,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "What are the key levels in play for the US dollar after the hotter than expected CPI",
+  "link": "https://investinglive.com/technical-analysis/what-are-the-key-levels-in-play-for-the-us-dollar-after-the-hotter-than-expected-cpi/",
+  "published_at": "2026-10-14T13:34:14+00:00",
+  "sent_at": "2026-10-14T13:40:51.794049+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
