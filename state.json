@@ -566,7 +566,7 @@
   "calendar_fetched_at": "2026-10-14T21:10:43.696454+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 248,
+    "count": 249,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2943,6 +2943,24 @@
         "upends",
         "wrap"
       ]
+    },
+    {
+      "at": "2026-10-14T21:40:51.127146+00:00",
+      "w": [
+        "beige",
+        "book",
+        "calls",
+        "catch",
+        "cpi",
+        "diesel",
+        "discouraging",
+        "fed",
+        "flags",
+        "fuelled",
+        "goolsbee",
+        "pressure",
+        "price"
+      ]
     }
   ],
   "resolved_events": [
@@ -2950,6 +2968,11 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "f76f6f57a3fea050cb1b49ce6996c41f6cd89564e830bf0a2655fcc2d032621f",
+    "a205ce0cfb59e5d83696645b898fd6ab11ad8138a17cf67ae9a8b7ddf59f5313",
+    "f73c893816f67b5cd22b869c18e416d428ccbb1f20ba47b8225646f53d4ca882",
+    "306fb93ba63bddbc6987761289ea3833a6e3ce35b701b6836dac2b494da92961",
+    "4162f2137042f6a4b0c5dc06d15cb111053be04005087eb8731ef7791dbcb601",
     "41c9a629a2e95c02607e4d526f66e9b49b0e5be78d8d272364d8394d65524eb7",
     "94481aea10ccbf621976ba1d0370604d102fec3bf2e7edeccd4ad8025d84713f",
     "794d17a4f6c21954600d721e981098a0a247c973a4520679909c1b339fc2b5fc",
@@ -3944,12 +3967,7 @@
     "ae60c673864b8aa048e0f84d5d6c728571fb679d595c14e9a971efa1f61c7168",
     "0c16fb4743379860539637aedef8f008fd7c7500b2e63e834f9dfc8a8d024c7e",
     "138287783e0a6735fdedd2736172b44b999b5f16e2af6e8acaa5b2033d7f2def",
-    "097a8f42958a4efb51f4e7fc678e0672d443fbbca149b6edb795e7d8fc8f434e",
-    "d5b0bdf0b28c57aa85367fbaafb0b0ddfe55fd77efda963928e453bb3d18dd33",
-    "46e65c6974f6a1306bdcd57b0e374ec267012128f08c6e01d8ed80f0630d72c1",
-    "8dd0d1940584fad338da91e293968979e6c28e745defee2fb69518c520a29d14",
-    "53eb45e833d8e5b7e9bc39c06cd6c1bf84b09c003abda7b8229cf80c66190a55",
-    "8b75ab4a098a3e5bbc85e077ba6fe73257a18318460824dcea012ab13113bf05"
+    "097a8f42958a4efb51f4e7fc678e0672d443fbbca149b6edb795e7d8fc8f434e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
