@@ -8,9 +8,10 @@
     "661b8542c343d8e7cca4eba1": 8,
     "6f5619eaf55ac0a14e0b6102": 8,
     "835833e3e832ad4ca1fe704c": 8,
+    "902edbc5b5404f8bf5eb4a67": 1,
     "d11bb0a1f3256756fb11928f": 8,
     "d16b2c4f789b78dc61bafa0e": 8,
-    "e18389dfa889070891fdfb1e": 1,
+    "e18389dfa889070891fdfb1e": 2,
     "fde5e0b2b49b56a301194e79": 8
   },
   "calendar": [
@@ -557,7 +558,7 @@
   "calendar_fetched_at": "2026-10-14T09:01:24.413601+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 38,
+    "count": 41,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2584,12 +2585,28 @@
         "rise",
         "september"
       ]
+    },
+    {
+      "at": "2026-10-14T09:46:55.260476+00:00",
+      "w": [
+        "000",
+        "ahead",
+        "bitcoin",
+        "data",
+        "inflation",
+        "live",
+        "near",
+        "tumbles",
+        "updates"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "b0bc59e5fd630167a153d2daf7c5ff07a99220e8aba064d5a4a0e2c31b26c334",
+    "33fbbc5fda9da33dd32ea222afc624e0b01799b17b4ebefe1c28c91274535191",
     "772654b20794238f210f2093617d18ac6a37effb540a3b4df46d7ba403efb4e3",
     "b996dfe3a34d4913c630370c3d71b03a686ec97e4b067d0fd8d3e520db898a7d",
     "d74ea63c0dddab0efb87a1e16a0e26d654499e2a52743a59d5041dd767f7cade",
@@ -3587,9 +3604,7 @@
     "ece41c0f166636520259f2367473185d647a6587496918945821f1bd6559a902",
     "b7431a0b002cacdb5ea8b5892c583aad76a6c763b6bc7ecab44e136f645c4cba",
     "fc145cbcaca7c75c1b81c3ca476c58e12fac21a0d1642d23d53c81c4683c9ec6",
-    "06db6e6f343679d83482b7c3a79253440cca0ac9f44bf4bbbcc74a08a2ebd6dd",
-    "2882c7225d76529d747f8060e41dbe245cd560ac66f6909de5c1f33301e8cd8e",
-    "be865717008ffa80421d06f39d48f8511c9e9a53ec1eb0dab6323de2a42fd68e"
+    "06db6e6f343679d83482b7c3a79253440cca0ac9f44bf4bbbcc74a08a2ebd6dd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

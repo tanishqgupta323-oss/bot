@@ -5076,5 +5076,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
+  "link": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+  "published_at": "2026-10-14T09:45:53+00:00",
+  "sent_at": "2026-10-14T09:46:55.260589+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
