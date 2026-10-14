@@ -5558,5 +5558,26 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Iran International",
+  "title": "Tehran signals escalation in conflict IRGC likens to a ‘world war’",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PWG1iYklCN3ZDdFl6VjhpLVRrWl9vWklrbV8yblNubkxzMm9KaWtpdDViYjdZWnhPMDdaMXBwNmY1Q0N2N3dfQkU1UkFCSXl0SEE?oc=5",
+  "published_at": "2026-10-14T17:55:04+00:00",
+  "sent_at": "2026-10-14T18:45:49.117053+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0446,
+    "XAUUSD": 0.0633,
+    "BTCUSD": -0.0984
+   }
+  },
+  "checks_base": "published"
  }
 ]
