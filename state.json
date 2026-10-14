@@ -234,6 +234,17 @@
     {
       "actual": "-",
       "currency": "USD",
+      "event_id": "6ff7659b4b0f41c292d42cfb",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "-",
+      "scheduled_at": "2026-10-14T19:00:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "FOMC Member Goolsbee Speaks"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
       "event_id": "4361a8235d9a958bd480d2fd",
       "forecast": "-",
       "impact": "LOW",
@@ -540,10 +551,10 @@
       "title": "German Buba President Nagel Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-13T23:55:37.291721+00:00",
+  "calendar_fetched_at": "2026-10-14T03:01:21.737279+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 277,
+    "count": 278,
     "day": "2026-10-13"
   },
   "recent_stories": [
@@ -2546,6 +2557,11 @@
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "8cf8fe4262e310abb866cb6c3033c20372fbe1c7fa4a2e14854a1291934af9da",
+    "57385a012e9382c8fa9fdade8df9b2af7efbfbc008875967da6556c1c19fdee7",
+    "364a3437c860ac9dc9933eb9ef255c22e86caf8f3d1a1768945a9eb4db754723",
+    "a222d85971592a69cbbf195af774fad08cb49ffaabae628abb6a9176f19b3400",
+    "4f1dad96cb279bc591ab19882d59e3660c4bbdacfb5ab2d7ae5264326ff07743",
     "567b50ba0e925901ba95dcce782eab29b3ce4afab503f630e006058b5066b52d",
     "081dd81cacf2900d2c110b7d39938ca8cf1898c245db309aafc487f35106ca66",
     "b6aaaa091babf4ba14ed0961e131b05b945701a11e4cc9c1fba812e9e713ecb3",
@@ -3540,12 +3556,7 @@
     "888b22c47e9c6e29a1e81321973d204fb23e27dc5e7b4486e4d00ce33470399a",
     "ea155e7721cccb278e969547c8ba7d95d58562d69a4e9a1c69a56f54f95dfca7",
     "ed795b6fbbe2a423fb69d95d7b8ed71f6ce63a06ef4c30e55895cb79a02bfe71",
-    "4a5338bf0bd8949d2bf2f2f5ee781a114d0a19037e62015b89ffa325f42983ff",
-    "eece6bd8490fee7a99a02fa155be776a5bc331c97f13877da55ea1eb6d491a55",
-    "3b1c56587474ccbe1cf9889e6d2a420f1af4d5e80cec6bd5c7bb13be33ad45b0",
-    "46975e901d5731856fc045d716fcb949dbc206e85380cffb4307539c65937342",
-    "f04e7508a988ecb23046957e9e2edc9dd87e7ea13a139ceff3f6c029c9fdcc73",
-    "a09d13349d478b409fe684cfd0a1965f5743cfea2547b034922407a24a68be74"
+    "4a5338bf0bd8949d2bf2f2f5ee781a114d0a19037e62015b89ffa325f42983ff"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
