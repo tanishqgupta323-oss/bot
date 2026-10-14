@@ -5,9 +5,9 @@
     "23a9bdfb5a63d7bc060105e9": 8,
     "29ce61889b8928b1b1dd55ed": 8,
     "304183b2b3207b2798be8cb9": 8,
-    "59e0835940d1fdba2950a52c": 7,
+    "59e0835940d1fdba2950a52c": 8,
     "5a3769e06a7e62a12ab771cd": 8,
-    "62fd90effb3a1981c82de2c6": 7,
+    "62fd90effb3a1981c82de2c6": 8,
     "661b8542c343d8e7cca4eba1": 8,
     "6f5619eaf55ac0a14e0b6102": 8,
     "7de87c3bd42c86c6a66f1ef1": 2,
@@ -15,7 +15,7 @@
     "902edbc5b5404f8bf5eb4a67": 8,
     "d11bb0a1f3256756fb11928f": 8,
     "d16b2c4f789b78dc61bafa0e": 8,
-    "d2fe173795bd18b78ad5b559": 7,
+    "d2fe173795bd18b78ad5b559": 8,
     "fde5e0b2b49b56a301194e79": 8
   },
   "calendar": [
@@ -562,7 +562,7 @@
   "calendar_fetched_at": "2026-10-14T12:01:26.551162+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 120,
+    "count": 124,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2661,6 +2661,17 @@
         "prices",
         "september"
       ]
+    },
+    {
+      "at": "2026-10-14T13:10:57.860490+00:00",
+      "w": [
+        "drives",
+        "inflation",
+        "iran",
+        "jumps",
+        "prices",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -2668,6 +2679,8 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "9f0a87b70e2fb7ff9eabcb45c8b7ab178c35e3f1b6b7d8a956d5d88bd5eace19",
+    "862d30dfe32ca17aa6961e8cfdcd2c8c6104f7ee0ea0d9c15cc5cd7e541da483",
     "ea25f390a2e590ee20db3c79ce09240ee73cf8293ccbf2b20ee1d9cd35eeecad",
     "a05870ca17ddc6357186cf734d7477dd660f75fdd3ad56a99556019f417f52e3",
     "044b922ed2a8439e4cc85e0f5e42215f69f5e7123157e9c075b82c1d9ccce22f",
@@ -3665,9 +3678,7 @@
     "dd9e3763356d7e9bb8d338e2dfe162939ea472c00d596d1211987b7d21fc6501",
     "ecf7967e9339ca9af5220ee8e17d46006b53e9507cf12147e52e9843a0667730",
     "457ae4a0f974315b1d1c591e055743c8a587e9c7964e8c2fec73da9bb7222066",
-    "9fa70dc868c451089b887bef43a6cfcda075defa7826b2bd68626326a7c9ddbc",
-    "53c1550d6397cfff9ee18b24ec43c7ef2e14e705b1f618171f1bc1e2367d7908",
-    "37f34ee2f47e6913d316de6bb59c5ec8da4ab7a4de3a793e1f8725c2d9cf1a21"
+    "9fa70dc868c451089b887bef43a6cfcda075defa7826b2bd68626326a7c9ddbc"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

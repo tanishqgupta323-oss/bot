@@ -5157,7 +5157,14 @@
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": -0.2224,
+    "XAUUSD": -0.4143,
+    "BTCUSD": -0.2984
+   }
+  },
+  "checks_base": "sent"
  },
  {
   "kind": "live_news",
@@ -5171,6 +5178,34 @@
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": -0.2224,
+    "XAUUSD": -0.4143,
+    "BTCUSD": -0.2984
+   }
+  },
+  "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Financial Times",
+  "title": "US inflation jumps to 3.7% as Iran war drives up prices",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTVDMnlSRThVWkxaaEY1cnpwU3VJOFZTbjA0cXYxR0l1WEcyQks5X2tIeDRSSkpsV29RU0xLZFJsTnMwNE5SdC1oWXpHdGFVY0pUOVVxenlSbDNTRVMzTlNLeENwWEFIRFl2Uk1sb1hMdVYtWVVndEw1RGpyT0tVd0ZSOWQ?oc=5",
+  "published_at": "2026-10-14T12:31:15+00:00",
+  "sent_at": "2026-10-14T13:10:57.860988+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.1337,
+    "XAUUSD": -0.8147,
+    "BTCUSD": -0.3778
+   }
+  },
+  "checks_base": "published"
  }
 ]
