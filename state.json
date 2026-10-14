@@ -562,7 +562,7 @@
   "calendar_fetched_at": "2026-10-14T15:01:29.773049+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 153,
+    "count": 154,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2802,6 +2802,19 @@
         "month",
         "touches"
       ]
+    },
+    {
+      "at": "2026-10-14T16:05:40.567745+00:00",
+      "w": [
+        "attacks",
+        "container",
+        "hormuz",
+        "iran",
+        "ship",
+        "sinks",
+        "steps",
+        "strait"
+      ]
     }
   ],
   "resolved_events": [
@@ -2809,6 +2822,8 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "4530e97cd5f525f1cf40e54a79b7be73dc23573dd61b902ef490405dc896ad38",
+    "7e1b3e2ecd044efe5f8469f32ff04cba4ab8fcc2937293458274a82326639ed8",
     "c3ebe5198e5af1ca39356474cef04d2c2051036f74dd49fd6e3a667ac4ac4570",
     "fc95fb71041f2437e019063379a5921e51f4cb51471aba96a3d8fa5f5788ab66",
     "d50e5a43045109b54a2b1eef86c7f5dba4a9d27f8a0ae593b767f413aff1bd37",
@@ -3806,9 +3821,7 @@
     "89797dafff32d0b1286ae2de57f9001054d6182336c4e3889293e616b372afd7",
     "5efa9517c33052147daac9ee34ae519053aba0855ce8ee051a7bc4457354233e",
     "8157f60642f56e5e87844b375655bf3627fc03840d5bab3c51a65b4ab2940afa",
-    "b16611d902d4d3f559a883427775c923124365492da29136cf0bd674457192bd",
-    "a7afa666f3466ac4eae2785fcb48a158a09fc87b237dd86ba066cd0c16286b53",
-    "8184683939701cc8933812847273dc98a86cba02a34ac1f42e584cd0bb6e297b"
+    "b16611d902d4d3f559a883427775c923124365492da29136cf0bd674457192bd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
