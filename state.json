@@ -562,7 +562,7 @@
   "calendar_fetched_at": "2026-10-14T12:01:26.551162+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 125,
+    "count": 126,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2672,6 +2672,21 @@
         "prices",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-14T13:20:55.503110+00:00",
+      "w": [
+        "again",
+        "attacks",
+        "crash",
+        "flows",
+        "hormuz",
+        "iran",
+        "oil",
+        "soar",
+        "steps",
+        "surveillance"
+      ]
     }
   ],
   "resolved_events": [
@@ -2679,6 +2694,11 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "3a5a7e3ef0eedb51f4af8c15134e3b3dcb8e2461a0212fde9effeaa9e2f42397",
+    "fdadce39339e52e54e8db5cf919b3861d3e6ebd9c83eaebcf15b17768b4cfd6c",
+    "e6aeabb1acdf411f5c8643c43d408de216937470e7b6f05d028d5a1bb11fbb19",
+    "d58e50e288c9c68e4555abe13c586115cb17db3b4809aa6c6c02e5b6c7e92da8",
+    "dd9e3763356d7e9bb8d338e2dfe162939ea472c00d596d1211987b7d21fc6501",
     "f7707d7bc3f705c63bb56bee15f10259a5caac2e562121cd2dd6fe653ab7f96c",
     "7b943684e171e7cabe6e02b590d9d341b2f93027c10c97fd2f1e639cc6ced488",
     "f0d8d069a469d611922c12e0ecba7cfffbcaebebeb7fca743f9730a6988c6435",
@@ -3673,12 +3693,7 @@
     "413d0c371c65456800fe784cd72e06f52595280471e3cd4ec9b9f560de6d8af0",
     "650e7c42e68512d23a654c3a0f2ec530e00d152388414cb7579501695051c8b6",
     "37ad285fb81373ec2138b16764445b6186c0de6bbb860ac4d3180a2a40490945",
-    "2ff7496bb1398d907566a4bb8db6f32d277efa832f18c1867c24ece404e142f9",
-    "d61f8614464408de8450656c959d82526c7545a09b3654ca70885ee8b2b8c9ae",
-    "01ed7ae3c1a45c1b3d0cf3fc17d755d8d943f4b7d9c8591b8f23f2eaea4a5e43",
-    "d694e8764bb852b8e8352de29e7d9bb93a0614924db4ebe780173772c0311fd1",
-    "376f1387a8e2210d7c037f939c8e51505c0c8a393cdcfba610f571089d4bf1d6",
-    "39dabbbc323c3a784ee0474bfa12545b12bd82ecbc4d480164fe8a28410b401c"
+    "2ff7496bb1398d907566a4bb8db6f32d277efa832f18c1867c24ece404e142f9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
