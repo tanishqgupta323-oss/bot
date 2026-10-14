@@ -12,7 +12,6 @@
     "902edbc5b5404f8bf5eb4a67": 8,
     "d11bb0a1f3256756fb11928f": 8,
     "d16b2c4f789b78dc61bafa0e": 8,
-    "e18389dfa889070891fdfb1e": 8,
     "fde5e0b2b49b56a301194e79": 8
   },
   "calendar": [
@@ -140,11 +139,11 @@
     {
       "actual": "-",
       "currency": "EUR",
-      "event_id": "e18389dfa889070891fdfb1e",
+      "event_id": "d317c389d119c70878c4fe51",
       "forecast": "-",
       "impact": "LOW",
       "previous": "3.80|1.6",
-      "scheduled_at": "2026-10-14T09:34:00+00:00",
+      "scheduled_at": "2026-10-14T09:38:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "German 30-y Bond Auction"
     },
@@ -556,10 +555,10 @@
       "title": "German Buba President Nagel Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-14T09:01:24.413601+00:00",
+  "calendar_fetched_at": "2026-10-14T12:01:26.551162+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 83,
+    "count": 84,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2606,6 +2605,18 @@
     "06192b3fb85c88ddb5cde134"
   ],
   "seen_headlines": [
+    "1708c0ba9964c01e6d003958b713da162c4a0a9c4b8351e2ee290db870facf8c",
+    "03b19eb02b9e1f0e42707e59e5308f07497b845345c53a828afc7acaa2020b2e",
+    "f8d694ca755bb94b24ec82354c73fdf156c6c9b219b8287465305338dac02499",
+    "bc5d2ea4f6d9f57913147a7ba34b4d623d9249181094a5c423abeaa56517a8f5",
+    "2595f2df19e44d448288ee612fec32cc24ed69e7f82edd6620d6e6e1bf0e1cf8",
+    "6e93c068041697ed63b38a32134caeb0a832d1f8c9e7ee670d0cb38a2632557d",
+    "4e226c872eec86f51f6678a035d16a0d341e5baab89634b769aa9b973d9eca07",
+    "b64112e8327da3e95b5039d1592cf6e0efe8fcb285fffc57d8a045c60c88ecaa",
+    "01127cf6c9065f8dad8ba0c2a08b8cc35912b2ce4c8945f403d48900a8cfe558",
+    "51b7a6cd9b3932dd03e748edc1e940524adc5659eee87e4b682bf1d0947b55ea",
+    "1062afda2ccc9524bab2546633e34ab2f7fb95ac719688019cf7d7d13772ab04",
+    "6fc7031ff7008ca2c3ba7a27d13a016449e884b83dfb2855cd038103f882adce",
     "4f29524bd59bbaa06cf47250323528eac8271d53ae4805e093558c5796d8e9b2",
     "614b112775500d3ed929a0e2849923ef4744901a3be1c5f925252c7af4d5819c",
     "ad54e5ebbe001c4d50995483a171625eceb17a36a56fe064f9aed0d29ae9c4ce",
@@ -3593,19 +3604,7 @@
     "d63d1faed9567982c4bd19c053f2b17acc074795dc5995a054850488910dd829",
     "d79593990f0e6770fa69ca611b53ec955d5ccd30f17dfcf7587aaf0a5daae743",
     "dd9e9ba071be0c9f5c0f6bdb266a55de4796b356a3b0799edcaeefa9b7c49462",
-    "726fec4a7a4ac3ea08946f32fbb0de2ce50303840509f6ffa4c92e7ed374bd4a",
-    "759b6b84338b11266f8e6d2321de64e4e7fedc32a5149779ea9d2924a0b28bea",
-    "7fbced88d8ff14f063364d89b18fc4590615d24d290128f8ee2dda7d0218acd5",
-    "dbf6529fb91c35cc1cb3e27fc9f92f0a4dd9fa42f27f8df74334601a0ab61742",
-    "0e7dfede0fab9ca9086f0852a16844fa628dac8102851417c4f9dde875caa346",
-    "1715c74b32d20b7cfafda6b19c975e02da6f5104d881834f8d1517e6356b6ada",
-    "930a5a2e01f2174d7abd03d185879230db38acbc00d6ed023bc9ea810caaf430",
-    "29180d4906fbc4fa657239e2bea91df2cb850cd597219d54e0580b5ea5d1abc5",
-    "19a3554ad8fc9a7382862fce1a18c7ff82d89620abb8305e8172b990e6fe1984",
-    "e8ede3696ad5441d93431218e2fbd718fc0b9a311d38bd119b23c5687cb5ee4e",
-    "c52a257d85d2dbe8ced9c2b10d93065591af10b5c5fd103d9b4725931caf5702",
-    "7cb8a9557366573392fd9d0f6b6b8c2ac9db76518d1b95b667f8ec1f40b8021f",
-    "27572016cc11d83cef19cc841b3e4d973d7a9a30888f5b3db7d0806dbe5271bf"
+    "726fec4a7a4ac3ea08946f32fbb0de2ce50303840509f6ffa4c92e7ed374bd4a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
@@ -3614,7 +3613,11 @@
     "62fd90effb3a1981c82de2c6:60",
     "d2fe173795bd18b78ad5b559:60",
     "59e0835940d1fdba2950a52c:60",
-    "7de87c3bd42c86c6a66f1ef1:60"
+    "7de87c3bd42c86c6a66f1ef1:60",
+    "62fd90effb3a1981c82de2c6:30",
+    "d2fe173795bd18b78ad5b559:30",
+    "59e0835940d1fdba2950a52c:30",
+    "7de87c3bd42c86c6a66f1ef1:30"
   ],
   "version": 2
 }
