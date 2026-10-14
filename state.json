@@ -566,7 +566,7 @@
   "calendar_fetched_at": "2026-10-14T21:10:43.696454+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 249,
+    "count": 250,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -2961,6 +2961,19 @@
         "pressure",
         "price"
       ]
+    },
+    {
+      "at": "2026-10-14T21:45:49.417376+00:00",
+      "w": [
+        "daly",
+        "exclusive",
+        "fed",
+        "hikes",
+        "likely",
+        "needed",
+        "rate",
+        "urgently"
+      ]
     }
   ],
   "resolved_events": [
@@ -2968,6 +2981,16 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "bce89a30645b88508b763bb2e9a6f222b9f136719be64610cee90eafadcb05c4",
+    "3c77c232865d12ab1b2d722c9827a017c555b29efdf77f47cbafd8e9f4ae29d2",
+    "671793bd56fb12e67c05fd76ff30685dd7df50e12aeaf5e5436f0089f5f02322",
+    "f8f66197b4cc26d86a4fd0c2ac300b8c0e5ac02fe6c6749cbd53fcf3d7a9b0b5",
+    "5f8df1f2d3997028f52c54648e2fb3dc1112cc7d36d671548fe9db5b57964e09",
+    "c3f55ff1285905008141dffea081c432bf7eb650dbe9929566cd479706593609",
+    "db65ab7039fd1853319e98dd4841efe8ba68ce11c66d5ec403eee0274ed791a3",
+    "f7391d182afbd29e927648414dbe8812625f7b876787277c9340c2af9c3d9aea",
+    "25ae1fa78fbf7bfca45a15ebf9a310786d1c612f1615ef2257bcac9c3b3d08eb",
+    "6cbab79bd8c6aaad910f0ebf32c83a958f20682d65aecbb65ace8d483e719a6c",
     "f76f6f57a3fea050cb1b49ce6996c41f6cd89564e830bf0a2655fcc2d032621f",
     "a205ce0cfb59e5d83696645b898fd6ab11ad8138a17cf67ae9a8b7ddf59f5313",
     "f73c893816f67b5cd22b869c18e416d428ccbb1f20ba47b8225646f53d4ca882",
@@ -3957,17 +3980,7 @@
     "32ba5f954827fd379aadfb54d49b1bd9e147d89bedd71d49f0d75364dcd20eee",
     "b2136b70a47a17ce0c37daa5fe670876b6fe3baa1600b4e66e06fccfdb7b003b",
     "b13e97512afe33189375685d111ad5c96e31112f88feff4cb3f80e991f636201",
-    "de97ced08dac65661e7096430483ce6fec94f35fa933cccdb53b67310f1dc8f8",
-    "7972de6c0c6455dbfddcab969db6d1a88d075fd19456fbe1df12c77abb91598c",
-    "5dce8d205560258a3e31c96cb33ce63a8c4ed6d3113e8d4ed9a6e53fce03f9b5",
-    "1d4e2ef0a0fea3bd4c88fd65a0c052e135c31b0d625e55d8bd477428d78dbe74",
-    "447707134eaf9cd7a7e7e389a36f3971726b9cc7cc906a995970e0c095dab8f9",
-    "83276f0a9499b6578b41bc0a162bb6d3d8a6301eb28e894d9acfcbea238dd468",
-    "2005a6bf3f6ebdce2a26d9d90490680510306862d89ff2e62e8d862883b78cd0",
-    "ae60c673864b8aa048e0f84d5d6c728571fb679d595c14e9a971efa1f61c7168",
-    "0c16fb4743379860539637aedef8f008fd7c7500b2e63e834f9dfc8a8d024c7e",
-    "138287783e0a6735fdedd2736172b44b999b5f16e2af6e8acaa5b2033d7f2def",
-    "097a8f42958a4efb51f4e7fc678e0672d443fbbca149b6edb795e7d8fc8f434e"
+    "de97ced08dac65661e7096430483ce6fec94f35fa933cccdb53b67310f1dc8f8"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
