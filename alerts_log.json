@@ -5544,5 +5544,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Fed survey shows price pressures intensifying amid rise in fuel costs",
+  "link": "https://www.investing.com/news/economy-news/fed-survey-shows-price-pressures-intensifying-amid-rise-in-fuel-costs-4949866",
+  "published_at": null,
+  "sent_at": "2026-10-14T18:31:17.090198+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
