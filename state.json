@@ -567,7 +567,7 @@
   "calendar_fetched_at": "2026-10-15T03:10:47.474814+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 324,
+    "count": 325,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -3193,6 +3193,20 @@
         "sources",
         "using"
       ]
+    },
+    {
+      "at": "2026-10-15T04:31:05.438009+00:00",
+      "w": [
+        "bets",
+        "billion",
+        "bitcoin",
+        "crypto",
+        "ether",
+        "liquidated",
+        "nearly",
+        "slide",
+        "xrp"
+      ]
     }
   ],
   "resolved_events": [
@@ -3200,6 +3214,14 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "3a54fb3b4278826dc6f4354fc38e2fbb46e8fc14bcd71d206128696125e3f757",
+    "e316761bc37027f4b35396140df32ce460a539b33600d3d0176ef0e8d539032a",
+    "c5091c0869a64c2ab57a8ad8d499e4e37ffd5b6d2338015d7d843102f624e3ef",
+    "8c2546f7bd182d877d86ad61ffaca7d5bc65032ee8cc117e11952bcc64fa8306",
+    "543e5e225f8f8d2e380413411aff80698bc675f6fdffcdb612a180f92cda97aa",
+    "3b311a23840f94e21741d1753bb544bc3f7b7ad49833cf541511d1f94ab0201b",
+    "7027bd7395314ab6f0f792ccc5c2ee1ea986a6573748a2ee1aa58b0447a27d8b",
+    "0313bacacb5c861be7d979debfe5259a4c2a6278f48b9f12dd63d011d4fd8aea",
     "e0989c17504ad4075f87b1df7fd403766e785489e63818919ead1ad580dfb193",
     "4fdea01f56f06b69da73a0c2b4f79bb8de4232ba8a2b53eaf50d47f28371bc6c",
     "e3ef192a526cc0aad9c9aa7a953a530ecb32bc8497116d6d3678a4a2f0bd639a",
@@ -4191,15 +4213,7 @@
     "904b28aa2feaf82ed225addb9dd62dba03ccc916df7663eb4b1172c8f37b9b20",
     "18d2d2b4955b99cebd9732aefabdf4f199f62f3468133f7335428924865892d1",
     "1d7a425bc785781c7c26e9493cdf89d44c331525594c641e9ca731561963db18",
-    "a900e69a3b07925b5346be163b90e98d68c8f1fbd8b6a85a3831c6459f53b079",
-    "fe9dfe70e7d262d60546f2e81587cf9cf0de723d35714c54a86bfeb454ede430",
-    "6a1937382eae1c7a71eb81a846cc6dbe038fecb2482e85deff76148d82e399af",
-    "cf54573398b5ca8430eb3f22c9e9c6c72829bdc6a16400be44b98e49a1f47624",
-    "2299ceacbdf8167925390f50040c48ead238a7ed18fb6367bec5fe89409d6790",
-    "aafd64bdf22755b4d34c97adba41df62a130d9dce91fd04c8969ff4601b7b92c",
-    "25cadcbd1ef6e4cb48b6ca9016217d8e74c4f32a4ca26ff1b7996b5842058b38",
-    "7b086483bd34ed59d9c1af0fd717f7c64db35d5e7b05d9b593af93f371c4b76d",
-    "0927ab2dd5dcbfbc45ac51c57e139a050181b2d5f8e6d93785cf0b7a66a41d68"
+    "a900e69a3b07925b5346be163b90e98d68c8f1fbd8b6a85a3831c6459f53b079"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
