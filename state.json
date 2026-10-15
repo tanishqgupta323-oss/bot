@@ -579,25 +579,10 @@
   "calendar_fetched_at": "2026-10-15T21:31:07.964766+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 254,
+    "count": 255,
     "day": "2026-10-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-09T22:31:03.787178+00:00",
-      "w": [
-        "accuses",
-        "deal",
-        "end",
-        "oil",
-        "smokescreen",
-        "talks",
-        "trump",
-        "ukraine",
-        "war",
-        "zelenskyy"
-      ]
-    },
     {
       "at": "2026-10-09T22:31:03.787178+00:00",
       "w": [
@@ -3411,6 +3396,19 @@
         "republicans",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-15T22:01:28.525129+00:00",
+      "w": [
+        "deterioration",
+        "expectations",
+        "fed",
+        "hammack",
+        "inflation",
+        "require",
+        "response",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3425,6 +3423,15 @@
     "bcd7a6abb4b29265dd529402"
   ],
   "seen_headlines": [
+    "2d37dc5374739aa353a8a2a3a4b8cc062c3f9081edfc49311f9dfdaac8f8d29a",
+    "1392925142af2a3be66fb2de78f66ca9bb4dc13ee320890c57421cd651cf331b",
+    "dcb9a5f8c4419c66975899bbe710da9a05498212e666059ae21776da0276a990",
+    "465b429e75f33f6434201757e637165811d9bf0c1ffe530ecea8669ac637dc3a",
+    "d1115b9612bd78926c6098f3344d81a88530c836e544b7d4da62933fcb8bead7",
+    "eac4e8369171404de02a373b12c0f7e9876d01e42b85a7e7b11842f338541966",
+    "8b0bf931080efb106adb29f7a311230d3b4368319fbc480d62bd4309fedeec26",
+    "9546e251ae4e1e826ccaa4f154ef8144b10c82d43a18cebf24d6f89ea486d1e4",
+    "d3faa44dc275a4e6885e29b4ed8595136ad585a2185a20f04e4df5948374f6c4",
     "ca1ea5aa66a73fceb3db04270bce9791589629ef8254e7202bc802ca5874da68",
     "ac3dbe8144c5afeef021247dad69639bd527b8abc9500934f0cdda00d9dafd15",
     "0aefd1b91fddb04526e06a4954ccd00713f8072a0c752b6f5c881ba8ece8261f",
@@ -4415,16 +4422,7 @@
     "d091a4e31268e066e9b808881d1a1e251d6d0cb728a0db486f01b4a22e6d570b",
     "3d9d6803feaa4916cc91a1cabd8ce1e9e15106a2035190f215563972ba02d266",
     "eb0c0cda68e68c80505be78e1eb173a0c46931bfad2b82c46f115450d1f68369",
-    "f29dd2e204eb3079a2cd35b7ae43272cb00c777304f1be1e6bf5fa82c567022d",
-    "514d2dee55ed82d4aaa0316fb7b3a308e04434521bdc3f9ece1dba5cf4bdd95e",
-    "448e17903688647b598b9b81b170d6e2dfb3f52438d8d24e473fee682612bf5a",
-    "3480fa64382d812edf6165461762f136617c2cdc4a26b72c5229db6a228809df",
-    "1aa85569ba3810ad560d38e774321d45971a50f0bcbba16eb7c5c2462f2d3b7a",
-    "9d345a08ead738904a2c2036a22bc161a4c6acad9e21e7c8543cc7695c5ee581",
-    "749bb50ba65300055452dcc83930d8dd15a39e7874ef48cb34ccfde3b09f30e9",
-    "78d400f0eb0b10f5bfa384500e4024e6b3ee87efe19f950efcc4931002f03f7f",
-    "050b545701384808919b4a74b69d38813f05c3e16173ef04456b4d69917088fc",
-    "161088e0cd5e386de6defca39ac2145566a615b491b44a453ad0387303ea06b8"
+    "f29dd2e204eb3079a2cd35b7ae43272cb00c777304f1be1e6bf5fa82c567022d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
