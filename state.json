@@ -570,23 +570,10 @@
   "calendar_fetched_at": "2026-10-15T09:15:45.013747+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 78,
+    "count": 79,
     "day": "2026-10-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-09T19:05:35.442738+00:00",
-      "w": [
-        "announces",
-        "committee",
-        "cook",
-        "fed",
-        "governor",
-        "investigation",
-        "lisa",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-09T19:20:46.039868+00:00",
       "w": [
@@ -3410,6 +3397,20 @@
         "september",
         "sharply"
       ]
+    },
+    {
+      "at": "2026-10-15T12:15:47.054740+00:00",
+      "w": [
+        "deliberate",
+        "gulf",
+        "iran",
+        "persian",
+        "power",
+        "reuters",
+        "strikes",
+        "water",
+        "were"
+      ]
     }
   ],
   "resolved_events": [
@@ -3417,6 +3418,7 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "088f1d6ad8ba802d537fe85958d7b4b0dfe827979f9354c5c8eb9e37e0606b94",
     "36320c6a50c4053b191f9d97a3d23ce80a28184203be05fa6b95ed25411b21f1",
     "4fa57b5c308591cb4d45d156515e2cf384090a33cf65eb70b96858ad2ce059e0",
     "302c732fb137696fb1cd04cae12af6b0d2ee51cc13b094a5f4c690208acb42d2",
@@ -4415,8 +4417,7 @@
     "4e296603b3ed7c692ae9e03ca67fe3b36288900e6a5745c21406204f812ff2ad",
     "4a8c964af8a5b9214d490f2bc037c86a90d0fa492f65a5568e3e66d95d73aa73",
     "57274569e29f9d32e85da3bda6c34b7fda20ccba535fa94221cfa824cfe0306b",
-    "2ec147e254079c0512dfd81015aa99b88e830b1f2b66718254c1aa94faeec744",
-    "7f12806de470755ef2e86d0b673d3640052c356762f46353d254c07f911e9d84"
+    "2ec147e254079c0512dfd81015aa99b88e830b1f2b66718254c1aa94faeec744"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -6546,5 +6546,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Iran International",
+  "title": "Iran’s strikes on Persian Gulf water and power were deliberate - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6VWdjRTNGdG1pc3RtcXNqSjFiLTdsMnJZYXRaVXVxOEl3VXFIeUhUVjVMSGtJRVlfNjEydHBLU0NKbnBhQXNpQ0F6b0VxWUpFR2c?oc=5",
+  "published_at": "2026-10-15T11:39:50+00:00",
+  "sent_at": "2026-10-15T12:15:47.054901+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0112,
+    "XAUUSD": -0.0455,
+    "BTCUSD": -0.1218
+   }
+  },
+  "checks_base": "published"
  }
 ]
