@@ -6371,5 +6371,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Bitcoin sinks after the US CPI as markets get increasingly worried about the growth outlook",
+  "link": "https://investinglive.com/cryptocurrency/bitcoin-sinks-after-the-us-cpi-as-markets-get-increasingly-worried-about-the-growth-outlook/",
+  "published_at": "2026-10-15T09:13:22+00:00",
+  "sent_at": "2026-10-15T09:15:48.117336+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
