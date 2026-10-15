@@ -6574,5 +6574,33 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "U.S. producer prices rise by 1.3% month-on-month in September",
+  "link": "https://www.investing.com/news/economic-indicators/us-producer-prices-rise-by-13-monthonmonth-in-september-4951667",
+  "published_at": null,
+  "sent_at": "2026-10-15T12:41:00.051175+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "PPI surges as inflation concerns grow, exceeding forecasts",
+  "link": "https://www.investing.com/news/economic-indicators/ppi-surges-as-inflation-concerns-grow-exceeding-forecasts-93CH-4951662",
+  "published_at": null,
+  "sent_at": "2026-10-15T12:41:00.789674+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
