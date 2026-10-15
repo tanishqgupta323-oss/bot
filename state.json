@@ -567,7 +567,7 @@
   "calendar_fetched_at": "2026-10-15T03:10:47.474814+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 326,
+    "count": 327,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -3207,6 +3207,21 @@
         "slide",
         "xrp"
       ]
+    },
+    {
+      "at": "2026-10-15T04:40:49.832638+00:00",
+      "w": [
+        "attacks",
+        "cargo",
+        "hormuz",
+        "iran",
+        "midterms",
+        "ramps",
+        "run",
+        "ships",
+        "strait",
+        "sunk"
+      ]
     }
   ],
   "resolved_events": [
@@ -3214,6 +3229,8 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "ef94f5ec23c8af38886fb71b79c6984a4fc978f6466bcf7f37bf1f71bab0041c",
+    "58c1d8549be5f3a0be07367eef0676a08c3e71b9003b1ea59bc70ccad496d43e",
     "21efce3d603414d7c32bebf2f4c11b3bfcb8efb7d395bd13f508e36ffc270cff",
     "0927ab2dd5dcbfbc45ac51c57e139a050181b2d5f8e6d93785cf0b7a66a41d68",
     "3a54fb3b4278826dc6f4354fc38e2fbb46e8fc14bcd71d206128696125e3f757",
@@ -4211,9 +4228,7 @@
     "a3ec47b35cc4188a7508262d8f664ba8bce040a5aaaea2aa81a34781ce4fe664",
     "bd90dea4928df0b79b5af4ef03eb93f8b69d114b46b43be61bf30d9ea5372856",
     "52f3975d44adcc6c02fc5f173e3bca69ef250d70cbdbcef852c53fce97cf34ef",
-    "836015be43de62f486e05971bdf6ec014046cc24c01c4dd887b9d894dca1e6b2",
-    "904b28aa2feaf82ed225addb9dd62dba03ccc916df7663eb4b1172c8f37b9b20",
-    "18d2d2b4955b99cebd9732aefabdf4f199f62f3468133f7335428924865892d1"
+    "836015be43de62f486e05971bdf6ec014046cc24c01c4dd887b9d894dca1e6b2"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
