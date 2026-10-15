@@ -6200,5 +6200,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "i24NEWS",
+  "title": "Iran Fears Imminent US Attack Amid ‘warlike Atmosphere’ In Tehran",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFBtbmxPaFJMRlYzZmItVXRLZHZVX01zc0pkLWhoNmZxZHlGLTFhVW1ZRDAxMWJTRWVONHZSY1pNWEsydU9UUEtEWWJpMkhIbU9pQUk3bGZrdkVzZV9Nb2NFcURxQ0FfVC1yLXowckZtWnQ4Nm13YndFSDRFdEg1cGJJTkJMdjdjY09Sd1IxcTBDc0k5SUp0VGhpNUdDNGVJUmxjc3pGYkJFVDFDdnN0RW5LMDlsdmlSWlpBRmhhNkg1TlY4TXo0MmpNTQ?oc=5",
+  "published_at": "2026-10-15T03:46:00+00:00",
+  "sent_at": "2026-10-15T04:55:40.333566+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0337,
+    "XAUUSD": -0.0911,
+    "BTCUSD": 0.0995
+   },
+   "60": {
+    "EURUSD": -0.1571,
+    "XAUUSD": -0.0863,
+    "BTCUSD": 0.932
+   }
+  },
+  "checks_base": "published"
  }
 ]
