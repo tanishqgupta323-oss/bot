@@ -6345,5 +6345,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "US inflation worries aren't over yet as PPI and retail sales pose fresh risks for markets",
+  "link": "https://investinglive.com/news/us-inflation-worries-aren-t-over-yet-as-ppi-and-retail-sales-pose-fresh-risks-for-markets/",
+  "published_at": "2026-10-15T08:44:16+00:00",
+  "sent_at": "2026-10-15T08:45:49.287234+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

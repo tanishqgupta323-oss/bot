@@ -568,7 +568,7 @@
   "calendar_fetched_at": "2026-10-15T06:10:48.678826+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 22,
+    "count": 23,
     "day": "2026-10-15"
   },
   "recent_stories": [
@@ -3295,6 +3295,22 @@
         "short",
         "whipsaws"
       ]
+    },
+    {
+      "at": "2026-10-15T08:45:49.287084+00:00",
+      "w": [
+        "aren",
+        "fresh",
+        "inflation",
+        "markets",
+        "pose",
+        "ppi",
+        "retail",
+        "risks",
+        "sales",
+        "worries",
+        "yet"
+      ]
     }
   ],
   "resolved_events": [
@@ -3302,6 +3318,10 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "2daea520e4eaaf044f489e68b7b01b839229ab4003b31e76eba52254ca795733",
+    "25c5a3f0d400c07e3451a1e59a50f54aaac92190ff1ff3b6110b87268cdd74d7",
+    "397f76ab63f9da5649ad04aee5a395cd66e10d912694957f9a167a97fed73732",
+    "aabf699ad42bc998878dc4ba99890d3d9870151ee064a8ff4aeb9671d3be5ce7",
     "76700b7b479d1f0d694b331be2f853d4839da26b3704c1aa73a2330d56fdcf0c",
     "7519daf5e9d0bd62f4dfecad4713cf5b3302fefe1d9d01d5bacafd7deccf0b3d",
     "f1503269c98875eb932f2b94c59c157a52fc3c80b7f44d382c995a1267278f8e",
@@ -4297,11 +4317,7 @@
     "b91eeea466e04986507c9ad65f9d9cbe21e4f79105a7985e90c0f638fccf2dce",
     "a719e6a13e48b1c526f695b2e234df16b7e683ae12a01487b37a8c3b3168de46",
     "1605d064081008c8f1e224a9f8c157dfd7114ec608ae86cc7498c46cc8161808",
-    "60c94b134869101990596cea3c3d06a01d728010d32fc39d7e2b9f77119ebf55",
-    "eef1d4cf6912b45b91c0f329c5a7222294edc883c97f710dffc6926900febd27",
-    "f9dfd56b0101c6996ac81548bb82ba1af00c47ca4ca6568b5c1dba713dd763d6",
-    "dea03f35299c9636e7621ef31f07750a765011c6105b2b3e9e2ccd75950e7f6c",
-    "0daa5ea8261526923c5aaf6276a7fae97376314a57a617d7139da0c18fdc8862"
+    "60c94b134869101990596cea3c3d06a01d728010d32fc39d7e2b9f77119ebf55"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
