@@ -5843,7 +5843,14 @@
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": 0.0224,
+    "XAUUSD": -0.0312,
+    "BTCUSD": -0.3211
+   }
+  },
+  "checks_base": "sent"
  },
  {
   "kind": "live_news",
@@ -5856,6 +5863,20 @@
   "impact": "HIGH",
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "U.S. stock futures fall as hot inflation revives Fed hike concerns",
+  "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",
+  "published_at": null,
+  "sent_at": "2026-10-15T00:50:50.050825+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
  }
