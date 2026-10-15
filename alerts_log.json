@@ -6132,5 +6132,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNN",
+  "title": "Exclusive: US considering using ‘mother of all bombs’ against Iran, sources say",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSktNLUM1VEdiandOcDJVNzE4b2NuajZkcXAtem40MlJ4TWc3VEptSjJqQ1g0QjF5VTVXemNQUDBSdy1wYWM4eG44b05FT3ZLVi1sTUhGM3U1MEk0X3JvTzBFUlVNczJZZlZfUlcxN1NwVnQzc0ZuTEVxSkhLOE5wenBMZ2xqZw?oc=5",
+  "published_at": "2026-10-15T04:01:44+00:00",
+  "sent_at": "2026-10-15T04:20:47.571774+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0786,
+    "XAUUSD": -0.0528,
+    "BTCUSD": 0.047
+   }
+  },
+  "checks_base": "published"
  }
 ]

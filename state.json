@@ -567,7 +567,7 @@
   "calendar_fetched_at": "2026-10-15T03:10:47.474814+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 322,
+    "count": 323,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -3180,6 +3180,19 @@
         "uncertainty",
         "weighs"
       ]
+    },
+    {
+      "at": "2026-10-15T04:20:47.571583+00:00",
+      "w": [
+        "against",
+        "bombs",
+        "considering",
+        "exclusive",
+        "iran",
+        "mother",
+        "sources",
+        "using"
+      ]
     }
   ],
   "resolved_events": [
@@ -3187,6 +3200,8 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "4fdea01f56f06b69da73a0c2b4f79bb8de4232ba8a2b53eaf50d47f28371bc6c",
+    "e3ef192a526cc0aad9c9aa7a953a530ecb32bc8497116d6d3678a4a2f0bd639a",
     "751bed842837f6f71e1f169854b025122a776b0a1b289cbc61b559a89ae4dcee",
     "37acea475b188fef5b9e46ebd9e33898a2bebbca0f61834ca0793c02ff0976a8",
     "53e6e1128d90cab1e970b792b61f6b0a135325610571a8e4f228c051851281c5",
@@ -4184,9 +4199,7 @@
     "25cadcbd1ef6e4cb48b6ca9016217d8e74c4f32a4ca26ff1b7996b5842058b38",
     "7b086483bd34ed59d9c1af0fd717f7c64db35d5e7b05d9b593af93f371c4b76d",
     "0927ab2dd5dcbfbc45ac51c57e139a050181b2d5f8e6d93785cf0b7a66a41d68",
-    "2d20c6ebc7fdb2978c1f21293aab899a72d39e78c10c85a3ce7a68c1cce8ae79",
-    "e316761bc37027f4b35396140df32ce460a539b33600d3d0176ef0e8d539032a",
-    "0d6fb732ec30cca6bf93bf67662c2f523c5d65b9c519a684dfcfd6d71037fb01"
+    "2d20c6ebc7fdb2978c1f21293aab899a72d39e78c10c85a3ce7a68c1cce8ae79"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
