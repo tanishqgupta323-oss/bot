@@ -6520,5 +6520,31 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+  "link": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+  "published_at": "2026-10-14T12:33:56+00:00",
+  "sent_at": "2026-10-15T12:05:35.871858+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.1226,
+    "XAUUSD": -0.5864,
+    "BTCUSD": -0.0141
+   },
+   "60": {
+    "EURUSD": -0.1893,
+    "XAUUSD": -0.403,
+    "BTCUSD": 0.0799
+   }
+  },
+  "checks_base": "published"
  }
 ]

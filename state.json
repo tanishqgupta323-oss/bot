@@ -570,7 +570,7 @@
   "calendar_fetched_at": "2026-10-15T09:15:45.013747+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 76,
+    "count": 77,
     "day": "2026-10-15"
   },
   "recent_stories": [
@@ -3397,6 +3397,19 @@
         "next",
         "rate"
       ]
+    },
+    {
+      "at": "2026-10-15T12:05:35.871627+00:00",
+      "w": [
+        "bitcoin",
+        "comes",
+        "cpi",
+        "hot",
+        "lower",
+        "sending",
+        "september",
+        "sharply"
+      ]
     }
   ],
   "resolved_events": [
@@ -3404,6 +3417,8 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "55938deba452c8d749419197519054cda44764a6549bc911318be0a7c22de2fe",
+    "26a9696aed1751dd50e94055d11009893a3259e9099bff5c52ba01955bbd019b",
     "35a49ae24d09fb9c76e67857d958d9063b4c8bbeca8cd11136d42b45c980ca44",
     "47ee2c75acacf92f2a981bb140976bc44860983309bd5d9fb3ccd66701f1d378",
     "76544b7d1124ffabdb0230981f610884b9d0bd469279115dc11172fc29eb9983",
@@ -4401,9 +4416,7 @@
     "7f12806de470755ef2e86d0b673d3640052c356762f46353d254c07f911e9d84",
     "7bf4932c821e037af4dab9dfdc2fc5edfe9ae0eacbd1ce25373b3021ea20a038",
     "c74d9fcc06abd11d07b7239af343177873701977d6e6d2b0c35d0aa806ced394",
-    "839a886d691df54fdd66331d32cd88d315f196e1de86d983c95eb94e99cc6617",
-    "f25ad9ec5b9b441cb0da8e1e4e3f56cb3b1d649f76c57c077ab5f09e6fd77e5e",
-    "23557c8ac718d7a36286c80e7d5f8600a2649108680e47387be7bff0533da4ab"
+    "839a886d691df54fdd66331d32cd88d315f196e1de86d983c95eb94e99cc6617"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
