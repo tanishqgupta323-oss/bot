@@ -570,7 +570,7 @@
   "calendar_fetched_at": "2026-10-15T09:15:45.013747+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 75,
+    "count": 76,
     "day": "2026-10-15"
   },
   "recent_stories": [
@@ -3383,6 +3383,20 @@
         "risk",
         "sentiment"
       ]
+    },
+    {
+      "at": "2026-10-15T12:01:27.102472+00:00",
+      "w": [
+        "brokerages",
+        "december",
+        "expect",
+        "factbox",
+        "fed",
+        "hike",
+        "major",
+        "next",
+        "rate"
+      ]
     }
   ],
   "resolved_events": [
@@ -3390,6 +3404,16 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "35a49ae24d09fb9c76e67857d958d9063b4c8bbeca8cd11136d42b45c980ca44",
+    "47ee2c75acacf92f2a981bb140976bc44860983309bd5d9fb3ccd66701f1d378",
+    "76544b7d1124ffabdb0230981f610884b9d0bd469279115dc11172fc29eb9983",
+    "f6b9cdf9783f5b0f55b4072be7f65ff4e72ab0d3d10c43f15b6fa9acaa854fec",
+    "456ab11f274496221c63f540d81848bfb7337720af2df43a5d342f339d4bd8cf",
+    "362b6b1a5d258f4848099ec172593ad0b3345ffc60cd29de7b9f1014c8c94cc4",
+    "29cf0a59dcdcd1e1e1fa381111c442e38c9f7ab06c862f9b42cdd3a33944564a",
+    "c1db5dbf7bb35aa465c268a7340358ac4109658a58bc2b0e18f38e6edc40c49a",
+    "67802d72f0b50101875e122f1afcdc47cb5fc3d9f123d0899beb1470b7f9951a",
+    "2c70119f46ae6a90d52b54c1cf4f26f036f6049dba638781624c528e664c0bd3",
     "e820ddbd9851fca6199668adc8beb4cf760cd6748de3e05d68674b62ceb06d61",
     "151cc610771c1e1d30773ff1da83f972bcbbc6238df6f245622db262ef562547",
     "86594a77d598ae90fadea2cc0c30c69d8134ba4187c821dc95794631dd800aa4",
@@ -4379,17 +4403,7 @@
     "c74d9fcc06abd11d07b7239af343177873701977d6e6d2b0c35d0aa806ced394",
     "839a886d691df54fdd66331d32cd88d315f196e1de86d983c95eb94e99cc6617",
     "f25ad9ec5b9b441cb0da8e1e4e3f56cb3b1d649f76c57c077ab5f09e6fd77e5e",
-    "23557c8ac718d7a36286c80e7d5f8600a2649108680e47387be7bff0533da4ab",
-    "676183ac370c2aa732db8ef7cc7f74e963b79e3a3ccc272685c17b562ddee917",
-    "d311c9a6e6873dc2017398961f8e67504b9236742eaaf7aa439a136fabe0ff78",
-    "c8f4427fb7c3bff2c2cf4f68c8da3bd8e1b09611e8b3e52747554202023a046f",
-    "3f271dfd42c525cb4b9c7b802a81fa356794cf650c785f8621d21f94f3a7440f",
-    "91b0f8a18c487a39cc3b2e0982153307069499e1e69fddb7a477f6f12622c21a",
-    "26a9696aed1751dd50e94055d11009893a3259e9099bff5c52ba01955bbd019b",
-    "82ccc23cc286bb245f98a9079db2bc80300ef1176e60938afcf4b0f3a5be2dcb",
-    "d7be066767ff5fc20643ad69595d5562baed9742af7f10301ee85c0320b23730",
-    "5291d311e272257b6b9231e115ad8d25e4c411d812c8b7652a2dce87b8c0cae3",
-    "eeb12d885f5625d9f4f5f1de56a2bf9cfd1a06f47005244401e48a591a141300"
+    "23557c8ac718d7a36286c80e7d5f8600a2649108680e47387be7bff0533da4ab"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
@@ -4410,7 +4424,11 @@
     "85290eefb2f9f521f9e7326e:60",
     "0ec86a540ddf5ee04da67643:60",
     "ac9cf23f70e583415ba6aa4b:60",
-    "d06f3c5cc39f7dd3b65cdbb1:60"
+    "d06f3c5cc39f7dd3b65cdbb1:60",
+    "85290eefb2f9f521f9e7326e:30",
+    "0ec86a540ddf5ee04da67643:30",
+    "ac9cf23f70e583415ba6aa4b:30",
+    "d06f3c5cc39f7dd3b65cdbb1:30"
   ],
   "version": 2
 }

@@ -6506,5 +6506,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Factbox-Major brokerages expect next Fed rate hike in December",
+  "link": "https://www.investing.com/news/economy-news/factboxmajor-brokerages-expect-next-fed-rate-hike-in-december-4951431",
+  "published_at": null,
+  "sent_at": "2026-10-15T12:01:27.102666+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
