@@ -9,7 +9,7 @@
     "49a35c375ac10fe63b08e551": 8,
     "59e0835940d1fdba2950a52c": 8,
     "5a3769e06a7e62a12ab771cd": 8,
-    "5feb492dc9360b5ee1236cd9": 4,
+    "5feb492dc9360b5ee1236cd9": 5,
     "62fd90effb3a1981c82de2c6": 8,
     "661b8542c343d8e7cca4eba1": 8,
     "6f5619eaf55ac0a14e0b6102": 8,
@@ -568,7 +568,7 @@
   "calendar_fetched_at": "2026-10-15T06:10:48.678826+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 4,
+    "count": 6,
     "day": "2026-10-15"
   },
   "recent_stories": [
@@ -3261,6 +3261,23 @@
         "slides",
         "spurs"
       ]
+    },
+    {
+      "at": "2026-10-15T07:10:55.259721+00:00",
+      "w": [
+        "bombs",
+        "include",
+        "iran",
+        "largest",
+        "mother",
+        "non",
+        "nuclear",
+        "plans",
+        "potential",
+        "report",
+        "strike",
+        "weapon"
+      ]
     }
   ],
   "resolved_events": [
@@ -3268,6 +3285,16 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "6bb562d6b6a06c5d5ab7220a519634360094864a7ae35a881dde2a5f48746707",
+    "017d9069c89bfb8273d3055d8a193c59086002ea17831f80a73a471753f83cc9",
+    "8edc7ac24fd1e8359533d84d2c2c416e2325ec60ae7dd0ad39776527ac7ed938",
+    "baf082b308ca53673a15aad5bca7c8318cdcd3a45423e2a1288d4e7e17d53b12",
+    "450a4b78f8969f930c3fa84650d191530625638eec6378c6940561cfdf8855d0",
+    "5a733ab118e9ff8ff5857fd4c53e571c380bb6d0815a55482317ea21c26aa77b",
+    "ee3496cc44dc54aa2a3374d8f34264562d7b99c4f7445fbd1f2078c5d9804386",
+    "0d2434bffd3e6d39763ac1b266123be1bf5d40458ddf6092907cb359db745cc7",
+    "fdfa27a9700d1af313dae24e2053f6a59b8cb1fe23cba33e7485c4b96b229e76",
+    "d0e6a782d9990841acf1cf3913a1969088f77fd656a5c50135fab2b391e99dea",
     "99405daab6a442da30765023fb8036cf22cd67428ea17cf99ab8011846e696be",
     "9995ff4dd4020abe3f604fc97c6e6efbbfc41996d690e369c9636c22aa855248",
     "b5b54007af2534bffdf4b61ac13bd90ee72d73eacbf4ef2b65fdae6d0c45cd05",
@@ -4257,17 +4284,7 @@
     "667bb818e5287b21adc2aae23d766c30e66a15b5b2c3bfc45738ef4d2546dd74",
     "7827c4a7e1fe852926a148a86d93bc5cce89e714876e4060b12a669b884a6a21",
     "63343c4172b70b800ed95c31283ff30e543de32f81a471b7fc83156a3911dc11",
-    "4457d65de1a1284d46fffb8365dd4a8ca767dfbb2ab243b9cb26659cbc3a622f",
-    "7af8cfd9d3f3f12ce19bf86cfa8eed05cff92740bcaa63c946801c512c7d90a1",
-    "02977118fb5ec479fbe93f7393b11eb92582b2dd9e97b72f22f9f1d425324402",
-    "f4319600a0b3d95079e0a1c2c9ac3ee189a05bc00a7c213623750b65383df2ba",
-    "95ec6f2b49702629c9a6aaee6c28214d2a533cfd0581d3c9665d5d88060b2050",
-    "d362aac0bfcbb183d9dfbe1a0c9b8c5dd9415917bfda88771e6f5c8d0c3d3d84",
-    "1a8fde0d82b9cfb54f72c64393814f807e08713150318b85cd2eb64d37f924d5",
-    "9e594d1deec68583d019f0c593c150fad510e7d54fd71d0e09203ac03aae6433",
-    "39919090039328ea890e4bc4586783eaaa3b265b9612f9e6011da5bd977c3aee",
-    "ff60ee4e6e120a16bc8a5224786a854459120f84ab460113a0f57e2f693c4df3",
-    "1f4fb682b8a7270db3e46664f22986f72d7e7b492105a67c44d75828151cb3e1"
+    "4457d65de1a1284d46fffb8365dd4a8ca767dfbb2ab243b9cb26659cbc3a622f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

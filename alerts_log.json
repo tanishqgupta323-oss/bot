@@ -6290,8 +6290,39 @@
     "EURUSD": -0.0449,
     "XAUUSD": -0.0673,
     "BTCUSD": 0.4225
+   },
+   "60": {
+    "EURUSD": -0.0449,
+    "XAUUSD": 0.0337,
+    "BTCUSD": 0.4731
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Jerusalem Post",
+  "title": "'Mother of all bombs': US potential Iran strike plans include largest non-nuclear weapon - report",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVeVQzcUFKRzBJWUVWT01RMWZfeUxoajdGd2tsVXhMZVRIV2RwbVotQ0tCT3B3NE1mY1ZibUp4Z3dScmhZa0NjYW01TUtGaTY0SlFNczlRdUMzZnN6MHd5VUZ6TXM1RFhTMkE?oc=5",
+  "published_at": "2026-10-15T05:11:09+00:00",
+  "sent_at": "2026-10-15T07:10:55.259967+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0336,
+    "XAUUSD": -0.1104,
+    "BTCUSD": -0.2053
+   },
+   "60": {
+    "EURUSD": -0.0336,
+    "XAUUSD": -0.2688,
+    "BTCUSD": -0.6414
+   }
+  },
+  "checks_base": "published"
  }
 ]
