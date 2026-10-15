@@ -6688,5 +6688,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Arab Weekly",
+  "title": "US weighs ‘mother of all bombs’ despite doubts over impact on Iran",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN0syaTQ4WEFnaUp2NzJwN3pNRTdBS1pxM2dXMnVMRzM3cDZHRVdBZ3ZDaG9RcW9kcmthMk1FeTRpSWxFV3NFeFh4NWZKV3FadjlLR3gzeEJDd1NFaEZHNWxYWHZlNGY5S1VIWWNvV0dXaDhzdkk5dTNZU25qTGJhald5ZXpSelRJcEE2MQ?oc=5",
+  "published_at": "2026-10-15T09:20:20+00:00",
+  "sent_at": "2026-10-15T15:01:38.948842+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0786,
+    "XAUUSD": 0.0598,
+    "BTCUSD": -0.0161
+   },
+   "60": {
+    "EURUSD": -0.1009,
+    "XAUUSD": -0.1268,
+    "BTCUSD": -0.172
+   }
+  },
+  "checks_base": "published"
  }
 ]
