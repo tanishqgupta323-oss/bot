@@ -6524,6 +6524,11 @@
     "EURUSD": 0.0,
     "XAUUSD": 0.0888,
     "BTCUSD": 0.0807
+   },
+   "60": {
+    "EURUSD": 0.0449,
+    "XAUUSD": 0.012,
+    "BTCUSD": -0.3798
    }
   },
   "checks_base": "sent"
@@ -6621,5 +6626,47 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "US retails sales for September 0.8% MoM vs 0.3% estimate. Prior month 1.3%",
+  "link": "https://investinglive.com/news/us-retails-sales-for-september-0-8-mom-vs-1-1-last-month-0/",
+  "published_at": "2026-10-15T12:31:43+00:00",
+  "sent_at": "2026-10-15T13:06:22.184849+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.1121,
+    "XAUUSD": -0.0072,
+    "BTCUSD": 0.2857
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "US September PPI 6.3% vs 5.3% expected",
+  "link": "https://investinglive.com/news/us-september-ppi-6-3-vs-5-3-expected/",
+  "published_at": "2026-10-15T12:30:14+00:00",
+  "sent_at": "2026-10-15T13:06:22.686164+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0897,
+    "XAUUSD": 0.0456,
+    "BTCUSD": 0.0876
+   }
+  },
+  "checks_base": "published"
  }
 ]

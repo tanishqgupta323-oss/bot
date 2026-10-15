@@ -2,7 +2,7 @@
   "actual_attempts": {
     "00c5f60e0a09d16aab27b39c": 6,
     "0e4d49dde627a8093c6a42c7": 8,
-    "0ec86a540ddf5ee04da67643": 6,
+    "0ec86a540ddf5ee04da67643": 7,
     "162a0e9c1a002ca8bff6b72d": 8,
     "23a9bdfb5a63d7bc060105e9": 8,
     "29ce61889b8928b1b1dd55ed": 8,
@@ -22,7 +22,7 @@
     "71680523b87b6d21624cf200": 6,
     "7de87c3bd42c86c6a66f1ef1": 2,
     "835833e3e832ad4ca1fe704c": 8,
-    "85290eefb2f9f521f9e7326e": 6,
+    "85290eefb2f9f521f9e7326e": 7,
     "902edbc5b5404f8bf5eb4a67": 8,
     "a07b9c09b04cba566323a8af": 8,
     "a4e602b0d76e764f15750b63": 8,
@@ -577,36 +577,10 @@
   "calendar_fetched_at": "2026-10-15T12:20:45.951351+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 128,
+    "count": 136,
     "day": "2026-10-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-09T19:40:45.544030+00:00",
-      "w": [
-        "fed",
-        "hikes",
-        "musalem",
-        "needed",
-        "rate",
-        "reach",
-        "target"
-      ]
-    },
-    {
-      "at": "2026-10-09T20:10:46.098183+00:00",
-      "w": [
-        "dollar",
-        "fed",
-        "hawks",
-        "high",
-        "index",
-        "repeat",
-        "stalls",
-        "themselves",
-        "under"
-      ]
-    },
     {
       "at": "2026-10-09T20:35:40.018438+00:00",
       "w": [
@@ -3410,13 +3384,47 @@
         "ppi",
         "surges"
       ]
+    },
+    {
+      "at": "2026-10-15T13:06:22.184483+00:00",
+      "w": [
+        "estimate",
+        "mom",
+        "month",
+        "prior",
+        "retails",
+        "sales",
+        "september"
+      ]
+    },
+    {
+      "at": "2026-10-15T13:06:22.184483+00:00",
+      "w": [
+        "expected",
+        "ppi",
+        "september"
+      ]
     }
   ],
   "resolved_events": [
     "06192b3fb85c88ddb5cde134",
-    "7de87c3bd42c86c6a66f1ef1"
+    "7de87c3bd42c86c6a66f1ef1",
+    "ac9cf23f70e583415ba6aa4b",
+    "d06f3c5cc39f7dd3b65cdbb1",
+    "00c5f60e0a09d16aab27b39c",
+    "668279f7ad16aca20295920f",
+    "71680523b87b6d21624cf200"
   ],
   "seen_headlines": [
+    "a56d075472a0d4503901155c8b5d4b290fdd26bb75bc54338254c0d26cac90ee",
+    "24e90eef200a1abe488bc5201546aa44adf949c5fd025e4a7b366b8451e1c453",
+    "2dcb66053e6faa0c6deffc1e64828e9df86579075c25ae100e8d3da967b81166",
+    "08b348c1564b6dc64300e3c1091d4fd315fb307509315e3d5221069460c2a905",
+    "418e31c51481d1c7d570253720f938b0428e74bdd5c86633caf0109eac68f304",
+    "e472490aaa8bdbb68126b96c39cc1ad7d7af7cdbf3752b42aabc2dcb4a59b733",
+    "f987a7b368aca1fc4fb680c1d7b8aea4aebb41b07c0c5076d5bb7411351ebe18",
+    "b03ba9d0be0bc74159df6109932a5c80f38942bf57015ae52e66bf46426bf57a",
+    "68a42e449eb8ae5a7261db68b258242a375edb893d26c20672e0b403b459afe4",
     "6dd9f381061841b09ed278d8abbc3a42d121558e386cf6c31552a5fe6b5bc06e",
     "a9169fe90ba8699022cf16900c6de80390ca0bfac9cc7d4f90f454ac962d4521",
     "3998d7d48393a4c4a2ef78410e431ffb96fa5e86d7c50dde6db71942fb499fee",
@@ -4407,16 +4415,7 @@
     "abb19e438cce639dccbd38ec1ca68e50cf89c871ff14ad75f77911d44585ab35",
     "b982d5e166b78035b2705ca8edc6dcceff1c323950cc7975f8f5920ec22757b5",
     "2e14cae8f42b5493bbd972bcdad21120d53bb7dd63a67470ad5c917aedc08148",
-    "0ea0fe7cebad808380b08d611a6d7de402496264e455d65958b888ca9c6ad842",
-    "bc301a5f60b96ecce83eb29f6e9a3192c96ada62bbbfeb0d7f07f63efae75c28",
-    "1b8bd47054c3cba73e053d76b29463ea2de419772d1ec62ef1c620d11f5cde46",
-    "9887d0fbc7d9b4d1ae1793602ffdbe5a76ad160d8a6ac41cd32255b9fced9341",
-    "fb21804b77c07aa325d560a59ad7d43fafd1d43f0ce84dd8854496a5f7eae6dd",
-    "d0d50585e2f29eb5ae6830f275e64d5f2a32464317df89057ddbdc6337bee693",
-    "268d9f4b74830bbbf9e38aaa53633bcb74af677a2d4a101325077fb95461f001",
-    "38e463e858988a9f426b55ea57481663ba6973c2c1fd59472482801b0046df61",
-    "3a5a7e3ef0eedb51f4af8c15134e3b3dcb8e2461a0212fde9effeaa9e2f42397",
-    "fdadce39339e52e54e8db5cf919b3861d3e6ebd9c83eaebcf15b17768b4cfd6c"
+    "0ea0fe7cebad808380b08d611a6d7de402496264e455d65958b888ca9c6ad842"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
