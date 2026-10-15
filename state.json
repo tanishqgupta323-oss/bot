@@ -567,7 +567,7 @@
   "calendar_fetched_at": "2026-10-15T03:10:47.474814+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 340,
+    "count": 341,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -3245,6 +3245,21 @@
         "treasury",
         "yields"
       ]
+    },
+    {
+      "at": "2026-10-15T06:05:36.426100+00:00",
+      "w": [
+        "81k",
+        "below",
+        "bets",
+        "bitcoin",
+        "cpi",
+        "hike",
+        "hot",
+        "rate",
+        "slides",
+        "spurs"
+      ]
     }
   ],
   "resolved_events": [
@@ -3252,6 +3267,12 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "5afc791c41a00766773ac10023a463169a36c0208af0934b99e288a5d16bcf3e",
+    "1e0f9f8679620e469884f158035af225b6b375d8fb25557b6328660b760bbcfd",
+    "32801ee11f7d7750e6c461f267acb47b5955d37ae3a21dde8a1bde89b7b37173",
+    "dd4c77fef23c32221a6c6f2f54537604f31bd38b03225da9a930b114dcc44575",
+    "47bfb3dd84bd7169a552689148e4ecd3df0b008d4f90abe2df25635eacfb6ba3",
+    "77d521edfe5ede0916eadbfdea2b20dd50e6885eb1a90213477005161e4efc3e",
     "4e48ed7a0621cf7105bae9a0607b1267e68c9ca659617548256cd4c728b98c0f",
     "ba7d593964c638f65854ad867fa4534f2a6783ae02b6920120fd1b934c1c6f13",
     "91c411733b683cf764f99aff862b1a3e44d3f41bb521d888cec491bd8b16da04",
@@ -4245,13 +4266,7 @@
     "b28d519138c03db4376db4639c62c6133f5c664ca47e8e6ba939487bcf5ea5f1",
     "93a7a7a5af5eb9761adfbdc942aa7d5138db1e595793401b49167650186cf1ea",
     "edf68e2820f05366e52aa76aa0b19ec1f6b63280d9b1ce454448420e2ece8831",
-    "2efaa0155c1613237858d134e88b36d77ee2bbf9051019752fdb1e8567976926",
-    "724277b4235132a1118b5175f4fb8f388e391b3b81d62a1bf1379d843140d240",
-    "bd976d042642bc28fca4c8cc299454b14275e68d14fd83962bca1417368093e3",
-    "c9e64d88959d98e81521e41cae4f7d5e73acce9ab10576625b599027e1379921",
-    "554083b4776b0b59e2bffd0333710d5d57c3dc96580a9c4ac2d69b1ffd75e0a9",
-    "65dc38bf5905083e5fb1a652e9532b24d641ffeae10f0ba057829c5610807fbb",
-    "6075c081b957fa528c5956adfec691e7e330d39218c6423446c79137f1d4bdb2"
+    "2efaa0155c1613237858d134e88b36d77ee2bbf9051019752fdb1e8567976926"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
