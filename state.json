@@ -567,7 +567,7 @@
   "calendar_fetched_at": "2026-10-15T03:10:47.474814+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 318,
+    "count": 319,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -3167,6 +3167,19 @@
         "sinks",
         "treasury"
       ]
+    },
+    {
+      "at": "2026-10-15T04:01:24.774912+00:00",
+      "w": [
+        "000",
+        "back",
+        "below",
+        "bitcoin",
+        "fed",
+        "rate",
+        "uncertainty",
+        "weighs"
+      ]
     }
   ],
   "resolved_events": [
@@ -3174,6 +3187,8 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "65386932f158963f23d4f1b30739712c48f5406b2a940349709df0cde8d67bde",
+    "7809774f4d971a77607650b4bade0187acc644acc3b1ddf34689fc8dcce2e15c",
     "ac7e78bbb090e128ce227f7dd6b1ab0e27d58e89fee895ab51aa7333b3678f58",
     "fdd23b132b093bf1dc2ad889d22eb2169893e8344238ee305381b77e02a613d2",
     "6d6ed3e8b17d7f5c10c6030c86d1b8f722b0d7b70efd836e8879eb376884e6bc",
@@ -4171,9 +4186,7 @@
     "3e670a8aa022435bfc0b1dd8e61829ce461cd2acdaf57c2b299c1cd3ea7fab8c",
     "9b60b372da5d946c9d3803e0fea403aee7d2dbc48666d34a8ef971a210eaa52b",
     "9541a9cb316c962836ab10ef8650c811967a3e45fadb9578098e251d2dccce78",
-    "fa0941de2a9ff3084e3500c3241507226d2979b3b422b4c76638d1ee1846187c",
-    "155a071e1a41717e1ca0d8fd8f58571960392ac118feeb2c0bdecbba6c7a127d",
-    "f7425386660f12c7c0da8359586878f2156f6c65de475ead6ca82b0591a6c9db"
+    "fa0941de2a9ff3084e3500c3241507226d2979b3b422b4c76638d1ee1846187c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
