@@ -17,7 +17,7 @@
     "835833e3e832ad4ca1fe704c": 8,
     "902edbc5b5404f8bf5eb4a67": 8,
     "a07b9c09b04cba566323a8af": 8,
-    "a4e602b0d76e764f15750b63": 6,
+    "a4e602b0d76e764f15750b63": 7,
     "d11bb0a1f3256756fb11928f": 8,
     "d16b2c4f789b78dc61bafa0e": 8,
     "d2fe173795bd18b78ad5b559": 8,
@@ -567,7 +567,7 @@
   "calendar_fetched_at": "2026-10-15T03:10:47.474814+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 312,
+    "count": 314,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -3151,6 +3151,22 @@
         "stocks",
         "tumble"
       ]
+    },
+    {
+      "at": "2026-10-15T03:31:10.639458+00:00",
+      "w": [
+        "asia",
+        "dollar",
+        "gold",
+        "investinglive",
+        "lifts",
+        "market",
+        "news",
+        "pacific",
+        "rally",
+        "sinks",
+        "treasury"
+      ]
     }
   ],
   "resolved_events": [
@@ -3158,6 +3174,9 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "c6eb12205726c2c56bbf6e48c1c2a90e26da5aa83d32bb1af4f091035d338dee",
+    "a68382170c677a1259d0ab9bb8521e306d79f25cb7480fccb6be53b43b4c4763",
+    "8e652b699ac5797d2b9d37b73e8f4acd54c0cdd96ebe411e4b106f33aa7516f7",
     "ee8ebdf5f3f0a8202de5589e88880cdafc86d298a43a7c9d9622588ceb7d8479",
     "04c323e50883f4e9432985fa5e1e8ca3f6e4fbbdd08b5eeedb73686e1aa51bad",
     "1356884a2f51ab1c3f0425e7ff2ae9f162bf8dbea5a0f97e2f2485ad8142355d",
@@ -4154,10 +4173,7 @@
     "c342ee945daf00655f0e81432e97bcb6ad335b8bd228dd98d8a721e79f416b40",
     "a32ef9f380c66a2a7d713bf6ada4f115805e22a47b0d230b065f285c7aa918ba",
     "3bf11a512aab3a786178e42ce43326f3d6535e3832cf0133504abf345e7d1ca6",
-    "29b30c79814c0b3faee8933de5f83ca049bd43a944025bd510b70310651da229",
-    "ba0cea71035617a316e66d6b1c157fb29bc837083377c8b473058391b6e0cff8",
-    "c273776037574fe0e54ecec755ec9be3052f15c5fca76f7620beee1fdb9f5630",
-    "31b64b0edaa7a04c772e647d4dd23d7498e9797ad4866595c38d5b7d6ab02521"
+    "29b30c79814c0b3faee8933de5f83ca049bd43a944025bd510b70310651da229"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

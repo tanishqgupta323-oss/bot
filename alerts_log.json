@@ -6077,6 +6077,27 @@
   "eurusd": "BULLISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0449,
+    "XAUUSD": -0.0766,
+    "BTCUSD": -0.1974
+   }
+  },
+  "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
+  "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-treasury-rally-sinks-dollar-lifts-gold/",
+  "published_at": "2026-10-15T03:22:36+00:00",
+  "sent_at": "2026-10-15T03:31:10.639712+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
   "checks": {}
  }
 ]
