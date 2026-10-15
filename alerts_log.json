@@ -6324,5 +6324,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Gold whipsaws after US CPI as data falls short of bringing an October rate hike back into play",
+  "link": "https://investinglive.com/commodities/gold-whipsaws-after-us-cpi-as-data-falls-short-of-bringing-an-october-rate-hike-back-into-play/",
+  "published_at": "2026-10-15T08:03:53+00:00",
+  "sent_at": "2026-10-15T08:10:50.622341+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]

@@ -568,7 +568,7 @@
   "calendar_fetched_at": "2026-10-15T06:10:48.678826+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 19,
+    "count": 20,
     "day": "2026-10-15"
   },
   "recent_stories": [
@@ -3278,6 +3278,23 @@
         "strike",
         "weapon"
       ]
+    },
+    {
+      "at": "2026-10-15T08:10:50.622163+00:00",
+      "w": [
+        "back",
+        "bringing",
+        "cpi",
+        "data",
+        "falls",
+        "gold",
+        "hike",
+        "october",
+        "play",
+        "rate",
+        "short",
+        "whipsaws"
+      ]
     }
   ],
   "resolved_events": [
@@ -3285,6 +3302,9 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "2e9567d0234cdc2c2a8fbd665ccf69e341e27b250c223d629b363b29d067ea7a",
+    "b91646d24db8f15212b89c9569e17a9cd22520404f25ba01ffa855191d76c125",
+    "e2130935a079b5dbf6d9eddcdd74f8253ef61ced7d3afaa70e475331b403e22a",
     "63a90c3a7df4aa9e0f31c393ee90a088a35df7388ca80a14145556703b02354a",
     "2d386fcc7ed857c5523c79d56370146dbfd972ed1de3beae805463c88bc2ee3a",
     "2efaa0155c1613237858d134e88b36d77ee2bbf9051019752fdb1e8567976926",
@@ -4281,10 +4301,7 @@
     "efe8937a49af2e34f72fe98da1f3ff572431028553c56771b01412da746a00b2",
     "7aa785d7a7b5ecaa92a8823add82080389259efddcf0050f8630e12c0a4eab40",
     "fba2dfd1940df06fcefdc2686de7c4587369d91a7f45ce051e80ed6673fb6775",
-    "1c236dd1c7898a7b2e1b0414080717e02ecefa9987bddfdf9be0ef5eef978172",
-    "c5513b8d214ddd059823113bfbf423f4e9504aa0677976f5c78c12571c4c82f9",
-    "8ab3432409b0bd3904f7b59b243f87dbcc514377013c6d465c6d0dadd92a5c9c",
-    "3d1a52c69202cdd82298f5b8e5de4dfcdc0ece3c72cb3a338040d723de59ef5c"
+    "1c236dd1c7898a7b2e1b0414080717e02ecefa9987bddfdf9be0ef5eef978172"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
