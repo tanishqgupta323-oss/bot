@@ -5874,6 +5874,11 @@
     "EURUSD": 0.0,
     "XAUUSD": 0.0072,
     "BTCUSD": -0.141
+   },
+   "60": {
+    "EURUSD": 0.1458,
+    "XAUUSD": 0.1274,
+    "BTCUSD": 0.2268
    }
   },
   "checks_base": "published"
@@ -5919,5 +5924,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Gold jumps around $40 as Treasury yields retreat from post-CPI high",
+  "link": "https://investinglive.com/commodities/gold-jumps-around-40-as-treasury-yields-retreat-from-post-cpi-high/",
+  "published_at": "2026-10-15T01:40:06+00:00",
+  "sent_at": "2026-10-15T01:45:45.411798+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]

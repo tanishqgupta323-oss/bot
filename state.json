@@ -566,7 +566,7 @@
   "calendar_fetched_at": "2026-10-15T00:10:46.718759+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 290,
+    "count": 291,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -3059,6 +3059,20 @@
         "sell",
         "trades"
       ]
+    },
+    {
+      "at": "2026-10-15T01:45:45.411678+00:00",
+      "w": [
+        "around",
+        "cpi",
+        "gold",
+        "high",
+        "jumps",
+        "post",
+        "retreat",
+        "treasury",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3066,6 +3080,7 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "d66ef61f0a15d349fac57939dca4bbae8a5387c33100a5660da950a5b0cedf60",
     "662d13e217ea4656df37e540cf383c8e527c4b89c6c4605c0b8d17ae934f15b7",
     "0f6aad2f7dd2ea25813c2ed6ff52e0e5d71671be21ecb0f75b95e9222f05a189",
     "4bafe09c84522e871bef3b65615163c97e5e1623985f3527c5fb9e525f75cb6b",
@@ -4064,8 +4079,7 @@
     "d50cbd75ebb16d7dd39db499127cc7ff71445ecec4d31afd31531f67218f973f",
     "1bd7cecab4b40c826fb312361da0cdd405f6dac4911186b897c76c3e9e2b4f20",
     "04e7e747a97194075f40b12d5411aceca918d20d6839bc61ca7ad02bae11f06d",
-    "0b3b2ed9d85687beccbe3a21f08751b2971fbc188962b294c0cb9cd69df4dd4b",
-    "8d74dd8fade7b1dd5b3636a391c9cf8e27e82fc6fe49255099c104935cbb2d6c"
+    "0b3b2ed9d85687beccbe3a21f08751b2971fbc188962b294c0cb9cd69df4dd4b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
