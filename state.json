@@ -17,7 +17,7 @@
     "835833e3e832ad4ca1fe704c": 8,
     "902edbc5b5404f8bf5eb4a67": 8,
     "a07b9c09b04cba566323a8af": 8,
-    "a4e602b0d76e764f15750b63": 2,
+    "a4e602b0d76e764f15750b63": 3,
     "d11bb0a1f3256756fb11928f": 8,
     "d16b2c4f789b78dc61bafa0e": 8,
     "d2fe173795bd18b78ad5b559": 8,
@@ -564,10 +564,10 @@
       "title": "German Buba President Nagel Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-15T00:10:46.718759+00:00",
+  "calendar_fetched_at": "2026-10-15T03:10:47.474814+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 305,
+    "count": 307,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -3135,6 +3135,22 @@
         "rate",
         "slump"
       ]
+    },
+    {
+      "at": "2026-10-15T03:10:55.889368+00:00",
+      "w": [
+        "asia",
+        "chip",
+        "fears",
+        "fed",
+        "korea",
+        "kospi",
+        "rate",
+        "rout",
+        "slumps",
+        "stocks",
+        "tumble"
+      ]
     }
   ],
   "resolved_events": [
@@ -3142,6 +3158,16 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "5e947db7ce04eb6a0235329a12caf6de5c52e353b3a7a50e6b93e82cb5237d3c",
+    "92005eb0a30b6aadbe853363cc9e40835b4cca277047b2653d505200ff9e61d6",
+    "cc78bf13d17663a4bd49ca0dafb90ac7fa1e0de28a8e4f12913b09ebddb48785",
+    "33556ffca0593f153c28c75ad747cbe23b7c7ef09b9f453a47cb4e9067383519",
+    "fe7bbcde727f5193235e8bc943009919d2b49a5bcc1fa7972855769fc79722ef",
+    "cf4995169db99f1d46976d41f00f9a270639c2b6835f63bfe4dc36e155053eef",
+    "336f652db7e71023f6e078bff4f21aa14ba79d11b2b1538eb5c7587844f397b7",
+    "9852ed8ae03afe6ca9956e789226e8915c29dc7c624c7314947903d257fbe4db",
+    "46d188fe1b5bef218de6e148982b28bbf5ab0a44c54f15ba6c845416b3d0dba3",
+    "19182acd88e14bb9570488ef6a44da72e003765fdf9c055f629bc9eae027a12e",
     "9f565406e4621b54bd447a081feb143bc568109ebadd88a663f2e00b9142de35",
     "a9bbeb325d2c9039d84832e695b99bd6eeaeb4dc9fc186f8a0f0dc4063bbb937",
     "1a8c4189be8f598d44e3506e5a8dde4107820f0bbbbc72d359d01252af272883",
@@ -4131,17 +4157,7 @@
     "72289faff9964cbf97467a58b83b30fcbbb05beaac4322149e3caf869d201102",
     "fed9b3a35b1c21ce54024ae514c6046997063ebf85e8ef17434821415cdab1cb",
     "7220cec121aa1df4dc468a5146819d369a9e290c9c3a2bb2436f062b47d2d611",
-    "9fb5d4f420947b1d2a3840be78f621de1192dc072d4306b671ce127cd3ba796e",
-    "f0832716713f526171206014e7b66022a2e1c1d45b2b1d0f12881f20d19437be",
-    "162508414dcaa65098cb4ef38639262c98f2395ac1f23498b4e8bd24df7d13cc",
-    "f02dc3439730b548d4a04b48811e0474dec0a79d65e010c785ba8ce3ad489f27",
-    "2226566f31e038d72224a23721d4cbf081ee82157ad9fa7ffaf720593e66680c",
-    "15d0cc5687ba2a872abbf6180c0f2be6c3a188e078d9f9678cd71b433764eeb8",
-    "54b480800d4d981046e3315b922d4b8f53e8e82d82d09008c9bf5bfcd633a74b",
-    "447312551da4d2f0f512922bee47de837b63b676d05d2bcad18a82e303798205",
-    "e54212102bf7a88847886a9979809a77f37e1302c462cda97254767a66191d60",
-    "d71439f76cbc84099ecb9878cbaae0d5fc8e51349c7c3e6fcf23d92236d187df",
-    "a5ebf68330adf38b79c7b355b6a77530825bd45b5d2a5d80c540c704b82312d9"
+    "9fb5d4f420947b1d2a3840be78f621de1192dc072d4306b671ce127cd3ba796e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

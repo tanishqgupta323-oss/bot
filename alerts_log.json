@@ -6059,5 +6059,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Asia stocks tumble, S.Korea’s KOSPI slumps 7% on chip rout, Fed rate fears",
+  "link": "https://www.investing.com/news/stock-market-news/asia-stocks-slump-as-chip-rout-deepens-after-hotter-us-inflation-4950421",
+  "published_at": null,
+  "sent_at": "2026-10-15T03:10:55.889542+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
