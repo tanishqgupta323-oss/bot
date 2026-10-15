@@ -5963,6 +5963,27 @@
   "eurusd": "BULLISH",
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0224,
+    "XAUUSD": -0.012,
+    "BTCUSD": -0.2014
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Gold rebounds after inflation-driven selloff as Fed rate-hike bets rise",
+  "link": "https://www.investing.com/news/commodities-news/gold-rebounds-after-inflationdriven-selloff-as-fed-ratehike-bets-rise-4950379",
+  "published_at": null,
+  "sent_at": "2026-10-15T02:10:53.881998+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]

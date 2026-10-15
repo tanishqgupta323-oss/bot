@@ -566,7 +566,7 @@
   "calendar_fetched_at": "2026-10-15T00:10:46.718759+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 294,
+    "count": 295,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -3090,6 +3090,21 @@
         "retreats",
         "temper"
       ]
+    },
+    {
+      "at": "2026-10-15T02:10:53.881835+00:00",
+      "w": [
+        "bets",
+        "driven",
+        "fed",
+        "gold",
+        "hike",
+        "inflation",
+        "rate",
+        "rebounds",
+        "rise",
+        "selloff"
+      ]
     }
   ],
   "resolved_events": [
@@ -3097,6 +3112,15 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "85816a2778bac1eb492c9a98c7a4aa6608317c031d84b2bc444ba9d6003591a7",
+    "530c76eff058391af7708a13283c4fb5f1712cd39fb5a2c069a5daae0569091e",
+    "94fede8bbec4fcbd45278cbcc2ca50ab6a81c48e2ede515b060f9966d24f62dd",
+    "3ed0a2a1c96827b3dc34f598009e5c366c935548a875aea0df28bcd519f5b0ab",
+    "d8492e9beb3a91698114b639b3116cc7eb08d29a6dc7935483f50f631c41429a",
+    "0acd59929deca390f49a520c3a96dca06f201f7eff0a36b97bd704123f1b2b67",
+    "974b6ae3b4681407296bc07b351a2298c77410db4484a553b3736675230c1697",
+    "bad2dfbbe311e15b459affc54674e82bf31d1dc46dedb6d261bd99728bbb6ead",
+    "107e33a0c627b06aa7ede90e5f1eac39198bb3345ad81eef4d6aef27b7d89306",
     "7b849ec1dd42421ee67be61d55e4c558035baee730aa199dd1e5bc125d2029f1",
     "649f747afd067dedbc98b0df87941d8d6e77d467dc4dd8590fc33a79ffcda311",
     "f8b0be2e47fca5ec245cdd5fec4d1a5dbe26f8893437e76889f92e7b8dca16b5",
@@ -4087,16 +4111,7 @@
     "3083903268811b48d96088dd1273ffd43dc169b7f1eb515fa00573b21a680ca3",
     "79e0f3d4e610cc58c7c546dae753075507439af35248aedaa4e95e8f02b4f777",
     "161b8ab2392d2d5191933ddc2484b90aee1836fc001dfe2e0ea7c46af96d815c",
-    "e37658228d4354ef40f311653c1d16ccc4155ae096f8dc465b15d2d729f8e440",
-    "d3ce4ba134672beaffa6bfdda1e817e40e723e75f9b047bf0f2a50e3e3c21d3c",
-    "4ac96d3bc6ebd16f286484f652259d2fcadf5906be9b8ceae70ce8cab038508e",
-    "345d9dcaba95818836f6e32e25e237bb022b12a218a9af0200b0f98a136dc3ab",
-    "e81b2dc71c5cc613421c43c8cb4f5e0f057bb00660fccc801f369fd78f4ec964",
-    "def7db26c41302716d023a8e9d51cffff970df2f09857f6e257e30f7dcb3cfc6",
-    "4cbb30f62d45cbd1eea941140e24b34d861896fa4a7cc6bbbc0c31ee6416566e",
-    "65abeef1925b828e75ec4e2b0c3329cb638d74837f9b176e7aa95e667c6926e7",
-    "1d517d647aedd2fb36193ebf35018d4920dfa6be5b23f791389a1f5029c55b95",
-    "ae9975cda7d3a24f7eedba1fff1d65fd1a087191fd10cd222b9ada19b142073d"
+    "e37658228d4354ef40f311653c1d16ccc4155ae096f8dc465b15d2d729f8e440"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
