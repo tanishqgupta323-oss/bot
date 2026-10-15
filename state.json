@@ -566,7 +566,7 @@
   "calendar_fetched_at": "2026-10-15T00:10:46.718759+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 299,
+    "count": 300,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -3105,6 +3105,21 @@
         "rise",
         "selloff"
       ]
+    },
+    {
+      "at": "2026-10-15T02:40:48.783821+00:00",
+      "w": [
+        "000",
+        "2027",
+        "bitcoin",
+        "climbs",
+        "fed",
+        "hikes",
+        "rate",
+        "sees",
+        "toward",
+        "williams"
+      ]
     }
   ],
   "resolved_events": [
@@ -3112,6 +3127,9 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "a505b09caf510ed1c34f9f329c274015f4b5176285184e7d6ca184685896d6fd",
+    "47e301c8eb953bc5fd18c29ea72077e6f0d908d07c933b3f2df4d1bf6452bdb0",
+    "e0e30b456feec4f839ac0f3bc0ea46a1cc4658bebe96abe6396b770df4e9e744",
     "83be1f1e2e7dc9edcd21d34ad9e880cb95fcc9cb954ac5c6a0a7ebb4296a3c99",
     "d55ef5c716743f167c83bfad4d6b233600bef21830efca41f7fef25d22a22fdc",
     "e8fee483d72afb168edcd906fa47001299f63d173f51b17f7b36b165958159ea",
@@ -4108,10 +4126,7 @@
     "85cee23a3e3f923cb8f637475222fa11d8c312bf2df6dd61246eace4bb31879c",
     "308586182a1ba8b3e6b8bfe9c86af058e66d46f4f1a9a0b7201f2986b2a5042c",
     "95ff563d1f827d4304b73802e24c3a1015eb5a6641e55b612f1fbf87bb62588e",
-    "c7076be203d469889353b8c38cad9eadfbbb6a186381246ed0e94b59f3a1f36e",
-    "94489c004fbc5faeedd64a728a4eecb56200b8f70734ec7cab39d8404929f884",
-    "bd39607430d6337898ed5df3604ac8045f10b9044722e6ad98b6a67ee758c469",
-    "b9a7baf045b141bdbdaa252a36957de1d6d33938f05c23bf1ce138b8926afda5"
+    "c7076be203d469889353b8c38cad9eadfbbb6a186381246ed0e94b59f3a1f36e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
