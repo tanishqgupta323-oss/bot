@@ -5885,6 +5885,27 @@
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.1233,
+    "XAUUSD": 0.0889,
+    "BTCUSD": 0.3598
+   }
+  },
+  "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Asian markets sell off as AI trades crumble after hot US CPI data",
+  "link": "https://www.investing.com/news/economy-news/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data-4950348",
+  "published_at": null,
+  "sent_at": "2026-10-15T01:10:50.932379+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]
