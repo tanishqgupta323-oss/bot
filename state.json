@@ -578,24 +578,10 @@
   "calendar_fetched_at": "2026-10-15T15:20:50.113828+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 180,
+    "count": 182,
     "day": "2026-10-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-09T20:50:49.335161+00:00",
-      "w": [
-        "000",
-        "bitcoin",
-        "drops",
-        "iran",
-        "oil",
-        "rebounds",
-        "rules",
-        "strikes",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-09T21:25:35.173331+00:00",
       "w": [
@@ -3403,6 +3389,18 @@
         "mother",
         "weighs"
       ]
+    },
+    {
+      "at": "2026-10-15T16:05:49.014707+00:00",
+      "w": [
+        "done",
+        "economists",
+        "fed",
+        "hot",
+        "ppi",
+        "shows",
+        "work"
+      ]
     }
   ],
   "resolved_events": [
@@ -3413,9 +3411,15 @@
     "00c5f60e0a09d16aab27b39c",
     "668279f7ad16aca20295920f",
     "71680523b87b6d21624cf200",
-    "892eaeb5774dfdbafe4d87da"
+    "892eaeb5774dfdbafe4d87da",
+    "bcd7a6abb4b29265dd529402"
   ],
   "seen_headlines": [
+    "af61143462b7e901cc5490a93fb99ef4bde01f2cbb8c9b4444ac4caffa42af1e",
+    "467a4a8c83d72f3506a027b088b2da01ceafcfa6d7ad2a34290ed76aedba61f9",
+    "471181bcbd8e0b0bdad9fa210807f64bea6054d9a1ca8e001730c45a3ebeca87",
+    "48fad90b74ee1cf27956003cceca54731505f4566f3a6d8961df277f2acec792",
+    "413c8822e6ed338d459ee0ad3da46ef3044a42ab11d1eaa9622f75ac5b552506",
     "75a11afd043464ef31be9d95b3de6236dde3f7623622ffbab9e3dd0802dd869e",
     "272cb84e3db3bb96b7332e982a9bda32efd10b23051c99a6586db4e3837ae6d8",
     "af2f0929a20ea673ca1f4e043e016b3c44961b96779c41c9185fc4aff08a03e1",
@@ -4410,12 +4414,7 @@
     "90c2137eec68c627f4dfefb4c2d1f97da338db805f062cca205c9d554dd2dc15",
     "99f05e373b15bc0d038d9e0b36b25000fdb9b65f42398bbac68b514f7ceb3277",
     "79c1b998dd15c87fdcd303d72a2c9f68aa7642f4c73fe76aca8a62b9b6ae7420",
-    "f296afa6c46c53ee0343f56c09469a14f0640cae280022b81b67fb8901acf264",
-    "cd7c428313e2e192b7cb0a34f48f0e498a96c6c60790e6d323b510a7e53a4419",
-    "5e7b8f22622dc963bc41de9e48b285eeae52bf081f9e4d1a1292e95f46cbbd5d",
-    "979dce8b6c405c8cd7203ff072abdbac86c938142eedc0a129e4db0e25e5d310",
-    "349a3bf01ed95e2d17b8934aa305d83910e2697da2eebc19a1dfd65c746eaabb",
-    "a44a46762ae41ae0624332499f671c6b6da4efeb8b9a79ba100d7fbd3da88925"
+    "f296afa6c46c53ee0343f56c09469a14f0640cae280022b81b67fb8901acf264"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

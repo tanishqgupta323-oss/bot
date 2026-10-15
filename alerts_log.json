@@ -6714,5 +6714,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNBC",
+  "title": "Economists: Hot PPI shows Fed's work is not done",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb01IeGE0M04zdDFRdmFsVms0cWw5Nkx4RG9YTFdtSzNLNVc2TV9vUWZFdDhDQkNWcUJSWG5FT3NPWS1KRVpoZXp2cEhPcTdFYmFJSVVnRFBaa1plWmRJanR3YS1DYUhxNzRaSnhRcVZqYXRlc1dvTVBjM3l5RlRMNlZR0gGHAUFVX3lxTFBHU3JuM3lUd1N6Q29uclNoSTJQY09yUkpTZ0d6elZLX1dLWFNZYUlpclBTTm54cDBDZ3R2V0ZPTUtDcTZLUno4LUNjTF90S0NHZlJzbTRiY3lPVDJic1J1Zlh2NGMtb1V4azVBdmtSM2sxZHhCYmFRNnR3QkNwWjFRTDA0dVE4Yw?oc=5",
+  "published_at": "2026-10-15T15:37:59+00:00",
+  "sent_at": "2026-10-15T16:05:49.014939+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0224,
+    "XAUUSD": 0.0264,
+    "BTCUSD": 0.0896
+   }
+  },
+  "checks_base": "published"
  }
 ]
