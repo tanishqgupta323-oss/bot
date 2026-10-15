@@ -566,7 +566,7 @@
   "calendar_fetched_at": "2026-10-15T00:10:46.718759+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 300,
+    "count": 301,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -3120,6 +3120,20 @@
         "toward",
         "williams"
       ]
+    },
+    {
+      "at": "2026-10-15T02:50:50.265307+00:00",
+      "w": [
+        "concerns",
+        "cpi",
+        "fuels",
+        "futures",
+        "gold",
+        "hike",
+        "jump",
+        "rate",
+        "slump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3127,6 +3141,10 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "e2696ec562c22415571fac23687ef875fe57dd868ebddda88f71344c24f6995d",
+    "3a979de6eab5ed79a67bf8dee5ffc17cc05465d7f14e530e2ca9452b7d693543",
+    "69dd95ddf35417019c9c38068dacb81adcb3178e878a407f2c03c0dd5bafa31c",
+    "aae50134521624ff64fd380b4310fa559770d9a6e547c9f8306eff239d5f64a7",
     "a505b09caf510ed1c34f9f329c274015f4b5176285184e7d6ca184685896d6fd",
     "47e301c8eb953bc5fd18c29ea72077e6f0d908d07c933b3f2df4d1bf6452bdb0",
     "e0e30b456feec4f839ac0f3bc0ea46a1cc4658bebe96abe6396b770df4e9e744",
@@ -4122,11 +4140,7 @@
     "e712f27f5f2e479f98f0ef524e00f38efa6c3fc3d094584bf01600106d6103a8",
     "14fe106307d1a6f7b0082a0c3462552d1d9c998fb4052d8866b7950188d4c667",
     "6f6928efb3f4423bbe1068680b220f80060b55bb32e7c19a1261ccf6db1b317a",
-    "d8b0a711592f29977d41ed8bcb15cca4c1d7ff0cec7f8c96627d064f13f90930",
-    "85cee23a3e3f923cb8f637475222fa11d8c312bf2df6dd61246eace4bb31879c",
-    "308586182a1ba8b3e6b8bfe9c86af058e66d46f4f1a9a0b7201f2986b2a5042c",
-    "95ff563d1f827d4304b73802e24c3a1015eb5a6641e55b612f1fbf87bb62588e",
-    "c7076be203d469889353b8c38cad9eadfbbb6a186381246ed0e94b59f3a1f36e"
+    "d8b0a711592f29977d41ed8bcb15cca4c1d7ff0cec7f8c96627d064f13f90930"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

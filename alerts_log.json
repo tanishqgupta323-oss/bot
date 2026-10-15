@@ -6028,5 +6028,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CME Group",
+  "title": "Gold futures slump as U.S. CPI jump fuels rate hike concerns.",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTmhzQmYzMkNSdktmeGxBUG5tYmdpeHhFU2J5MXVacC1pQ0RuUVZ1NGdFck1wMGZES1FHekpGdE5TdkMtYUwwUXp4WHNBV2hHY2hTdjZxQkpkcEFNclY5MEYwMkFuNm5QWkxYaXRtRTExNlBXZTh2RnRYb21hLWdDY1NzVTUwVF95R3dwSlZ0cEVlaHVvSEREMFQtU205Qk5uRDBjbm5lZC1WdUJGSC1F?oc=5",
+  "published_at": "2026-10-15T01:14:21+00:00",
+  "sent_at": "2026-10-15T02:50:50.265491+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0224,
+    "XAUUSD": -0.0744,
+    "BTCUSD": -0.1599
+   },
+   "60": {
+    "EURUSD": 0.1348,
+    "XAUUSD": -0.0432,
+    "BTCUSD": -0.3181
+   }
+  },
+  "checks_base": "published"
  }
 ]
