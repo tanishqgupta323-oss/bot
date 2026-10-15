@@ -578,21 +578,10 @@
   "calendar_fetched_at": "2026-10-15T18:25:36.906677+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 217,
+    "count": 218,
     "day": "2026-10-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-09T21:25:35.173331+00:00",
-      "w": [
-        "escalation",
-        "fears",
-        "iran",
-        "rise",
-        "stocks",
-        "subside"
-      ]
-    },
     {
       "at": "2026-10-09T22:10:48.336838+00:00",
       "w": [
@@ -3401,6 +3390,22 @@
         "shows",
         "work"
       ]
+    },
+    {
+      "at": "2026-10-15T19:31:11.132655+00:00",
+      "w": [
+        "bombs",
+        "dubbed",
+        "house",
+        "iran",
+        "mother",
+        "plans",
+        "prepares",
+        "sources",
+        "use",
+        "weapon",
+        "white"
+      ]
     }
   ],
   "resolved_events": [
@@ -3415,6 +3420,9 @@
     "bcd7a6abb4b29265dd529402"
   ],
   "seen_headlines": [
+    "0b61beef75afef67975619ba01a9200f161452701242627eb53e999a00262cdf",
+    "d8840f12647ac5cc8e0ce552ff5eaab9e93e6733cb9ef1949bd46d08c3a0059e",
+    "d51056fa29edc3a3fa44910d434cd403dffe45f60743303b976f6eac4c511cea",
     "ad9c131af27181f9c89614fe7efc71787ea5b44c50a7e80a347ea60ab59be8e9",
     "7209da68782855013a5caffc59a7533039ce567e845357b404f501c9d61b2c20",
     "653751ac258b78fd4feca13d42fe8a87fac566d8a9ed28abe42fc8733f8c5080",
@@ -4411,10 +4419,7 @@
     "24767cff7a6a7a0e521fc45ae98a44d2af844d4cad8d2e62cb4e013297fa5d27",
     "63f7331f1159821b11555c374c1fd75683d46cf0e9b5c6c8985a8cd4a7602055",
     "cc73833ad4f6d291c30008906ebd88284c5d6f8fa4fbabe52ec106b5b93a8919",
-    "4358ad60268e3212fc9e06d115409f46171b5f678eb2cc858ad0cf32d556791f",
-    "6b5c381183f04da03ad3c1760704839632324eea810c39c61ae8d56d2ee09338",
-    "47c5badbfebfd005b60089a84edec76033a90aab2211da57c46e70055874562d",
-    "959c1b3943b58fff2a494b6078a6c285a5d349fe82fd50c58ccd5e66b9314b56"
+    "4358ad60268e3212fc9e06d115409f46171b5f678eb2cc858ad0cf32d556791f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

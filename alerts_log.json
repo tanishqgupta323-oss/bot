@@ -6740,5 +6740,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CBS News",
+  "title": "White House prepares plans to use weapon dubbed \"mother of all bombs\" on Iran, sources say",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3pWaWZIQVMwb3dLWnVMem8wZ3pJa2pmYzl2bjgtbm5rN0pidmtSQVN6YnNMODE5ZldLWndtQ2dQNFpMVkNvTGtSUHBCSW1hamV5NTNZSEtsSFRlaGdndmdJZHdPTkhTdjVRZm1lR0V3VlBxMS1maXdiUTJCdmJ2Zg?oc=5",
+  "published_at": "2026-10-15T19:20:20+00:00",
+  "sent_at": "2026-10-15T19:31:11.132843+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
