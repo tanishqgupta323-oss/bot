@@ -1,8 +1,8 @@
 {
   "actual_attempts": {
-    "00c5f60e0a09d16aab27b39c": 5,
+    "00c5f60e0a09d16aab27b39c": 6,
     "0e4d49dde627a8093c6a42c7": 8,
-    "0ec86a540ddf5ee04da67643": 5,
+    "0ec86a540ddf5ee04da67643": 6,
     "162a0e9c1a002ca8bff6b72d": 8,
     "23a9bdfb5a63d7bc060105e9": 8,
     "29ce61889b8928b1b1dd55ed": 8,
@@ -16,18 +16,18 @@
     "5feb492dc9360b5ee1236cd9": 8,
     "62fd90effb3a1981c82de2c6": 8,
     "661b8542c343d8e7cca4eba1": 8,
-    "668279f7ad16aca20295920f": 5,
+    "668279f7ad16aca20295920f": 6,
     "6f5619eaf55ac0a14e0b6102": 8,
     "6ff7659b4b0f41c292d42cfb": 8,
-    "71680523b87b6d21624cf200": 5,
+    "71680523b87b6d21624cf200": 6,
     "7de87c3bd42c86c6a66f1ef1": 2,
     "835833e3e832ad4ca1fe704c": 8,
-    "85290eefb2f9f521f9e7326e": 5,
+    "85290eefb2f9f521f9e7326e": 6,
     "902edbc5b5404f8bf5eb4a67": 8,
     "a07b9c09b04cba566323a8af": 8,
     "a4e602b0d76e764f15750b63": 8,
-    "ac9cf23f70e583415ba6aa4b": 5,
-    "d06f3c5cc39f7dd3b65cdbb1": 5,
+    "ac9cf23f70e583415ba6aa4b": 6,
+    "d06f3c5cc39f7dd3b65cdbb1": 6,
     "d11bb0a1f3256756fb11928f": 8,
     "d16b2c4f789b78dc61bafa0e": 8,
     "d2fe173795bd18b78ad5b559": 8,
@@ -577,7 +577,7 @@
   "calendar_fetched_at": "2026-10-15T12:20:45.951351+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 120,
+    "count": 128,
     "day": "2026-10-15"
   },
   "recent_stories": [
@@ -3417,6 +3417,8 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "6dd9f381061841b09ed278d8abbc3a42d121558e386cf6c31552a5fe6b5bc06e",
+    "a9169fe90ba8699022cf16900c6de80390ca0bfac9cc7d4f90f454ac962d4521",
     "3998d7d48393a4c4a2ef78410e431ffb96fa5e86d7c50dde6db71942fb499fee",
     "ac326ecf1fa34822ccc4ba9c9ec0c65cfaf82c7d94b81e0e61d7d63ded1f358c",
     "f4e20ba119d0510ce17e0cecef92aa987b1aa2b6153672f1c62606eb84fc4505",
@@ -4414,9 +4416,7 @@
     "268d9f4b74830bbbf9e38aaa53633bcb74af677a2d4a101325077fb95461f001",
     "38e463e858988a9f426b55ea57481663ba6973c2c1fd59472482801b0046df61",
     "3a5a7e3ef0eedb51f4af8c15134e3b3dcb8e2461a0212fde9effeaa9e2f42397",
-    "fdadce39339e52e54e8db5cf919b3861d3e6ebd9c83eaebcf15b17768b4cfd6c",
-    "e6aeabb1acdf411f5c8643c43d408de216937470e7b6f05d028d5a1bb11fbb19",
-    "d58e50e288c9c68e4555abe13c586115cb17db3b4809aa6c6c02e5b6c7e92da8"
+    "fdadce39339e52e54e8db5cf919b3861d3e6ebd9c83eaebcf15b17768b4cfd6c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
