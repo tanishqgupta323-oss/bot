@@ -566,7 +566,7 @@
   "calendar_fetched_at": "2026-10-15T00:10:46.718759+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 280,
+    "count": 281,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -3017,6 +3017,21 @@
         "meeting",
         "oil"
       ]
+    },
+    {
+      "at": "2026-10-15T00:45:46.450028+00:00",
+      "w": [
+        "bases",
+        "evacuation",
+        "fears",
+        "grow",
+        "iran",
+        "irgc",
+        "military",
+        "orders",
+        "reports",
+        "strike"
+      ]
     }
   ],
   "resolved_events": [
@@ -3024,6 +3039,9 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "47fd4b32b16ad11e251d8cc50624b9fd491a1a27830975ce1f49791d13ff1e6a",
+    "b9834ce9133ac91cd472c8fd958c2336557f9c7be5c79915f37a73dc040f2553",
+    "5cc4f87f2a8196ef82cfa432b75fb06daee65bcf1c7b31e67073e80979e87987",
     "6c5dfc7ee9948c029322b9f7ff2189eaa78ea81349c9fa56b86ef93f7912388a",
     "017d44bba27063d13e1c78a88759b1b039ca3c5def0f10eba88eaa80d862aeb6",
     "493fd720d21615a5864053e206c9be093c175319cc17533be9ccf4ab3e770199",
@@ -4020,10 +4038,7 @@
     "50840ff193af5de86fcbd759e02a840c58788f373795a54ab77a43ea9f979a53",
     "472451668861d5a2b53f0856feec7f9b27792a3444b302fbd318944b93860511",
     "6e0334275f2ed3215391187f96d08877ef11ffd62d4b7855b3ab01575bae8dac",
-    "bb6d945436a4016ea73e155fe60ff2a5498049d848cde2ffad00e9c14d025689",
-    "489824e72c1643333c996998a98197e6ccbc92c7b0041329d2ead8c8fac0d680",
-    "6bcd83eeda4b88b532168fd0a7f681c9f2bcb8056a8abf919fb7bbc09d5d11c5",
-    "b459df63b7f0788d92f0ed8c2dae0361a4fd48d7c68d04a244c6924d9f923762"
+    "bb6d945436a4016ea73e155fe60ff2a5498049d848cde2ffad00e9c14d025689"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
