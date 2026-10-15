@@ -566,7 +566,7 @@
   "calendar_fetched_at": "2026-10-15T00:10:46.718759+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 277,
+    "count": 278,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -3004,6 +3004,19 @@
         "rate",
         "september"
       ]
+    },
+    {
+      "at": "2026-10-15T00:31:06.389071+00:00",
+      "w": [
+        "cpi",
+        "edges",
+        "focus",
+        "hot",
+        "iea",
+        "lower",
+        "meeting",
+        "oil"
+      ]
     }
   ],
   "resolved_events": [
@@ -3011,6 +3024,14 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "295be0f8374e33309d8c4f5da3085dcff02ae8a9d68570fd58f333006ded8abc",
+    "ed62d3706e9fa889651d8c59abcf95756511d5d889373fec851128bf1e0d7f92",
+    "b51136b0e216b40a380abb673364b5a97ad37210960badc276f11d2b583f4e8e",
+    "48502df8c350dc72d5cf62edd02eee5d40d4ccd744ad5d7e1f419f2e8f69445c",
+    "8dd20ea9fe99d0905c1787a5bc5c6a46075ac0cd2ba7bc0ad4af4ab1cc07a174",
+    "a974c4ac44f158425f8ccff3419e79b6f6180a33eff507eb3678bdb60499e363",
+    "69d4a4fbf23217f02752fa9023ce6319d19f2bd022d3d19da68b68bd2e56919d",
+    "6e79e601bbfd90997341fd31f1aaa3b03ecf4d358ad31f84a2dc8917f908e187",
     "eedf803ece354aadb3509498aa0f23546e63664091ca488742798b82c6f5c656",
     "fd4c2be73d215ef452a715aec8efcccaf008b8549c418fe8ac27cc54fb735e99",
     "cdeabebe0fd484f38ef5c9ba691c5af62acc41c0a0e5d06e017998fa55bb00a1",
@@ -4002,15 +4023,7 @@
     "b459df63b7f0788d92f0ed8c2dae0361a4fd48d7c68d04a244c6924d9f923762",
     "ef7ca3d483f59f31883db4e1149bdf5ac453e6f209adfb3b1ce7d7ab7c3337d4",
     "b605d4c30e533ef0b233983555c0cadae62da938f87fc25330de4042a0f223a2",
-    "c81414abba13d54530f1c922e015209bcb84073b5939b67c6095dc01144e79ab",
-    "cab3bd9eee5041860135649dbc8bf31834320ab00cb101ee043adb9272d81b14",
-    "93baa663bb24fc639cef942946da1b7433ae62e2b86e769d722a2c44ad3e2b53",
-    "9f007b8911b68a45514524c7279b603f4786f373b8a03fabdf190d32bd66b942",
-    "8b965e35a594fbbc0068eee9b3088e898b23b8674c8b0d342fb26b2a104af11b",
-    "c5dae7baab55b1743068ffe4113f2cf4a369afdc6408f6a71693676bcdc2e08a",
-    "bdb8bb80d12cd8bd2b7e15dc7fe87115ba7956dede03dda38115cc8dd88f6e12",
-    "1908570cc906045406e09d21ea061fa11de98b36aca03afbb4e44cdcf609180a",
-    "8a866c3a628baea0c786843493f2989c55e6c53e68302a70494952b39bf5c528"
+    "c81414abba13d54530f1c922e015209bcb84073b5939b67c6095dc01144e79ab"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
