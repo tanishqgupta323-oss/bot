@@ -566,7 +566,7 @@
   "calendar_fetched_at": "2026-10-15T00:10:46.718759+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 292,
+    "count": 293,
     "day": "2026-10-14"
   },
   "recent_stories": [
@@ -3073,6 +3073,23 @@
         "treasury",
         "yields"
       ]
+    },
+    {
+      "at": "2026-10-15T02:01:23.312783+00:00",
+      "w": [
+        "bets",
+        "cpi",
+        "despite",
+        "dollar",
+        "fed",
+        "high",
+        "hike",
+        "hot",
+        "month",
+        "officials",
+        "retreats",
+        "temper"
+      ]
     }
   ],
   "resolved_events": [
@@ -3080,6 +3097,10 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "f8b0be2e47fca5ec245cdd5fec4d1a5dbe26f8893437e76889f92e7b8dca16b5",
+    "a2a7be5de887cc3362526d120662b81ee307df860df7cdf1223f65c24cbe6a10",
+    "8502c6863c0a376c1613295ad3098411c0293fba1c828b49711d6e7ed4619088",
+    "46711c985081f60550a34ff548ff0a03fe46dbc087c660fdf56c708fb09e6c15",
     "4d5e08cc1d1421a31120590653b8e7de302187a8c88f582da2a4bff13cdaf92e",
     "70b32c8193c0cf58a9dfb4b149cbae1b9074c2b862f0d46bb7c4d3f3efdea421",
     "14104c5a3ff9eefb9470bc2ddeb5e3c7d01ccae197ffc4bbc7846f443e3a1482",
@@ -4075,11 +4096,7 @@
     "1d517d647aedd2fb36193ebf35018d4920dfa6be5b23f791389a1f5029c55b95",
     "ae9975cda7d3a24f7eedba1fff1d65fd1a087191fd10cd222b9ada19b142073d",
     "84c667e24b93efe944030173fc887ec1a840c084deb803e509990f75bf0a3088",
-    "e9ef6d476c26b9b1270f64841b13021c8787cc6a5c8e4cce725d3b66bfee6708",
-    "649f747afd067dedbc98b0df87941d8d6e77d467dc4dd8590fc33a79ffcda311",
-    "0c3ecc9c236d2b3f68a73a0a4a5f8ebfe16f17777ea5708ad3d717601191958c",
-    "4db6644747c5702d502d3eb2a00ee30076de0a507ab57f2f5f0184cfad93055b",
-    "d50cbd75ebb16d7dd39db499127cc7ff71445ecec4d31afd31531f67218f973f"
+    "e9ef6d476c26b9b1270f64841b13021c8787cc6a5c8e4cce725d3b66bfee6708"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
