@@ -6475,5 +6475,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Ethereum extends losses after the US CPI as risk sentiment deteriorates further. What's next?",
+  "link": "https://investinglive.com/cryptocurrency/ethereum-extends-losses-after-the-us-cpi-as-risk-sentiment-deteriorates-further-what-s-next/",
+  "published_at": "2026-10-15T10:45:43+00:00",
+  "sent_at": "2026-10-15T10:50:53.721595+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
