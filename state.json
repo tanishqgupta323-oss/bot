@@ -578,21 +578,10 @@
   "calendar_fetched_at": "2026-10-15T18:25:36.906677+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 226,
+    "count": 227,
     "day": "2026-10-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-09T22:10:48.336838+00:00",
-      "w": [
-        "attack",
-        "before",
-        "iran",
-        "midterms",
-        "trump",
-        "won"
-      ]
-    },
     {
       "at": "2026-10-09T22:31:03.787178+00:00",
       "w": [
@@ -3406,6 +3395,21 @@
         "strike",
         "using"
       ]
+    },
+    {
+      "at": "2026-10-15T20:15:49.508004+00:00",
+      "w": [
+        "ahead",
+        "elections",
+        "high",
+        "inflation",
+        "iran",
+        "midterm",
+        "pressure",
+        "put",
+        "republicans",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3420,6 +3424,10 @@
     "bcd7a6abb4b29265dd529402"
   ],
   "seen_headlines": [
+    "0a8a9122469fa1fca54cfb399eb44b757e4ff51bd3a3360be4e4cc587fad6440",
+    "ef829372fccac96abe591192febdbe7b1ddc0c8199bc616c6b6727bfd63e2642",
+    "4ee5eee26f8d368909cb214d2a464e0138296e873852729338f1206dfea19012",
+    "9d38233467e81aade9aee5bdcd9f69728243b2563a836383cd11feee636faa91",
     "79a8fa8cbcfb8f3b8bc01c1f32d2119918b7fa2ddc164a1d9134d5cfee0be382",
     "bef6795a978c1915f8a84535860753a90a732ad64470b5b7d688022243ee2ca0",
     "28987af79c28dba48f448cccd791d2e1e01eea95db6ba9c548408f005e1f9476",
@@ -4415,11 +4423,7 @@
     "794d17a4f6c21954600d721e981098a0a247c973a4520679909c1b339fc2b5fc",
     "75616ec3939f555954ebd134dc3b3909e664b9dfb891cabe079a521da5ee0609",
     "7acc864dd200757e2e417bc50e4a56a99c34a739e1811a514503042076d24160",
-    "1bd6aacec0ea7c7cae9fcb4f4cec7806030750cec7f83542ca116f554585b64e",
-    "2c9134eb0cb869ce570cf9626c79b922363bc5b61323676af875d98dd915a893",
-    "69c0106659f3591ede6a0f28fbc08d9b9475b5408ecdeb35ed6d4920c4c6513e",
-    "af815c85652d0514e1d370b90a80acdaf7a441cde5d3b235a693c09c286af473",
-    "a24bd72776fb07bcd8cc86dd5f71b07ea3d8117bd7266f544bcc45599aa4830b"
+    "1bd6aacec0ea7c7cae9fcb4f4cec7806030750cec7f83542ca116f554585b64e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

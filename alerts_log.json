@@ -6787,5 +6787,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Scripps News",
+  "title": "High inflation and the Iran war put pressure on Republicans ahead of the midterm elections",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1dibmkyVVU2dkxMSEhpdjU5dzBWVFpMdmRwemVWYXJrbmpzcUt1a1ljNU13UlhiZ18xS1QxempFSENEMWJiQ00zNzVEZmxGNUtJS0VPUVJPWW4xbFIxazlzdUZ1Qko3dFdUQmMyVFNpbHNoMjlmRWhqT3V5UXJKTlJtTTM1WVBzV0YzWWRFTTk4eEtoQkRWemdRWm1zcU96NmFULXp1SGxpV0hvWE1PSThsblpSZ0lIaEFEd3ZIMXVxQXVF?oc=5",
+  "published_at": "2026-10-15T19:57:10+00:00",
+  "sent_at": "2026-10-15T20:15:49.508145+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0224,
+    "XAUUSD": -0.0143,
+    "BTCUSD": -0.1674
+   }
+  },
+  "checks_base": "published"
  }
 ]
