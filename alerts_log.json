@@ -6754,5 +6754,26 @@
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WCAX",
+  "title": "US reportedly considering using ‘mother of all bombs’ as part of new strike plans against Iran",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZEtOdTZkNnRyZTVEWmxWNzJ1UXpweTBwQmtlUlRDTjNzOHlHdzFsR0RBN2NtU2diZ2tfY1oxOE5Ybjd6cjRBdXVyY0YwMHVJU3ZQTlRKUkU5VERxamMwZm04SzdBak9yT1lZUUZSc05PZ1phNnB3TXBqakRtVnJoRXRkTHhFZFNsNWlfT1dFOUZrWF9KODJQTTFiQVN3SDFwMDRCc3BkTWVPcGhDWnNvOWdQb256UWfSAcsBQVVfeXFMT0JVOHlCSWRvT1RhSDJmUjBUaEhid1ZHU3NTNDEwVFpkTDUxNDVzczhlTk9VRHIzb1ljTm5uX21GWjlram1lSFdhRjZkTlI2eWozZ0k3V09GNDBZV19WZndNQTVwUFo5VDAzY0Radm5PYmpPNHE5ZmNDR0x3MW9URGJSM1dsbGx5MVNHY0cydDF6ek5uMEVBd3NWNlVSUWVrcjZzSUl4Rk44YUh4WEsyRHJWa1g0N0dSd0dRZFRBOWJQLXRMc2xyaG9UNWM?oc=5",
+  "published_at": "2026-10-15T19:08:00+00:00",
+  "sent_at": "2026-10-15T19:35:44.652940+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0448,
+    "XAUUSD": 0.055,
+    "BTCUSD": 0.1045
+   }
+  },
+  "checks_base": "published"
  }
 ]

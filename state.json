@@ -578,25 +578,10 @@
   "calendar_fetched_at": "2026-10-15T18:25:36.906677+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 218,
+    "count": 219,
     "day": "2026-10-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-09T22:10:48.336838+00:00",
-      "w": [
-        "agreed",
-        "deliver",
-        "diesel",
-        "discussion",
-        "fuel",
-        "highly",
-        "millions",
-        "russia",
-        "successful",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-09T22:10:48.336838+00:00",
       "w": [
@@ -3406,6 +3391,21 @@
         "weapon",
         "white"
       ]
+    },
+    {
+      "at": "2026-10-15T19:35:44.652705+00:00",
+      "w": [
+        "against",
+        "bombs",
+        "considering",
+        "iran",
+        "mother",
+        "part",
+        "plans",
+        "reportedly",
+        "strike",
+        "using"
+      ]
     }
   ],
   "resolved_events": [
@@ -3420,6 +3420,8 @@
     "bcd7a6abb4b29265dd529402"
   ],
   "seen_headlines": [
+    "054f783dc9ff4f7db854eb71bf398d0db2bda0c004652cef6044d8df7d72da82",
+    "f73459c6c5de07def79273fc38505b75a5629dd0f365ee127cb861e46008c6d5",
     "0b61beef75afef67975619ba01a9200f161452701242627eb53e999a00262cdf",
     "d8840f12647ac5cc8e0ce552ff5eaab9e93e6733cb9ef1949bd46d08c3a0059e",
     "d51056fa29edc3a3fa44910d434cd403dffe45f60743303b976f6eac4c511cea",
@@ -4417,9 +4419,7 @@
     "53f3575c770d65f1f2918309e74ba6cb918a476a48e3b6b6362b695cd7252dbb",
     "5a3893e037bdebda5b6e4f6192c7593c7044410d19515a33c8d09980ae89604f",
     "24767cff7a6a7a0e521fc45ae98a44d2af844d4cad8d2e62cb4e013297fa5d27",
-    "63f7331f1159821b11555c374c1fd75683d46cf0e9b5c6c8985a8cd4a7602055",
-    "cc73833ad4f6d291c30008906ebd88284c5d6f8fa4fbabe52ec106b5b93a8919",
-    "4358ad60268e3212fc9e06d115409f46171b5f678eb2cc858ad0cf32d556791f"
+    "63f7331f1159821b11555c374c1fd75683d46cf0e9b5c6c8985a8cd4a7602055"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
