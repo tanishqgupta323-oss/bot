@@ -6385,5 +6385,31 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Live updates: Bitcoin falls back to $82,000 after inflation rises more than forecast",
+  "link": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+  "published_at": "2026-10-14T09:45:53+00:00",
+  "sent_at": "2026-10-15T09:25:38.015892+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0112,
+    "XAUUSD": -0.012,
+    "BTCUSD": -0.0218
+   },
+   "60": {
+    "EURUSD": -0.0112,
+    "XAUUSD": 0.06,
+    "BTCUSD": 0.2003
+   }
+  },
+  "checks_base": "published"
  }
 ]

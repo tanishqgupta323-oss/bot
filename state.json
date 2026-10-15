@@ -7,7 +7,7 @@
     "304183b2b3207b2798be8cb9": 8,
     "4361a8235d9a958bd480d2fd": 8,
     "49a35c375ac10fe63b08e551": 8,
-    "56e5445732687ab2cb731b02": 4,
+    "56e5445732687ab2cb731b02": 5,
     "59e0835940d1fdba2950a52c": 8,
     "5a3769e06a7e62a12ab771cd": 8,
     "5feb492dc9360b5ee1236cd9": 8,
@@ -569,7 +569,7 @@
   "calendar_fetched_at": "2026-10-15T09:15:45.013747+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 34,
+    "count": 36,
     "day": "2026-10-15"
   },
   "recent_stories": [
@@ -3326,6 +3326,20 @@
         "sinks",
         "worried"
       ]
+    },
+    {
+      "at": "2026-10-15T09:25:38.015702+00:00",
+      "w": [
+        "000",
+        "back",
+        "bitcoin",
+        "falls",
+        "forecast",
+        "inflation",
+        "live",
+        "rises",
+        "updates"
+      ]
     }
   ],
   "resolved_events": [
@@ -3333,6 +3347,10 @@
     "7de87c3bd42c86c6a66f1ef1"
   ],
   "seen_headlines": [
+    "8185bdb3b817881950331be08f08e4f702059d18217bea104dbde32d77978439",
+    "e248ef15c91e3ea852a18be4ec756da4fc463b48434d9cd954c8080c56e51a4f",
+    "33fbbc5fda9da33dd32ea222afc624e0b01799b17b4ebefe1c28c91274535191",
+    "b0bc59e5fd630167a153d2daf7c5ff07a99220e8aba064d5a4a0e2c31b26c334",
     "dc6498f1bd2aa4446718b844ca9a1d9e29293dd606d714d79d41323e48b3e7ce",
     "99c6c9aaf56c768bfe710ee77d68492db554eed883c4fa1d8ecf57a81703962b",
     "adaccf378eefa6c37f100384ad06994982e2666fe80959fbb99ebf88dca42633",
@@ -4328,11 +4346,7 @@
     "b2f7057a430b695ea9c0fc2a964e421492ca235fdb1ee690c7b7946a2dd94950",
     "1752e3adcaa55856bb674ea657201ba11fb0583dac74203b1978d5427fba969b",
     "36c30d6974b7fb46d2bec225c389aab1b9106ccaee9acf373b9f50149fc60054",
-    "b9cc1b99e0d4280fc6c3998ebe62855d1d31d2b060f309fc3163b9a6539b833d",
-    "2666c3df5c5cfa84cd67b77b6410d9086584ddef2afe4950a3dc6b44b3ce2518",
-    "14bf3ec6cdb9b6df256a0e62af4ba398957cc0224827bcbedbbe13c6c58fde3b",
-    "d0dda16d9ff2a4c0d8d17f72ea2e2571a502acddf27a54069e7c8c880ae443a8",
-    "40d1fe43d58da624cfec8dd719de3b7c87cdfbea4e78803a23363749133e3135"
+    "b9cc1b99e0d4280fc6c3998ebe62855d1d31d2b060f309fc3163b9a6539b833d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
