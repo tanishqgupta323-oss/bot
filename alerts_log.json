@@ -6922,5 +6922,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Trump says considering more military action against Iran",
+  "link": "https://www.investing.com/news/economy-news/trump-says-considering-more-military-action-against-iran-4952990",
+  "published_at": null,
+  "sent_at": "2026-10-16T03:01:28.128898+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

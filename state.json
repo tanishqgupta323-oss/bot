@@ -18,7 +18,7 @@
     "62fd90effb3a1981c82de2c6": 8,
     "661b8542c343d8e7cca4eba1": 8,
     "668279f7ad16aca20295920f": 6,
-    "69712a6952ee4725e1c16404": 5,
+    "69712a6952ee4725e1c16404": 6,
     "6f5619eaf55ac0a14e0b6102": 8,
     "6ff7659b4b0f41c292d42cfb": 8,
     "71680523b87b6d21624cf200": 6,
@@ -580,25 +580,10 @@
   "calendar_fetched_at": "2026-10-16T00:35:37.915829+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 311,
+    "count": 313,
     "day": "2026-10-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-09T23:10:44.356193+00:00",
-      "w": [
-        "aussie",
-        "bets",
-        "extends",
-        "fed",
-        "gains",
-        "hawkish",
-        "offset",
-        "pause",
-        "rhetoric",
-        "weekly"
-      ]
-    },
     {
       "at": "2026-10-09T23:25:38.743772+00:00",
       "w": [
@@ -3412,6 +3397,17 @@
         "slide",
         "xrp"
       ]
+    },
+    {
+      "at": "2026-10-16T03:01:28.128724+00:00",
+      "w": [
+        "action",
+        "against",
+        "considering",
+        "iran",
+        "military",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3426,6 +3422,14 @@
     "bcd7a6abb4b29265dd529402"
   ],
   "seen_headlines": [
+    "3d1611fd72971cd1d780e30d88be7e247d8888f0eb97c402167d16bb528f6dcc",
+    "50813892eb0257f2f2c581d87d0e899dd8dea6ca79d55697f6d75423da6370ee",
+    "50ef656a468d5ec18b360db77a2f48a1f4c59a70ddacd38700c4b18d76eb6249",
+    "217a214996471feea347af1294ffe1d96fcb069714bb18a7dc79e613b921b54a",
+    "fae65f74af7e9d216c515908a6db751721aefd14e4cb0e5a214e4da3201f5388",
+    "89e61b8f5be7c864d4a06b9aab06d23afb3920e8b2d127ba016f129ac708bd68",
+    "fce38a59ddb4e80dfeacc9b51fadb236bd8d5236921c71e27ece485593940b2d",
+    "02dd68038af2abc3dbf1d4416f719bf76607dbc3827120fdc712ebafabd13aa2",
     "46a70e1bd55dc8efcd307c109c7764570c1430f4e3591d14aa2eb0a83da50706",
     "f2926d84190cb4652b7c7d55e337bd778413abf8135c70dd5dee402945ff7889",
     "dad4a7b8a6109f32ae323e68ab7e1d10b19460d733163d8a45d695c09f05f7c5",
@@ -4417,15 +4421,7 @@
     "0bcf7e7b05f863df0bbd38f59b5fee970b49c555da8d9f784e7dfa818042d887",
     "0219e82f188d3961c9dad6375437b3cbf7fee5d33560362fa3058cf4128532d1",
     "328a929ed66e1e45f1842805a03849af701dc396c9ac5b8f1ed3dedea1534eca",
-    "5d7c3a1ba4bc025fb3dd1aefc84dcce580641f007aec4eab13c6f2ab6988763c",
-    "3e1d63d3214335800a4aa0cc21f043633077fc8f4101f05ca57763d97f9ed80f",
-    "3f1be6027a365d9f9992febd3b25e455e5b46566d66a563af8007a192cf5f7fe",
-    "aaa280e55911fafd5b13cf7dada9e957b6a5ed772ba01b5e25d74bff55af33b7",
-    "93d25c7af5f6f7b749ecf8ab5a6cbaa7cb69a0a8f0c7d7bdfcc4763ae208b606",
-    "84afee451c5c651c6d6af0d7fdd6c104e303aae51afac46dcdaeb52a07852b01",
-    "d6bfc793ea400162dc2d410f9986e36497bf6d8d1c7598aa51a447c5408f2634",
-    "23530ab52d6c9060c216e4737a9b4a7239b3d75bd3a461239e9266c3d267ff73",
-    "8e3b734e2e94df2d6f362b1e54ead86d532d6eb6ff63ac650be99dacbb4410e8"
+    "5d7c3a1ba4bc025fb3dd1aefc84dcce580641f007aec4eab13c6f2ab6988763c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
@@ -4455,7 +4451,8 @@
     "0ec86a540ddf5ee04da67643:10",
     "ac9cf23f70e583415ba6aa4b:10",
     "d06f3c5cc39f7dd3b65cdbb1:10",
-    "3402912cbba7b8e52a319f87:60"
+    "3402912cbba7b8e52a319f87:60",
+    "3402912cbba7b8e52a319f87:30"
   ],
   "version": 2
 }
