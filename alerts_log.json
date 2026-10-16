@@ -7182,5 +7182,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "KOCO",
+  "title": "Reports: Trump considers using 'Mother of All Bombs' against Iran",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdmdxZk1lYm9xSy1fTXpEUXpxSXlYVHljeEFMX1E4aDBxdnktVFZ4WTJQcEx4a3R0N3VxbURtT1RuN3J6YWNNVmxJaF9YUl9xVUNkcm9TUkJfNjZHaUhTcVl6c0ExT3dCay0ydko0TVNGN3BFeVBRSHI0cVVJOWY1cG96Q28?oc=5",
+  "published_at": "2026-10-16T19:32:00+00:00",
+  "sent_at": "2026-10-16T20:11:06.832944+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0225,
+    "XAUUSD": -0.0382,
+    "BTCUSD": -0.1192
+   }
+  },
+  "checks_base": "published"
  }
 ]
