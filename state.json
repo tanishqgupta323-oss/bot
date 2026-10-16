@@ -590,24 +590,10 @@
   "calendar_fetched_at": "2026-10-16T21:55:38.127859+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 255,
+    "count": 256,
     "day": "2026-10-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T05:05:36.145597+00:00",
-      "w": [
-        "end",
-        "fighting",
-        "intensifies",
-        "iran",
-        "quick",
-        "trump",
-        "vows",
-        "war",
-        "yemen"
-      ]
-    },
     {
       "at": "2026-10-10T05:10:44.509785+00:00",
       "w": [
@@ -3418,6 +3404,21 @@
         "trump",
         "using"
       ]
+    },
+    {
+      "at": "2026-10-16T23:58:28.094923+00:00",
+      "w": [
+        "conflict",
+        "escalates",
+        "hub",
+        "iran",
+        "missiles",
+        "oil",
+        "saudi",
+        "target",
+        "war",
+        "yemen"
+      ]
     }
   ],
   "resolved_events": [
@@ -3433,6 +3434,11 @@
     "cd8b786c1dc98d116dcbdf81"
   ],
   "seen_headlines": [
+    "0546ee5bc2382d6698ed812015d0cfa8caf192569b4fa695ec1fbe0bbda2dbe4",
+    "7671f0a2ed93f7ad263f88329fdecfbf92e7e4d17bbbb03301dc47a14c1e271e",
+    "1c7843c520461b6e4a097302bd56a8337f871dcb9e03900a238a372460027d29",
+    "a3f296648fd16c55495d1283b596cbe772987088c2b94191b0ecf7f7d1724c6a",
+    "cc02ad30acba853874634434f6c2bcd54be7c17fc621e459c157aa4252357b1c",
     "a18c45393839c20286ae110f73cdc7856b0391e3f6cfee1a65a370b7c1d84b23",
     "bc7dddccad3edee620d845e2133cdf58e269f0ffb8c9532000b87d701076f551",
     "117135c024b4b57a3aeb76945104bc94113620e92267c29f17a815eb827b014d",
@@ -4427,12 +4433,7 @@
     "86bf8a01df73afcfbda978a9ca8217f9c04cd4771ee2a2ebc67d0189df3adfea",
     "2ea8b11401beea012e26d77429535664ce1cde8b074142eb8f4225e7908d47d8",
     "7835d475326262e75940cbcb7f22c8c5a94ea3d4a9548d78302ca4244646419f",
-    "42df18e6be1cce90c7e20ec157a86752be5eb3089a471b6ecc0c417ce6a6c2a8",
-    "168ce303c25353635ac3878653663a2b2fc93eb78e19c1204183bfd936af09af",
-    "180bcfc2850bdca37ff56d55829e8f05e1e0e193c89c660c42e566b4d4737004",
-    "50016dedf654f21bf09ed3c5413b03c49d035172a1b01cbeb1efdad0fc19de5c",
-    "fb40169e33737e4c245ba5ebf27faf677001c6c038da29fd12d84257be0e4740",
-    "8533dfb78ae4088cca348072802d00259d98e827f91c02f0a3df881c8fc4b80e"
+    "42df18e6be1cce90c7e20ec157a86752be5eb3089a471b6ecc0c417ce6a6c2a8"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

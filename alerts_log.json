@@ -7208,5 +7208,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Iran war: Missiles target Saudi oil hub as Yemen conflict escalates",
+  "link": "https://www.investing.com/news/economy-news/iran-war-missiles-target-saudi-oil-hub-as-yemen-conflict-escalates-4955004",
+  "published_at": null,
+  "sent_at": "2026-10-16T23:58:28.095059+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
