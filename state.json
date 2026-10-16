@@ -15,6 +15,7 @@
     "4361a8235d9a958bd480d2fd": 8,
     "4369da9dcf2affb8e0cb662e": 8,
     "49a35c375ac10fe63b08e551": 8,
+    "4f39cb1cce4f2f364bd6f9e3": 1,
     "56e5445732687ab2cb731b02": 8,
     "59e0835940d1fdba2950a52c": 8,
     "5a3769e06a7e62a12ab771cd": 8,
@@ -32,7 +33,6 @@
     "85290eefb2f9f521f9e7326e": 8,
     "88e92f39a80c8687a3ed0b75": 8,
     "902edbc5b5404f8bf5eb4a67": 8,
-    "92e8a43bc60656f0410acbe5": 8,
     "a07b9c09b04cba566323a8af": 8,
     "a4e602b0d76e764f15750b63": 8,
     "ac9cf23f70e583415ba6aa4b": 6,
@@ -555,11 +555,11 @@
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "92e8a43bc60656f0410acbe5",
+      "event_id": "4f39cb1cce4f2f364bd6f9e3",
       "forecast": "-34.7B",
       "impact": "LOW",
       "previous": "-166.8B",
-      "scheduled_at": "2026-10-16T18:00:00+00:00",
+      "scheduled_at": "2026-10-16T18:05:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "Federal Budget Balance"
     },
@@ -586,10 +586,10 @@
       "title": "German Buba President Nagel Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-16T15:50:48.640898+00:00",
+  "calendar_fetched_at": "2026-10-16T18:55:34.381402+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 188,
+    "count": 190,
     "day": "2026-10-16"
   },
   "recent_stories": [
@@ -3432,6 +3432,10 @@
     "cd8b786c1dc98d116dcbdf81"
   ],
   "seen_headlines": [
+    "40aa76401c39c2bedd8477c3c78f2fb9b59628dcc12e763ab8d665211821fe98",
+    "5ab3c1198f9a758532722ba29c490d976da307d7e8fc4c731a6aee46c2a81dc1",
+    "9bb9105b68036bb9d127a6d624dcc709d154d9617cd48d02b67f39e20d80201e",
+    "f000e25a533f81d8faef06a19c537c98a3d85a5d2fd919f03dc108b705351b14",
     "86d1f3bc5c594484f3326dd6e257c778989417b8cc80cdff4505a1366b71c36e",
     "65c4bb3417d1c3d763b114d2bf5d171d7242cfece34d53439678048f4bb3513a",
     "03f2a959e7f4e9909826b326e0008c4fa9c0c6429c8259d611690bb4e489b654",
@@ -4427,11 +4431,7 @@
     "98473c9053c8666d6d7622c3dbc68ed4f58e19b62928fd6feeb4f10cdf3179ff",
     "fdcdf2566580ec615b40a8f845dc1aa829b1acd1748d39f6076d4f83c3a2c662",
     "628f6faf7f47bd097bb64df4c19827087719abf550ca86642bbb4bbdc08d52b2",
-    "e63887f7f97be70d1ad321f1d3883dd4a4315a2df161d126bdd2f2798c79aac6",
-    "41a987a0814d568c5f3a3c53635a027e2cee79b4ec55e0c723bad7f746ee6955",
-    "a9273ec5468b8e0f86c2248fa5cef04b3458c252f25734c5875236b84e375eac",
-    "ed86894d82c5cd8ab06db7d8066728b5fe7dd41642a670190674c86e9643c636",
-    "167e7f6ff3db4b6d428e2f947a0176f1a5c6bd5c941e33542e782e998a6db5f0"
+    "e63887f7f97be70d1ad321f1d3883dd4a4315a2df161d126bdd2f2798c79aac6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
