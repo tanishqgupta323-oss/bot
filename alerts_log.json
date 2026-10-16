@@ -7125,5 +7125,33 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Swiss finance minister warns steep European debt could trigger euro crisis",
+  "link": "https://www.investing.com/news/forex-news/swiss-finance-minister-warns-steep-european-debt-could-trigger-euro-crisis-4954687",
+  "published_at": null,
+  "sent_at": "2026-10-16T17:55:44.943111+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Fed market review: hot inflation data raises October hike odds ahead of FOMC",
+  "link": "https://www.investing.com/news/economy-news/fed-market-review-hot-inflation-data-raises-october-hike-odds-ahead-of-fomc-93CH-4954682",
+  "published_at": null,
+  "sent_at": "2026-10-16T17:55:45.650459+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
