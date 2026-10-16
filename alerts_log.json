@@ -7047,5 +7047,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Central bankers eye higher rates as AI boom fuels scramble for cash",
+  "link": "https://www.investing.com/news/economy-news/central-bankers-eye-higher-rates-as-ai-boom-fuels-scramble-for-cash-4954264",
+  "published_at": null,
+  "sent_at": "2026-10-16T13:46:03.154731+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

@@ -1,7 +1,7 @@
 {
   "actual_attempts": {
     "00c5f60e0a09d16aab27b39c": 6,
-    "08057439720dacee75a0ed62": 5,
+    "08057439720dacee75a0ed62": 6,
     "0e4d49dde627a8093c6a42c7": 8,
     "0ec86a540ddf5ee04da67643": 8,
     "162a0e9c1a002ca8bff6b72d": 8,
@@ -9,7 +9,7 @@
     "24b7cc766b4dc94389dfc3a8": 8,
     "29ce61889b8928b1b1dd55ed": 8,
     "304183b2b3207b2798be8cb9": 8,
-    "30c1f3514b18c8332e63e970": 5,
+    "30c1f3514b18c8332e63e970": 6,
     "3215121efce76e74d5a8befe": 8,
     "3402912cbba7b8e52a319f87": 8,
     "4361a8235d9a958bd480d2fd": 8,
@@ -588,21 +588,10 @@
   "calendar_fetched_at": "2026-10-16T12:45:46.940497+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 113,
+    "count": 116,
     "day": "2026-10-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T01:05:33.894815+00:00",
-      "w": [
-        "diesel",
-        "export",
-        "lifts",
-        "russia",
-        "sanctions",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-10T01:35:33.141009+00:00",
       "w": [
@@ -3406,6 +3395,20 @@
         "plans",
         "report"
       ]
+    },
+    {
+      "at": "2026-10-16T13:46:03.154382+00:00",
+      "w": [
+        "bankers",
+        "boom",
+        "cash",
+        "central",
+        "eye",
+        "fuels",
+        "higher",
+        "rates",
+        "scramble"
+      ]
     }
   ],
   "resolved_events": [
@@ -3421,6 +3424,17 @@
     "cd8b786c1dc98d116dcbdf81"
   ],
   "seen_headlines": [
+    "592c0fc010a319821d7d0672144c45a62b1b7501dbec0cc2d4b7d3cee1556080",
+    "9f8756da02a8f802d46beb88ec1539ede57ce83b898f040351e5e8e0af016165",
+    "a4e387db1db7b93264f75344a5a208ee4f9527070fa8d04440fefe21fab54a55",
+    "588dca13c94dd3e790fd81c2f8af92657bbcbe3cbdcf981e7afeb5d32869c54e",
+    "4e683f0384926cb5636e2d4d50aea13bfd6e4cf7d6bd0459d782d7810caecbc7",
+    "7c9c2f4f77d40584b37e924574075d37c3cf50e1d088a074befea5aa7b70822a",
+    "cd85b20e0e081316130f8fafd1188185365203a79dc1897b82a95305732a6017",
+    "e3a03ebd95a391fbeeca1e0df70cbe6895c8aa889d3c5847820178306d4f7438",
+    "d11af00edf6e12e5ee46201778cdf67d800d39569f6060404fe41c52f5afc9b6",
+    "91f5df38339eedd2686be8cb538f7ed114dbe9a762f3c1355c457056c023e79d",
+    "649089c289cfe26681aa4710add525444e5ef8faef2dda04d0625a15d7ff8a99",
     "0fdefdeac9ea3a2c837ccb21c2ad58b97e688568ebebee1df3919369ae69a480",
     "b50552ccb2d04e452225e69cba0212eacb9df9fbfa467645d3b2b517d0a66708",
     "932f447ef5a03ef047a46983b7395e55938bf24b5699611814044ae50e9dd292",
@@ -4409,18 +4423,7 @@
     "20651d2bd472f6506a279305eff2ed10a7d12201c5bd5181347a96099d8f61d9",
     "26b62ff364376f568c14066861da542abdd140906895f4db57d6f0922459f32f",
     "005b14300d39e84d3766e1cf8acf90c2301b7b7e3ccef5ab8b28f30466aaa8f8",
-    "dec3d2569d4875bda7fd1ee3ce24912ced17dfe90c5085cda5612de9c850a3a2",
-    "e0d555f2d2bbca7d42214e05e21beb74370133aad08a8668be50631c2f081f42",
-    "6750f75f507cac7785b5bf700f504e6b7cd16c0d86174b0767fea6ced6c538f7",
-    "1e67712be3ebdb229c4d966717f584f2bbcc6b1274f255a59c14078b3e8bcc0f",
-    "8746306389a3092e272fce58e3f1d0adbd79a723fdde9cea6b83b018b0c11cb8",
-    "35f03dc8a749880844ab2ea9212907775031b7b8947359af8d6fa50805ae7628",
-    "d396fa5bfc448d5914dcc64a04c0bb43b10ce7a5316ac77c139b986e396d1c5a",
-    "a4b14aa7610f5f8aaf7625348eecc64d4580f745716c5f12330a4479825597d7",
-    "06c3a417f1f6485653402e0db5e89d3b71d69962fa5d4c35d1e11b38add95d8b",
-    "c6c5c36d89280acb86a115d53aefd747cffa16c9ea41d1034227879c9ffadaf2",
-    "d987d4cc87b38542feabf92e9ca99f47ccefbf426aabb882ebb0c6cc352d6979",
-    "56e06595346666fd442d6ff2039948b030915c407f27a1e4b67e28691c2acae3"
+    "dec3d2569d4875bda7fd1ee3ce24912ced17dfe90c5085cda5612de9c850a3a2"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
