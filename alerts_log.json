@@ -7078,5 +7078,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "US import prices increase; post largest annual gain in more than four years",
+  "link": "https://www.investing.com/news/economy-news/us-import-prices-increase-more-than-expected-in-september-4954066",
+  "published_at": null,
+  "sent_at": "2026-10-16T16:31:24.954048+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
