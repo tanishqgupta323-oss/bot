@@ -6896,5 +6896,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+  "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+  "published_at": "2026-10-15T04:25:15+00:00",
+  "sent_at": "2026-10-16T02:25:38.678301+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0224,
+    "XAUUSD": 0.024,
+    "BTCUSD": 0.4095
+   },
+   "60": {
+    "EURUSD": -0.0561,
+    "XAUUSD": -0.0792,
+    "BTCUSD": -0.0662
+   }
+  },
+  "checks_base": "published"
  }
 ]

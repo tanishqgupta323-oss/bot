@@ -579,21 +579,10 @@
   "calendar_fetched_at": "2026-10-16T00:35:37.915829+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 303,
+    "count": 304,
     "day": "2026-10-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-09T23:01:20.528689+00:00",
-      "w": [
-        "anniversary",
-        "crash",
-        "crumbles",
-        "crypto",
-        "flash",
-        "nears"
-      ]
-    },
     {
       "at": "2026-10-09T23:10:44.356193+00:00",
       "w": [
@@ -3408,6 +3397,20 @@
         "weighs",
         "wilts"
       ]
+    },
+    {
+      "at": "2026-10-16T02:25:38.678125+00:00",
+      "w": [
+        "bets",
+        "billion",
+        "bitcoin",
+        "crypto",
+        "ether",
+        "liquidated",
+        "nearly",
+        "slide",
+        "xrp"
+      ]
     }
   ],
   "resolved_events": [
@@ -3422,6 +3425,8 @@
     "bcd7a6abb4b29265dd529402"
   ],
   "seen_headlines": [
+    "3a54fb3b4278826dc6f4354fc38e2fbb46e8fc14bcd71d206128696125e3f757",
+    "58c1d8549be5f3a0be07367eef0676a08c3e71b9003b1ea59bc70ccad496d43e",
     "b7fcaacbc2efb84027529a66ad7dcfe10ca486569b2f36bd37555a44bafa4c58",
     "7175b891020a570514021af4e682d76a9fbec183937f4b65a700e6478e7a6879",
     "8dd451c3ccdb2923ebb450e9c6a4dc7d87c62042a05189914074369b40a8cb09",
@@ -4419,9 +4424,7 @@
     "feba42fdd0ab20ed579c516c8ce3f95a357319700451dc13f66937bae63e918f",
     "ecbbced7ce1592003bc5daa38e2743b04b5515461497d41e166a945a58269f18",
     "5a59a86c15c0fd061b2a17cb20225a8aaab73b3aae82d73e652b67c7a460c25b",
-    "cd599d7ec4bb3bfef7bc0b296d81c51e60df33ed2aa2a445dfd03130ef581875",
-    "08ad47a82f5bf577d73cb996644a45fe9dcc788225bac5647e05b89d2b3e6d70",
-    "ef94f5ec23c8af38886fb71b79c6984a4fc978f6466bcf7f37bf1f71bab0041c"
+    "cd599d7ec4bb3bfef7bc0b296d81c51e60df33ed2aa2a445dfd03130ef581875"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
