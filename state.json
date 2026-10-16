@@ -584,24 +584,10 @@
   "calendar_fetched_at": "2026-10-16T09:40:49.787276+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 49,
+    "count": 50,
     "day": "2026-10-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-09T23:25:38.743772+00:00",
-      "w": [
-        "attack",
-        "base",
-        "bombers",
-        "concerns",
-        "drone",
-        "iran",
-        "prompted",
-        "pulling",
-        "sources"
-      ]
-    },
     {
       "at": "2026-10-09T23:40:45.392502+00:00",
       "w": [
@@ -3412,6 +3398,17 @@
         "military",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-16T10:01:28.834930+00:00",
+      "w": [
+        "building",
+        "escalate",
+        "iran",
+        "military",
+        "signals",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3426,6 +3423,14 @@
     "bcd7a6abb4b29265dd529402"
   ],
   "seen_headlines": [
+    "b7e4b30dc9fb05b45052803dfd4a8f63aaccd525fe2aa7cab6ccd5f99923c5ef",
+    "3e55340d0115906b8c9fe3116725ad15699b0f9b7d7a1d54d2f4bfa86fd05973",
+    "e2b84cd16b8da33d72eda69e86fad04b111ca23a56c601b5be9734f55d93bd8c",
+    "85c9ca0349078e06110e784d408477e4f32c4a7a1cc99c2bf3ef1a7a8f814f96",
+    "ff9502325632e52ca879a9acc24ef62a81ac9d3eea6e50bc32d8733c18613ae6",
+    "869dd91a34b9f25af6abcc273bc613a97d891b210ba50ae6c8b0c96a661b3505",
+    "623194fdea775f82ecae78d0206397f6e18f3f7ccbf43d157868c5ea0a237c60",
+    "444f3826087c7854807f686aa6763d1822ee6fd8e0ab9753ff21e40944709a99",
     "097f9a9fac7664b5b15ff2b5b3f46ef20f17cdab157b5cbde824eb2012aa34bf",
     "6f807429b23256a8f969d50141d45ec48cc2792b89d6140d0feed3dabbb35a5a",
     "3732c866498ad3eb34fd6a03fc647e390090e706e2ab7bcd85c56d79c15103bf",
@@ -4417,15 +4422,7 @@
     "1c5cc31b4a01ee674e77077251bba3487c3513a8aecbd0ea3538e390ad3473c4",
     "776239bb6f9ffdd3f45051cd1a095c7373903f0f52d7c28e42dff1868cf7ebf3",
     "b28da2a07a79bd08176e56454db9feb23641228f15cee2c2e9628035202b7a35",
-    "1423750434eb720f423e8a9a87044708614098c4bb636b2e8cb0650462068b6b",
-    "0a8ba859e811d0cdf29c4086d09ed1833c0e70fc3207c4869ede5cef1758f07a",
-    "240c88215b6e75b825f288e01a388333a951b6b8e823c6e24921196192324cfe",
-    "3567b699e184672cbd2803f7e5d1637d9c0f23de572433fa488fe2612091d95c",
-    "aa3f0bc21db3a3dcaa76a58a61bf842859820989a9a132a62812846962d1d6a1",
-    "6d9db42895b2dd7819166f08f8d7e3c52643202fca5ab2e9df56c47a4be4e38c",
-    "f43ebf484b9701f49be40cda06091038842076aa14f1f88cdc692cdab66da03b",
-    "6c2ec9ba610c44076fadeb4b291782add95fb33e8e11446b7260a86515f5bba4",
-    "600341a5d46dfd3f8263e5469572bfe359ba31555d33fa6633609d94d879a48f"
+    "1423750434eb720f423e8a9a87044708614098c4bb636b2e8cb0650462068b6b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

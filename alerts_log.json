@@ -6948,5 +6948,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Euronews.com",
+  "title": "Military signals building: Is the US-Iran war about to escalate?",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnQxSlUxSHV2RjFuaFlUN2NuYkl5ZmZ1RXlMUmNyLWl5Vk5vTEx5SU1kZ0xYNkxBbEp4SzAwbWZxQnVad2lOMGU3ZGY1dDRCdWh0Y3dxeXEzaVd3b2FpdWJSR3FLZzFuSmZjQXJ5cHJ1RnhrVUtJZVJTeE9tWGdHNVdXaTA5WVBCUlI1LUM5cUV4aU1MdU5IYThuZmtTUWs?oc=5",
+  "published_at": "2026-10-16T09:37:01+00:00",
+  "sent_at": "2026-10-16T10:01:28.835154+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0071,
+    "BTCUSD": 0.0281
+   }
+  },
+  "checks_base": "published"
  }
 ]
