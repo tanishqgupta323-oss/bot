@@ -588,25 +588,10 @@
   "calendar_fetched_at": "2026-10-16T15:50:48.640898+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 165,
+    "count": 166,
     "day": "2026-10-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T02:10:48.224256+00:00",
-      "w": [
-        "attacks",
-        "cites",
-        "drone",
-        "peace",
-        "putin",
-        "talks",
-        "tells",
-        "trump",
-        "ukraine",
-        "unlikely"
-      ]
-    },
     {
       "at": "2026-10-10T03:10:45.877346+00:00",
       "w": [
@@ -3410,6 +3395,24 @@
         "prices",
         "years"
       ]
+    },
+    {
+      "at": "2026-10-16T17:40:58.632894+00:00",
+      "w": [
+        "100",
+        "attacks",
+        "crude",
+        "escalates",
+        "hit",
+        "hormuz",
+        "iran",
+        "oil",
+        "refineries",
+        "russian",
+        "tops",
+        "ukraine",
+        "vows"
+      ]
     }
   ],
   "resolved_events": [
@@ -3425,6 +3428,18 @@
     "cd8b786c1dc98d116dcbdf81"
   ],
   "seen_headlines": [
+    "5b94142149ba8ec1d1679d38e42303a4714c95ac5059734f6a63677dad09b4aa",
+    "a3fadc568a92b5ba8c7c236531523c1cea6189c4f8cd109d0fbcabe6ab0c5c1c",
+    "847b3c3cc3a92191e72ce45dbd9aa02a3e37128b5a0eb47ad1579cc7e3b4724d",
+    "2116b04368cfc86144a0816ce1c957d2618a99b180aaaa2ce9e7afd17f37b732",
+    "2098a169a896d733af0d79a3e0bfef33fc4c98bbfc9dc1622f59e4eb2fc7269e",
+    "70f1e62226b0f6d6f6633105b0a3c3097c08693f223c468f81ca471bc1eec319",
+    "395f651ef945ed024197338a9ded35a1e09b2a83932ff71f0b31bcd4e21f8fa8",
+    "6b18dd8481544a52d0924a778f864c5dbeba55566b934acde62d9ed3d476549a",
+    "bb428ec8f3bbb210ed6b0d9f33e63f5b934b5d8c1969d7e9a4d3bdf85836edc7",
+    "6295057d95ae318fe3574d837ad685eccb5ed35f4a814622be7032088d026917",
+    "8dba5ebd8bc1c1290e4c43165c59c9fc5881d883bbc676b977f0c5c2e1b04b17",
+    "5aeb48625f77d1eb053d9ebecb9820b054246dc5c52298c716a381f88a802566",
     "e9e60620f6c9d4cba09beda15d94522b3a772202f893a8379997788a987928d5",
     "0add9f8539e1a3162dc448da5d1ba39f5bcc47a37d6b9e75d4c7b226303afdd7",
     "375a4154d13d5fd8a636257105db769aab25a819692bd39c24697d41a89170c2",
@@ -4412,19 +4427,7 @@
     "7f8a25f17db18afe4767c2223c87a6208068c85e331e6d60348351f03c720bcc",
     "36c262b9e58cf222fca7296ef08e41fdb8183c50e2c5f824016a7f1cead46048",
     "4ba8c87a07c1f98f81a3bc792056860ac3e8945235323c47952e502301404bd7",
-    "03d0fca76d6afc7b855edc07ecf056ff5a3ac8d151cbb9b1dc8d2f178c11919f",
-    "4a908d31b5e03203db4812ac02813bdb69770dc6c0c1913aa24aec9809f39939",
-    "cc225c43675a4f10e4b00e539a255a45f31cb6c6407b4982cf56f96bd9332fda",
-    "b9077d008e2da775c0ff9287b584bb21fda58d501e9e6f3caee02c74536a7907",
-    "97b5b8c5c71362c1c2b0968203d137a9770ea765eab36baa4865af5099c157f8",
-    "4a209615c5ccb8a337e892ecf18c3fe3e39b6739e5d09000dc667ab7d954e508",
-    "ed23808d660e906baaf91aa7cac24af248bc7fea2715564ef152513c9eb7f4fd",
-    "425553ae7854dd8a0a6659d5e0153d9805e91c57bcf926c39f9d98a2cf322783",
-    "ff54c7fdc02d2e628725e11af08b9c9f891253fe7a26f10a3d2f6757a28305b0",
-    "a533a73995837e6ae460f425303963e83d0b5ac3477dcb343ed86553044d02e6",
-    "ead5e36ebc853bf2d85d07724f975b3b6711131edf0a08c962bf3de01a3d2bf5",
-    "7a327c4d75e87de58143d7da5c1b1b3b08ea387bcdcd624cfdd911edc55e8f63",
-    "ee0574f544c3d0520d49d1a90f4e87a05369a5a7f2078c05fd09a493582a215c"
+    "03d0fca76d6afc7b855edc07ecf056ff5a3ac8d151cbb9b1dc8d2f178c11919f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
