@@ -1,7 +1,7 @@
 {
   "actual_attempts": {
     "00c5f60e0a09d16aab27b39c": 6,
-    "08057439720dacee75a0ed62": 3,
+    "08057439720dacee75a0ed62": 4,
     "0e4d49dde627a8093c6a42c7": 8,
     "0ec86a540ddf5ee04da67643": 8,
     "162a0e9c1a002ca8bff6b72d": 8,
@@ -9,7 +9,7 @@
     "24b7cc766b4dc94389dfc3a8": 8,
     "29ce61889b8928b1b1dd55ed": 8,
     "304183b2b3207b2798be8cb9": 8,
-    "30c1f3514b18c8332e63e970": 3,
+    "30c1f3514b18c8332e63e970": 4,
     "3215121efce76e74d5a8befe": 8,
     "3402912cbba7b8e52a319f87": 8,
     "4361a8235d9a958bd480d2fd": 8,
@@ -588,7 +588,7 @@
   "calendar_fetched_at": "2026-10-16T12:45:46.940497+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 108,
+    "count": 110,
     "day": "2026-10-16"
   },
   "recent_stories": [
