@@ -579,26 +579,10 @@
   "calendar_fetched_at": "2026-10-16T00:35:37.915829+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 294,
+    "count": 295,
     "day": "2026-10-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-09T22:45:44.336719+00:00",
-      "w": [
-        "among",
-        "between",
-        "cantor",
-        "democrat",
-        "fitzgerald",
-        "investigators",
-        "probes",
-        "senate",
-        "tether",
-        "ties",
-        "top"
-      ]
-    },
     {
       "at": "2026-10-09T23:01:20.528689+00:00",
       "w": [
@@ -3411,6 +3395,19 @@
         "targeted",
         "united"
       ]
+    },
+    {
+      "at": "2026-10-16T01:31:17.492640+00:00",
+      "w": [
+        "bitcoin",
+        "fed",
+        "kospi",
+        "plunges",
+        "rate",
+        "uncertainty",
+        "weighs",
+        "wilts"
+      ]
     }
   ],
   "resolved_events": [
@@ -3425,6 +3422,9 @@
     "bcd7a6abb4b29265dd529402"
   ],
   "seen_headlines": [
+    "4073e6d418d6ded53747bf21b6fe0ee68653901a3d68dbd37db388bfb52e4ade",
+    "748ea0b7f959f54e2d36c0d4bf7e176dfaee616206d67f7a0a4b52cae0b0d7e8",
+    "65386932f158963f23d4f1b30739712c48f5406b2a940349709df0cde8d67bde",
     "a17936807a7a7c217d817e7c0ef4dd1cb6d4343136309893e6f31f5402119ed3",
     "294b459dae5d1ae0ffbd251a455f5e409d6843b0d0e0994e153db19ef3ce999b",
     "74e93bf218e2898f9542151065e066292c73e94b455812e60e0518ccd2ccba20",
@@ -4421,10 +4421,7 @@
     "ac608153710daa9b103f43c6946e3aee06c52214fd6bb8f7a917ab25eef290e8",
     "af28c63181ab48d18e14832643a66024c66c9fe791aad2f7403eee891d6cecd4",
     "37c3e4fb094019f06f4a9819cc9836cfdb2f3f8f479af3c64f8e5439b794616b",
-    "0f98beb170810b016bd90ecf712c8a6d869c1767d5390c7a0a9849ee8bc3832b",
-    "6d48a4b52197678a74a88454d4ab25f845d6db46f896d631dba798e9b88deb73",
-    "d355dc8cd3eb6217218741754570c92f9c740d915f7ec3760b540562d4adda90",
-    "79ab0def87c9523b29ed7384e3e825fdd181fffeb964eaedbcde146d7d2dc18f"
+    "0f98beb170810b016bd90ecf712c8a6d869c1767d5390c7a0a9849ee8bc3832b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

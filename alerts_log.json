@@ -6870,5 +6870,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+  "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+  "published_at": "2026-10-15T03:57:45+00:00",
+  "sent_at": "2026-10-16T01:31:17.492830+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0674,
+    "XAUUSD": -0.0624,
+    "BTCUSD": -0.0435
+   },
+   "60": {
+    "EURUSD": -0.1122,
+    "XAUUSD": 0.0312,
+    "BTCUSD": 0.8407
+   }
+  },
+  "checks_base": "published"
  }
 ]
