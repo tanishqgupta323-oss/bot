@@ -7013,6 +7013,39 @@
   "eurusd": "BULLISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.2216,
+    "BTCUSD": -0.2384
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "NewsNation",
+  "title": "US plans for Iran include ‘mother of all bombs’: CNN report",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTW0tQmJVN1hEbkZTQ1c5MmsycnVtVmVDU1drcGJHV05sZ2VFbFZidG5LVTI5by1WbDRoYVVTRURZbVE3VUNCclJ1SE80ZS1xWGxHVGFIU1FhQnM0cXlTM1pGUmtOZXlvWmJrVUxBRFBfLWRkRzRQb19hZ2laY084cFVB0gGHAUFVX3lxTFBNbWh3LWQ2ZnR1V3dYUW5xeTJrLWJlSWt0T3RVUnlGX1NyX3JfVmtUbHdyZm9vdVRRc0FHbUNXNmc4NkNSWUFXOEpFOXRwU2Q1VzZjaUxpaWdBZ2xDU0tfWlVTRU9OeVdLcGstWVNHaDNfM2ZZSl9iYnVJZnpjSUgxTmFXU0FGTQ?oc=5",
+  "published_at": "2026-10-16T11:48:14+00:00",
+  "sent_at": "2026-10-16T13:05:47.203090+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0225,
+    "XAUUSD": -0.0596,
+    "BTCUSD": -0.3342
+   },
+   "60": {
+    "EURUSD": -0.1012,
+    "XAUUSD": -0.0596,
+    "BTCUSD": -0.7422
+   }
+  },
+  "checks_base": "published"
  }
 ]
