@@ -6969,5 +6969,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "IMF says ECB likely to raise rates by 25 bps once more in 2026",
+  "link": "https://www.investing.com/news/economy-news/imf-says-ecb-likely-to-raise-rates-by-25-bps-once-more-in-2026-93CH-4953596",
+  "published_at": null,
+  "sent_at": "2026-10-16T10:25:46.330114+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
