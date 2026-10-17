@@ -591,23 +591,10 @@
   "calendar_fetched_at": "2026-10-17T04:05:38.498826+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 312,
+    "count": 313,
     "day": "2026-10-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T08:15:43.251316+00:00",
-      "w": [
-        "build",
-        "capacity",
-        "iran",
-        "missiles",
-        "pauses",
-        "protects",
-        "strikes",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-10T09:31:04.856450+00:00",
       "w": [
@@ -3421,6 +3408,18 @@
         "strike",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-17T05:31:08.930096+00:00",
+      "w": [
+        "critical",
+        "global",
+        "iran",
+        "routes",
+        "trade",
+        "upended",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3436,6 +3435,10 @@
     "cd8b786c1dc98d116dcbdf81"
   ],
   "seen_headlines": [
+    "7f9d56db91f272cda936d8a1da402c11ab7631fd40b21ed8bbfb1048891bdaa1",
+    "82fbfc487bb7dcc3310ac1647ba84d1e04509dd2e8d1e71cdfbce4a5bb313866",
+    "7d761a263018c7ba6f805e562e943a8f08b1408646a25d1ef4537cf5d504fd1a",
+    "2de211145052507ccc862e0e851834fa5336956c23bbb6fd9fe79d3154e523bb",
     "fddd27cd9e1470ab5e56693490db59a9f38f63529257e2c3f28683dd1060c6b6",
     "ee186f7124df1f90d2b678e20348ec7f0065e5c311a66a7fb69e2b92c74e1f0b",
     "3e636b61fef5eaf4bf30c39639062908173b73ea04ee8a02b1019c8dcc3188f8",
@@ -4431,11 +4434,7 @@
     "5967573971f53d08acad81982c64606e044742248c97b961229ba447ac06b8bd",
     "a23f3ef7392afacd583f7234f41c84f467375c319826cfa9a7d9fc3af605afbf",
     "8835cac820dd1e41f5a45022feaa6246723b7dc6abc72397c63ed08c3fc45d62",
-    "311d82c3294b2bf57bd24c1fb4cdbf7ad3b49e19c51ab684306094eb65645f35",
-    "f06fc3838f86ed5e1638f237547c5778ab5e44bcd1ffe4b1d5f9c2bc0ad83662",
-    "4ff7bba93cd6863a65ba9546bff07a603b48aef84e3672f7252c9afd0208b7b4",
-    "4c35a11e2d5327544cf88f07f78d50d29427172ad18681c4e709f99165f15137",
-    "792530a22b5617eeb0dccb770e56af2bb0a4015686f19a35b879163f01168acf"
+    "311d82c3294b2bf57bd24c1fb4cdbf7ad3b49e19c51ab684306094eb65645f35"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
