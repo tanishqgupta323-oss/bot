@@ -7234,5 +7234,31 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "ABC News",
+  "title": "'Complete demolition': Trump outlines 4-hour attack plan if Iran deal isn't reached by 8 p.m. ET Tuesday",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGltUFRuUS1BMURfRS03WmV4dkprcE5rOER0YVozRERrYWVkYlJwZThQSVRHMVlFdlB0NUtfVC1ZQVk1Zm5JZllHb2hBUzhOMFJqMkl5LXBwRmxKMnRIY0s5c184VmVLRVVzYkIxMF9PSlBKLWpBWmhDTXJwaTEzelZfeEM4MUd6ODU1WXFMbnRIT1NaMWU2Wmc0LUhTSVgtbW42ctIBqgFBVV95cUxQOUZNOFlWUHFaRVlmRVBMS3FldGU0ci14NjEzS2hNT1dsbnp6YlJNX2ZyR1Iyck1hTlRYQW5UdVlJWlppMXpRNG9Fd296dXNod3dYdkFGOEpKT0lVTElQaWVveXZKLWFnSUt1Qmt1QjZIRUhfRERqNFpLZ1lnWjhVTi1VbjhRY0k3Und3ZHN5S0xXS3FKUjlkMmxiYU1BUFRrbjdXUHVMaVdyUQ?oc=5",
+  "published_at": "2026-10-16T23:46:43+00:00",
+  "sent_at": "2026-10-17T01:55:37.409890+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0477
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1499
+   }
+  },
+  "checks_base": "published"
  }
 ]
