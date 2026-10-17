@@ -7286,5 +7286,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "アラブニュース",
+  "title": "Trump rules out nuclear attack on Iran, eyes Pickaxe Mountain for possible strike",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUpzX1pkaW14d1JKR3RzOGNUcWg3cUVnbmNpREJCVnR1NktFX21qbjZkVHdleWN1Wmk3dU5sVTVFejJmNjE4enUtWHZFdGJia3lOQ3hvZkhuc1JJR1kwQnlGeEpCZ05USTlWcEthdFd0a1BBVC1iWkpqVUJKTVMtM2wwcGUzVGRhbUVOYloxSjRRUFJHNFU0VkRhMzd1RVJEeXdHN0J4aGs1bnM0eEZ1UUc4dWxYem03NUd1ejdCQmRRNFRMT2c?oc=5",
+  "published_at": "2026-10-17T04:23:29+00:00",
+  "sent_at": "2026-10-17T04:25:34.472927+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
