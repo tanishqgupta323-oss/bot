@@ -7442,5 +7442,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "New York Post",
+  "title": "Ship attacks in Strait of Hormuz hit record high since Iran war began",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlN5TWxmQURRb0JMV1ZUa3JHemxkNEhNQUNDdXFxdUhGSzRvWDBVQll0dHNCZ3lvWTZPQllIaXNxTWFFX0NlT0tSblVONHlRbkhPX2IyZWRxQWx4cDZDT2MyQldENnB2TFNweXdRUVY0WHdzTzdnRzFjRExoT05KRFF0OHBnd3BDZjRQZzI0bVFFanctcWdzS0N0NDEtMnpZZjBLVGN5WFItc2dFREluYQ?oc=5",
+  "published_at": "2026-10-17T18:42:00+00:00",
+  "sent_at": "2026-10-17T20:40:47.400515+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0037
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1243
+   }
+  },
+  "checks_base": "published"
  }
 ]
