@@ -7468,5 +7468,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "US September import price index +1.1% vs +0.8% expected",
+  "link": "https://investinglive.com/news/us-september-import-price-index-1-1-vs-0-8-expected/",
+  "published_at": "2026-10-16T12:30:07+00:00",
+  "sent_at": "2026-10-17T20:50:48.026317+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.045,
+    "XAUUSD": -0.0572,
+    "BTCUSD": -0.0897
+   },
+   "60": {
+    "EURUSD": -0.0562,
+    "XAUUSD": -0.4097,
+    "BTCUSD": -0.4159
+   }
+  },
+  "checks_base": "published"
  }
 ]
