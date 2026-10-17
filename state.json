@@ -7,7 +7,7 @@
     "162a0e9c1a002ca8bff6b72d": 8,
     "16ce1a474505b9722630b945": 8,
     "23a9bdfb5a63d7bc060105e9": 8,
-    "243ee793cca8b7d6a58ddae9": 2,
+    "243ee793cca8b7d6a58ddae9": 3,
     "24b7cc766b4dc94389dfc3a8": 8,
     "29ce61889b8928b1b1dd55ed": 8,
     "304183b2b3207b2798be8cb9": 8,
@@ -591,7 +591,7 @@
   "calendar_fetched_at": "2026-10-17T04:05:38.498826+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 301,
+    "count": 302,
     "day": "2026-10-16"
   },
   "recent_stories": [
