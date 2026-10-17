@@ -591,24 +591,10 @@
   "calendar_fetched_at": "2026-10-17T13:20:43.891843+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 64,
+    "count": 65,
     "day": "2026-10-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T10:35:33.016784+00:00",
-      "w": [
-        "500",
-        "bitcoin",
-        "commitments",
-        "debut",
-        "lending",
-        "million",
-        "power",
-        "set",
-        "tech"
-      ]
-    },
     {
       "at": "2026-10-10T10:55:34.521539+00:00",
       "w": [
@@ -3425,6 +3411,19 @@
         "strait",
         "tankers"
       ]
+    },
+    {
+      "at": "2026-10-17T14:31:06.309124+00:00",
+      "w": [
+        "against",
+        "considering",
+        "initial",
+        "iran",
+        "limited",
+        "source",
+        "strike",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3440,6 +3439,8 @@
     "cd8b786c1dc98d116dcbdf81"
   ],
   "seen_headlines": [
+    "c625fa122d7076d04f07fdb18e86dd5b95e3c3751c3923d6534d39cdbdd3d9d9",
+    "5d6570731ebc81ce1fa01284879cd5005970e228ea92a600abab1420a76eb212",
     "faa60ab232186fe53c80ccbd4ba9fb2782e753480396801566820851e412cc2e",
     "12578b3b0fc4e9fcb5ca182de55440bf59b400e9eeaa2718d06c13cb4bbbe79d",
     "c2f1ce248e4fabe5fa683550409b2f3e9e2a8c2bfd653d1c5fae46fd115527a9",
@@ -4437,9 +4438,7 @@
     "2a6e2474a0407245ff7463f1b9f9f0b729278a0594bc1fee74749b6ee0b35ed5",
     "280cf8be5e1dc77bb019408f34f458685469c592d29c3a8449f33a99e428af10",
     "9cb0b2ef98d395451c4ff476a19ed5b6085c881c3645648441b3f541e8d97cc3",
-    "81aed59e97f748cbe86f5f1f0fd0a8930cdc07f408e7a34a9fcb8e0dfe9803f8",
-    "73163b86edc5017775a3c5e8338322149dc4120f0f09194828e056c6935049dd",
-    "7c4a8178106c6194784f501f39e8905a59194c7750bada6ec18124c0fb80beb7"
+    "81aed59e97f748cbe86f5f1f0fd0a8930cdc07f408e7a34a9fcb8e0dfe9803f8"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

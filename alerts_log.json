@@ -7385,5 +7385,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "ABC News",
+  "title": "Trump considering initial limited strike against Iran, source says",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMy1tU1J2VzN6VURid3B3bnRCZm95bFNZYVJ0QlFKYktrQWdVYWpQMDJIRTNNR29iZkZ6YVRaWmwwTkdQRUV0UGdtbU56eUVkajBLeVFjNEJDQ28wRFFaNTQ1UG4wU1JZZGlwOHp1ZkJXRmVwMGRxa3kwLUphWkUya0tHX3ItYVBhdjJCOTk0cUR0QdIBlwFBVV95cUxQZzZ1WFFweFh3Ql9GVnlGRTE5YVFvYmt2OC1IY2VZVlN0eUJmdDhBNHhlaE5rRW5HOEhlUllqNHoxLUdmb1pQY1llalFjTXhnUVJjZ3lHUEQ5NjJMa0k5TTJaZ1RWeWlFemRmMnd2NXl0SGxxRlhVT0FIV1Z2dTh1THEwQkU0cjV3R2hhQlc4WlJWZ1FVTnY4?oc=5",
+  "published_at": "2026-10-17T10:24:27+00:00",
+  "sent_at": "2026-10-17T14:31:06.309267+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0561
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.016
+   }
+  },
+  "checks_base": "published"
  }
 ]
