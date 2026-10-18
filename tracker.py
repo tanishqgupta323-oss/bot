@@ -10,6 +10,7 @@ import bisect
 import html
 import json
 import re
+import statistics
 import sys
 from datetime import datetime, timedelta
 from typing import Any
@@ -27,8 +28,10 @@ NOISE_PCT = {"EURUSD": 0.005, "XAUUSD": 0.01, "BTCUSD": 0.02}
 MAX_GAP_MIN = 10          # if no candle within 10 minutes, the market was closed -> no price
 MAX_RECHECK_DAYS = 6      # Yahoo keeps ~7 days of 1-minute data
 MIN_JUDGMENTS = 10        # a source needs this many scored judgments to be called "best"
+MAX_DELAY_MIN = 360       # delays above 6 hours are old re-posts and are left out of the delay stats
 LINE = "━━━━━━━━━━━━━━━━━━"
-BASIS_NOTE = "Moves are measured from the news publish time when the feed gives it, otherwise from the alert time."
+BASIS_NOTE = ("Moves are measured from the news publish time when the feed gives it, otherwise from the alert time. "
+              "Delay is the median; items older than 6h are ignored as stale re-posts.")
 
 
 def fetch_candles(pair: str):
@@ -146,7 +149,7 @@ def hit_rate(counts: dict[str, int]) -> str:
 
 
 def avg_delay(entry: dict[str, Any]) -> float | None:
-    return sum(entry["delays"]) / len(entry["delays"]) if entry["delays"] else None
+    return statistics.median(entry["delays"]) if entry["delays"] else None
 
 
 def story_key_words(title: str) -> set[str]:
@@ -189,7 +192,9 @@ def compute_stats(rows: list[Any]) -> dict[str, Any]:
         entry["stories"] += 1
         published = parse_datetime(row.get("published_at"))
         if published is not None:
-            entry["delays"].append((sent - published).total_seconds() / 60)
+            delay_minutes = (sent - published).total_seconds() / 60
+            if 0 <= delay_minutes <= MAX_DELAY_MIN:
+                entry["delays"].append(delay_minutes)
         checks = row.get("checks") if isinstance(row.get("checks"), dict) else {}
         for horizon in ("15", "60"):
             moves = checks.get(horizon)
@@ -211,7 +216,7 @@ def build_report(rows: list[Any]) -> str:
         "A pair counts as a hit if price moved the way the bias said (BULLISH up, BEARISH down).",
         BASIS_NOTE,
         "-" * 78,
-        f"{'SOURCE':<18}{'STORIES':>8}  {'15 MIN HIT RATE':<20}{'60 MIN HIT RATE':<20}{'AVG DELAY':>10}",
+        f"{'SOURCE':<18}{'STORIES':>8}  {'15 MIN HIT RATE':<20}{'60 MIN HIT RATE':<20}{'MED DELAY':>10}",
         "-" * 78,
     ]
     for source, entry in sorted(data["stats"].items(), key=lambda item: -item[1]["stories"]):
@@ -278,7 +283,7 @@ def build_telegram_report(rows: list[Any], days: int = 7) -> str:
     fast_line = ""
     if delays:
         fastest_delay, fastest_source = min(delays)
-        fast_line = f"\n⚡ Fastest average delay: {html.escape(fastest_source)} ({fastest_delay:.0f} min)"
+        fast_line = f"\n⚡ Fastest median delay: {html.escape(fastest_source)} ({fastest_delay:.0f} min)"
 
     return (
         f"{header}\n{body}\n\n"

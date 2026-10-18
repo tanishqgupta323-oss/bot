@@ -36,6 +36,7 @@ GEMINI_DAILY_CAP = 350   # max Gemini calls per quota day (free limit is 500)
 ALERTS_LOG_FILE = Path(os.getenv("ALERTS_LOG_FILE", "alerts_log.json"))
 ALERT_IMPACTS = {"HIGH"}      # live-news impact levels sent to Telegram (add "MEDIUM" or "LOW" to get more)
 LOG_FILTERED_ALERTS = False   # True = still log the filtered ones silently (no Telegram) for source statistics
+MAX_NEWS_AGE_HOURS = 6        # skip headlines published more than this many hours ago (old re-posts)
 
 UTC = timezone.utc
 IST = timezone(timedelta(hours=5, minutes=30))
@@ -672,7 +673,7 @@ def prompt_for_actual(event: CalendarEvent, headlines: list[Headline]) -> str:
     )
 
 
-def prompt_for_live_news(headlines: list[Headline]) -> str:
+def prompt_for_live_news(headlines: list[Headline], already_sent: list[str] | None = None) -> str:
     return (
         "Select headlines that could plausibly move EURUSD, XAUUSD (gold) or BTCUSD in the short term. "
         "Relevant topics: Fed and ECB decisions or speeches, inflation, jobs, GDP, USD strength or weakness, "
@@ -688,7 +689,12 @@ def prompt_for_live_news(headlines: list[Headline]) -> str:
         "Use NEUTRAL when an instrument is not affected and UNCLEAR only when the headline is genuinely ambiguous. "
         "Return a JSON list; each item has: index (matching the record), impact (HIGH, MEDIUM or LOW), "
         "eurusd, xauusd, btcusd (BULLISH, BEARISH, NEUTRAL or UNCLEAR), "
-        "reason (one clear English sentence, max 25 words). Return [] if none qualify. "
+        "reason (one clear English sentence, max 25 words), "
+        "group (integer: headlines in this batch about the same real-world event must share the same group number, "
+        "different events get different numbers), "
+        "repeat (true or false: true if the headline reports the same event or development as one of the "
+        "ALREADY_SENT titles, even if it is worded differently). Return [] if none qualify. "
+        f"ALREADY_SENT: {json.dumps(already_sent or [], ensure_ascii=False)} "
         f"HEADLINES: {json.dumps(headline_records(headlines), ensure_ascii=False)}"
     )
 
@@ -909,20 +915,35 @@ class TradingNewsBot:
             state["first_run_complete"] = True
             LOG.info("First run: recorded %d existing headlines; no backfill alerts", len(headlines))
             return
-        new_items = [item for item in headlines if item.identity not in seen][:self.config.max_headlines_per_run]
+
+        now = utc_now()
+        fresh_cutoff = now - timedelta(hours=MAX_NEWS_AGE_HOURS)
+        candidates = [item for item in headlines if item.identity not in seen][:self.config.max_headlines_per_run]
+        stale = [i for i in candidates if i.published_at is not None and i.published_at < fresh_cutoff]
+        new_items = [i for i in candidates if i.published_at is None or i.published_at >= fresh_cutoff]
+        if stale:
+            seen_list = ([i.identity for i in stale] + seen_list)[:self.config.max_seen_links]
+            state["seen_headlines"] = seen_list
         if not new_items or not self.gemini.available:
+            if stale:
+                LOG.info("Live news: %d stale headlines skipped (older than %dh)", len(stale), MAX_NEWS_AGE_HOURS)
             return
-        result = self.gemini.json_response(prompt_for_live_news(new_items))
+
+        recent = list(state.get("recent_stories", []))
+        title_cutoff = now - timedelta(hours=12)
+        already_sent = [
+            str(entry["t"]) for entry in recent
+            if entry.get("t") and (parse_datetime(entry.get("at")) or title_cutoff) >= title_cutoff
+        ][-20:]
+
+        result = self.gemini.json_response(prompt_for_live_news(new_items, already_sent))
         if not isinstance(result, list):
             LOG.warning("Live-news classification did not return a JSON list; will retry next run")
             return
         # Mark as reviewed only after Gemini returned a valid list, so API failures are retried.
         state["seen_headlines"] = ([item.identity for item in new_items] + seen_list)[:self.config.max_seen_links]
-        now = utc_now()
-        recent = list(state.get("recent_stories", []))
-        sent_count = 0
-        skipped = 0
-        filtered = 0
+
+        picks = []
         for item in result:
             if not isinstance(item, dict):
                 continue
@@ -930,8 +951,19 @@ class TradingNewsBot:
                 headline = new_items[int(item.get("index"))]
             except (TypeError, ValueError, IndexError):
                 continue
+            picks.append((headline.published_at or now, item, headline))
+        picks.sort(key=lambda entry: entry[0])      # earliest report of an event goes first
+
+        sent_groups: set[str] = set()
+        sent_count = skipped = clustered = filtered = 0
+        for _, item, headline in picks:
             biases = [normalized_bias(item.get(key)) for key in ("eurusd", "xauusd", "btcusd")]
             if all(value in {"NEUTRAL", "UNCLEAR"} for value in biases):
+                continue
+            group = item.get("group")
+            group_key = str(group) if group is not None else None
+            if item.get("repeat") is True or (group_key is not None and group_key in sent_groups):
+                clustered += 1
                 continue
             clean_title, publisher = split_publisher(headline)
             words = story_words(clean_title)
@@ -957,16 +989,20 @@ class TradingNewsBot:
                 filtered += 1
                 if LOG_FILTERED_ALERTS:
                     record["silent"] = True
-                    recent.append({"w": words, "at": now.isoformat()})
+                    recent.append({"w": words, "t": clean_title[:140], "at": now.isoformat()})
                     log_alert(record)
                 continue
             if self.telegram.send(live_news_message(headline, item)):
                 sent_count += 1
-                recent.append({"w": words, "at": now.isoformat()})
+                recent.append({"w": words, "t": clean_title[:140], "at": now.isoformat()})
+                if group_key is not None:
+                    sent_groups.add(group_key)
                 log_alert(record)
         state["recent_stories"] = recent[-200:]
-        LOG.info("Live news: %d new headlines reviewed, %d alerts sent, %d duplicates skipped, %d below impact filter",
-                 len(new_items), sent_count, skipped, filtered)
+        LOG.info(
+            "Live news: %d reviewed, %d sent, %d same-event repeats, %d duplicates, %d below impact filter, %d stale",
+            len(new_items), sent_count, clustered, skipped, filtered, len(stale),
+        )
 
     def run(self) -> int:
         if not self.config.telegram_token or not self.config.telegram_chat_id:
