@@ -7676,5 +7676,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "chinadailyhk",
+  "title": "Iran's IRGC: 2nd supertanker explodes after hitting mine in Hormuz Strait",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JUjlicjUzTnVvMVBRQmJaQkQwTDNoc0pZWmRkOFJjMlhRdjRfckp2T2xtLVZ2bzNyQkFZSEdieXRoeXpSYmZuZ2lTLVlvb3VUcVlteVYwODk?oc=5",
+  "published_at": "2026-10-18T07:43:52+00:00",
+  "sent_at": "2026-10-18T08:10:47.107907+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.013
+   }
+  },
+  "checks_base": "published"
  }
 ]
