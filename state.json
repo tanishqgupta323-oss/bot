@@ -313,21 +313,10 @@
   "calendar_fetched_at": "2026-10-18T13:40:46.994989+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 73,
+    "count": 74,
     "day": "2026-10-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T14:05:35.323664+00:00",
-      "w": [
-        "airport",
-        "blast",
-        "heard",
-        "loud",
-        "reuters",
-        "riyadh"
-      ]
-    },
     {
       "at": "2026-10-10T15:40:45.125391+00:00",
       "w": [
@@ -3139,6 +3128,23 @@
         "strikes",
         "vessels"
       ]
+    },
+    {
+      "at": "2026-10-18T14:10:48.747651+00:00",
+      "t": "Shock Leak Triggers Sudden Bets On A Massive Bitcoin ‘Bailout’ Amid Price Crash Fears",
+      "w": [
+        "bailout",
+        "bets",
+        "bitcoin",
+        "crash",
+        "fears",
+        "leak",
+        "massive",
+        "price",
+        "shock",
+        "sudden",
+        "triggers"
+      ]
     }
   ],
   "resolved_events": [
@@ -3154,6 +3160,8 @@
     "cd8b786c1dc98d116dcbdf81"
   ],
   "seen_headlines": [
+    "fcd0bbe7667c53ac51541f64e19816dd497053a116031896bd0a1efe1990cfd5",
+    "436a207f9555601a12452602f1640eebd1ad6df15ca5701de534cb5463c77d79",
     "ad6a88b12fdb42d76916e4020a5363a76bef41e14c5cfa3e72dda723dd8120bd",
     "b5c24716ee956843f70b43f8635fa2d1c9574152f72965e4e3abae2b7fa26da9",
     "7de98d3edb962442a00e2bab97114e51bef37ea9264b0c5a97dec7e48204581e",
@@ -4151,9 +4159,7 @@
     "d75b42d5705134e41e812bbea228d6b694729960267a2e6d0ac3aaae6dc8f4a6",
     "05d55a7f17522b2b2eb663cbe92adfc2a1d8ed565c867d2f1450fafa7e553f29",
     "6852b17f05c31c76cf3fed0277b6c596a4596d72f61e715274cb1ad3e44cd3a0",
-    "d85937c26db33f7434e98d6190f6db35af66d68ef7cee3a2a5f32e62376faa2b",
-    "18289210d9fe5d0fd687c5aa8ec7af6d17611a90f981eff4894f77cddd20959b",
-    "f69ab7469748d9e58cc5d012929693cb6f488297c42d78e4a3c18a24c34e7c9b"
+    "d85937c26db33f7434e98d6190f6db35af66d68ef7cee3a2a5f32e62376faa2b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
