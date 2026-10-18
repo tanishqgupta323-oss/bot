@@ -7780,5 +7780,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Romanian F-16s shoot down two drones over Black Sea, NATO council to meet Tuesday",
+  "link": "https://investinglive.com/news/romanian-f-16s-shoot-down-two-drones-over-black-sea-nato-council-to-meet-tuesday/",
+  "published_at": "2026-10-18T20:22:33+00:00",
+  "sent_at": "2026-10-18T21:05:41.690801+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0703
+   }
+  },
+  "checks_base": "published"
  }
 ]

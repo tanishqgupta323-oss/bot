@@ -313,22 +313,10 @@
   "calendar_fetched_at": "2026-10-18T19:45:41.935293+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 149,
+    "count": 150,
     "day": "2026-10-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T16:40:47.679611+00:00",
-      "w": [
-        "airport",
-        "blast",
-        "eyewitnesses",
-        "multiple",
-        "people",
-        "riyadh",
-        "wounded"
-      ]
-    },
     {
       "at": "2026-10-10T17:15:45.164764+00:00",
       "w": [
@@ -3146,6 +3134,23 @@
         "trump",
         "vows"
       ]
+    },
+    {
+      "at": "2026-10-18T21:05:40.766135+00:00",
+      "t": "Romanian F-16s shoot down two drones over Black Sea, NATO council to meet Tuesday",
+      "w": [
+        "16s",
+        "black",
+        "council",
+        "down",
+        "drones",
+        "meet",
+        "nato",
+        "romanian",
+        "sea",
+        "shoot",
+        "tuesday"
+      ]
     }
   ],
   "resolved_events": [
@@ -3161,6 +3166,11 @@
     "cd8b786c1dc98d116dcbdf81"
   ],
   "seen_headlines": [
+    "c76e5560bbfbdc9d5332da6bc0ea0dcf961d398d65a93b3ef35ad7525c657606",
+    "68de7b2444af9406f17433c3a099f7e53208c2b907a264f6cee8fdb8b935116c",
+    "6ea8affa11ea0b28c2c38f20b8e481f691df1dc30ad4372437c012005a9ea28e",
+    "55ccc6befef28ed83b358fa08381aeb2f04e5227fec9f7b742d39dbf304196c6",
+    "7f9debf9fbd1df5221af44727f546efbfd691c6d23b8f4c8697070bbbfce7cee",
     "c28023e752aa4393ba0792e080470f024ea7c627484625557c0af6e458e794d0",
     "b43b757fc47cff2043a38e7efd52818dd92360ac1685c3191ce8830b1b936f56",
     "b1836e679e0cf53f6e4948befa34ed2be0d3ece0587bfa49daf951bdbb13e9d0",
@@ -4155,12 +4165,7 @@
     "c45b280d19d9c79a9e4725d345ffc8196abeb773eb72b06368e2293ea02e058a",
     "d66513e3ee1a60f3872d2237c6217e22e64d26392cb62c2a8ccab6f5f9e76b66",
     "e62fcbe3a45126d98cb508f6911d31088d11c127199dfcccd92821507936e4c4",
-    "053421bbe4a712c11d79321f5e70cb8d5d2883b6903d3491a369720d97c481b4",
-    "88e2633c874e4da92a62c72034919238eb8436f3c4f3f6abcc377cc45ed66db0",
-    "160517b76ac3594d0aa9a35930d2a2f0fdfb193905f190f3dcc6f6cd499946e5",
-    "55fdb63d0709356d0a3b3f59357c753c644e1e505198aac75704da9667e57ad6",
-    "a617d63e9c46c0519365a37471be2d995ca4b7c9133e261961773bff92bb3d4c",
-    "814cf8c4c544d37258c4a6694f529118c8882c65d062a2410e1acf6bcfc79dfe"
+    "053421bbe4a712c11d79321f5e70cb8d5d2883b6903d3491a369720d97c481b4"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
