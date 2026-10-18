@@ -7624,5 +7624,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Iran war: Tankers hit near Hormuz as Tehran offers U.S. reopening plan",
+  "link": "https://www.investing.com/news/economy-news/iran-war-tankers-hit-near-hormuz-as-tehran-offers-us-reopening-plan-4955749",
+  "published_at": null,
+  "sent_at": "2026-10-18T03:45:45.789693+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
