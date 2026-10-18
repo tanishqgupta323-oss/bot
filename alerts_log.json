@@ -7702,5 +7702,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNBC",
+  "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTjVoekNKSmw2RVRNS0h1WmV3SFVkUlUwUnFyX2ZqeExKMlk5aTQxWTdGSFBVbXFTUGZWSTNqejcxMk40TGlVdHBoS2RTTU5yMWFTOUhTZW0xVDhkNi02MVRKOUphdlNoenVBVkVoZm5uMTA1Umk2a0NJTzdHQkNyYzhsR0drUWlaSDdBZW5oQzg5WEnSAZgBQVVfeXFMT3ZIMWthWE1pMkRGSXlkZnpvRHRVd1NMc2hqOFIzN2RIUkNVX3E5OW9zNGh1WjVUMk9jYWlybldaWXRUay1ONmc3T3dKMkdxRDFnLXM1Nm1tblNvSmxUZ3paOTU4VjlGeE40bmY1THJ2M25Ua1NUUHplUmp1WUpwLXhPc0M1ZGM0eG1qSFRMSGtxVTZucTh3Qjk?oc=5",
+  "published_at": "2026-10-18T13:52:24+00:00",
+  "sent_at": "2026-10-18T14:01:27.263875+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
