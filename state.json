@@ -591,24 +591,10 @@
   "calendar_fetched_at": "2026-10-18T01:31:04.245788+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 185,
+    "count": 186,
     "day": "2026-10-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T12:31:06.900966+00:00",
-      "w": [
-        "deal",
-        "fuel",
-        "peace",
-        "putin",
-        "sputter",
-        "strike",
-        "talks",
-        "trump",
-        "ukraine"
-      ]
-    },
     {
       "at": "2026-10-10T12:31:06.900966+00:00",
       "w": [
@@ -3415,6 +3401,22 @@
         "ports",
         "strait"
       ]
+    },
+    {
+      "at": "2026-10-18T02:40:49.764844+00:00",
+      "w": [
+        "100",
+        "barrel",
+        "cross",
+        "fuel",
+        "global",
+        "iran",
+        "oil",
+        "prices",
+        "sends",
+        "surging",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3430,6 +3432,7 @@
     "cd8b786c1dc98d116dcbdf81"
   ],
   "seen_headlines": [
+    "912df9077e0331f20414ee140f9be424947dff04c69dba9af4be4b81ece21b72",
     "3fb2ba9482004f23eaa471a6637b29029c95fc1bf901e9271391c39dae8c9a4e",
     "70501aac9c760d8726f8c9dce5ba414669cfed28f82894604c2a15fd61f09c2e",
     "bc79c2d36c15fbe8915cba0fc3a9bbda67f95d8efaa5d3aba51aaffc76047f82",
@@ -4428,8 +4431,7 @@
     "ab2f589d36970c2e8d27becbc3baa21a1876ad8952bdd958071ebaf859499723",
     "393d46841b8b01ee2fafef6ecf0b1c7ab9f6e4e9d3cb72b533f3470bfe7a6020",
     "fd3558f6ef59b33ccf2cb237192fb46c7e60b8e96be0aee4ee73e39b63e10808",
-    "a2e16960abf5930d373fa22e075333949cccf0c9500c14407afd5d6f3b35ce71",
-    "005111300ea1420644860e20f0f732883468c15633c60a57e0876a82b8544675"
+    "a2e16960abf5930d373fa22e075333949cccf0c9500c14407afd5d6f3b35ce71"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
