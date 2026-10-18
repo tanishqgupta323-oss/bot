@@ -7546,5 +7546,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "ABC News",
+  "title": "How the US Navy could enforce a blockade of Iran's ports in the Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnhwRldOZDVBVkV6aENhR2tlSHlCcjRaZG4tcjJoVXhqU0NuTnRONF92dGdXNHJ3WEhkcG9WeUJiUEozeWRuWnZCSTA3WEVJdU8xOG82OTZLWjZnRjFPUXJIaXF1RHBjUFNmQnh5WkdzS1ZlLUs4c3NVTlY3SWJIWHdrU09kNF9DZ3ZrRS1COGt2b19sZ1VYemJZdGFjSVXSAaQBQVVfeXFMTXBJQWpjeFNwQXkybFpBOTJpMndERnB6NGtsXzV4cTRZd2FCQXdTall6aXlvdVpWZjZod05rZkZxVlpwR0c1dUdDZTBvUjhRXzcxbHh4QmxNR1dXcjJtUU4tTUR1V3ZNbUxIcDd1TXJaVEFlWnNQc0N5cXdwcEt1WGhhbDVtck8xQWZSaXY5VURIMW9JZG82TVN3REs4Q0ZXbkNYZ2M?oc=5",
+  "published_at": "2026-10-17T21:00:01+00:00",
+  "sent_at": "2026-10-18T01:13:51.217436+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0153
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.4844
+   }
+  },
+  "checks_base": "published"
  }
 ]
