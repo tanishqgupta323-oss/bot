@@ -591,27 +591,10 @@
   "calendar_fetched_at": "2026-10-18T01:31:04.245788+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 194,
+    "count": 195,
     "day": "2026-10-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T13:25:33.904120+00:00",
-      "w": [
-        "aide",
-        "call",
-        "first",
-        "friendly",
-        "hang",
-        "kremlin",
-        "neither",
-        "nor",
-        "putin",
-        "trump",
-        "very",
-        "wanted"
-      ]
-    },
     {
       "at": "2026-10-10T13:25:33.904120+00:00",
       "w": [
@@ -3417,6 +3400,20 @@
         "tehran",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-18T04:01:21.958787+00:00",
+      "w": [
+        "breaks",
+        "buyers",
+        "cracks",
+        "dollar",
+        "find",
+        "futures",
+        "gold",
+        "rally",
+        "treasury"
+      ]
     }
   ],
   "resolved_events": [
@@ -3432,6 +3429,8 @@
     "cd8b786c1dc98d116dcbdf81"
   ],
   "seen_headlines": [
+    "a2c00f7675f45f7c25b6b15a310ca9305e0c8e8dfa8b9fc5e7082757216cef54",
+    "f4d92b295f8488352c9de6a9cea708567df5f5aacc4a0b54ec2066f6929a241d",
     "5e5b2e7c2a556b9c1587f7d748051c2af2b477c7e78fa26261048dd466126708",
     "cf0b62414b894e046e038d5f6aad1b87894ca82140b1f301d9ebea81dbc29374",
     "83b81545a5f10a337e62851e37d0ac46de352fd566705c147331753757b1ecd2",
@@ -4429,9 +4428,7 @@
     "85d1e665ed8ba253c80c311dc5ef121d0e3a5b11944d21fe81bfb241b30be58e",
     "90aa94370f90bf24fe51aebe7fea93c31468fc95b4eb81fb77875c99c763e1c9",
     "7f1e446fed7a7cf5822f22f6da7c4f2f30367b4218294b75c66f312626b9b060",
-    "4ebe500cf5ff85ee01612ded1f49fa200bf8f84d1d778fab09cb864870a272f5",
-    "39cae192387bc6c1bad0786fcf39364be26632105f00b0054417a625ea339d41",
-    "bd23298404be9096a7738708decfdd0c5388a9d934e207458a13f32f57635789"
+    "4ebe500cf5ff85ee01612ded1f49fa200bf8f84d1d778fab09cb864870a272f5"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

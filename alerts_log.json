@@ -7638,5 +7638,31 @@
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "StoneX",
+  "title": "Gold breaks out as dollar rally cracks and Treasury futures find buyers",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX2dSSkFQb2J2VDZ0RV9fM1JWV0toY2pfQXF0Tml3NlB3dUpncjFsZGpaUzU5UFBDdDNRYTI3WXMyWVVJaG9vRkV0R1FTZDl2dlN4M2c5RlVBNDJkSGpyYWlZUy1hVXpQaHV0Q3l0T3ZYNGd1OWNfa2FLYjcxVEY3OHEtdTBVMGwyR0YzOTZrLVhoRF9CSzg0ZXlVOTcyWjhCT3FFUTRWQXZmOHVjeWQ5WVZvVUZpWUtDWlBZ?oc=5",
+  "published_at": "2026-10-18T00:10:02+00:00",
+  "sent_at": "2026-10-18T04:01:21.958967+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1191
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1653
+   }
+  },
+  "checks_base": "published"
  }
 ]
