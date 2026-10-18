@@ -7754,5 +7754,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Iran International",
+  "title": "Trump says US may ‘soon finish the job’ on Iran, Netanyahu vows to topple regime",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSTmxWOUFCeEJadWZlNmpubGhjdGtMbThJd2k3ZVA5Z2wxYkF6VUFUQ0tpRHZHc05wRS1rSy1uZnkzTzBqRTd4WDN1Zlo4U25HRmc?oc=5",
+  "published_at": "2026-10-18T16:48:01+00:00",
+  "sent_at": "2026-10-18T17:50:49.708848+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1108
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0442
+   }
+  },
+  "checks_base": "published"
  }
 ]
