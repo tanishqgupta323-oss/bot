@@ -313,23 +313,10 @@
   "calendar_fetched_at": "2026-10-19T07:50:48.011910+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 29,
+    "count": 30,
     "day": "2026-10-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T17:40:45.261337+00:00",
-      "w": [
-        "deal",
-        "get",
-        "make",
-        "president",
-        "russia",
-        "time",
-        "trump",
-        "ukraine"
-      ]
-    },
     {
       "at": "2026-10-10T17:40:45.261337+00:00",
       "w": [
@@ -3146,6 +3133,21 @@
         "top",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-19T10:15:45.716639+00:00",
+      "t": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
+      "w": [
+        "adding",
+        "boom",
+        "fed",
+        "headache",
+        "inflation",
+        "medicine",
+        "others",
+        "pay",
+        "sees"
+      ]
     }
   ],
   "resolved_events": [
@@ -3161,6 +3163,10 @@
     "cd8b786c1dc98d116dcbdf81"
   ],
   "seen_headlines": [
+    "001bc6572cea964444c45b8f0b5482e7d39c301c21c9ba0db3df7f91e909b820",
+    "a2db82eb001f358c956917c263cce8a871d149334d73329d872c7c34bd1926e5",
+    "0da931350b4ec8434c9cbd3393048f317610c6df004070a9ea11f66817f3dad9",
+    "824b25710b64a4d24d5720e6d8daeb8097d93c3f57039422e4faccd1eefe5901",
     "f07b4c756d8f4418d725969d9571b1483e161b1191dab6fab80ce003b766a000",
     "4a75d352858d2e7d158d1b73bdf4db9016fae88e5389fdbd0e5461307d53aef5",
     "11ad6127849fbd4ee0114a6a7779010936538a9fb30c71c600bdd3917a5b211a",
@@ -4156,11 +4162,7 @@
     "7a5c636308e03425df44a50237a7c220206bc0c771ff0b150f9c3e084ae86ce6",
     "336aa56689a5455a6c0cc124f7fc934cb418c004715ba04c1d00be690b745cd1",
     "0758a6b6b8e5fce1c6b6cbe4c11971652c1b3359381e04c7a4f32071efa92cff",
-    "b8b8128968e684cc5cb418f5ec25e559a4c28003f937231d8035fcc6bd73112b",
-    "26710d1243fc7c0c8d2eaa05695c4cc51067301cb60ad2c3c45dcc71c79024c7",
-    "db9af7e2a94d4b02ad2280a84cc1b35df710160a4c76bd0213065cf721216f9d",
-    "821b8183065983dc7b6e9c90740fb1ea4089933786b9ddc61718f5d3957e7258",
-    "f4ab65ffa0ad0f685edef6bd3b2d5815f17e3776ef89b9465aef2a0fb0491117"
+    "b8b8128968e684cc5cb418f5ec25e559a4c28003f937231d8035fcc6bd73112b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
