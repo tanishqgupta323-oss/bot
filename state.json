@@ -313,28 +313,10 @@
   "calendar_fetched_at": "2026-10-19T10:50:50.674222+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 53,
+    "count": 54,
     "day": "2026-10-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T17:40:45.261337+00:00",
-      "w": [
-        "altman",
-        "backed",
-        "bain",
-        "bitcoin",
-        "capital",
-        "crypto",
-        "insurer",
-        "led",
-        "meanwhile",
-        "million",
-        "round",
-        "sam",
-        "secures"
-      ]
-    },
     {
       "at": "2026-10-10T17:45:46.378847+00:00",
       "w": [
@@ -3148,6 +3130,19 @@
         "pay",
         "sees"
       ]
+    },
+    {
+      "at": "2026-10-19T12:40:48.940860+00:00",
+      "t": "Why BofA still sees an October Fed rate hike",
+      "w": [
+        "bofa",
+        "fed",
+        "hike",
+        "october",
+        "rate",
+        "sees",
+        "still"
+      ]
     }
   ],
   "resolved_events": [
@@ -3163,6 +3158,16 @@
     "cd8b786c1dc98d116dcbdf81"
   ],
   "seen_headlines": [
+    "d870a724a2af0beb1139b9a453ced61c6eb55632ec1a9c40d7c1b5c337d7f189",
+    "b316b2f29a24fe4b48ff3063f90f162b03ab542d848c23b973a17e25951f11ef",
+    "e09e59b2deb919610159a30d0ef3f24417f69cac55f9f686b3fdd3e79245c28e",
+    "8b713e589613b749b3bd26e5b504f47070e100c1d7efedd4d14ce09eed0df462",
+    "67f96f60f6dd7b93943e17e189e68634d9408d2cd54ab2cc5adf7eacb640379e",
+    "1286b68af0805847b39928032ff7a90f039f7d44d0985c9c308c9aa48e322eb0",
+    "990c401d38c4ebde7d513666d992ebc891f6bfc745a61df28522ac4cea70a800",
+    "53324927cb1f85a81eba3bb9bd6108e315f4d60ba2b77ce085717a63dcccb59e",
+    "9feaa7b16ed3bbef27ba392bfe19da3c5fa8d7e64e3d2cec8495794378b46273",
+    "1de7f4140a69fc232511f2f25b2b0b5c47016533b9577d763956f380e46df0f0",
     "9d53f939478f658394e8f95b0dabd21d89614fcac49ce840dc5b30621f6b766a",
     "26d379b2fb356349356743385a65373aab24174f491f37faf8d93005f56f9837",
     "f33109804e917eb6aab0613a42327f6392d743a13f993397d8884fbf9f983510",
@@ -4152,17 +4157,7 @@
     "268fe6d7a50885f467ac84b3c457977263e940b2635ed5ea0cfe51daebf2eef3",
     "33bd68f753c85460b367870f6d595a0afed946f10b86616eca6dd4bf16f7a17e",
     "f90a87a28e961e6aa67a4b31d5fa7f50749401890c54cf343137daa08eb388bc",
-    "d8e2009d5ec1008556cf83bc9a8363b1b9cd558853cea783d0957918d3f0c3f7",
-    "83fddefa831cdc0ae15ee0df0623e69625a23a40372d5c1c3f34c36f286d3a23",
-    "0d285f3e56aa590c152c045b40323bc4cbc064490f2dbd42a1997c1fc4664300",
-    "dc0a12aff0a69c44f800e344d412e68c8bc424abc8dcf85db457315cdbb5757c",
-    "6ce50cf1d4320fad2ea791f39afb50f247d6bc094dcf02b98cfc4cf47ee52d1d",
-    "28930b29fd314d0ff9adc13c6bfe6b05af91f9097bbbd793d26a6b3865edb195",
-    "80c95bf88bfaf1bc7ac22f6826fadd1e0da8c7f73f263628b0c42043be2fc468",
-    "4458ae9f4efced5c27e72a032ffb7a43800d6f8d5d61b560475ccbc54fb19e5f",
-    "21ccfde1a06076a2c72d1d60854012ce36d17f77560aabb5e5d422352b885591",
-    "44ce8e2e6e5a24560a642adb528c3c1658d48b5d0eec1002e800fff1f230e3b9",
-    "cec74ae06e5ece619a548166801efbc08d3706045d642d135b911a8b07c32823"
+    "d8e2009d5ec1008556cf83bc9a8363b1b9cd558853cea783d0957918d3f0c3f7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -7936,5 +7936,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Why BofA still sees an October Fed rate hike",
+  "link": "https://www.investing.com/news/economy-news/why-bofa-still-sees-an-october-fed-rate-hike-4957331",
+  "published_at": null,
+  "sent_at": "2026-10-19T12:40:49.945551+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
