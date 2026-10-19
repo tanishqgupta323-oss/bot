@@ -95,7 +95,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "d64d7a1e71be3302c0b25e00",
-      "forecast": "-0.4%",
+      "forecast": "-0.7%",
       "impact": "LOW",
       "previous": "0.3%",
       "scheduled_at": "2026-10-20T14:00:00+00:00",
@@ -312,7 +312,7 @@
       "title": "Revised UoM Inflation Expectations"
     }
   ],
-  "calendar_fetched_at": "2026-10-19T13:55:38.485486+00:00",
+  "calendar_fetched_at": "2026-10-19T17:01:29.854396+00:00",
   "first_run_complete": true,
   "gemini_usage": {
     "count": 107,
