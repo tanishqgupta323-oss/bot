@@ -7962,5 +7962,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Jerusalem Post",
+  "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yS0FDd1duN1hYeEFmX2xiNVVIdTN2bXQ5ZW9rYnpjazhyeHRaSGtEMjVDMXF4OFJyRXBwUDIyNFJLdTY0SFRsUTlxbi1qNW83eHB4VFpXVGRmM2lfVUJOY3lpVS1PckxYQ3BIZmNWMmVYOXRJZXozbTQwUC1JRlE?oc=5",
+  "published_at": "2026-10-19T16:27:57+00:00",
+  "sent_at": "2026-10-19T16:50:54.102405+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": -0.012,
+    "BTCUSD": 0.0558
+   }
+  },
+  "checks_base": "published"
  }
 ]

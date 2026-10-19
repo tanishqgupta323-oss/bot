@@ -315,23 +315,10 @@
   "calendar_fetched_at": "2026-10-19T13:55:38.485486+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 105,
+    "count": 106,
     "day": "2026-10-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T17:45:46.378847+00:00",
-      "w": [
-        "activity",
-        "iran",
-        "israel",
-        "linked",
-        "nuclear",
-        "restoring",
-        "site",
-        "struck"
-      ]
-    },
     {
       "at": "2026-10-10T17:45:46.378847+00:00",
       "w": [
@@ -3145,6 +3132,19 @@
         "sees",
         "still"
       ]
+    },
+    {
+      "at": "2026-10-19T16:50:50.393741+00:00",
+      "t": "Live Updates: Latest from Israel, Iran, and the Middle East",
+      "w": [
+        "east",
+        "iran",
+        "israel",
+        "latest",
+        "live",
+        "middle",
+        "updates"
+      ]
     }
   ],
   "resolved_events": [
@@ -3160,6 +3160,8 @@
     "cd8b786c1dc98d116dcbdf81"
   ],
   "seen_headlines": [
+    "e1541b326d27e3d67dcd96db03c2a299805c9ea90857f386f0e0aa074c3d4cf4",
+    "1bef4e3c289e8cdc762c2a0be1af3405c5b6a508541db7a26631cafc4ac69d10",
     "fe90001505cf444e7da0d78e624e394b11da7a36b633704772f4bbd7b50829d8",
     "b64fccd2c1db51752bc32521e4050826e51fc009404b394fd8f531eb21cef3bf",
     "f89e2e898a65e5eb7086092f128af2a15e9d6091e280d99b644acf90c94ee7ee",
@@ -4157,9 +4159,7 @@
     "0d5ca3fc5401c94539712235e5ca0b41d8f6a7d43c5d8909119575e9b7744c12",
     "72827b9fc66467d2b7c0626334dd1817809220277cfde6105ae9ec57a47826bb",
     "f200015767b715d69aa93d53ecd7ec71fac3e6bf726a8402c28d51241c3bb0db",
-    "dd58bdf20051e16a16072201769aec5738a9a20560696f86eeb9d4ffd9a064b4",
-    "5b6b4db468f2b36f3f8f59d7afb4e34f7c6a4346bc87dc86640abf3dcb882651",
-    "2236ec8d04ee7a80a6b07f0648af3e43128128afbb4d86c49a0716090e6421ea"
+    "dd58bdf20051e16a16072201769aec5738a9a20560696f86eeb9d4ffd9a064b4"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
