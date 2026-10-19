@@ -7858,5 +7858,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "www.israelhayom.com",
+  "title": "Trump weighs strike on Iran's oil lifeline",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2FyVmZSTVVVcmk4eDlzc2FWT1BiZGdnaHBubHdGOHhQemRpcTUzQXRfN2Vyc0RCV3p2YzRoRnF2VlhWS29pN2J4Si1SXzRLakJRRDVSbVM0UzhQcUt5X1p3ZDQxOElEWl9qNkFQclNvSmRDMENQY2dpclFSRVF6RzZwZlRMSmlk?oc=5",
+  "published_at": "2026-10-19T07:18:01+00:00",
+  "sent_at": "2026-10-19T08:35:40.602558+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0336,
+    "XAUUSD": 0.0689,
+    "BTCUSD": 0.1161
+   },
+   "60": {
+    "EURUSD": -0.1009,
+    "XAUUSD": -0.2115,
+    "BTCUSD": 0.0116
+   }
+  },
+  "checks_base": "published"
  }
 ]
