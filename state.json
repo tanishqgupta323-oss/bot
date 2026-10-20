@@ -1,6 +1,6 @@
 {
   "actual_attempts": {
-    "2871a300854c8a23aaad141e": 2,
+    "2871a300854c8a23aaad141e": 3,
     "394da65f5d3114f9f9445a74": 8
   },
   "calendar": [
@@ -96,7 +96,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "d64d7a1e71be3302c0b25e00",
-      "forecast": "-0.7%",
+      "forecast": "-0.6%",
       "impact": "LOW",
       "previous": "0.3%",
       "scheduled_at": "2026-10-20T14:00:00+00:00",
@@ -140,7 +140,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "2fd0e41c29d199badb3411d3",
-      "forecast": "-",
+      "forecast": "-0.3M",
       "impact": "LOW",
       "previous": "-8.6M",
       "scheduled_at": "2026-10-21T14:30:00+00:00",
@@ -173,7 +173,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "ed7fe5e95bb4c284d6a704da",
-      "forecast": "-0.2%",
+      "forecast": "-0.1%",
       "impact": "LOW",
       "previous": "-0.1%",
       "scheduled_at": "2026-10-22T14:00:00+00:00",
@@ -184,7 +184,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "9d05eedc1c065ca071b31c92",
-      "forecast": "-",
+      "forecast": "83B",
       "impact": "LOW",
       "previous": "67B",
       "scheduled_at": "2026-10-22T14:30:00+00:00",
@@ -195,7 +195,7 @@
       "actual": "-",
       "currency": "EUR",
       "event_id": "a96d50c71551306ae8c18c82",
-      "forecast": "50.6",
+      "forecast": "50.5",
       "impact": "MEDIUM",
       "previous": "50.3",
       "scheduled_at": "2026-10-23T07:15:00+00:00",
@@ -206,7 +206,7 @@
       "actual": "-",
       "currency": "EUR",
       "event_id": "2d0b26a758a235e89c325f68",
-      "forecast": "50.8",
+      "forecast": "50.7",
       "impact": "MEDIUM",
       "previous": "51.4",
       "scheduled_at": "2026-10-23T07:15:00+00:00",
@@ -228,7 +228,7 @@
       "actual": "-",
       "currency": "EUR",
       "event_id": "9d672c32a94ffe825aac0685",
-      "forecast": "52.6",
+      "forecast": "52.5",
       "impact": "MEDIUM",
       "previous": "52.9",
       "scheduled_at": "2026-10-23T07:30:00+00:00",
@@ -261,7 +261,7 @@
       "actual": "-",
       "currency": "EUR",
       "event_id": "8709187689f2130e8911bdd4",
-      "forecast": "-11.5",
+      "forecast": "-11.8",
       "impact": "LOW",
       "previous": "-12.1",
       "scheduled_at": "2026-10-23T13:00:00+00:00",
@@ -272,7 +272,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "73d3de6998d4e68c7c30abaa",
-      "forecast": "55.5",
+      "forecast": "55.4",
       "impact": "MEDIUM",
       "previous": "57.0",
       "scheduled_at": "2026-10-23T13:45:00+00:00",
@@ -283,7 +283,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "988d43251560806efddc329a",
-      "forecast": "58.0",
+      "forecast": "57.8",
       "impact": "MEDIUM",
       "previous": "58.7",
       "scheduled_at": "2026-10-23T13:45:00+00:00",
@@ -313,10 +313,10 @@
       "title": "Revised UoM Inflation Expectations"
     }
   ],
-  "calendar_fetched_at": "2026-10-20T05:15:44.768125+00:00",
+  "calendar_fetched_at": "2026-10-20T08:15:46.234868+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 9,
+    "count": 10,
     "day": "2026-10-20"
   },
   "recent_stories": [
@@ -3162,6 +3162,7 @@
     "7632930f520f89642817aff7"
   ],
   "seen_headlines": [
+    "253ddcbd7d377ca90d4c18676a25ea621fbcc6aa6ff18292a99f73374dd9ba83",
     "cd998bbebb35ca8092e9ee720143a4a6c8df04854819249d38e4625f6b7475fa",
     "692ef91fe7159b5ec2bccb331a864fe18d8a7418b01e7f33cc13a1defc4d2925",
     "44f4d2a0a3b1263750f984dd5fb4dd60c777f2af6ca73a06b3b8dadf5af1733a",
@@ -4160,8 +4161,7 @@
     "6e81e4d6f9b59af266edd441f5be22340e554b97b7e9d24e43c50c7db11388f7",
     "23eba59b1c0d653cace07289b04f6f696db46ccac6ed9b731f7e604815192f66",
     "926a4a81599213676f4c9284c08537e85e6535ac4f8db7c67270ff276d791fd4",
-    "68f9224e89b6421eea3682e79cb4cf5ca93944906949f86cf0873d83fbeb12e1",
-    "a71eb40ffefb11785972af56b7d366457ed94d0641cde1f6169f07e369170204"
+    "68f9224e89b6421eea3682e79cb4cf5ca93944906949f86cf0873d83fbeb12e1"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
