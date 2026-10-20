@@ -145,7 +145,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "2fd0e41c29d199badb3411d3",
-      "forecast": "-0.3M",
+      "forecast": "-0.1M",
       "impact": "LOW",
       "previous": "-8.6M",
       "scheduled_at": "2026-10-21T14:30:00+00:00",
@@ -318,10 +318,10 @@
       "title": "Revised UoM Inflation Expectations"
     }
   ],
-  "calendar_fetched_at": "2026-10-20T11:15:53.659232+00:00",
+  "calendar_fetched_at": "2026-10-20T14:20:48.261765+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 119,
+    "count": 120,
     "day": "2026-10-20"
   },
   "recent_stories": [
@@ -3171,6 +3171,7 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "115e491a04a7e47cd708f4d74ed005025e32014f430a24c1c7102db6d3ca0da0",
     "4c7a6bd9080b15ffaa584720be4bf6b90b8eecb3e23853ac0495d7782fbb837d",
     "4644e5957f6c27dec561eb07b93e6bdbf62537c5ae5aedd060e5e5b5bdde39e6",
     "544b17322f67488aeef7374f6f1a4cb2a6e480467ed8dffa11f011c979723b31",
@@ -4169,8 +4170,7 @@
     "2cef3d62ade22f48528e7c09fa955c721451509a92e3bffc88a2c94bee44ec30",
     "5bb248e5288838cbeb5513af380d9d688e5773bfa8c363684caa66714ee20dfb",
     "900a2044f3cb96ba9339f66b8bf918cd4ea0d5f31fac82adaaea9be6da377ca4",
-    "1afc35f265389a1638ce52f6b79946328ed9e4a870b4698075eeee38e6892550",
-    "8a29913d17e06a3f06e0802291846d1043f8a86b392942a2b1f70df36ba11053"
+    "1afc35f265389a1638ce52f6b79946328ed9e4a870b4698075eeee38e6892550"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
