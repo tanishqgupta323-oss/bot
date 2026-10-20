@@ -1,6 +1,6 @@
 {
   "actual_attempts": {
-    "2871a300854c8a23aaad141e": 4,
+    "2871a300854c8a23aaad141e": 5,
     "394da65f5d3114f9f9445a74": 8
   },
   "calendar": [
@@ -316,24 +316,10 @@
   "calendar_fetched_at": "2026-10-20T08:15:46.234868+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 12,
+    "count": 14,
     "day": "2026-10-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T17:50:46.987587+00:00",
-      "w": [
-        "during",
-        "iran",
-        "killed",
-        "official",
-        "pentagon",
-        "raises",
-        "toll",
-        "troops",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-10T18:01:20.554770+00:00",
       "w": [
@@ -3146,6 +3132,22 @@
         "tariff",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-20T08:25:39.091032+00:00",
+      "t": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+      "w": [
+        "biggest",
+        "bitcoin",
+        "blackrock",
+        "day",
+        "entirely",
+        "etfs",
+        "just",
+        "month",
+        "saw",
+        "thanks"
+      ]
     }
   ],
   "resolved_events": [
@@ -3162,6 +3164,8 @@
     "7632930f520f89642817aff7"
   ],
   "seen_headlines": [
+    "9d607d3b7915c36eb2132f94e1407ac6a820034e55ef0dd44dd79f05512b6c68",
+    "926a4a81599213676f4c9284c08537e85e6535ac4f8db7c67270ff276d791fd4",
     "8a6c46059710ea054f9c9d77404e82b69a181e04ca5d9de1a7620ecd323e3d76",
     "9bb9170b0307d63fae8344c86a7f4301376002673ee502b77318c268ca427b39",
     "44014d6b18bc27a5e39f81dfa81cd0b7735f5711257d7deea14c88332d61fada",
@@ -4159,9 +4163,7 @@
     "460b45276db29221086cba765ba0812afc368d15a64c77a5f008e2b9e38caa6b",
     "b28d519138c03db4376db4639c62c6133f5c664ca47e8e6ba939487bcf5ea5f1",
     "ba9830db46e3eff7dabe2e39d8ab3f2181f38bd9ce892f904bf96ab730e444df",
-    "aebcfdd92c88323b88f484f6d6d4e54b485e1295b1ee8f6894f01917406c70f8",
-    "d8a6da76f69005d3f61773412a2c7e5b43afa080caa47771a6ee9a224ffc914f",
-    "da914ab6a1221eb4fcb0f669bedf660a2a8401d3f62cb9258dae19eb52b55a44"
+    "aebcfdd92c88323b88f484f6d6d4e54b485e1295b1ee8f6894f01917406c70f8"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
