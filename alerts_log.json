@@ -8032,8 +8032,27 @@
     "EURUSD": 0.0,
     "XAUUSD": 0.0145,
     "BTCUSD": 0.1199
+   },
+   "60": {
+    "EURUSD": -0.1346,
+    "XAUUSD": 0.029,
+    "BTCUSD": -0.013
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Bitcoin dips below $82,000 as elevated oil prices, Fed outlook weigh",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82000-as-elevated-oil-prices-fed-outlook-weigh-4958968",
+  "published_at": null,
+  "sent_at": "2026-10-20T09:31:11.296385+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

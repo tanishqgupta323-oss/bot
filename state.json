@@ -1,9 +1,9 @@
 {
   "actual_attempts": {
-    "1249282c576b2625dec9b2ab": 5,
+    "1249282c576b2625dec9b2ab": 6,
     "2871a300854c8a23aaad141e": 8,
     "394da65f5d3114f9f9445a74": 8,
-    "9bfb1334a3318898641e9c68": 5
+    "9bfb1334a3318898641e9c68": 6
   },
   "calendar": [
     {
@@ -318,29 +318,10 @@
   "calendar_fetched_at": "2026-10-20T08:15:46.234868+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 37,
+    "count": 40,
     "day": "2026-10-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T18:01:20.554770+00:00",
-      "w": [
-        "against",
-        "arabia",
-        "backed",
-        "fight",
-        "houthi",
-        "iran",
-        "join",
-        "rebels",
-        "saudi",
-        "should",
-        "trump",
-        "weighs",
-        "whether",
-        "yemen"
-      ]
-    },
     {
       "at": "2026-10-10T18:45:41.961595+00:00",
       "w": [
@@ -3150,6 +3131,22 @@
         "saw",
         "thanks"
       ]
+    },
+    {
+      "at": "2026-10-20T09:31:10.705943+00:00",
+      "t": "Bitcoin dips below $82,000 as elevated oil prices, Fed outlook weigh",
+      "w": [
+        "000",
+        "below",
+        "bitcoin",
+        "dips",
+        "elevated",
+        "fed",
+        "oil",
+        "outlook",
+        "prices",
+        "weigh"
+      ]
     }
   ],
   "resolved_events": [
@@ -3166,6 +3163,14 @@
     "7632930f520f89642817aff7"
   ],
   "seen_headlines": [
+    "efbc7444f712b01d0dc6c7468a875dde5470b267da969ef7d8796c831bd56ed6",
+    "722a8cb54c4135ee1877d63851af349820122bc6edbaccf0236a249c4ff6f228",
+    "06c609725137a0727495c5255c0cfecca74ad609f801b5190d54d51942243f00",
+    "ad2f1c1d35dcac8ca2ce85f8efecdf1f5f35f16fc6ba7eb89010ab26c9278abe",
+    "53d703bdcc79f1910e084fed42989e3b76c07137dfbc63bb12355f89a449d104",
+    "bd6931599643f5415fd6d34cf7a0c61ac8a316d488f734784404620062e29069",
+    "43feaf94e59088202896c0567943658750df6764b12f8d6a493f0d80b9c6919a",
+    "50f8a57d7697dcd775978effccec091d74c7576c867dcb3b68d6c7acd74e5e86",
     "96d520ab9dd979f27e1386210630a1fdec4f621d5530554aa444b13fae69f29d",
     "39e173553da1697b9a8ccc799b825509c49741abe3ea327281fa01e2f673721b",
     "7a172761782e8cdb8339e8ffb632099ed29cc403febbfaaa1ee39b5aa4dd2c81",
@@ -4157,15 +4162,7 @@
     "61c385d27bf92ada00c365bf5132d6c32cdbf8d614dc3ee4aee16ea2bad808ae",
     "2bf2f4c68d933c0bf6f6e9c797270f8606b802396cb7408b44f5a397f48fec0a",
     "ec9f3c3677d38a999f651a54ce70e53aafb7ec1295f37b04df83da27c19a2c3a",
-    "201ccde0ca36a1e4a0eeb0be104e41664d3d74072195987c7b261d20a8707c45",
-    "97682036b877f23210f82c7243d7885de78c8887f1d438fe5f70126531cb8215",
-    "1f0ce43aada1a6a88c15383208eb9e5d503252c30b1b52b714c0be0f27368182",
-    "b09f5bffe777666e0c21979bddd50009bff365d3af1e077deded4b26455d1029",
-    "b61038eab3b925e16a08dd93286aab2a42c2d397fea703ecd1412596321f6baf",
-    "56f6212af0f6db97644a82722bd59d4d985169d27b22e081b4f9c1dfb9631344",
-    "c9541b28e15d131b4f006f3dac1b2dd420e072e96ffaf996caeaef50de760316",
-    "dfdb961ee26d6c5cd9732752503eab17933c26c1936d85fad77ebf7f22fce62f",
-    "0bc15864eb5b3912782578bea098450cbda5f07a2183bc51ffaac96056087982"
+    "201ccde0ca36a1e4a0eeb0be104e41664d3d74072195987c7b261d20a8707c45"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
