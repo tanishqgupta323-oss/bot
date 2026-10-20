@@ -8061,5 +8061,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Crude oil surges further amid Houthis attacks on Saudi energy targets and stalled US-Iran negotiations",
+  "link": "https://investinglive.com/commodities/crude-oil-surges-further-amid-houthis-attacks-on-saudi-energy-targets-and-stalled-us-iran-negotiations/",
+  "published_at": "2026-10-20T09:18:14+00:00",
+  "sent_at": "2026-10-20T10:05:40.352364+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0786,
+    "XAUUSD": -0.1062,
+    "BTCUSD": -0.0939
+   }
+  },
+  "checks_base": "published"
  }
 ]

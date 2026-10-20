@@ -318,28 +318,10 @@
   "calendar_fetched_at": "2026-10-20T08:15:46.234868+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 48,
+    "count": 49,
     "day": "2026-10-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T18:45:41.961595+00:00",
-      "w": [
-        "attacks",
-        "better",
-        "calls",
-        "damn",
-        "leader",
-        "oil",
-        "refineries",
-        "russian",
-        "stop",
-        "trump",
-        "ukrainian",
-        "well",
-        "zelenskyy"
-      ]
-    },
     {
       "at": "2026-10-10T18:50:46.963376+00:00",
       "w": [
@@ -3147,6 +3129,24 @@
         "prices",
         "weigh"
       ]
+    },
+    {
+      "at": "2026-10-20T10:05:39.578233+00:00",
+      "t": "Crude oil surges further amid Houthis attacks on Saudi energy targets and stalled US-Iran negotiations",
+      "w": [
+        "attacks",
+        "crude",
+        "energy",
+        "further",
+        "houthis",
+        "iran",
+        "negotiations",
+        "oil",
+        "saudi",
+        "stalled",
+        "surges",
+        "targets"
+      ]
     }
   ],
   "resolved_events": [
@@ -3163,6 +3163,11 @@
     "7632930f520f89642817aff7"
   ],
   "seen_headlines": [
+    "62e6f8f5ee8bc0e4c6df1ab11b6fe0c97213e4604bbe7858be7392b75b6135db",
+    "6597d44842711a6f7134f192f87f6cd42cffa3344e32bb12edf11a77591abb1c",
+    "72acb92b44efcd95c62747741b1a65ed99bfabd4bd062dc26b9cc99c0725eaeb",
+    "02fcd8d0d030c28137b8c4a83c9d3aad08271adcd43be864caeae17378f437a2",
+    "16f13f83ea8e474f4863bac6482aaa46db9136c0c977f6b072c52f46f5e214a2",
     "b3ecd5183956e9215bb13ad22fd98795f5fba12f5361e059315cb8a1bfdef97b",
     "ba39a4f1d6dacd5aa76674ab9d1045360acba79a58e36967800c72ecbae47624",
     "c96ce4ceac3300544cf50c7d6c3a4b37261ece73e6c9aae14f24063cef913bf2",
@@ -4157,12 +4162,7 @@
     "d2ab906ccc917b0ba1450859780a5772c4d1b772e3a2b6528d4f390110077af0",
     "230ee87c8ec9dd92025f7935a7a9b0415a69d08d41929136290d13dedadbbca0",
     "29bd938dbc8a4207c24fd990759e5e4b23e7ad1047b38f1e88d56a216facaf8f",
-    "6a49edc172c55a4930fc435df8900819a721410ec4533c04760f2339df719927",
-    "d84c5249ed63c3ba2fb7ad12335f592cc6c142fb65e314102881e3606f66bca5",
-    "a34f5ba5d1d9ec65722f7956246f451c01873ca6140f45e3596c1a86738643be",
-    "0d1650858b4f7bcabf3a972e7d27396da81c83e75fe676e7afd6acaae2ed8f7f",
-    "516dca8de042f7d206d06a29174bb0e8945be658ff20dbb4aca28a193eaf4aae",
-    "9f211c8aef169b9ea5466b8a802b2d4bd80b0b1c4004aef14afc1e5285335de6"
+    "6a49edc172c55a4930fc435df8900819a721410ec4533c04760f2339df719927"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
