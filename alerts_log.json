@@ -8222,5 +8222,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "NBC News",
+  "title": "U.S. troops and diplomats evacuating Middle East posts, sources say",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLU92bVAxQU5KRmtTYjVQME0xeU40bVEzT1Y0bkx6MEM2bmdNUFRVQTBQTGVzb09nZEVCYm9iTE9rRFBqNWlWZURFY2NWamtQLTZ5QTZWcmxDUTB5dmRCVWZ2eFFlNU1sVnFSMkxaWUEwSDBzUkp2bnlZZmwwYUwzb0ZUemJVcDJXSmhZXzhOSVg1alRvNXpxb3NvblNWb2JvTlZ5WmwxYzdzQV81SXF3aDR3c2VFTC1ZZ3BrT19Edw?oc=5",
+  "published_at": "2026-10-21T20:50:39+00:00",
+  "sent_at": "2026-10-21T21:10:50.526530+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0449,
+    "XAUUSD": 0.0216,
+    "BTCUSD": -0.0541
+   }
+  },
+  "checks_base": "published"
  }
 ]

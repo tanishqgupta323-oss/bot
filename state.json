@@ -325,24 +325,10 @@
   "calendar_fetched_at": "2026-10-21T20:40:47.699153+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 171,
+    "count": 172,
     "day": "2026-10-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T20:05:36.751095+00:00",
-      "w": [
-        "calls",
-        "hitting",
-        "refineries",
-        "replace",
-        "russian",
-        "stop",
-        "trump",
-        "ukraine",
-        "zelensky"
-      ]
-    },
     {
       "at": "2026-10-10T20:05:36.751095+00:00",
       "w": [
@@ -3159,6 +3145,19 @@
         "rallies",
         "reports"
       ]
+    },
+    {
+      "at": "2026-10-21T21:10:49.584102+00:00",
+      "t": "U.S. troops and diplomats evacuating Middle East posts, sources say",
+      "w": [
+        "diplomats",
+        "east",
+        "evacuating",
+        "middle",
+        "posts",
+        "sources",
+        "troops"
+      ]
     }
   ],
   "resolved_events": [
@@ -3177,6 +3176,11 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "9dc5075fe3f3f7a5ec2fc2fea56465287ebc3758647973db5bc1402c57b9f515",
+    "646505f1473322534155dc4af27fb4a0f71dea4f4650ec2911921b3ae0c4b840",
+    "365bd780d069ef60b13011f188959d5ed0208b0f903a958a3b55e1d657e7e13c",
+    "2ca8b1c5d828406c75d763d655342a97070586223546a8cb2b004e975dc551e8",
+    "59b300dcd6e09a0c957ab96c4dab2fca88fcc2b8eba71be4583180404c669869",
     "239c734c19c5bc7479c4a2e523dfe5159994320deb0a701f23986917d5a36fc8",
     "b46f07ac9c2db4af35f8f95e4cc7e684ff4d516c3fdf10bf6f3368142f8fff9b",
     "1ddb01cf108ca4056ad9bec7e40eebfc3f366cf553dede8e0b24d23de96d8817",
@@ -4171,12 +4175,7 @@
     "2633d2fbbb51d3253d9ff63dfb7eba4f8468749cf4709f01ada6c81fa961536e",
     "406616d8aa328e8c191b9e562fdded4042d171645c605f311045268249bfee8c",
     "4bddf0640f8696015d8cff54a367c5852977e646d5f13f579ab7988326d5a8ac",
-    "899497b547d5178cacd49a8acf0533dce2bad3b2c56402dd2d63407181a2b858",
-    "209a6dce24862ec238a6ff940b195f6a23bdd45240ddfa07b95e536c4ff7f4e0",
-    "839b28c8fade314cda7ab1fc88d0316cce1fe5fa8eeb907d3263cd819fae9d84",
-    "0bfe351a170651e1a1d715942991a05a741ec6631e34f08269cb4cad6bde2d42",
-    "be2605365d48cceb3449d74c2b11bc0946e7ea8249b94b0061e5e328a25ad5b3",
-    "e5407913bb689f556c49be981d66bae8b7dd1208a689e73657d531eb7b404882"
+    "899497b547d5178cacd49a8acf0533dce2bad3b2c56402dd2d63407181a2b858"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
