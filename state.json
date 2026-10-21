@@ -325,22 +325,10 @@
   "calendar_fetched_at": "2026-10-21T20:40:47.699153+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 184,
+    "count": 185,
     "day": "2026-10-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T20:05:36.751095+00:00",
-      "w": [
-        "calls",
-        "change",
-        "leadership",
-        "rebuke",
-        "trump",
-        "ukraine",
-        "zelenskyy"
-      ]
-    },
     {
       "at": "2026-10-10T20:15:44.724972+00:00",
       "w": [
@@ -3158,6 +3146,22 @@
         "sources",
         "troops"
       ]
+    },
+    {
+      "at": "2026-10-21T22:15:53.188325+00:00",
+      "t": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "w": [
+        "agrees",
+        "call",
+        "hit",
+        "kyiv",
+        "missiles",
+        "peace",
+        "resume",
+        "russia",
+        "talks",
+        "ukraine"
+      ]
     }
   ],
   "resolved_events": [
@@ -3176,6 +3180,26 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "6b1bea3f7cca80ff1fc5f9bd4b7cd6f5e0b6358b2d5d40e8fe6233da972eb5f1",
+    "1bd7049b4478435d0c6658c69f94ad9c430aa4faa0839476621511389e759e13",
+    "6e8a685b91bb1792a89c2516074ca9437c283a95f8ba122e7973a9d4689b542a",
+    "104f76e3a94337c167e5598519dfaf7fecdcd814b1a04559b7b913850ee830f9",
+    "8b95f9aefa964ca030cb5b464b037c4e00bb95ea1abcc44420b1be472d2faa6f",
+    "c6403a07b028c26184c6fac65fad7a85848afab1a618ba6705a10c830b7525fc",
+    "4be5e9bd994c6069357f55f78e5f361097e10ae721c13370b34290a1557ee892",
+    "80aa6b312a6688ed302eeedbd57b09594fbb057e0e5259a039198ab0ce5dabc6",
+    "ee5304bdf09cee83f4615edaf6239557994579cdcb370031ee8df1c6c28abe32",
+    "07e9ceef19666e85a44f0fbf4efb5f2fbdc990c42bce6fcdfc912d1b12e04880",
+    "20aa56e79bba1d8b2ca05bb78ef0e5445f26e8e76b5497927bc803625e27954c",
+    "58a5cf084cf8366a5937efc450ffbd70fec4d2a68908f18743b76a91c98a3f9e",
+    "1f43b34982eaca5ea94bb308c818fac678298efdead1b4ed5e7d08c797c00304",
+    "0150e7f1163dfaefbfdcaf9cbe7c1487d054429dc39301960fbde01db4b8554a",
+    "87fd0dfe75a2038cc339ca34f71cf66bc5de9dc2b002ca3dac28635e39da95d2",
+    "bfdda4c3979179bd28eb7638032066a572a5fdf249ed02d930fdb63a034e99ff",
+    "b7920d08b71dacde50cd9bd62b6ee2a87a486f3dc9ee6b9628048ec767a43806",
+    "cd4db1cababc0de44a8d5af6faf437cc3ba224f5a031d334446101853cd357e2",
+    "56230c8a332b1d7756fa7477d34cc3722e8aebb82c0c148111a8c7ec76b6872f",
+    "4f493a04946d3bebb4493758e70306186d1fdad18ecdbb5511f0852aa4f55194",
     "65c2412407e3d53177e069a6957cbacad8e06b9e51cfb551b5e3cb9c6ea4e46f",
     "3992ada3ae02811502ba272d5321ad4a5f876752634239a53ddb0223f870a93d",
     "676b9fafa8c25c86c8c84e292ed2bfde24d6611b7c59cfbefaed4d3e0cb92590",
@@ -4155,27 +4179,7 @@
     "5161e1487128b29d0ed87e187380f6b5c99f3d105c0f381ed102dee9b6b970ad",
     "1aa34445551c6787ac8159305103420528785fd089fb6a5b1b8d702fb3dbbb50",
     "d6cb99cb6a637c0e61a9771b273e94b74f472bb57d0f2325078aa88aadef0c58",
-    "13419444090ca350d59b3f620ee5d6e6e8b547366c171ef884d240fd2daad6ca",
-    "014284bacdc5eb5c15ddef4e242e186358baf0968dfb1ce24538258eba9858ca",
-    "b60223dd85ce932746b0aa5c47817756d9151fa81af82380ba34459554f3b3b4",
-    "924e4af04cac7ba2d8a93856d14bdc762a8145b049160b986258e173da50ce8a",
-    "23d46f2c95b6a37fd248d7611bd7a0777f52db8101b767e4777aea86a7965077",
-    "00e8dcffcf102900c4226448b6ab8bedd83bdbc7b4b8af956b22eec6e3edb229",
-    "464607172a0ced0c4665fe34cc20b24adcf8481e6311edd651be8f3f35e4fe5e",
-    "196c22fd3a95fa24f41f55c198b1ae9453010cd56a6cc40ff08f626438826782",
-    "dc19c74cd7e1e17f9a01c839d654784c6760b1f121a090fecbe0fdef20dfc259",
-    "05a3eff4bcd5847128e6ba10e0097c5c2552e1aa23893863da5fd29993e3fa34",
-    "2ab7569f7cd3232761d542d777a5666a529db599e6fc6ae4459a95427d97aa53",
-    "b02305cdea3c49214ba8e9d0b41ee2957614eca04adf7bb825a8ba41f83c326f",
-    "27dd1d4f9457f2c213d2d39b957a1299b847714b44568ae4fa9d6f4a7d39f826",
-    "36ae93dd9224bdee362e32de7e1b5e24521b5103e31334283e70268421216b57",
-    "504b94916faf5131406ee2ffbc1f421885f649dcf3c7ec73be317d217a8a6e84",
-    "ebfe2918e4b12e31d1fa6767348c5d3f71ea1427e52c9179bd075b9c096fc28b",
-    "fd3fa4c23e7d80ebdb1e62af924b2dc7c8ebfae5e388d6ce142a67b64cb840ff",
-    "c958c5836ab2a4e69ee9c7855aa56184817b220248a3ecdfb049de6ef96dc7e6",
-    "603260760964349bf73a5b50c6c2e5b0f01286506e829d2a0d73c5fe50e1d695",
-    "7913ba19dbce51864780b400dc4c4e42930fe279257c675fc9ac05ba31e4ca55",
-    "5cac6a5dae763c26dcaecb2ac724da188bc1aa06e6edeaf2aac67ce02dec9838"
+    "13419444090ca350d59b3f620ee5d6e6e8b547366c171ef884d240fd2daad6ca"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

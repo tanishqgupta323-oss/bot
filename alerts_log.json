@@ -8248,5 +8248,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "BBC",
+  "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uR3lheURKOHZfRVVGclF1YVpoVE9QcXpBTTlkc2JjUXV2RTQ2bHY0SFZCa1hmTXVTWU1XTnRaVk8yWk1XX2lUbWl4LVNjQ0Ficm5UdEdMMDh0S1E?oc=5",
+  "published_at": "2026-10-21T21:27:41+00:00",
+  "sent_at": "2026-10-21T22:15:54.076483+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": null,
+    "BTCUSD": 0.0358
+   }
+  },
+  "checks_base": "published"
  }
 ]
