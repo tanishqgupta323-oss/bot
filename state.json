@@ -322,26 +322,10 @@
   "calendar_fetched_at": "2026-10-20T23:25:36.522410+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 243,
+    "count": 244,
     "day": "2026-10-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T19:10:48.031980+00:00",
-      "w": [
-        "committee",
-        "cook",
-        "effort",
-        "establishes",
-        "federal",
-        "fire",
-        "investigate",
-        "latest",
-        "lisa",
-        "reserve",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-10T19:20:43.947075+00:00",
       "w": [
@@ -3154,6 +3138,21 @@
         "rates",
         "skip"
       ]
+    },
+    {
+      "at": "2026-10-21T01:05:36.591826+00:00",
+      "t": "Iran war live: US warns peace deal with Tehran is extremely difficult",
+      "w": [
+        "deal",
+        "difficult",
+        "extremely",
+        "iran",
+        "live",
+        "peace",
+        "tehran",
+        "war",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3172,6 +3171,12 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "8cb667f7941017ce49e44d732b2d66aa931a131564704cf2d94f364abf4e486e",
+    "fe6f3187f210d3ebfee44a2c92c5f9f1f9b129e5e73a6d0757c45285cf741930",
+    "e4a549f84fcc40ee52ae587874e3d4808abb13f48fb66ec0aaa4164a423542a2",
+    "ffdc9f6260a8cdda7fd20f998bb19d516a9835ed10bb145eaf2ea834505ea0e6",
+    "d06221baf32d7fdd6a6b92ef246a72f2d53320e4e7ec2b0341864c208e575f81",
+    "1d54ef9fdd02384e995d238208aea18dc4127b4dc4c4883d64c132b21a0d794a",
     "1fc866daef70c73fff8d3789a639181e4dd17e093ec79ee0e2e7b80161a84548",
     "4826ccb13289d7ac2d4196fd4ba788af0495e99e7366cf0389be14efcb2f4e1e",
     "4c5edb08df72f90dc96ec22439c1ec85e65d58e98039b3436bd391b6f045279c",
@@ -4165,13 +4170,7 @@
     "9691835b1fcbae1d1ad47c88e9dac2ad93819f200cb0569db43e8c70c3c43de0",
     "61e02069665a8045f15faaf4191ca28689fe1d9d79bce2fdd56d0b343b7d89dc",
     "883cfaaba36178557379b1655dc8bbf2f6c9a3f8dc9431cdae63c576f839bb41",
-    "4c4b16b33fb343989f380edac15326c100e61454801c4f4dab22e2a5cb46494f",
-    "02c90668867ba389416bdf2ed3fb414d39934406d168dc07f5394a436753c4ce",
-    "ecde2a57aac7caf2c98cc57d2022dac80834256f6c8393a28ac02d9869d32cc6",
-    "972bd92a7c833ddff06db9c2a9b1e4d6f3b5ad4292775fd1d0c52bcf148eaf49",
-    "3ef0c4155774415f847abfb0c1a1da30cac788a2d8b95ab4c2509e9e15664356",
-    "d3b1c45cc38cbf7672070dd397dc47fb98ffa0c68ffd2a6b574ba897421333fa",
-    "a0e90973b23595bcbf1b224cdd161b4f8ad3c368ae3c71ee8cbd668150104e76"
+    "4c4b16b33fb343989f380edac15326c100e61454801c4f4dab22e2a5cb46494f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
