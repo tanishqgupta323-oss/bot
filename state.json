@@ -321,10 +321,10 @@
       "title": "Revised UoM Inflation Expectations"
     }
   ],
-  "calendar_fetched_at": "2026-10-21T11:31:09.168291+00:00",
+  "calendar_fetched_at": "2026-10-21T14:31:11.980943+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 91,
+    "count": 92,
     "day": "2026-10-21"
   },
   "recent_stories": [
@@ -3176,6 +3176,9 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "41a1c26b4437cdd8539d240b42893b50db6c5388902b5f1ca1d541cbfb35fde5",
+    "09a68455ccf492f1f11fe576c483600ca9fb6b2957c2b48920c0796907bb22b2",
+    "dcad0b3ea4b371800e8153436df1ef2be2dddb2e48a170cbbae6b21a48f5288a",
     "6729b4474c3256f275f6d7d745aebdcc5f29dbd5305cf7ef98f4345e1fca43ae",
     "a443355a15c7f9811849886018df50b23d03cdbbf2adbab72f498aa01c2dbd05",
     "3250b6db92d51edc96d37add3018f43a69dabc3fbcfdcea2451b2827327b315d",
@@ -4172,10 +4175,7 @@
     "dd24e006017f77dcd5709d9b08ffed5c5f06db27eac7569eacf8eea02a135307",
     "49f648c1b63d98c92e0a1092f737341ac64e1ec8e134302707adba2eab6301b7",
     "9c65dfa88c262660d89e7bdf97b9f162c6b523804e8588878832c4e2708259a0",
-    "9cd17f4647d1d7d2cc3c3cde4ef2d59e127fb1a402c7be9c908c4521c162fa04",
-    "2f42faa6dfa8cdab4f26d34470202cd792b8d98764ecf671595f122eb1fa5817",
-    "157de34fa5a589fbc7e7ddf018e3e3bbc0740433ca1cba9942a51e9a31995a2c",
-    "ead5f9784e4fab342a08ef4590ad205b2f5d0f9c20f113af63a710d346117432"
+    "9cd17f4647d1d7d2cc3c3cde4ef2d59e127fb1a402c7be9c908c4521c162fa04"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
