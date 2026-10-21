@@ -193,7 +193,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "9d05eedc1c065ca071b31c92",
-      "forecast": "83B",
+      "forecast": "80B",
       "impact": "LOW",
       "previous": "67B",
       "scheduled_at": "2026-10-22T14:30:00+00:00",
@@ -292,7 +292,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "988d43251560806efddc329a",
-      "forecast": "57.8",
+      "forecast": "57.9",
       "impact": "MEDIUM",
       "previous": "58.7",
       "scheduled_at": "2026-10-23T13:45:00+00:00",
@@ -322,10 +322,10 @@
       "title": "Revised UoM Inflation Expectations"
     }
   ],
-  "calendar_fetched_at": "2026-10-21T17:35:36.057699+00:00",
+  "calendar_fetched_at": "2026-10-21T20:40:47.699153+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 165,
+    "count": 166,
     "day": "2026-10-21"
   },
   "recent_stories": [
@@ -3177,6 +3177,18 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "ae55dc1e133b13c8b78f7a95197cfa49332ca9b4fc0f051d533286182228ba90",
+    "bdcfe62e4011363f6768912866defa5b937a07e92630998c585765e5fb035235",
+    "dd005dc98f2648fc0d641e1aa5eb98ef135cf481a761692efeb42b0f8fa1c412",
+    "0838ee64d95410d12f6b31617b5ed8b363265497b480eda3a770db2d740856b1",
+    "a2f7089e14e50cc10091a3822eba15bc1399db1eebc4b640f5d39fd848765896",
+    "b45b8b27772fdaf0794073b952d240e13efe0573cdc6c47c2799edde77bcd83e",
+    "010d989142e5ded010c223fdead62fa9595c57b950c5ddcc9d912665abd88488",
+    "211ac48d8708b8c1242f4360f11034c3823766ed6a8ef920ccb0a6c00f67a2fd",
+    "6d04064a291b504f73e583d4f36f0cc63b71626dc031dd2d720135492e1b9ab2",
+    "e6a29460fb36233f36e865fc52fdc44cb4bf9c706794b9b8fcc5c5ae738b694d",
+    "14b4bc2217f95bd106cfb4d10a1385ea489fb8bafcd86a5c0a95f4833e11004a",
+    "7a567d8a9b5e4e73f26c92374fe38e5c5ee88b081d6d2217f5aecf05292d2b51",
     "b67bd662b2d4337da480c4dadf339676a8699795f56e7730d29f165acac78a50",
     "1ce1dfc867db7ca6e2b2d099808e03363fdcf7898db1a1ac79dc9314fe3f7da6",
     "34c6e3e521a143f9d28c551bda40555f975d98b0a14483abe0e5eadf908a65e5",
@@ -4164,19 +4176,7 @@
     "886d9a1d6c1fc1a904820249a2fc642f980e0effd40a8d58474be95da33b3135",
     "d89b829f2dc660cd7325b991159fe7a861d951f9caf6de7f121f0975c8d662a7",
     "c7141dd5c805d0ad644d53f7a5772250a9ae7225df560e6f536fcada396e9010",
-    "8cb667f7941017ce49e44d732b2d66aa931a131564704cf2d94f364abf4e486e",
-    "fe6f3187f210d3ebfee44a2c92c5f9f1f9b129e5e73a6d0757c45285cf741930",
-    "e4a549f84fcc40ee52ae587874e3d4808abb13f48fb66ec0aaa4164a423542a2",
-    "ffdc9f6260a8cdda7fd20f998bb19d516a9835ed10bb145eaf2ea834505ea0e6",
-    "d06221baf32d7fdd6a6b92ef246a72f2d53320e4e7ec2b0341864c208e575f81",
-    "1d54ef9fdd02384e995d238208aea18dc4127b4dc4c4883d64c132b21a0d794a",
-    "1fc866daef70c73fff8d3789a639181e4dd17e093ec79ee0e2e7b80161a84548",
-    "4826ccb13289d7ac2d4196fd4ba788af0495e99e7366cf0389be14efcb2f4e1e",
-    "4c5edb08df72f90dc96ec22439c1ec85e65d58e98039b3436bd391b6f045279c",
-    "c27f98ab58d0f05a00cf7b046b6f57e0ee2fd0cf605bf96d718be666c7849620",
-    "0ebdca6b474b3fbad8f25d541b349582c144755530a0a91991a8bf0f1356c1a3",
-    "8d64a6be09937f7fd7bad73bd1d80622646a6ccabffa7a307af121fb89bdc8b4",
-    "a4c14110e56449e750fd5855feca960402e44c05b028cef2c1817e196173ccc3"
+    "8cb667f7941017ce49e44d732b2d66aa931a131564704cf2d94f364abf4e486e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
