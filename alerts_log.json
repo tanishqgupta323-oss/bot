@@ -8144,5 +8144,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "ASHARQ AL-AWSAT English",
+  "title": "Iran Vows to Retaliate Against Any US Strike on Pickaxe Mountain",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWxVaXJtaDBTRUV3QmZIOV9BN1dXY3lLUkF1OVdXNFJZcG1oRFZlQ0d2dDN0QWJZRzFGSWdKRzZVeVU3VXNvQ0pES0lWay1KNk1wd3Z6NTVyTUNUdDBVTlRfZUdDZTFibkRzX3ZvRWM3M3pFWHlhNXFsUWNiVU5jLXV4c0NZYThNenJTZ1N2SzVicUNKeW5sako2aFdCWkx3?oc=5",
+  "published_at": "2026-10-21T06:07:19+00:00",
+  "sent_at": "2026-10-21T07:31:10.184712+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": -0.0701,
+    "BTCUSD": -0.0511
+   },
+   "60": {
+    "EURUSD": -0.0112,
+    "XAUUSD": -0.0798,
+    "BTCUSD": 0.0515
+   }
+  },
+  "checks_base": "published"
  }
 ]

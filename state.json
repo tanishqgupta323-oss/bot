@@ -7,7 +7,7 @@
     "394da65f5d3114f9f9445a74": 8,
     "4e800e0aabfa6f8914d1e370": 8,
     "77ed713fd720455efefe1acb": 8,
-    "8979ac3e77a94bbded2f5a06": 2,
+    "8979ac3e77a94bbded2f5a06": 3,
     "9bfb1334a3318898641e9c68": 8
   },
   "calendar": [
@@ -323,25 +323,10 @@
   "calendar_fetched_at": "2026-10-21T05:31:07.216581+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 3,
+    "count": 5,
     "day": "2026-10-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T19:20:43.947075+00:00",
-      "w": [
-        "airport",
-        "attack",
-        "houthis",
-        "joining",
-        "president",
-        "riyadh",
-        "saudi",
-        "strikes",
-        "trump",
-        "weighs"
-      ]
-    },
     {
       "at": "2026-10-10T19:25:35.628159+00:00",
       "w": [
@@ -3154,6 +3139,20 @@
         "war",
         "warns"
       ]
+    },
+    {
+      "at": "2026-10-21T07:31:09.117535+00:00",
+      "t": "Iran Vows to Retaliate Against Any US Strike on Pickaxe Mountain",
+      "w": [
+        "against",
+        "any",
+        "iran",
+        "mountain",
+        "pickaxe",
+        "retaliate",
+        "strike",
+        "vows"
+      ]
     }
   ],
   "resolved_events": [
@@ -3172,6 +3171,11 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "996ffc12971ff3b03bd14bb11a8fe670f8a7404048ff6bff116b2252433387c4",
+    "4511956ccf5554bb5bf86cbc1ed72208e9fbca71b7ccc8b410bb5fb85c4de85c",
+    "66c2112f54fd9f6d2e26be9e5d4bc6e2fc16e394c09c599dca8c56b8f5dd607c",
+    "1cdbd7aabf729ad9aded8a460db9280f4575988d76ee1a058a39d830e8bf19b3",
+    "f3f897d9e1241aa84efe36ad30d3b08307b0a7fffd4473e1059135768aadacb1",
     "1ade86b4a5df1d32b1797575656cd8cdb672865bc5117061ede969d774e98f72",
     "5b7fcd54ccc586ad53a6d9b06d726d87e708d3b0acab5a268771f2eb0f1b1193",
     "250a2ae8392b6a92f3aa90a05298cc8db44f128feadf175cf2dd555027b09fbb",
@@ -4166,12 +4170,7 @@
     "a23a0fb894855cd72f85a7765645e6b410b16ab50106d01eeb10259e6aafcb96",
     "1783fba08e15da2220122f5750c83c00cf0e4f1baa1e0f0ee7b695ad5309c600",
     "576aba345b4066abaa17e66b8facb22d23c1b8dbe3689ba034df9d42e3794436",
-    "d4e615d4c962901b81ffdd6ea3ea368f82c8c44b11da9cd3b452e8fb9c549c22",
-    "1bc06cee4073ef306bd64622864b5b7d72767b4319d373da263c1b89f0208252",
-    "f89c35c57e1ab0dd5bea4df65fc88a7229c7228c53af3fb5e06c55985056ec4c",
-    "524fc565f61a8634d7e4aa03b8b361a7b6403bff3773235d55cddb5a101764a1",
-    "403c22e7e3f07433fc8a19e3fbe122e91cffee8ba46760453cc5946e533db0c9",
-    "294ffc2922250a3d5421d7960c266bc840097fbc8d54237a2ab6515aad7beba7"
+    "d4e615d4c962901b81ffdd6ea3ea368f82c8c44b11da9cd3b452e8fb9c549c22"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
