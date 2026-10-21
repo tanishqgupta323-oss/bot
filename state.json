@@ -7,7 +7,7 @@
     "394da65f5d3114f9f9445a74": 8,
     "4e800e0aabfa6f8914d1e370": 8,
     "77ed713fd720455efefe1acb": 8,
-    "8979ac3e77a94bbded2f5a06": 7,
+    "8979ac3e77a94bbded2f5a06": 8,
     "9bfb1334a3318898641e9c68": 8
   },
   "calendar": [
@@ -323,7 +323,7 @@
   "calendar_fetched_at": "2026-10-21T05:31:07.216581+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 9,
+    "count": 11,
     "day": "2026-10-21"
   },
   "recent_stories": [
