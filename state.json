@@ -325,23 +325,10 @@
   "calendar_fetched_at": "2026-10-21T20:40:47.699153+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 198,
+    "count": 199,
     "day": "2026-10-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T20:15:44.724972+00:00",
-      "w": [
-        "alleged",
-        "crypto",
-        "exchanges",
-        "links",
-        "russia",
-        "sanctions",
-        "slaps",
-        "three"
-      ]
-    },
     {
       "at": "2026-10-10T20:20:45.378311+00:00",
       "w": [
@@ -3162,6 +3149,19 @@
         "talks",
         "ukraine"
       ]
+    },
+    {
+      "at": "2026-10-21T23:25:36.208673+00:00",
+      "t": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
+      "w": [
+        "draw",
+        "elections",
+        "iran",
+        "israel",
+        "plans",
+        "renewed",
+        "strikes"
+      ]
     }
   ],
   "resolved_events": [
@@ -3180,6 +3180,8 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "bfcd41b1ecfb1e3d2e541f2631a2338f84d3e04c716334702a588ffb598281bc",
+    "e057b5b58aa6da5fa5cca264406f2b823ee0b6487c326fbe482192164d3064a6",
     "3cec55acadb9cfd5ea0f8726ab5817853c9fa5044aa4eb66b5d20261e1fad76f",
     "34f14599ab6b4fc1a6324e86cc501b406e2ee03512d7460ccfdde79a9ef61276",
     "2226d7fe89e5b8593d0d94d6e98304c2c53a4dcd384105b8c631c7be8107d4f2",
@@ -4177,9 +4179,7 @@
     "fbbd955a29dd07086dc2e7a3173bd52b414a721c5ec1d4edae66ba536af64f9c",
     "645d290a4189e86cabe2ef1347ad6634525d18486838d80bb099fe5458b5883e",
     "678ad1229257c995d8176b02de7e63b579ee6a07461b412f5a6327a3babaee23",
-    "e407aee5b6ca095d6cc1803546fe7fc6aa3a15bbecc15fb339ee1fcf4afe7beb",
-    "62b8d9828feb20a6258bf67158a835123b71159273d612a1a4ff1122c186b316",
-    "c1c8ed2f7d513cae3fd137bf5190670e97dde4cf540fa6c938e8e538f4e3c783"
+    "e407aee5b6ca095d6cc1803546fe7fc6aa3a15bbecc15fb339ee1fcf4afe7beb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
