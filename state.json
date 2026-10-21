@@ -5,6 +5,7 @@
     "1249282c576b2625dec9b2ab": 8,
     "2871a300854c8a23aaad141e": 8,
     "394da65f5d3114f9f9445a74": 8,
+    "40935a403254f0342ed65e3f": 1,
     "4e800e0aabfa6f8914d1e370": 8,
     "77ed713fd720455efefe1acb": 8,
     "8979ac3e77a94bbded2f5a06": 8,
@@ -323,22 +324,10 @@
   "calendar_fetched_at": "2026-10-21T08:31:07.604390+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 33,
+    "count": 35,
     "day": "2026-10-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T19:25:35.628159+00:00",
-      "w": [
-        "breaking",
-        "consumer",
-        "declines",
-        "index",
-        "october",
-        "sentiment",
-        "uom"
-      ]
-    },
     {
       "at": "2026-10-10T20:05:36.751095+00:00",
       "w": [
@@ -3154,6 +3143,21 @@
         "report",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-21T10:05:37.910603+00:00",
+      "t": "Bitcoin rallies on US-Iran deal hopes amid increasingly positive reports. What's next?",
+      "w": [
+        "bitcoin",
+        "deal",
+        "hopes",
+        "increasingly",
+        "iran",
+        "next",
+        "positive",
+        "rallies",
+        "reports"
+      ]
     }
   ],
   "resolved_events": [
@@ -3172,6 +3176,10 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "359236edb7728e2e1e7b92798d689482c52c1be17bf5fc3b806f852469f9ee74",
+    "4346f961ed46af02952f9563bb15c78b2d411611e2e09c5d30c7a7ce3c7ed119",
+    "c303c8d771282b8eb056c05cbe31ea1b4d08bf385082a6d99636b19c486606fe",
+    "962bed6f54f36b35a6ddc2ae564b78b94a67a1ae0e46d4ba3a86e02610de5212",
     "1864150efa0320f316957c012494340c4770f5193ffb56e2ada62b61fff64813",
     "7bb5f5a131b6bf0e4c1bd61b59051c39f62b7d6bfd0407362fd7c3371921a34f",
     "d45cfc19d723cc15db4395b4f7bb2d2cd431e9a25eb5c1266ef319c5bc463e5d",
@@ -4167,11 +4175,7 @@
     "18c301c253cf3eeb23957a0678fd076685aa047fd1638ba04727ae902de71e35",
     "f1a4e5af0a1effff31df7a5d320a8acfe59863d45496e7d6be218be095cec51b",
     "f45476db5a31d2e4d8dd478637a304deb99e51130a9931b2e3702ff7b6a1dfce",
-    "3f34d38107f1b7b23bb867ea9fa4848a010f49eda7d0e0d86d9ab69f2012cac0",
-    "5fca4a361b47dc60ff76a6aec50ec24f6528ba852d67344b20a43a5c4bafb10e",
-    "61bd4cb6bb40593fbbdb15081070e72f534fdf2ea5c9bf6a11cbe0099c1dc475",
-    "ef278cc4509ae553552b56bdd457645281feacba4bcebc9baaf5c62fe17dfe80",
-    "bd3de316be351dfb5ca166770d966b0e39b26b8901a4e8ffe7fbac346cd40006"
+    "3f34d38107f1b7b23bb867ea9fa4848a010f49eda7d0e0d86d9ab69f2012cac0"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

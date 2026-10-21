@@ -8196,5 +8196,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Bitcoin rallies on US-Iran deal hopes amid increasingly positive reports. What's next?",
+  "link": "https://investinglive.com/cryptocurrency/bitcoin-rallies-on-us-iran-deal-hopes-amid-increasingly-positive-reports-what-s-next/",
+  "published_at": "2026-10-21T09:20:00+00:00",
+  "sent_at": "2026-10-21T10:05:38.873427+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0674,
+    "XAUUSD": 0.1015,
+    "BTCUSD": 0.1038
+   }
+  },
+  "checks_base": "published"
  }
 ]
