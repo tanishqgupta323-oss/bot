@@ -323,23 +323,10 @@
   "calendar_fetched_at": "2026-10-21T05:31:07.216581+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 15,
+    "count": 16,
     "day": "2026-10-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T19:25:35.628159+00:00",
-      "w": [
-        "december",
-        "dry",
-        "iran",
-        "kpler",
-        "lifeline",
-        "mid",
-        "oil",
-        "run"
-      ]
-    },
     {
       "at": "2026-10-10T19:25:35.628159+00:00",
       "w": [
@@ -3153,6 +3140,20 @@
         "strike",
         "vows"
       ]
+    },
+    {
+      "at": "2026-10-21T08:25:39.877811+00:00",
+      "t": "Report: Netanyahu planned massive Iran attack, but Trump blocked it",
+      "w": [
+        "attack",
+        "blocked",
+        "iran",
+        "massive",
+        "netanyahu",
+        "planned",
+        "report",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3171,6 +3172,9 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "de2b87d0b47dfcf22828c7cbbe4ce6ad0dc5bd62d6cf68bd3712e993a8cd92f4",
+    "f9d33b9d3d25d35daf1284be670fdfa0579a574701394d2b04b9deda18e87a97",
+    "b61038eab3b925e16a08dd93286aab2a42c2d397fea703ecd1412596321f6baf",
     "5c4a687a8b2eb9ef97507083d8188f51d1c67333562536580e800c4ebec4887d",
     "e74a232388f31f1f72d3c7accb9370ccf08e105164f9ea5bc1380a5d39bb6f58",
     "9909d2150625e30c722c337059712b95a9fb52791b09f83ddeae25114b53a16a",
@@ -4167,10 +4171,7 @@
     "db7391544d1251cec9cdc6dad7007bf51bc7c3adf1d55a13e25f071cb0925c9d",
     "35fececf497f3c5f76a325e589d449d69f14c58c208ece8dfcd4f0642b182a14",
     "3f34ae6c5dd51e3f4de329d19fb0bff5383d307a699bd5c404d803d4384341c2",
-    "4cf9102aab7286b7a979686b86372dda9fbad408b9c5f0ad18f40f1bff1a61bb",
-    "e3ef7c99ed80a4d0939ce741070427a4aba7cd6ae47db90b656ddcd68add041a",
-    "f2f0ce0e5ea847fe340ecd96fe0b0588190eab37f0d6431f2eca5d093919646b",
-    "47c22e9760687d82e9e536c6c12c12855af62575610453d9f0cd652ca9eb0b32"
+    "4cf9102aab7286b7a979686b86372dda9fbad408b9c5f0ad18f40f1bff1a61bb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -8170,5 +8170,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Ynetnews",
+  "title": "Report: Netanyahu planned massive Iran attack, but Trump blocked it",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZFQ2OGYxS3VIZm1sYTlMemU3QS11bDJXZFJpZGNMVlU3NDhDclFFeTlYODZjLUNmdHh3VmkzdEdxcFFIZmZTMnJoSGFTMTJmREVsWXZ3?oc=5",
+  "published_at": "2026-10-21T04:33:00+00:00",
+  "sent_at": "2026-10-21T08:25:40.763390+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": -0.1039,
+    "BTCUSD": -0.0111
+   },
+   "60": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.1498,
+    "BTCUSD": 0.0994
+   }
+  },
+  "checks_base": "published"
  }
 ]
