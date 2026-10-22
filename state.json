@@ -325,24 +325,10 @@
   "calendar_fetched_at": "2026-10-22T02:45:46.455582+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 239,
+    "count": 240,
     "day": "2026-10-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T20:31:05.683327+00:00",
-      "w": [
-        "blasts",
-        "deal",
-        "diesel",
-        "kill",
-        "putin",
-        "russian",
-        "strikes",
-        "trump",
-        "zelensky"
-      ]
-    },
     {
       "at": "2026-10-10T20:50:44.746338+00:00",
       "w": [
@@ -3165,6 +3151,21 @@
         "outlook",
         "saudi"
       ]
+    },
+    {
+      "at": "2026-10-22T04:15:45.313111+00:00",
+      "t": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook",
+      "w": [
+        "drops",
+        "gold",
+        "higher",
+        "longer",
+        "oil",
+        "outlook",
+        "rally",
+        "rate",
+        "reinforces"
+      ]
     }
   ],
   "resolved_events": [
@@ -3183,6 +3184,8 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "4c20869ef51a45ee61fcef8c4723b320ba63d8b35d4da79ccfa366aa137ab1ca",
+    "403a4452a4acd1c80f9b7d9f6f963bad63435fc756eae9c7d04de6ab7a6d7d45",
     "8faf628714f6faa5c1fc4fa4ef5cb47dbb476415f7c15fe7ec040fc91f9274f7",
     "55c0b4afde75c5611a2020e312ab244b5e3f2f54447a00956c71097c57528efc",
     "bafd840e202cee0df0de2a620844a691a7b00eeb1fb86e4ae32f96aaf6d4626c",
@@ -4180,9 +4183,7 @@
     "151cc610771c1e1d30773ff1da83f972bcbbc6238df6f245622db262ef562547",
     "9b764059cbc2d7af592c79fb77cd26bc35f01c494101a8cf71d0029855cd3ed8",
     "d7bcdd3c20c39c2aa6dda31703ef2325904fb2374b974486bb3663bdf1a89ebc",
-    "c6f26bfc7968c5cf6e0ea2d932d34a3613db2b70cf2ef4da9a2b20487f1a76a3",
-    "add02b2efd5df2e1b34a219249ae0a86a127aab0372db7311eb29cb9dec5fad6",
-    "e8c570f8e21e86cf4b7a033b5ad408efe6f19ed3f806d582cac8ee0628d1deff"
+    "c6f26bfc7968c5cf6e0ea2d932d34a3613db2b70cf2ef4da9a2b20487f1a76a3"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
