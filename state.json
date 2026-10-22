@@ -8,7 +8,7 @@
     "394da65f5d3114f9f9445a74": 8,
     "40935a403254f0342ed65e3f": 8,
     "4e800e0aabfa6f8914d1e370": 8,
-    "691c404919d12804192fc12f": 1,
+    "691c404919d12804192fc12f": 2,
     "77ed713fd720455efefe1acb": 8,
     "8979ac3e77a94bbded2f5a06": 8,
     "9bfb1334a3318898641e9c68": 8
@@ -326,25 +326,10 @@
   "calendar_fetched_at": "2026-10-22T11:45:47.990496+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 59,
+    "count": 61,
     "day": "2026-10-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T22:01:21.718799+00:00",
-      "w": [
-        "capped",
-        "dollar",
-        "edges",
-        "gold",
-        "higher",
-        "range",
-        "rebound",
-        "remains",
-        "tight",
-        "yields"
-      ]
-    },
     {
       "at": "2026-10-10T22:10:44.042474+00:00",
       "w": [
@@ -3149,6 +3134,21 @@
         "video",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-22T12:41:36.750358+00:00",
+      "t": "Jobless Claims Drop Below Expectations, Indicating Labor Market Strength",
+      "w": [
+        "below",
+        "claims",
+        "drop",
+        "expectations",
+        "indicating",
+        "jobless",
+        "labor",
+        "market",
+        "strength"
+      ]
     }
   ],
   "resolved_events": [
@@ -3167,6 +3167,18 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "2a132659d4c2296216c257c426d84ed011fa0532fca82fe64c6eecb3a41512b5",
+    "78d1e068d5525587b6b911f32de78a69a5405182e0d3c50cbfe10dbe38e26942",
+    "de51a6ef43d8a0edd860566342ca3d20f8760244498be1ff3a6673671cc68356",
+    "7da76edd7102c05cee2b6cdbbf7923cbb86edefe7d74d0201b6335aca83d3758",
+    "0aa7bd9e8a18a84ed4377f2fa8a92872c8dcac262a27cff9354a86811fb98d94",
+    "fd4cc873e529eef81cca2c90d582cbc8feb37da3ebf8529224e1e299de68df12",
+    "142f204bc30a17e184e2eefdf9eef6e0d1a50bc1a241fe42ba1fd062601e6798",
+    "7f49c057c14daaed9e744382266e50cd85b9b12dfcdbbabf47d40dd4a6621c99",
+    "4b908af75dfa25b93a55e0e3c4f7e9af4602766cf551b1559104141f8c539f2d",
+    "429e4d09c3fd5d6e7017eaf3f39a381e6382fd3836f134ba649d305b8c4c00f4",
+    "3c5c5a3bef24607edaa1a143007be44e7b6d967f14575eb9e736f622930dc800",
+    "6e956d7757a77114e1fe3308bb82a2c581f859d40f4380b7516d9b7d98ce8994",
     "1e3459b39d652ff93466d5a0677b0046f1db6ffee3bb7604c9be481a9e8ea7c4",
     "0cb27f6d43c11e64be97346fc9ab3d564153b653058b9eb1e8842cefa7fa688f",
     "d1e82c4f677fe7f38e11790cbb7ccb700fdb529fcbe831a6482deb5e71866f63",
@@ -4154,19 +4166,7 @@
     "c5b323323c4341c993eae9cd9c0517f4ebbbb0f005866eeada3f6cd467fc8cfc",
     "83a4f26ee865aa6abcbbfe9cfe7f8fd7f30ed8fde033257bea8f5887310591cd",
     "ccc6f5ca36765697c210309a2e33211d500057a39fdea8e442329556e1ed2b17",
-    "0d3c498b6b26c7028a73fb979f29801ee4fa727ccf63ef6153489e03d1d96961",
-    "e5f5e469cf577de00341bc86e83cdce2402338a1896ea9a9da5c62eb082d0de7",
-    "12075a1887641c1b87108734d14d0f10875f3e59d388d6631741d7385c436c08",
-    "0fcac279417c94bad18e2d3b27d8d26abff77350d9c31c93b865e2dd6f051a78",
-    "1945efcb1e7a6c52cc8bb2bd28db35f046cdf838988b0ac563010abb1035c513",
-    "f17d7057723ff680369eb2d64cd1e72146df77b2bf695366ad5ff918c1c9d2f0",
-    "87a216bafded6ce927ad4bd353594ca1c062da810102d320f1b7e5ddf569dc35",
-    "e04463af9ebf670e9251e8642c40bb6149be51b32d913d7b83c8eb3efd460663",
-    "168f4ef50f7e36f6ddd10a0c236650c2e821b649ec1600b744ea6bec4f00bb9b",
-    "c2b9931ef0e4c4aeb4604f262b7ad2cc4600754952cf312eada56693ab984d1c",
-    "ffbd0659ac73dcee19570bbe688e2075d8358c131cfc5940f753c0eca82c6235",
-    "df02b18558ede344d02a55bd428fd0420bd7cf5148629fe9b8a9af4d40a67ee9",
-    "be891649707a27de30f1c067ad5791efce4cdc3f1a7bdd52235f5fa3a433cf1f"
+    "0d3c498b6b26c7028a73fb979f29801ee4fa727ccf63ef6153489e03d1d96961"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
