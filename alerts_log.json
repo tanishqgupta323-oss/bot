@@ -8430,5 +8430,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "NBC News",
+  "title": "Iran War: Latest News, Live Coverage and Video",
+  "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
+  "published_at": "2026-10-22T09:36:51+00:00",
+  "sent_at": "2026-10-22T10:50:51.029254+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0898,
+    "XAUUSD": 0.0098,
+    "BTCUSD": 0.0954
+   },
+   "60": {
+    "EURUSD": -0.0898,
+    "XAUUSD": 0.1707,
+    "BTCUSD": 0.3284
+   }
+  },
+  "checks_base": "published"
  }
 ]

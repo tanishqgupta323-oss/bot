@@ -325,40 +325,10 @@
   "calendar_fetched_at": "2026-10-22T08:45:47.708046+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 37,
+    "count": 38,
     "day": "2026-10-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T21:50:44.489015+00:00",
-      "w": [
-        "announced",
-        "attack",
-        "buy",
-        "children",
-        "deal",
-        "diesel",
-        "disc",
-        "hours",
-        "immediate",
-        "including",
-        "killed",
-        "kremlin",
-        "least",
-        "people",
-        "president",
-        "resumption",
-        "russian",
-        "said",
-        "saturday",
-        "there",
-        "times",
-        "trump",
-        "ukraine",
-        "york",
-        "zaporizhzhia"
-      ]
-    },
     {
       "at": "2026-10-10T22:01:21.718799+00:00",
       "w": [
@@ -3165,6 +3135,19 @@
         "strait",
         "tankers"
       ]
+    },
+    {
+      "at": "2026-10-22T10:50:49.675387+00:00",
+      "t": "Iran War: Latest News, Live Coverage and Video",
+      "w": [
+        "coverage",
+        "iran",
+        "latest",
+        "live",
+        "news",
+        "video",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3183,6 +3166,10 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "39c8305b5c84ba18bdd0cb90350b711429b6147b9805f07352dd0b4d07f7e830",
+    "2cd44cad0e0a361a65266a6dcf347a25f664143a9622f292aa9d9c2a9a3470c0",
+    "d97eee06f5c78b0985015995f85aac4b21364edec8fa1b852acda9cdd78c3930",
+    "be8d005eca3f2b8b5029aca6ed8c9f589f0792be173eaf59083dacc86912e23f",
     "2a5152be5ec41ccc403533d44cf8250c9b62204581b8bdad9842994af6430ed8",
     "98d765a93e09f4067e854b2a8881ec4e13edafcb4fc5a79987914fcd797287d4",
     "50d28d06993eb02c840ba9a44a31541329979b96508cc5237cdc0ae54656ec34",
@@ -4178,11 +4165,7 @@
     "3c293748e7874e9f196ca8046c67852f4046e481cbc5b15bcd76fca90fdb382d",
     "b47aa29c214669b3e2ba5c04ad83bec715b07f1a1ffc85fd73d12322bc0c5f94",
     "c0d462fa23ef9538b074c9a7da05ee6a00db607a72258f47bd3edec73fa9212a",
-    "818a8f1fd0ecba4311a053b8e8522ef5155a53ec7be7a2f3449c7602aadfd7ee",
-    "43f6a253615271823c083b3e3532dca064e13171008927e6736b77245ec1fb75",
-    "a295c6d67df9589db1cc426f1db571f0c57937f457ef0f1a4cf5d571b5f27f53",
-    "e9ed0628c847d60f9fc1c18eab60a7e26ec51bc04f9a563b2d1c74c51d86bcf3",
-    "427161294a897161fab0e1bfc1df97157e146534381425908079276622c73ed4"
+    "818a8f1fd0ecba4311a053b8e8522ef5155a53ec7be7a2f3449c7602aadfd7ee"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
