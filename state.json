@@ -329,26 +329,10 @@
   "calendar_fetched_at": "2026-10-22T17:50:48.494079+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 158,
+    "count": 159,
     "day": "2026-10-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T22:25:37.863257+00:00",
-      "w": [
-        "activity",
-        "battered",
-        "detected",
-        "during",
-        "early",
-        "iran",
-        "nuclear",
-        "significant",
-        "site",
-        "stages",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-10T22:50:43.743879+00:00",
       "w": [
@@ -3150,6 +3134,20 @@
         "top",
         "worries"
       ]
+    },
+    {
+      "at": "2026-10-22T18:50:49.556588+00:00",
+      "t": "Reports: US and Israel Set to Restart Major Operations in Iran After Midterms",
+      "w": [
+        "iran",
+        "israel",
+        "major",
+        "midterms",
+        "operations",
+        "reports",
+        "restart",
+        "set"
+      ]
     }
   ],
   "resolved_events": [
@@ -3169,6 +3167,8 @@
     "691c404919d12804192fc12f"
   ],
   "seen_headlines": [
+    "6c3a495fdf52321209dab0c6ac7cdbc1eefc60e5a8098453cccd5a46fac92337",
+    "140c75b025dc19c391297fe49c231e9089da0c787d3b2cc310f341ed94d8c9a9",
     "6459a2502b28428613389d8ac831f3c9defeec2f0103b9e9c8e6351ecfce118c",
     "33b661620685ca520d56b246e0135f8fe0ccc1771486fbafd1d2ee7d25f2f770",
     "072959c775475b60f85dc569e1a78d8bcf4216c85e506e751ffb34d445da8ba2",
@@ -4166,9 +4166,7 @@
     "de72a8801277169b6741ce89ff953c03549459a0d9d20f12b1d8ebc44c109771",
     "3736ea8c8bc4e6c902e4e6b9a1559c9a0fc2385988a0406754902003be2aa928",
     "8443d1cf1f9af5f4fabe1441ea27ed6f2d76f30c27d0c91c250881f94388988d",
-    "8481a0cb3841c224e33f28c1843e03638becfe6243d81897055b64cb95a31ceb",
-    "9c1cd9b956ba61501bccdaf98b6b3f47e85e47267cfb1c5fa240a2803fb952f2",
-    "7a2018241ef0fefd438f07f3e97adcabfbb3891e6c28a1f2baf4e49c2cc619b6"
+    "8481a0cb3841c224e33f28c1843e03638becfe6243d81897055b64cb95a31ceb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

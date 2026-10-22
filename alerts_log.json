@@ -8508,5 +8508,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Truthout",
+  "title": "Reports: US and Israel Set to Restart Major Operations in Iran After Midterms",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVW5PSGhxeDZnWjVyN1RSQUk5NmNxSncwOHl5dWluSl9FY0JWdDM2UUNTT043VG1kQlpSMnVIREFVX0tOVEtDVHRJTk9Jc3R0WF9Ca0JLekhWTmJXV2VuM3dCZ3pQNzZLMjhhYV9QcXQ2eTlvSDZBWFJoRlhjbUZESFB4X0czXy1SS0Y4ajkzNFBMdDJTMWVSakU2cHdJdjFTNThNSVpGTERocDA?oc=5",
+  "published_at": "2026-10-22T18:39:59+00:00",
+  "sent_at": "2026-10-22T18:51:15.793097+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
