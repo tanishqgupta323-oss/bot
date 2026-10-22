@@ -325,24 +325,10 @@
   "calendar_fetched_at": "2026-10-21T23:40:51.428236+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 213,
+    "count": 214,
     "day": "2026-10-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T20:20:45.378311+00:00",
-      "w": [
-        "explodes",
-        "guards",
-        "hormuz",
-        "iran",
-        "mine",
-        "revolutionary",
-        "strait",
-        "striking",
-        "supertanker"
-      ]
-    },
     {
       "at": "2026-10-10T20:31:05.683327+00:00",
       "w": [
@@ -3162,6 +3148,23 @@
         "renewed",
         "strikes"
       ]
+    },
+    {
+      "at": "2026-10-22T01:20:49.022580+00:00",
+      "t": "Gold falls near $4,115 as Saudi attacks fuel inflation, Fed outlook in focus",
+      "w": [
+        "115",
+        "attacks",
+        "falls",
+        "fed",
+        "focus",
+        "fuel",
+        "gold",
+        "inflation",
+        "near",
+        "outlook",
+        "saudi"
+      ]
     }
   ],
   "resolved_events": [
@@ -3180,6 +3183,17 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "d9b74cb14096d11eac886eddc663ef622cd4289daddd8b4af0453fd6f322d576",
+    "1d9f295187220dcd926309cfad2dbe6950575a8b3cf8fc7655efc502e68907d1",
+    "32af86d46c75f36af3cdde8aee466396530c352452260ecc57a067439307f286",
+    "923db67e099e368f2794ee530cf6ecb870509429b60479db52963c3566ef4969",
+    "2f5ee8af80cc2a18ed99262f3f11f84e2d77bdf3150b078f798b2c04cf537587",
+    "851744a96f26b5b932f4727af9d8925af0e8c7814400581201ffdc00fa531f6d",
+    "6fa5b8b7459a91db62b2e7d5c0d13104f6552ff26b32a8ef33a2e960936562ef",
+    "b7339ba6edb86f3163196eb45003ef70679f4116963ea03ab613425a847b2a27",
+    "870eb3bdcf6a90db336799bc2ddace67c1335a0204c69c1e64a131718afda486",
+    "f2eab1988877bbd856e35bf7ac2d1c6cf97fded6b742ac29f1726f475fc70448",
+    "cbfa5f99dea108798635ed06f2c47a379d15bb1c3bc07319cb2322442199a32b",
     "70f7021a9da65b37c8865f9e0ec559627feab5ac2c4ba5bd631eac5381cb5b7a",
     "dde36c61731724bd31209b7389cd8bfa728860ec6d37cad9e3578265a1b35f0b",
     "93da97c7ff1aa6c3fc6eb090b147ad1abd8ccccab6e6bc28aff98a68c56e4814",
@@ -4168,18 +4182,7 @@
     "bd654849c1341f45f809b3ef02e6ad0dfa613aeeb4809242e94da74f98df8a1e",
     "d97267d1717ee0350943a76126b0aedcf2d5774e665247fec7cecd7d63187f87",
     "e0842a8b64976e3024b24ca55626aee036a394616f839815aff8c8a1cbed9c50",
-    "0b769f328342e6be623f31ce40b0e10b9b0d66190491b641f5c5eec79bf098a6",
-    "2932dc6243fc08ac10926c8150884892324a99a47402fa269035dcc0249a8f17",
-    "ed901b96b197e6f8bb98121c509bff38e8b189ef28e7cd8336b716d187dff3e9",
-    "a1e122b8d7f44d0828357885f16c8462f70959d73ca9afccc3414556b98bdd51",
-    "2accca64b8abdb5e0ed916ff16b9b8567593836eda3ff379f60ffcb09c1ff330",
-    "b9b775b17d9bdd598d04af03541797d14301d2a73486ac3bf7f501c2112c9463",
-    "2275574da38ef38d4d4eb8399071d70098619de80df8bcac2bf1bbc4d751e949",
-    "feda06059448caba47f9dc6f7f3bc4e031298ec8dfc3a261e4bae2f57272f0b6",
-    "4569102388dc7766f71023a88b681e46fadc3d27584befc4bfda690b41ae50d7",
-    "a896f5955125760db29659db526c7a3ef98f5283f9d26ed1b53eebdb82187a65",
-    "5eb0bc21e660d5462158925c9b9f672c0d75b32389b35abe61abdb92dfa68116",
-    "6a5f4201fa9d0b2d861a23db1a003782b1acc5d4787e3469125165b4550148c8"
+    "0b769f328342e6be623f31ce40b0e10b9b0d66190491b641f5c5eec79bf098a6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
