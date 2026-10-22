@@ -8534,5 +8534,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Washington Post",
+  "title": "Netanyahu says U.S. and Israel must topple Iranian regime",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblM5N2lNR1dGazZJNVFnYkhPeUU4bmlXTWJQX3JMX1ZNanBaM21EaTRzT0d0YUx4Rkg2bjQ1bXlSMjNFOWNKTGJ3WFcyQ0lTUUp1TmxSUlJQWV9qZjRONDY5SFZWQVRHd1l6c2ZsRmtONzYzTms4OGFzYlp2MUl6bTFPanBpaFNPbkI2cWxUS1pVdXpBcDl3Vk9uOExYd29JUlE?oc=5",
+  "published_at": "2026-10-22T18:50:08+00:00",
+  "sent_at": "2026-10-22T19:55:41.955073+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.1309,
+    "BTCUSD": -0.0109
+   },
+   "60": {
+    "EURUSD": -0.0224,
+    "XAUUSD": -0.247,
+    "BTCUSD": 0.116
+   }
+  },
+  "checks_base": "published"
  }
 ]
