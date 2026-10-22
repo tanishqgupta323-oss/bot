@@ -8482,5 +8482,31 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "Oil prices top $112 on worries of Iran-US escalations after midterms",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ1lrWWZEZzJjT3ZLejlfMHVYXzhoWkMtMWlJMzZEelp6aWNsNk5wZU9mOFBwZDFhUi04SnpjTU1WQ3NndjZXeUJUNl9sTXBWakw2TTRRN2NWSGVmME9sWnpLcVZreVFfS25heWdwRk16RDZSRzhxbkFxckNxR3NQV244SEF1Yk5HaWJ0c2dVV0xFZnhzRGlzU0l0cm5Bb1dSTlk0NnIwZWhrbEJHdmdLangtUnAwcHJqTmhVTFFVUlFYTFpBb0pOYjlB?oc=5",
+  "published_at": "2026-10-22T13:47:38+00:00",
+  "sent_at": "2026-10-22T16:01:31.757259+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.056,
+    "XAUUSD": -0.2941,
+    "BTCUSD": 0.3777
+   },
+   "60": {
+    "EURUSD": -0.0224,
+    "XAUUSD": -0.0809,
+    "BTCUSD": 0.3801
+   }
+  },
+  "checks_base": "published"
  }
 ]
