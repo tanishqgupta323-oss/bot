@@ -8404,5 +8404,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WTOP News",
+  "title": "Iran says 7 tankers on fire or damaged overnight in the Strait of Hormuz, and other Mideast news",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQkE5UUhzbkcwNzB0YVJHVXpxX0c3SGE5MFFOQ0s1cE8xM3hGQ2VkMld2bXg5MVhMZWMyS2U2LWQ1amZYLUlRMjdweDI1bldtYkJwMmJyZ2NkNmU5OU4zZVljZXhlMURVR0lWUmNMS2FWTE83M0QtZG1zcm1zMmhzaHNfbXZIcTl0am5MQnhfdnJsZTExM19TMkR4eFpWQUYxYlhoNTJjWjh6UGg3Xzk0ak5MYlpwR1p5clBYNGVCcUNzREozcGtMLU1B?oc=5",
+  "published_at": "2026-10-22T06:42:03+00:00",
+  "sent_at": "2026-10-22T07:15:49.357633+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0225,
+    "XAUUSD": 0.0974,
+    "BTCUSD": -0.0372
+   }
+  },
+  "checks_base": "published"
  }
 ]

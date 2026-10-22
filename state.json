@@ -325,25 +325,10 @@
   "calendar_fetched_at": "2026-10-22T05:45:47.271251+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 3,
+    "count": 4,
     "day": "2026-10-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T21:15:46.229841+00:00",
-      "w": [
-        "500",
-        "before",
-        "bitcoin",
-        "iran",
-        "midterms",
-        "near",
-        "rules",
-        "steadies",
-        "strike",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-10T21:50:44.489015+00:00",
       "w": [
@@ -3164,6 +3149,22 @@
         "warns",
         "wider"
       ]
+    },
+    {
+      "at": "2026-10-22T07:15:47.954643+00:00",
+      "t": "Iran says 7 tankers on fire or damaged overnight in the Strait of Hormuz, and other Mideast news",
+      "w": [
+        "damaged",
+        "fire",
+        "hormuz",
+        "iran",
+        "mideast",
+        "news",
+        "other",
+        "overnight",
+        "strait",
+        "tankers"
+      ]
     }
   ],
   "resolved_events": [
@@ -3182,6 +3183,13 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "5cd016cbb055134372430b16850714e53eaf7af4af88e0c98566734bd67d9a29",
+    "81c659cbec0d152883e6f3ea84db493c92e7843cedd7e36ef12dfe176bc5780a",
+    "57e2498e51e04f8054510557c9b9d1fee56e4fa81ebb1a4d7d1c187262733487",
+    "bf83b01aaf79186b4b4d3b5a97b5cdf8a79b6fe9a9544cd4e493be0303af7276",
+    "d50ee7f39c176e5c142c4c2ec1da3667ddd1cbd5fdfc332ded7eed54f4df7909",
+    "0050ae175e90beee0fe407950433b3a0b38512f4a8216da2d4ea1b447463a768",
+    "2584b8b94efbb544949a8063db7d6364ac37131070e411c0438b80a048755ec2",
     "a0820f07cabd889cad41df8b90b9817f055314272f3c90eb3d9204f81195ca47",
     "e903d21893f4d5e4795f44c1745854a86cc48afad28d98b4919665b1243e1b82",
     "1297ba9a8e46a82ba350408d717cdb2c4222964bacc4529ded102298e56cf4d8",
@@ -4174,14 +4182,7 @@
     "31d0b87d8441dfc15f0a8cf4be23a88259ff107a96eb6992a8f3a6dd3cca1eab",
     "913013e0116b348d1ea6bad78694eea6083fa8c04ca8e3b1e1661fe74751efbb",
     "7897b00c9adf09433ccc16347775ed896ab45e5d4f4bff66ab1de268c913f8dc",
-    "f3029a480c38fc63b29857ac147bc37052b0b7a13e28e545a5c421fed6f54048",
-    "5bfe393e441ad364b060c1c3bfa2ce179ade8fe91733d72d2e275bde5dc7f412",
-    "e6def5232248eedc16cedc1a7bac68621663f89dc9ba92243efc4ea9b16e1e8f",
-    "9d38822dc5681bf6a6571f52338d73a08ee3b1460956ac869025213e77afce5f",
-    "72a190f9cb690b3563be4302e06a06149b8438cbf32e07e2b3e6b5586f9d2f01",
-    "2453fa8d2fdb4f7218ed9b7b1959e11a1b6320eec82d7e59d64cefa221c7906a",
-    "5a370d7c9a8a906443ca303571ac75c5d8801498858114d44c5045d57fac135c",
-    "ade80cb47062d233428bb047624e1f38c6900f7b0727190f4741e5620deeced9"
+    "f3029a480c38fc63b29857ac147bc37052b0b7a13e28e545a5c421fed6f54048"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
