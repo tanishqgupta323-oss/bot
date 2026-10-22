@@ -8347,5 +8347,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Anadolu Ajansı",
+  "title": "Trump says US ‘not negotiating’ with Iran, something will happen ‘fairly soon’",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjlNTzRfMEZubjk4RHlyaUxMSi1LSFMwaEMyRlhTTVdFU1paQk1RbVJZMXh0N0NVR3ZNemM1VGlGOUtrLTdyYl90eG91bzJiTkJnTko2TXF6eEdfRlhZUFJjSXBjYVRqSC1wTFpDOC1KZUdUTTgyZ2E0UXJKaFJpazQxdHY2a1RQNmFUT0dOaENLRzJSRERweDFOZmFwZnd0TEFjUkZWNkJnNTZXdkpmMUN6ZlY0TmZSYndJMXVCVVFZc2Nw?oc=5",
+  "published_at": "2026-10-22T04:27:11+00:00",
+  "sent_at": "2026-10-22T04:45:47.657390+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.0073,
+    "BTCUSD": -0.1106
+   }
+  },
+  "checks_base": "published"
  }
 ]

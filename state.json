@@ -325,23 +325,10 @@
   "calendar_fetched_at": "2026-10-22T02:45:46.455582+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 245,
+    "count": 246,
     "day": "2026-10-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T20:50:44.746338+00:00",
-      "w": [
-        "bitcoin",
-        "door",
-        "etfs",
-        "ether",
-        "listed",
-        "locally",
-        "opens",
-        "thailand"
-      ]
-    },
     {
       "at": "2026-10-10T20:50:44.746338+00:00",
       "w": [
@@ -3166,6 +3153,19 @@
         "rate",
         "reinforces"
       ]
+    },
+    {
+      "at": "2026-10-22T04:45:46.615927+00:00",
+      "t": "Trump says US ‘not negotiating’ with Iran, something will happen ‘fairly soon’",
+      "w": [
+        "fairly",
+        "happen",
+        "iran",
+        "negotiating",
+        "something",
+        "soon",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3184,6 +3184,11 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "e4ac1dc64b299d41dc62d5b276a4dbe45f4fe45415d219944af071de2c3a0999",
+    "52b5804dffd2dc2c2f9071c183a95439a70ca85dcc856f2cbcde24ac8bb3e6b8",
+    "974e49d1590dcaf8a56750c6915689b92d957e67c39fe872d43ab709063d147a",
+    "d24aa862cb4c7dafe95540ddf07116a136720b173a39e24a8d46514cd3553ab5",
+    "7d3f2bfb27295f252994ee30bd1045bbc49826161fa7c7eb698e8a25e61b207d",
     "045d72ab98be4ad7abdc7e3a482843354b4df2fd0c10332743b80e05ae15b026",
     "9839760a29ec0eaf4f5f076167e0214d35f69dcfea35e8318cc290c29a7ed3d1",
     "ee49f7a7e3a79bc8881ebaba6158ed992c9efc4ecfb10a23de1c2e8d36a5f752",
@@ -4178,12 +4183,7 @@
     "39fda4e98f7f3a8dd2a96bc2a1a014d1df4a60acae7ed0dbb9dfcbc31f1a1636",
     "26242536179e11319f29b6b6caff73c93a036f402ff5e13ff3f57df1a3a0cdd0",
     "25cac01d91e5a029055cbcebeca4f7dc4504f0fa3c2cd79c6e0abfa60320facd",
-    "63f882cf88427ec5b1132f395e40e08f51085c17ac1b188d70efb33db4826506",
-    "56533252e7b93b417bc47e4e159305f7f8d4cd7fb57310dbc971465287a08845",
-    "46957aa515ddc40be40ed3d4a955677bb5a5b4ab6af88aceb4dabd426e836d69",
-    "49f677a8bbdacd7fea06e2793fe008dc8fdb0f259de69c83d6949b08ff5d2fee",
-    "3b5e58d5f4c4923f30e49a3a49a3955680288eafc1780ddcf288a077b19e5642",
-    "aa1e119f7b103b67199b162e79f8fd72c2155cebe85285656b710fd73bd5db40"
+    "63f882cf88427ec5b1132f395e40e08f51085c17ac1b188d70efb33db4826506"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
