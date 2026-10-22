@@ -8368,5 +8368,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Arab News",
+  "title": "Iran’s Navy says seven vessels hit, warns US of wider response",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2VqUWJ0UVJXNFdEWF9hSUFlRmpRbG1RcERYcy10UkZOeFZfNS1DcDlKRndzZUU4ZGttYXJaNFZ5ZlN0QTdvbWs5blR0eG4wMFFxeFBMNS1UZUFfZk13dVprdDRMVlM5RUdsc0VXcG1FWEEwSnRtbFZWVmRPY2lySzU4a1p6VXRuU1pfcjBZeEVIeWUtWTItaTIwY1ZPS0p4YnBxVEM4SXg?oc=5",
+  "published_at": "2026-10-22T04:35:51+00:00",
+  "sent_at": "2026-10-22T05:01:22.029323+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0112,
+    "XAUUSD": 0.0195,
+    "BTCUSD": 0.0856
+   }
+  },
+  "checks_base": "published"
  }
 ]

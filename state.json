@@ -325,26 +325,10 @@
   "calendar_fetched_at": "2026-10-22T02:45:46.455582+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 248,
+    "count": 249,
     "day": "2026-10-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T20:50:44.746338+00:00",
-      "w": [
-        "escalation",
-        "geopolitical",
-        "improves",
-        "losses",
-        "next",
-        "recovers",
-        "risk",
-        "sentiment",
-        "solana",
-        "some",
-        "watch"
-      ]
-    },
     {
       "at": "2026-10-10T21:15:46.229841+00:00",
       "w": [
@@ -3166,6 +3150,20 @@
         "soon",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-22T05:01:21.207634+00:00",
+      "t": "Iran’s Navy says seven vessels hit, warns US of wider response",
+      "w": [
+        "hit",
+        "iran",
+        "navy",
+        "response",
+        "seven",
+        "vessels",
+        "warns",
+        "wider"
+      ]
     }
   ],
   "resolved_events": [
@@ -3184,6 +3182,7 @@
     "d64d7a1e71be3302c0b25e00"
   ],
   "seen_headlines": [
+    "931abc70446846f00835d0fea37d0377b3554be991bcb7d574e633527f3ba748",
     "a9f2f505b92d4d25574ae37bbd73a34c7ffb8d786fa99b1442178d941bfe00d3",
     "9e6ff08fa598e6baccf3fd3b6236a31ae1e0ef724948af338c6912c0e5c0beea",
     "c0543fdf70d80d46a17f68abd8aff9bd6704b5cb9c81030ea502f6ea9f5b957f",
@@ -4182,8 +4181,7 @@
     "4346f961ed46af02952f9563bb15c78b2d411611e2e09c5d30c7a7ce3c7ed119",
     "c303c8d771282b8eb056c05cbe31ea1b4d08bf385082a6d99636b19c486606fe",
     "962bed6f54f36b35a6ddc2ae564b78b94a67a1ae0e46d4ba3a86e02610de5212",
-    "1864150efa0320f316957c012494340c4770f5193ffb56e2ada62b61fff64813",
-    "7bb5f5a131b6bf0e4c1bd61b59051c39f62b7d6bfd0407362fd7c3371921a34f"
+    "1864150efa0320f316957c012494340c4770f5193ffb56e2ada62b61fff64813"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
