@@ -329,24 +329,10 @@
   "calendar_fetched_at": "2026-10-22T17:50:48.494079+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 172,
+    "count": 173,
     "day": "2026-10-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T22:55:34.656159+00:00",
-      "w": [
-        "500",
-        "dollar",
-        "ease",
-        "escalation",
-        "jumps",
-        "oil",
-        "treasury",
-        "trump",
-        "yields"
-      ]
-    },
     {
       "at": "2026-10-10T23:01:16.741011+00:00",
       "w": [
@@ -3148,6 +3134,19 @@
         "regime",
         "topple"
       ]
+    },
+    {
+      "at": "2026-10-22T20:10:50.582439+00:00",
+      "t": "US, Israel have drawn up detailed plans for renewed strikes on Iran",
+      "w": [
+        "detailed",
+        "drawn",
+        "iran",
+        "israel",
+        "plans",
+        "renewed",
+        "strikes"
+      ]
     }
   ],
   "resolved_events": [
@@ -3167,6 +3166,8 @@
     "691c404919d12804192fc12f"
   ],
   "seen_headlines": [
+    "69a6cd90468dd1111a2f6b141e840a3883a69b1157d43f25f95150b667ca1beb",
+    "a6e30b83ee1d862ea2435f0102783d67a6488d5fc0e92a763d5097ded513f153",
     "a7d6a0d6ca532ee32675b09a11c0c06122ac4845ed47a3747f61ac52cc1f36e7",
     "438155ba44849c9b1a8ade7c83eec7275ac78a017f03097af3fcb8fe2c67777a",
     "6e0b2d7ab35de5f17d8f741c7eb0cec4458363e9a9f02b51c0c0b93f339a43af",
@@ -4164,9 +4165,7 @@
     "39593292a95406ca65d374f7a6cae476197f3ccc6b614bfaaa04b8fc01130168",
     "0fc261ba696bcdf0b467e6769b6d09dd067e0e8435a8fac323329ebd569a5a03",
     "2e4ab9ef84afd070dd48fb69bc57a360b3a0919017ab053f4e9ea366225def7c",
-    "0f04c061210b783fed271c081d573ba17078c59c97a2174f37e99826fdc6f9ca",
-    "96ee207d4b55f9595e543d6a890c27e458bd86b3416bd6bdb966750b70524324",
-    "d2afc49d3a5c8dcdf34f6b42303bdc30b0aa58d2f2dae0da33ba4357624bc3ee"
+    "0f04c061210b783fed271c081d573ba17078c59c97a2174f37e99826fdc6f9ca"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
