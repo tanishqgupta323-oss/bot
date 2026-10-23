@@ -12,7 +12,7 @@
     "4e800e0aabfa6f8914d1e370": 8,
     "691c404919d12804192fc12f": 6,
     "77ed713fd720455efefe1acb": 8,
-    "8709187689f2130e8911bdd4": 5,
+    "8709187689f2130e8911bdd4": 6,
     "8979ac3e77a94bbded2f5a06": 8,
     "9bfb1334a3318898641e9c68": 8,
     "9d05eedc1c065ca071b31c92": 8,
@@ -335,22 +335,10 @@
   "calendar_fetched_at": "2026-10-23T11:59:53.987341+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 96,
+    "count": 98,
     "day": "2026-10-23"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T00:35:33.906881+00:00",
-      "w": [
-        "intelligence",
-        "jeopardise",
-        "kyiv",
-        "russia",
-        "sharing",
-        "strikes",
-        "warns"
-      ]
-    },
     {
       "at": "2026-10-11T00:45:44.911131+00:00",
       "w": [
@@ -3155,6 +3143,22 @@
         "strait",
         "tankers"
       ]
+    },
+    {
+      "at": "2026-10-23T13:31:21.920373+00:00",
+      "t": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+      "w": [
+        "between",
+        "ceasefire",
+        "house",
+        "melania",
+        "oleshky",
+        "russia",
+        "secures",
+        "trump",
+        "ukraine",
+        "white"
+      ]
     }
   ],
   "resolved_events": [
@@ -3176,6 +3180,18 @@
     "16edf54c2a06bde9545150d8"
   ],
   "seen_headlines": [
+    "368529af1c7595cbe05dde6b28c10e3f76e90304b1f5de2067710ec2b73350eb",
+    "b54afc71017babb70864e96b0c0d2471181a746540d40783a67a99a3b4f5e18c",
+    "1f0d64c7961959d3a35db4066283d1ef0fcdd0377fc0a577bec5e3f4be86b1a9",
+    "20023b0be9b41893dc90f3a38d502150685f9ed96db51c3b348a0a2389999280",
+    "bbf50715f78e7b53fed3867d72c288223e2b48b7d073775727fc048f446482a2",
+    "38f4f72bc0e57f9ed10eb59152dad1cc888f435ff453ba5c8a82514e6bc226e7",
+    "c181b8f2123d59d274cc323876ef5fc6b17686f69ea74d3ff4a522784d0033c1",
+    "cd373a47a3a85df3acc5589ee64cebb95f4d7ded0cf20f2b25537641dc229207",
+    "1f79ad71a2f0325e0933ff110d6c6acd1fb51b01224e1a9cc2b0af7d843359dd",
+    "af73fb4dcdb541dd80676a4f3869b087c40904bd0cb8d5229ad6d8e627d46001",
+    "8a453592df713a5aef608012b5dc462c11d29d708365c34727d576125a92e10a",
+    "1983aa8adc166b2316b6d6f4d02495938b349c3a3bd52441fb85cf2b2906b7f3",
     "ff3bef06344e2afe813bb83b1961edce14da6b990415c5176fde22a410a3bdd5",
     "a31f5c97d72de41ea6fff46d46ef322a66eaeb23494c1445650e4013681ac2a6",
     "88db441cf804f0d487bdcbadc4bdccb903e5e6b4ca1a2d66d765d1382139288b",
@@ -4163,19 +4179,7 @@
     "dad85bc586f7732adc6624a08291e2efd84845b77fe4238ddafc5a49ebae9274",
     "c54e1c5828911f12ac0821cf0a567dc3d04ad7748a63df1c606364f7844bbfde",
     "651cfba179f1ea24efe145896c57b5d7a706d62f2e5ae7d469400e41fe46f2d1",
-    "683e3ce581be86d0ea4963efb8aac760b1495122d289795e1468f49bf9dd74ab",
-    "f21b88ea4eacc6cb2ccf527ea0fc64738bf3875ac56d59dd8d441505ffd910c5",
-    "7d0e3b78686134c67ff7c377fb091ea781d500168270f52c038551eed72d5782",
-    "17bdbdac9b457e98546594d5594ae6859452d546d5ee8714932e3304e81d8cc7",
-    "c7da6e598c7f8ededdfc7d966213060f3f71545a6d780337b55ac1d71b63a9b7",
-    "1bc83667f52e2e507e025816f9ff32686cc3405f3bd82fbfb29b77fec92d0d5b",
-    "50877b55265cecb415df0612b8dd7050df538c6717fdcbabe2f729810f81036d",
-    "2b90bc65d5319fea024be795cf8226a90dd98b24de6f59482e8ba43a964750af",
-    "35e0e482c71f7f780f6b039d2fb9d3a2c268f7793001f43de2f93d01d70b618b",
-    "1bcfb14722d78f4c4717c7944d9710ae3d314e3bb577abb2b5ca86c4a75a8031",
-    "7ed1069fe0211dc6d9f0dc9febce9c76ffe5582eb01753444e1427d94cac0aab",
-    "f2142be26698445802f9356b3779a80805dbef82b0aedbc8a952b4780902279a",
-    "db851d3bcd4e0d48101d0098fc954005627278fc1ad88d33ccca7c8b459fa2df"
+    "683e3ce581be86d0ea4963efb8aac760b1495122d289795e1468f49bf9dd74ab"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
