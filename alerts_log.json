@@ -8768,5 +8768,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "GV Wire",
+  "title": "Trump Weighs Quick End to Iran War Against Letting Conflict ‘wither’",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUdxZVJCN1JuSmRtNzJvbGdRdEk1ai14TUdFTmUzdG11U1pSMEd3b2ZKcXNSdVpzTUpCRFNTSG5OOEtnQWdGd0oyVnFSV3hObVZIaURzVlhqZXdVVXp0OHRXWl9zdEZyX0x2RGpYZ2FZLXVvS010Ml9TWjBRZHNJZTBxX28xZnRycmVqeFZHVllPWk40MW1TbjUyRVhxUQ?oc=5",
+  "published_at": "2026-10-23T15:57:47+00:00",
+  "sent_at": "2026-10-23T16:01:47.429756+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
