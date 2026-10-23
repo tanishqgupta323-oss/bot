@@ -8742,5 +8742,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Why the market senses a weekend Iran escalation and what happens next",
+  "link": "https://investinglive.com/commodities/the-market-senses-a-weekend-iran-escalation/",
+  "published_at": "2026-10-23T14:16:41+00:00",
+  "sent_at": "2026-10-23T15:05:57.150697+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.056,
+    "XAUUSD": -0.3686,
+    "BTCUSD": 0.4046
+   }
+  },
+  "checks_base": "published"
  }
 ]

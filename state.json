@@ -339,25 +339,10 @@
   "calendar_fetched_at": "2026-10-23T15:01:24.530452+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 144,
+    "count": 145,
     "day": "2026-10-23"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T00:45:44.911131+00:00",
-      "w": [
-        "dollar",
-        "iran",
-        "kickstart",
-        "mixed",
-        "morning",
-        "oil",
-        "rebound",
-        "retreats",
-        "stocks",
-        "uncertainty"
-      ]
-    },
     {
       "at": "2026-10-11T01:15:44.158094+00:00",
       "w": [
@@ -3163,6 +3148,19 @@
         "ukraine",
         "white"
       ]
+    },
+    {
+      "at": "2026-10-23T15:05:38.613717+00:00",
+      "t": "Why the market senses a weekend Iran escalation and what happens next",
+      "w": [
+        "escalation",
+        "happens",
+        "iran",
+        "market",
+        "next",
+        "senses",
+        "weekend"
+      ]
     }
   ],
   "resolved_events": [
@@ -3185,6 +3183,11 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "2e8f0bfebb3fc9f817ffab49b60c6aeb60fa79a6f3ec605d23bada63eb815db5",
+    "5ae05956bbcd01a9d99cab86cf21a532f3ff577a9ad7ccfd04f571552db3dcb9",
+    "1fe06c08d242b7a7d125245339d01ebb10441c718f8a6a148a321f52f3bd1652",
+    "16d391fb40d1fe79a97c929899bd03e54ae5376d449e2883365e934c15fe3802",
+    "d7cc0a1bf47d566635d40a0952c6a46b519e7d0c73384b70ae71caa3297a3da8",
     "f0384bced0e967613c786e2ee2b11763c911b793f35aab39a89284019f601a40",
     "9de0ea98ad1c377f7a3a1257efb2825415d45de2e0cbaa72fbb9a2a979664374",
     "4d53bf5af7d18fadf1b4cb09b8b8c3025108f373c5259996a82ef87e0ca41ef9",
@@ -4179,12 +4182,7 @@
     "ac56ccfe1e98458cc163eeb50753905b10c11478fcc5e8ebfe491fbf73cc066a",
     "178e2b3f55204bd268f6f9b688d730696bf710a9752a352cadc31cbade9d86d0",
     "2de5351457f0c7c4226c464d6cd2397e4578685943909d0b863407e1603795bf",
-    "84ad65b2d359c80413fd14698c22a155b301d51b9950676fd65085165507f01a",
-    "7a3d4b5bcda643ac16e2b2d2f5e867d4ebdd0c3a6c31fba090a078ab3fe01df3",
-    "5b758b5ef965ba2bdfc19a4e64818364421a07dafddf0c0c8cd0afbc1a6fff20",
-    "a3983798ad6fa2d28583f207d7cd103c035d470cb0ddfd040c8992c7b104c8fc",
-    "40093df311ab8ccae1d4fcfc86273b381054d4a33df2770e8fcd18d45c91ad41",
-    "364e416ab344ced3f00fa458c080aac7b4b0ab28b624560909b6ff9a97cec8b0"
+    "84ad65b2d359c80413fd14698c22a155b301d51b9950676fd65085165507f01a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
