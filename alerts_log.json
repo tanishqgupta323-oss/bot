@@ -8690,5 +8690,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Denver Gazette",
+  "title": "Iran says 7 oil tankers damaged in Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzljQVpvTVFUUlUzOFM3cFVadi1Wa2ZoajRHdGx2RC0xZ3QyckpRZ0tqS2FlLWNNUkRNU19Yd0k2aDd1c0xzdTZVcE8wQmZqVHRuTFlhSGZPczI0cjBGUFRXM1JyYjlULTh1U3hzWUEzYnJKMjhxZk54elpmbl9iWm1VU09rVnc2bjRrWVpva3QtZ2lZM2FtMQ?oc=5",
+  "published_at": "2026-10-23T13:05:11+00:00",
+  "sent_at": "2026-10-23T13:26:09.230443+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0448,
+    "XAUUSD": 0.1237,
+    "BTCUSD": 0.0024
+   }
+  },
+  "checks_base": "published"
  }
 ]

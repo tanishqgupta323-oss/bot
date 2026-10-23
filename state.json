@@ -12,7 +12,7 @@
     "4e800e0aabfa6f8914d1e370": 8,
     "691c404919d12804192fc12f": 6,
     "77ed713fd720455efefe1acb": 8,
-    "8709187689f2130e8911bdd4": 4,
+    "8709187689f2130e8911bdd4": 5,
     "8979ac3e77a94bbded2f5a06": 8,
     "9bfb1334a3318898641e9c68": 8,
     "9d05eedc1c065ca071b31c92": 8,
@@ -335,23 +335,10 @@
   "calendar_fetched_at": "2026-10-23T11:59:53.987341+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 94,
+    "count": 96,
     "day": "2026-10-23"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T00:01:29.787024+00:00",
-      "w": [
-        "bessent",
-        "cut",
-        "economic",
-        "iran",
-        "lifelines",
-        "outlines",
-        "plan",
-        "remaining"
-      ]
-    },
     {
       "at": "2026-10-11T00:35:33.906881+00:00",
       "w": [
@@ -3156,6 +3143,18 @@
         "planning",
         "possible"
       ]
+    },
+    {
+      "at": "2026-10-23T13:25:53.836380+00:00",
+      "t": "Iran says 7 oil tankers damaged in Strait of Hormuz",
+      "w": [
+        "damaged",
+        "hormuz",
+        "iran",
+        "oil",
+        "strait",
+        "tankers"
+      ]
     }
   ],
   "resolved_events": [
@@ -3177,6 +3176,19 @@
     "16edf54c2a06bde9545150d8"
   ],
   "seen_headlines": [
+    "ff3bef06344e2afe813bb83b1961edce14da6b990415c5176fde22a410a3bdd5",
+    "a31f5c97d72de41ea6fff46d46ef322a66eaeb23494c1445650e4013681ac2a6",
+    "88db441cf804f0d487bdcbadc4bdccb903e5e6b4ca1a2d66d765d1382139288b",
+    "f89e0129fc29ca38a2c8377409386f48658354be011917e44843bf3632c07a47",
+    "8dd5f8d9525838eebe1dbb99a25c281e78aec1fc336a024f7a1ebeb9dc0c226f",
+    "be2fab152eda786cdf7add88be5cd9d4f0fda3e3b3e699291e63f8aee9adac74",
+    "37c15d9c9979a589782d83a5c6da2c9ab5cb3833375f8df32d15fab305217e0f",
+    "17d85c0a960c1de546bedec0e9c6ff46e0fd5ad1a5a3b979ad2511182ee9d72a",
+    "9e27c54d13fdfd804c4e1e4bd1dab5f4a0adaec03a575905246740610df1b939",
+    "e6d3475c9c63239b976bab7f7d2998a77b5fd1da1dd2d2e0d0e006722864565a",
+    "b5b0b022ade595756ded1954474deda5f35d3820afd67bc0292d2d98a90c7513",
+    "a9d05709ff5a0e92b7a1214a1172bb63af422cb5bd3ffdc7e162f5d43cc77c04",
+    "b4523c86f12e776a838a2e09c5fa53b2a9cf6be1786491866cda6e960b256eca",
     "d8c39f6514518aa06717a550da986a47cc92372b55ff2a31a47f6ddb41ef6136",
     "9582370895a924910c90ae3695cb16d3b84501887126d191f47c9c633e57eff0",
     "7de677cb5f3b5e24dc00122aaa3a9789b37359134c6d9ee9b0f2281e044d70ba",
@@ -4163,20 +4175,7 @@
     "1bcfb14722d78f4c4717c7944d9710ae3d314e3bb577abb2b5ca86c4a75a8031",
     "7ed1069fe0211dc6d9f0dc9febce9c76ffe5582eb01753444e1427d94cac0aab",
     "f2142be26698445802f9356b3779a80805dbef82b0aedbc8a952b4780902279a",
-    "db851d3bcd4e0d48101d0098fc954005627278fc1ad88d33ccca7c8b459fa2df",
-    "29a9785e0610134b5471d8713959703301bffec933a98317b88c9d7c73a049b6",
-    "cfd59a44f692e3feedd70570e27bd1e5950248ff2ddca9a689568a1a53b44fce",
-    "df26db0be77f5f454f90c3dd37e7a7510bae7b0530dcb3ba92001a082d78860b",
-    "1983aa8adc166b2316b6d6f4d02495938b349c3a3bd52441fb85cf2b2906b7f3",
-    "b9ac18524656e32bd6ba5cf7890e95a4d1d17fdeb885699038ede7a4d726adae",
-    "9dfc1b74112f435533d22dc670d17b7e0a42fc451df3be953b16432a1179ab33",
-    "39f3e89937ade414641ce91ee0ba7c15bbcea192239830f50109bba8f620d558",
-    "f8059a1e3d235d042a304ec23e63adc741b29c97aa256d5c6aaf8440a8e39339",
-    "6d7eec69c26283df13724a83175c02bb5ce0c2966c0e46060a8e4124e805d6c4",
-    "e25ddb138216712237c4edf5e80318227e9b4567ba9fa94b81dcf965bb51c9e1",
-    "ce2db4cbd96cddc5c87283e3b0be820e33d133cacfc535dd85dac6df11a35185",
-    "c77990eaa52762cd97ad04a9d4b8353e48c9c89d87da837dd037b2497d981e85",
-    "0eb548da42a99c51c1cc748162cb8e46d8f8d6ca0624cedd731a99c8371aa42e"
+    "db851d3bcd4e0d48101d0098fc954005627278fc1ad88d33ccca7c8b459fa2df"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
