@@ -329,21 +329,10 @@
   "calendar_fetched_at": "2026-10-22T23:50:50.519175+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 223,
+    "count": 224,
     "day": "2026-10-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T23:15:46.124470+00:00",
-      "w": [
-        "cooperate",
-        "does",
-        "exist",
-        "iran",
-        "trump",
-        "warns"
-      ]
-    },
     {
       "at": "2026-10-10T23:15:46.124470+00:00",
       "w": [
@@ -3145,6 +3134,20 @@
         "strait",
         "tankers"
       ]
+    },
+    {
+      "at": "2026-10-23T01:25:35.494639+00:00",
+      "t": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
+      "w": [
+        "attacks",
+        "civilian",
+        "economic",
+        "iran",
+        "strikes",
+        "targets",
+        "threatens",
+        "wider"
+      ]
     }
   ],
   "resolved_events": [
@@ -3164,6 +3167,8 @@
     "691c404919d12804192fc12f"
   ],
   "seen_headlines": [
+    "3f0816b99d5e386faf0222ed294746b2f9adad4cdef5cf7c123169b52439cb06",
+    "056eea3be4693bca8013e1743b08d8c6bac08e2731ff30516332a825ee11cf47",
     "e07eb87cf3186be742231da6a833ba9117f28968d0941d791d15d8f9a57d8c48",
     "2d1bf1394d84959da11d52b42f3309ec7b1271cb743150c656d2c8f1b3434c8f",
     "cf56dc60dfba8f9c2c95022b3adf832fd6d20e707d374ca5e0676c4eb802dbf4",
@@ -4161,9 +4166,7 @@
     "46a3d3469a2a47b44c9f4685c61acf1e0c2bda765f670223c6d7c5925ed78e20",
     "55c333e606d4a74e33fa1e46a868dfebd557b2f57b458044da5c78d6adedff30",
     "944bc6dc7d1542e3c988ada29ddddf960bb48b15cdb9acb01e8f67843634e55c",
-    "84ef1d7faf1f2657535f5a286fc0662e8192dc60a307648f86cc63df9625a05c",
-    "6e2eb96a40a5341a83c16a53c023cdf18759c22940e1ff229a787393b316ddaf",
-    "9efbd82eeb000ac346c9fe039764a08f6606164a165c1e5844f796a7023bd826"
+    "84ef1d7faf1f2657535f5a286fc0662e8192dc60a307648f86cc63df9625a05c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

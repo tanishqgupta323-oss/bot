@@ -8612,5 +8612,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WSJ",
+  "title": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaHA1QkQ2Umo3U1o1S0JWXzlhNU9USmdudGdKUDlVanpOVU5NS3I3WWdWMkhURjJFNUVnTXc0OGN5YUVjN240Y2VtLUt5UlM5dTdKT3E0UGlzYV8xTm1rMUJLWjI0b1dMMmlCLWhTLWVQNVA2YTk5MjNOV29BdkVrOEI5Y3RtWTB3U2k4bDFXYXpvLVYzV0lIbHhJNFlVTDM2SHZXLW5TaGhXcEpTSkpXS1hGUWFweGU1cjVNU3R1bDY?oc=5",
+  "published_at": "2026-10-23T00:00:00+00:00",
+  "sent_at": "2026-10-23T01:25:36.379760+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": 0.0099,
+    "BTCUSD": -0.2191
+   },
+   "60": {
+    "EURUSD": -0.0112,
+    "XAUUSD": 0.1412,
+    "BTCUSD": 0.161
+   }
+  },
+  "checks_base": "published"
  }
 ]
