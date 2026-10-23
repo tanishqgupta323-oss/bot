@@ -8638,5 +8638,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "ABC News",
+  "title": "What is Pickaxe Mountain? Trump says US will hit Iranian nuclear site 'pretty soon'",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDBUM2pSVUtoLUJURTA4cTljdXU4czh6eVVsdHhIOTZOTC0zUS1ZVnkzbmo5bGtSc0V1XzZnUHFOal9IN2d6VFdqRV9Pb0pIUlBNdDVwMHR4enplWmxqRkpkMnNZMnh3VmdLTmRUWXo3RHNDT3R1OEM0MlJFZVpyQTVWdjBTLXJzdzI4TXVEVzM1aVdwY2pVV1YyM0EwX2vSAaQBQVVfeXFMUFVpcFM1Y2RpSUNoNTNFaU9QVjVIUFNKOTYwd25fM3pmOGNkeWpUbzViNENEVE5sM1RPazJQOTl5OHp5SC1seXZwbWNiNXhUUThLUFJzRHpZdkZNemZkMEFxUDlRejl0Vk84Qm9NeXJwREJrOXZxaXk3SEZrZ281enlDbGJmRXBBOV9fRlAtX2EyRVNRdVNYREY4bTZQZXNJT0ZQNG8?oc=5",
+  "published_at": "2026-10-23T09:14:38+00:00",
+  "sent_at": "2026-10-23T10:25:41.534082+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0025,
+    "BTCUSD": -0.1734
+   },
+   "60": {
+    "EURUSD": 0.056,
+    "XAUUSD": -0.052,
+    "BTCUSD": 0.0281
+   }
+  },
+  "checks_base": "published"
  }
 ]
