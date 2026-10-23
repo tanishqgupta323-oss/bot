@@ -334,23 +334,10 @@
   "calendar_fetched_at": "2026-10-23T08:55:38.872706+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 62,
+    "count": 63,
     "day": "2026-10-23"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T23:50:47.921416+00:00",
-      "w": [
-        "300",
-        "airport",
-        "attack",
-        "authorities",
-        "houthi",
-        "kills",
-        "saudi",
-        "wounded"
-      ]
-    },
     {
       "at": "2026-10-11T00:01:29.787024+00:00",
       "w": [
@@ -3156,6 +3143,18 @@
         "soon",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-23T10:40:50.031811+00:00",
+      "t": "U.S. and Israel are planning for a possible attack on Iran after the midterms",
+      "w": [
+        "attack",
+        "iran",
+        "israel",
+        "midterms",
+        "planning",
+        "possible"
+      ]
     }
   ],
   "resolved_events": [
@@ -3177,6 +3176,8 @@
     "16edf54c2a06bde9545150d8"
   ],
   "seen_headlines": [
+    "30141c7cb64dabfa1e54f99439a1d7fbcac8aca8d92c81d0ec395d5f7ed948e1",
+    "0a811b89dd7fa88de0e82bb59bc9494348b589fab0defc6f65ff791c1864ec75",
     "0acff9d9264912331789a51837c26b717c294308be73724fc7e88ba9494285b8",
     "b83cc49184a98f6de00b501bd16b25b46755ea6f3ff6e613425dfde6b08ae33d",
     "6e28ef1be2c66b3903c33ab75e14400761be8c4ee413f89c3891f93c0db7ebba",
@@ -4174,9 +4175,7 @@
     "2efdc6aa049679333dba69355609270a9f409783de0ea2a13bfae02a4d002cc1",
     "f4859f27c5f5fb509efc33c8f7361e1087c7458a295431e1ee20ae559d110323",
     "4049f7816b800cfb067492cddd8836db7936ad6e28d140ca89d4598cbba8474f",
-    "a33141d30a4c7ff17a92d541eecd11b11ee7f91703a98068a541a816eaa6934c",
-    "f650cd5291aeebf9a6f7e65ce9a6d466c4fa391b96bd2aef2034d9954f603a53",
-    "b10ae3d181def206393c18f0ff1f5bc571a26d14d1b69dfed62719d2dcc8ed84"
+    "a33141d30a4c7ff17a92d541eecd11b11ee7f91703a98068a541a816eaa6934c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

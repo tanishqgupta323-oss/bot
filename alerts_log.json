@@ -8664,5 +8664,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "NPR",
+  "title": "U.S. and Israel are planning for a possible attack on Iran after the midterms",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0RnVkhiRE0yM2VUR0tlUnpiNmtYRDkxRzlSbHR2R1duVERtWElyQ3F2MldySS0wX0g3RFVsTl8tQ3hoNmxDdnprTVl0UWNXRDVjck9nS1ZkXzMwZFZNT0N5MFZBMmx3S0FTTDJZTDRVd09ScUFZYlhOb1ptTFhWMW9oXzRWeE9tX042dmdpbHBwcHpKUWwxRnBZbUpRbUdWdlZNNVc4dEhOYWtDRElCTndCdW5SeEVaR0lHRUhR?oc=5",
+  "published_at": "2026-10-23T10:36:48+00:00",
+  "sent_at": "2026-10-23T10:40:50.903503+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
