@@ -8794,5 +8794,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Arab News",
+  "title": "US could strike Iran this weekend, envoy says",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR3ZQRzJrYWZMNVJrbFJaNDR0ck1PR3FQeEZKelIyS0ZONEhQNHNYVE9UZm8wSzQ3NHNfX0dua2hSbWp1MGlWbktEVF9EVVVJS0tlYlg0VVNSN2FjQkUxWUtodkE5bndJWFdtSmRfWGJ2S2hfOUExakN0eUxKUE5YTl9WTGxTOUI1OUNZQ0djZjU3cjA?oc=5",
+  "published_at": "2026-10-23T18:31:20+00:00",
+  "sent_at": "2026-10-23T18:55:39.785751+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0112,
+    "XAUUSD": -0.0922,
+    "BTCUSD": -0.0415
+   }
+  },
+  "checks_base": "published"
  }
 ]

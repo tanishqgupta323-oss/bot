@@ -339,26 +339,10 @@
   "calendar_fetched_at": "2026-10-23T18:05:36.319154+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 186,
+    "count": 187,
     "day": "2026-10-23"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T02:01:17.892034+00:00",
-      "w": [
-        "briefing",
-        "deal",
-        "fuel",
-        "public",
-        "russian",
-        "trump",
-        "tussle",
-        "ukraine",
-        "war",
-        "worsens",
-        "zelenskyy"
-      ]
-    },
     {
       "at": "2026-10-11T02:20:46.626971+00:00",
       "w": [
@@ -3164,6 +3148,16 @@
         "weighs",
         "wither"
       ]
+    },
+    {
+      "at": "2026-10-23T18:55:38.806157+00:00",
+      "t": "US could strike Iran this weekend, envoy says",
+      "w": [
+        "envoy",
+        "iran",
+        "strike",
+        "weekend"
+      ]
     }
   ],
   "resolved_events": [
@@ -3186,6 +3180,8 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "9630a08e472bfa18501052021afae9d6cec6742c3e6dc3f22cdfc1617be860fd",
+    "56d7cf66bb1f97e83e6a0014406590473166f5baa1b07523d1ab95c3b21eb3c8",
     "c673a7513ab6e62c2909305fb4208fca65a7afac66a22da1723127ab37d9c8ca",
     "0b11319a7e678fdcbddc9769aa2b0d591e4e8e5d8a2d0d4bb42094b3da6a0cc5",
     "06ed6450b2d01fa0c2099ee9c54ebf8af719e512afb4212aee13cc6534932498",
@@ -4183,9 +4179,7 @@
     "2ca123fd6131c3ff3b0731f0777910007b7fda4a94e21584d3a3c1773edc213c",
     "b62ca5f8c148e512891c1b631d51345d1be4fc0f713caf07ede0e5ee197e8eab",
     "89afe761ded825d1a8833a823938c913a6e1ce20119f51af393ce2bdb393328d",
-    "7a17aeef77d2b54fbf8f439df8dd121f15767a94691596e97e2b0b9e8d634248",
-    "045d72ab98be4ad7abdc7e3a482843354b4df2fd0c10332743b80e05ae15b026",
-    "ab2e7864aff03bc2e7b0680966ebc7b9bb745b9c14727139ff9e6534dbee280f"
+    "7a17aeef77d2b54fbf8f439df8dd121f15767a94691596e97e2b0b9e8d634248"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
