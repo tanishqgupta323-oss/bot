@@ -8586,5 +8586,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "AP News",
+  "title": "Iran says 7 tankers damaged in Strait of Hormuz, and other Mideast news",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmxkSUw3N3BIRncxYTA1MkE4Y1JuX0dKaG1kSU1jZElzcFVoWFk4REluNnd2VjZZMFo2S0c4U1k4VG9QaC03RF9zakxFQWpZQURfRTdLazEyaXFETmtNS2Q0TjJHamY2cTVPQ3JaRlBZZHhoRS11ZHFLblp3am05aGpaT2hUcW5UZDQ5bFJ4SGpjd0k0NVpiLTZFQlA2RVpFaHJZMA?oc=5",
+  "published_at": "2026-10-22T19:38:00+00:00",
+  "sent_at": "2026-10-23T00:15:50.115105+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0112,
+    "XAUUSD": 0.1486,
+    "BTCUSD": 0.1005
+   },
+   "60": {
+    "EURUSD": -0.0449,
+    "XAUUSD": -0.0149,
+    "BTCUSD": -0.1231
+   }
+  },
+  "checks_base": "published"
  }
 ]

@@ -329,26 +329,10 @@
   "calendar_fetched_at": "2026-10-22T23:50:50.519175+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 213,
+    "count": 214,
     "day": "2026-10-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-10T23:01:16.741011+00:00",
-      "w": [
-        "actions",
-        "before",
-        "elections",
-        "hormuz",
-        "iran",
-        "midterm",
-        "muses",
-        "renaming",
-        "step",
-        "strait",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-10T23:15:46.124470+00:00",
       "w": [
@@ -3147,6 +3131,20 @@
         "renewed",
         "strikes"
       ]
+    },
+    {
+      "at": "2026-10-23T00:15:49.156741+00:00",
+      "t": "Iran says 7 tankers damaged in Strait of Hormuz, and other Mideast news",
+      "w": [
+        "damaged",
+        "hormuz",
+        "iran",
+        "mideast",
+        "news",
+        "other",
+        "strait",
+        "tankers"
+      ]
     }
   ],
   "resolved_events": [
@@ -3166,6 +3164,7 @@
     "691c404919d12804192fc12f"
   ],
   "seen_headlines": [
+    "8cfbf671cc8f1d103bc216ea1b8aec473c86493ccef601eb73185becbf9e9531",
     "b428af3efae2afe53a92d2cd2f50d62f3c618cb75a005c563590314e081be465",
     "2f934b903f682873bed86750a06f5d0c76fcb6c9fa8c56df1129dff62412cbdd",
     "85c7a8a167f12069b4bce6a5ced9f9463519bfa76715d6ae8c7d7e6881d2a05c",
@@ -4164,8 +4163,7 @@
     "01fec1a5c9e0e71b80e56d6ca27415ddaae026fe104ae610f5219de05b59a769",
     "6014e46e3d31c863825287201759034b45334fdb3da80979c1d595c29f14234b",
     "d28cc198d244b5984744e622a4064008aa91eb3b51dad409b42e8b27a3de3255",
-    "3e52a5fb66d7beed05ea981a4299ebdd32d58aa1c291215f49eb6fa50350c800",
-    "a806677f50c1df5efb30c2d658c9f50fc8ed8312ae285a58441abcf59591e32f"
+    "3e52a5fb66d7beed05ea981a4299ebdd32d58aa1c291215f49eb6fa50350c800"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
