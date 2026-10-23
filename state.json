@@ -339,24 +339,10 @@
   "calendar_fetched_at": "2026-10-23T18:05:36.319154+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 201,
+    "count": 202,
     "day": "2026-10-23"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T02:20:46.626971+00:00",
-      "w": [
-        "again",
-        "airport",
-        "arabia",
-        "attacked",
-        "days",
-        "houthi",
-        "riyadh",
-        "saudi",
-        "strikes"
-      ]
-    },
     {
       "at": "2026-10-11T02:25:34.909566+00:00",
       "w": [
@@ -3158,6 +3144,18 @@
         "strike",
         "weekend"
       ]
+    },
+    {
+      "at": "2026-10-23T20:15:45.966687+00:00",
+      "t": "Trump says US may do another military operation against Iran",
+      "w": [
+        "against",
+        "another",
+        "iran",
+        "military",
+        "operation",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3180,6 +3178,7 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "a33d8508547cc0849d9dc6224c5d7e84e4cf9fee165e1d8b332c142eb6236447",
     "35616826af52dc22e5ab81c531d3cdc8407c1f057421f19570974b0e7916e93f",
     "193cc65214f2917227b0e31cf748b23f905ead0190965be0ef5863cc9c30653a",
     "414d1b4afe712ea23275c2bbcb08b32b6b40aded8311e63d8fcd3896412302f9",
@@ -4178,8 +4177,7 @@
     "385b8b96fd53c5e3cdf76b220eca600ca7e4a4d0951669d10d6d59a834df1bf9",
     "236d2cfa0e0f6cea1c86f6e8595807c55502f25bb0956934c96d5c455925173e",
     "f7ddffdf4969697417f8db6ab15fe81876ed1e282f54dff92af01062f78732d6",
-    "2704c4c1550293b59d972d4520d078793b7b418796f2884211e68ab2cd6b0930",
-    "2efedb677b89b21d56ada3c48d9f33c0f47d9c78923aa2a15fb3edd7cdf6ef70"
+    "2704c4c1550293b59d972d4520d078793b7b418796f2884211e68ab2cd6b0930"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
