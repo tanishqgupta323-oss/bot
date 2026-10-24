@@ -336,26 +336,13 @@
       "title": "Revised UoM Inflation Expectations"
     }
   ],
-  "calendar_fetched_at": "2026-10-24T18:35:36.813427+00:00",
+  "calendar_fetched_at": "2026-10-24T21:40:49.582038+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 111,
+    "count": 112,
     "day": "2026-10-24"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T03:31:03.586619+00:00",
-      "w": [
-        "bank",
-        "central",
-        "conditional",
-        "european",
-        "french",
-        "rabobank",
-        "risks",
-        "support"
-      ]
-    },
     {
       "at": "2026-10-11T03:55:33.001551+00:00",
       "w": [
@@ -3168,6 +3155,22 @@
         "way",
         "win"
       ]
+    },
+    {
+      "at": "2026-10-24T21:40:50.803872+00:00",
+      "t": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead",
+      "w": [
+        "ahead",
+        "eco",
+        "fed",
+        "hawkish",
+        "lead",
+        "pause",
+        "rate",
+        "set",
+        "trio",
+        "week"
+      ]
     }
   ],
   "resolved_events": [
@@ -3190,6 +3193,23 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "0a03543aff4d84ffee71e8d8531124c493e17aa21ce2f7b6d4f56117d859261f",
+    "fb544fd640b3d7f146e7965e16acf403093ab335b8e2ffb118f82a7e510b37e2",
+    "c72ed549f130fbd7a8ccba7be2f634c60d46dddfa900e8df2d4615c734bc3d15",
+    "17f8d568a9f1bceab181bcbfae8bdb01cdf19fdc70fa6862926283ba657707bb",
+    "3c919fa5f3060b0a7358fd01bbe7e1afd17ef819cefd1a9a0b321b6124971e87",
+    "b7ce8f21b2194222711c4f4e8a9227e56b577c10eade759b128508e3f0f3e827",
+    "2b0195bac0372ee2c1a1b451d4c8f494a17b1246b18146b398a2c41a6cfab38a",
+    "70a09306f3b12d1604cae01c42c4f72a3cd63b742a83a1975ba104942bf8da46",
+    "883f39107c31251a6d2eda895db9f84ebbd06c024e903c10146b2c801751915d",
+    "e1e625fc7abbb5b65317f95078d228b40a9149155d08e77f1eecb728f871530d",
+    "bec537fb04b13b8203f36af517577ed49cb1dd8bd9418a5501ca4eee48496c2a",
+    "d709d616156705c5fe3a6056e7225a10e0a490a89ecc66c3f250b50dfe6037d2",
+    "a3542c3851360bd2783a2b7ec4abd527870f5514b07bf422dbd6cfbbd58cb9c1",
+    "a8dd455d756c9b92cb9f46d3fbe9be49ff035e7ea2452043f37567e05d08742d",
+    "1618daddd740918bd63f074943d31d3af95c15e88f4b1071e1ac33e9304bed84",
+    "35cc5af613af14728d79cca4fea6ac250ddc424c6c51f7f0746da3e36f95faf7",
+    "70c36ba380395bdf5ea07ddd159e9e82b437917f56896f632e691ccd10254631",
     "4e761f85cafb9b4df81a93babdce220e081818d0c70eb97c11ccccb7cd2edd9a",
     "638ce231f3e0759dd91950a42ea049376d744f77e05066837d0773a2286daed8",
     "dd3e838dcf8dd8b50090ca4552b09a20a5d7849f9d8f79110a555f36dff05171",
@@ -4172,24 +4192,7 @@
     "c181b8f2123d59d274cc323876ef5fc6b17686f69ea74d3ff4a522784d0033c1",
     "cd373a47a3a85df3acc5589ee64cebb95f4d7ded0cf20f2b25537641dc229207",
     "1f79ad71a2f0325e0933ff110d6c6acd1fb51b01224e1a9cc2b0af7d843359dd",
-    "af73fb4dcdb541dd80676a4f3869b087c40904bd0cb8d5229ad6d8e627d46001",
-    "8a453592df713a5aef608012b5dc462c11d29d708365c34727d576125a92e10a",
-    "1983aa8adc166b2316b6d6f4d02495938b349c3a3bd52441fb85cf2b2906b7f3",
-    "ff3bef06344e2afe813bb83b1961edce14da6b990415c5176fde22a410a3bdd5",
-    "a31f5c97d72de41ea6fff46d46ef322a66eaeb23494c1445650e4013681ac2a6",
-    "88db441cf804f0d487bdcbadc4bdccb903e5e6b4ca1a2d66d765d1382139288b",
-    "f89e0129fc29ca38a2c8377409386f48658354be011917e44843bf3632c07a47",
-    "8dd5f8d9525838eebe1dbb99a25c281e78aec1fc336a024f7a1ebeb9dc0c226f",
-    "be2fab152eda786cdf7add88be5cd9d4f0fda3e3b3e699291e63f8aee9adac74",
-    "37c15d9c9979a589782d83a5c6da2c9ab5cb3833375f8df32d15fab305217e0f",
-    "17d85c0a960c1de546bedec0e9c6ff46e0fd5ad1a5a3b979ad2511182ee9d72a",
-    "9e27c54d13fdfd804c4e1e4bd1dab5f4a0adaec03a575905246740610df1b939",
-    "e6d3475c9c63239b976bab7f7d2998a77b5fd1da1dd2d2e0d0e006722864565a",
-    "b5b0b022ade595756ded1954474deda5f35d3820afd67bc0292d2d98a90c7513",
-    "a9d05709ff5a0e92b7a1214a1172bb63af422cb5bd3ffdc7e162f5d43cc77c04",
-    "b4523c86f12e776a838a2e09c5fa53b2a9cf6be1786491866cda6e960b256eca",
-    "d8c39f6514518aa06717a550da986a47cc92372b55ff2a31a47f6ddb41ef6136",
-    "9582370895a924910c90ae3695cb16d3b84501887126d191f47c9c633e57eff0"
+    "af73fb4dcdb541dd80676a4f3869b087c40904bd0cb8d5229ad6d8e627d46001"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

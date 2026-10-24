@@ -8968,6 +8968,37 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0306
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.2032
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bloomberg.com",
+  "title": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFg3ZkV4QzdBaTNjLTU0N3lHTUpMWEFETVhtYU9NS2l5QlhfMU0zeV9SLTd4ZTFwbnBGUGFOa29IQ25VMmQ3aXotU1hPRkZHR0szdFQ2RzRCemE4SzNVYS1GRG5oZjh0RHVIU2FiUzJLemdEdlk3TGF3SWdKQi1ZZGk5SFNwS2ZKTU1HNzJZSk85T0tiTlU4VXVVVlVsVkE2R2VlSGIxOVd1MUpjY1U2cA?oc=5",
+  "published_at": "2026-10-24T20:00:00+00:00",
+  "sent_at": "2026-10-24T21:40:51.884347+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0499
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0096
    }
   },
   "checks_base": "published"
