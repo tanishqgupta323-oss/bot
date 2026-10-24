@@ -8872,5 +8872,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The National",
+  "title": "Middle East latest: Trump warns of 'another little Epic Fury' amid fears of renewed conflict",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTngtWlZKb2lHN2huS0pfMUtPZi1SYm0tOHRhMVpRV3ZpbW5ydGZfUVJ2SGtLTGZTR2ZQS1RpZEtzeDhQcUYwOVdyUGZoc1dlQVpUbTdJbGp1UTU4aFplZkJFX0pGMm1JSmVaOVpTN3BVbHZURkpUXzN1b3IyQ05TZ1VkYlp5dlJYTE9aRGZETQ?oc=5",
+  "published_at": "2026-10-24T04:48:37+00:00",
+  "sent_at": "2026-10-24T05:40:52.928657+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.002
+   }
+  },
+  "checks_base": "published"
  }
 ]

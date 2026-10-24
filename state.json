@@ -339,26 +339,10 @@
   "calendar_fetched_at": "2026-10-24T03:15:46.605407+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 275,
+    "count": 276,
     "day": "2026-10-23"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T02:31:08.532192+00:00",
-      "w": [
-        "count",
-        "during",
-        "iran",
-        "killed",
-        "members",
-        "official",
-        "pentagon",
-        "report",
-        "service",
-        "updates",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-11T02:55:33.254960+00:00",
       "w": [
@@ -3155,6 +3139,24 @@
         "war",
         "year"
       ]
+    },
+    {
+      "at": "2026-10-24T05:40:51.818124+00:00",
+      "t": "Middle East latest: Trump warns of 'another little Epic Fury' amid fears of renewed conflict",
+      "w": [
+        "another",
+        "conflict",
+        "east",
+        "epic",
+        "fears",
+        "fury",
+        "latest",
+        "little",
+        "middle",
+        "renewed",
+        "trump",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3177,6 +3179,11 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "8a6f56afd730f9e1ab044af2d2b221804e39507d6000977e45aa9ef09ea213b5",
+    "6e39c3a9a7ab0fe176809a11c5a58f2f1fa3fcbb8312b46f66c142cccfd822ee",
+    "1bb1a9817626abf4ba55ae7a1847e26e92c033a49857ee829a3f1a44571322fc",
+    "395c106bd0a67dd3c5d2fa29c025831a10a8a8ae112e0e94d2e3ca3e800cfd56",
+    "c9d986834ffab2b2bf02bfb13a04b0e31c18478020781a206e4046de26d1310b",
     "00dbec9851ca13ee7b3ef86b9a76ac7557c74079fe3cb3f5bb359cd65b35f229",
     "b5882ee510728c80ae187f0eaf093aa098cd18c5092874b237a904c89fe3de64",
     "f93c291c8f100e6f3a975a25afe51e61b02b2f40d0f7d50117955ee817f42410",
@@ -4171,12 +4178,7 @@
     "0de325886817cb817ba08466895fee5fb1b5d19fd081797363436addd174b8d5",
     "6f119998d91b6303792d0c7d41dde1d057da9c375ab9d50d038c5e184e0cbcb3",
     "2d00c7ddffdb485988606469940f42bafbae1911a0ff29190119d032f635d8ad",
-    "d3463b250961a6aedd3e4853e52435743a756bea9904ff5241d5975e20fb3d8f",
-    "dbabee26d7f080f87ca37bac8b41e5ba28a8137b900d8e806de8fdb979463a86",
-    "780869ca08df3e3a79515edf41133793bd14c6783048d424223575ce3d3312b3",
-    "18cb86c3436eb52646d7e15ab1bb3ba80c2e4acfb26bb1ab4a0414bcf3bdcb71",
-    "18f9c48eaf05af8efc7daf4ebfe6a7ed640e8262d32c7c1c03c74ffd9bb544c5",
-    "54b7705d79d4752214a5d1d21cf3131e044b30635207cea4add3d86415e7abcb"
+    "d3463b250961a6aedd3e4853e52435743a756bea9904ff5241d5975e20fb3d8f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
