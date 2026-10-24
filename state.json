@@ -339,21 +339,10 @@
   "calendar_fetched_at": "2026-10-24T18:35:36.813427+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 106,
+    "count": 107,
     "day": "2026-10-24"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T03:25:34.371939+00:00",
-      "w": [
-        "attack",
-        "involvement",
-        "potential",
-        "responds",
-        "saudi",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-11T03:31:03.586619+00:00",
       "w": [
@@ -3163,6 +3152,22 @@
         "strikes",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-24T21:15:49.555243+00:00",
+      "t": "Trump: We May Attack Iran Tomorrow Or We May Get A Great Deal, Either Way We Win",
+      "w": [
+        "attack",
+        "deal",
+        "either",
+        "get",
+        "great",
+        "iran",
+        "tomorrow",
+        "trump",
+        "way",
+        "win"
+      ]
     }
   ],
   "resolved_events": [
@@ -3185,6 +3190,9 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "fdfe5b306656e21ca2b32434b1c573c7d42444a980e8b2fa0b469b8fcabc43a5",
+    "6f50af0e4d45f79ccb9d3427e586628c520be4c46c9468214989637481604ea3",
+    "935df386d4cb160e7c7af748582305910a3544b443046f6ac1445dda402cdaf2",
     "d36f85252f46028a687a1a49c0fba7ad3d024138108661839ec96183221551dc",
     "ed8746f5c75284e14db1e19dfad812aaa6ba4af42af3e52cdd3903189c50d9ba",
     "b251fe9a442aed191a89a37d00f0f48e0922bc95330ae031547cfb2754b44494",
@@ -4181,10 +4189,7 @@
     "5fab75dd25529dff7bdcee9ee98b7d3fe22cac4f0e58207f51947e30a3ba4bd8",
     "b7a2ff15d4578bd9f0a31aaeb0b43044f18e6de6d81168e65a6d97830f857240",
     "982e65c41f706035239c25da399e1b76f58329d0bb216bd38bec4b77b89e98e2",
-    "91373b82b65f872c76559e9f7350a7149fe098b14baf716212235b0a55910e21",
-    "082d0df7c99a0c6fa9a149b3844fc7ab1af491159cccb6fae2caa3186ed72ebe",
-    "13bfae28a31bf26c9019f53af02e8123a13bcc635e14223f303dc13ec369a19b",
-    "8efad4e0664038bf4c406863b635a7ff7d472f251d5a53f04ef01cac8f8ddc3f"
+    "91373b82b65f872c76559e9f7350a7149fe098b14baf716212235b0a55910e21"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
