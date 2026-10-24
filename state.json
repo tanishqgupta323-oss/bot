@@ -339,21 +339,10 @@
   "calendar_fetched_at": "2026-10-24T12:25:39.076611+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 61,
+    "count": 62,
     "day": "2026-10-24"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T02:55:33.254960+00:00",
-      "w": [
-        "bitcoin",
-        "had",
-        "missed",
-        "sellers",
-        "shot",
-        "they"
-      ]
-    },
     {
       "at": "2026-10-11T03:25:34.371939+00:00",
       "w": [
@@ -3157,6 +3146,23 @@
         "trump",
         "warns"
       ]
+    },
+    {
+      "at": "2026-10-24T15:15:50.268244+00:00",
+      "t": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+      "w": [
+        "000",
+        "below",
+        "bitcoin",
+        "crypto",
+        "east",
+        "evacuations",
+        "middle",
+        "pressure",
+        "slides",
+        "under",
+        "weekend"
+      ]
     }
   ],
   "resolved_events": [
@@ -3179,6 +3185,7 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "3fc826119397a497414aa1b0f75ce2283eed381dd6c97c102f0d1e44345adb96",
     "a38e90c3ec8acb4aea63eecd0a7335bbe22d004e02d7466347e7d94beed5faab",
     "feabde289e2baf3be4ba694a0b9b98033aad768604ebcac7cfb6f0fbc53a7293",
     "bb276b3398046864a895685d972f3704ecf95942f5cb23261a539533d9b1d317",
@@ -4177,8 +4184,7 @@
     "62b12b7cdc294ff47e461aa572f8ac0c9e1aec571d1ba4568fbdd4fb60c1e9a9",
     "741e857fba09ba58067cb99a23a6158e331c3cc230510fd7e6a3a7d298414cd7",
     "4ef81fde6437194472a605c8413ac8ece2e5d5a8003139d5296925e92082a824",
-    "e37dc5e074ab7feb7eb2a8d9a929439366cdfb90f4fc90b5606546dfff803152",
-    "c6c7b5f696ede188fb3ec7246af3f1eb14147febbe1e61f1d88bb15c3d63cb23"
+    "e37dc5e074ab7feb7eb2a8d9a929439366cdfb90f4fc90b5606546dfff803152"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
