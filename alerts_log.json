@@ -8846,5 +8846,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Salon.com",
+  "title": "Iran war could last another year, Trump ambassador says",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNjVxOW4yaWVZQmo3NVRsVkFNWHlpWlp0VGtpZENwcURReWxhSXdWRkQ4ZEhadS1MZ09mckJSWllMSE1qY29HcGI4ejZOYUoxX2VwaF9FbjJtUDllX2tUUnpfallucGE5b1RuQ2hwaG4yaS1qRVZvaThMS2hPZWoyZjF4VERrcVcwTU1ZN09KMTQ4QQ?oc=5",
+  "published_at": "2026-10-23T21:30:55+00:00",
+  "sent_at": "2026-10-24T01:31:14.744585+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0208
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1447
+   }
+  },
+  "checks_base": "published"
  }
 ]

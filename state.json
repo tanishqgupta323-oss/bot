@@ -339,24 +339,10 @@
   "calendar_fetched_at": "2026-10-24T00:15:45.832841+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 246,
+    "count": 247,
     "day": "2026-10-23"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T02:25:34.909566+00:00",
-      "w": [
-        "hit",
-        "iranian",
-        "mountain",
-        "nuclear",
-        "pickaxe",
-        "pretty",
-        "site",
-        "soon",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-11T02:31:08.532192+00:00",
       "w": [
@@ -3156,6 +3142,19 @@
         "operation",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-24T01:31:10.748857+00:00",
+      "t": "Iran war could last another year, Trump ambassador says",
+      "w": [
+        "ambassador",
+        "another",
+        "iran",
+        "last",
+        "trump",
+        "war",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3178,6 +3177,14 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "c65c355aa4a5184ddcaf8bf86de216a71b66852cf6072477ee553b49d3b72099",
+    "d9abe3f07bbdffd8fb8f1e37644a3e69c3e292c17608bb5fe699b08415304742",
+    "94ae0012d148af490ba21a7d13166797e7bb80e9bb5237a6a5282014a1b130b3",
+    "b97aab2c5e5a1a2309caf61078cb26c538abaacc1e5fc7e9e1dc1792c0cb8b71",
+    "5a3b31b0d77e2823fe0b3b758cc15b02894a9078a9df77d33e1196c8b43ad698",
+    "6e2972146fb56158eeaaf491cb09cbeec379703cdd7837de96ce4d1260d139b0",
+    "7bed03c6f0b6c3ae8ad51c3226d551935843a2db5c2f46ce72bd93b93142ac70",
+    "0d85f4fa6abab6369b384b359aad3d2fc2a292f2c1041bc60b180fe2112575a4",
     "721b095cc849c5a5398858fc38cd82edbc656683ca407b7a353223411ce94ca5",
     "ece60fafd85a509cc6675a866947b8a0ec4451df8c87b75b630af46c175c16a3",
     "a516772b32801592659683d44a1ac9aa867210b3653ceee212201dbe75b91e1a",
@@ -4169,15 +4176,7 @@
     "fd5d8140d239aa2b22f14459a7cc545279287c4bd1445e8f8f510674372a6406",
     "209f4e15b41f04fef1b62e69ad22c4b856173686e27101f945e60a60484ebcea",
     "b7311358d9f1d188673d91e11e8fd68336e10a410a6a4737d88935bcf56cc780",
-    "e7ed4c63f95feae9aab36a66617db675effe283dcf61edaf20a97f92049b7ad3",
-    "4ceea3e4c69e5d720997ea1e0a825e7cfae0f752d8f31d0a59ee26aeece4c63e",
-    "4f8c39afc9049dfb32a0b238d947d860ae92b45394d3ee10c0ea75899e49d970",
-    "a60f6e7497ff3680f9315a327db4cdc0e532430d45af488c122b9fd1d1848e38",
-    "19baf403a6d6837b2773ec5f11627f7d105d54de9ae3960e40fb49d81119654f",
-    "7e72fd5af1fa910f9b041dcb58a5ad24feca6d72327818681b3f9fa4684d9e5d",
-    "0cf9538db767aabf163a286d4389808c912911579daceddd4a3eb59a5ef14c30",
-    "123c2a516fd9dd4009d8bcec5ceea9fc3fed8e74ce9aefd441c4f21a5a565a67",
-    "e48c9cabaa095f8266ed285824959df36f19cd50362aab5bcf2a74b1534d0e8d"
+    "e7ed4c63f95feae9aab36a66617db675effe283dcf61edaf20a97f92049b7ad3"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
