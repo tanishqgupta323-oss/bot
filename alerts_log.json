@@ -8924,5 +8924,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Media Line",
+  "title": "Pentagon Presents President Trump With Options for Renewed Iran Strikes",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVhkcXZUQUNhS1hVODRBWWFwVU5paE56dVN6WU9wQ0Z1NUZ0WXVqY01RWmVvaGVtWjhZVmt3R295Tnp3cmZuZzVWallyVzdhbHlYV1Rnb29LZlNaemVDaG5RQS0xZ2ZWdWVndGRFVnBzbHZIQlUyQU03aVBSYXAtckt0UDJOTkxOalFZN25ta09TVDVkVW10dFBELUhMeGpHMHNsVWFZdWdrSzA?oc=5",
+  "published_at": "2026-10-24T18:31:14+00:00",
+  "sent_at": "2026-10-24T18:35:38.923476+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

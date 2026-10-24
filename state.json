@@ -336,27 +336,13 @@
       "title": "Revised UoM Inflation Expectations"
     }
   ],
-  "calendar_fetched_at": "2026-10-24T15:31:13.431416+00:00",
+  "calendar_fetched_at": "2026-10-24T18:35:36.813427+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 87,
+    "count": 88,
     "day": "2026-10-24"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T03:25:34.371939+00:00",
-      "w": [
-        "attempting",
-        "blockade",
-        "disable",
-        "forces",
-        "gulf",
-        "iran",
-        "oman",
-        "run",
-        "ship"
-      ]
-    },
     {
       "at": "2026-10-11T03:25:34.371939+00:00",
       "w": [
@@ -3163,6 +3149,20 @@
         "under",
         "weekend"
       ]
+    },
+    {
+      "at": "2026-10-24T18:35:38.103658+00:00",
+      "t": "Pentagon Presents President Trump With Options for Renewed Iran Strikes",
+      "w": [
+        "iran",
+        "options",
+        "pentagon",
+        "presents",
+        "president",
+        "renewed",
+        "strikes",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3185,6 +3185,8 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "f75ac2679ee5dc19fd392ae667ba999eca4935cb2c80ced324b712260f7a80b9",
+    "04ea342de5dea7c2caa0c44a53e35f5dde71778fb47a81989bfc5e903261e3b4",
     "4e92103bb185df120c3e37367bd7a85f8693d35c30d8095c9dbc45067e74cd9f",
     "3943e99605dadb4c08c946d7157dfe2a0f7e14468059d22faed4e01ffa996f58",
     "7e65fa80c655c0898c5fda67e0af2a2a70f5a40e710c58b9e866b77a50b111e8",
@@ -4182,9 +4184,7 @@
     "f23c8ce54ea304c89ddce5d6bd17718ce356df89d0340d307eaa6fac66bd9f41",
     "eb038976580f65c205e5a2cea40a22c2ff551e21595a8227b16d08099937fc7f",
     "37687fecb17529b77e1b07c0eae82bb462f915ff5d67ee787d9cb1150ee72d99",
-    "7f11ae9f8c34316869554d4e960dd3454881ba2446779f88debb716b8a595bb1",
-    "5381e599fe7bee0b9f128e94d649a12564a34d899e6daa473336fb16030d5d18",
-    "7c4e1deaf69fefdcb9e9f271f1155a917f29169fe07b34031451b83289b9b55c"
+    "7f11ae9f8c34316869554d4e960dd3454881ba2446779f88debb716b8a595bb1"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
