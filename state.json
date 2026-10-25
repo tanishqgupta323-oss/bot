@@ -566,23 +566,10 @@
   "calendar_fetched_at": "2026-10-25T06:54:02.689362+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 10,
+    "count": 11,
     "day": "2026-10-25"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T10:55:34.599311+00:00",
-      "w": [
-        "concerns",
-        "dollar",
-        "dominate",
-        "euro",
-        "firm",
-        "fiscal",
-        "french",
-        "struggles"
-      ]
-    },
     {
       "at": "2026-10-11T13:01:19.886993+00:00",
       "w": [
@@ -3403,6 +3390,19 @@
         "today",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-25T08:45:46.084962+00:00",
+      "t": "Iran's army claims it shot down US drone over southern Iran",
+      "w": [
+        "army",
+        "claims",
+        "down",
+        "drone",
+        "iran",
+        "shot",
+        "southern"
+      ]
     }
   ],
   "resolved_events": [
@@ -3425,6 +3425,7 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "33f608b4dcfafcb9d7396001b7076e2c0ba3e4a562ec851d559d433df914e4c3",
     "8b0d5c739db61ab249a3c1addef33d05c85cfd27ebde7b14430c9952122b6432",
     "6e150c6efde0ad13eac45fd8c5bcb34b155bbd9ea81b6c2a3ba1522637353482",
     "0f4c194f7d0f730b4ae1ce534fe188e52f6ad7cb66eed4b69884fee810c9d455",
@@ -4423,8 +4424,7 @@
     "a887b2ba31f453d9e38635395a752f74ef1f800c2e90add86b2eb747223f5abd",
     "062076db141d02027a52701fb408b6b107f78ff7a146ae51d21203a2fbf95041",
     "9630a08e472bfa18501052021afae9d6cec6742c3e6dc3f22cdfc1617be860fd",
-    "56d7cf66bb1f97e83e6a0014406590473166f5baa1b07523d1ab95c3b21eb3c8",
-    "c673a7513ab6e62c2909305fb4208fca65a7afac66a22da1723127ab37d9c8ca"
+    "56d7cf66bb1f97e83e6a0014406590473166f5baa1b07523d1ab95c3b21eb3c8"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

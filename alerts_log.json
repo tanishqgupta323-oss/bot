@@ -9106,5 +9106,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Anadolu Ajansı",
+  "title": "Iran's army claims it shot down US drone over southern Iran",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVzVTS0tDaEJqZE9MaG93S25xTDZLczFxM2l6MzVvb01lVF9BVEREOVpwX2dseHFiU3B3NE5hT1Z6bTVRR0V5Qmd2cS0tZGxLYW9RWTJ6R0gwZW9uLTRoMGtSY0VBWDB3U0o1Sm54cmEtS1Y0YUdUNmlBV1hEbnN4VEJqV3gxbHZleTNGRmF5RFh6bVBiQ2xVN3VGUGtkT1RLTEJJaVFR?oc=5",
+  "published_at": "2026-10-25T08:16:46+00:00",
+  "sent_at": "2026-10-25T08:45:46.757967+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.2098
+   }
+  },
+  "checks_base": "published"
  }
 ]
