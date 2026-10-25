@@ -566,23 +566,10 @@
   "calendar_fetched_at": "2026-10-25T06:54:02.689362+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 17,
+    "count": 18,
     "day": "2026-10-25"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T13:01:19.886993+00:00",
-      "w": [
-        "200",
-        "bullion",
-        "demand",
-        "gold",
-        "reclaims",
-        "revives",
-        "sentiment",
-        "weak"
-      ]
-    },
     {
       "at": "2026-10-11T14:15:45.820173+00:00",
       "w": [
@@ -3403,6 +3390,23 @@
         "shot",
         "southern"
       ]
+    },
+    {
+      "at": "2026-10-25T09:20:51.927113+00:00",
+      "t": "Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears",
+      "w": [
+        "bitcoin",
+        "crash",
+        "fears",
+        "flip",
+        "going",
+        "imminent",
+        "price",
+        "shock",
+        "sparks",
+        "sudden",
+        "zero"
+      ]
     }
   ],
   "resolved_events": [
@@ -3425,6 +3429,7 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "beaa7cfa15d56f6843ded38eb3444ed6071aa75495c98b06a8a7c4c664862e4d",
     "bc2e621ce9bf56b3cbbdbeafe8bc316200bd191a4562b6410ef953c0ec14a4bf",
     "db17f08a72a0991fcc1b7f209ba8cecc65795d650c474806654e4f8f1ef48fd3",
     "41ac471026be76692526daaa92f91e9c3c83355595b740524e0b5d960eb6a9cf",
@@ -4423,8 +4428,7 @@
     "df02d92802033c9e4c94121b560a0c98db4898fda03992cb275081a8f29f28b8",
     "e181adc8931fa1e28f397663fb872f575e5a1a2317ea310b132c6aeb718e7734",
     "5fbcc5b051a0e6437d99a50665ad19e968aa342517344ded25f5731e7b5b4c46",
-    "3df6b1d9c3473cd5f39bce7756a4ee82a353534aa078974d8b8c4609159a45b4",
-    "f759ece97a65c2b90a63a070eba712f6084052fac35194427de2e7b5334c5725"
+    "3df6b1d9c3473cd5f39bce7756a4ee82a353534aa078974d8b8c4609159a45b4"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
