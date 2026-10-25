@@ -869,6 +869,7 @@ class TradingNewsBot:
         active = [
             event for event in events
             if timedelta(minutes=2) <= now - event.scheduled_at <= window
+            and event.impact in ALERT_IMPACTS
             and event.event_id not in resolved_set
             and int(attempts.get(event.event_id, 0)) < self.config.max_actual_attempts
         ]
