@@ -566,23 +566,10 @@
   "calendar_fetched_at": "2026-10-25T13:01:20.433022+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 69,
+    "count": 70,
     "day": "2026-10-25"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T17:45:45.038966+00:00",
-      "w": [
-        "ablaze",
-        "blockade",
-        "breaking",
-        "iran",
-        "sets",
-        "ship",
-        "supertanker",
-        "takes"
-      ]
-    },
     {
       "at": "2026-10-11T17:55:34.873029+00:00",
       "w": [
@@ -3413,6 +3400,21 @@
         "rate",
         "rises"
       ]
+    },
+    {
+      "at": "2026-10-25T14:20:49.789853+00:00",
+      "t": "Israel's Eisenkot praises Trump strikes on Iran, warns of nuclear threat",
+      "w": [
+        "eisenkot",
+        "iran",
+        "israel",
+        "nuclear",
+        "praises",
+        "strikes",
+        "threat",
+        "trump",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3435,6 +3437,7 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "36a77cf5fd7dbf72136d1acd03c0b686949d7a67125f6f02f00aa4e3904ffee2",
     "f72b0bf27e667092357f9de993292602c34a842bf47cb373e6de7ff3152966a7",
     "ac603a398a725d9dbd4137a60acdcceaad1d259864dfb3d1611a4c1b3e4e6930",
     "b0ce791fbd022df79a8b705c79bfe9cca9bef61d1f774f689f5f3bff23f718eb",
@@ -4433,8 +4436,7 @@
     "892f13a461658d8849604406c147999c7609136c279c988a40f51e0bf60fe356",
     "5ad654c0821feca5a992c71bbbbca2cf3ec64d8ce474085c0f7c4878136ddec0",
     "ddc1b5c48adc5eeb14d4f0406e65b4d0bf950829f2fbe4322bfaaab0be41dcd6",
-    "e3131e2448534b7611b10196848c33b4f87327bcd4f1b41acbd1ef894300c3a6",
-    "649eb7b8b300f916bdce50688e2a67e33d3a8c03b4cbd28877fd15cf41a3cfef"
+    "e3131e2448534b7611b10196848c33b4f87327bcd4f1b41acbd1ef894300c3a6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
