@@ -9028,5 +9028,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance Singapore",
+  "title": "Gold prices break $4,000 as investors brace for crucial test",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2YWtjWFd5S3VHV2EtMFhHc3hVb1dfQi1MZjh6YkhvRnFGQnE3WXN5dGhkM3VYMWlLbTI3dDZ3X05rc0dHZjk0dndONUkwa2hIZlJNWklRQU5zME9wUmw1ejZIT0lVZk5TaFBJV0czTmtkQVMtRk1OV1RUVGs?oc=5",
+  "published_at": "2026-10-25T02:17:00+00:00",
+  "sent_at": "2026-10-25T02:35:41.720729+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0857
+   }
+  },
+  "checks_base": "published"
  }
 ]

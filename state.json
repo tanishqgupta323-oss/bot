@@ -339,23 +339,10 @@
   "calendar_fetched_at": "2026-10-25T00:45:49.279801+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 158,
+    "count": 159,
     "day": "2026-10-24"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T04:01:18.711756+00:00",
-      "w": [
-        "airport",
-        "attack",
-        "houthis",
-        "join",
-        "riyadh",
-        "saudi",
-        "strikes",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-11T04:05:32.977275+00:00",
       "w": [
@@ -3170,6 +3157,20 @@
         "threat",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-25T02:35:37.888004+00:00",
+      "t": "Gold prices break $4,000 as investors brace for crucial test",
+      "w": [
+        "000",
+        "brace",
+        "break",
+        "crucial",
+        "gold",
+        "investors",
+        "prices",
+        "test"
+      ]
     }
   ],
   "resolved_events": [
@@ -3192,6 +3193,19 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "6e9ac78a63593cffc47f34190c531f0659caa49461d5dfea2aedeb8da47cbc03",
+    "94a2d777dee0751256400ce3a0fa69b200d49deb03d2970556e63db258820f71",
+    "cbfc5ba2d94cc7f7e0b42a1278646c240106a717c86f68ecd297f63e65710e2a",
+    "933a9ffc4c9fd6a58d4ea6d385cee965feade1e461d5f78552e7725ccb36fa5a",
+    "0d3f02a8b3e576cb0c9739d9b2035ab70a717207454255f86f802a702b89d1ca",
+    "6535aeac0cddc86ee1cc1191bf9f35f2360f2de5330360f049cf93559e44c79a",
+    "9cd4be8500130c61714dd476b724cc3852a26f94ba2417359114b6619bd92efa",
+    "fb0e9ab53d2abf50706d5ce2e252226daf3002e9f27444be8d4d282df012b9aa",
+    "479758d246010c193a45c5ead8f3c2b44a3eb92550f7b02189b444e566167baa",
+    "f343fd1b22bb47a6e27b2e99677b15865bbb89a3246aab6ee0f9ecaf337ccf72",
+    "149aa9cac8d40a877684bad31944eb80bdde54692cbd471a16d3d67a404da0b2",
+    "ca6063881ba45c8bdd550f861f1d2acbc81adcdb3f709868795dd2b27e1c860c",
+    "00559f6171fb52d94c4aa37af4587eccb4b273c6766595850296cb813e8a3e36",
     "bd2403aa8f0a2dc02e3882d945a6369b94f6c81270e65982d4193ca9b9943705",
     "d91484a7a3ce28c05ee20914634ce420b30682290928aad61f3643a3623afb86",
     "f35538164b6cd88d6bc731c9259933044eaefdaa6dbea904322fa7da89aded6e",
@@ -4178,20 +4192,7 @@
     "76006e1e169d956a8dad2d41de9a01a61975eb938d5f2319a06c712c8fd8bf13",
     "e3245d058063b410b11b1f1aff05e723310176b0f64034e090671286493dd9a5",
     "dfae0a3a24d159d69102a6b984562d8f5fe8e8a757303576cba2beae4fe3e607",
-    "4e489e85cbcfa5eae3e65317b4ef239054f3317819302b43463ca5d068d1544b",
-    "73e1417620422d5d07268103c5bfdb7b39519d4360b3fb5f723cf725bfbc1a3c",
-    "0b993c6889a9dc96b8a959cc11c6c53bb9ee7cdaca6df5eed7315952583c6766",
-    "5155653aa87347ea1e7068c0b695234fbd81bdce80b497524c33e2e686688d3d",
-    "5eeb097135b735ffe22d4bca112a8def5e9945426c6b64ede295ee698d670910",
-    "f34cf3e4b63acc54dac334d59a4f24757b0930703f0b0df92a96d83714581df1",
-    "f3c96cf736f3d3598b301c7b6708534d62344c3f4674deb3dccfa6f46f90da9b",
-    "e21e3dfff5e70e5f364d07e3ad97ee963d5a1fa0f103187e6a77473a6ce2fdc9",
-    "568feecf9daa22ef3cf89f71a9a98850e421c461d6d9e85cf6bd057d4d0ff60e",
-    "589e7e821fc81c24452926fd90f18f14eac3b5e9175c790269025af9b22a7ac8",
-    "b0a3e271e99d7d054c34a33dc0ab429a90fdc57940aa9c15b2c9efb6123d51d9",
-    "a77a2e7a7abee8ce87a33a3a5edf67f2a4e88dec8928f596949b0610d7fc292b",
-    "c50606bdd1b0471a01bccea11ce48ecad8838f442cede9b40a94710d4e48e8fe",
-    "c3265b36d1074066468fdca5d940e33c8a36491ce2ba0def4a94f08ea8123481"
+    "4e489e85cbcfa5eae3e65317b4ef239054f3317819302b43463ca5d068d1544b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
