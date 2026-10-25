@@ -566,22 +566,10 @@
   "calendar_fetched_at": "2026-10-25T16:05:35.100569+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 106,
+    "count": 107,
     "day": "2026-10-25"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T00:05:44.465793+00:00",
-      "w": [
-        "again",
-        "airport",
-        "attacked",
-        "intensifies",
-        "iran",
-        "saudi",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-12T02:10:49.690247+00:00",
       "w": [
@@ -3415,6 +3403,18 @@
         "time",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-25T17:50:48.411619+00:00",
+      "t": "Trump rules out Sunday military strikes on Iran",
+      "w": [
+        "iran",
+        "military",
+        "rules",
+        "strikes",
+        "sunday",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3437,6 +3437,11 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "23358fb7f225ee450e810ffe88fafe78a66f3ccf2cf7732c994831e68a52ccdb",
+    "aa17cca0108a74dbeda83b5eb61feda829c0b7dbd6a623384632c7560ae73e39",
+    "858462a178bc2fdfc0a24db5e44ae63b668f3a7fc0f3b8d10116eb9662a17d0f",
+    "811f78250082aa7ea33f27af2a0b72ed00958719f49827ea968e3fc75b0b12d1",
+    "1d76e53f07105800f21a2f80a236b2a937b009f4d0aee542a2646028784fe4b8",
     "8997abf1b9e10d81aa43d76c0c061ea383fcd9cbd18ddcfe8a17c1a7c747ec37",
     "290a03a91feb41dc35c4b58ccd1b379e4d1a81077a76fe02413c89684ee1d5b4",
     "eba6bc78374d0d9792946f810168f22dbae62f66332fd2a2bd323de65dce1268",
@@ -4431,12 +4436,7 @@
     "e092c019c6b5a65f829abce410b695baacee8aaa25552b0a8a59ec6210ad3697",
     "6baf2f3ac133ff0225aaa9c2756db4e328e15c2ebe0385a1cb7734d7e8ddcdd3",
     "5f3963321c87aa16c092ad9f039773456a1e48bff4ec910e06475c7d4343c8eb",
-    "014f338d50d846fb2a24572fee13529e4d24f1514e8a188fe32f03dbc299dd5b",
-    "eccd301da5cef59f81f70342d6adc9a8147bc38c1a30537223e8fc7976575fd3",
-    "803ef884780447cb64c1b8709e484170125d46ab58b641c3d811b01c8b94758c",
-    "ae7d143ef040f12bc505e9e21065c8ab1bd19646d4d7709b603fbbf08b2bc69d",
-    "264fc93928dfc34daea503ff692c69950904ed703d79a5d7bd9ebce0c97d1a38",
-    "edc651ec000cf1cb0ea049d22bd7940ef50ed99619a9b97c6065648d8082dd3f"
+    "014f338d50d846fb2a24572fee13529e4d24f1514e8a188fe32f03dbc299dd5b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
