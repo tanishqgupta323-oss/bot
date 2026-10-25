@@ -566,28 +566,10 @@
   "calendar_fetched_at": "2026-10-25T19:10:47.607242+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 148,
+    "count": 149,
     "day": "2026-10-25"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T02:45:45.947696+00:00",
-      "w": [
-        "200",
-        "above",
-        "await",
-        "data",
-        "drifts",
-        "etf",
-        "gold",
-        "higher",
-        "inflation",
-        "inflows",
-        "markets",
-        "surging",
-        "week"
-      ]
-    },
     {
       "at": "2026-10-12T03:15:48.285331+00:00",
       "w": [
@@ -3414,6 +3396,25 @@
         "uss",
         "washington"
       ]
+    },
+    {
+      "at": "2026-10-25T21:35:36.344869+00:00",
+      "t": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
+      "w": [
+        "despite",
+        "done",
+        "expected",
+        "fed",
+        "hiking",
+        "hold",
+        "hot",
+        "inflation",
+        "rates",
+        "signal",
+        "steady",
+        "they",
+        "week"
+      ]
     }
   ],
   "resolved_events": [
@@ -3436,6 +3437,13 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "1ffda49e2b2466d23a40107b7f3e51da9701f5eaff1af21d3a79197ecc5783ec",
+    "5f3a15d58831dc1fac16d3302c21f8057c86268332cf1dab321fab1f1f64fa96",
+    "b5a3e0f226363ca39f714f752ec1aadfe25ff7601cc424168aa3c70e9a05fb8d",
+    "0c61222850c143ea510b799ab98226a96f66460490117b9c34b6d98bac376622",
+    "bf9eeec9857d66bfa667717873a463f9bfc1f5de0ad012d26e527de87adb237d",
+    "4f9f37da643787e4ab6969b02ca122af127408d551125697864f608b846cd26f",
+    "50eeafcd16ec9cba1557fd6a20a39ecaa267a7f67b67debfdaea726352ce5f09",
     "b6c1fa7cf7a8c49c49b01bc1976cbb49d3ab18ef536684fa3d8188158f589a65",
     "61d0b5a84781709254395c9712087d0dc3b18175aa062c6ff5bf568dd5fce276",
     "ba6a3cca4831f545adff2a7bdc97e6e05681d33d6b0315b617afdeb5c41c70f7",
@@ -4428,14 +4436,7 @@
     "964e31b3958ab65633e144cdc6ae3a9c4edbdec0272836eed27b66a7a210eeab",
     "773295a37bd2c7a17c292f927352c22dea9078c9b856b3ca433101524d46cd7b",
     "e816e956d529cc4d345f430e47ca7f22f3b687482a6a19bb4fdbfcb0216eb821",
-    "e5be34d857bf2ed34237b0c840b55602ded0aefbea2d00fd84475dc074e77eb1",
-    "8919f9eae402251cd1e1b04dede798376fd46295732c2d9f1b4665ad339b84df",
-    "b1c5c89909d81de0818e09a06ccb11420f4780fe34813f3cbace24ca0c957391",
-    "3e45ca633e41ec0c5eb18ec6b9beb27785793aa327ccbb8b1141be05b414bd62",
-    "d3f7aa070480321a9085ca6ff4bc223350038c46203e796c75eaf427e576fd60",
-    "de05be5b584d6191893869ca7a4c6e32bf9a7efc5b9f0acacd08f41ea9179063",
-    "95d97b59c52f801c7e84849bcdb5d96c49fc2b30d7e87c78da2e8f53c311bda1",
-    "4caa66106ec6998e731be6d9883cdc55ad64c35c765dbef510e4d6b2abfce00d"
+    "e5be34d857bf2ed34237b0c840b55602ded0aefbea2d00fd84475dc074e77eb1"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
