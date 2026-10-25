@@ -339,21 +339,10 @@
   "calendar_fetched_at": "2026-10-25T03:50:50.512236+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 175,
+    "count": 176,
     "day": "2026-10-24"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T04:05:32.977275+00:00",
-      "w": [
-        "consumer",
-        "expected",
-        "october",
-        "prelim",
-        "sentiment",
-        "umich"
-      ]
-    },
     {
       "at": "2026-10-11T10:15:44.575851+00:00",
       "w": [
@@ -3171,6 +3160,23 @@
         "prices",
         "test"
       ]
+    },
+    {
+      "at": "2026-10-25T04:31:14.625413+00:00",
+      "t": "Iran Threatens Gulf Civilian Targets If US, Israel Renew Air Campaign | LIVE BLOG",
+      "w": [
+        "air",
+        "blog",
+        "campaign",
+        "civilian",
+        "gulf",
+        "iran",
+        "israel",
+        "live",
+        "renew",
+        "targets",
+        "threatens"
+      ]
     }
   ],
   "resolved_events": [
@@ -3193,6 +3199,16 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "6723b8a5f0235ca6c3c0506fcd7198331cb3c3310a2f29a3f742da47f4a341c6",
+    "abff3e48f7dc0a3d23ffffb1bc475e66b7c56f71ffa9fb48b5fa65f07e15c806",
+    "ff4f66282f938f05c7365de67671aacb538043ebfceeaf0fd2bb858c0c5d13e0",
+    "c8e5bde9026396e966c295c4bf26e2a8e410336b40639b4bec4584906a1c92ad",
+    "332acaafd228c102e179f44d1a5a82694ff8cb8d1141d5b00fe541cba964ffd7",
+    "67854c94dc5ab99aa2d485f728e8ab40135355e0c4883c45f391c938092c66c3",
+    "46e107aeef3d505642e54dcc79a5e627396fe1d2bb94e0c594c622e57831b6cf",
+    "bc544dbed52e3592a20e832b77ffefd749a7f6f0ebabfee0cd3c98740b97f7eb",
+    "74562782d9cf74818febbe6dac34e4789b32b3c99b8784bcd023aadd429a5585",
+    "f8cbc747eea9663dd7d40342a841fee676f7bfb1d93c4c95d9d9818999c3edc5",
     "dd786872fa81f1eeb92ca9407d34c883f3ee36f9036b1b731b20ed5fc71fe644",
     "8ed1220ac245c9ab4abb1d4b69371b1c564cd81dce154fc58551cfbc72e501ff",
     "c8d27f9ef9a4b07ef8a7232a27bff5def9386e6f13aeb57aa4082464a5e1f05e",
@@ -4182,17 +4198,7 @@
     "407c8cad257d2311879fd8662c650f27d185e0db85eadc9580046c0dfa483031",
     "853c837315b66cf6568760549f95d4ca179484e092735f02572a562349a1cc8a",
     "afbd35adcd4be408e3fec2ed95a1c8901300ca605bf4b33edab8187b405ad81c",
-    "81ba82e33185c8ad3110c76ed47a69437242423edef5d0b929acbab99678026c",
-    "3a037bb8c9268c71fa9d58a67c4a653c089d96ba9790cf6f0b7064492493d4b0",
-    "cab19120c32b8cef1491cef3e672efd9c3aa5bf6e94268aa8cbecf1605c53963",
-    "8dbea2336b669ddf35e91682de0f4603a54741a8d2a41787c4a782f417eaaff2",
-    "b46e581f40ebba58e43cbf4f28a47e7a7de3bfbc418bf7d7356c9659be846b07",
-    "244c0251893fe774d2a9ab05018f5773450b2dacf5c8f12d6be5f6c0a12d96b1",
-    "75e8d8eef08b74e84e17ccd65cf8e03f9c5421d5a9c87b9ff4bc6466e2c4c61a",
-    "1769bb3a0b9ffde4bb8ae595c873163867ef5413029f2c5e6a234f1f34b7cfc3",
-    "79a6c6ccb18b766e28cdf4fdc2b108d7e1fb0311fd773ed7b4e77bfd58888842",
-    "6ffedc37461af6930c6875f5e53b312f13cc54a346d0dc2232b259d3923d1c8c",
-    "7320f2a0203a5a0c64166b6e6bd11c0ce7a3b1f71a14b200d7a167106a77d0e8"
+    "81ba82e33185c8ad3110c76ed47a69437242423edef5d0b929acbab99678026c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -9054,5 +9054,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "i24NEWS",
+  "title": "Iran Threatens Gulf Civilian Targets If US, Israel Renew Air Campaign | LIVE BLOG",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHZRd2NCdlZId2xaSDd5Z1NEcG5BVEFaR2NITXRJZHY1V0JaS1lodS04Q1RpVUpHRlNWcWl2amRwOFUtMmdpM1NQT0IzNzdvSkIyRktxWWdNeU84UHRvYU5BN0xWUzEtdlgtSV9IZmRTMGFiRGNFaFAzc3NMSi00R2cwbjUzeHpHdFZlY2JhMng4UWhlaE1pTk5mMGllOFlJNF9mbGVXc1pBZDNZYl9FeUR0ZlRKRzlhcXh0WVZldGtkZUpa?oc=5",
+  "published_at": "2026-10-25T04:22:00+00:00",
+  "sent_at": "2026-10-25T04:31:16.025368+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
