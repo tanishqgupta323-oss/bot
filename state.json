@@ -566,23 +566,10 @@
   "calendar_fetched_at": "2026-10-25T09:55:38.783873+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 28,
+    "count": 29,
     "day": "2026-10-25"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T14:15:45.820173+00:00",
-      "w": [
-        "attacks",
-        "efforts",
-        "end",
-        "hormuz",
-        "intensify",
-        "iran",
-        "stall",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-11T17:31:05.783606+00:00",
       "w": [
@@ -3407,6 +3394,29 @@
         "sudden",
         "zero"
       ]
+    },
+    {
+      "at": "2026-10-25T10:20:50.634760+00:00",
+      "t": "Bitcoin Slips Below $80K As Peter Schiff Warns Of ‘Very Long Weekend’ For BTC Investors — Mike McGlone Says ‘Don’t Fight The Fed’",
+      "w": [
+        "80k",
+        "below",
+        "bitcoin",
+        "btc",
+        "don",
+        "fed",
+        "fight",
+        "investors",
+        "long",
+        "mcglone",
+        "mike",
+        "peter",
+        "schiff",
+        "slips",
+        "very",
+        "warns",
+        "weekend"
+      ]
     }
   ],
   "resolved_events": [
@@ -3429,6 +3439,12 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "57ec6426d93bb519ba4854927cd15ce831380a3e93df9562b5ccc3aac66cd172",
+    "cdc0af5e4f0a1d9e21238ce54765ea3c2f7109cab6eb465da81f19b897210afa",
+    "bf5a1ee8d66fe0673b5aa45d5d9d30193ccf51e801a097f49b089e28b1db9898",
+    "3b883e1c902a3819c0d7ae13f9e89de208f1d7da65c7baef828a747fa2d5225f",
+    "405738de23205bd6dbc2fb3f5158a1c8198b27ab8ba80078485cdb6898650db6",
+    "aaa23b1fc2aeb6a0af1a9b09e36ae0d61a2319691922be4a0133da3329bc7076",
     "7fc0d6cc71bca972b60346393498acf5dd3fb5b22b95b9f93f129ade591a5796",
     "8978a9d19ef76ba414d5869dbad9331a60ab659c506bfef13be2f703120ff58f",
     "f395ea10e49ad7127dc18be6c1bd7ca5505174aaadddc24a7dbec6d01f0ff232",
@@ -4422,13 +4438,7 @@
     "77539523063041cd555c84c99fd81d0f993ef2aa542451d60b3acb44aa94399f",
     "a33d8508547cc0849d9dc6224c5d7e84e4cf9fee165e1d8b332c142eb6236447",
     "35616826af52dc22e5ab81c531d3cdc8407c1f057421f19570974b0e7916e93f",
-    "193cc65214f2917227b0e31cf748b23f905ead0190965be0ef5863cc9c30653a",
-    "414d1b4afe712ea23275c2bbcb08b32b6b40aded8311e63d8fcd3896412302f9",
-    "62ba574e9c373c10e12ab2cf585e8c1e927856fc639694aa04b698d1445269ff",
-    "7a789b672fce51b6f65da76e97863a0ead82aec71f191b66e66cb3bbdc25c433",
-    "e30600e44cdb43f42faab6a3492fa71bfa7e5edda72b65ac0e9a78b9d17ab5ed",
-    "10781a90973ac24d370a062cba1bcff11fca1fcdfa92d6f4e23bff46a33dee5b",
-    "caa70b2acc0cecf1d02eda13455bf6534af1b65587469e558986910b220db242"
+    "193cc65214f2917227b0e31cf748b23f905ead0190965be0ef5863cc9c30653a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -9158,5 +9158,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "Bitcoin Slips Below $80K As Peter Schiff Warns Of ‘Very Long Weekend’ For BTC Investors — Mike McGlone Says ‘Don’t Fight The Fed’",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ25nc1ZTMl9xcTctNUhxM0tCaFF5SEFxMnFRQ3Y3UGhtVjJKR2g2eXJ4MkRRRGNTdE9DWVRFdVR4YzZ6VW1ZNW41QmxwVmRCZ3dBdlZ5amVJSEthbG1NZ3ZJVzcyZ1VZbVpNaDB6a3ZYSWxFYm1FbkVkb3NRS3laU3lJV3Q2aFZLREpEalFDb09kT2tWaUE4ek9n?oc=5",
+  "published_at": "2026-10-25T09:59:19+00:00",
+  "sent_at": "2026-10-25T10:20:51.604638+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0847
+   }
+  },
+  "checks_base": "published"
  }
 ]
