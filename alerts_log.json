@@ -9236,5 +9236,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bloomberg.com",
+  "title": "Trump Says Decision Time Nears on Iran: Deal or ‘Finish It Off’",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWlhSjFRRmFoTWYxSW82enFyZlljYXNEQ1d2TXpFYnRIZmh2N3dCdTZTT3RUWE1zTENzcU9Sd2JnU2FhcS0weVg0NTdFZGF6SXlxRnREMzdQUUpQTlV6Ulk3N195SjdWQ29od0trQzdLamd4ZW9zX1pucEg1bHJjekNrLXdSaHZvQnNoLUczTUkzeEhGSVhNUEVGU1FUXzdiTnFWdHktbzd4TWhITDZNYg?oc=5",
+  "published_at": "2026-10-25T14:57:05+00:00",
+  "sent_at": "2026-10-25T15:15:45.969457+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1148
+   }
+  },
+  "checks_base": "published"
  }
 ]

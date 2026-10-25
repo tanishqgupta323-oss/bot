@@ -566,23 +566,10 @@
   "calendar_fetched_at": "2026-10-25T13:01:20.433022+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 77,
+    "count": 78,
     "day": "2026-10-25"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T17:55:34.873029+00:00",
-      "w": [
-        "announces",
-        "ceasefire",
-        "energy",
-        "escalation",
-        "russia",
-        "trump",
-        "ukraine",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-12T00:05:44.465793+00:00",
       "w": [
@@ -3415,6 +3402,19 @@
         "trump",
         "warns"
       ]
+    },
+    {
+      "at": "2026-10-25T15:15:44.822163+00:00",
+      "t": "Trump Says Decision Time Nears on Iran: Deal or ‘Finish It Off’",
+      "w": [
+        "deal",
+        "decision",
+        "finish",
+        "iran",
+        "nears",
+        "time",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3437,6 +3437,9 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "93e94f9ef1d4a2750dff07bfffdb9ef6311acbadbcafd34edf2044432ed958ce",
+    "eeb40550e33921b53f647772bde40701d8b50467cc910383f09bd28b0f97d90d",
+    "6c37992da377d6f86c5c2c78e742a5e717012097b7f1c76adada69ff9e4f7e85",
     "c4cbcafc82b821a543883bb0bc076311efdaf87de2448c1dda62b32b412a559f",
     "ab8e358c9120dbfac11b2d78c6c5c416832757384bb714886d20c7122eb24992",
     "ab4b31879e1df15717f406699a1fd4d1c2d95065506ce6f42a9ac2d013206632",
@@ -4433,10 +4436,7 @@
     "61e79b63368e92bffe9dea15320091cff6d289ef419803116e8a7687aa683c47",
     "531c0b5445868b47d50a0d7d38c7a11895da50cec03254596ab651a1fd19511a",
     "b9a9330ca46b15ffc70099383c8ec285aadd1242b5144183fbd041729b615924",
-    "f3f89d6628c65c4dd33d4bf012a4e4449e6e5acc9e9fed45ff2852e02a1593ec",
-    "fb947fefab60841d9b982571223b94e7e7216da973a13160e66e40471d4a638b",
-    "209f4e15b41f04fef1b62e69ad22c4b856173686e27101f945e60a60484ebcea",
-    "dee921f88ef58b6b8c28735fea5dd55a58408a5e4a38433d625b00864e2015dc"
+    "f3f89d6628c65c4dd33d4bf012a4e4449e6e5acc9e9fed45ff2852e02a1593ec"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
