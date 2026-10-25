@@ -9080,5 +9080,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "Trump Says Iran Strikes Could Come Today. Can Bitcoin Hold $80,000?",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSC1aSmF3Q0hzY20wVWpubTJucHN2UmNobGlxWFV0R2lQQUJCOHlLcTBNN0dwWWtCVXZNS0UtT0dhdVUwS1VrcFktaTB1Nk1yV0RGSnhEU09UR00yZk5NM3lveTlBR1ZXejBnMnBSX1BWZWc2VEQ4ZGQ2TTJ3QVppOEpNemFvQ05NQTVubDYxSHczY2FOMzFjb3pB?oc=5",
+  "published_at": "2026-10-25T06:38:00+00:00",
+  "sent_at": "2026-10-25T08:10:57.930869+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0768
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1165
+   }
+  },
+  "checks_base": "published"
  }
 ]
