@@ -339,26 +339,10 @@
   "calendar_fetched_at": "2026-10-25T00:45:49.279801+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 144,
+    "count": 145,
     "day": "2026-10-24"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-11T03:55:33.001551+00:00",
-      "w": [
-        "attack",
-        "blames",
-        "kills",
-        "least",
-        "peace",
-        "russian",
-        "stalled",
-        "talks",
-        "trump",
-        "video",
-        "zelensky"
-      ]
-    },
     {
       "at": "2026-10-11T04:01:18.711756+00:00",
       "w": [
@@ -3171,6 +3155,21 @@
         "trio",
         "week"
       ]
+    },
+    {
+      "at": "2026-10-25T01:05:38.032350+00:00",
+      "t": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
+      "w": [
+        "back",
+        "fear",
+        "full",
+        "iran",
+        "level",
+        "pushing",
+        "risks",
+        "threat",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3193,6 +3192,19 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "1fb90b425b9644501c9829c62192021ad280af9da325f63161716734abaf5273",
+    "bd64715c76db05fd478416f4a18b2f0ee82d8b6f7a3578a260f8114a3fccf7a6",
+    "9ace5b2521eb05de9eeb4f644bcd481240b0bc982e3000d1dd5a58aa22a2d0c8",
+    "b1c76bc9d664efd2e7f57dbcacf23cf12b37b30d4cc5bb7556c7eae12883b719",
+    "f7ca66114b77f37f5d308cebf797755ed099c406f7669f4a4a4f39bb39930582",
+    "786c14e73d4702836e3436d83b1ed1fdddb439def2dcf917fd29c6be482c036c",
+    "0c966bde630a8dd85aaf06df947552621c15fcd253fb8dd8cd018bb304598456",
+    "86511d23546b4b24db5a5d36cc2dd1af3d0095b640be5259099a3239b8a74432",
+    "68a5e2ab75fc8ebedf69ed41ad931f31300b145cf97c5e6b9391a2b596a2b5e9",
+    "76d20a0982ace219e459af0a981181e7bf794a7ee393fc885e27c6083d6301a3",
+    "48e88af02892de843c66e44a75096e11a40c9d724733bae9ae700b7400d8d3dc",
+    "302b3d4e1bc3c137c2abc1fea94cf3de5d3711580f2371633a2786b9a5b68455",
+    "f6fda71ef3be55bc7f45d3cdf5ee3edfa486fd32768c492071295ab71c9e9292",
     "d82b3d05dda54c815bd2f24d5dd5fc21ae1faeee47a1d3368a3a0461a7aad916",
     "df5f618612be56df8756a69158a28be8b3105ed9661b5ec8d7782d7f11a753fb",
     "212720a93f003201361235522afd1123272fa4cb607043151a177489254efccb",
@@ -4179,20 +4191,7 @@
     "2152135b654782a45b7282206782914e99e46006442477eb15251c74dd8486f3",
     "47a4bd95fcfbcd9c2d8e88fea2cd79ede40ff27955f2368858a9e3920fda7474",
     "47183fdc709813fbe438758721caa539f45e589cd9f82aa224bfa9178f115042",
-    "e239d8f988fd3932d060dd00d55639e166d5e4406ac2e24d55f916f0253e461f",
-    "3b906cb5f7fb907bdbb278d12f2d630f434aa37ebf5d0b7a8e53e5522dee1faa",
-    "d85bbf927cf7736e86b05b86968ee3795afffee2c66e1640834c71cd869c2790",
-    "4b6a6a3cbe15b22259c50729612a095fffff2b14fbf4065d57c7739b3cbfb899",
-    "62c682f4a0cc254737316015b0788ca8910337d94b661f1e55a798e1f53a2695",
-    "e23a5a92fd67336cbcb943d96a772b0c80a540bc9d34528a9374043e4a2657b2",
-    "24fb403ef7cb394006da515f7788aaaa38285843f165dd6e2dfcccb4ce9a8201",
-    "a653053f6da435dc1e02e71efba767f09d932ef9cae1f98929374dca979f0a71",
-    "c50b9e8120ff8a732fa0bff531cff39c489870a818a92a037178537db5fe6843",
-    "6009e9cb3a5d073177139d8e8b17fd918cf5b7539e39a3c1c00e10ac5ba34877",
-    "296114038a01484b1e9d2e58be8dca6190335748e973a7f1616f2c5b9dab1965",
-    "4247dbcd4719c36d78b5f8bf5bd17860f9f9e8b547fa8aa2c2c9375acb6e6a8b",
-    "6108b7fd2e74762aa97544b52a576fd95b00e427fc58585fbe36e657eeee58f5",
-    "9ebe6a5b12f2334b7176cac18775a2ffb6e2af5df2ed2c865915f08e07782592"
+    "e239d8f988fd3932d060dd00d55639e166d5e4406ac2e24d55f916f0253e461f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
