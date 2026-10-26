@@ -9340,5 +9340,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Gold dips below $4,000 in worst week in four months as oil fuels Fed hike fears",
+  "link": "https://investinglive.com/commodities/gold-dips-below-4-000-in-worst-week-in-four-months-as-oil-fuels-fed-hike-fears/",
+  "published_at": "2026-10-25T23:41:28+00:00",
+  "sent_at": "2026-10-26T00:05:39.731092+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": -0.152,
+    "BTCUSD": -0.0388
+   }
+  },
+  "checks_base": "published"
  }
 ]

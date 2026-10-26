@@ -566,22 +566,10 @@
   "calendar_fetched_at": "2026-10-25T22:15:44.882808+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 177,
+    "count": 178,
     "day": "2026-10-25"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T03:15:48.285331+00:00",
-      "w": [
-        "bulker",
-        "disables",
-        "hits",
-        "hormuz",
-        "iran",
-        "sohar",
-        "tanker"
-      ]
-    },
     {
       "at": "2026-10-12T06:40:48.257099+00:00",
       "w": [
@@ -3415,6 +3403,25 @@
         "they",
         "week"
       ]
+    },
+    {
+      "at": "2026-10-26T00:05:38.753066+00:00",
+      "t": "Gold dips below $4,000 in worst week in four months as oil fuels Fed hike fears",
+      "w": [
+        "000",
+        "below",
+        "dips",
+        "fears",
+        "fed",
+        "four",
+        "fuels",
+        "gold",
+        "hike",
+        "months",
+        "oil",
+        "week",
+        "worst"
+      ]
     }
   ],
   "resolved_events": [
@@ -3437,6 +3444,10 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "84db24f4ea39b3d6310145a4021c3e3f791207ae691da0634b95318a9ffe7ade",
+    "3cee9f92dbe217e3bbc9e56931c62f95dde82dfa197d9a45a61f3a620982ef4e",
+    "69a7a5a966b7db32a3c0f7b9dddd9b739679e473d49de74536d5ecce989ca6fe",
+    "4395b06c182a7fbda06dc7fc14978a90df4acbb7e7b72b9219b7ccf24f2b1ac4",
     "5cbd63a0432fe05fcecca0ad72087044db24d3524100155913d8f59d8cfe13a9",
     "8f7df96d49f4d88cd78689a9773fc9d2a2f04c9fad1ba0a54010df63679aed40",
     "62f056108551ef7598b742b9275ba9a87b65dd48bc3ecdb03bd09efa4953c00a",
@@ -4432,11 +4443,7 @@
     "fb544fd640b3d7f146e7965e16acf403093ab335b8e2ffb118f82a7e510b37e2",
     "c72ed549f130fbd7a8ccba7be2f634c60d46dddfa900e8df2d4615c734bc3d15",
     "17f8d568a9f1bceab181bcbfae8bdb01cdf19fdc70fa6862926283ba657707bb",
-    "3c919fa5f3060b0a7358fd01bbe7e1afd17ef819cefd1a9a0b321b6124971e87",
-    "b7ce8f21b2194222711c4f4e8a9227e56b577c10eade759b128508e3f0f3e827",
-    "2b0195bac0372ee2c1a1b451d4c8f494a17b1246b18146b398a2c41a6cfab38a",
-    "70a09306f3b12d1604cae01c42c4f72a3cd63b742a83a1975ba104942bf8da46",
-    "883f39107c31251a6d2eda895db9f84ebbd06c024e903c10146b2c801751915d"
+    "3c919fa5f3060b0a7358fd01bbe7e1afd17ef819cefd1a9a0b321b6124971e87"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
