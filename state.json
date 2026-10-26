@@ -566,34 +566,10 @@
   "calendar_fetched_at": "2026-10-26T07:20:50.475234+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 29,
+    "count": 30,
     "day": "2026-10-26"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T13:01:28.696147+00:00",
-      "w": [
-        "against",
-        "airport",
-        "arabia",
-        "backed",
-        "condemns",
-        "drone",
-        "egypt",
-        "houthis",
-        "iran",
-        "join",
-        "military",
-        "most",
-        "powerful",
-        "president",
-        "saudi",
-        "strike",
-        "trump",
-        "war",
-        "world"
-      ]
-    },
     {
       "at": "2026-10-12T14:15:46.046713+00:00",
       "w": [
@@ -3422,6 +3398,19 @@
         "threat",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-26T09:40:51.219472+00:00",
+      "t": "Gas prices top $4 a gallon as Iran war escalates",
+      "w": [
+        "escalates",
+        "gallon",
+        "gas",
+        "iran",
+        "prices",
+        "top",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3444,6 +3433,18 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "e112f9b621fe8e287b5738d3cd044921895084e78c1074e9ed54aa36a28e277f",
+    "29b0cf180c89e3f4f749bb9ded931c01d6d3dc4875c3bce05bb5d159490d0557",
+    "a7253e35e7ed2dd12e0054cd4b0c5998f67c91ebfeabf3a1305dfc3cbe5c4984",
+    "4944cd9d6dadf68f5e1c62a585ec9e8853c84461f1ec5b0d06f866c0bbde05c4",
+    "db2e76ae52026409d8fbd92ac8902cc2b781a9dadc5f6d7ca7fc9e0e97ee1ba7",
+    "f361f714290d9d908fccda06cc1e7a051d09966e8b051a237107ba31fc4cd50a",
+    "e1f3f5c2a3b178c9495a91b48f74cf300b61616ba6427effc94cff2eccf963ba",
+    "1426a864ef7f9e1d33ff65b7240d8172d6ee027b47caa6454b7a17cd7592d215",
+    "def163e5eb16993cee79a1ca9d7771217d3c8ae2a96615cf66892b353c9802f2",
+    "e5dd45ad119117fa3aff0b49816fa11380e1f48961425e7ef8ac27be2dbb07c4",
+    "a04acff7bb73c7d9beda808d839589af6d7ff67742a0cc5eeb9129540ae11d96",
+    "6fc18d7bb0e24e53ba1883ee52e2f6991f5de368dfa29b9a2a90942900750838",
     "c8e7fea6426e63674c5e99856e68ff5481ee15e6db88c82e5cd7a707f5db2cf9",
     "9e9dc597f39f9fa2ede88189289686727458b9370cbc6918631587f82dcf4646",
     "88a430383bca0d025e5c08b5df77b26202a4391df358ea56f329a7c57d8dcfc0",
@@ -4431,19 +4432,7 @@
     "d358317db239deb5b950717923efe9c895c47235d21f006a3f46a1ccd12276ec",
     "e79e98d121c58eebc9533394bec2fe0effe0e0b1f98da0cb0a8b33cd1d0c073d",
     "41fc2bafafdce528f94f7b122f73c75c276050f29e4e97d2feaaffe8121015c7",
-    "00bce7373c7b34831f28c68643d761c34ee582335459a916b59a0a28ceb01ddf",
-    "9246b2c1efc57ffe6a34c5608b9abfbf08d2b117f3c8a7221c6384dfd50b7081",
-    "56da3831d4c32f1dc00bc11479953a7eb6cac47dd561a78c86818fdf21393cb2",
-    "23c16848ecee2bad671572039d8b608ac2aed4011d767bc4945ab56600d71b7e",
-    "a5f4efdac6a2974abcae25cb5a536914f8caaaa9eb2ed64043cbe2edf2b39d55",
-    "22e441ef264c41b1d8bde09f03b89cf7ab2644bf2cbc7b5825196c6ab6bb1097",
-    "104b78056147cb75f5b4e3691da6666a0b0b838d53a46eb150a8bb1731907bd9",
-    "97e5e3ed7b327d134e4954390eb1b3bbfda75081639d4efa1fdb759e0672276f",
-    "f430023279302c0c73a36bb42df00c2a9974538f66d57ecd5e9512ee1981760f",
-    "456c03a36f198047e113033463df901ee5efa8923ac10f002058819c2f4d4b4e",
-    "9d0c94815f17ad4318be760d15368c6711e0892dbedef44e8f96429286e41cb5",
-    "76bec329c5db6a175504db1bcdb15caacfde6efeb93ca6c4c0e055471fabd107",
-    "8eb959e307b63baf642d6669ba8c29ba1aba4e1b66505d5fbecb56ffb5968f17"
+    "00bce7373c7b34831f28c68643d761c34ee582335459a916b59a0a28ceb01ddf"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
