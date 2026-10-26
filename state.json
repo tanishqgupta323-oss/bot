@@ -566,25 +566,10 @@
   "calendar_fetched_at": "2026-10-26T10:20:51.238281+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 48,
+    "count": 49,
     "day": "2026-10-26"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T15:01:33.407315+00:00",
-      "w": [
-        "adds",
-        "analysis",
-        "bond",
-        "hedging",
-        "market",
-        "mortgage",
-        "pressure",
-        "surge",
-        "triggers",
-        "yield"
-      ]
-    },
     {
       "at": "2026-10-12T16:10:49.278577+00:00",
       "w": [
@@ -3411,6 +3396,21 @@
         "trump",
         "vows"
       ]
+    },
+    {
+      "at": "2026-10-26T11:20:49.036511+00:00",
+      "t": "Iran ‘disables’ tanker as US commander flies victory lap over Strait of Hormuz",
+      "w": [
+        "commander",
+        "disables",
+        "flies",
+        "hormuz",
+        "iran",
+        "lap",
+        "strait",
+        "tanker",
+        "victory"
+      ]
     }
   ],
   "resolved_events": [
@@ -3433,6 +3433,21 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "8f803ced1d236ff1fe132b94c0cbeead8aa50a2f347d5f5d0a4a8efeb86e6ceb",
+    "52d5437f73622c2698ad11b7f3743b93aee21582c0f00a845b0db0ae0f3760fc",
+    "3c96c3a19a67f1251beaeeffc4ba90d30d3f0c65ed755b13169cf8f22313e4a7",
+    "0a11f3ddbe62b628eacbf95b8f4e5f213383153dc26efa0416b4b62a99e95c33",
+    "15b3a5ca4b0ee3eb39a8a212c5a2491a37351b37b0ad702f22848bf5494d8149",
+    "c38d7cad53ed3cbdb4a0e18c1e41d6645726663ac402de329e64e670c7e1a280",
+    "68eec4ec37c54a769141cc8b040348ade11a9984393680f8d5cb4228fe6184a1",
+    "72d238697c500c3a9fab93f051b486eebd3e9c2347fcf2076decfc22bdc67cc0",
+    "e6f1403692be36efa798f04ca4ce89870174ce58ae9eb3edb9b34052d2c24394",
+    "6a6203a9d403e53eb1d69e88431bd226ef14b97ecf194c4db82f4cf747ba2c12",
+    "bb7e46c6a8f599cc7455800cf7bf0835da4051e2b5d47e9b1d6be02ae6c3d0e2",
+    "c08b7045c4543f9c3a76d4d2417531841d58bc9a8b1b3ff84c690676e57122f9",
+    "edcbd6e78b961ce116b8952bead31cdc8c6ef0e708c01900df6df13e3b1c8830",
+    "9b974583517d48e6c3be620738aa07f012749eae08a61119ad8d09b57daf83a6",
+    "04a8d013586d855680654e7feb72d0d111a358c4daff16df27af72f9aa2a9ce3",
     "1d95c337da9e96228f403c1b452416b82e3eba1e4adcb7a72247e17b2e5daf54",
     "66bbd342980f1d9a85dab1b297a16f4fcfb482b7ac89d1fbba4c8a5fe6d59a37",
     "0cca40f2ba0b094a41370415a3c2605f484988ffc9930e1595219830e82db6e3",
@@ -4417,22 +4432,7 @@
     "33084ab3e9413bf1dd55ba5e117f15254ca01dfbebb2b1594ab47dfd08757825",
     "33fbbc5fda9da33dd32ea222afc624e0b01799b17b4ebefe1c28c91274535191",
     "1837eaf8559f1bb4c68b22afe70320dc7d7583981abf9740f139534efb908111",
-    "347dbf70c0833b82c1d8015acea97cd3a1860d8bc0b23dd09a908e70be89d317",
-    "ba5d02ab676e2aecd0c4cb2ce7e2c8752c8534f16959cf6e7a856809ae4df987",
-    "9b1df89ab2dc108d0dedd9a071b9c43c9521c4cf8ab8f3e1a0eb46121928b31a",
-    "2ff72bacf94f2b117b5c1e2ee82d2ec38242890d6e2c973450e83532dc09cfc0",
-    "a37978b6cfa5df874e7ecfd7826281c69b066d6f7fe947901e9966503a6aec5c",
-    "6501472122367cbb5086fac4c0ead6cb044747bc65769bbe225601a60d6ed14e",
-    "36a77cf5fd7dbf72136d1acd03c0b686949d7a67125f6f02f00aa4e3904ffee2",
-    "f72b0bf27e667092357f9de993292602c34a842bf47cb373e6de7ff3152966a7",
-    "ac603a398a725d9dbd4137a60acdcceaad1d259864dfb3d1611a4c1b3e4e6930",
-    "b0ce791fbd022df79a8b705c79bfe9cca9bef61d1f774f689f5f3bff23f718eb",
-    "fea810cb7f82eb75f916efcd1450739a17ad8a80d28f02266b4a357b10594904",
-    "4de5ce9260bbfaf0177fb21881a71b7e2b6a07a56ead33da7599213097b85946",
-    "4eb54d5c81504c7c5e2d73f23775254f8092e20f53748dff186be78e5d462bbb",
-    "d9c317719250cf0abc3873738119f0194e50d8b7702d8b1e84039a6b0d6a09ce",
-    "50e8e228df818f302cbdf8623d59c50fa97a8e3215da631be5f4baf8293794d1",
-    "d0a86c555cdf8ae912132d3cb09bb202ae979f9e4cc31ba1a42446f4157fb579"
+    "347dbf70c0833b82c1d8015acea97cd3a1860d8bc0b23dd09a908e70be89d317"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -9470,5 +9470,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "TradeWinds News",
+  "title": "Iran ‘disables’ tanker as US commander flies victory lap over Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYnJGOWZia2RFaHl3U1pQeDJBeGlyazJWQ0dQZEU5U1hZUWhEV3JnTWl6T01lLTd3eWV2MlhGUlQwYkxfVC1SWmNvZGFHRUpsd3V3bEY3dlU5d0dfdXlYdjdjbmIyME96NXp0RkVnMTJtYWJpV3A5OGtwck9leEk5SnhiVkJUZWJhbldob2ZVVTAxZF85YzdXZmVua0o1aXkybmFhZmdNR05UeGxRYV81d0pudnZrVTRfWkYwMl9jcFdxZmJuM0EzSHRB?oc=5",
+  "published_at": "2026-10-26T10:40:46+00:00",
+  "sent_at": "2026-10-26T11:20:55.807614+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0336,
+    "XAUUSD": 0.0472,
+    "BTCUSD": -0.0358
+   }
+  },
+  "checks_base": "published"
  }
 ]
