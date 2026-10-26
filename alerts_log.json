@@ -9392,5 +9392,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "NPR",
+  "title": "Iran says it’s prepared to go back to war amid threat from the U.S. and Israel",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWF4R1g5cjkxZXNYdDVVa0N4SWVoY3FiOVVsdnJ3Nll4Si1lbVNnemhBQi05aWF3NEllLWtKTHM5Qlh3bGRmcVhiWXpFZWt2VW5iRzJCN1dzNFlqX09sVWZsTG81OEpMa0tKbnZ2T0NRMWE0el9kYkQxNjhyWVE1NkF4RGhGVUNnV1hHZGo1eUZvZUZ3c01zN1Z4WjVLNmhJdlEtU3U4VlU2SHRxOFUyeG5LbWJzaDI0X2xVel93?oc=5",
+  "published_at": "2026-10-26T08:40:27+00:00",
+  "sent_at": "2026-10-26T08:45:48.378585+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

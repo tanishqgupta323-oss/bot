@@ -566,25 +566,10 @@
   "calendar_fetched_at": "2026-10-26T07:20:50.475234+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 19,
+    "count": 20,
     "day": "2026-10-26"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T08:45:47.757062+00:00",
-      "w": [
-        "1200",
-        "around",
-        "bullish",
-        "close",
-        "consolidates",
-        "euro",
-        "low",
-        "month",
-        "remains",
-        "usd"
-      ]
-    },
     {
       "at": "2026-10-12T13:01:28.696147+00:00",
       "w": [
@@ -3425,6 +3410,18 @@
         "strikes",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-26T08:45:47.383686+00:00",
+      "t": "Iran says it’s prepared to go back to war amid threat from the U.S. and Israel",
+      "w": [
+        "back",
+        "iran",
+        "israel",
+        "prepared",
+        "threat",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3447,6 +3444,8 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "b7a96f271779abf005c40d97025e139e7a7d932e670504fd08af919da4c61ee7",
+    "33bdc72f00ee0289a276ca1fee39a1b6e431bd5f2452d8fb17e19ee00b844856",
     "e636ebdd304ac27f1473c0d552015ccecc1c55f44aab47cff37abdcfca3b897d",
     "32e5c4b7f178aeae210f5ff16bdd72fb85b5bfb74be93e14769d8528d971e17d",
     "fc1078873cc31e3a0e9df3f30fe167ba0d467cd6f61e988c052a9111bff7dea4",
@@ -4444,9 +4443,7 @@
     "e31b6be7a855765cbea31ea9169e22d43102ac347e818d15453e3f5b24480d44",
     "77011f29dfa0fc37708dee89879978ce645893d5f6b98def96eaf6e12c589086",
     "53f9fc10dc4239b36a202d8bf186301f871508d20b446e107a1c3249b10f4bc1",
-    "e5e6c83e1d6a293e6f852b8f2d99c04bf98f96a9eb4c83f5f656520edf629c4a",
-    "b9e0668da4397506bcbe1b356bbca62f87d94725a9f240bdcefde5cdbcd3fc36",
-    "4f3958e7f3cbc8304feff4f769d4c39e0fed8c821eba076f52359e480350d668"
+    "e5e6c83e1d6a293e6f852b8f2d99c04bf98f96a9eb4c83f5f656520edf629c4a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
