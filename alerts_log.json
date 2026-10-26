@@ -9366,5 +9366,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo",
+  "title": "Donald Trump Could Order Major Iran Strikes as US Forces Reach 96-Hour Readiness",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMS1RSjZ6RHJub1VXbEx5dzJZcG5LVWFKb0MzSXlUcS1Xb3BaUTllSF9NaXltQ1VZMFBJbUlMNzVycWJYNUFsRU9RcEFrR3IzckNxVThzTUltMEdHVTgwQ1pXTHpqZXoxNjRGNWl5ZG1BUmhYUHM5OVd5LUZsMEc3enFhRnhURFkzaDl0NA?oc=5",
+  "published_at": "2026-10-26T06:02:00+00:00",
+  "sent_at": "2026-10-26T06:50:49.261046+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.1515,
+    "BTCUSD": -0.0665
+   }
+  },
+  "checks_base": "published"
  }
 ]

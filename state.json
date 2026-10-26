@@ -566,23 +566,10 @@
   "calendar_fetched_at": "2026-10-26T04:15:48.303782+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 239,
+    "count": 240,
     "day": "2026-10-25"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T06:40:48.257099+00:00",
-      "w": [
-        "comes",
-        "cpi",
-        "fall",
-        "hot",
-        "market",
-        "playbook",
-        "refuse",
-        "stocks"
-      ]
-    },
     {
       "at": "2026-10-12T08:45:47.757062+00:00",
       "w": [
@@ -3422,6 +3409,22 @@
         "week",
         "worst"
       ]
+    },
+    {
+      "at": "2026-10-26T06:50:48.395390+00:00",
+      "t": "Donald Trump Could Order Major Iran Strikes as US Forces Reach 96-Hour Readiness",
+      "w": [
+        "donald",
+        "forces",
+        "hour",
+        "iran",
+        "major",
+        "order",
+        "reach",
+        "readiness",
+        "strikes",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3444,6 +3447,7 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "25acb7bf47b0db4e64200b8d90c2dd832cb251d6e572b2abb9d7873b0cf1392e",
     "01ec0a84ac8c691acecd99e0b3875d3d1345cb5a989f9d55915fe424357fc3a3",
     "5a086f94c8f8453d7bb6adae814cd2f6175a071dd7d8f55d81b09ddcae87a72c",
     "a5423fc7a25f4a114fc8186f4ccef2e2a0c6d2f4a6b631ca6bdbe71b5d2f8a5f",
@@ -4442,8 +4446,7 @@
     "dcbb3e841b829afb7e0a6d291347ca6fd92961e3c129ad8a22c7c64e61458e25",
     "7759ee0b8942d32e8d689f5f83d0c77b530bd5c15457691416a8183ff797bbcf",
     "85b485c99bf42823c7a959b226ac113be1a0bb8fd0b542e62e2993fbeeb784f6",
-    "2b2c65f2313e8765cad3067f21766fc02f6661360380a8521857e93ab51845aa",
-    "8fb1466a3808a39ea5891ca2f4fa50d1182cfc68e1b95a49596cb59f7ec09e30"
+    "2b2c65f2313e8765cad3067f21766fc02f6661360380a8521857e93ab51845aa"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
