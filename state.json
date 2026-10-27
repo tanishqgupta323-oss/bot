@@ -566,22 +566,10 @@
   "calendar_fetched_at": "2026-10-27T07:31:10.150377+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 11,
+    "count": 12,
     "day": "2026-10-27"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T17:55:36.659041+00:00",
-      "w": [
-        "adnoc",
-        "claims",
-        "hormuz",
-        "iran",
-        "strait",
-        "strike",
-        "vlcc"
-      ]
-    },
     {
       "at": "2026-10-12T18:15:52.149280+00:00",
       "w": [
@@ -3416,6 +3404,19 @@
         "steady",
         "year"
       ]
+    },
+    {
+      "at": "2026-10-27T08:10:48.747584+00:00",
+      "t": "US Military Prepared to Launch Iran Operations Within 96 Hours",
+      "w": [
+        "hours",
+        "iran",
+        "launch",
+        "military",
+        "operations",
+        "prepared",
+        "within"
+      ]
     }
   ],
   "resolved_events": [
@@ -3438,6 +3439,9 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "1d36992d989189c8b392139f68cef29cdf11866b9ad767edafbb6c471d0293a3",
+    "da59c84a932782e6be8b4f2f4cd0b4a5b24a81a26ba83bf1f8dbef8074e7c67d",
+    "ac47c0f5f009c47a0d3783b78864c3455722e521f0507442ee19f5e767b51579",
     "cd57764d0189c04e4c13aa712dd280c445510df93a070999b5cf1e1cb461de84",
     "364450485c8eaef1312e54f03358eecef0e46a1fc086dca47ed530b9e6e6de96",
     "e6360bd02cb03497dd80c2401acad8398061d4b51e03c2e3dce8fdc455731541",
@@ -4434,10 +4438,7 @@
     "b6dd2722fb886b534c68ab5037e54c241f11d54d86d3701a234a5a103b5affeb",
     "ea4a6fbf99a7ef673cc1305fcc0604d1bca03ad667d348f49d64fdcf3f099387",
     "ca1e3f966dafe916bc67b76f98f643abba56620e330bd27a365fb0dfd6fa2117",
-    "b176e082589a8f0e7bf3ad5634d822e93e767449f3adcfcf6ebd8144a53a613f",
-    "52d2bc9d23d9f44d4cb74ee06d8d93b0f5789af5b22eba095075e3dd0bcd89d6",
-    "c7c9897531149fe2e7bd13cc0fed4254a3f35b34f309d6533b24b4eda21457c5",
-    "cc7b0ef211cfd9d5f5513da11e4dbacb93c784d6b20fd8db446393e4248279e6"
+    "b176e082589a8f0e7bf3ad5634d822e93e767449f3adcfcf6ebd8144a53a613f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

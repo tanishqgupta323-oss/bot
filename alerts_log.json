@@ -9574,5 +9574,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "IranWire",
+  "title": "US Military Prepared to Launch Iran Operations Within 96 Hours",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHYyMG9PZF96VktIdUpQZmlyNWlTU2lUeXEwQXdFUExmOHh3cFI3MDRKQmRyVmtndDVyamdDSW5VeVpENEl2bzJoeUN5eVlST0MxZ0k0VF9idDJBMG1XRS1MTTRKa3ZKcnV2cVczdnJxbEN5UTZBem8zbXlfZUZ5STktc3ltSUFzY2lRX0ZvN21yRUh1b2RRTFZVeFA0Sklv?oc=5",
+  "published_at": "2026-10-27T08:02:32+00:00",
+  "sent_at": "2026-10-27T08:10:49.707048+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
