@@ -566,24 +566,10 @@
   "calendar_fetched_at": "2026-10-27T07:31:10.150377+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 20,
+    "count": 21,
     "day": "2026-10-27"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T18:15:52.149280+00:00",
-      "w": [
-        "fed",
-        "hammack",
-        "higher",
-        "neutral",
-        "policy",
-        "rate",
-        "restraint",
-        "sees",
-        "urges"
-      ]
-    },
     {
       "at": "2026-10-12T19:15:48.056730+00:00",
       "w": [
@@ -3417,6 +3403,19 @@
         "prepared",
         "within"
       ]
+    },
+    {
+      "at": "2026-10-27T09:01:25.024558+00:00",
+      "t": "Rubio says US struck Iran fearing it would retaliate for Israeli attack",
+      "w": [
+        "attack",
+        "fearing",
+        "iran",
+        "israeli",
+        "retaliate",
+        "rubio",
+        "struck"
+      ]
     }
   ],
   "resolved_events": [
@@ -3439,6 +3438,11 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "1611eb6234e7e768b6575c476ae151c07531eec1f87ead6749fdc8edbc41863e",
+    "e9e15d7d256b19ea5977f3095bfb07415db6db7272bff1e8271364e7fac66473",
+    "2651c295328bf99c43fe3645406fd6b0c83b823d8e20fe06631972eed32d7ce9",
+    "2f6bafb7b37573bc818dee6456cea8c1eebad95700833776fa8adc22b7aee3a7",
+    "2777613cd9c93cc5b60cf3395fdd87d146b7db003a1e912798af0ea2e4fed964",
     "a5ed646ed38f3ff495df3af3d2fb3bff48aafea1f6c0b9679917e66d813c4ec1",
     "44dda4d655de2c8e1883f5930d0b18403003ee14137bbe74757b0a0c9af80939",
     "3d0b4ab3e0f71ab90132b14cbb505f54802d21278e2fd728117421c0c3a6bb56",
@@ -4433,12 +4437,7 @@
     "ae88afe46298fd6c0878ef8e12f48eb03f46746158da0e8227c1d98b537fec17",
     "1cd6ed5776478acafe828b0bb4e357f678f390a97ef23500df0caf422437b1d1",
     "b352e83163d5e68e809f5282e2d9f3da577dea79d147c6e79991e4577003334b",
-    "0d200b2da571d1dc8654a6ddb45d4d0ba70ff35874fa89fe5de8ea582735aa07",
-    "dee4e0a5a1533bea94317eac5db0414c37d14e20b452e770ac3db01a18f93948",
-    "11dcf784a19442fb7bb350855b7fdd1430bb15b313a07ec8cc5e5f3d8f20ea84",
-    "4ed488d887f30b1fecf57ac081f57a8203b3dba1115c66194167fa34d3ac2ac8",
-    "5e2f1870bb0c14daa86d1fbf9195a73fb28745470f240a5348e29517336a73ab",
-    "4d94c6e4e8925d3d993004ae685042416fc794bc486e7050a1a31adb4ccc0518"
+    "0d200b2da571d1dc8654a6ddb45d4d0ba70ff35874fa89fe5de8ea582735aa07"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
