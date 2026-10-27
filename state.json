@@ -566,25 +566,10 @@
   "calendar_fetched_at": "2026-10-27T04:31:08.271893+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 253,
+    "count": 254,
     "day": "2026-10-26"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T17:25:44.327104+00:00",
-      "w": [
-        "avoid",
-        "fed",
-        "hammack",
-        "higher",
-        "hold",
-        "inflationary",
-        "mindset",
-        "needed",
-        "rates",
-        "taking"
-      ]
-    },
     {
       "at": "2026-10-12T17:31:08.097851+00:00",
       "w": [
@@ -3412,6 +3397,22 @@
         "trump",
         "ukraine"
       ]
+    },
+    {
+      "at": "2026-10-27T06:40:51.310243+00:00",
+      "t": "Bitcoin dips below $80k as Strategy pauses buying, Fed caution weighs",
+      "w": [
+        "80k",
+        "below",
+        "bitcoin",
+        "buying",
+        "caution",
+        "dips",
+        "fed",
+        "pauses",
+        "strategy",
+        "weighs"
+      ]
     }
   ],
   "resolved_events": [
@@ -3434,6 +3435,19 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "6aacd26a2b361c7c8b719a3a3d2a4ee4b2a06330aa8b7034498e9fa0b1f78cbc",
+    "685803ff00abc9f96a7c9c5120a060acecf1a06511d6fd2f468c3dc6d9a1c68c",
+    "063aaee4aaacb13c49e61d22c33db2dac845942bdfc764f31b1570b1ecdb258e",
+    "6d07ffb8b7a72777c71e89ec583f72b2ff15caece1d535709abde37c51173571",
+    "b2d70a301a9b25bcb3de8878c2ec4ee19c4c261728448e9b61192ab761d3b64b",
+    "34d1661714f0ad19bacf8da7cca7ef2af4520d33f48f1ca08d4bc0195db4efd5",
+    "82f58c258fbd384d35151c8648467b740062a76fc3fd38e8d043b4a2d3538687",
+    "cf443e242bf6c92e5528402dfad11030b94bf9eafb989a327860a318bf5d299b",
+    "7da06a810500159fe22f6d8f4ff87544d74b85c312e3f6e3c0e5f2ee8a25f6f7",
+    "f894e586f28e71e333a5a9f968087a2fc44a6cd3d3d4627b5b697df785b4a79e",
+    "4baa5d589c6d987f08ce1d25ee244aeddfea6ad372aea94c37ab8984e4f23e17",
+    "d5f20002e995532003268667dcb7a24d12fca743f6efbb7473257e5ef5d36dd1",
+    "57d0b3dfe6abd8cd08c2e422209365de4dc696a7ed82e460b32e57205ff55ae1",
     "17f158b40e1fae05cd70dbaafd21c9dc903bedfdb4b24e7926bff67285ff494a",
     "809af8d6ad1b221bfd51e1d158cd0168915983aaf1c705204d243cb504691706",
     "944c5e3e496cafc0ad18f8825cc25047a7c2182073e876db14b3822160977377",
@@ -4420,20 +4434,7 @@
     "4b035861684728bf9a741a688b821c188635ce8822b9382839486da16720f8c1",
     "8e707b35d3d0431dba01241dca8491ef4a6f9793326be682bf0170a94e637bf6",
     "4f65f699fcc8a422abe31101ec450ec0697286b73a4be81fac645b763de2f92e",
-    "16a114feb1cb15353c3be730bd762bac0b734b65f6a4e9cb3936720aeb55da7b",
-    "972b4cc8e9cfa95159c3828d34381982019fc8b3a6e877e22e4544ba367c4a2d",
-    "083321330fef92273a7be1bafc6fab200737799ef6d4869162cd6f9a0295f90f",
-    "468a595c0d8fe90e178e3290f9cce0e9174a9fb1f8769941146fd1786b92d4c9",
-    "33fbbc5fda9da33dd32ea222afc624e0b01799b17b4ebefe1c28c91274535191",
-    "02ffac048ccbf3be8b6378765e5c7e560e5c98b034836302aabcb3988b1cb001",
-    "3233515ff26c323a3fbeb603921497a0d8ceae50d3575b2be7883d118cbd363a",
-    "0152864f271b8df0c796129ea286fabcdacf3b83e7554d050ca31d707b4dde06",
-    "fea810cb7f82eb75f916efcd1450739a17ad8a80d28f02266b4a357b10594904",
-    "8f803ced1d236ff1fe132b94c0cbeead8aa50a2f347d5f5d0a4a8efeb86e6ceb",
-    "52d5437f73622c2698ad11b7f3743b93aee21582c0f00a845b0db0ae0f3760fc",
-    "3c96c3a19a67f1251beaeeffc4ba90d30d3f0c65ed755b13169cf8f22313e4a7",
-    "0a11f3ddbe62b628eacbf95b8f4e5f213383153dc26efa0416b4b62a99e95c33",
-    "15b3a5ca4b0ee3eb39a8a212c5a2491a37351b37b0ad702f22848bf5494d8149"
+    "16a114feb1cb15353c3be730bd762bac0b734b65f6a4e9cb3936720aeb55da7b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
