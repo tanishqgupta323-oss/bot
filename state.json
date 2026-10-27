@@ -566,25 +566,10 @@
   "calendar_fetched_at": "2026-10-27T16:40:49.292650+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 125,
+    "count": 126,
     "day": "2026-10-27"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T21:50:48.320770+00:00",
-      "w": [
-        "cool",
-        "demand",
-        "fed",
-        "hammack",
-        "keeps",
-        "mind",
-        "needed",
-        "open",
-        "pace",
-        "tightening"
-      ]
-    },
     {
       "at": "2026-10-12T22:15:48.211269+00:00",
       "w": [
@@ -3411,6 +3396,25 @@
         "tensions",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-27T18:31:10.711862+00:00",
+      "t": "‘Neither War nor Peace’: Khamenei Demands Iran’s Terms Be Met as Tanker Burns near Hormuz",
+      "w": [
+        "burns",
+        "demands",
+        "hormuz",
+        "iran",
+        "khamenei",
+        "met",
+        "near",
+        "neither",
+        "nor",
+        "peace",
+        "tanker",
+        "terms",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3433,6 +3437,20 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "53e60ce0eb76ef647a4e03d925e5f0b9e0a56b7df76a543149e33891f1b2a65d",
+    "d60d795216ebc202a4b45bd56da6c1d5c084cba06d0e25703135ee09e13f3606",
+    "80b69a32679f2d47ad08409ec5307652d1795d59f97d0dc39a41cf5115c84b21",
+    "e352dd7bbc932df7d3f304774a3660c4047481afff3733d5cf0bbaee42c63b8a",
+    "9b7b3b9c05b203caaf3911fe09c649790575db275f9db642ab2a493056cf8e2e",
+    "842681ac6681f124ce79bcac5d6a54cd8f81f834df4f00546337169516cd714c",
+    "4080c65434d54f3167e0b59cf56362d4dd29b082a114f68d9b57164fe63d64aa",
+    "becc281f43c5a21be1ee518671869ca15e4b3e393385e9c8db405fb1737cd056",
+    "ec8cfa488edc46bd483f0500042e7dfbfe63df074306b756d02e085b26554870",
+    "2dd265f1992e8bf6cb7b8f8361530970a1c0f0e1134d2afb221a047590f76dba",
+    "3379f01cde9c2f45f57d498c22547bd1ce0ac407ea9aad52820061820dcf6169",
+    "ae9f34311ab5de692978c3d6accf8a68c1456f40efcbbdcc180e5b348d5064f0",
+    "2741322ac0f133b653fb71214daf170144667f8cb2ccdf003e4489b8710f121b",
+    "6498d7f05b51274d6942899f535b54a4b1a3f4432067bdeb0d18f98e9a1d3e2b",
     "305041ef7486d4555995a38ebcd56733faa876c3b2c6f6c29a82bc4431a0aa91",
     "f047aa44253cf75089ee89bc1c34761350a2a3a02dd5bca84c680982c8342ef0",
     "48c609afacbbf42eb3f3b52439bdadeb958d5bbe7436b7e8488949063d104aa5",
@@ -4418,21 +4436,7 @@
     "ced2ad5af33209eaa169475f924aa7e3ce792f6f71166f15621641906c2e14dd",
     "3c5d3fc1b0bba9af985d1e784ca1f727ac41cc71ec283e03a2fd51d8f3a52a1d",
     "af6e325d7818ccf89fa244e207a379f2ff729aa3aa5a868ebee1ee9a488ca7be",
-    "b399ce62dc41430e5d542bb8448fa42d1b98d5ee0c3d00c0a64521a6429e8891",
-    "41d9680b7b615164ebc5f14867c033f9f8e0d7a49763e6190b69de78433af6c1",
-    "b81cb8d35ed63f13c2b9f1ba9c9d6f9bb7f85b95b0315750a71ac79968d84f2a",
-    "4c0df42598e89f32f85904e65f67988e55fd6a105a22b62d8511a3e49e568f4c",
-    "1c8755d38d6c6da1cbbab4ab7883e0f2d1cdb6e546371c759d59d97d4cdfde52",
-    "05676e6b1d7a12728d9d52a45e451cf46ba47ea0e7855ba2ed4f90b0f59daeb6",
-    "7801d99f1a786c50bcdd80ba5f7a5315c24c283fb9ec94d219563cbf0afbca6b",
-    "489a0e603c9becf32f0b805c0c96507c390e3bdceaf61e1329b23e8f1e4f1777",
-    "fd301d78ba3b7359eb974511feaa3d9573fd68ba3b3f566ea087f4570abfa1d5",
-    "7fa305be45d3f1e3db939914e0e3c55627f7254eb580fd639dae4e2128bd8ac9",
-    "b297853a4975b4ed11dedc4814ee82889013b13ed924ec8149b898c5384080f5",
-    "84ccdb2c737c6f2209a3926e33264b7e0aff98af1be619dbe2fd6dd4f0600233",
-    "d8061885bcbaf5d036adf5467bda70ff49df63d043661a1769cfd0b62d45a5fd",
-    "3f516b1554bdcddd27eae9957d338f16f24e0897269cf391155505dbb9962f27",
-    "49bf94807880c799feea8ec71f74dd49f796fc97299786872a6542e44476f7f7"
+    "b399ce62dc41430e5d542bb8448fa42d1b98d5ee0c3d00c0a64521a6429e8891"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
