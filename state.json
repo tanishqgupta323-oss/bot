@@ -566,25 +566,10 @@
   "calendar_fetched_at": "2026-10-27T10:35:37.209692+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 65,
+    "count": 66,
     "day": "2026-10-27"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T20:05:37.683470+00:00",
-      "w": [
-        "dollar",
-        "fed",
-        "high",
-        "hits",
-        "minutes",
-        "month",
-        "next",
-        "rba",
-        "speaking",
-        "today"
-      ]
-    },
     {
       "at": "2026-10-12T20:55:35.120276+00:00",
       "w": [
@@ -3416,6 +3401,23 @@
         "warsh",
         "way"
       ]
+    },
+    {
+      "at": "2026-10-27T13:05:36.665715+00:00",
+      "t": "FOMC Preview: A hawkish hold as markets watch for signals about timing and extent of further tightening",
+      "w": [
+        "extent",
+        "fomc",
+        "further",
+        "hawkish",
+        "hold",
+        "markets",
+        "preview",
+        "signals",
+        "tightening",
+        "timing",
+        "watch"
+      ]
     }
   ],
   "resolved_events": [
@@ -3438,6 +3440,13 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "93927c03ce1002899f9507132fada513de60f0b16e4ad5ba3c7cefebe5961b66",
+    "ae4c21658a9d73854431d5c0afa5ec2cbc0bd7d4c2c4cc82fdf6206619b7462e",
+    "87bf829708c7250174ca9825e7753e0b20c99afaddb89ec1719d1f7748c5ad69",
+    "b7a7560da51ddf6ff392e0448d1b3dc48d3314bd3563551001cc35caff821442",
+    "833a15e65585f833dc0fe20a128bf14808c4823d0de5b06ca415cc0af330902f",
+    "2c4d4f8f3bc541871f05c47261c1146a4de8021ecd2611fd24ad39348b32e4e5",
+    "1ee9dff530933d7906c9c174bc63096debb024e58e81dded5faca43cbb7bbe83",
     "aafb91436a2d74bb3d10a3c504bf76328ab7555b43bb4d29e64f29810047b71e",
     "06113b332dfe0544aeb6cd0f8907e37cc9539478eb15e7040e0dd29e4c0dea7d",
     "a00cc964070ce6d355403449f369b9cfcc38660dc16fb76f807aed968c5bfeaf",
@@ -4430,14 +4439,7 @@
     "9f2598cb8f0b5d24c7d7624b30eda6f39fecd2fad9ddf3bdc8ab87ffc9d1ae14",
     "74b9f41b21faa1b25be47b3ebcc30979ab6aed731a657c8cd7b91172fce3aa3b",
     "36812b39a6f6d0471bb5015c75b38de77b71d480a857fd7ae05d8243feb96ad3",
-    "9a1bbdbc07bc69aa94a26ea807d67aa38355a6129c6f0a9d352d4375f1dd1f9a",
-    "7287c21a5f9cc79249b4f716bf2e2e9ad2c0108f035d726ffbe62b12c6cb79b3",
-    "d0f6b2cc7d19b8311b4d771aeb2afac6565eb785066f9ed4c8ab02be37f43c1a",
-    "6f58dad35b051cdfca2973476e1659decf863c3a989bac46c407ce6851d17e6d",
-    "790d5692d74a3e8b4a08e9ca6ac9b3d43bf769c5c0f523dfbecf6f95a506bb09",
-    "800b048c94faca4112ac494f890d2ac11e8a702c99360a40cc12fda6d0ac58df",
-    "b8678d1407236026f840b4a0262f8324d41377582bef0191df7058cefb9894ed",
-    "a098dbe8c4c4fabd53a51053b380a2b02770b49a8704a9426f70f201dd4d553a"
+    "9a1bbdbc07bc69aa94a26ea807d67aa38355a6129c6f0a9d352d4375f1dd1f9a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

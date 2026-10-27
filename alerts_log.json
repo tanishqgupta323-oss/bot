@@ -9678,5 +9678,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "FOMC Preview: A hawkish hold as markets watch for signals about timing and extent of further tightening",
+  "link": "https://investinglive.com/central-banks/fomc-preview-a-hawkish-hold-as-markets-watch-for-signals-about-timing-and-extent-of-further-tightening/",
+  "published_at": "2026-10-27T12:04:02+00:00",
+  "sent_at": "2026-10-27T13:05:53.933209+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0111,
+    "XAUUSD": -0.0124,
+    "BTCUSD": 0.2239
+   }
+  },
+  "checks_base": "published"
  }
 ]
