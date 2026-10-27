@@ -566,31 +566,10 @@
   "calendar_fetched_at": "2026-10-27T13:40:47.946427+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 104,
+    "count": 105,
     "day": "2026-10-27"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T20:55:35.120276+00:00",
-      "w": [
-        "2026",
-        "americas",
-        "climbs",
-        "eurusd",
-        "finish",
-        "hits",
-        "investinglive",
-        "low",
-        "mixed",
-        "news",
-        "oct",
-        "oil",
-        "rises",
-        "stocks",
-        "usd",
-        "wrap"
-      ]
-    },
     {
       "at": "2026-10-12T21:50:48.320770+00:00",
       "w": [
@@ -3418,6 +3397,20 @@
         "timing",
         "watch"
       ]
+    },
+    {
+      "at": "2026-10-27T16:31:09.685928+00:00",
+      "t": "U.S. faces record gas price hikes amid Iran war tensions",
+      "w": [
+        "faces",
+        "gas",
+        "hikes",
+        "iran",
+        "price",
+        "record",
+        "tensions",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3440,6 +3433,12 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "ae538378291cae5604776f455f06dd2c5efa99ba4a51d1a1643dedc7563d09ad",
+    "45b3eb7fd2a4f73aa699d8fc18256227e4dd987123d959d0f5f4ab7030c75f34",
+    "f519b66b0e8986c648a079c81062c02a8031e7c9bdfb3dc30bd7351db345ef8a",
+    "40d7ad84c1781d504ea29704f1c000a7511f7b3021fea56047b1e18dd5e5d5e4",
+    "bf8a5d982c5ae4bfbf2ed45c909d81fe99396f89368c8ac3e5a377013279669d",
+    "dcd69ea8b5f8b62135fc67089c62a0eabdd5841ac77acd22ed86d5b83f6d9f95",
     "5f498d54c15b1dd919aaf8a9c557f550bb50ed8f06d9beecee43fa1b1db0e5b4",
     "a76b691fafd1947004f37cd008c754d2aeb9a88c6aa1011a8ada69ca65568f6f",
     "7ef2db9778990cde4dd1eb3365f3d46158e519ff9123c5f382033e758946f152",
@@ -4433,13 +4432,7 @@
     "7527c719c23ab66b92244cdc281c7a8e0ac27d85ebc790a570a439830a5bda5b",
     "64f0307c2ba2a04a4dd4d84a8ea068a8b4ecf2df7179248ddfcf8d55b002a2b3",
     "79846d8b6f82fcbef3378c25e9b83adbc526ae3f1ea83398112155cea0b22e3f",
-    "e42d02aef41b16879bfa438cd62710e35322de9a512290f94b72f32a0e8d80f7",
-    "90462fbcdd100e37922a9afe25eaf088caf8e8f0e6392559590196e1feb211f9",
-    "da63572dd11ad47828e06ff7622a4a969a71722c184d9da7a7fa59ff15c7b706",
-    "cad9ee42ca6466118fdc2144211bbca408220a0583f60988464ef638607be3a1",
-    "62e88be6a6def53ddd5554cb2bbee2b2c7b54a0a75286ec00237a24b324c0d94",
-    "99a28a17f8a2aba87cdd2b7ae92f5edb98e9e9592df56b9493c8a8b8c654058f",
-    "4cdc9fd182d36fafd875d6532153f8bd60130de8f9b2fa2a07980fdb1034a518"
+    "e42d02aef41b16879bfa438cd62710e35322de9a512290f94b72f32a0e8d80f7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

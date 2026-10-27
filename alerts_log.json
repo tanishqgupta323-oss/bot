@@ -9704,5 +9704,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WAVY.com",
+  "title": "U.S. faces record gas price hikes amid Iran war tensions",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV1NjY3dYRnhFdHNielBDeUJmRDhqcW16NWxKQXBHVFdzekpuM3IwSXczX3kyZ3l1M0tTQ0ZZYVJzYlBTWlIzSU5hWk9aRUQ0enZldEIxSHpLRm5mNkN5QjVYQWlDM0h0cXNsTHJyeElPOGFIMWRqclZ1c1FETHpFc19jaEhUVWNTMEHSAY8BQVVfeXFMTTNrN29iM2pSaUgtM2Y2VjZTSkZzMFVoMHVhdEx4OENIU2xkb2ZmME1BSXN2MUpHRTJUcl9hdE1YdGlmUjI3dDVZUnpVeFUyWTd3YW5WMEhCQ2FzbzFabXJfQlF5ajBvbWZTRkpRSkQxZUhoaE9VNE80dk15d3RSVlVRY1NCeGlOSC1MVXdsdEk?oc=5",
+  "published_at": "2026-10-27T16:21:24+00:00",
+  "sent_at": "2026-10-27T16:31:22.920884+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
