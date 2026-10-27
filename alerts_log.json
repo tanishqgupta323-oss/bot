@@ -9782,5 +9782,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Kathleen Hays Presents: Central Bank Central",
+  "title": "Lockhart Sees Fed Rate Hikes in December and 1Q, Risk Rising Oil Prices Lead to More",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3N6X084ek5zdGMxa0piMnhWYkk0ZEY3V3lpVG9YaUx1NzRtTXRaVmtKN013emp1OUtLMlROSHJtQUtEUHVFR05zckRyM2x2bks0RUdvdjBHRXRCSDFLdTRQNU9ZblY3cU80WFpWZ2RUdUlVbXBtVlU3Uk41WDRjWXln?oc=5",
+  "published_at": "2026-10-27T20:08:15+00:00",
+  "sent_at": "2026-10-27T20:15:49.418462+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
