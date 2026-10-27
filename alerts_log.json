@@ -9756,5 +9756,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Food and household brands warn of more price hikes as Iran war costs bite",
+  "link": "https://www.investing.com/news/stock-market-news/food-and-household-brands-warn-of-more-price-hikes-as-iran-war-costs-bite-4976615",
+  "published_at": null,
+  "sent_at": "2026-10-27T18:50:50.202614+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

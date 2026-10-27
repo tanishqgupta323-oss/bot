@@ -566,24 +566,10 @@
   "calendar_fetched_at": "2026-10-27T16:40:49.292650+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 129,
+    "count": 130,
     "day": "2026-10-27"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T22:15:48.211269+00:00",
-      "w": [
-        "backs",
-        "economy",
-        "fed",
-        "further",
-        "hammack",
-        "hikes",
-        "rate",
-        "sees",
-        "thriving"
-      ]
-    },
     {
       "at": "2026-10-12T23:15:45.062678+00:00",
       "w": [
@@ -3415,6 +3401,22 @@
         "terms",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-27T18:50:49.258981+00:00",
+      "t": "Food and household brands warn of more price hikes as Iran war costs bite",
+      "w": [
+        "bite",
+        "brands",
+        "costs",
+        "food",
+        "hikes",
+        "household",
+        "iran",
+        "price",
+        "war",
+        "warn"
+      ]
     }
   ],
   "resolved_events": [
@@ -3437,6 +3439,22 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "629d10c6de2b0597fc0ca9c6a2dfdd85c273b8db7c8ccc493fa877d89f58d202",
+    "a2e71c1e91543bfa8d7d9e03ea2fbda685f294fcac6b41b1283597c656a63d26",
+    "56a0ea7859b4c14a3be18aae099797d1e05a5673c4ffd2634a7ee2198e22e713",
+    "16e7a0affaef8d0cd8b15a87aafcf2fd2d6717e3223ab0821a27ffcc0887cd2e",
+    "1bfd7335b491f8ec3763a6383707d36de2d9ae0c0030176fac663256b7d2aa47",
+    "f4fb9b6cfb0500298c7cfccfb5a2b65f619707b270e90f479b17cf8835e9ed2f",
+    "5ecad8aa920b22f047e49057bd4f1a02d53506a07c275e67c6bf96f49ca74d1b",
+    "02c1d4d93e72474bca3bb5ef61f3c793dedbc37762c07c9d151d4f1faebb3d1f",
+    "b1ec9ccb5f859e8274385fc172aedeed925de3ad98898a18c141676e131718bf",
+    "574a109334b1cee3f279dadc985d22c9f42545864e7330bb30607d9eeb39484d",
+    "bc8378a79c8d51fa664a9e9c574c229679451fc86c3e015d05cb196b10394b8d",
+    "cf516d61d7100065b28d08d76181d6678c96cd7dd557307cd9116c52bb376cc4",
+    "32ed0c2982d7cfae12a1cc5659f5cd26f92c0ae5914a3cfc42cce88d08c4c983",
+    "9ffb854b1e3e6afd95be250baa726fac5dddaf184110f717ea28d55f2225fa34",
+    "c15a04659f68055810c34b57e31ea32f4bfff20537ba9518c11a2b5dc2877b38",
+    "2d7dfe97f26cceafa9c1eb44c40c2531165f1ea95190315fbb774697f0940453",
     "dfae0a3a24d159d69102a6b984562d8f5fe8e8a757303576cba2beae4fe3e607",
     "cb8fb161c8f25ecc287832d02d1ed04aeda1e50cfd6c5099962693c22df2e32a",
     "fdcc11be9afd5da43518caca222e7921f15defd47c4e9047e8cbac6a55df7dea",
@@ -4420,23 +4438,7 @@
     "ad85d18e094a9d34e3c3f2d281f0ac24effb0ea270d702bf48b7288a4e696459",
     "8e43a749ba57643d472a7e483116c4518b89510f5340e63706294ca647dcbc0a",
     "e111bb163766070832ae3892e1bcc14548feba574dc4e9516d6eb8516dfc541e",
-    "89949fc1414aa20376e146f42ed735217e42797d17c3576275729b900a5798fe",
-    "dd9edddcbec3e3db8409e01c3a36377ef6a2f5938b9e3ccdd6e8542cdf9cbc24",
-    "58073d547844083d7492547906457bd0f2afc0b92d97a187997f39b1cd08ca94",
-    "7105d83675cddfe4777898307d1bb175d11a0393a82c0b124b184c2e5afc6710",
-    "2d0f071f44b60baa0dde69d57aa1cc12bc7b36a5e28836aeb200f2f39ba53f9f",
-    "e152302b9e1f967331319628e2e3d1edb205f31a8674840a24be31badcd04ca0",
-    "2e119a5a84c64f07afda19400db5ded7e46822c6b87b218d04daeb83dfac04d4",
-    "292404d76000c45d446d3f0cf14330b551180c1bc3ee816c91eb5df4a67a011f",
-    "dbbe18fed24016a06f330834c05b5d479464d18c880bc172bb84a86066aae313",
-    "a8ef45c9808dbcaea97b7002566cbb915e85d947591b2a0f7320349ee89eb7e2",
-    "470d612891867caa53dd3d24539fa16c69c56f0f3d516027f15b1275f13f7025",
-    "a2759d349f67bb40ef3b996f934587fb4b98ac58e283216300a65bb82a3d2783",
-    "1e14756488c7e3413cb3f7a9cabd7a37f190cca6393f91aca126e9baabd9138a",
-    "5c4f999825928c6c957b630e0b70473bacdde5005a93ab6d7dedec76c7bdb575",
-    "ac7b72ef8fb5890984109001f8f5e46478c14370265f2cfb82ff38d3a8f407c4",
-    "2a3c67000b021e9be47138d946d247ec4e154955e3ed0765079374ebb314ca4f",
-    "9a45fd34f9b2b04f4b45b3559725af713dc3d1c420eac15a22eec928c3e59117"
+    "89949fc1414aa20376e146f42ed735217e42797d17c3576275729b900a5798fe"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
