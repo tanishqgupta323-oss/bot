@@ -9800,6 +9800,11 @@
     "EURUSD": -0.0334,
     "XAUUSD": 0.0368,
     "BTCUSD": -0.0705
+   },
+   "60": {
+    "EURUSD": -0.0445,
+    "XAUUSD": 0.0,
+    "BTCUSD": 0.0092
    }
   },
   "checks_base": "published"
@@ -9817,5 +9822,26 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "ICYMI: Fitch sees Fed hiking to 4.25% in December, says US credit outlook still benign",
+  "link": "https://investinglive.com/central-banks/icymi-fitch-sees-fed-hiking-to-4-25-in-december-says-us-credit-outlook-still-benign/",
+  "published_at": "2026-10-27T20:19:38+00:00",
+  "sent_at": "2026-10-27T21:10:54.689484+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0445,
+    "XAUUSD": -0.0123,
+    "BTCUSD": -0.1076
+   }
+  },
+  "checks_base": "published"
  }
 ]

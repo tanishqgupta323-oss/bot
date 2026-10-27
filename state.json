@@ -566,24 +566,10 @@
   "calendar_fetched_at": "2026-10-27T19:45:44.845125+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 155,
+    "count": 156,
     "day": "2026-10-27"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-13T00:20:48.521444+00:00",
-      "w": [
-        "200",
-        "below",
-        "dollar",
-        "firmer",
-        "gold",
-        "higher",
-        "oil",
-        "prices",
-        "tumbles"
-      ]
-    },
     {
       "at": "2026-10-13T01:59:47.852142+00:00",
       "w": [
@@ -3421,6 +3407,22 @@
         "week",
         "worries"
       ]
+    },
+    {
+      "at": "2026-10-27T21:10:53.713200+00:00",
+      "t": "ICYMI: Fitch sees Fed hiking to 4.25% in December, says US credit outlook still benign",
+      "w": [
+        "benign",
+        "credit",
+        "december",
+        "fed",
+        "fitch",
+        "hiking",
+        "icymi",
+        "outlook",
+        "sees",
+        "still"
+      ]
     }
   ],
   "resolved_events": [
@@ -3443,6 +3445,25 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "81fa0eaa82794fab3e4653fe562a5bd5b42771280a07821b278dbf31104cbe3e",
+    "4715f770cd01e07c95a24504681067dfa78f67513757dcc2b8f3a8b43e77e216",
+    "01509d3871bd3acdb203c0e591d1270ce5e3dc0eb3f3f39e477bde16dc329a51",
+    "78ea3a3ec0d17d415ca00280469a1f832725bee7b44d508f1b9a9484f8a95aa9",
+    "682bb140dbb9a1ad8e753a5580aa1f775ab9bf061b687a12efaa1a3c61d8237d",
+    "77eb26273b5f2c1c15c9613fbfbdf0ae25563b59c552541e265883848bbdf8e1",
+    "ec414640bdaddc122808210c2ca90708fc0065fe11138cd48d4e5aa63acbcb65",
+    "86268e203b660cc439c27f3fbcc6316aa810f719ad935a070529da0416484356",
+    "64351bb15d8e35c66a4a497642ad31889bb12226c65611a6d104750560f74ec6",
+    "dff3ce91e5fa43d5a43c74664af7dfd068670ae2c8df8929b6bff7a20bebf748",
+    "fa74ef60a6b0a3595ebcb380dfe22545490747282bbe73a0de589836a371a0fd",
+    "e53fb86ca118715e146653a5740d0c819e940fb7a30a771516dc9f4eba250e22",
+    "564c2b7c1be1353bfd34c21f9492106ae7ca2df2f1970d616a256ffc3258875e",
+    "fec60070bdcfcc8315346f9cec6e484d8324a1302606d1e2b558166232015076",
+    "399c1271b3e650200cea45cb937e852cdab24140059466f1075688144060ffee",
+    "4b6b065f9e0f64898f7a4e063b0a3cdcd5f38b224de74aff4ba6170a40825f6c",
+    "157b2a952e937f7295b6e74b8c16775c6fe24d3fc595dd3c1058eeddd96eddb6",
+    "cf518bdf5373e1190f1335df46cee0ddf5ade862871b0785070458914dd55c35",
+    "fd087895183ca9a2948e01ba88608bfeea9c950b1fd143e9bc8f8c2b73651fe9",
     "82d118ad7c9bfb6c3897c7a07b650b8030b4a3f6b7f2af22e5bc93e0ed77f668",
     "6b5e94957695da7b228588fde01d30c8514e0bb496d2b0a9dddf02c699b3ff9b",
     "79ac7c41981eadac948a13498e93ede7636587af736b2e57cbcad99daf270809",
@@ -4423,26 +4444,7 @@
     "4a5338bf0bd8949d2bf2f2f5ee781a114d0a19037e62015b89ffa325f42983ff",
     "cecf40de9754757609a4dee912e36ebc19dd20a35690a0c6c8b22b6c383edd14",
     "ea6e172fb46ef027cfe47ad1251ecd1e0cfd1e488f6e4deb8b6b7b610a4c1b77",
-    "24cc5212c8634fcd7e98d985f57836bc42b3d32c758a0dd220323587d970e759",
-    "93a7a7a5af5eb9761adfbdc942aa7d5138db1e595793401b49167650186cf1ea",
-    "fba2dfd1940df06fcefdc2686de7c4587369d91a7f45ce051e80ed6673fb6775",
-    "2cb7e9a417f697ec6f76e18f3714682717abd14ddccf05b97196a8fdc59129a5",
-    "5d90eb4ff8407a040c8f4aa05d68c2a9c0788dbe0fcc69b1b8e7173f0a3b3808",
-    "6d0cc994308fe2275ceae9e674f41191b35402fbf1c8ecb9db0b3204aecea13f",
-    "9bb4a1732097c68af5a981179b7dccaa2cbc705b4552de5bd943ccf0eb3d478c",
-    "b8240aaae11113319e6ca1fb28d51ad6a1a63c6b07be144e42ff202260f0f881",
-    "02b4f52f459faef3a35ba9c5e38433e6f9a9adfec29e9697de28b851ea1d009b",
-    "7f589a6b82b33fdd87ce725c08056608454d439370a1a46cc1e51020fd26fde1",
-    "1812d4359a141e220fda7e09cae81d5ebd5e4c3988a56f5f36ad29b336107693",
-    "c3bccb301d643f54c2cf6b8d6cd965be651e25caf65f652b1cb2c58cb92385cf",
-    "54773d401233d74da9765cd737a273b78b7857f16abdfbf0d14498a5e72accf5",
-    "d94ccf93dbc4e2b60a3f2927d33730cb3bed577f784226d88172e02641f32260",
-    "a49e72ebedb46e917e0f33296157e5f5da4e41ea665366d6fcf52c94d325fa1b",
-    "a7fad5bb7460825b3f3b7a83345cd4e85fcd0225f83193943989c8ddd4b9a6ec",
-    "f361787b276759efe212c7d17548a98faa629a5a28abbf36be8c16a0626ac054",
-    "17af423beb56d84258e64c6b638a7f3a2ef9411c63e6efbec1f2798ee84a0694",
-    "ebb14b4df1e1f0af808110e2530002af9af064edc75fa08bc5175a918aafc906",
-    "53532192f821797abdc8feab87fd85273181daefa0a5ff4f5ebd8b4b755d9f41"
+    "24cc5212c8634fcd7e98d985f57836bc42b3d32c758a0dd220323587d970e759"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
