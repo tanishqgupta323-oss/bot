@@ -566,22 +566,10 @@
   "calendar_fetched_at": "2026-10-27T04:31:08.271893+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 4,
+    "count": 5,
     "day": "2026-10-27"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T17:31:08.097851+00:00",
-      "w": [
-        "calls",
-        "fed",
-        "hammack",
-        "move",
-        "policy",
-        "quick",
-        "restrictive"
-      ]
-    },
     {
       "at": "2026-10-12T17:55:36.659041+00:00",
       "w": [
@@ -3413,6 +3401,21 @@
         "strategy",
         "weighs"
       ]
+    },
+    {
+      "at": "2026-10-27T07:20:52.356767+00:00",
+      "t": "Fed holds interest rates steady as inflation hits 3-year high",
+      "w": [
+        "fed",
+        "high",
+        "hits",
+        "holds",
+        "inflation",
+        "interest",
+        "rates",
+        "steady",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3435,6 +3438,9 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "b99bf818f0c429a9fa3a24601e9d21dea1f47dc5c770cd03b8ac42c2e1f71109",
+    "2130440d719acd547e44c1ea8c30e5ecba39bf6e015801c6a61bb0febc52f05a",
+    "77225c5e7ce98b28dc69e09b5dd89402f1952fda6c9b790b619356470599e99f",
     "6b5e94957695da7b228588fde01d30c8514e0bb496d2b0a9dddf02c699b3ff9b",
     "82d118ad7c9bfb6c3897c7a07b650b8030b4a3f6b7f2af22e5bc93e0ed77f668",
     "ac24378e764dd1b85a483163dac090c924a2c71f8ae78de97f1738c3bdf7a433",
@@ -4431,10 +4437,7 @@
     "4551cf686c2fb52e5de5a49370fac1a7808e5fd391aa14e7b2c83d0449c95002",
     "d94ccf93dbc4e2b60a3f2927d33730cb3bed577f784226d88172e02641f32260",
     "53b33498f9d652e916a3ac2dbe8e70e6a8d5544ef3f5300c7a88b02283225706",
-    "d989c1e79e8bfa1cf463e1e8a7c092fe2271a7cf6015f25aead6d95c6e6594dd",
-    "007f70531ff0bb968e575a2a3617ec84b2a17a331327aef049f8a7fabe27a664",
-    "d617f09d9eea972b86c1b7dbc63d7b9b5f54b5f1d045261bdbf3a7a3a8523688",
-    "2b32c46877a6c1ed050899903cb3f89b8fece621b51f94fbdf497b4d16bd2c11"
+    "d989c1e79e8bfa1cf463e1e8a7c092fe2271a7cf6015f25aead6d95c6e6594dd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
