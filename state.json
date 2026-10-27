@@ -566,28 +566,10 @@
   "calendar_fetched_at": "2026-10-27T19:45:44.845125+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 154,
+    "count": 155,
     "day": "2026-10-27"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-13T00:20:48.521444+00:00",
-      "w": [
-        "000",
-        "bofa",
-        "fed",
-        "gold",
-        "hawkish",
-        "hold",
-        "iran",
-        "keeps",
-        "oil",
-        "sees",
-        "shock",
-        "struggling",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-13T00:20:48.521444+00:00",
       "w": [
@@ -3421,6 +3403,24 @@
         "risk",
         "sees"
       ]
+    },
+    {
+      "at": "2026-10-27T21:01:21.985337+00:00",
+      "t": "Dollar hits 2-week high a day ahead of Fed decision, euro slips on French worries",
+      "w": [
+        "ahead",
+        "day",
+        "decision",
+        "dollar",
+        "euro",
+        "fed",
+        "french",
+        "high",
+        "hits",
+        "slips",
+        "week",
+        "worries"
+      ]
     }
   ],
   "resolved_events": [
@@ -3443,6 +3443,19 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "79ac7c41981eadac948a13498e93ede7636587af736b2e57cbcad99daf270809",
+    "84feea6838a17d4ecb63f8d83b9e79ca2b386d1018f377d0a41128adaa5ca5f8",
+    "7801d99f1a786c50bcdd80ba5f7a5315c24c283fb9ec94d219563cbf0afbca6b",
+    "bd14a265f5f702f4d6422ade70bed173377109c3c3f5216c05ce79915c194001",
+    "c6c0d6684dd72614f0998d3b6b374bf07c8e8d745fdbd9b43a292e4b5e12fc7e",
+    "e306cc0b285ed60d5308e8309876be296c4138a45da1651a15c0598118099aa9",
+    "09c414db3d4350fe598a16b9295f78bfc9adbef06be824550b3a68ccf52fe768",
+    "ae8275a703534b85314062357875ecb069d66fbadc7ba171d1c28ead495c5db6",
+    "2c800f02dfdd1a522f52e763a5d9a7918f4b597edaf79e6408b3723e422c91b4",
+    "f26ae26f4b70d1e7303841eb2caaa2b8600198e146075549309d8705f3805f23",
+    "fb2b7845e93de50abe1ec8b8c0fd6a4595a31d6b0b2e8521eea37ad25850cd22",
+    "68231e99989dd861f5db8bf8a4e699c2e0dccbf67e73e0c5508e9deee0444f5f",
+    "19f4bec7b1e6b007e6b4ccc3f3d173fbb2705b171d2e6d879fbf72ed28c9c07c",
     "479298072c93840a819c943b853e782a0031d8faf36ece6c5fe56d4feb3760b3",
     "7029b7d1c33446f972251058cfd5a3514aa6858f764e81a71a997b55ab217d0b",
     "638539221b782d795c2efc88bae1fa4e5d1b3615b43a085e6537587036316da6",
@@ -4429,20 +4442,7 @@
     "ebb14b4df1e1f0af808110e2530002af9af064edc75fa08bc5175a918aafc906",
     "53532192f821797abdc8feab87fd85273181daefa0a5ff4f5ebd8b4b755d9f41",
     "9ae7dbc5664730695367651fa50d09513787ca01c0d0c24c831fbecee821cab6",
-    "b99bf818f0c429a9fa3a24601e9d21dea1f47dc5c770cd03b8ac42c2e1f71109",
-    "2130440d719acd547e44c1ea8c30e5ecba39bf6e015801c6a61bb0febc52f05a",
-    "77225c5e7ce98b28dc69e09b5dd89402f1952fda6c9b790b619356470599e99f",
-    "6b5e94957695da7b228588fde01d30c8514e0bb496d2b0a9dddf02c699b3ff9b",
-    "82d118ad7c9bfb6c3897c7a07b650b8030b4a3f6b7f2af22e5bc93e0ed77f668",
-    "ac24378e764dd1b85a483163dac090c924a2c71f8ae78de97f1738c3bdf7a433",
-    "20258993095f4100738f813978d29baee29b67d661d6eb9a0ffc124497e101a6",
-    "666e084279842b39c1222c972fc871c4e9ebade8c92644830de2603e230267c7",
-    "172b4b5c2cc231776f2d4d7a2ed2d6a56c35c6e79329fb127446e8d17a17b8bc",
-    "6fa91abbf1a5a7e2723aa6cdca0960e699f349c78da64c4e07c158b09e81bd5e",
-    "40bfc412a33f79d60e4f50ff363d3c72158582d1854a177d4bdd19c147747143",
-    "77193f4b1afc8bf75e12b8606f935647fb2e7316bc9c08aaf263e554be029612",
-    "efb06a6b6a4c20ceea4109fa2bf0a2c6283884163b67e0f920a8791ee041aa3f",
-    "2070586f8f482dd58bccd014eeacdb29fe6313c0fb0e8748b4fffe1c742f308e"
+    "b99bf818f0c429a9fa3a24601e9d21dea1f47dc5c770cd03b8ac42c2e1f71109"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
