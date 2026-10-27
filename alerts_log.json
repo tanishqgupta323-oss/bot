@@ -9626,5 +9626,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The New York Times",
+  "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd05yanVUalZUaF96N3JPYjQtOHdSX0g5SXhxZ08xV1NYRk1yN2lwTndDMXZXR1NUcXFmdmVsenlIbWRMalBfXzFtSk5tVl9hdjgxQlhDU2V5VzJPTWlEek04c3lnMkt0bVFXZ0Q2a0praUUyV3BtbTlhaVBoMFRielVkV1pTYnlPMGVod1ZHMi0?oc=5",
+  "published_at": "2026-10-27T07:59:00+00:00",
+  "sent_at": "2026-10-27T10:20:49.707929+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0446,
+    "XAUUSD": -0.0424,
+    "BTCUSD": 0.059
+   },
+   "60": {
+    "EURUSD": -0.0558,
+    "XAUUSD": -0.0873,
+    "BTCUSD": 0.0813
+   }
+  },
+  "checks_base": "published"
  }
 ]
