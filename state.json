@@ -566,23 +566,10 @@
   "calendar_fetched_at": "2026-10-27T22:45:51.411223+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 185,
+    "count": 186,
     "day": "2026-10-27"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-13T01:59:47.852142+00:00",
-      "w": [
-        "dollar",
-        "geopolitical",
-        "high",
-        "holds",
-        "month",
-        "near",
-        "rise",
-        "risks"
-      ]
-    },
     {
       "at": "2026-10-13T03:40:47.407807+00:00",
       "w": [
@@ -3423,6 +3410,19 @@
         "sees",
         "still"
       ]
+    },
+    {
+      "at": "2026-10-27T23:55:35.360026+00:00",
+      "t": "How the US Navy could enforce a blockade of Iran's ports in the Strait of Hormuz",
+      "w": [
+        "blockade",
+        "enforce",
+        "hormuz",
+        "iran",
+        "navy",
+        "ports",
+        "strait"
+      ]
     }
   ],
   "resolved_events": [
@@ -3445,6 +3445,7 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "e81aa920f5e7d9b12e81f19cea7716269123acf1b5cfb5bfd69e80d59c534354",
     "0ac179bdf4a432f14b1ba0e212cf5a1309a8d5f8b1ae1670509266ead797524e",
     "85c79a79c620f033e78854122da58c81d5aeb54487022e7ccf4b4d7821217857",
     "659a7b0deea7c4b4e3e3e7d471fec0439ee70f78c11e936426bdf5e6951a9042",
@@ -4443,8 +4444,7 @@
     "4ba0c8b9990feaa05a3c602e7da029c5b247ca4571bbc45ae876ed1ac8060d1e",
     "4f76c1f2c9000559112f5687b458f7beb5c5594e854269efafad48ced84a18cb",
     "53dcc8ce882af295590f21972db746bb00f464ff29b9bf0e2e03697d9078b01d",
-    "3f0949311d3b2d26f673e396d0ba8d01f886d464bd042bfbb494729551033e1a",
-    "1f82a8ce020b6c3f6a813f59b900eee03b2e035a57c628664f5e2e7d8ac4057a"
+    "3f0949311d3b2d26f673e396d0ba8d01f886d464bd042bfbb494729551033e1a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
