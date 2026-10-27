@@ -566,23 +566,10 @@
   "calendar_fetched_at": "2026-10-27T04:31:08.271893+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 242,
+    "count": 243,
     "day": "2026-10-26"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-12T16:10:49.278577+00:00",
-      "w": [
-        "ceasefire",
-        "dollar",
-        "energy",
-        "fails",
-        "high",
-        "hits",
-        "index",
-        "month"
-      ]
-    },
     {
       "at": "2026-10-12T17:25:44.327104+00:00",
       "w": [
@@ -3411,6 +3398,20 @@
         "tanker",
         "victory"
       ]
+    },
+    {
+      "at": "2026-10-27T05:31:06.098104+00:00",
+      "t": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+      "w": [
+        "brokered",
+        "ceasefire",
+        "local",
+        "melania",
+        "southern",
+        "starts",
+        "trump",
+        "ukraine"
+      ]
     }
   ],
   "resolved_events": [
@@ -3433,6 +3434,7 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "4f273a4e1a0c29fc1fc51ba12d8674938ad0bd5e168783de1efcd149e4949f4e",
     "567b50ba0e925901ba95dcce782eab29b3ce4afab503f630e006058b5066b52d",
     "39e17d9da5437d533d6e299f9e8386463fa145aaec5a5790e53e174cc3669061",
     "840a8e71717671fbe94364425fb58d2b7fa6765e0de6490a7defc9f67bbe5114",
@@ -4431,8 +4433,7 @@
     "309197922f3c841f139207aca16021aa47fe5d03d1419c41702e8f095aa52c74",
     "f2fe564b2995f2da4ae72b8cab01d60030c51598c705cf9c78b930c3bb91fae4",
     "2f24919491f804b3de00474897f17ce216c51cc6f28a462da7a1adbcd01fc8d4",
-    "bc508fb09bd8ed0f3bb840f5f11e072cc202eb097ee5096c48bfc5240b8534d8",
-    "d14f21b661c088958585fc258d44e48d23d8db5ed1fd02747b155f44c1b1a201"
+    "bc508fb09bd8ed0f3bb840f5f11e072cc202eb097ee5096c48bfc5240b8534d8"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

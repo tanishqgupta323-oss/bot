@@ -9496,5 +9496,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "NPR",
+  "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96c25NUTRRUWRJQ3doVDR3cTVmWnBPdTljNDRlUDlUTlg5QUV2MVlFWlhfSGk4Y25xeHdtZ1BQdkw1eUJGZGVMTGNCUWVXQnIzaXFDMnFTV0xWUEkyNmJRR2VIZUNiTC04UTFhblVR?oc=5",
+  "published_at": "2026-10-27T05:26:58+00:00",
+  "sent_at": "2026-10-27T05:31:07.086020+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
