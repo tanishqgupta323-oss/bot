@@ -10089,5 +10089,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "C-SPAN",
+  "title": "Fed Chair Kevin Warsh Announces Interest Rates Will Remain Steady Amid Elevated Inflation",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOFh1TkxQOUJnamMzRV9uLXlGa2RDRHNDZjFfaEhVQXhzSE9SaUREQ1BCX3B0Q3FNOHQ4MnJnTktkLTVSZmI4SFdrWE9QNk84Wm1qUVR1U2FsZWVJdTBjSENCblMwbmx0NVNsQzZPUFh2b3NNRDBMX2hjRmtJc1RSSlgwdDRrel85TExhcm5SNUlIUXNTemNTbVYyYUJVQWJtMUNXS2lUZWJRSzU1NDF0bE1abHFRcFJiM091NndZcmtXS19Ub0VSNmN1TVhkRXdvRWEwRVdTOUk?oc=5",
+  "published_at": "2026-10-28T19:41:06+00:00",
+  "sent_at": "2026-10-28T19:55:41.669909+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]

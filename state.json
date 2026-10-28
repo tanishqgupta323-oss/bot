@@ -570,21 +570,10 @@
   "calendar_fetched_at": "2026-10-28T16:55:42.959923+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 158,
+    "count": 159,
     "day": "2026-10-28"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-13T20:35:39.630852+00:00",
-      "w": [
-        "appropriate",
-        "fed",
-        "increase",
-        "interest",
-        "rate",
-        "williams"
-      ]
-    },
     {
       "at": "2026-10-13T20:45:50.131497+00:00",
       "w": [
@@ -3433,6 +3422,23 @@
         "rates",
         "unchanged"
       ]
+    },
+    {
+      "at": "2026-10-28T19:55:40.184379+00:00",
+      "t": "Fed Chair Kevin Warsh Announces Interest Rates Will Remain Steady Amid Elevated Inflation",
+      "w": [
+        "announces",
+        "chair",
+        "elevated",
+        "fed",
+        "inflation",
+        "interest",
+        "kevin",
+        "rates",
+        "remain",
+        "steady",
+        "warsh"
+      ]
     }
   ],
   "resolved_events": [
@@ -3458,6 +3464,15 @@
     "22afbaefb23667448d34c9d3"
   ],
   "seen_headlines": [
+    "b9beada4dd91122bf8ff4ab1a5b38ca53a473c06e780c42fb6da1df39f235d76",
+    "d25733141d9bcc361d6089c3acda8df30c8dce361b42eee5ff1a770095eeabdc",
+    "3c249dd6f0286565acf056d82e3dcd5d0f37eb830b2c452ff69fea5a282fc412",
+    "8808ffcf48062b63c63a1f269a9a85bf4433c7cdea9a9946b31721e57d9f554c",
+    "ed23832a36e347df8106bcba59d343ce78f91555cb7daab4787436a7801e8d77",
+    "66d1e68f170179b0ac15563983c26f101d1940e30fc779cf83daff3116481b87",
+    "891950fd1d58538e6dd602ba02c005060b4b8d8feddab9e5d88a1fe7a08618cd",
+    "53da80c1499173502c40a3de2f062594d27915e89d182d433ba1c762dd1d0577",
+    "a4a7a998a4adcd70e8d0f4ee9ddeeb20b31d0677e873eeeac5721ce815dd8792",
     "615aefc2b5b768f282b8482bcdf17cab73362b1c6f7804059ca22f320e8586eb",
     "6e05e4a5fd16c481c8b0d96ff3ccde7b13f229557d2dcd0503ef19ae103ca90b",
     "61b996839c14e24c6c70f142b8c6bfa6b8bc988e6a7dc884b647168cb0638994",
@@ -4448,16 +4463,7 @@
     "7cc60154651a0f355a45f42264157ee2182950fc1aad33aa289dd5f100954503",
     "951c99910abb12ec5e77ee53aa0a200df784458588a817846365560c37e04628",
     "336e4e0843619f1f47d7d5abf0732fa87d1f79e3ca406e44f05e54ecd17a7683",
-    "98f2173be7fe81399c4ec46ad0cf6d485c3032e1b90bbf59b6e425b6bd9938f6",
-    "0105b9428317e3da2c98fe86c46eed4eeb2486e6b7ba7f56bbf905c53d42ff49",
-    "a7fccb74485e818c1d784c7b78acfe59fc69b0f0a5cf3e98193b3b21bfb53738",
-    "03da69f11bbc092184c30c0d2150ba7428551ee1c2364f32c8bfa0cef0fca4b8",
-    "3683ce03a5d4b394abd18894b9aeb69f9f5e8ff947d9e4c107fa140883585431",
-    "ac24378e764dd1b85a483163dac090c924a2c71f8ae78de97f1738c3bdf7a433",
-    "8403c873a7140b4c7c73cf5d7972e38c9681888e79db92614365b9accf67d76f",
-    "4a21e7738594baf742fbf0921ea501ee57bf6cf8b17fc2f6fe702fb66df641ea",
-    "b9d55afe244c78a45231733cf5758c32f377fc16dbffaf795488d5e618a3e3e3",
-    "568f4f6f44492ead0b923555ecf29959821d093fc4b96b18966445d0157f3375"
+    "98f2173be7fe81399c4ec46ad0cf6d485c3032e1b90bbf59b6e425b6bd9938f6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
