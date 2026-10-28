@@ -566,26 +566,10 @@
   "calendar_fetched_at": "2026-10-28T01:50:46.781442+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 208,
+    "count": 209,
     "day": "2026-10-27"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-13T07:20:49.780495+00:00",
-      "w": [
-        "bond",
-        "dollar",
-        "ease",
-        "forex",
-        "high",
-        "month",
-        "oil",
-        "prices",
-        "retreats",
-        "today",
-        "yields"
-      ]
-    },
     {
       "at": "2026-10-13T10:25:47.999618+00:00",
       "w": [
@@ -3424,6 +3408,22 @@
         "war",
         "warns"
       ]
+    },
+    {
+      "at": "2026-10-28T02:20:48.985188+00:00",
+      "t": "Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns",
+      "w": [
+        "arabian",
+        "attack",
+        "concerns",
+        "oil",
+        "prices",
+        "refinery",
+        "reignites",
+        "rise",
+        "saudi",
+        "supply"
+      ]
     }
   ],
   "resolved_events": [
@@ -3446,6 +3446,17 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "27478135e898b92c200334d9edfcbda270c876e68497d1c218e74f260a0a2390",
+    "c7b2142fea9023385886f1216ed34772b96ee8166482f26c59497a3bfda28ff0",
+    "b79f1f6d62afd6aa946eb2c4744217ca4201d03d0e5d01cc76087a8762d2b2e9",
+    "f0968c36d2f64856b6461a0db4c9c38702254ac621029456cfb66813247fb71a",
+    "f0b58934a190d153d822b5dc797e4256330fd87a97ec6621b36ecc3d16d23b1d",
+    "ef1cece8e88f0b13849fc24e0f4ec4aeb37485be8c39ff77eaed2bb44f20a64b",
+    "eb9660e88080f0d4a712e83abeea858a61405aef184d00ce9e7bd0d842094613",
+    "a82f6707e9fee92b1c0684bc8e4c13192679eb92c053836b71edadc2eac6a95a",
+    "50812e44fab357b8d2461356a27d585d93cdb47ffd9715d791724d78c7423d97",
+    "c94a212da3f60abf89b0db9ce9b0325eb16f26b7aaaca6b60a7afa2881da283d",
+    "03d19694db11fd4fc2e1bbf16444d0cc07589c82fb13cf07c57f23002e2dc05e",
     "57d598af6450b838226c9942394f69c71b67f72dcc74cd4e03fe7093298c9643",
     "eddba2ba9d1896c80f7cb1221095d228c5657a5b94a4ac4b5439e579d6bd3770",
     "7b046110dd9fe5e1f864b16b1e2b3023549ba9e9f7904f30c5b7bf17ec83e229",
@@ -4434,18 +4445,7 @@
     "4727a1afa482ec39a0838c8a394682dda27b32486e0b62ed6275292543d6ac84",
     "315c42f0ce48cfba03783b4d95d2ca3ee4792cfe24dbadc6ff5b29675706f948",
     "17bff16e668596b01727bae30f7a1492d0645436cd64756f6a2acb0ee31bde06",
-    "21dd19500f1b7ae9fe122b0f84f6054b6232c564a97467e2970407d760489366",
-    "44a725224b4ad0f91d160f4435b09eb2cf5cd426d9b65936a8f9698ccdd9f6d9",
-    "d6c0892420ac75a7cdbd3e9ec1c31add777abba433ac52030837a417a35f122e",
-    "5cb8bc5116b3f9151b3df3644fedb488296564848c2337723432314ec97000e7",
-    "d632e246d51cdefb34b2032214d96ebcf65125e0873c0cfecd6340da6783204c",
-    "82083fdb502e14311cf073e77b32c8300b7d1c6668a5d7c0430e1ccc04543531",
-    "031109bd502c4e44a690cba261f860cff88e8648a4104cdb75407d4c642085eb",
-    "dbb9c8839eba770b4dc256142716ea88802583eeb4ea3a97227cd9764879c182",
-    "a3d6c7862fffd39888d3569d2ef10b46f3b974d9f4697a0839538d10e051950d",
-    "d779eb5f28a8fc7f2acdab3f5d3fcf2d9d76a55e5e9fdf51de6f8073e11f8e60",
-    "66bc7d10e1d61a71a6b6d438122f48f6a531b38c34c1d8161d5801a6af78b55c",
-    "633e6d67893cf821856ece8a621a5369507d43c8f4ca255a9faf341978794dac"
+    "21dd19500f1b7ae9fe122b0f84f6054b6232c564a97467e2970407d760489366"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
