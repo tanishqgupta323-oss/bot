@@ -566,22 +566,10 @@
   "calendar_fetched_at": "2026-10-28T10:50:52.415986+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 50,
+    "count": 51,
     "day": "2026-10-28"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-13T16:40:57.881669+00:00",
-      "w": [
-        "before",
-        "cpi",
-        "dollar",
-        "high",
-        "index",
-        "month",
-        "slips"
-      ]
-    },
     {
       "at": "2026-10-13T19:05:50.518075+00:00",
       "w": [
@@ -3427,6 +3415,22 @@
         "plunges",
         "treasury"
       ]
+    },
+    {
+      "at": "2026-10-28T12:01:29.786549+00:00",
+      "t": "Bitcoin tops $81,000 ahead of Fed decision as memecoins lead altcoin gains",
+      "w": [
+        "000",
+        "ahead",
+        "altcoin",
+        "bitcoin",
+        "decision",
+        "fed",
+        "gains",
+        "lead",
+        "memecoins",
+        "tops"
+      ]
     }
   ],
   "resolved_events": [
@@ -3449,6 +3453,13 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "12e3346df7e671adeb6b07b2a9a65443e46c84342c588308f3a9e08598f23ee6",
+    "c46d7901c0edbaba9b7317c18e695487c87d6da8af8d0816b15839f88e34e7d9",
+    "9b45df2dbfe1d82d877703a2c37402f7adecf7f560c9e1b432468e27b5f870a9",
+    "be8c5401970d6fc9d05060169d667178da285f938b97b6347b799995c96e198b",
+    "fe1aba41e1a0cdeb0f1484e6f38164fefae6c9c25e3717b731b0f1152587fa3f",
+    "1a6b71486212f07f4aa4dbf05bdbc84d6765e7bc939499f80658046de38ee24a",
+    "07080fc790949c4b90141906848bb63c51fc6e44ba104c67e38c2c2f6d7e582e",
     "3ed7a5e28fd60a9e0c6e9a3719658cd896c6f53d3963dd5be26e96fbb9659882",
     "f4a03fccbe6c6b94dc3588981e62ad68f2d926add1eb72e3ed58c56ad4012d08",
     "83494a1c0df17acb4c152970304bf04ff2d0c7a2c36e03189da6ae26a6bdb526",
@@ -4441,14 +4452,7 @@
     "32e556aa78d3d1e8ff39b4d62d11b0e81a172e96560b5bde05e6f0fa2fbb18f0",
     "8db4eda8ab1d85b6abc673afcd60e5056fbf61970bd7e655709eff56b5777a35",
     "3ad8c5d1505f9bfec19785e9e4ec603788f3072a14bd056d2378f9699d895b00",
-    "c2fff9f792bf7bb6b36dda25cbdba17bb96c1e436db860d20e71ef4d251a4df8",
-    "eb10362fa97104c4641d32404cd363c9e15524ad5f9da900697a570cdd3e9f47",
-    "daf92f4b66fd673e3ff59ea1f66eef96982f51d103aef723131916fceddc3632",
-    "809af8d6ad1b221bfd51e1d158cd0168915983aaf1c705204d243cb504691706",
-    "9b6e5b93de46e360279497ff5d62673bb31036d200d2c491fd27446a112a3c02",
-    "0e3004696d22febb82057491138f09d96a2296204b1d63d729b2da7baeec6f63",
-    "a7239bd169ab9370c8ab9960c8c74fcf3791f506e63f3c54ac9965e5aae72fe5",
-    "c8ecbfb5a2e5a769b2e34f312a82fb2527e104e85d2973fa6d9126c96fca10ce"
+    "c2fff9f792bf7bb6b36dda25cbdba17bb96c1e436db860d20e71ef4d251a4df8"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
