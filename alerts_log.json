@@ -10016,5 +10016,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "The Fed is expected to hold rates steady. How will Warsh justify that in the face of higher inflation?",
+  "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN3IyZkZRTDNZWTF4aU5iLVA3XzR5d3FKcmU5b2RmWUJEZnhod0VRMW9odmFqM0d6UkpXMW82VzRFUjYwZ19Tam42cVozYllyUWZOOFhGODdiUDJiaVZoYnNxdEtTZHFWSEpDVGZXNS1qblhzM0pBZGpOVnQ1b0hzbUNhWjFDUWtCdDB1MGlZYm51MjJlY0dEX1RYYjNHZFpGV2xVOTFhRS1xQ041Y09JRVh3ekM1S0dMeFpGNGpUbWtfT3dodUtoU2FuR1NRQlp0UE9fYnJqblc5bFdCMm0wT0k4OXJlS3YyVGZDY2U1TDg4dWV2dEdr?oc=5",
+  "published_at": "2026-10-28T12:20:25+00:00",
+  "sent_at": "2026-10-28T13:21:04.973076+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0223,
+    "XAUUSD": -0.059,
+    "BTCUSD": -0.3189
+   }
+  },
+  "checks_base": "published"
  }
 ]
