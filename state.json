@@ -158,11 +158,11 @@
     {
       "actual": "-",
       "currency": "EUR",
-      "event_id": "4d20bd55137cff40012cc56f",
+      "event_id": "b5f48d36013f7976fee870ea",
       "forecast": "-",
       "impact": "LOW",
       "previous": "3.58|1.2",
-      "scheduled_at": "2026-10-28T09:42:00+00:00",
+      "scheduled_at": "2026-10-28T10:32:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "German 10-y Bond Auction"
     },
@@ -563,10 +563,10 @@
       "title": "FOMC Member Musalem Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-28T07:50:50.680213+00:00",
+  "calendar_fetched_at": "2026-10-28T10:50:52.415986+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 36,
+    "count": 37,
     "day": "2026-10-28"
   },
   "recent_stories": [
@@ -3449,6 +3449,12 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "8e48ba521207c07a8af02196493b2be3b08d9da761d04d807feb5b650aecd547",
+    "a8d0587aa31f5360fabde9f47a3277954f13b0afe0c069a3222fa5037b3b440b",
+    "d9284680a0064a1ce3d0ac547e20fbf8d96cec7f3ddf82af9206bbeb308f4ce1",
+    "7935dcd5574bb8b893377602bf71f59fa75ecb1ba74763efa5ccf194c0960ed7",
+    "6353234cdec2d62c73ecc1148da83ae6557a3cde916470e718627a12290fef52",
+    "750abe5c2af944fc76b0284c181616218875000f432ba0d531c66bbae07f1c18",
     "7150c2c7db46d7c140b19664e874821a655084870998e687029cd800065c99ef",
     "296f096084811c690c654d4ef7dcf2bd8d420f71172b46d6788aec34f0fa1387",
     "16080a4571b3d2b957fc40e164598b530df20e15e87f941410efd96951fe9c43",
@@ -4442,13 +4448,7 @@
     "629d10c6de2b0597fc0ca9c6a2dfdd85c273b8db7c8ccc493fa877d89f58d202",
     "a2e71c1e91543bfa8d7d9e03ea2fbda685f294fcac6b41b1283597c656a63d26",
     "56a0ea7859b4c14a3be18aae099797d1e05a5673c4ffd2634a7ee2198e22e713",
-    "16e7a0affaef8d0cd8b15a87aafcf2fd2d6717e3223ab0821a27ffcc0887cd2e",
-    "1bfd7335b491f8ec3763a6383707d36de2d9ae0c0030176fac663256b7d2aa47",
-    "f4fb9b6cfb0500298c7cfccfb5a2b65f619707b270e90f479b17cf8835e9ed2f",
-    "5ecad8aa920b22f047e49057bd4f1a02d53506a07c275e67c6bf96f49ca74d1b",
-    "02c1d4d93e72474bca3bb5ef61f3c793dedbc37762c07c9d151d4f1faebb3d1f",
-    "b1ec9ccb5f859e8274385fc172aedeed925de3ad98898a18c141676e131718bf",
-    "574a109334b1cee3f279dadc985d22c9f42545864e7330bb30607d9eeb39484d"
+    "16e7a0affaef8d0cd8b15a87aafcf2fd2d6717e3223ab0821a27ffcc0887cd2e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
