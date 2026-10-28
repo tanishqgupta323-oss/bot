@@ -563,10 +563,10 @@
       "title": "FOMC Member Musalem Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-28T04:50:48.574624+00:00",
+  "calendar_fetched_at": "2026-10-28T07:50:50.680213+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 7,
+    "count": 8,
     "day": "2026-10-28"
   },
   "recent_stories": [
@@ -3446,6 +3446,9 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "0d4b9076893d4e621790d1324caf0fcd335d240923560036a411785a052682a8",
+    "c71e97c68cd927508b304dd01b4512bc0f464bdefcb9ab228ab1d921260b2d9b",
+    "dffeaa2450a8e31465447278ec30173c5b752af7c4aa160d5debdeb414d0bb61",
     "e2216bf8f490a6911d0c0c2b0e67e0c3a4601c80affc0553683d7883e21a2029",
     "f430023279302c0c73a36bb42df00c2a9974538f66d57ecd5e9512ee1981760f",
     "a87772bd170f4552eef3e144b131a7514596498a699183eba9639e616cb64929",
@@ -4442,10 +4445,7 @@
     "0d242bf6d7b73df8231f897d87aaa412aedb9369fbf3453ff5db9d9edc5db309",
     "10ca7595271b68026ab54b5f6ae290b2e00d70ed463aa2261cf9f6174ae90fe8",
     "b488f1fe529ca94c1a4ed784a320ba8aa00d2fed3cf9e898080d61dab8f9ef57",
-    "02d15ed81f0ea848d6cf262f0c5d717fe91bff3c203d90e752597561552bb24c",
-    "1954f47d2df2f88087960cfe7a02d57a0bf95885c5145cfe9efeb02d623d1ace",
-    "d8f1c12d8a51aae2e6a3d0691216d22ff12a8b216ba706fa172e284c55bcb1e6",
-    "aacdd17bcdef96c059fd5d1a73ba400f2d09c6b069137000baceebd34b361521"
+    "02d15ed81f0ea848d6cf262f0c5d717fe91bff3c203d90e752597561552bb24c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
