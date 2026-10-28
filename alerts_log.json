@@ -9959,5 +9959,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CoinDesk",
+  "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdlFBT0JIT3pTZjZWVGd1NVpJSlpuMGNlc01rQ2dqak9IdTZGUzR5LUp6QzNQWmFIc2hKWGYwZWFLbW1LQXNuSzV5UjJiQXI2UkxPSlpzRVlWSmdFcVFCLWpZMVdYSzc2N21LTTVVMldqNnNhQjhqWG5FaDJoeXNVUXlvME1UN2VET0dZYmw0Q2t4VmFqdm9ZVDZ2ZlVKRnlqcWtKT3o2NmFILVVLRkQzT2pQYVYwSnZsQ0ZkUWJrQWpQUQ?oc=5",
+  "published_at": "2026-10-28T05:28:13+00:00",
+  "sent_at": "2026-10-28T09:40:56.489559+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0222,
+    "BTCUSD": 0.0057
+   },
+   "60": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0049,
+    "BTCUSD": -0.003
+   }
+  },
+  "checks_base": "published"
  }
 ]

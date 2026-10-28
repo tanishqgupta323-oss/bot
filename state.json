@@ -566,22 +566,10 @@
   "calendar_fetched_at": "2026-10-28T07:50:50.680213+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 26,
+    "count": 27,
     "day": "2026-10-28"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-13T13:01:44.631684+00:00",
-      "w": [
-        "75k",
-        "adp",
-        "average",
-        "change",
-        "drops",
-        "employment",
-        "week"
-      ]
-    },
     {
       "at": "2026-10-13T16:40:57.881669+00:00",
       "w": [
@@ -3426,6 +3414,19 @@
         "steady",
         "year"
       ]
+    },
+    {
+      "at": "2026-10-28T09:40:55.540256+00:00",
+      "t": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "w": [
+        "access",
+        "bitcoin",
+        "btc",
+        "datavault",
+        "firm",
+        "plunges",
+        "treasury"
+      ]
     }
   ],
   "resolved_events": [
@@ -3448,6 +3449,19 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "4598c70ab2c76180a6009af03240700c69e0da7839ada96c21a21e6a6f188fdc",
+    "0b3b2ed9d85687beccbe3a21f08751b2971fbc188962b294c0cb9cd69df4dd4b",
+    "7432cc91b09a8bdc6c5a4e1323b0ebcb9771e9d2e36af3a5162280c49d8ea3b8",
+    "21a6caa8de5507a5a7db908015b4d62ff2619dd1b39ce4e9a2f916d475424bb0",
+    "9e2c1db2af16b18f717539d7ff51e9b62efc656a8e645b1352ad13633b6b7844",
+    "9763f2249740147dd7c4258487078293a05afc1d6976d8c5852024b8fe53b7e6",
+    "b9cd7a21f7a07ff276ecf6de1bc68eee0891e725df9b9b3a255cf95c35ebddc3",
+    "c2654150a40fb9c6894ce6d385de82912756161539deca1cd0a95d0e4f942571",
+    "3d92ef6949d044104c3889b9195f7952ee5914d39d0c8576899e4ce2089364c9",
+    "90c67b07568103db56174c244d1b2a4fa91c1037d6a5c26cf41e2cede248d5b1",
+    "a303587593f8ad473d97947a279d8b56981ba8f71509834f26e428a29fbe50d5",
+    "cba4f40c9882574816bef258d8066ce662b766ea51667c99f53fad65dce044a7",
+    "1dc37220950efd0a5cc138215dac1ff30ab89c392a25c6e680e55c39b0b7bebe",
     "26342809ec653ec2b526b297b8b4ec6c99ab76add555510705d64520ec04cc46",
     "90dae4ad537c8d13aa5acac0477f0c29aef5b4739db7ce7ff231552db206e8fa",
     "195fb597050a3bfd6183cb454489c6652e25fd4d31de4ec723f55a5b216b6952",
@@ -4434,20 +4448,7 @@
     "86ac2239819fcb8d12d48c3c495086799741cb350b6d9e8ab7c0043e050b5f23",
     "d6b24686cba60744dbc3991a5b5c1db436e6254ddeef5c3be5dd99b85d4d741b",
     "29e741253935839b23dc973f5b0aad9986d035f9e7bcfef495655ceec9d37df7",
-    "991f30db7d0c93f02b8178cbdd14f8ff60edd257083ee79e5fa0099fabf73a1d",
-    "de4e7209d2302d0eda7922b6db4f7c851f07ff8a177a0ac568fdae89a507c9f2",
-    "f6e59659f9961724833fa2346bd467cc8c4573877f17e88fd7df5a7235497562",
-    "7d634cde0cd447e5249fd078d824de7e26026c765547b49b63ed9967e79a875c",
-    "d5af0c486ea7a321cc0e1964b1e0927654dbd0b16885e2eaf22204aff3dac1b0",
-    "13ff142f823230854c2f0298d8d66374ba27580e5f7b1f8846550afd218d327c",
-    "02e6e5df74209c9abc89829553632d615aa009f1e9e9e09a3d984018309b4cc9",
-    "c705bdd1bd4d7f44600c71e11c267c5101d85c1bf1abbfeab24b9211297ab11e",
-    "d2c00d20802acdbaa062e14cee7eab98f968fe4415a5ae2b009e053b42c52f4c",
-    "3b5a5af97db4ff1414dd348db568d7fb5c718d91846f75613ceac85cc9266464",
-    "6e6d095c88e40509a4e942ff6ea59489a034333bde335550de39a4011cc9a505",
-    "51fcb0d4c124a19731f82b2519186b54403d2d17d24801f2cec1263d50d77a30",
-    "92175ec922893f25f9c48330744d55324a83a6b12c2d5fbc26ee3903ce572fa8",
-    "2244179da769282c1ca0a64415f8146e04bf2153efb2f758f7992efe42e52cd6"
+    "991f30db7d0c93f02b8178cbdd14f8ff60edd257083ee79e5fa0099fabf73a1d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
