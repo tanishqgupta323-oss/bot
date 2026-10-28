@@ -566,24 +566,10 @@
   "calendar_fetched_at": "2026-10-27T22:45:51.411223+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 199,
+    "count": 200,
     "day": "2026-10-27"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-13T03:40:47.407807+00:00",
-      "w": [
-        "cites",
-        "global",
-        "imf",
-        "looming",
-        "market",
-        "risks",
-        "slowdown",
-        "spiking",
-        "yields"
-      ]
-    },
     {
       "at": "2026-10-13T07:20:49.780495+00:00",
       "w": [
@@ -3423,6 +3409,21 @@
         "ports",
         "strait"
       ]
+    },
+    {
+      "at": "2026-10-28T01:10:48.587953+00:00",
+      "t": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
+      "w": [
+        "gulf",
+        "intense",
+        "iran",
+        "midterms",
+        "possible",
+        "renewal",
+        "short",
+        "war",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3445,6 +3446,11 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "0365f0ff6228054911698e6f5f23e76ead5003a25625aea8d05371f9a78356af",
+    "03eebf069b5f49c97d8ed28087eaa0872be34907639875fc1838a6f37ad99104",
+    "582bddf4ab7fd240616acdc11d6728c772ab0e700421288a65418bce1d0a1a5a",
+    "ffc6d6b6fce11077192b7c36e7eadbaaad91e826ae997815a31f26fa4bfbbf3e",
+    "69a7a3b3fc0f4d5bdb308b2f3f4fd218972b744f70d7fda0acb27eee65a449bf",
     "f99b1b39debe7239f5b05227503b5cf3da88b9795171906c3fb8247e3393fab0",
     "970d161aa27435c3505be70e472fd8609a63f5cc40bf7e6bd68506a8965576a1",
     "7a23389461af8f5e865968d56138dc0e60e19382dc82e9fe9c8e0714da878f58",
@@ -4439,12 +4445,7 @@
     "5543b10854dac97940f1a04ef31f8ff44c2d983c5b4a29b4bdc6f62072f790b0",
     "9233a207d474ab6848a7e4e5cb17eab3d7e42d88007b88b46284b03982999bdb",
     "9b7ac3f25dae61ee10850d6d01c88ed1566c532f7ee590a961c34b854f7b24b6",
-    "dcd649ec558809768fc471c2677a385aab6a63669487a845da1e73860d16dd6d",
-    "fe91e87cb5ee18dd098ae1671a7d34b81143ec2065f2389e7c300b3aa33560f9",
-    "a13fed44b595f05e76545b645e16a4766ce096bb42b0a544d3b80fa954f3c6b6",
-    "f3d135664d2e48eb203041542a535cac18cdd2f75c63056febddefbc0b643806",
-    "ac26e5b10fff219b2e36f4daa71373c7456d1c909a08aeaea32544359659e722",
-    "85d288c46b08e1ab4271d663bde230ddd76b549d8047c45f618fdb4914387a1b"
+    "dcd649ec558809768fc471c2677a385aab6a63669487a845da1e73860d16dd6d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
