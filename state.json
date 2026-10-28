@@ -566,24 +566,10 @@
   "calendar_fetched_at": "2026-10-28T07:50:50.680213+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 17,
+    "count": 18,
     "day": "2026-10-28"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-13T10:25:47.999618+00:00",
-      "w": [
-        "000",
-        "below",
-        "bitcoin",
-        "dollar",
-        "edge",
-        "falls",
-        "keeps",
-        "markets",
-        "strength"
-      ]
-    },
     {
       "at": "2026-10-13T13:01:44.631684+00:00",
       "w": [
@@ -3424,6 +3410,22 @@
         "saudi",
         "supply"
       ]
+    },
+    {
+      "at": "2026-10-28T08:50:53.972510+00:00",
+      "t": "Fed expected to hold interest rates steady but a hike is anticipated by year's end",
+      "w": [
+        "anticipated",
+        "end",
+        "expected",
+        "fed",
+        "hike",
+        "hold",
+        "interest",
+        "rates",
+        "steady",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3446,6 +3448,10 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "5f289c8e5a2c0c7d7a77e47e75de0f9635856e18de6a356141079afe2dcd09f8",
+    "5a22ac59ce2aee0a1180c4fe762ece5e66828714a35bd95142025bf13ae64878",
+    "6664ffb99ac989ac3d71a4e2ca5c8c8334d79b61d6274b3695fed5b35167ab12",
+    "c473e2521f66e4cb6d64c286b98298bbd05f66ffed8309e115f49514360860b4",
     "7bf73f19c180f38a7892efa461c82e629bc3f98ef7347204dadd18f856d0365b",
     "04f530d38f41a52e0fd79746eff096cf9b06fa326b4f58f425257601da82fe45",
     "9d9f33c4db6886cc103fe8c8154c8d069fb96cf7d9f9ab80658a7d2cd69b294a",
@@ -4441,11 +4447,7 @@
     "56cdf9ceb3169c022864017553bf362e29b4412530f3c69e363558366f47fafd",
     "d1f7339e381fca6e9af118bde3e5e4d1b409e20faef2139ec437e9e1c3baffdb",
     "fad5c5e8db70be545183e85f68ed6447d3d53ef69534615dc54be825b87ebd62",
-    "494bdd7f7fd2ff2bd95e2fad0a23adac20ae2eb953d2bdf2b3692856836abc77",
-    "1be711732702f6f470937ce6e099156933af8162c64acc1b4e2cfd1329f75f67",
-    "af3d442d25e4ba097664f25cabc70b9fbc72e2367ba0e05bc13b058c6bca8d4e",
-    "cc4d5e50076753742f1f6b4bf6b53042ace1ae2de62be221e8a61336e73d977e",
-    "52a73633e7ebed27df8eb342df30189d1a7c6c02976142e66c1b33c9dc0b3319"
+    "494bdd7f7fd2ff2bd95e2fad0a23adac20ae2eb953d2bdf2b3692856836abc77"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

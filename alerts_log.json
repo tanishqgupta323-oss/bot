@@ -9938,5 +9938,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "NPR",
+  "title": "Fed expected to hold interest rates steady but a hike is anticipated by year's end",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcWV3U05EZ3BBLVNkT0dMTS03cVNFYWZjZkdmTkJFS00teW1RZVBIUk4yV0NURmNQcEJsT1dZcUhHQVIzSGZjelR2SU55OXJRZEdDU3hqWkI4YnpfOG0ycEs3QTBYcUxFN0RlcXIxMHd5SXJSd2lEUEtjUmlfLXh2WGxUaDFmSWhvVGJ5QjBkcWVyNERMbDYtUkU1NktZSUNlMHNUc0htVFVzUTZWN3pzcjNTZk0yWkhmRlRlbHlMWDNEY2hQ?oc=5",
+  "published_at": "2026-10-28T08:45:31+00:00",
+  "sent_at": "2026-10-28T08:50:54.883809+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
