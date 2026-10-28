@@ -10120,5 +10120,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Kitco",
+  "title": "Gold price drops to $4,035/oz as Fed votes 10-2 in favor of rate hold",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTkVadUVFNW9aUUZEM1BhNnZBQ0k3M004YUdlemlZbldkZmN2ZXRaWjNnalI0VzZ3aC0tTERhWWxRR1RWZTlpaGZvTnFndnJxUEk1OUgyU3lKWkE3SVZFeUJNX2NCTWZ3WDA5TS01VTd0dmVIVFJ5akl0UHR4b3BVUzVnbVR4Sl90clRuY3FNdGF4Zmx3SnNpWVU5WHFVRGhqMFE?oc=5",
+  "published_at": "2026-10-28T18:01:20+00:00",
+  "sent_at": "2026-10-28T23:01:35.394166+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0557,
+    "XAUUSD": -0.1875,
+    "BTCUSD": -0.1916
+   },
+   "60": {
+    "EURUSD": 0.1562,
+    "XAUUSD": -0.1036,
+    "BTCUSD": 0.2497
+   }
+  },
+  "checks_base": "published"
  }
 ]
