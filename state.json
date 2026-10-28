@@ -570,23 +570,10 @@
   "calendar_fetched_at": "2026-10-28T23:01:33.052442+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 192,
+    "count": 193,
     "day": "2026-10-28"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-13T21:10:48.641630+00:00",
-      "w": [
-        "aramco",
-        "attack",
-        "bloomberg",
-        "dhahran",
-        "extinguished",
-        "fire",
-        "hit",
-        "houthi"
-      ]
-    },
     {
       "at": "2026-10-14T02:11:06.613799+00:00",
       "w": [
@@ -3439,6 +3426,23 @@
         "rate",
         "votes"
       ]
+    },
+    {
+      "at": "2026-10-28T23:05:41.262532+00:00",
+      "t": "Gold heads for its biggest yearly drop in 11 years as the Iran war lifts yields and the dollar",
+      "w": [
+        "biggest",
+        "dollar",
+        "drop",
+        "gold",
+        "heads",
+        "iran",
+        "lifts",
+        "war",
+        "yearly",
+        "years",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3464,6 +3468,25 @@
     "22afbaefb23667448d34c9d3"
   ],
   "seen_headlines": [
+    "7cdfe01ff4723448efd8ed3b557e5e9a8891bf0330ab8252a7c8094046e39b61",
+    "e3243bc78f6226a806b2db5967ff9a3effd4acea80abff6bbdfd7406b0824336",
+    "f9b3780ee7844205ea24a2886499fba74d2bd54957b65024e9ff284f00b82406",
+    "dba3fcc73913a1c14a56fc650c21677fb946263b0da87543d40b781e90d5c3cf",
+    "cca2f67f81728c345d88d178f013d97fee69d07da92401d073b9fcd7ea0ac54a",
+    "6f9cecf9354d695766c087f3f6b479754211a48d5165e0d73fbdf52ceeb6941a",
+    "0b42ba369bae75354357d536c992a4f94837ff116d372d65720fe5df17079837",
+    "b7488ca43ddc828db946073ac17969b638159bd77abe862139c4341b5f2b90e9",
+    "2c6e69dbe9147433ff964d8baf9e855bdb50c98afcc9d234a21dd9d5de3d469f",
+    "15e816f3aad343d010c5414b7fdf710e8ac182a6d0e730e4bcec9edfef05eb5d",
+    "1721e1f1ef05af87e54e6837f165f0c7ff137db0c24c0deb1ff9cf914d9ce1f4",
+    "5c632f165baaefe7f6469dd967300a8b22f93959defab8bf6ada000282fe5817",
+    "ede675e41d0128b6a3acff422bd5d78197804f9528012062e15486e4b1166ca3",
+    "60380d92da4727adf707378a9ebb981f2b30eedde618933a7e9cd4ef4ff9716b",
+    "4e95ad546c1642425d1662a3f3027061a8bcbb251c2d8ef72e4686e115d5af88",
+    "e9a51b087f1f5b67607fe44765fb1b0f0fa0e84911cc01d6f99385c20992916d",
+    "ab263b265f701f580782a85d237f84cacdb0b1f05d64367381fbebb12e0c7ff9",
+    "2af97e31da29dd34c11e6def000f3b2fed31495aa19a0ba92375877c0f0315c7",
+    "d9284680a0064a1ce3d0ac547e20fbf8d96cec7f3ddf82af9206bbeb308f4ce1",
     "fb79ad2ce21deec909610d07cc280b52ed75322bb7178eef54ec17a3f71a8a41",
     "101d6ac533032edf94cac558a7b9e743592e77111afb7c8d90723d81a678de8a",
     "096276f9d3c32627f014cffae5fb5a1606e6c2bb223258c295888c2dda9f9389",
@@ -4444,26 +4467,7 @@
     "0b20e24942c7f435b1491164540fee10e1ddcb23f345459663f3aa626e1a5247",
     "78158cfb9ac82d656f15235f7eed77f946d11c98878186cb49a26b19cf143633",
     "a6771d76201bc5b4c3308157f989c85a5f4863d389a5828c1fc893aa54bcf6bc",
-    "804a8b15a4da219af3932e3209d46340a87b1f52944166bb914b9e9932429d27",
-    "a326124eca50ba9cb485a91101f3b06c7b91d100a52dffd5dc0f4403881ccca8",
-    "ded29553bd4039b0b601a31fe7dd02d7fc13aaed1068cf10540c9460ae67b582",
-    "6594dee26754190735f5bc82572919b02b37a94ed9bea39aea0f4a685a5f2da7",
-    "39c1f6fc7726a6c285167d1e019f336b284c61edf2b75a6d866c174519bb24ef",
-    "bcea07c390d53228c727ebe454fdfdf68fc28ea0a1f34c21b22ecc6e3fecdee7",
-    "2edfd0f12dbd2b953ce0f5789ec254229ac690cd469667ab47aeb4ad1e896c0f",
-    "d606ed3b12ce3383160e48a196f73071f60a874457a595e432a18905848ebdce",
-    "16e7a0affaef8d0cd8b15a87aafcf2fd2d6717e3223ab0821a27ffcc0887cd2e",
-    "b8535c45d1eae84c3d191c1ee3ae6af7685f3e77adc78920d85acb372f33725e",
-    "66137c38cb63e31339e8cf6441453e523b9409fec8f9ef6a6396fcee65ecd8ba",
-    "2855da9424958eb19e13021285b413f3af69b4842da4bdfa555bbbe89f395c6f",
-    "55f24058b5fee0bfde6657e3be1eb0472fcc3424098e2b021d7eb1711f0611a5",
-    "3b695bba921ec1e828e5848e96393ea0143ef594e4b14ec314012c3ff00da8f5",
-    "0f286e15f232c942d4272aeaa389659b08eaf9d0bc360802cbb042cc5aca3f32",
-    "051cb815a133fa7eb6baf911a8167dfa6e02a81762dd32d5ebb4d0be9e8909e4",
-    "3ada064f4d805228d1550603bae119bd8bdd1bbfe377aebf00fdaa265f9ee9e5",
-    "dbf629c4fb8db7ccdcdf962824984b8e47f3c3b938322f593cede3cd6fac871f",
-    "8e48ba521207c07a8af02196493b2be3b08d9da761d04d807feb5b650aecd547",
-    "a8d0587aa31f5360fabde9f47a3277954f13b0afe0c069a3222fa5037b3b440b"
+    "804a8b15a4da219af3932e3209d46340a87b1f52944166bb914b9e9932429d27"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

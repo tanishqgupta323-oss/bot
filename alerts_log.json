@@ -10146,5 +10146,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Gold heads for its biggest yearly drop in 11 years as the Iran war lifts yields and the dollar",
+  "link": "https://investinglive.com/commodities/gold-heads-for-its-biggest-yearly-drop-in-11-years-as-the-iran-war-lifts-yields-and-the-dollar/",
+  "published_at": "2026-10-28T22:41:36+00:00",
+  "sent_at": "2026-10-28T23:05:42.633428+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": -0.059,
+    "BTCUSD": -0.025
+   }
+  },
+  "checks_base": "published"
  }
 ]
