@@ -192,7 +192,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "29119ce14891e4d3ef1b3dce",
-      "forecast": "-0.1M",
+      "forecast": "0.1M",
       "impact": "LOW",
       "previous": "-3.1M",
       "scheduled_at": "2026-10-28T14:30:00+00:00",
@@ -280,7 +280,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "acdec11b1a8d26b66fa9bd8f",
-      "forecast": "3.3%",
+      "forecast": "3.2%",
       "impact": "MEDIUM",
       "previous": "6.2%",
       "scheduled_at": "2026-10-29T12:30:00+00:00",
@@ -357,7 +357,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "43641884f3c7fc6acd2222b4",
-      "forecast": "-",
+      "forecast": "75B",
       "impact": "LOW",
       "previous": "77B",
       "scheduled_at": "2026-10-29T14:30:00+00:00",
@@ -563,7 +563,7 @@
       "title": "FOMC Member Musalem Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-28T01:50:46.781442+00:00",
+  "calendar_fetched_at": "2026-10-28T04:50:48.574624+00:00",
   "first_run_complete": true,
   "gemini_usage": {
     "count": 234,
@@ -3446,6 +3446,7 @@
     "988d43251560806efddc329a"
   ],
   "seen_headlines": [
+    "c44035e8d21ec18cb2a9d8f8321b49426d36ca4566a956eecc067ad5ebdcbbfd",
     "3e52dc9c663c6ff0f7ed14b83a96d98b8aa7a4aafa18ed39e2d7a3f416052ed1",
     "3014b715708b00c54e1a8e90f8500c7f240b7733d2b0afe22aff7780717aedbe",
     "b2545a604c57391654edca0a6310167f346316b38e7888ad8bd27aa9baa10f2a",
@@ -4444,8 +4445,7 @@
     "1d5c370be7c8fbce10ef21e48253eec4e7ade470f1f079d223d31ae9e30184a3",
     "bbe7d95519d5b986ba07b139f2f3134489ca9f5d6699535f273acfca694c7fd0",
     "f32c119172562134ac6b893540de3b8693fa72aeba37e33045bb5f9fdccf098c",
-    "0f4263ccf2a2a4d1ffd4efded6aa71c527e29a05fa9b2bd4eab726ff770e041f",
-    "44c32628bc250448fbc807a593881340ca3ee843d52032c2ad32966bb5d1d44a"
+    "0f4263ccf2a2a4d1ffd4efded6aa71c527e29a05fa9b2bd4eab726ff770e041f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
