@@ -570,24 +570,10 @@
   "calendar_fetched_at": "2026-10-28T16:55:42.959923+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 155,
+    "count": 156,
     "day": "2026-10-28"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-13T20:20:50.108076+00:00",
-      "w": [
-        "backs",
-        "collins",
-        "driving",
-        "fed",
-        "hike",
-        "inflation",
-        "oil",
-        "sees",
-        "september"
-      ]
-    },
     {
       "at": "2026-10-13T20:35:39.630852+00:00",
       "w": [
@@ -3431,6 +3417,22 @@
         "rates",
         "steady"
       ]
+    },
+    {
+      "at": "2026-10-28T19:40:52.392326+00:00",
+      "t": "Fed keeps interest rates unchanged, but two officials dissented in favor of a rate hike",
+      "w": [
+        "dissented",
+        "favor",
+        "fed",
+        "hike",
+        "interest",
+        "keeps",
+        "officials",
+        "rate",
+        "rates",
+        "unchanged"
+      ]
     }
   ],
   "resolved_events": [
@@ -3456,6 +3458,12 @@
     "22afbaefb23667448d34c9d3"
   ],
   "seen_headlines": [
+    "d6baa813b8ae704e7a03be398b0119dc299198aec13e824ae637db54c38360cd",
+    "22af66382829c0109a9727537c47c33a261f581bf37e0900323762bcb6e837cf",
+    "5efe10998191be2ec6971c8ac89c946ba3271b2967d38593b172ae93a2703c7f",
+    "e7110ea3fa5e150ad935af6dc6d35cebfe9c069f9e2ed1a4587e8fe610c8eba1",
+    "68e6ccb76bbc7518cd440a94128f9b4bd616b9f46b406effa7f945a0a8cf1c4a",
+    "29ac5409cf4c83bc2b4a4d854bf79562849012ed7644c84df03517eddef861fa",
     "a8b0af466e9258f752a1927bb97307de46f4a3653bba7c902c4acaa566e5488c",
     "5a8309b5e94e1641fcbbc9124aedf16b69d7d37e4b73c28ff31c140816ee8e6d",
     "37e45ef91a3dbe8b83ddae286861533d21de23d15dab1ec71130342b20ad9481",
@@ -4449,13 +4457,7 @@
     "8a9f6f1451e0c0bd07fdb4d83a6f16b58a827c6951f1b1d4a443965e6f68d055",
     "05ec25783d3b687372f1ed39574f3d2e0d3e2c879f78abc9958e68e047bc9125",
     "5795167ffa89f1bdace88e5f6d9658763612bf60204f0888c0b164677d0d84fb",
-    "64bc5830e7826013fe47e9194a161dddc46426de6a77af642cab67dd7f096fdc",
-    "61f6e27874a20aee1de24df7e5585627f20a186ce128a2e220848413551b7b6a",
-    "c74b5a9282433ec54e88def7ed9eeb9e3dd1a593db0c1629348b36eee0b2f4ef",
-    "f23bd7e970435903fb28348bde360bb0d43b8eabd861acf63ee868922643e24d",
-    "cd0ebb5dbddb481f68f7ac96b4639bba01012bb8257e04692807b327bd01ca18",
-    "93663bf05d6ca876aa58d34af119498cb1168a5e5d1903a9fc6bafcaeac5b69d",
-    "69d2d6ec58b3b69240d3bcf672e64470d818fcf022f907b8a28854efb573d157"
+    "64bc5830e7826013fe47e9194a161dddc46426de6a77af642cab67dd7f096fdc"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

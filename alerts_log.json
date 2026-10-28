@@ -10068,5 +10068,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WKOW",
+  "title": "Fed keeps interest rates unchanged, but two officials dissented in favor of a rate hike",
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNndmeU5lMWh1SVo0SEhKTG5ud3haUGJhcDRVc3Q0ZmROaDVLMlRFM3VaRzJKdExkYm8wX0lPNmsxdU1nR1lnVTdnVDQxdThpR3FGRENvOGZyUGJnZC1GRkFkRVBPVGRocWNxeVQyY0hPZm9wSEgtY2NnVGtlUjQ0Y18zeE56cjRDeTZnZkF1ZkxYZWJBTlVMVkdsT2Q5QlRKUzFZY3h6S0ZUSXZwTmYteGdxWTZFWHNCS0ZIYVFMd25SQldtdndDSHFESnVYZ3RnUXZpMWtHNGdONGxOZlpXNlFUNjc4RXQxbU16aE93?oc=5",
+  "published_at": "2026-10-28T19:17:00+00:00",
+  "sent_at": "2026-10-28T19:40:53.241509+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0335,
+    "XAUUSD": 0.3106,
+    "BTCUSD": 0.2586
+   }
+  },
+  "checks_base": "published"
  }
 ]
