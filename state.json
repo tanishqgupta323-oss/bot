@@ -4,9 +4,9 @@
     "92295bdc42711ae3d216f5c5": 7,
     "b16150e4fd92508a8b8bbe7d": 6,
     "b81a617dcd3d2291f102f6ee": 6,
-    "b901840c179ef598b0bc194e": 4,
+    "b901840c179ef598b0bc194e": 5,
     "e14761d8d9daf448f652d326": 7,
-    "f3917f90e15363a6dd6d12da": 4
+    "f3917f90e15363a6dd6d12da": 5
   },
   "calendar": [
     {
@@ -574,27 +574,10 @@
   "calendar_fetched_at": "2026-10-29T11:10:53.563320+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 87,
+    "count": 90,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T14:51:22.003206+00:00",
-      "w": [
-        "banks",
-        "bets",
-        "chips",
-        "cpi",
-        "data",
-        "fuels",
-        "hike",
-        "hot",
-        "rate",
-        "slides",
-        "wall",
-        "weigh"
-      ]
-    },
     {
       "at": "2026-10-14T14:55:37.473348+00:00",
       "w": [
@@ -3445,6 +3428,21 @@
         "reserve",
         "steady"
       ]
+    },
+    {
+      "at": "2026-10-29T13:41:35.855248+00:00",
+      "t": "US economy posts strong growth, inflation stubbornly high in challenge to Trump",
+      "w": [
+        "challenge",
+        "economy",
+        "growth",
+        "high",
+        "inflation",
+        "posts",
+        "strong",
+        "stubbornly",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3472,6 +3470,11 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "c4636ec8c288353e3ca78612660d47331fae4fc454e25cbc95effe8334ccfbea",
+    "4bf74c08f2eb39ad8dddf9f9f5203a0ea6e368a8a0c0848492229f4440001aef",
+    "d284e2ed6da0b439d4d72837fdf5e6c181a0bcd0bfc1da65eeb2a93b639f564c",
+    "076409645ee6e6ffffac3c18f68aad082b0947f4db879a1f7ed9af7eb226cea0",
+    "4d58c6b6ebd0d963c9f9632123ef83a5da86e4b1768253d9b57f33b6f51d4113",
     "7497035cb85bbf245c9b7f400da2b8b46afd08fb67d6455618550991da6d9575",
     "4ddb819cb680b6dce2b879c35bfe5d5a9f721056cc4f91bdd2b5b119e84339f1",
     "9655869aeca61b9cc434a96a39e8eb7ee82c7e4de570d8b0c6db99b5a86adf26",
@@ -4466,12 +4469,7 @@
     "86148bce931d5a45bd4907099a167aacb67a4a107ce180109142708a994a7bc3",
     "aea7860debe81c51739ef8b51edb7b75d57fff9cab3a1f484c3c315cee93a7d9",
     "0030f35660c64794492f4bb4509ad894ff33a1deea88c7e488365bbd1da12611",
-    "1955def41038abe46ce8f58cbc69527b0cf82bc7db510c55e53cb89b96dde542",
-    "04de6b2a43308408364d2882995091c4fa5ac50468497f2ae82ce26423e1d9a7",
-    "0a7e0ba1464921bdfa36d471e92be5e1e7c5371d5e83ad51e381f29f256d01fd",
-    "953a8b12c509ed9874c92d245d6567e37f8c87ea07166a433b4f7b2c1e191832",
-    "d6790c28de437e7a67c1b2462e4f73db20e7f9f3bac2ad55df433b41c557cbff",
-    "9a8143534c9a992f84d7176c38b00eaad4d4445759afe956477c9f1ce1db99c5"
+    "1955def41038abe46ce8f58cbc69527b0cf82bc7db510c55e53cb89b96dde542"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -10476,6 +10476,11 @@
     "EURUSD": -0.1003,
     "XAUUSD": -0.2573,
     "BTCUSD": -0.0569
+   },
+   "60": {
+    "EURUSD": -0.2114,
+    "XAUUSD": -0.1435,
+    "BTCUSD": -0.1948
    }
   },
   "checks_base": "published"
@@ -10514,5 +10519,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "France 24",
+  "title": "US economy posts strong growth, inflation stubbornly high in challenge to Trump",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNODVYRWV6Mm1ic1Jzc2d5dnFnYjN0b3prZjNIS0ZBQ0FKTHRsZE9pSUxnMEc0MkFuXzNtWW9Vb1hwdHpkNW5sLWRKSk9Cb0V6X3pZTkxWOHpQV0l2SlNid0xaVmZpVElfdFZ4Q0lwU2NROThTYmNlRTBoMkVfSm4xQmNvVGpOeVFXWmFUclI5TUtEaE9vVS1UZkdhV1lCRG5XZWdzVmpBTlh5eGc3UXZ4QW5LY3lxU3Z4ZDIzSDV6czlMSzg?oc=5",
+  "published_at": "2026-10-29T13:36:35+00:00",
+  "sent_at": "2026-10-29T13:41:54.851126+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
