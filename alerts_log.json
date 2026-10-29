@@ -10302,5 +10302,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Semafor",
+  "title": "Trump weighs post-midterms Iran operations",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeFRqMGRfeGxUcXRjRjlJR0ZHdEN4ZEVndmJLRGtXaWVnWUtacUVsdndQa01vUFhDMFdOLVY3S3JNQ21jNzFucEFqNDgxR0lCeEZsd0daOHBpWTNhQ3VodFN4cHNMaDZ6dm1lOEdnV1pRMzZCOWpIYlIybjJfeE5jVzdTc1BRLWdIcHdjM1BB?oc=5",
+  "published_at": "2026-10-29T08:53:00+00:00",
+  "sent_at": "2026-10-29T11:35:45.200564+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0669,
+    "XAUUSD": 0.5115,
+    "BTCUSD": 0.4584
+   },
+   "60": {
+    "EURUSD": -0.0223,
+    "XAUUSD": 0.2632,
+    "BTCUSD": 0.4526
+   }
+  },
+  "checks_base": "published"
  }
 ]
