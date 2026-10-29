@@ -570,24 +570,10 @@
   "calendar_fetched_at": "2026-10-29T02:05:42.744782+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 240,
+    "count": 241,
     "day": "2026-10-28"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T02:11:06.613799+00:00",
-      "w": [
-        "cpi",
-        "day",
-        "fed",
-        "focus",
-        "gold",
-        "hike",
-        "holds",
-        "signals",
-        "slide"
-      ]
-    },
     {
       "at": "2026-10-14T02:16:55.439460+00:00",
       "w": [
@@ -3443,6 +3429,24 @@
         "years",
         "yields"
       ]
+    },
+    {
+      "at": "2026-10-29T03:35:39.450983+00:00",
+      "t": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+      "w": [
+        "000",
+        "below",
+        "bitcoin",
+        "crypto",
+        "dips",
+        "fed",
+        "hawkish",
+        "jitters",
+        "led",
+        "samsung",
+        "tech",
+        "weigh"
+      ]
     }
   ],
   "resolved_events": [
@@ -3468,6 +3472,8 @@
     "22afbaefb23667448d34c9d3"
   ],
   "seen_headlines": [
+    "dd74760b71eb209c7a7b1fe0d09cae444ad4cf428a501e1e397727e084fa3cf8",
+    "119295fb94d705f82bf41835008ab9b27eb2a1ff80d9e19f3577d9d3701727f3",
     "404ba1ef8a968130f004d063cb0551abbbd177a1815792e0942bd2f402b0086b",
     "c3b63eb6a5ddae4b0c82746b4610deba654a3e09e1b41615b24c2bdae79e99cd",
     "2b4b14f54a245eefaba182cc3b9de924e3c393c7b0e3ac11f22f85c382d47b33",
@@ -4465,9 +4471,7 @@
     "83d29cdeb331c2a3cbd7ed40705495ee6718a848414b18c76b67670614241613",
     "e3d72a76c44675c648f13d822da6ccaff5b053d4b07d9389120dacfb0d1b7b5c",
     "582d536b56710c58a67be79315eddbd4e927593b52d915fc2226ec5b857bf9d1",
-    "bb79b37a4c295593227299302a0934f0e577e915d113bf1ab83e7a02ebe2078b",
-    "930ff156ea6160d2f01f3384b89ef374c9ff30b87243fc89b7935a49d37beae3",
-    "643d0cb02cb2857c056622ca4c2e75718cd717b1791760c99384720161a79e05"
+    "bb79b37a4c295593227299302a0934f0e577e915d113bf1ab83e7a02ebe2078b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
