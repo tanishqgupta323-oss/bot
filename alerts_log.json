@@ -10670,5 +10670,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al-Monitor",
+  "title": "CENTCOM chief briefs Trump on Iran strike options",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmpsOXVncmRBSkN1djBTTVlqYTlsdy1NU2ptYTdUUU1zVEltRk4ta2NzNkpXWmwxUmY1TWd4WGhseUdvWjhLU0lKYjlzUkl5eEowcER1ZThDWVhDNWRpSlV3RVNGUUFmejZnejN3a0VCSVQ3aHd3ejljdUt2Ul9SdlZ3Q1c4Tk9yV2RLMkNhZlU3NldsaVE?oc=5",
+  "published_at": "2026-10-29T20:38:27+00:00",
+  "sent_at": "2026-10-29T20:45:52.425660+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
