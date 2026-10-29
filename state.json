@@ -4,9 +4,9 @@
     "92295bdc42711ae3d216f5c5": 7,
     "b16150e4fd92508a8b8bbe7d": 6,
     "b81a617dcd3d2291f102f6ee": 6,
-    "b901840c179ef598b0bc194e": 3,
+    "b901840c179ef598b0bc194e": 4,
     "e14761d8d9daf448f652d326": 7,
-    "f3917f90e15363a6dd6d12da": 3
+    "f3917f90e15363a6dd6d12da": 4
   },
   "calendar": [
     {
@@ -574,23 +574,10 @@
   "calendar_fetched_at": "2026-10-29T11:10:53.563320+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 84,
+    "count": 87,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T14:25:42.505582+00:00",
-      "w": [
-        "102",
-        "dollar",
-        "index",
-        "levels",
-        "live",
-        "near",
-        "overbought",
-        "surges"
-      ]
-    },
     {
       "at": "2026-10-14T14:51:22.003206+00:00",
       "w": [
@@ -3442,6 +3429,22 @@
         "risk",
         "unchanged"
       ]
+    },
+    {
+      "at": "2026-10-29T13:36:17.997213+00:00",
+      "t": "Federal Reserve holds interest rates steady even as inflation remains high",
+      "w": [
+        "even",
+        "federal",
+        "high",
+        "holds",
+        "inflation",
+        "interest",
+        "rates",
+        "remains",
+        "reserve",
+        "steady"
+      ]
     }
   ],
   "resolved_events": [
@@ -3469,6 +3472,14 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "7497035cb85bbf245c9b7f400da2b8b46afd08fb67d6455618550991da6d9575",
+    "4ddb819cb680b6dce2b879c35bfe5d5a9f721056cc4f91bdd2b5b119e84339f1",
+    "9655869aeca61b9cc434a96a39e8eb7ee82c7e4de570d8b0c6db99b5a86adf26",
+    "aadfe4581152d3cca80863e343114f3636eeb337e8935cf923824c3e60c5ab60",
+    "a3d73d06d8290c6b10b129d2bd7382a8a4857d72cd375b38a7001e1b0c16ef53",
+    "0fa4cc2bdaeeb5cb866c7a185a036ae6d4a23d94f85106e861eee5340d289780",
+    "b3d64491711f459f4cfeb7ff9ed39db1d3155cd3702cef1645b424800b36d3b3",
+    "c20574c35cd855a3f010988996cc8edb1279fe476708512b007bf26c4150fdb0",
     "32fbeffe41dfbb66c7ac5d06daf14734bfcbd147ade523aaf878704e9be9acf6",
     "04d7281137da04d45620f2b9798758bea200eefb2297f1cdc955489d641071e2",
     "68ec3c273ebcb1c350c1bd643edb85fc26c532f579d1f274d070f8b4d52851ba",
@@ -4460,15 +4471,7 @@
     "0a7e0ba1464921bdfa36d471e92be5e1e7c5371d5e83ad51e381f29f256d01fd",
     "953a8b12c509ed9874c92d245d6567e37f8c87ea07166a433b4f7b2c1e191832",
     "d6790c28de437e7a67c1b2462e4f73db20e7f9f3bac2ad55df433b41c557cbff",
-    "9a8143534c9a992f84d7176c38b00eaad4d4445759afe956477c9f1ce1db99c5",
-    "168e45ed0fd40348b760e77188c53537a9d9a76f6ac9b188554ecac5c7779ed8",
-    "df7be0ffd8209fdec3b2e0bcfb86a730ce9502fd18c21dd3aa92e9db615539c7",
-    "e888b8361d250ac689fc709782d49ff86ecb2c17ab9039cf3362577a0467e30f",
-    "23339a9c60f36089cf0b95e08c14c333f5f6149e90217385fbeb2b00c220e6e3",
-    "d4da6cac3de3fb1e8cf562c2f95194679501c1a44877e328160fb905682c6c9d",
-    "3f797819421f150432cfc72c161745c878f36ada92f918800918527c4ccd2a70",
-    "e5158fab1021d710ac83d842c113efde69107cd5ad6cfbaed0f6f0b23389c106",
-    "bcb08d83bd0b5b29594d92df82665abf252ae45bd95fe7796109f49476c06a84"
+    "9a8143534c9a992f84d7176c38b00eaad4d4445759afe956477c9f1ce1db99c5"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
@@ -4523,7 +4526,8 @@
     "6f0a2bc9bea49bcfb4a08bd1:60",
     "b901840c179ef598b0bc194e:10",
     "f3917f90e15363a6dd6d12da:10",
-    "6f0a2bc9bea49bcfb4a08bd1:30"
+    "6f0a2bc9bea49bcfb4a08bd1:30",
+    "6f0a2bc9bea49bcfb4a08bd1:10"
   ],
   "version": 2
 }

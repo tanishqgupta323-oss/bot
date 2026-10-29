@@ -10398,6 +10398,11 @@
     "EURUSD": 0.0111,
     "XAUUSD": -0.0496,
     "BTCUSD": 0.0211
+   },
+   "60": {
+    "EURUSD": -0.1335,
+    "XAUUSD": -0.0694,
+    "BTCUSD": 0.0838
    }
   },
   "checks_base": "published"
@@ -10445,6 +10450,11 @@
     "EURUSD": 0.0111,
     "XAUUSD": -0.0644,
     "BTCUSD": 0.0072
+   },
+   "60": {
+    "EURUSD": -0.1335,
+    "XAUUSD": -0.0694,
+    "BTCUSD": 0.0838
    }
   },
   "checks_base": "published"
@@ -10483,5 +10493,26 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CBS News",
+  "title": "Federal Reserve holds interest rates steady even as inflation remains high",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSk1RMm9QTGg5a0ZmU1d1OXRGZlFMZjJwZ0pHczhCR3ZHNjdNT0R6ZnhPRjJfMlY3SFB0RzFUcjJQMWQzM01TREpIRlNaaXRYVTVQRXI3S0tTVUJSWkZuMnRHY3JaeVB0cEQ1RmJUSnZZT2prSFk0Z0Z0eFNvREs4Ti1FcWtjNjZSUEJF?oc=5",
+  "published_at": "2026-10-29T13:17:34+00:00",
+  "sent_at": "2026-10-29T13:36:36.467356+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0668,
+    "XAUUSD": -0.1189,
+    "BTCUSD": -0.2627
+   }
+  },
+  "checks_base": "published"
  }
 ]
