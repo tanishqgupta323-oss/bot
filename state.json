@@ -570,25 +570,10 @@
   "calendar_fetched_at": "2026-10-29T08:10:52.292708+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 20,
+    "count": 21,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T03:55:37.006067+00:00",
-      "w": [
-        "000",
-        "2027",
-        "bitcoin",
-        "climbs",
-        "fed",
-        "hikes",
-        "rate",
-        "sees",
-        "toward",
-        "williams"
-      ]
-    },
     {
       "at": "2026-10-14T08:35:40.069336+00:00",
       "w": [
@@ -3447,6 +3432,23 @@
         "states",
         "strike"
       ]
+    },
+    {
+      "at": "2026-10-29T09:15:57.930185+00:00",
+      "t": "BTC news: AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+      "w": [
+        "bitcoin",
+        "btc",
+        "crash",
+        "found",
+        "macs",
+        "news",
+        "nodes",
+        "now",
+        "public",
+        "way",
+        "windows"
+      ]
     }
   ],
   "resolved_events": [
@@ -3472,6 +3474,11 @@
     "22afbaefb23667448d34c9d3"
   ],
   "seen_headlines": [
+    "0951559b5cfda53807575c6138ff3f3bd8ea8a02d6419e1171b0289c68dec7d8",
+    "d949ea146195e2a911a31da43314322ecb10f34513b8119f4f075e6662a82a3c",
+    "f69ad752ee545e55974ef6e4fb4284273ebaa55bfe34231a618496a32fee0267",
+    "8d2b2b999b1495d5f2b7afd56ce1cde936c14e80df8f197687f9ba31e485afc2",
+    "4fe4bffdd2579dff7a41fdad1d6cb35db5c9492addf9b54a80345bf29eac5c71",
     "9d524fa478b3509c8f3e09425cebab92dff1a40e9a9ba84c469d1473f555f9f0",
     "e95c0da64e7c1626cc9c903a98d9efefd4d682c2e9d44b247db5664404b095e3",
     "d531f7ee184d1079e18505d3984882899c218ac883d35ef92331a6a2d8bd30d6",
@@ -4466,12 +4473,7 @@
     "43a942be3187971a9c48cef54e204de7bfc8ca071f2f101de31636afe6cdb4ae",
     "f5cb1f11b26c70b7d79dc278759c679d877c27179e8f15e3af6e968edbff2103",
     "638099262133f6116899ce07d3116c859317f3af479aaf71c98de5b6ed2c4b50",
-    "e1b36a5c421dda19d790757dcd79c6334a0093846a4b06616a74bff9f6a2970f",
-    "1d7a51de90aac251f3e2c425585fc96b9f3abd0e179cdba90042a65a77a8fe4c",
-    "ee5726c6fcc5e7af91ee61ce9b042384ac3a124032233938e3638ce5adb2272c",
-    "cab3dd9fefc7fa030a3e9f1a528cb128b9ea52e96fc1aae5f805afadc4daa54c",
-    "557610ded3628c72ba064e58f046c32d42d08495a23521be23d1483c249be1cb",
-    "0d4b029b7f186ab2ac3a194f80e4b9b47ab723b93095c3019c35f600203479d7"
+    "e1b36a5c421dda19d790757dcd79c6334a0093846a4b06616a74bff9f6a2970f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

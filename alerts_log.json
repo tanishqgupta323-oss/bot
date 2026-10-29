@@ -10211,6 +10211,39 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": -0.0557,
+    "XAUUSD": -0.0693,
+    "BTCUSD": 0.2454
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CoinDesk",
+  "title": "BTC news: AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnBwamVfbWx0Y05aMV9ZODlZUjBkSDA2dUpHU2NVa3NHMG11V0tTU05neW4zZGtlVnNUNkdqX0RMZG9qN1RTNVBqSVZQNlVSUWpGaVBCZjJwOTRMNGZUVDIycFFoUXN1TG44MDBRUnBxVEFBTUNUTUFvYnpSczRsaU5TRjFZWjNiMjduUjZxTTNHU29HbXJyaVVqdlFIZTFoMlF4VXdXVl9Mczc2Q0FjSk5pT24?oc=5",
+  "published_at": "2026-10-29T05:54:39+00:00",
+  "sent_at": "2026-10-29T09:16:02.223930+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0445,
+    "XAUUSD": 0.0025,
+    "BTCUSD": -0.0821
+   },
+   "60": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.156,
+    "BTCUSD": -0.3565
+   }
+  },
+  "checks_base": "published"
  }
 ]
