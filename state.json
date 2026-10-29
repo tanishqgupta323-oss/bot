@@ -575,23 +575,10 @@
   "calendar_fetched_at": "2026-10-29T23:25:37.565109+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 214,
+    "count": 215,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T18:45:49.116901+00:00",
-      "w": [
-        "conflict",
-        "escalation",
-        "irgc",
-        "likens",
-        "signals",
-        "tehran",
-        "war",
-        "world"
-      ]
-    },
     {
       "at": "2026-10-14T18:50:50.080070+00:00",
       "w": [
@@ -3438,6 +3425,22 @@
         "israel",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-29T23:35:38.437918+00:00",
+      "t": "Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack",
+      "w": [
+        "000",
+        "below",
+        "billion",
+        "binance",
+        "bitcoin",
+        "hack",
+        "loses",
+        "massive",
+        "price",
+        "slides"
+      ]
     }
   ],
   "resolved_events": [
@@ -3465,6 +3468,12 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "a71fff0fe0e1af2869ea8a306e740ca528ba8c890a64ac605b3e59598ccc8d26",
+    "a04715f47a2e5f63d01de0b0a0f17720cd40f3230f6b65d1c2af0239d56e30cf",
+    "04d9669e5c60c88b9584f80476e3a5912ae82ad883afbd38677e370eb1c885c4",
+    "e0afc489ce58b63ca3e5de105e49cef4909eaff9f042a11b794aef8d5226d361",
+    "63816a7ecaeb38ccaa53a4abb897e9397af047030078ee371c68917dbaaeb598",
+    "4e8a1a1b75db222aa227cd73e1d415dbc5813401e2219647e05209e6aa908bf6",
     "25587e68f92ef2411b008386d6c0a2f39df5b67e726289a599eac4cf8573f206",
     "cbbf7dc01733ba5b9a22e469b4fc1a45ab9a3f62c6e1ced60a283aeb42387447",
     "e645bbda1ca789bcb3eaaba13abb5d0ca661bc322cb7d0ff26cdc577d655b36c",
@@ -4458,13 +4467,7 @@
     "4327d36c01489c37b9232236690ed100896b8ce14f0dc2f718442f4e0b297615",
     "4c98d754f95db9991eb17d35e3df3d5d495f407c357b2ec7cca31b011e7b2a93",
     "ca3b7f1635d18b81bb1a38b58d37eb2c88e7d15c56075e3c3bb4c3ebd1b876f1",
-    "ee5aba5a84c600bb5befae68dffe7a33b56f5f67cd9d7275e8619dfc1742d4fb",
-    "373979f3f7282e0115905dbb7f995e032b8d3d84ee6afa037e2ac4a6b1bfabac",
-    "14023df36ffbbaff6a60b38b1c0dea1e0b9ddfe20a905384ef9a06b5fa1d4d1a",
-    "85ff61683829ce53b4997f03654dad1aa1eda98bf49409e3e8096f6ffc40adf9",
-    "a638a11c907d1abe3ee87aa8759265ff99e26662999e27ccb81f1c5b517cee33",
-    "160a53b750faf2d8b16574a801e4b14d3d34a7155d44a0d75c94a5d2300ce485",
-    "c5a07d5b049a3cc3c8eb52de3c72c9d27af9224bf5d94676fd92029e610e37b9"
+    "ee5aba5a84c600bb5befae68dffe7a33b56f5f67cd9d7275e8619dfc1742d4fb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

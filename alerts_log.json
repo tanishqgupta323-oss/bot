@@ -10770,5 +10770,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bitcoin Magazine",
+  "title": "Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oREdtTXR2SFVNWEtDbWEwOVI1MkdMTzAyYl91TVVKVFBZVWFnUV9VMXVjbXVRd3JsNGdkN0NWbzlZQ0dzM3dmamlIdFJ3VEhhbTVTUjBNX3l6T1lUWkFZVnEtdWNHSlE0RjFjSEpR?oc=5",
+  "published_at": "2026-10-29T23:10:52+00:00",
+  "sent_at": "2026-10-29T23:35:39.289827+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0112,
+    "XAUUSD": 0.0596,
+    "BTCUSD": -0.077
+   }
+  },
+  "checks_base": "published"
  }
 ]
