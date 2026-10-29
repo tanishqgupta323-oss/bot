@@ -10346,6 +10346,11 @@
     "EURUSD": -0.0557,
     "XAUUSD": -0.1214,
     "BTCUSD": -0.0513
+   },
+   "60": {
+    "EURUSD": -0.0557,
+    "XAUUSD": -0.0942,
+    "BTCUSD": -0.2104
    }
   },
   "checks_base": "published"
@@ -10372,6 +10377,27 @@
     "EURUSD": -0.1003,
     "XAUUSD": -0.2843,
     "BTCUSD": -0.1609
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Fox Business",
+  "title": "Fed's favored inflation gauge trended higher in September",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tXzR6aE4tVjI0WWFkZDhaVkRhUUR2S0lfbnFTUW5LWktIM1Z4RVlNUGQ2X0xTVVFaXzJpbDZXNVRZeFhYM1JlOHRXNzRudTdHbm81NXFHcG9aUDU1WnVPN09LUXN5LThtQzlrVDJNX0dVQQ?oc=5",
+  "published_at": "2026-10-29T12:33:00+00:00",
+  "sent_at": "2026-10-29T13:02:23.545308+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0111,
+    "XAUUSD": -0.0496,
+    "BTCUSD": 0.0211
    }
   },
   "checks_base": "published"

@@ -2,8 +2,8 @@
   "actual_attempts": {
     "22afbaefb23667448d34c9d3": 1,
     "92295bdc42711ae3d216f5c5": 7,
-    "b16150e4fd92508a8b8bbe7d": 5,
-    "b81a617dcd3d2291f102f6ee": 5,
+    "b16150e4fd92508a8b8bbe7d": 6,
+    "b81a617dcd3d2291f102f6ee": 6,
     "e14761d8d9daf448f652d326": 7
   },
   "calendar": [
@@ -572,24 +572,10 @@
   "calendar_fetched_at": "2026-10-29T11:10:53.563320+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 67,
+    "count": 70,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T12:50:52.726878+00:00",
-      "w": [
-        "accelerate",
-        "consumer",
-        "core",
-        "costlier",
-        "cpi",
-        "firmer",
-        "gasoline",
-        "prices",
-        "september"
-      ]
-    },
     {
       "at": "2026-10-14T13:10:57.860490+00:00",
       "w": [
@@ -3439,6 +3425,19 @@
         "still",
         "track"
       ]
+    },
+    {
+      "at": "2026-10-29T13:01:56.799236+00:00",
+      "t": "Fed's favored inflation gauge trended higher in September",
+      "w": [
+        "favored",
+        "fed",
+        "gauge",
+        "higher",
+        "inflation",
+        "september",
+        "trended"
+      ]
     }
   ],
   "resolved_events": [
@@ -3464,6 +3463,15 @@
     "22afbaefb23667448d34c9d3"
   ],
   "seen_headlines": [
+    "02cb90a246a2910dc91041895f290f64dd9feda925cdbf4e026a2d5c1e7ba0b5",
+    "363e067c92ba0985a43af02847c49a672a3fbec1d66b8dcaacb87eaf08295942",
+    "75071675bf9d527df38a33fabdeb8fb98d7faaeeee6c1208b3bb3e969b6af29e",
+    "a2a700e049fb46e98f2a764e7413863b61b7c7fe067733d6ca9ce5c89154cc30",
+    "ebc61d3481e16a77ceb3e9854b2b03a737868911f4278706608f32fc57b8023a",
+    "66484993dff581a380b5d7837c0dc05db15e4b1258092a3cdd8fa153b6574dcf",
+    "c26223fecf272328f21e7487c0e618404c82e797f57ca69159749bddd8bf70e9",
+    "fe1fab4b615095c0d9fc82398e522983cf3437d7b048679b9c4e6616400129fa",
+    "5ab93f43246fbfa43a90feeba09f5b86f01dd2079686f674277fcf0f57064ad7",
     "4a76fe1bcd7f8ddde448b273b9786b3f6869c4ddc0d98ffee851a411e9217f96",
     "04776bbd4d74bc27175ff243e80b9a5a9934a1ade0399c3df161f00f6da93bc2",
     "c54abd8d8bfbc8ca67dbfca7f102d75ccef37a6de08befff9b9611f6811865e2",
@@ -4454,16 +4462,7 @@
     "5027c8daf3c730757e2a947555ef3e17820bc5aa23569f1548b663577cc36c32",
     "da809e1c10aac5361c8e014c4bc555070d39f4b23bce4c2a0c9f5f4b647fc659",
     "d7382fc47db6ff6883c0e8764ac6fad48d2f58d66e3e85f96557b6217013e03c",
-    "0858775df0d7f7af6f3d276b6615cc2fcb2d2953d05858162a691b0abb465eef",
-    "ad7662c17399de541feb87c7601fdddd44ed295e6216c857a4c4eb0fa3d2cf53",
-    "068a0d8d1a0763110e1055a8373f41edc52e25565b8b0359d02143cd385909da",
-    "6a1c5f53ffe22d5591cdb2619024101f2ca8bf8265fa239eba03a2ea3ffd56f5",
-    "609445384276aa42697c961eef8a29d3b21e1f7d1360e34ac6422d1de379a357",
-    "eaf42907fe529e14fa4472fc3e2c0ad239d96c48181ae6dd59cb01aae3aa6e3a",
-    "bcfec243d08f11f36d6dc5d72f72ac9b38322795870aaba4d89e6b82b2b53575",
-    "a701f438496cef2057c6d2258947623ad062c1a79f8756e0f5c8c4891f6d2e74",
-    "c5ae2e19355296cb837c450804f79ca4e6eb7d95eb221487d1818deec9bb3287",
-    "0418011e74024fd8c4b7a3fac278b9406d486c330623f867282c1db6db65a2f3"
+    "0858775df0d7f7af6f3d276b6615cc2fcb2d2953d05858162a691b0abb465eef"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
