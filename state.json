@@ -575,25 +575,10 @@
   "calendar_fetched_at": "2026-10-29T17:15:51.217246+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 167,
+    "count": 168,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T15:12:39.253271+00:00",
-      "w": [
-        "citi",
-        "december",
-        "expects",
-        "fed",
-        "hawkish",
-        "hike",
-        "inflation",
-        "rate",
-        "surprise",
-        "turns"
-      ]
-    },
     {
       "at": "2026-10-14T15:15:47.645692+00:00",
       "w": [
@@ -3442,6 +3427,22 @@
         "unchanged",
         "yields"
       ]
+    },
+    {
+      "at": "2026-10-29T19:31:09.577697+00:00",
+      "t": "Gold dips, with spot prices just above $4k, as U.S. data hints at more rate hikes",
+      "w": [
+        "above",
+        "data",
+        "dips",
+        "gold",
+        "hikes",
+        "hints",
+        "just",
+        "prices",
+        "rate",
+        "spot"
+      ]
     }
   ],
   "resolved_events": [
@@ -3469,6 +3470,21 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "38eb424c17232a4a5adc86d35c1ac71a51e34973842b5dc10c5b6bcc95ddc1a2",
+    "9509e7f3e2a7f47c947216dfab6df25bd72db191d610276a24e7374082216939",
+    "e72685d75a977aa365bb1ba4dff8e93f59af0de7a8851d995f01c087063fa528",
+    "e7c74f256108315a01ebc0620dde3b127cf4fc46b2a141288c4f3889a7e4e6df",
+    "998079e19a6a2457d90761151f3e4c5243388563ddb08d1036866c8512d37760",
+    "f4633e66c9aa595b3958a690e09e26ae1aa684b6b890cbe6bdaf630d261cb9d1",
+    "47fb048b0b484796ef3eaaaea6dd22261cb89f2d968b956494a9404df4d72d49",
+    "5b2bb96e005eb9102c351326d087ed4217cfe25cc51002528844c478be03cf89",
+    "a51047b02171fbfdcddd0f9bbbaa97c6b1d0b2ad4bf4f5960f3cf28efc8f085b",
+    "6d988b4876605624327401a4391b3f33194ad77786db936d5af508da6132928a",
+    "c69bc57d45cd95a03cdb8554577cca3cab0220d5dab916a82f86d90ab6697b41",
+    "d3f64ab869866de2da4b166d60c18b84ba1d6146bb7f37ae1c16c2d538d6e64e",
+    "beb36b4861e0fc225ab1f0ff7f2d1f03f037cce0252febf34982beb40d0e1d91",
+    "568f4f6f44492ead0b923555ecf29959821d093fc4b96b18966445d0157f3375",
+    "0b077d9235a0cca262c9032a5573f623f29497d2594c2d844e43496fc1409093",
     "362b2e7181f0c45dbae2aa18075ace54d63b3d5bb9289450c2f1c91d918772f1",
     "5034e3de25c73799cf359508d5b9c37d550a7d9a0dd8b27b00cde8bb456ae78a",
     "b2634ca1aa5eb8c7ad0a019348eb8d6096ad00b6aab16ea0355db7971fb83953",
@@ -4453,22 +4469,7 @@
     "bc3ad0ee320e4ef68f9592b155dca5691f85d1c3b491bc0cfddf72ec4a79fb34",
     "d279970e97a6a33bc74136fe045ff55accfe413ce927db770d2eaf8c94124e7b",
     "e19a30d9e3576ba2fd2e4a21627d66c891dca7e1bed96b94541f8daaa36c3e7c",
-    "f9d656451f3b9421f75d3e277a1da6d4f0a65dc076c0efe73fbf719702c1ce8d",
-    "7bd792c2897ab72a0d715766f52e116f412c9ad08d5a984427cace0c72156ceb",
-    "8d5b3567d742973caf0f960fe7edf547e29992155f5e3d051af44d98445d2546",
-    "d0d4704dcd3fcf8857825f76d16047c9a201e5abcb0382c9fa4106cd2693c27a",
-    "c6a5341fb834155399df41ec012545cef33e0b272b4f1ea6d523507e811bd1a3",
-    "c2225e543033fde5bdb3a61bb3bb6d4fc04a3d80498480de52e85dbab6416639",
-    "24981a41717956d59ab10335074fe282908b56e41a840db88263238301b1f9ef",
-    "3daf18472272aff20bafc85d4518d68f653f26db850425bed792b0f8fa768df1",
-    "38215a154fd9d5a138beff404efc220a8e81f183deadf987ecd649659ff68e0d",
-    "385396ae71fe083bfcaaae924d8b1a73e9f7d3bcd33a0012a8ee034e945fa948",
-    "5b80790c41e790815d44661a9dbe496df139b3c7a18180aaf70f49c5ed19b107",
-    "5fdcc61dc9a87ffb68e25325f35748ff57715f36b88f79b4e173b16550eb7c2e",
-    "0857b50935fc2521b150e8719023bf0390f2a59136e0ceb828c7a246fbc35a73",
-    "a021378262c3a64a984dc1b747fb21047112435108abe5649a5f85bf14d0f9f3",
-    "294a114e0be843109873fb4f0acab21ac016315b9953d5425aacb8271ecc08a1",
-    "64ecbac0876fdb710664651ba38fe43e1d67bfe9c96a98e3605b5d4b54320efe"
+    "f9d656451f3b9421f75d3e277a1da6d4f0a65dc076c0efe73fbf719702c1ce8d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
