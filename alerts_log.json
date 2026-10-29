@@ -10401,5 +10401,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "US September PCE core inflation +0.5% m/m vs +0.3% expected",
+  "link": "https://investinglive.com/news/us-september-pce-core-inflation-m-m-vs-0-3-expected/",
+  "published_at": "2026-10-29T12:30:27+00:00",
+  "sent_at": "2026-10-29T13:06:25.816257+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.0322,
+    "BTCUSD": -0.0163
+   }
+  },
+  "checks_base": "published"
  }
 ]
