@@ -575,24 +575,10 @@
   "calendar_fetched_at": "2026-10-29T20:20:52.376107+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 199,
+    "count": 200,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T18:31:17.090040+00:00",
-      "w": [
-        "costs",
-        "fed",
-        "fuel",
-        "intensifying",
-        "pressures",
-        "price",
-        "rise",
-        "shows",
-        "survey"
-      ]
-    },
     {
       "at": "2026-10-14T18:45:49.116901+00:00",
       "w": [
@@ -3443,6 +3429,15 @@
         "multi",
         "potential"
       ]
+    },
+    {
+      "at": "2026-10-29T22:15:49.314677+00:00",
+      "t": "US-Israel war on Iran",
+      "w": [
+        "iran",
+        "israel",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3470,6 +3465,9 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "9e991564dbedf8af215c82f6acf6480404ef1e2c4a1cf39cd21586fc0b0013c2",
+    "6710201269c3db61b8e2d290962895f5b599e8eb83cc80d1c4cecf03ffd161aa",
+    "1fbf6818cb25392f907e71a3e960259f6f3b2e7aea301649e2dcc903f8893ecb",
     "dc129910df6b028ee865d235f5dc9a8f81f95a837cf6279dd236e821319d91e5",
     "6f50b2dc903c709c4c997a737a49646ed2287c557b22c5ae3601ad5488fab3f4",
     "179d7438e215e2947c4f0de9c49094398b449e49f696832b2b554e6ca329f204",
@@ -4466,10 +4464,7 @@
     "ea79908972ffccb16df60ee49e7e3db40ab588a92f2c2783cc74ba7663356bfa",
     "fe56ffed2d8ac735fc596f12e2699cba8856b97a36f5260ee735d0450dfd9d1e",
     "f306fc38b215f4dce122aae1bda30b94dbfd164a94880cdebb27eb82892530ea",
-    "a72aa9e518e279ffcb7dfdd1c51d54c0dbb614886ec21e151cb5c77926ba498b",
-    "1968c9ca8f65d00a51220b188379c581801539e5f0e8c32a8a6dda3e07fcf92a",
-    "8824aafde9c5e42626a5a466a0778f9a5749c4ce3272e1c50b960b2e71791ae0",
-    "64389b475e06cfee821fbb472c7bdd108ace382b2a9ed1ea5053e8d249dd8af5"
+    "a72aa9e518e279ffcb7dfdd1c51d54c0dbb614886ec21e151cb5c77926ba498b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

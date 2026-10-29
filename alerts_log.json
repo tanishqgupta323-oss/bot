@@ -10736,6 +10736,37 @@
     "EURUSD": 0.0112,
     "XAUUSD": null,
     "BTCUSD": 0.0274
+   },
+   "60": {
+    "EURUSD": 0.0895,
+    "XAUUSD": null,
+    "BTCUSD": -0.4026
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Guardian",
+  "title": "US-Israel war on Iran",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw?oc=5",
+  "published_at": "2026-10-29T18:59:33+00:00",
+  "sent_at": "2026-10-29T22:15:50.315665+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": -0.0398,
+    "BTCUSD": -0.0844
+   },
+   "60": {
+    "EURUSD": 0.0112,
+    "XAUUSD": 0.2684,
+    "BTCUSD": -0.0138
    }
   },
   "checks_base": "published"
