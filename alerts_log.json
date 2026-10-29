@@ -10342,5 +10342,26 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNBC",
+  "title": "Fed still on track for December hike? Here's what to know",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWdxSjJaUmp3VDBaYlh2VzNMRkluWDJzc3dtWjhsOGk4RURkQ1UxR0VCR09FQk9lSHduQ1pDclhCZENYTTJROFJ2ZnFSV0ZOTkswSHdCYUJXWmgwNUh6b0tXc202di14SEFSSlI5ZmZwVVV0ckhpZHdBREVTYXlDWFZWWlJtUFVlNlJuS1dSLTFPVi1KS1BHMHRhSDRNdTg?oc=5",
+  "published_at": "2026-10-29T11:01:34+00:00",
+  "sent_at": "2026-10-29T12:01:32.042635+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0111,
+    "XAUUSD": 0.0148,
+    "BTCUSD": -0.0885
+   }
+  },
+  "checks_base": "published"
  }
 ]

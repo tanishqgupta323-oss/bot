@@ -570,22 +570,10 @@
   "calendar_fetched_at": "2026-10-29T11:10:53.563320+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 49,
+    "count": 50,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T12:50:52.726878+00:00",
-      "w": [
-        "data",
-        "fed",
-        "hike",
-        "inflation",
-        "likely",
-        "rate",
-        "seen"
-      ]
-    },
     {
       "at": "2026-10-14T12:50:52.726878+00:00",
       "w": [
@@ -3436,6 +3424,19 @@
         "september",
         "steady"
       ]
+    },
+    {
+      "at": "2026-10-29T12:01:28.105236+00:00",
+      "t": "Fed still on track for December hike? Here's what to know",
+      "w": [
+        "december",
+        "fed",
+        "here",
+        "hike",
+        "know",
+        "still",
+        "track"
+      ]
     }
   ],
   "resolved_events": [
@@ -3461,6 +3462,12 @@
     "22afbaefb23667448d34c9d3"
   ],
   "seen_headlines": [
+    "e9807714c29a3ffa54561c657aaed9f2eb971c546e72aa4f6e08f5e89b6b48f4",
+    "ea2f13e87bf083cfb0bea1fcf77346501624884fa1b781ba317fb794e77ac2f6",
+    "ccaeb452d3bb4a7b9f186d6f3ccaea2ecc423df55a249315bb3fd4bfb3d05c24",
+    "8689244826b4ee36940c74f0ce2e3e1dc91822e789f6630b194792c05d94ac6a",
+    "3cfd93a27ec039a2677f70837cf74b9d82a11b36891c5ef32a386352bddb2b75",
+    "e757a2e2d897d37770f2b6edb3ee395a395cc76b0ffb4cd5586d2d8d30fe1163",
     "e572caa559e99e7c3a55795c804eb882d69c1098b90877a5ebf284a12c65a66b",
     "3f966ee419c6a07dee069f9ba61f581e6141a7fe0a98228ae8f91aedead2b270",
     "eb316347b44d199604f99a70658be75bd0b9ac8fff7abfcd85556fc7e90d9b25",
@@ -4454,13 +4461,7 @@
     "e7110ea3fa5e150ad935af6dc6d35cebfe9c069f9e2ed1a4587e8fe610c8eba1",
     "68e6ccb76bbc7518cd440a94128f9b4bd616b9f46b406effa7f945a0a8cf1c4a",
     "29ac5409cf4c83bc2b4a4d854bf79562849012ed7644c84df03517eddef861fa",
-    "a8b0af466e9258f752a1927bb97307de46f4a3653bba7c902c4acaa566e5488c",
-    "5a8309b5e94e1641fcbbc9124aedf16b69d7d37e4b73c28ff31c140816ee8e6d",
-    "37e45ef91a3dbe8b83ddae286861533d21de23d15dab1ec71130342b20ad9481",
-    "2c330e032394761200a7f4b06cd3291f66c72fe7b8fcd9c0ef6d47fddd80e1ad",
-    "653d1a3df5e276b8f55faebabfd62a75b0e364b77108cbde9298413f6ec3c7c6",
-    "faf38b263b91468d380746c7aebd609a77d9d61dd0fb1496b8a15b986fb0b00e",
-    "021a219ad0128ff58f2ec82d7ce7f2a05d97f932c3939ab6a3b6cd66c950fdde"
+    "a8b0af466e9258f752a1927bb97307de46f4a3653bba7c902c4acaa566e5488c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
@@ -4503,7 +4504,9 @@
     "22afbaefb23667448d34c9d3:30",
     "22afbaefb23667448d34c9d3:10",
     "b81a617dcd3d2291f102f6ee:60",
-    "b16150e4fd92508a8b8bbe7d:60"
+    "b16150e4fd92508a8b8bbe7d:60",
+    "b81a617dcd3d2291f102f6ee:30",
+    "b16150e4fd92508a8b8bbe7d:30"
   ],
   "version": 2
 }
