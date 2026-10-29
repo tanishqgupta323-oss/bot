@@ -572,37 +572,10 @@
   "calendar_fetched_at": "2026-10-29T11:10:53.563320+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 73,
+    "count": 74,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T13:20:55.503110+00:00",
-      "w": [
-        "again",
-        "attacks",
-        "crash",
-        "flows",
-        "hormuz",
-        "iran",
-        "oil",
-        "soar",
-        "steps",
-        "surveillance"
-      ]
-    },
-    {
-      "at": "2026-10-14T13:40:51.793896+00:00",
-      "w": [
-        "cpi",
-        "dollar",
-        "expected",
-        "hotter",
-        "key",
-        "levels",
-        "play"
-      ]
-    },
     {
       "at": "2026-10-14T14:21:05.760711+00:00",
       "w": [
@@ -3438,6 +3411,35 @@
         "pce",
         "september"
       ]
+    },
+    {
+      "at": "2026-10-29T13:10:51.458474+00:00",
+      "t": "Fed’s preferred inflation gauge rose in September as third-quarter GDP beats expectations",
+      "w": [
+        "beats",
+        "expectations",
+        "fed",
+        "gauge",
+        "gdp",
+        "inflation",
+        "preferred",
+        "quarter",
+        "rose",
+        "september",
+        "third"
+      ]
+    },
+    {
+      "at": "2026-10-29T13:10:51.458474+00:00",
+      "t": "Inflation Accelerated in October, PCE Index Shows",
+      "w": [
+        "accelerated",
+        "index",
+        "inflation",
+        "october",
+        "pce",
+        "shows"
+      ]
     }
   ],
   "resolved_events": [
@@ -3465,6 +3467,23 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "6f35ceb914fd76354429c1c8473a885f0f857415e3e86b152d7e6ada77904f37",
+    "6bee282a6aff4a94641f9734d766fe9905c5a4e90372acf74f9a9bcbdedfb13a",
+    "bec9ce3ebb183c639b389acbb42b8b9b492f0125a87dffa8b6d4f1e21d675ee4",
+    "9b3666e0a2b9fc3ea4e28990ef38c5d38a4b830e4c52b05bfaa4c77bfad002f8",
+    "2eb45e7d9f1fa48d7dd8299c0160d94e179d8dd82ca31e2214caafe874df49e5",
+    "c2c1d9e240fd2d70600536dab4dfe7b0a3ace12e4d8fe24475a188436f540618",
+    "1b2516f88f7470aade3c02eaf9ae96603f7cb26b5707fc69bd113690e27aea3f",
+    "bd4672d26afec4341730b92c72460695e2268fa6301665d68522a675e8cbcc87",
+    "b29268274aa305aee8ef52bcf6786c8b8c04c4291254c5692f0f539796a97cc9",
+    "a2c63ce92e94281ff689c7fe4823fa3da54513cabc2a6a30986647f581b6d632",
+    "fcc22afd9cd455365d17d6233df47c384bb194f594705ffe15dfcb842b4c8756",
+    "03925e7989b266b1333a79366225cf44fac8fecd239c758565330c1facad64df",
+    "579a15fec7ba39cc2daf8d81de1a8331a6bb01bf984381f44c0ed9b4f5207176",
+    "5bfba29d87d6759f414487f65b27f2132ae88d686d8475057e7cba6f9e71fa8a",
+    "c4ccbac77c6983b077d2d46e62321f66e7c6bfa62fd29c6b967816aa9e25201a",
+    "310845625072a9b2491a902102def71710a34761f7160f8292d61b9ea33dc955",
+    "3f22d2761b9bb7bae1bd2acc6cb770801040e3f0aac394cc7df545801d0ff4e5",
     "70b3f91f4fa011ef21e89eaa4b818ca97181b1255000a4bb5fbfaf98bb09ac19",
     "8941beab1b0638db2eef3392fe4441b8728c31e16048e071353afd869d519d62",
     "ac19e889e82e8046b8d6708777b53a816d127d256759f4eae14ee63249e73c9e",
@@ -4447,24 +4466,7 @@
     "e17c8f0bf48590bbe5658a26f0054dc43dd5d958c90ab3828cbba6ca65a290d5",
     "1ba3e30006273a34cc06d82d6666b2d1f94d9a5a1df71552123297cf0a80f001",
     "0718db7393d7b743fe5031da083cab2ce7329a966d698daabdd3036201cad3f8",
-    "91544ef8ca8cdf9ee5a200033a853a7e39a827810225e280c3836fb779d2b95c",
-    "06c14c5a0a8087c983499baa58f383b63016963847bf0d4fa61bd80f4477731a",
-    "020acc786cb466c130f0f2f3ca02c9898d41ed9a986aaa32d45f9e0bdd4d9380",
-    "70142313bb6b10d2f29441b08159dbdba31d7924d3644f8d81f75f2b72371f1a",
-    "a4423eb81af209ffd4c785912a134f766d5f1f055e61a0507abb246f9525a565",
-    "d814bc6b9ffe6f9334b48bec29b25b1095972eeec5eef01e3d6c1f7e64c90709",
-    "035f17f866162593d47d7400e774ebd054429bc3e04bd0938e35b49ef1834188",
-    "ad00253ac98f1caa75a069f02ef30896f47c01988e4945eac259c788d46f22b6",
-    "7183d8cd30ad5272a892b7a224bc8b9f9ef41a7c0e54f8f678f23868ee103446",
-    "3ede6e5c27990b3e17f00284c7a05784a80e73921868ea2e1ba8d77791b83a74",
-    "b4264e1c96942acff71c79581a555c79f2d7467a37853e91c03c60a9855375b9",
-    "5decad14773603dabf204e4aad47dd20b271d60067f8d5bf8910d567f7778701",
-    "f924049e30c9ca3fbc7cd099190b12019f0630df2e4985e9f47183872f13883d",
-    "77569822e9fa1156ef3fa151a7b021e8d06140ed2dd9c4fdc71afec5830fb3bc",
-    "157453879e7b2cd29a06d1013ffc1140d8055b3b8c2ea9368548f37ff5916243",
-    "c8f2227557edbb329771955e36eee2f665a55d13cc3c8842a04e771eb73a3ee5",
-    "440b0a07e50878549aef18605375bd103a0f59558b2bbd78da0f92f85c793aa9",
-    "0d833168b69af73b970cb3516a1b41a070eb6a8c2b91863bd23c648ea1fc942f"
+    "91544ef8ca8cdf9ee5a200033a853a7e39a827810225e280c3836fb779d2b95c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
