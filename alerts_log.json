@@ -10502,6 +10502,11 @@
     "EURUSD": 0.0,
     "XAUUSD": 0.2132,
     "BTCUSD": 0.0541
+   },
+   "60": {
+    "EURUSD": 0.223,
+    "XAUUSD": 0.0991,
+    "BTCUSD": 0.839
    }
   },
   "checks_base": "sent"
@@ -10552,5 +10557,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "ECB keeps rates unchanged; euro and bond yields fall",
+  "link": "https://www.investing.com/news/economy-news/ecb-keeps-rates-unchanged-euro-slips-4984045",
+  "published_at": null,
+  "sent_at": "2026-10-29T14:36:06.480040+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "NEUTRAL",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

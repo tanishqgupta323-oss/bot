@@ -575,26 +575,10 @@
   "calendar_fetched_at": "2026-10-29T14:15:49.711857+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 114,
+    "count": 115,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T14:55:37.473348+00:00",
-      "w": [
-        "broader",
-        "cpi",
-        "data",
-        "following",
-        "higher",
-        "indices",
-        "levels",
-        "now",
-        "play",
-        "stock",
-        "technical"
-      ]
-    },
     {
       "at": "2026-10-14T15:12:39.253271+00:00",
       "w": [
@@ -3444,6 +3428,20 @@
         "stubbornly",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-29T14:35:39.991899+00:00",
+      "t": "ECB keeps rates unchanged; euro and bond yields fall",
+      "w": [
+        "bond",
+        "ecb",
+        "euro",
+        "fall",
+        "keeps",
+        "rates",
+        "unchanged",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3471,6 +3469,16 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "c821e4fbf1e7ac77b9ad3ce161588ac3c0f7eedb45901564c63db6fe14e3c152",
+    "78a99b2fdb4903584dfb818a54cf6f3534fb39c354148df6e168bb4b71a13dd9",
+    "a0b3ebd607264648e1a9fd98f50cddab43fbd4c309fb9ef9e8b1ac8795e3a5b4",
+    "99149077b27db98b71681d728a763fdfb7643addea84e8478b1fc2e42479fda5",
+    "438f3b924f115e105033014e0c118f6cb3a036f2f950ec10e7bc32619f0ae9cb",
+    "92ceeca565d3f1531d0506723ab7b0da22567fe375912bbbccd2b908d4db82ca",
+    "c5d0f4ece20b10a4d939d2d00c65da62595872820168a5e1a7a307ee06ce2bbb",
+    "06ced4f90e956a7e00e94185c56a5e1427fe65536cf2a102922fd900d94cfb1f",
+    "607278718f6f3e4efedd6d74e7ba93d1cd8b1ceea02ec886ed581514272363cf",
+    "086c803b5f1355c9f15cab6eaa413866b5e01e607f5bdf41efde08ea7c49e357",
     "682ef5edad677d22ed063e4abb2c380cf8a2ff3c1aba3a31349e856f7efde687",
     "4b34ad53b5e324e968450cf120937697af1119d3a4ef88358cc3f2ac381028ba",
     "db236441b3fc3a634914886c52eef76a78d86183e89fe7336ad23ff9f7b5d0c6",
@@ -4460,17 +4468,7 @@
     "27efb9920397490dec4eae196f5a8743d67290ccf2d958c83f6cdc599b972533",
     "f2220625ca36402be0f671e4b46c7e94dcb0cd9ff204d744b25885bcf96d1915",
     "b651dd7cabb2aee6446cbd7a374f7ad13676698b3fd2ba971079592a9ce746c3",
-    "10624eadb6c1da12622403d9aa263e8e30e192ebab2a9fae90793a845d6a243f",
-    "5aa5bf5fe6e3d788265cce2905ff8a68b12d18c47c39cebcdd90bd35c09b1485",
-    "b56817e7d8b4ab9d9966ec8ce532681fd2fbb5a07a0f7b703f926bc9ee4c52cf",
-    "57c39c10edb20c83aaef8d9fb2664f807fcf307d5c0a0c0eafc0fd38c8841470",
-    "8e9d4e97a1d6f7e3be58ed0ee6dcd952f7eb2e84d7bb00d5d4b36d930d86616b",
-    "10f6063e672af3146082304a02058c142e045cc826a5fd798b2949c64eae0ef8",
-    "d84a114dbb553f00e5688ef811597061eeff830c486bb79ed833a07d1a37c407",
-    "ce695e6adea465e20bc9b3bdcc25f8cfa0338ce0d61922c4b68914d7eb089462",
-    "4761cf093e2bb5f6773f864ef76bfbfec0d4a69db267d968c4da6e1578bfa0f3",
-    "e68599f5abe6b74e87deed6e316c8cb19d1422fd262c93d014f852859826010b",
-    "ddbfe36f5032dea1dfc154faadea4234acf2928501d48d6288332aaf2b46c114"
+    "10624eadb6c1da12622403d9aa263e8e30e192ebab2a9fae90793a845d6a243f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
