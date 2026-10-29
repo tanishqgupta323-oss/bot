@@ -2,8 +2,8 @@
   "actual_attempts": {
     "22afbaefb23667448d34c9d3": 1,
     "92295bdc42711ae3d216f5c5": 7,
-    "b16150e4fd92508a8b8bbe7d": 3,
-    "b81a617dcd3d2291f102f6ee": 3,
+    "b16150e4fd92508a8b8bbe7d": 4,
+    "b81a617dcd3d2291f102f6ee": 4,
     "e14761d8d9daf448f652d326": 7
   },
   "calendar": [
@@ -572,7 +572,7 @@
   "calendar_fetched_at": "2026-10-29T11:10:53.563320+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 62,
+    "count": 64,
     "day": "2026-10-29"
   },
   "recent_stories": [
