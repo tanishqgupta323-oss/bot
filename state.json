@@ -4,9 +4,9 @@
     "92295bdc42711ae3d216f5c5": 7,
     "b16150e4fd92508a8b8bbe7d": 6,
     "b81a617dcd3d2291f102f6ee": 6,
-    "b901840c179ef598b0bc194e": 2,
+    "b901840c179ef598b0bc194e": 3,
     "e14761d8d9daf448f652d326": 7,
-    "f3917f90e15363a6dd6d12da": 2
+    "f3917f90e15363a6dd6d12da": 3
   },
   "calendar": [
     {
@@ -574,24 +574,10 @@
   "calendar_fetched_at": "2026-10-29T11:10:53.563320+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 81,
+    "count": 84,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T14:21:05.760711+00:00",
-      "w": [
-        "back",
-        "fed",
-        "heats",
-        "hike",
-        "inflation",
-        "month",
-        "rate",
-        "september",
-        "table"
-      ]
-    },
     {
       "at": "2026-10-14T14:25:42.505582+00:00",
       "w": [
@@ -3442,6 +3428,20 @@
         "pce",
         "shows"
       ]
+    },
+    {
+      "at": "2026-10-29T13:32:22.196610+00:00",
+      "t": "ECB keeps rates unchanged but points to mounting inflation risk",
+      "w": [
+        "ecb",
+        "inflation",
+        "keeps",
+        "mounting",
+        "points",
+        "rates",
+        "risk",
+        "unchanged"
+      ]
     }
   ],
   "resolved_events": [
@@ -3469,6 +3469,16 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "32fbeffe41dfbb66c7ac5d06daf14734bfcbd147ade523aaf878704e9be9acf6",
+    "04d7281137da04d45620f2b9798758bea200eefb2297f1cdc955489d641071e2",
+    "68ec3c273ebcb1c350c1bd643edb85fc26c532f579d1f274d070f8b4d52851ba",
+    "e0a5a48872d4133891f7e5fe76ac81386744b7648cc28da0a9ae334af231d0ea",
+    "9da3a9bc4c6900aad4b1a0cf369569f078b6b4a315034f656474fb474bbe0a61",
+    "5cae1a6aa13868220ee2e7b5c74f9634c087c22923c547abc7fd84d8e66b39cf",
+    "a138fef2baec724ecedee18351b8a70a29367df552f48a8d7993a7047c589760",
+    "e185ca9017efe6d281197179cfe44daa456a3019b324665475efb471a53cfd5c",
+    "7c00cd0d373ac49f63ff7f6e9122f4a8b85da0274ec44d844c5faf76047ce7c6",
+    "6bce39881106dd1650b39b82310eff55457fd5e66ab1ceee82e4477d2e5f6560",
     "b806fbf255ed3ced1995e972d1d97ff0bd548fc7e06c88a784d068951046734a",
     "09cb356a450836e0a313c9565931ac887ff8895b371c72ccf7887b8d46488948",
     "c18a24b905bb05d1e43cdea0d83ba6d6edb1ee4402d8367213c825c42839c938",
@@ -4458,17 +4468,7 @@
     "d4da6cac3de3fb1e8cf562c2f95194679501c1a44877e328160fb905682c6c9d",
     "3f797819421f150432cfc72c161745c878f36ada92f918800918527c4ccd2a70",
     "e5158fab1021d710ac83d842c113efde69107cd5ad6cfbaed0f6f0b23389c106",
-    "bcb08d83bd0b5b29594d92df82665abf252ae45bd95fe7796109f49476c06a84",
-    "8590a55e97728e1086545bb9dc6b8658a0c44354effb7b8ad5c86e8168c7b382",
-    "c20574c35cd855a3f010988996cc8edb1279fe476708512b007bf26c4150fdb0",
-    "0eaf54df781b7e5fdaafb3159832663ebb28e0724d40b6a77ef5ee40adba4ef2",
-    "dbeb7d48f7612e1fdd4afa8cf1baecc721c8f58552937a7c2a975a98e14a9c70",
-    "027366dfafbf209a9dc3418f59d154aa18a0fec3be7d4fa862bd98344f2f6283",
-    "2aecc8e2eaeca234c33c06efa04ac36ccb0bbb039e25ce55ec0a2b9c17238d8a",
-    "4e7dcf39c125c4333234ad16b10b8fc4269f9ff1bc2cda33a728f18478589a73",
-    "0c1ccce28d31748296075187a3a2da351e2499fc74e038116ab6c7c5aeb2e9b9",
-    "233e6788093e86f8f0e0f335671fe66e7556265dcda69e8d3be8f8d994c9a868",
-    "edfdfb4eab5cdf22634cd0e4b32ca15438252b191f4defcd1849dc7cbc860b6e"
+    "bcb08d83bd0b5b29594d92df82665abf252ae45bd95fe7796109f49476c06a84"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

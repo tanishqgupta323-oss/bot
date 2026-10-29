@@ -10419,6 +10419,11 @@
     "EURUSD": 0.0,
     "XAUUSD": -0.0322,
     "BTCUSD": -0.0163
+   },
+   "60": {
+    "EURUSD": -0.1781,
+    "XAUUSD": -0.0767,
+    "BTCUSD": 0.0768
    }
   },
   "checks_base": "published"
@@ -10464,5 +10469,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "ECB keeps rates unchanged but points to mounting inflation risk",
+  "link": "https://www.investing.com/news/economy-news/ecb-keeps-rates-unchanged-but-points-to-mounting-inflation-risk-4983925",
+  "published_at": null,
+  "sent_at": "2026-10-29T13:32:31.404800+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
