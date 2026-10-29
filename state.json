@@ -570,24 +570,10 @@
   "calendar_fetched_at": "2026-10-29T08:10:52.292708+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 36,
+    "count": 37,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T09:46:55.260476+00:00",
-      "w": [
-        "000",
-        "ahead",
-        "bitcoin",
-        "data",
-        "inflation",
-        "live",
-        "near",
-        "tumbles",
-        "updates"
-      ]
-    },
     {
       "at": "2026-10-14T12:31:23.159648+00:00",
       "w": [
@@ -3443,6 +3429,20 @@
         "israel",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-29T10:55:41.236156+00:00",
+      "t": "Fed leaves rates steady as governor Lisa Cook dissents",
+      "w": [
+        "cook",
+        "dissents",
+        "fed",
+        "governor",
+        "leaves",
+        "lisa",
+        "rates",
+        "steady"
+      ]
     }
   ],
   "resolved_events": [
@@ -3468,6 +3468,11 @@
     "22afbaefb23667448d34c9d3"
   ],
   "seen_headlines": [
+    "cbbf7dc01733ba5b9a22e469b4fc1a45ab9a3f62c6e1ced60a283aeb42387447",
+    "daf92f4b66fd673e3ff59ea1f66eef96982f51d103aef723131916fceddc3632",
+    "8597042386c49e59a8f1f4e3bc07fdfd8d4a2a9ce2de703f76adb0bdf3644a5e",
+    "25587e68f92ef2411b008386d6c0a2f39df5b67e726289a599eac4cf8573f206",
+    "0bd6f8871b4e331e8d82f1c539c5b450148bdbff6dbaebee24a22258669d1788",
     "2eb85e37a885e7293b3a4938b310b9d29098e88022e6fd05ba690f8373d49a46",
     "79d9d3f0f5615700c51616218059bf2fdd0f6415c6cbfbdfd857ab13cd5c70f7",
     "32fd35cbd49f38f7378a1b1943c4554070add6dac81ff307ab96b90b1ddf8db6",
@@ -4462,12 +4467,7 @@
     "a0aaf670f887ff2a98b58ca34abb89ebc4d381ec05b438f3498c1344282da3d1",
     "93f5b99799dc769d6042ec8c5e414dac76249c92f2f5ec57855b140830155edd",
     "80d5e11a0c57e83f20078ec845e9ee06a43db142743bbbc72762c797ffa164e9",
-    "cc65be3481ec3f61fe98852e45af8af79d34150dcf5fb73655f3febb08b7553b",
-    "4bf12d193966ef384d6b6d5ad64d3ae6092da50b49be29258c92d713486d031c",
-    "e290c24a9f21fe1228745dd93adb393c628d6127a93ece5b9876592cf2514de9",
-    "9bea84465338b30651c1419646ba4c122e39a03448e27ab342fdc497c73ce37a",
-    "2ef079dc350f62a2a320bb45bcd78ecebb8444ba0118611fd2d0bffc30897adf",
-    "d58e2107bc1a5fa9070fda812619947087c47b59f929b37acde1d28b832e2fbb"
+    "cc65be3481ec3f61fe98852e45af8af79d34150dcf5fb73655f3febb08b7553b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

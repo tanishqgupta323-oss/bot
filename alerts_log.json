@@ -10276,5 +10276,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Axios",
+  "title": "Fed leaves rates steady as governor Lisa Cook dissents",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSnZBWVpLV3lueUc5bmN2VEZPVzZ2WlN1LWxFaFg3LTV6M3pLTHozaVcxRTAxS3lFak82MHB1R0VoYmY4cUk3cnFzbWJuSHllTk9zcFZwQVlKeXRSbFBXQk54M3Q2Wk9abkg0WkdSMA?oc=5",
+  "published_at": "2026-10-29T05:51:20+00:00",
+  "sent_at": "2026-10-29T10:55:44.980432+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0446,
+    "XAUUSD": -0.0124,
+    "BTCUSD": -0.0762
+   },
+   "60": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.099,
+    "BTCUSD": -0.4544
+   }
+  },
+  "checks_base": "published"
  }
 ]
