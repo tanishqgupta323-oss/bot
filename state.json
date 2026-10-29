@@ -570,23 +570,10 @@
   "calendar_fetched_at": "2026-10-29T11:10:53.563320+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 48,
+    "count": 49,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T12:36:08.515023+00:00",
-      "w": [
-        "bitcoin",
-        "comes",
-        "cpi",
-        "hot",
-        "lower",
-        "sending",
-        "september",
-        "sharply"
-      ]
-    },
     {
       "at": "2026-10-14T12:50:52.726878+00:00",
       "w": [
@@ -3436,6 +3423,19 @@
         "trump",
         "weighs"
       ]
+    },
+    {
+      "at": "2026-10-29T11:55:39.868811+00:00",
+      "t": "Fed Holds Interest Rates Steady After September Hikes",
+      "w": [
+        "fed",
+        "hikes",
+        "holds",
+        "interest",
+        "rates",
+        "september",
+        "steady"
+      ]
     }
   ],
   "resolved_events": [
@@ -3461,6 +3461,8 @@
     "22afbaefb23667448d34c9d3"
   ],
   "seen_headlines": [
+    "e572caa559e99e7c3a55795c804eb882d69c1098b90877a5ebf284a12c65a66b",
+    "3f966ee419c6a07dee069f9ba61f581e6141a7fe0a98228ae8f91aedead2b270",
     "eb316347b44d199604f99a70658be75bd0b9ac8fff7abfcd85556fc7e90d9b25",
     "428c053c50533ee2428a1af22d5973e2f610982e67e210b316b019d5c3d68583",
     "944f6744271aa728d9e3721a227712e52d12eb65faa332f28d25a9a23ac5f26d",
@@ -4458,9 +4460,7 @@
     "2c330e032394761200a7f4b06cd3291f66c72fe7b8fcd9c0ef6d47fddd80e1ad",
     "653d1a3df5e276b8f55faebabfd62a75b0e364b77108cbde9298413f6ec3c7c6",
     "faf38b263b91468d380746c7aebd609a77d9d61dd0fb1496b8a15b986fb0b00e",
-    "021a219ad0128ff58f2ec82d7ce7f2a05d97f932c3939ab6a3b6cd66c950fdde",
-    "bf6f0f4a2e7a59f7c395a141ca95035eefcd4f36526524c1073a99ae7104d304",
-    "dd52f45bba36f0d096a645aff52d7ba18a758ed9fc9a0600de8e2223b6abaad5"
+    "021a219ad0128ff58f2ec82d7ce7f2a05d97f932c3939ab6a3b6cd66c950fdde"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
