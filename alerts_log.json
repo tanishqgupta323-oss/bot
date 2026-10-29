@@ -10609,5 +10609,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Washington Post",
+  "title": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
+  "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNLUhqR0JLZExuRGV0OGdtSXNnWFZra0dESHpvcWhJdmVGYldWNjN3dmhZdXRjaEFxZjlpMk1FdEJkNGF5QWNDYnJVY3FwNFNwWXNFY2ZYOVNWUmdqLU9pbTJ5WTVFdUtDVm9JWFdQMENGYU1HRnJBRndfX3lNaHdMaTlQSkN0eTUtZG41dnFBc0xfMTAxSGR1Y3RxekNqWWFpSUtPZXljTk9VVDFWcG5QcGl2NGdZM0FnQ3N6VFd0VW80UHJzbUZaMFlqWXB4NVQ2cDdfcW5TSDMwRnpJN2xXQ0puY054Unp1ZjFzbGR6eUhBR21GUVJYV19LQjhNUEhQX3Nxc2RoYw?oc=5",
+  "published_at": "2026-10-29T19:52:00+00:00",
+  "sent_at": "2026-10-29T20:10:51.568405+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.067,
+    "XAUUSD": 0.0546,
+    "BTCUSD": -0.7479
+   }
+  },
+  "checks_base": "published"
  }
 ]
