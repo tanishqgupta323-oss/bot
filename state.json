@@ -570,23 +570,10 @@
   "calendar_fetched_at": "2026-10-29T08:10:52.292708+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 17,
+    "count": 18,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T02:16:55.439460+00:00",
-      "w": [
-        "canada",
-        "carney",
-        "effect",
-        "retaliate",
-        "take",
-        "tariffs",
-        "trump",
-        "vows"
-      ]
-    },
     {
       "at": "2026-10-14T03:55:37.006067+00:00",
       "w": [
@@ -3447,6 +3434,19 @@
         "tech",
         "weigh"
       ]
+    },
+    {
+      "at": "2026-10-29T09:01:28.827196+00:00",
+      "t": "US to Gulf States: Prepare for Short, Intense Strike on Iran",
+      "w": [
+        "gulf",
+        "intense",
+        "iran",
+        "prepare",
+        "short",
+        "states",
+        "strike"
+      ]
     }
   ],
   "resolved_events": [
@@ -3472,6 +3472,11 @@
     "22afbaefb23667448d34c9d3"
   ],
   "seen_headlines": [
+    "c26c797618acd5d27be1194280c05e0e2a35b76cf6f7465942cab60763fff063",
+    "bce3edb8d85cb6c8d82339bb54f2e311aba70aa58b831f0ec3de16bb02192d7c",
+    "0fe70a1f0fe3cc10dae47655677adc687afc4c3ba76a0f22b4f332c52bbb1c6b",
+    "f865a691b548f773d872f691194475d8ceabfa3d3dfe8e7c6da65052e2dba071",
+    "c683e3a3bf50e56e2e4fe95fbadc5f1ce024148f44856162de446507a20fe247",
     "fc2c4ca0708ff6b569bc50c06d0bab89075146a8db2ca9d4074257ff50281eef",
     "443e3d86536fb951f0b7139ef29dbad216110fb04907f2aeb67aea93e8c7ef38",
     "003ed31305df39a2138886aab9f44cf3e919466e94aecbab6cd8edb789ea8689",
@@ -4466,12 +4471,7 @@
     "f132ee2da8324fb3a558dd846f86364445c02553bdd7cd4e1dc76238a37f7976",
     "a3bb38e88108de35571d9ac0509a8c657606430541a23edf8d65b8daa8b38259",
     "c8b03a5665634877101084f3283ac235fa25d124c3c144317b61d747567748a9",
-    "22154c29200f9bd50f5d43aca299552e47b0aec6a72471847604afc4d1bf5182",
-    "3c057c695b196844af6765c341876843ebb3eb99de2e00df88185b08ca7fe299",
-    "f8b351db29c1b21aea813f5a2cb3ef0cbff72c5f81faca9bd1485b181dcb70a4",
-    "74bd226da33f06e4502e426df06bd43e303fd8fe53d2e2b563243e50748a1430",
-    "d2073dc18c8d9fc28410b88374b61449a04b80b91c8fdd41e9881082f1f7ebc4",
-    "1141489a65509a205077770eed50f0a9f5ec98274da792399e6a7d2f6815bd5f"
+    "22154c29200f9bd50f5d43aca299552e47b0aec6a72471847604afc4d1bf5182"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

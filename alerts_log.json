@@ -10198,5 +10198,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "IranWire",
+  "title": "US to Gulf States: Prepare for Short, Intense Strike on Iran",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNnRoTWxjU0lGNEJuZ29rNHdzeENJdzZndUhfY05Scm5YVEg1akJVM2FzVGZvWGNxc1hhcG5qVWYzNXBqRjBtWnRJYVR6NzE0MTJPN3FFQ0ZkVEhTUFdtV1VGRHhjbEpnR2Y1ZjM1Q0U2UlpDc1RKTzNIclRMaVlhWVZRbkNJN3l6SnBIV2R6TndHemlJTG4wb21FMA?oc=5",
+  "published_at": "2026-10-29T08:56:25+00:00",
+  "sent_at": "2026-10-29T09:01:32.386515+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
