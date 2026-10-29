@@ -575,23 +575,10 @@
   "calendar_fetched_at": "2026-10-29T20:20:52.376107+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 179,
+    "count": 180,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T16:05:40.567745+00:00",
-      "w": [
-        "attacks",
-        "container",
-        "hormuz",
-        "iran",
-        "ship",
-        "sinks",
-        "steps",
-        "strait"
-      ]
-    },
     {
       "at": "2026-10-14T16:20:52.606301+00:00",
       "w": [
@@ -3445,6 +3432,20 @@
         "war",
         "warns"
       ]
+    },
+    {
+      "at": "2026-10-29T20:35:40.085527+00:00",
+      "t": "Two U.S. service members die amid Iran war, Pentagon tally shows",
+      "w": [
+        "die",
+        "iran",
+        "members",
+        "pentagon",
+        "service",
+        "shows",
+        "tally",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3472,6 +3473,11 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "f9d54b04575bd015cf6575d7664d740dde16f843b639189fe6cff41c26665985",
+    "327fe8531816be5ef20f84555ddd6470ec1006a6099f9a95926d3ea4c6ebd905",
+    "2e339ce24be98f4636e5b450bb431317492b7d5646ecd78e81da367bca406b24",
+    "fe4e55b569308c5c0eb1baee8d0c580df39503afb7592bfd35e9848258d6308a",
+    "1eb822de84354f4daf1e5fa765f350a436d34a965c086534d278c5bd8d94538e",
     "6a53b62a5ae9b4f555e9f0f36defb29fbb273658be80182913b689a59d8c5d64",
     "6966318478a1a3db85f933042ce237f09d84bb82611f5b1a67509ee661399ad7",
     "14e49ca996be96c7c1e6ee452bc9d8db44e700182d5fedc5154561b8d2868df0",
@@ -4466,12 +4472,7 @@
     "1d52fb9790e868b69904f5a8a3fde37102ef99ac65493de0267aadce297226f4",
     "34a8a8559cc350a6b8ee3b3d1eab85c3a0c3d04ab4e764375bbe4054e6c82c7d",
     "65e315a93f0650e4abe540050eb57dc9a508c02af05f5dc445138d0a029b9d98",
-    "598736a9f81355a03e9c89b1ede9c2328f40a2850751b2640cb2fe94ed6ac385",
-    "5560569bef94f49d81ea9e3640864e6de27fb2188c3b286048c0a8daf1830c03",
-    "c4abb0c284f8435c8ebac7cfe2b1c9b4e6fa367a46f8e071c01757868aad3804",
-    "31c30020a63ee557cbd6bb8e101ee2161f3f2f35ca391c287e6900bf841848b8",
-    "538d39540947b2580b1df8cfa75ad4943e422a8e6740b95523cd383c128996c9",
-    "2eaa1870578af3116bae8bf41d9dbfea81baa4fd1b89f91f12ebc460864472a4"
+    "598736a9f81355a03e9c89b1ede9c2328f40a2850751b2640cb2fe94ed6ac385"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -10648,6 +10648,27 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0447,
+    "XAUUSD": 0.0223,
+    "BTCUSD": -0.138
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Washington Post",
+  "title": "Two U.S. service members die amid Iran war, Pentagon tally shows",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVRPSzRlRVc4Q2VvaVJkcU5wM1UzcktoQXhBdnNlTGJkRFB1QnBiM0M0c0FmQVpNX3dBczR6QmE1aUFLY0U3LWprcFdXUGVSQVpIbkRIRmI5QmlKYTZGeXJaUmlDWWdONVFEbENzck42a0h5bXp1Q0ZHejVzanRuTFBpSjhFQzhkNFN3S25FbzdqMFdrV3BVV2k0RG5sRGt5NUFHZV80QTRNSmJiSEh5a19Bdw?oc=5",
+  "published_at": "2026-10-29T20:33:32+00:00",
+  "sent_at": "2026-10-29T20:35:41.113529+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]
