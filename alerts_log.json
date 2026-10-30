@@ -11004,5 +11004,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Bitcoin drops over 5%, falls below $78k after Binance hit with $6.3B hack",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-sinks-to-78k-after-binance-hit-with-reported-53-bln-hack-4985613",
+  "published_at": null,
+  "sent_at": "2026-10-30T16:01:30.739128+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

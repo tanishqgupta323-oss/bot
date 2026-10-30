@@ -575,26 +575,10 @@
   "calendar_fetched_at": "2026-10-30T14:35:41.354911+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 97,
+    "count": 98,
     "day": "2026-10-30"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T23:35:36.833283+00:00",
-      "w": [
-        "citi",
-        "december",
-        "expects",
-        "fed",
-        "hike",
-        "hotter",
-        "icymi",
-        "inflation",
-        "now",
-        "rate",
-        "september"
-      ]
-    },
     {
       "at": "2026-10-15T00:31:06.389071+00:00",
       "w": [
@@ -3451,6 +3435,20 @@
         "source",
         "working"
       ]
+    },
+    {
+      "at": "2026-10-30T16:01:29.821528+00:00",
+      "t": "Bitcoin drops over 5%, falls below $78k after Binance hit with $6.3B hack",
+      "w": [
+        "78k",
+        "below",
+        "binance",
+        "bitcoin",
+        "drops",
+        "falls",
+        "hack",
+        "hit"
+      ]
     }
   ],
   "resolved_events": [
@@ -3478,6 +3476,16 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "4dd360300b5c442dee2c591f0bb570734ba080c6fc87b38a62c447ab8ccd79d9",
+    "5e32fc9e66b7bac83e3906c159b2690a225f3f6e89d0cf9e3306db303aa05701",
+    "c21e3f3bf702ce217343885bab719959349d003b6a961f2180eed86507404210",
+    "ca5500af4d7353ff54b76b9490b09796819b22c5621b888fa743c282971660fd",
+    "b4302b058ff964a5e309a69c8efc35721648e4eea941f97711e6b0c8b365bd4b",
+    "4f009e294fdcee0de66bdc172a6db99bb3891227878c04880674d41af4dbe83f",
+    "49ef3206734c49d6f8dbc7a77356d222170685246cf699931e7632ca25104f8f",
+    "4767244e4cec3abc543c49eed379a5c76a72e221ee1d04b8cac2c8112f05fbe6",
+    "035485d861835ca67348cdb5a02eaa83b7e21d294e00c76342284cc66147ea5f",
+    "106184010ea31f69416211d00f74f107cdc4d92204c2e56b32c63f918da06334",
     "72f4100df12082734aad68a5d1f259ef46a6fe3dc22159bbb62fa9c749437be3",
     "c6081a7a36118ef7805ce14e2a71aa3276d2d0bf14a410eeebf4b9b7794280d9",
     "bd01d0ed0a9fa8e137b3bea0c4721e0c319f89c6a80d781bad97c4454b814002",
@@ -4467,17 +4475,7 @@
     "edc9422da08247872cf6ce0d1d80c7054cd7046bd13474c1c8bc8541eb73e07f",
     "e5e084f058249d8bcd046920864e15e958c669917d7a936a2dd8442205b251b1",
     "52d58dfde60749eae647da19a1db03750f3a618117e5fd12e3971a2127a35cd9",
-    "0fd1bb59a8d3a26ab995c7e852dc46fa3cc83fc0aa199b4a74c54ce508340c43",
-    "831d76788054280b062ef2cec0c9e46fae60d3c5715fdf17467a1efe92dfe5dd",
-    "67cd56e61d3e183e41c0973b4ac837ed836283f9a4a9f123cc69a69bb769f332",
-    "9b7dff6dee4c2493ffcc67d8320eaaaae710fa902ebfaaa9eff5e18d86b0856c",
-    "39517f676d71c9114d41901f7f300bf2cb2221e775b78ad8888ded3c9b9d1b18",
-    "f8a011eae6dcca56073f675f9e2edaedad51dcb6cb0eb52f2586a7052ab3880c",
-    "fc7dabf1c2e44a3f818c34ef75616ca3d13d1e2dd6dc25803fccd9e62b4ada5d",
-    "ad4ca448c668893841cae5065d97ec5b7588148aea7a3dabf1a9a0a3914fa09c",
-    "c5dcc6808188c34676b5b75cc09a597d8fe6e0ed7e66c698935503423cd14c70",
-    "3a5a13a87f0636d939a3186a134e08d51fbec78225665f6bb86975e7d2a9466f",
-    "87d158d2affa3c13af66a3c66887ebeb071c7e7dbcbda99d8e65d103557f418d"
+    "0fd1bb59a8d3a26ab995c7e852dc46fa3cc83fc0aa199b4a74c54ce508340c43"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
