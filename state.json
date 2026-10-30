@@ -575,21 +575,10 @@
   "calendar_fetched_at": "2026-10-29T23:25:37.565109+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 236,
+    "count": 237,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T18:50:50.080070+00:00",
-      "w": [
-        "cpi",
-        "fuels",
-        "hot",
-        "red",
-        "report",
-        "rout"
-      ]
-    },
     {
       "at": "2026-10-14T19:31:10.939212+00:00",
       "w": [
@@ -3441,6 +3430,24 @@
         "price",
         "slides"
       ]
+    },
+    {
+      "at": "2026-10-30T01:31:16.513370+00:00",
+      "t": "Gold hovers near $4,000 as PCE inflation, oil risks revive Fed hike concerns",
+      "w": [
+        "000",
+        "concerns",
+        "fed",
+        "gold",
+        "hike",
+        "hovers",
+        "inflation",
+        "near",
+        "oil",
+        "pce",
+        "revive",
+        "risks"
+      ]
     }
   ],
   "resolved_events": [
@@ -3468,6 +3475,18 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "5d1986155c9e14a980713322e6e7eb4d4e20b53a4c91c20037392956c47c723c",
+    "5f54072634a3540092803bec15ec1572bfcf2f0aa82e562667c8a58ab0dda08b",
+    "b8f304c8eb2a6bdf9b5788802a57e9266ccb988b67b949fa466a20872a4c0ee6",
+    "075b5c9f9fe4e3f5cea58d953ea3d177e4bc7584109ed64021a9db3ed45d1207",
+    "912f169b8e78f88afd5e954dfe2e03cd12f11e304cfe415d2b66c837e825aef9",
+    "60e9383cd089fb01c4661a752910ad672244f64171e2cef2716e21295bbe03c0",
+    "b979756367219b00665ea0a965071e64c2cfdde8265be3b3014c04eebd7d7667",
+    "b79dd5fb203c8891a034004f01b19cd0f62088f5418df6527bc8fcde4c3a8a15",
+    "18b9ecc2da2ab72865ad4a3add2057e2a91e13f125f906acf8f8f20a72600b32",
+    "b980f619a661c97144b26f2a4d6b6ae630bddaab04222490891b3d69e0d4f4e8",
+    "5c48ba06c07f3e90caa34e78dd18ee83fbefb78976be8cc3cc1a0e4df6c2ea32",
+    "a2385d2eb9e1a6f97f1ddc8525cad7906e5d8a40830e52179d8926b1a210f9d9",
     "721b14c80ad3f282e0d04fc263739bc69fbe560bfa3651c4a82867a0f978d3fb",
     "fd4cc4d354f82e0a9ecb691dd74b0dc2afe7d07541685cdaf3b9e58133a29a77",
     "b61850fc47d446a386ee63d851f5cd1c9de1a9adf9a80e2f5429f05a0eb0564e",
@@ -4455,19 +4474,7 @@
     "4525143f494630d60dae11da4e522a270d1966d87645627085a3cdbe65dbd8be",
     "4727a1afa482ec39a0838c8a394682dda27b32486e0b62ed6275292543d6ac84",
     "500b2f4f84594b80669ac6c256197c3f2f6226b42f08e39a75c4a092305dc0fe",
-    "43d4e7b75baeb5dd33cc06e90279529cf0c62bd66677e46a79ab0a4dfdac63e7",
-    "38e57b0f95c4552cd2a0d14e7c3dc729e3701f35ce95e8e7cc9875968e6651c8",
-    "cc587b6c250923bc4bd355f049f67ad63e9d571aa8b87e2e41319d7f645d9811",
-    "7c4059febb79d69f81363735e1fc1012fc6d97d11010cd405a7f9c158e986a79",
-    "d8d26a33053ee6358e58d6002ac3d8f557750944b78caae9b99064f72f518d61",
-    "1eed2744199226ca5d8fdd6075a0c478f63490e7ac60081a3944414e9a38d571",
-    "b7e5be813ee7aab88360720f3084e617c809f736a47a687ce4dacd448a667768",
-    "c4089e735934f439dc6290e6af456cb6d96db3e627164b561dd5275215ebe741",
-    "201c18d3b156ccde7fe6f4bb67fff899ade5ed5cc91d4753469622eb4a37a4a9",
-    "8409325f1707c3de9a9c15749df99ed40aaa5d8091da9cb288be0d0d689fad89",
-    "2cef9dc2cb20166ce9fbf2635c513693437a0e1b44c3f7f06df6596450e6ae2d",
-    "2d6b6a9a05cadcba46b30b74b4c89a79b8129d642ca0c80c80eda408598d1dbd",
-    "e07ff9663539a6200c0a8d9411e9ee932033c772a80b7bd94786aa0ee044ec12"
+    "43d4e7b75baeb5dd33cc06e90279529cf0c62bd66677e46a79ab0a4dfdac63e7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
