@@ -11108,5 +11108,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Barron's",
+  "title": "Fed Officials Signal More Interest-Rate Increases Ahead",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWd3d2NyYmQydkw0c2MxRWpwSVhFUjN4TUdwazh4cWFhUlRoZGlydDl3THY5TFNVdUdzbE9oSWRSMjhONG9mb0g1Snd2d0hLanlDSzJYM0R1eHg2ZmFtM2lwRTlCSjdPcWlYczhUVnRyQ0VjRDRyemxicEtXUDBqa1RXbTgzVkZoYUVn?oc=5",
+  "published_at": "2026-10-30T18:18:00+00:00",
+  "sent_at": "2026-10-30T18:45:50.935145+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0782,
+    "XAUUSD": -0.0488,
+    "BTCUSD": -0.2232
+   }
+  },
+  "checks_base": "published"
  }
 ]

@@ -575,23 +575,10 @@
   "calendar_fetched_at": "2026-10-30T17:40:51.537421+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 126,
+    "count": 127,
     "day": "2026-10-30"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T01:10:50.932261+00:00",
-      "w": [
-        "asian",
-        "cpi",
-        "crumble",
-        "data",
-        "hot",
-        "markets",
-        "sell",
-        "trades"
-      ]
-    },
     {
       "at": "2026-10-15T01:45:45.411678+00:00",
       "w": [
@@ -3450,6 +3437,19 @@
         "needs",
         "rate"
       ]
+    },
+    {
+      "at": "2026-10-30T18:45:50.029763+00:00",
+      "t": "Fed Officials Signal More Interest-Rate Increases Ahead",
+      "w": [
+        "ahead",
+        "fed",
+        "increases",
+        "interest",
+        "officials",
+        "rate",
+        "signal"
+      ]
     }
   ],
   "resolved_events": [
@@ -3477,6 +3477,12 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "508b9d3f07d3e4db9344cb8dc57829d4b3ee6c259602dddd0628720578c102bf",
+    "80d0ab40650c27b63cbf5d3e607fa5dc950598167ed81420961d5f3938208be8",
+    "42ebdeb192cb570ec5804e9245f9544f28ff00d15811ce92dfc1127927f94736",
+    "c93d80b04daebb3cf7cd2f5d0b79ef3f46411db9f1aa6fe91b3babe00e251c80",
+    "7f580063511c664118aab9f798ba29dd7dd0cdcfb4e08f5f440fad039d2adb04",
+    "338f858b1696e36af3a27b0bf99d0d80ebdad2931ae4c72d17dfabdf6703af3d",
     "5bcd12245a7b5de8cdd4cf15e260a0504f251e83e539d50ccc6c26ab4eb3b3d6",
     "4bd20561c791ca7c905f202e7fd7c940197aefb2bd1c2f57d4d22dbefddc997c",
     "66c99a3bbe9b9da8ef543bea9561a4bff4a542c8648f25eda6d98b24d9f473ea",
@@ -4470,13 +4476,7 @@
     "5235f604620be4ef34c5399c58eedd8c37393fc9bcf96e58f436800236127262",
     "17bdcfe6b289bc5d8115e72456c570c83fb5fd7d9124cd9de1484242d8b258e8",
     "186ae7a1422a738c89816523c23ddbc0dc72a6c3f7c714df36dc8c3be82b6f50",
-    "beca44fa6c980377a5f22d7e3038c2a424a4859c2b275721b58dc4cecebc5ea1",
-    "e6e3f3edfc3851370b2eb988142726762dcd8398cd456a158ad9ba9a03460621",
-    "be52ad74a3e3a9c385973b123bda3462111567aaaf0d0d10dd55772455312e38",
-    "62a47b67184a38b7d6b5009c6e4b6f9ac44f4a465b6991b9be435b67b13994be",
-    "ed3cbdbd5f458e99d97d4a596d1c86345c3204b9ac2bbb04fe0ad83e8498fb25",
-    "b34ccafa891448e065ca868ce4b211212abbb6e3f0959f77e15ceab69d584587",
-    "566958ac3d367b799a7be6cc298e0ee2098a7e144b32511c4386f8c558ed93ad"
+    "beca44fa6c980377a5f22d7e3038c2a424a4859c2b275721b58dc4cecebc5ea1"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
