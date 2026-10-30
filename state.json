@@ -575,22 +575,10 @@
   "calendar_fetched_at": "2026-10-30T02:25:38.825013+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 256,
+    "count": 257,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T19:31:10.939212+00:00",
-      "w": [
-        "bad",
-        "cpi",
-        "discouraging",
-        "fed",
-        "goolsbee",
-        "months",
-        "unacceptable"
-      ]
-    },
     {
       "at": "2026-10-14T19:31:10.939212+00:00",
       "w": [
@@ -3448,6 +3436,25 @@
         "revive",
         "risks"
       ]
+    },
+    {
+      "at": "2026-10-30T03:40:55.151419+00:00",
+      "t": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+      "w": [
+        "behind",
+        "binance",
+        "blockchain",
+        "crypto",
+        "foe",
+        "group",
+        "hack",
+        "korea",
+        "lazarus",
+        "likely",
+        "longtime",
+        "north",
+        "sleuths"
+      ]
     }
   ],
   "resolved_events": [
@@ -3475,6 +3482,8 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "16387e2876699d9d8f97225a84bff1c96840d6773c7aa973186d29ab548f7837",
+    "226d6847d4bb2b1aac3896b6b02018b7a09284184945e7d154ae6c6b5798aa80",
     "6baf9c5a171d79e5eb8426434a3d82bf80e6be87fda9a9387e2552c1db80a42f",
     "d867088d31e8bd0e0c40f4e230a7d697fe7e1b053768e8a39b74aa93c40121ae",
     "c85e4508f076badd7c7cd2b1621b96e64fa3ed7bc54eb1f2074c41955aab1e59",
@@ -4472,9 +4481,7 @@
     "e185ca9017efe6d281197179cfe44daa456a3019b324665475efb471a53cfd5c",
     "7c00cd0d373ac49f63ff7f6e9122f4a8b85da0274ec44d844c5faf76047ce7c6",
     "6bce39881106dd1650b39b82310eff55457fd5e66ab1ceee82e4477d2e5f6560",
-    "b806fbf255ed3ced1995e972d1d97ff0bd548fc7e06c88a784d068951046734a",
-    "09cb356a450836e0a313c9565931ac887ff8895b371c72ccf7887b8d46488948",
-    "c18a24b905bb05d1e43cdea0d83ba6d6edb1ee4402d8367213c825c42839c938"
+    "b806fbf255ed3ced1995e972d1d97ff0bd548fc7e06c88a784d068951046734a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
