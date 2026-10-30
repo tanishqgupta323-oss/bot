@@ -575,23 +575,10 @@
   "calendar_fetched_at": "2026-10-30T08:31:11.798341+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 43,
+    "count": 44,
     "day": "2026-10-30"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T21:45:49.417376+00:00",
-      "w": [
-        "daly",
-        "exclusive",
-        "fed",
-        "hikes",
-        "likely",
-        "needed",
-        "rate",
-        "urgently"
-      ]
-    },
     {
       "at": "2026-10-14T23:01:18.806410+00:00",
       "w": [
@@ -3453,6 +3440,17 @@
         "struck",
         "tankers"
       ]
+    },
+    {
+      "at": "2026-10-30T11:05:38.437415+00:00",
+      "t": "Italy October preliminary CPI +5.4% vs +4.6% y/y expected",
+      "w": [
+        "cpi",
+        "expected",
+        "italy",
+        "october",
+        "preliminary"
+      ]
     }
   ],
   "resolved_events": [
@@ -3480,6 +3478,11 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "4dfdde5a84b1c9b33bfc836f4fcd1c274c73bb07f877da269fd9ec07f1e22322",
+    "59aa1c874f362c50078b49985b30a5630337fdc6138e343028f2d45c858efd6b",
+    "fb9548d2f8f6b78ed2cb22a4e7c03b271d54c0ab8466a03790e9bb6dcda74e49",
+    "633a842dcb816e2bf9606c58f9afdc05ccd6fdb693452e011d6da99735c7c6d6",
+    "6042f7d91484fd94267679e30d2da5c0955894962b9ba4fb3b27724788a3afba",
     "4b38db4e76662d0ba379f18d83c11bbec03929f05b0a90f690fe2af598ed7d77",
     "727e5c62f97678770cf797e4c83e24f7db8e077946898dcca3df1817987a44ce",
     "1ba704cd447471b50dba7257e2563e877a74c40dbf7336910852404713e41811",
@@ -4474,12 +4477,7 @@
     "bf4797374c8a080ce2331da7d687173d5bc84a5451edef66bc7a3d44dd0a610d",
     "3a0295b6581a76172a9e227fefd92a78523c193056b54594e824cd0755337539",
     "8369e1177c7bb21e7c739070b12472f3df2834ff72e24365683510b222045a18",
-    "6901f114551de1fd96770833329c6f005df0303b63b2bdacac9e81d36caabd09",
-    "c15797d7fc55dbdac27ad267a0742bf33a55f460446a51c7a6ce03089d65956b",
-    "f002bed9e6a8cd082d81f000c2f3efd8f4e163e27c1c1f6cb9367aa5770b6816",
-    "465901ab70131159678639c7cd1fff9301cb0b264ee0fa00b1e1f7ebc81e2c9d",
-    "f1a15082e9cf576c227eb783414ad3d1e8fdfbf3f1256be3f000b8bd09e8ce50",
-    "24efa834307beba2703466df6b8bec66c5db598ff0c8a30be2f2da1a7e857d0c"
+    "6901f114551de1fd96770833329c6f005df0303b63b2bdacac9e81d36caabd09"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

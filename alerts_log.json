@@ -10952,5 +10952,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Italy October preliminary CPI +5.4% vs +4.6% y/y expected",
+  "link": "https://investinglive.com/news/italy-october-preliminary-cpi-5-4-vs-4-6-y-y-expected/",
+  "published_at": "2026-10-30T10:01:45+00:00",
+  "sent_at": "2026-10-30T11:05:39.564861+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0224,
+    "XAUUSD": -0.1525,
+    "BTCUSD": -0.2875
+   },
+   "60": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.3375,
+    "BTCUSD": 0.2607
+   }
+  },
+  "checks_base": "published"
  }
 ]
