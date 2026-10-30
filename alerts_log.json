@@ -11134,5 +11134,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "MS NOW",
+  "title": "Trump plans to resume strikes on Iran day after midterm elections",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaS1hR19qbUJVbFBvOFd5MTFDTUZJSndMeHNJYWZfUWg5Y3dSLVlTUDd1MTFRbUFjRDVSYjFpMndaOFZvVzRXaWhHWHJ1RmxhODRRajd0Sll6ZGVuUkhKT1ZuZEhrWU04eTVUZldMRkx0MG14NGlDa1J6YkRjNVVGeDBGU1BobnpvdlJzdmNRdU1uZ28?oc=5",
+  "published_at": "2026-10-30T21:23:59+00:00",
+  "sent_at": "2026-10-30T21:45:53.955990+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": null,
+    "BTCUSD": -0.0067
+   }
+  },
+  "checks_base": "published"
  }
 ]

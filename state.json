@@ -586,24 +586,10 @@
   "calendar_fetched_at": "2026-10-30T20:40:52.306463+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 160,
+    "count": 161,
     "day": "2026-10-30"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T01:45:45.411678+00:00",
-      "w": [
-        "around",
-        "cpi",
-        "gold",
-        "high",
-        "jumps",
-        "post",
-        "retreat",
-        "treasury",
-        "yields"
-      ]
-    },
     {
       "at": "2026-10-15T02:01:23.312783+00:00",
       "w": [
@@ -3461,6 +3447,20 @@
         "rate",
         "signal"
       ]
+    },
+    {
+      "at": "2026-10-30T21:45:52.910354+00:00",
+      "t": "Trump plans to resume strikes on Iran day after midterm elections",
+      "w": [
+        "day",
+        "elections",
+        "iran",
+        "midterm",
+        "plans",
+        "resume",
+        "strikes",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3488,6 +3488,8 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "73451bacbb6c8c73b9bb280777ec46263445070ad40ce384947c5bbd927aba43",
+    "a6b9b7fda0ebc1b8c57ef2957bdf5c67c68f6c53201053f8452f3c1327118ed2",
     "02733482fda49cc0e094a9990b1a650e29e0fea781ee7c4c60fd1fb95fb95282",
     "a30c7d1e55ffefb858345f32d75f5de5130316a4fea52fb199d70a366851d382",
     "f5e014edc9253a1076147a8f5cc5c5584ef6662638a737ec10ba947824ea159c",
@@ -4485,9 +4487,7 @@
     "3642549f4ed9a23ab2753f822c37de243a6bdbd72dae0ac5d305a38d5a9d8103",
     "07594f082d5223b2def994de03499cc5f088919480e57c986d600db488741446",
     "173a325d3a072ea82a7cde18f23274063fe1cfc190882e537635ab973746bcaf",
-    "6ce1883b156e8d9e4d41a709b5c88a738c9f6727f90635fb6297bab41d7881e4",
-    "04f1beac0eaf3f1a3fb6b6b7d35834a12fb21a97b8f4980a4972d38544fcef46",
-    "aff358dd2f4974f1e0687a85fccfc9791858ead20215964cbeee7718dae86504"
+    "6ce1883b156e8d9e4d41a709b5c88a738c9f6727f90635fb6297bab41d7881e4"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
