@@ -575,24 +575,10 @@
   "calendar_fetched_at": "2026-10-30T17:40:51.537421+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 115,
+    "count": 116,
     "day": "2026-10-30"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T00:50:50.050655+00:00",
-      "w": [
-        "concerns",
-        "fall",
-        "fed",
-        "futures",
-        "hike",
-        "hot",
-        "inflation",
-        "revives",
-        "stock"
-      ]
-    },
     {
       "at": "2026-10-15T01:10:50.932261+00:00",
       "w": [
@@ -3452,6 +3438,18 @@
         "tankers",
         "three"
       ]
+    },
+    {
+      "at": "2026-10-30T17:45:53.703323+00:00",
+      "t": "Fed needs at least two more rate hikes, Logan says",
+      "w": [
+        "fed",
+        "hikes",
+        "least",
+        "logan",
+        "needs",
+        "rate"
+      ]
     }
   ],
   "resolved_events": [
@@ -3479,6 +3477,13 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "fd1573b7e7d76193d84031c7ba35c134c9fe6db128deae176523a741d18a200a",
+    "f46d49b11407c0483dcc489697ca7c5299f9a24291223edcc4ef62de5893e6a9",
+    "ee03a1fbff00722223f4fc3625ac85da58d3e2adb59362c9f73761b1dba971a4",
+    "b2ee28987f1773eba510c5f5e434e3ce668da98dd08c13f58bcb9467d4ca977e",
+    "1555fedf247bf97a6b8448e6365eac9c67c9396241ef2abdaef82a3b5c5899b7",
+    "62bee16db31de0b4ad6115cb038e7350d183823255d0b79475a5297c00dd7f71",
+    "e76beb5708df4ed5a8a09a0488ffac7aa13f5d506abb83d9cc89669a596aadf3",
     "162ffb439dddfdbc3e92d5a957306f4d0f163def829c6b4aea420dbdb6fd64e4",
     "48efc1f7ca512c0892f77c963e5ff18f8c19108457bae89ef7981235648514de",
     "e053ac046aeb7844c432bb9a9ee241cd9c54707be34a9e95df95351db0e950af",
@@ -4471,14 +4476,7 @@
     "c78eeeb967e3326cfc9d514782b50db4a4ce7ffa0e4cc60b2864fb9b6a04a780",
     "7144212534eecdbfbeb44f71313e48a936926939b186309fad707859ccf5cd65",
     "407d59843aee19bab222ffb542b7c689a074d2e1bea0965dc45a7a03b7c9ebc2",
-    "da9d871301c41556355b5bccdb09858f56a4b76d9aa337416b16b3f1134b10b7",
-    "5ce42144982028490a3c99dc4f99945084c58f30baf4f9437c2fea92f1c6f187",
-    "928c8be39d9cf82d10e90681f1bb9ef10a9354d59ff728aeb8ecfa3485596685",
-    "94a1048dcbdd91edb97dd5c5d8d631b5012455da6b51e6f0986d118e3340db42",
-    "f823ff3330b60b92b0403a7bc56342c5b78bd0d924768ae02e6297a6c5de839a",
-    "386f211a30afe551bc4c536316902893afa469fd643c6c7fa92f1b8b85cbf567",
-    "49145969e59880c024f39bc8ac7516288f9dcae10e00239c2dfa5deb4007d48b",
-    "321a6f31682e04f13117577781e98d86c75504248a231b03023b2951d7bbc56d"
+    "da9d871301c41556355b5bccdb09858f56a4b76d9aa337416b16b3f1134b10b7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
