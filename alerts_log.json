@@ -10887,6 +10887,13 @@
   "eurusd": "NEUTRAL",
   "xauusd": "NEUTRAL",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0849,
+    "BTCUSD": 0.1342
+   }
+  },
+  "checks_base": "published"
  }
 ]
