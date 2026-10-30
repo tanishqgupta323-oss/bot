@@ -10900,5 +10900,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+  "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+  "published_at": "2026-10-30T06:22:00+00:00",
+  "sent_at": "2026-10-30T06:25:41.011666+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

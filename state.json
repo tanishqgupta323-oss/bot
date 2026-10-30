@@ -575,24 +575,10 @@
   "calendar_fetched_at": "2026-10-30T05:31:07.089950+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 281,
+    "count": 282,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T19:50:51.306795+00:00",
-      "w": [
-        "americas",
-        "cpi",
-        "hot",
-        "investinglive",
-        "market",
-        "markets",
-        "news",
-        "upends",
-        "wrap"
-      ]
-    },
     {
       "at": "2026-10-14T21:40:51.127146+00:00",
       "w": [
@@ -3453,6 +3439,21 @@
         "splits",
         "wallets"
       ]
+    },
+    {
+      "at": "2026-10-30T06:25:40.218832+00:00",
+      "t": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+      "w": [
+        "bets",
+        "billion",
+        "bitcoin",
+        "crypto",
+        "ether",
+        "leveraged",
+        "selloff",
+        "wipes",
+        "xrp"
+      ]
     }
   ],
   "resolved_events": [
@@ -3480,6 +3481,9 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "e5786d2ae30730962a8f86155620f0dca812ef607be9a22dfa9cefaf64874a7c",
+    "51cf9c4d3429bee8e93fd040ed1dfd38e3df31d087c9f627fc2bc92a863a52bc",
+    "1611eb6234e7e768b6575c476ae151c07531eec1f87ead6749fdc8edbc41863e",
     "d21d5193c9e33d57c8e599cfc5041ad53eb8517a8a483e3e645c1d74f336250d",
     "337d65bbc537e37b8d011c44aca6c03ad1158c281842f6c2e6a6b09b81e8c792",
     "0739d0dd4d4b69c3e6799647ad4263de565f22f124f91e67cf51380082e94351",
@@ -4476,10 +4480,7 @@
     "a42ef4a667a1f8adb32ce637625c8ec3a335902979d3095b823f3e5a7d6ed371",
     "1633a1834c9a50a5a1aacf680a8e2378ac1e1e030efb726f93e21a0ae0e84820",
     "c3ad50490c966a139b6e2de8ca1f06c9b3e411155c9de38705759902d0236483",
-    "58f1f0b749ce505abfbbf23c46d71bbd0bc73b535e2332fc930e6207685270d6",
-    "51ab6c1f43240aa5638bcc6072e149c76c8ae2817051adf5aeb333075f5114b1",
-    "622c6dcc5490440e76fa9fa45d2ed78b0bad6ff694cd8bcba9152fb17a81457d",
-    "425d7bf3d2916b4ff41d63e55414d505f46d63500ae8fcd8b1b85cb5c2e13f6a"
+    "58f1f0b749ce505abfbbf23c46d71bbd0bc73b535e2332fc930e6207685270d6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
