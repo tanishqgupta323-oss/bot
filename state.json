@@ -586,27 +586,10 @@
   "calendar_fetched_at": "2026-10-30T20:40:52.306463+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 180,
+    "count": 181,
     "day": "2026-10-30"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T02:01:23.312783+00:00",
-      "w": [
-        "bets",
-        "cpi",
-        "despite",
-        "dollar",
-        "fed",
-        "high",
-        "hike",
-        "hot",
-        "month",
-        "officials",
-        "retreats",
-        "temper"
-      ]
-    },
     {
       "at": "2026-10-15T02:10:53.881835+00:00",
       "w": [
@@ -3461,6 +3444,20 @@
         "strikes",
         "trump"
       ]
+    },
+    {
+      "at": "2026-10-30T23:35:39.445283+00:00",
+      "t": "Trump says Iran war goal met as gas prices rise",
+      "w": [
+        "gas",
+        "goal",
+        "iran",
+        "met",
+        "prices",
+        "rise",
+        "trump",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3488,6 +3485,7 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "f0972de9a792d8e4d11b0501a3f9b5d71055a03f6716d14376f4b2ce660c0de9",
     "3248ed0239076f0d3dd82332255ecab3d8054d1b98ffd3ea4148a0ef1518efd2",
     "07fac23032dbe148a7efeaee7adbe887de012bda6f8b11a650efcc47135a4dcb",
     "a01688a08b251b60c774082d5a43f7720365946c1c6e472a562f3b2341ea2054",
@@ -4486,8 +4484,7 @@
     "4a636abd0c62d4c858581875e6c421ec9fd5b080e8b01f9af760d733c75386be",
     "2efc664ee7fd36a51a8ed6fc6e0fa804d9470d95f6986bc4c57cefd2c9501768",
     "2fc97d4faf720ae853ac95475900964d413d81704af7aca148a02e287b8f101a",
-    "f8587d7dd988dc98408a589f200a6f243f20e87ed09d10b9dde3b6d1afce344e",
-    "457c50390389799e9e468ad5151ca663a29fef275cc044181d383a5923b62ea6"
+    "f8587d7dd988dc98408a589f200a6f243f20e87ed09d10b9dde3b6d1afce344e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

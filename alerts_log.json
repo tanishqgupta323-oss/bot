@@ -11160,5 +11160,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WWNY",
+  "title": "Trump says Iran war goal met as gas prices rise",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjhxaG51Q0FqeURONzk4NzZaNV9UbHViRkkzV1k3LV9vb08tZXprV2pXSHRFc1hQNWw3QmQ3dEl2N2MwZk5CRDBkSmhqS3lFS3JrWEg4dXdmSlNZLWpPMXZ0TXg3UlNNeThUd09MUWZTQ2VvY192UDF5Q1NvbEljX3pEM21CZ9IBmgFBVV95cUxNaUwzbC1aSXhYNFptYWdSa0xULTViMDN0OXRpTzNtcnBCUWlNcmc3MW4yNENNcWQ2T3NsYmstdjRUZlgzbXpmSXZpN0U0MmdrRHctc1A2RkVwdDFfR3AyemFQYnE2X0J4MEZJVUV0SE5PQW1xeXIzQ0VwM0IyQ1BpTmJBT1JjclFGbGpmOGduelE5cEdmbTRWZmt3?oc=5",
+  "published_at": "2026-10-30T22:07:00+00:00",
+  "sent_at": "2026-10-30T23:35:40.307219+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0999
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.3329
+   }
+  },
+  "checks_base": "published"
  }
 ]
