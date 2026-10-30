@@ -575,25 +575,10 @@
   "calendar_fetched_at": "2026-10-30T14:35:41.354911+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 111,
+    "count": 112,
     "day": "2026-10-30"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T00:45:46.450028+00:00",
-      "w": [
-        "bases",
-        "evacuation",
-        "fears",
-        "grow",
-        "iran",
-        "irgc",
-        "military",
-        "orders",
-        "reports",
-        "strike"
-      ]
-    },
     {
       "at": "2026-10-15T00:50:50.050655+00:00",
       "w": [
@@ -3450,6 +3435,23 @@
         "soon",
         "tighter"
       ]
+    },
+    {
+      "at": "2026-10-30T17:20:52.846174+00:00",
+      "t": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
+      "w": [
+        "continue",
+        "fire",
+        "guard",
+        "hormuz",
+        "iran",
+        "reports",
+        "revolutionary",
+        "strait",
+        "talks",
+        "tankers",
+        "three"
+      ]
     }
   ],
   "resolved_events": [
@@ -3477,6 +3479,19 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "5aaf716a89c9d9cf909d489210e0d1a1603220aecdd9f7bd0e062fe638834315",
+    "d171fbd4be4f4633d53cc402eb89183b82c2dcfae038daf627fd5ec131bb397b",
+    "b3641cc248fecafa5cce34de66fc685367bfe5525979268aa04b8509a6d2723c",
+    "15322265b347a0ff499e7ffd38e4c69181fd33d14086a9dd553a3bf77324b2fa",
+    "01900a701d967f2bd895ed1df113a9e427754871dfc3aee99d033d5283a34777",
+    "c3f35d2405c8f22e238e38904e988da58742ab8694a6273a08c289fc8c418ecf",
+    "4ec9dff19f967123e6fbe2b2840a46e10e92ba2f9132b0ebde53089b22823d40",
+    "32d7d1b35f0f83bdd819767995f8f5397fda14a199693ecb655d0feb2db9f664",
+    "3b5041d536d6f746e2ec4d13dad744e15df0d684bb51fcf27c2588c8f209b491",
+    "4b6bc814921333edecdfaeb7d4b55544c33128f003df5e598bc4ab8cfe0eb823",
+    "4c374869cf7219bab860c54d5dad0a84509d92a8906f2d1bc838c4bb4603e41b",
+    "0001162873052393fe06bc7ffd45c634ac81c8936d6f3f2b814a83030497ba92",
+    "42b382ea084b64d306742fcaeb47736ec2cec920d33b09a773d4ea3f362b8744",
     "10988eaaef15ab74265a0996230cd8f5011efc30c8f8bb1fe8335510810f7bcb",
     "6379109e91c0029b38781b70493adf6e94d6b619750f7d2982480e3877440185",
     "6b034b81a5600a380ef9a9eb36caa80e698728addcd0b671099dfeca5942bd96",
@@ -4463,20 +4478,7 @@
     "c3a4efcf5551234adb7cf4a04913a76f0479fd40f829589b3d15366e512c4784",
     "27e57609d1feab95f1c71ca2262fa4b511141418547c9c930f3bb2a1dfcc8301",
     "428de6cb621cbcdca112312eb66a0575c5be82c6c190117f981a8e939d9bc0c5",
-    "bfed344929710f13a69c03c9e2b740df3da0a64290a00e1b8047911e146370ff",
-    "2f1026f7304f2aa10c6e2482bd3e76ef51e13b522c0b77721ab58e0ba529c134",
-    "331213790dd3652f6129301131872dff5df2889ff92dcdab86a1a0312136c64d",
-    "114d7c615f87cce293a155894174ad5ba902e28cf281682f7e74e301bf19b249",
-    "71c9db5b7cf481b2bc92aa7d97c33b86cad957b39892c3d9a47eb2e30975e913",
-    "b7453e81c8b626f9bd8fee374824b3151a1fc2e257fa2866c4fdd1de89e1ce8a",
-    "fb3057260736a28bf0bd8eb5176912d983de7970ed443a2071fb723ddb041df4",
-    "989f825c71400daa8f97d0f6ff137c8c8b9ab578ba3560be540193099073a87b",
-    "4b31acddb88be82fb5122fa4bd958c89a8b9b602468c9d24faa61ac32df33085",
-    "48ccd69ab5bb5bd52f6e8eba31154fdad6446944bcd73f0dbd066594d3527276",
-    "04e3fa0cad868e04e280df7b0f1337993b36897b602df6e295b8a8b81a0adde9",
-    "785ec69f9b37d202f147cd775d8467f8b6efcbe8970c1547a7f5d9fddeb60941",
-    "8c7d81422c6f99ddc297b57d57fead9e5ea8f69bd351911315a41021937788c9",
-    "a638a11c907d1abe3ee87aa8759265ff99e26662999e27ccb81f1c5b517cee33"
+    "bfed344929710f13a69c03c9e2b740df3da0a64290a00e1b8047911e146370ff"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
