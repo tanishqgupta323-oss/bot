@@ -570,12 +570,23 @@
       "scheduled_at": "2026-10-30T16:30:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "FOMC Member Musalem Speaks"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
+      "event_id": "8433c81c7decd7650bcfff90",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "-",
+      "scheduled_at": "2026-10-30T17:30:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "FOMC Member Logan Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-30T17:40:51.537421+00:00",
+  "calendar_fetched_at": "2026-10-30T20:40:52.306463+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 149,
+    "count": 150,
     "day": "2026-10-30"
   },
   "recent_stories": [
@@ -3477,6 +3488,9 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "2bc1d990f43b1c64b0f9ea12264b6e73bab04f8906c8a5c3ccec3cdc69cc31d1",
+    "b0539ba41a8dd82348efe26cbe4ca52ec205700a05a8e55708753b42932dd170",
+    "8fcaad9cc6c080f6de2be78c9e390ff023cfccc14e50d5b362dddbafeb0bce1f",
     "0badd56f101c826cfb489e6276dcad0ff09e496f5204542686128e3a2eb9baa4",
     "16387e2876699d9d8f97225a84bff1c96840d6773c7aa973186d29ab548f7837",
     "8ff6e119a33cfdd949d259fe08304a13ff26f8d470d572f61ff3d434cab51772",
@@ -4473,10 +4487,7 @@
     "211fc436ce090b2c4bdb27aa6e34829cd4ea4bcd326240c44faf215edd025156",
     "fa22ad0b30578f20e6a493fa88144a080e74945e78e10dcdcd952c36eb964447",
     "326a71c336c84e081d4232ff8555e0d783dd223533f7661129764921b0debc0c",
-    "bdf8e27f59cb09196e5c5fa8499c4fb5ccbf3f094a59e81fbaa0cc2078c7ea59",
-    "fa888416a8c7b09c0dcca70ae0c5b195ffc43a2c8a1c92153d54a0447e86ae6e",
-    "aa110ec11adb1673ca0e3811f354d04d22ce8293bff8f3356e5caf723667d1a4",
-    "2f7503b601af7364c0dde024c978797155502cb86eebbaff25caf897f2810d28"
+    "bdf8e27f59cb09196e5c5fa8499c4fb5ccbf3f094a59e81fbaa0cc2078c7ea59"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
