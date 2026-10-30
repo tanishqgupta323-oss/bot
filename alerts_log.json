@@ -10978,5 +10978,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "FBI and US Secret Service working with Binance after $6.3 billion hack, source says",
+  "link": "https://www.investing.com/news/stock-market-news/fbi-and-us-secret-service-working-withbinance-after63-billion-hack-source-says-4987288",
+  "published_at": null,
+  "sent_at": "2026-10-30T12:01:31.792965+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

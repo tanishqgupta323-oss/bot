@@ -575,24 +575,10 @@
   "calendar_fetched_at": "2026-10-30T11:31:13.432078+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 53,
+    "count": 54,
     "day": "2026-10-30"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T23:01:18.806410+00:00",
-      "w": [
-        "expect",
-        "fed",
-        "hike",
-        "meeting",
-        "next",
-        "now",
-        "odds",
-        "rate",
-        "rising"
-      ]
-    },
     {
       "at": "2026-10-14T23:35:36.833283+00:00",
       "w": [
@@ -3451,6 +3437,20 @@
         "october",
         "preliminary"
       ]
+    },
+    {
+      "at": "2026-10-30T12:01:30.013835+00:00",
+      "t": "FBI and US Secret Service working with Binance after $6.3 billion hack, source says",
+      "w": [
+        "billion",
+        "binance",
+        "fbi",
+        "hack",
+        "secret",
+        "service",
+        "source",
+        "working"
+      ]
     }
   ],
   "resolved_events": [
@@ -3478,6 +3478,14 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "1e701551f3c436a36d1b6f814e0bae7773bd04adf0d3b6f91286d72457c5b4ba",
+    "ae5b6a0dbfae30db49e6c6047b6ddee4d28f35cb6ec7bbf418610eafe999a3c0",
+    "f1efb0f2839757d0fb0f4a86a9b1053f588e41568457d6141d0de8c0f5b45520",
+    "59ffe3d4454dbff4a0bbe2461e98003f2a507e448ee786f6b35bc10e8e63eb8b",
+    "db0a162c8eefd978ecaa53f88b17f9ab2515a677e84dff7fcb401e13e0bac011",
+    "20109f970d5ec9381f27024b3575a5aa6341e9e07e5438d51585a9917417b881",
+    "26974e51c6a717cee3f0afd7519f48fe5479676f09a78b1b85f094cbb690978f",
+    "6b7c0336ce5f8cb3e5587f571e3a32c0b69f0658d3c59be26acd01d86045a0f4",
     "7c9673c680c41d573a1c4b182c4302c7a5464f6a490d1f682b269d2cba5b01e8",
     "1ed2acbaf4bc61f7c88f4c1c952beb2f1eb4a0e530388603909b3a66de3f8fd5",
     "55251299950f5895e895b9d781450d823f888da8b6ec5f3d4158a0ed9dbfae5d",
@@ -4469,15 +4477,7 @@
     "c684f5d5d77931a22371ecada13bfe0b4e39f6e7ef6b822fa764da991bc8ffd4",
     "b0ffbfe4ae45a332a6ba97dc536f8b9cb78cb0508380be54180d5e8c867f7bc1",
     "a33c88892e4067b374fe37eb533317c77cb0c90dbc6c289b7bf8cf6b09d1a09f",
-    "068b38402da1e308a1526d74a4f1ef64b46202c3546a1ff84f8dacdeab4f1490",
-    "4333de0d3e584bfd6ad0cc475bf23669a676faead8b0d24c366f0f78461a9d63",
-    "83c6f6c42fd524897f4a5c1e9f43dec2911e6f875d45bdff6de5ffb8d3410354",
-    "3d2463924cb01401253898c6cb225d5ed1da623c012968d8d8466d3f5627a1c8",
-    "cb565a077fb18560bb4d1f60eef7c37272de3c14f230920faef858e3cf6fd7b9",
-    "22b827f691d50adf1429558082d68b00863db9e1797f8c51b81ce80402bc1cfe",
-    "c1704ac94be716d6357d1a0fa90f0916c784172927390770da7e75fc78e9ed4a",
-    "4f246a7a5afee71a6be084b4100663ac5c6594b98087301fc27b4b903d0c735c",
-    "60c8c434cecf1a50d3852b5533de815fed5a868bcbe5142005cfc9e461f1cf0e"
+    "068b38402da1e308a1526d74a4f1ef64b46202c3546a1ff84f8dacdeab4f1490"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
