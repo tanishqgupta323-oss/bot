@@ -575,28 +575,10 @@
   "calendar_fetched_at": "2026-10-30T05:31:07.089950+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 286,
+    "count": 287,
     "day": "2026-10-29"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-14T21:40:51.127146+00:00",
-      "w": [
-        "beige",
-        "book",
-        "calls",
-        "catch",
-        "cpi",
-        "diesel",
-        "discouraging",
-        "fed",
-        "flags",
-        "fuelled",
-        "goolsbee",
-        "pressure",
-        "price"
-      ]
-    },
     {
       "at": "2026-10-14T21:45:49.417376+00:00",
       "w": [
@@ -3454,6 +3436,23 @@
         "wipes",
         "xrp"
       ]
+    },
+    {
+      "at": "2026-10-30T06:50:50.820268+00:00",
+      "t": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
+      "w": [
+        "claims",
+        "fears",
+        "four",
+        "grow",
+        "hormuz",
+        "iran",
+        "midterms",
+        "mines",
+        "strike",
+        "struck",
+        "tankers"
+      ]
     }
   ],
   "resolved_events": [
@@ -3481,6 +3480,16 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "6bdef2f57374e9bc11257e12497f9be3cbf789c144ced9fd2d48723d6a262970",
+    "10491575ac12dffafbc29be8d61db43037d71995f3c517b499c788145a48e08c",
+    "6a3961961a80c2c0a87c80712e3d1bc1b29101beba3617e67cbe15db4f913bfd",
+    "d4b3e1a539cfb2029a9ddf662b305dfe2ea523c8e9684bb6c17ac44c0a959899",
+    "59b9bb9cd7f265196a7f8c3ee780dddad90cc0c90273a960dc6277ce5a3c5d89",
+    "5989e8324d9fee5a6a537b379ff475efc4b8961e96830f408a15eb63ee9ce47d",
+    "6fb8c975e6a49213dec5e25c689fa8251a4d581b52ab79f3350b5f5fa4582c27",
+    "32fd84ff00305062f90d9dc6506b1f1c55aa0af5a7f4e7c2a5701010d8d3609b",
+    "83ebf96f2004eb7ac847d2810f60aa399e56dedc55657cee1cf8e1e34eb04d3a",
+    "c3f3e3ac0d63431d2b3715b88fb6502a312f5a31501e84f82a98a0487f00ff3b",
     "ba69af36d1849a4329f296be25e7b161ab62898f3df3ed4442f0ab77570ccfdf",
     "4272cde6b2581052660ca42ef16408032d9dfe11fe44c15295babcda50029c4f",
     "e8a437f9d1143fd3c0f36183be3e1cf478f31b23c57e442691345277b9931034",
@@ -4470,17 +4479,7 @@
     "85aa2b8d12a286ff806e9c5c2a2af70c44f72453c988cf3279b13002e5f89552",
     "66d8853e146bac10fc2be9e1cb259dbd1f457cfbe7608874f0f2c639258bb81c",
     "476b77aea9fda4fee4a7c600302ff3e87de782ce496fc933bc163bc3900e6c94",
-    "44282b25ac5b38dbc86ce0cec5a1c52ff9f2234e152906bdad88cefc42fcc5d7",
-    "dfc22f264aab2b7a8381ff1e7bd6fe80a8d818befd7a6a1515c13ba52710d44a",
-    "7225646d518a3a276c768168bb6633d289ee7b81713f1e4b4f35c4fad1aea57e",
-    "806b221256cb092341f8b77551cbba1f89ae5ce65b8e5243457de952fc2cd8ba",
-    "01f8674c9bd297dbe6451a7ded05e36a4c3f295bf8465d2df498fbb7f99b36ca",
-    "15e816f3aad343d010c5414b7fdf710e8ac182a6d0e730e4bcec9edfef05eb5d",
-    "3d328205527dd2a669f6d49607a271994adf8f5cb2310afca77b1c50ffd43938",
-    "8fda576af97931f831e883b3061d11d43f65aa84880d6a6f3b59ea45f5e7caff",
-    "0d471fdc60865512014cb64f6dc60da2777a83d00a2feb0d5d0d47fbef7ad3e1",
-    "2f98398c0e4abe4094b134267a8af6280e4bb7c376771f998148e6b0c00539b6",
-    "b1ffa38e62080476b3c49f7bcfd2085c8361f9dc5928bcb97ea80d87ab20e391"
+    "44282b25ac5b38dbc86ce0cec5a1c52ff9f2234e152906bdad88cefc42fcc5d7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
