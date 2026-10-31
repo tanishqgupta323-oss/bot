@@ -11386,6 +11386,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.1051
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1482
    }
   },
   "checks_base": "published"
@@ -11407,6 +11412,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.0851
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1059
    }
   },
   "checks_base": "published"
@@ -11480,6 +11490,27 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.1548
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Times of Israel",
+  "title": "Iran negotiators in Doha for Qatar-mediated talks to end US-Iran war, official confirms",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUEI1OFdXWkZWU0VsM1AzY3lEeU9vQnQ4MzdJNi1qSmFzTHpZSmNhN0JwNnNnZjNucDRXaVFZcHpvN3R1RERsamZvWXRBYnlUdk45WEhDeVRsTkRSSnJoMkZkYlFEVUZnWEU5ZmdtOUVlVkhBSGc4WnFKa2FESnVBN3dyaHo2WXdCVDFiOHV1Nk1PZVBqMHk1OEo0elNGc3ZZT0FVNW1jRkZMQmtJbXJvY1pPUi1aR1dQcFJtUjdpMFkzcjlKVHNQcFpOT1Y?oc=5",
+  "published_at": "2026-10-31T12:37:57+00:00",
+  "sent_at": "2026-10-31T13:25:38.293205+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.142
    }
   },
   "checks_base": "published"
