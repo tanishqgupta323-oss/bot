@@ -586,25 +586,10 @@
   "calendar_fetched_at": "2026-10-30T23:45:52.154999+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 202,
+    "count": 203,
     "day": "2026-10-30"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T02:10:53.881835+00:00",
-      "w": [
-        "bets",
-        "driven",
-        "fed",
-        "gold",
-        "hike",
-        "inflation",
-        "rate",
-        "rebounds",
-        "rise",
-        "selloff"
-      ]
-    },
     {
       "at": "2026-10-15T02:40:48.783821+00:00",
       "w": [
@@ -3458,6 +3443,18 @@
         "trump",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-31T02:20:51.412342+00:00",
+      "t": "Explosions in Hormuz as Trump says Iran ‘wants to talk’",
+      "w": [
+        "explosions",
+        "hormuz",
+        "iran",
+        "talk",
+        "trump",
+        "wants"
+      ]
     }
   ],
   "resolved_events": [
@@ -3485,6 +3482,8 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "999b6141b1be3df37b920994604930299c41712c3a9c1ce18a391b21acc788b4",
+    "3f8411010128c674695befd7cf23f169425c99539c4dbac5740c5383f2df26f3",
     "845cefd3761d65c9a9868561fd565751c91a6b869853f53c39cacd9a9751a373",
     "bf67e8bc497c67152ff9df973efb230ce562d206bb4e0a7fd90bb1a2b538f52a",
     "ad0a5bb543b61e695c996fcf4a9fff611f00027dc5e13e77e1624f1702b6b692",
@@ -4482,9 +4481,7 @@
     "2bcbef56cda3311bc03506ef6e79cd26c714d562b773dabe680053b69354ecae",
     "00f07e5a45335b1379e0d1d7f6894417a49a492c8652a0927d3ea9bf5e07c553",
     "d78a67afe796d09218523799bc3cf4530fbcfc2c9bf6c1e235eb240a6ee50791",
-    "cc3fd0e24b331680d603a597b2f10d8796b350b5a24065f106de967d8d25dafb",
-    "62cf9c78a0cf3e1642094aae3f0da670cc2036ff87fd4d2fc9af5c294be9c018",
-    "3cc3609da5b146e05d60080e2331706a5d7f04798071cf9bc8e635f3d0205b7e"
+    "cc3fd0e24b331680d603a597b2f10d8796b350b5a24065f106de967d8d25dafb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
