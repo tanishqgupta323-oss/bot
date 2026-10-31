@@ -11264,5 +11264,57 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "The biggest question about Binance bitcoin heist: How much AI was involved?",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaUFCM2ZaTHF0akYwUHlQOVg1WFVyd0RjY3pWcmtCbWdMOE9OWkxhODh5Q040VjlaRnZvMkZLYXlOTndpX05nQ0xEQ19iNUZlUFcxZnY3M1A0WWpWWDk3X2FpRklPZUVzdXlqUkNLR280TEIwRkhFRXZWUXlkWXNCS3dkdjhmMHF4cFZCWnRRaG84V1RMOEI1TEFVMVo4cnlHWWdlWG5HQUNFMHEwVFBkOVJieUdEQWVLLXNtdXBnQmFYMHlsNTNLUmhuQThTZw?oc=5",
+  "published_at": "2026-10-31T10:00:00+00:00",
+  "sent_at": "2026-10-31T11:15:53.005650+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0346
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0557
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "AL.com",
+  "title": "What does it mean for homebuyers now that the Fed paused interest rate increases?",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV0lva096amdoeF9SZmJ2WURZQlUtSGFzQXFtVElDTTNCSUd5aFlKVVhxNU1NSW1SaDdyZEVGQWZIVnJJdmxUNndHWlo5TzFtZXhvZ0RIeHdwYllJeG9EbFRpYnFsYnBPaWcwaVMtc0JZaXVxRnd4cVpUSjlpQWs3U3VGR2RGNTFCYVhkZVlwTTVNS0c4NW50VXZRbTZqSU9lRGhUVXJKX3NMWWlWRndKSDY0RzNvU1hD0gHMAUFVX3lxTE55RHgxOFF5RHJ5N2dqSFp0amlQOHhJM1JueWtEdTNDVTJNOUxlMVMxRkNOM0NOemo2WFp4dU8tc1QxNTBrOElXcklGUGFxMldxaHRpNW1IbVBsTXlNYjcweUE0YzAyM3pwVlNLalY1RnV5aDhlQ0VZM1g0V0s3RG5xcUwybUhIMDJOeWw0UFJCc1dkOHRmYmFMSk8zR3gtYTctY0Y3M1FKaUxzVXNQbHJfZlZlb3pyWXotS3cyNUxrSjhYMWhmbGtaaDU4bA?oc=5",
+  "published_at": "2026-10-31T10:00:00+00:00",
+  "sent_at": "2026-10-31T11:15:53.775560+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0346
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0557
+   }
+  },
+  "checks_base": "published"
  }
 ]
