@@ -586,23 +586,10 @@
   "calendar_fetched_at": "2026-10-31T12:01:22.736411+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 43,
+    "count": 44,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T04:20:47.571583+00:00",
-      "w": [
-        "against",
-        "bombs",
-        "considering",
-        "exclusive",
-        "iran",
-        "mother",
-        "sources",
-        "using"
-      ]
-    },
     {
       "at": "2026-10-15T04:31:05.438009+00:00",
       "w": [
@@ -3455,6 +3442,22 @@
         "response",
         "supreme"
       ]
+    },
+    {
+      "at": "2026-10-31T12:20:52.504301+00:00",
+      "t": "Investors Pull $643 Million From Bitcoin ETFs After the Biggest Crypto Hack in History",
+      "w": [
+        "643",
+        "biggest",
+        "bitcoin",
+        "crypto",
+        "etfs",
+        "hack",
+        "history",
+        "investors",
+        "million",
+        "pull"
+      ]
     }
   ],
   "resolved_events": [
@@ -3482,6 +3485,13 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "8ccc033175863f59d92d33c1114fd123f32737750e00a853ac2a0c9dfecbbe2e",
+    "cf7523867ec997aac6e3e6616d44228189d574f1ffcadfc8c0c57d58d8311d3d",
+    "7c5a774f9633e427da7a787ccf8e4a619d5f677d72fcee638597862bddbc9c4b",
+    "6b1921a2e68685dc699be3ad078661f9b110af4ed49ed1abfa59db46545fe5b2",
+    "4e770d7841ac694df2da1537b5dd2eb2d17f280592aba959979eb3761d1f3e3d",
+    "ae895809e06aa5cbc590718c94cc9beb839cc752c596529f577e52737caf93ce",
+    "a5976eac15ec775c18fa1735758a1884d39a62747848e5b29a0f7ee542affd08",
     "5e8d0cfe36a398cb2edf1c45735b2b1fa02521cb89e7dc3d809e93a22cd22bd9",
     "a0c99041b2709a12575906f587374604072c86ba6e0cce7a07fe1d5c9f77871e",
     "44a14405d0fa326d21a232ab52da55325c0b78caeac8aca7f36399e96dcf2e55",
@@ -4474,14 +4484,7 @@
     "7c9673c680c41d573a1c4b182c4302c7a5464f6a490d1f682b269d2cba5b01e8",
     "1ed2acbaf4bc61f7c88f4c1c952beb2f1eb4a0e530388603909b3a66de3f8fd5",
     "55251299950f5895e895b9d781450d823f888da8b6ec5f3d4158a0ed9dbfae5d",
-    "43f88c5a0bbc6d5f29a45a23c1a3eb2420fdf0cee4a176ed9c34043bb8601701",
-    "2a303b3a81ac2050872347e60fe673c409d78d0865c6a44efe41e98a9baa2351",
-    "38e2e00218d370d1c5a3727cd86bba954293b8304adcd0a64296009221575a4a",
-    "a890f73b24cdf7f742c5cbd292c09e63cd81174e20a47a3bb7b3b3a749c56bcc",
-    "3ea247f82fc28c41d7b40366683d0f9f33e3aa77b03375afde52b258e7c550c1",
-    "89dea96bf41fe78f01d792c9e5654be572c399c4715cae9783c886bdbeafe012",
-    "3c188e355fac876e97791a3de973a04f13014dd1739aa5a951123a70a5f3f02d",
-    "7f10418c6217004f2b852e0f143897b486e41c95e74bf5ba8556a1d1d9509c44"
+    "43f88c5a0bbc6d5f29a45a23c1a3eb2420fdf0cee4a176ed9c34043bb8601701"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

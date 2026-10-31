@@ -11337,5 +11337,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "Investors Pull $643 Million From Bitcoin ETFs After the Biggest Crypto Hack in History",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHRheWwwUklfVVVtSlRicmN5RVNBNmU5UTVpS3F1aVVMT2REZ1RKZHBEUThYbmd0Qi0teHlNX2VueEJ5c05qM0pBcVRWXzRRY0I1R1l6TFgyMnVlc3R3ejlmOUxQeGhPdUFJY3NXMWRQQ08tYmhXMWwtaDV1UU5CNzMtNlVSaW1pa1hxMF9oVndrN283dTZVTC1NdXltYjJk?oc=5",
+  "published_at": "2026-10-31T11:29:43+00:00",
+  "sent_at": "2026-10-31T12:20:53.869575+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1684
+   }
+  },
+  "checks_base": "published"
  }
 ]
