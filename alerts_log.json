@@ -11610,6 +11610,27 @@
   "eurusd": "NEUTRAL",
   "xauusd": "NEUTRAL",
   "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0031
+   }
+  },
+  "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "KEYE",
+  "title": "Iran’s leader threatens retaliation without limits as Trump weighs new strikes",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYUdTeVBzZWt5bzMyT0NERi1qQkNqZE1JTXFCTzEwNWgyZVh3LWZWM2FFa1M4MVhCbDZxNTh3RHBST3FBSlpFZUQ3OXRTR0M4WlNueHRNV2dFSVZVZEpsdlhYbFhraWwxOHFqYkwxR21VVERfdmZhM01zbW9nN0U0TE5lMUFlOFFFYmxieTlHbGFDLUQ0UHIxTEJDZ1hGNU14cVdKazhhOWpSc2w0TWU0elBZU0VrRlNL?oc=5",
+  "published_at": "2026-10-31T17:44:19+00:00",
+  "sent_at": "2026-10-31T17:45:51.492028+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]
