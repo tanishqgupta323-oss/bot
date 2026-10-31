@@ -586,24 +586,10 @@
   "calendar_fetched_at": "2026-10-31T15:01:24.452223+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 93,
+    "count": 94,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T09:25:38.015702+00:00",
-      "w": [
-        "000",
-        "back",
-        "bitcoin",
-        "falls",
-        "forecast",
-        "inflation",
-        "live",
-        "rises",
-        "updates"
-      ]
-    },
     {
       "at": "2026-10-15T09:40:53.273243+00:00",
       "w": [
@@ -3461,6 +3447,19 @@
         "response",
         "without"
       ]
+    },
+    {
+      "at": "2026-10-31T17:25:35.913063+00:00",
+      "t": "Binance says it has replaced 90% of $6.3 billion stolen in record crypto hack",
+      "w": [
+        "billion",
+        "binance",
+        "crypto",
+        "hack",
+        "record",
+        "replaced",
+        "stolen"
+      ]
     }
   ],
   "resolved_events": [
@@ -3488,6 +3487,9 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "1066cfa084af3f0f78d51a10cbca1b161ec795161089c549b398bdb224d4c0c9",
+    "1d0d7e98a3a11bf8c508b4582fd47d85b65c2ac671afd49868b057f5625535c6",
+    "7501e98b3c54489b1d8814c84a0bf20caad0d4955c8c124a4e0b7eb34fa7daaf",
     "33a149c1dca3920621c56eab11b934ebb55f1d30352cf7582ea4caa8458d5c6d",
     "3181ece7f12703dd5edf53114e158e40886dbaf6b79e8a84fc052cee2b804435",
     "989a33644d4454d205072f6f5b53800b35f26cd141fc025f00e5fb09e0cd38d6",
@@ -4484,10 +4486,7 @@
     "45953f37d064651bce6b1d07f872d013a22680c53ae23eb3a5cd4f7c06271806",
     "1de5342b887daf8ac97df15a346c73955a711023fe7ece8df08eef885e90120c",
     "c948522505ca09415f970c523251a615615cea1b59a5db1e20bb6da946dcf59d",
-    "7375f1d04d6b95e7cc2adc251d0676e289e809bc03a3bf3d82f906924d46a825",
-    "c566a0029b5d390073e9144f7cc3d20df5bfd138016ec29cc7a12823e2d7516f",
-    "2ab7d5944bbe94fd2a7b25fb84adde1cd636b58049546a9e5097c11d2b91147c",
-    "03fc252c36b790025384e41e2f8fc39f6a4856d0c59c3182d5c2d2eeabdc1c71"
+    "7375f1d04d6b95e7cc2adc251d0676e289e809bc03a3bf3d82f906924d46a825"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
