@@ -11449,6 +11449,34 @@
   "eurusd": "NEUTRAL",
   "xauusd": "NEUTRAL",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0226
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "NewsNation",
+  "title": "Iran says 2 fishing boats hit by US drone",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nZmd1bXBJcDh5ejgxYkNGS3UzdmJjN1lwSlZ6NUJ4MDAybEtWZWg4S09UN2hWbGloUVhGWVBqNGxYQ21OSFVZQ3BvTlBRZm96ZTZ3VURlLVM1aGxjRk9Ed0MteUIzZHZLbXhSd0VLYkp1LVnSAXhBVV95cUxQR1lGMWxCMFZQcmhiQUV5NzdFTm1xV0dIT3BhSFd2NGJHYXk5a2V0THN4UTZiYVdQb1dfbGtRcFg3b3Nia0M4eDQzZmZDS3hBZU50azlIWWhOQWJNa0wyS3FuLWs0MnB3LTNCVFl2TjhpWGs5b0JYR20?oc=5",
+  "published_at": "2026-10-31T12:11:30+00:00",
+  "sent_at": "2026-10-31T13:10:57.484048+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0509
+   }
+  },
+  "checks_base": "published"
  }
 ]

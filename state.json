@@ -586,25 +586,10 @@
   "calendar_fetched_at": "2026-10-31T12:01:22.736411+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 53,
+    "count": 54,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T06:05:36.426100+00:00",
-      "w": [
-        "81k",
-        "below",
-        "bets",
-        "bitcoin",
-        "cpi",
-        "hike",
-        "hot",
-        "rate",
-        "slides",
-        "spurs"
-      ]
-    },
     {
       "at": "2026-10-15T07:10:55.259721+00:00",
       "w": [
@@ -3466,6 +3451,17 @@
         "quantum",
         "sell"
       ]
+    },
+    {
+      "at": "2026-10-31T13:10:56.045665+00:00",
+      "t": "Iran says 2 fishing boats hit by US drone",
+      "w": [
+        "boats",
+        "drone",
+        "fishing",
+        "hit",
+        "iran"
+      ]
     }
   ],
   "resolved_events": [
@@ -3493,6 +3489,9 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "cec2ba99b279979287bc5607638c1a984ba8d92ec9f81df2162af8d92c6dcacf",
+    "0db525de9c3aac59b0cd4128370dff842e51eed70cf0a08f2320ff1ee7c23f63",
+    "2afa82dafea7d4785741b7b2f9146bb3f46bffdbad01c5c72ad0ef5b8fca73c6",
     "6761a5922ee77d5ab488b539dce9114a8e9b2766c43b0a8fc86ba471e3310ebb",
     "11a5915b4abe20ba346403464d92ae26fe14d27e6d5cb2c54b31e18f74c7be34",
     "9ab7330d76f173bed60907443a94b7fd1a0f24230fa647b3d4861273e47d9d37",
@@ -4489,10 +4488,7 @@
     "d48872b2d029d99d319166fd6454f85be29ab920f4c7d41ef4cdd50a99fd1f56",
     "ecf2a7ecf569c5969848badf214c70b34d3cc163df002f7de10c03c186c894b4",
     "ed271a5caaad68249f67b294ff0e149aa56742f729ca21fd62f9218382e3f0b2",
-    "b48745bca05be67ee999ec088f5d9788e50cd62abbf2a7f2000478d8a96ef8d6",
-    "e11756fa47fc9aa38535dd7f7bed8b76efeff9bdd6b07a6c9102f0273aa53390",
-    "376cc9a5e705b67bc509af1b095e9ce9086817887890f6b175074b6d85937c6e",
-    "a6050279afb0c904560ee097bad6d32f150ac37f7aa9e4d8c1ddf4dcd065bc94"
+    "b48745bca05be67ee999ec088f5d9788e50cd62abbf2a7f2000478d8a96ef8d6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
