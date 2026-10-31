@@ -586,24 +586,10 @@
   "calendar_fetched_at": "2026-10-31T15:01:24.452223+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 87,
+    "count": 88,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T09:15:48.117145+00:00",
-      "w": [
-        "bitcoin",
-        "cpi",
-        "get",
-        "growth",
-        "increasingly",
-        "markets",
-        "outlook",
-        "sinks",
-        "worried"
-      ]
-    },
     {
       "at": "2026-10-15T09:25:38.015702+00:00",
       "w": [
@@ -3461,6 +3447,20 @@
         "restart",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-31T16:55:36.706273+00:00",
+      "t": "Khamenei Orders Iran Military Response ‘Without Geographical Limitations’",
+      "w": [
+        "geographical",
+        "iran",
+        "khamenei",
+        "limitations",
+        "military",
+        "orders",
+        "response",
+        "without"
+      ]
     }
   ],
   "resolved_events": [
@@ -3488,6 +3488,7 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "4e5f06484cad9e7a79c54efacf87647676d73b57fb0f070e0edcc12483cb77de",
     "c2224c9e308a8e4698efa2f17869147486f94d03ae04c021dc42ccda1fc9fb3a",
     "044b3bf6893ef9dfda1e80aa203bfc6c9cd2dd21cdfe2f241cea15627e1bd60d",
     "9d5d75d644822b44c214d0c07c806b7475c1dbd8d491c20257e92061b57503c5",
@@ -4486,8 +4487,7 @@
     "3598066ebbc61c1bf2a0aed13161fa56190e5264fc3b9e150660195c9b972391",
     "b6f01f40e73f619e9c317b5a4d4fe768ce3b26fafb17ec985aad2d16ee33bda8",
     "22884e4e4cfaff4ad41451797e8da6df0b81447043ada451501296d08ab0ea25",
-    "0db969adeb1f9e600505047208d9574a112fb5d436942620f95fa40d42a368ad",
-    "a1f6916203d219f8869dfebecdaa28b6f03b10f0fe5577999339776fd1b49d9b"
+    "0db969adeb1f9e600505047208d9574a112fb5d436942620f95fa40d42a368ad"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

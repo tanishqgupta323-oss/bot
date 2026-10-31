@@ -11564,5 +11564,26 @@
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Newsweek",
+  "title": "Khamenei Orders Iran Military Response ‘Without Geographical Limitations’",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWVhsZE5XTnlJZW5BMGxrR1V0VU9LekZob0JLQlYxLUxuN3J6dHkzNGZYYTRleHBZVkdhX24xSmwwOV90SkRZWGVHSHBVbzdFWm91WWFqTktmWm50eWZubVFqakFKd0tSVm5iS2gzcUlJNTllcktPU19GcmF0R1puaGdDeGJscVRHaHNLNzktR2pNRXQ0bHUxTE1VQ3NvTVI5Ujg2dnFEWFM?oc=5",
+  "published_at": "2026-10-31T16:21:00+00:00",
+  "sent_at": "2026-10-31T16:55:37.520447+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0498
+   }
+  },
+  "checks_base": "published"
  }
 ]
