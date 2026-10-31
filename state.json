@@ -583,10 +583,10 @@
       "title": "FOMC Member Logan Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-10-30T23:45:52.154999+00:00",
+  "calendar_fetched_at": "2026-10-31T02:50:51.863594+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 206,
+    "count": 207,
     "day": "2026-10-30"
   },
   "recent_stories": [
@@ -3482,6 +3482,10 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "b339fb11d6a01fa8a8e6c0349f9bfed4545d526cb10ee05bdd81c69fd394256c",
+    "b406589f0b20aee364b337a8883d25673f3ee312a378d8d0b1625a61000b5b7b",
+    "6734989e063c39c758bad630e07c617f0e438ef94935c4596593e89d86029ead",
+    "6cc077d1b8f01a7eba133c284b3ee5803d490fa1607f39e1ae7587e2b264458c",
     "9f6c40b6f3827d4ee818bf45f707a4ca3f94fe315e3fe6d9082cabbb8c631ff3",
     "8cf41bc51d65a60cc4f8f47652fa83f0fb8849f67104c2c22e95e43c452b3442",
     "e97136018f063f395adf50ae6882c826d5cad179b75184f2ba415331e62a1784",
@@ -4477,11 +4481,7 @@
     "089aa79f137941edfeb58735bbc26e3c2bec071e7aa6fc797497db944db97424",
     "7589972bfb0bcaf35f4b9af897dfc37e4e9874a3822bbc59b7bb186b2a6e1de8",
     "18e526bada0f02cacdcc25ee944ff9835670bb2f2f1c690ccd0eafc05c3a9148",
-    "d0e4a8c58b5118677a73904eca583f47c0fc2d48e84c3fd73ac9308e9f55c473",
-    "0fefecc08f82fd731bb5d94ac827ace8eb178d1980c7e2063159238419b4ee7c",
-    "2fad031b3fe2fa05d6de732b2f16ed7d5d028afd00cfd00bb808c63b094af93f",
-    "8af8e45b506394bbf1ac1bcb4b8bb06006cb066a8dad3a8877c75c71901e9de9",
-    "298e7a3611e7850ceaeddc5bed58c6c2d166b20eb15a7531883f9682f8d11ee0"
+    "d0e4a8c58b5118677a73904eca583f47c0fc2d48e84c3fd73ac9308e9f55c473"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
