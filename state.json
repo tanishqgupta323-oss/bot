@@ -586,23 +586,10 @@
   "calendar_fetched_at": "2026-10-31T08:55:42.696211+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 40,
+    "count": 41,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T04:01:24.774912+00:00",
-      "w": [
-        "000",
-        "back",
-        "below",
-        "bitcoin",
-        "fed",
-        "rate",
-        "uncertainty",
-        "weighs"
-      ]
-    },
     {
       "at": "2026-10-15T04:20:47.571583+00:00",
       "w": [
@@ -3454,6 +3441,20 @@
         "paused",
         "rate"
       ]
+    },
+    {
+      "at": "2026-10-31T11:55:38.290521+00:00",
+      "t": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
+      "w": [
+        "any",
+        "attack",
+        "iran",
+        "leader",
+        "maximum",
+        "orders",
+        "response",
+        "supreme"
+      ]
     }
   ],
   "resolved_events": [
@@ -3481,6 +3482,8 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "89dfc56ff440adcebaab979599ae9d365faa40e2f250d465a2787182fd9b8803",
+    "292f4c8b7248c0bc50f19cd34e60ae27833406e5b86e6a52031aad21d935d957",
     "96970cc8c597c3878183105972ed727290956a7b91345b310cd689f685ffd0cd",
     "151cc610771c1e1d30773ff1da83f972bcbbc6238df6f245622db262ef562547",
     "b1cabff53443c0371f2744190ff75035103b68c75371de6f7a3ba8e5d573fffb",
@@ -4478,9 +4481,7 @@
     "da163604ced2cab9f193c269fba264bac260f5218bedbed2a5f59bbd15246f4e",
     "194499d9eb87c045fc28e1db28e00d8460baf26f56d9a86e3e97dafae9a87fbf",
     "e22badfff0615a7d798ab6f42ba1357a05c21a507b7938bcd30377275306f041",
-    "f443f38a452f1736f8e5ed2133cd87f5d06144301dc30c86c177f1261b9e687c",
-    "f2d7fe9fafc4bc7a3b39fab63eb294c9f9c73fe021b2bd12bb6ec8d936a55074",
-    "058acc118e9703edad2d7c1f9ffd43e4849d712e4323f959ec4cf88c176628fe"
+    "f443f38a452f1736f8e5ed2133cd87f5d06144301dc30c86c177f1261b9e687c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

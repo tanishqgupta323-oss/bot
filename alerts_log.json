@@ -11316,5 +11316,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Axios",
+  "title": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcklRbXFqZnZtWHlsU2NLNVdnY2l5ZXlHQzZtYmFiMWFWOWlPbzFVME1YU092WjV5RjlRLWdzanVfOG1nbUpsUWxuT1hLeGRLZ0dQZmlOOGNveklydEdmWkVzRE82eDdpQ2VzRUhYZmFHSjNmWm5VV3hzaEZ5VkxlWGE0dEt0aW8?oc=5",
+  "published_at": "2026-10-31T11:50:50+00:00",
+  "sent_at": "2026-10-31T11:55:39.242651+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
