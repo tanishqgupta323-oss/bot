@@ -11376,6 +11376,34 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1051
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "تسنیم",
+  "title": "US Army Prepares Mass Soldier Graves for Potential High-Casualty War on Iran",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORHN2VkVPRk1WUmVZQk9TWldlY0dlQzlKQmQ5R1BOLWMtekhVZXdPQ0NkMDg2TXZrckJRd3lud3NDZkZMWTVhMndVQ0pUeFBXZnFiWU5ydkpJWlNjRGNLdTV0TU12cUxSWC1HeGpLTE04QWNPdDA4UU8wNEJLb0hEalVWUDJ0eWl2U24wSVEtXzhtQkxJTjRnQXdHcUtkWGdYQy1jNU04RmNtUk1zcGc0Mk1aVXQtaDFhMDk5d3k5a2x6b3dfeWNUYtIBzgFBVV95cUxPLWs3UjZUZWNvWk9obC1KVVNqbGhMQTUySlAzTkRlcUNmdVJNNC1YQ3JJLXI3QU1iQ2ZGZ3NLX3dqSlJaOC16U3hPSDVDTDNZbFFuaEVxTkRxX2ZZb2w4eW1ISW02T2VoNllfakZSTU1BWW1MLWxQUVVPVEZIU1MyNnhla0FIZ2kzUWZ4OC1zTl9IRWFaRDNmV3htaWpLSFlWbkJBRWxlV0ZNX2lUeWx3LVJWTGZEMkUzekhwUC0xNHpiYW0tU0NvZVV5U3NmUQ?oc=5",
+  "published_at": "2026-10-31T12:21:40+00:00",
+  "sent_at": "2026-10-31T12:40:51.942124+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0851
+   }
+  },
+  "checks_base": "published"
  }
 ]

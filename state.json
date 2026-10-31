@@ -586,25 +586,10 @@
   "calendar_fetched_at": "2026-10-31T12:01:22.736411+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 47,
+    "count": 48,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T04:40:49.832638+00:00",
-      "w": [
-        "attacks",
-        "cargo",
-        "hormuz",
-        "iran",
-        "midterms",
-        "ramps",
-        "run",
-        "ships",
-        "strait",
-        "sunk"
-      ]
-    },
     {
       "at": "2026-10-15T04:55:40.333405+00:00",
       "w": [
@@ -3457,6 +3442,22 @@
         "war",
         "withdrawal"
       ]
+    },
+    {
+      "at": "2026-10-31T12:40:51.047503+00:00",
+      "t": "US Army Prepares Mass Soldier Graves for Potential High-Casualty War on Iran",
+      "w": [
+        "army",
+        "casualty",
+        "graves",
+        "high",
+        "iran",
+        "mass",
+        "potential",
+        "prepares",
+        "soldier",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3484,6 +3485,11 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "864fa002a74f13f264ac10384882dde8c87672adcfb507c21fcee21e552524e6",
+    "57ab574c0a2d66a37c05b4bbe32675e169d9740eb509d0b48a33e0401856c5e4",
+    "198c49efe3e9f4ac8d5aa0cabf88bc7c0d546f0bff206c174a5e5cc4a935b3f4",
+    "2d444a3f58ff89965e179c8c419a687f4879e4ff58680d2a856f5c9435c5c387",
+    "8fcfada6a411195756b47324cc42ec5a681493ad0b619ddab6bf21ba5bc07744",
     "5159564c5533591c8b87b4d71a97e9d0659c5b0121cb93c2c92254d88c0b30c0",
     "d1e4372d4e686204e61b9fbd7baaf6ea09b5cc874b81fc18223d28cafd11cf0d",
     "eb4029c2bb0225605256918b8a88717fe940e419fa18dc2c3aa16e3287203a5f",
@@ -4478,12 +4484,7 @@
     "1e701551f3c436a36d1b6f814e0bae7773bd04adf0d3b6f91286d72457c5b4ba",
     "ae5b6a0dbfae30db49e6c6047b6ddee4d28f35cb6ec7bbf418610eafe999a3c0",
     "f1efb0f2839757d0fb0f4a86a9b1053f588e41568457d6141d0de8c0f5b45520",
-    "59ffe3d4454dbff4a0bbe2461e98003f2a507e448ee786f6b35bc10e8e63eb8b",
-    "db0a162c8eefd978ecaa53f88b17f9ab2515a677e84dff7fcb401e13e0bac011",
-    "20109f970d5ec9381f27024b3575a5aa6341e9e07e5438d51585a9917417b881",
-    "26974e51c6a717cee3f0afd7519f48fe5479676f09a78b1b85f094cbb690978f",
-    "6b7c0336ce5f8cb3e5587f571e3a32c0b69f0658d3c59be26acd01d86045a0f4",
-    "7c9673c680c41d573a1c4b182c4302c7a5464f6a490d1f682b269d2cba5b01e8"
+    "59ffe3d4454dbff4a0bbe2461e98003f2a507e448ee786f6b35bc10e8e63eb8b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
