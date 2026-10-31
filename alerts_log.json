@@ -11654,5 +11654,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Ynetnews",
+  "title": "‘Closer to war than a deal’: Israel braces for renewed Iran fighting after US midterms",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZb3hHX1NHUkF1cUNhMTJMYk1fZXhVdmtMQXc5dzVwOUNLZ29ablowR3Z4aENmSG82c2lrMUNjeW1Nd2ltbnRIa3RTOURqWjN5bjUtMWRn?oc=5",
+  "published_at": "2026-10-31T20:59:05+00:00",
+  "sent_at": "2026-10-31T21:25:36.695224+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0997
+   }
+  },
+  "checks_base": "published"
  }
 ]

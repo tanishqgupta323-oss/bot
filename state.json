@@ -586,22 +586,10 @@
   "calendar_fetched_at": "2026-10-31T21:05:38.247983+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 138,
+    "count": 139,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T10:20:47.811628+00:00",
-      "w": [
-        "apart",
-        "gulf",
-        "infrastructure",
-        "iran",
-        "picked",
-        "precision",
-        "strikes"
-      ]
-    },
     {
       "at": "2026-10-15T10:50:53.721353+00:00",
       "w": [
@@ -3459,6 +3447,21 @@
         "weighs",
         "without"
       ]
+    },
+    {
+      "at": "2026-10-31T21:25:35.835775+00:00",
+      "t": "‘Closer to war than a deal’: Israel braces for renewed Iran fighting after US midterms",
+      "w": [
+        "braces",
+        "closer",
+        "deal",
+        "fighting",
+        "iran",
+        "israel",
+        "midterms",
+        "renewed",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3486,6 +3489,8 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "a627e0200427cba54b0495471f03a63b8591809206ed7757ec5bd017765be22b",
+    "70b639f0dba8697f905aa874ee2fab0797d99a525996f5b39b2140877fa279a7",
     "ef175d0efdf5b31a3777acacc6e781e0ead1ee65c5809bb233213b4fb00f2c23",
     "4820bc99e358c0fb86e9b811fd28102ddc2440d426775fbb7623d06c7cdc3cff",
     "0eec258b7dd2d7a2422e13da4abddcc91b3cdee59f4356cb40250e78fa6d5115",
@@ -4483,9 +4488,7 @@
     "d5d989e8d07d3b17dac63192ff5c2cbf7d887aef0875c63f6208d3ab349ce49f",
     "c368dbff8b9d3a17fa82a9b4e7d1630c81b02e08963fb8461dc5a590256a2f83",
     "e653fc0d661dc6ad464eacf07f4ba59f25f9f3b31a12d93eb186b70a2b611dfb",
-    "10e6a3e16f67398d7a981bcf9067918b3e18ed171332a4b3310b1c8fbb241f9a",
-    "588b5ec176903b286228f4c63ccc32bd129a8105d2f39313db1491c7187572eb",
-    "7206d983b2d6ab06890ee1ef883e4ddc953b3309e1a4ce5ce3ed348f4f728025"
+    "10e6a3e16f67398d7a981bcf9067918b3e18ed171332a4b3310b1c8fbb241f9a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
