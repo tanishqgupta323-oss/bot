@@ -586,27 +586,10 @@
   "calendar_fetched_at": "2026-10-31T12:01:22.736411+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 68,
+    "count": 69,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T08:10:50.622163+00:00",
-      "w": [
-        "back",
-        "bringing",
-        "cpi",
-        "data",
-        "falls",
-        "gold",
-        "hike",
-        "october",
-        "play",
-        "rate",
-        "short",
-        "whipsaws"
-      ]
-    },
     {
       "at": "2026-10-15T08:45:49.287084+00:00",
       "w": [
@@ -3461,6 +3444,24 @@
         "talks",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-31T14:40:51.341813+00:00",
+      "t": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases, AP analysis finds",
+      "w": [
+        "air",
+        "aircraft",
+        "analysis",
+        "bases",
+        "buildings",
+        "defenses",
+        "finds",
+        "hit",
+        "iran",
+        "mideast",
+        "targeted",
+        "then"
+      ]
     }
   ],
   "resolved_events": [
@@ -3488,6 +3489,13 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "5f4d21fff42d1e284196fdc8d87eeb88dd4ef63716950dcd6d1992f4110c774a",
+    "a6e6b2f12a00bca1dd80b02aeaeaf65951e8dab0d789dbcb598aafeb5e43c55f",
+    "46d02c3e235a79f1e1678af5d573812c6bf9d44559e624044b39e7d656f5f35d",
+    "b95bf19346c47f0804af94476b5738783e1ee00f0d7d4e90e8b0eb8f7d32974e",
+    "00cef5ddee7653379f30c0f994ab5b3e894f31cc676b7b16eb787b117449a62f",
+    "86a9792bf998977bf83f70143532661d95935df0b80ab77324dcb9fc1a5c0f3d",
+    "0ccd65fcfc178965bbd5db4fac963a6c3460de21eed4a47648e85773e9813ca1",
     "13424145fcc287f4c7a48dc04f46ca34323665872aead76f03b5f939ed03c4ec",
     "523e2ffd522751efd104beb12cb27ae67745643d680068ceceab2bafb636cb60",
     "09bb36777bb08045a22650d86a3d15b27a8b7a776438581d5d4bc4362b66320b",
@@ -4480,14 +4488,7 @@
     "fe4e55b569308c5c0eb1baee8d0c580df39503afb7592bfd35e9848258d6308a",
     "f9d54b04575bd015cf6575d7664d740dde16f843b639189fe6cff41c26665985",
     "6a53b62a5ae9b4f555e9f0f36defb29fbb273658be80182913b689a59d8c5d64",
-    "58f8ced57ac88648cae2002db5c56069b966760e122845551d5f9680b690875d",
-    "3bdd333d8fc39757c9164bff205fc8becacda05b810f73fb53038300fbd3b877",
-    "f30e4bb487d757d9e0fadc6bd2062eb70e4a183fa9c8cbd55302e6b122553914",
-    "7fb7ec3063e2bde7db7f9202b269893fe17924672122a3a36f275c05c69388e1",
-    "59d234075961d2c4994a05765448db44e2911228b76061d0b6cc2cb676d3c2c9",
-    "e2fef4147408d0d49eb29cb9166db82cf02bebf7deaa8381fc5a193a5b8a2a09",
-    "5f8de121f9afba4e040ef4c483561a7b4d44f539867d06066366284f6617b407",
-    "494b21e256490eff9218f57833b7eaa799b901757f19b179173ec9f0821202c4"
+    "58f8ced57ac88648cae2002db5c56069b966760e122845551d5f9680b690875d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

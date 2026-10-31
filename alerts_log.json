@@ -11524,5 +11524,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WTOP News",
+  "title": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases, AP analysis finds",
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYUdXaFlxVjdZYjlHc19OYjZTaDB3ZXRFNFhPYWhvcnFhX0lxM3pHLW9HY1RhOGFIR1FJeER4MnVfQXcwS3NZcEZtT1c4Zlg4ejRTTFdQYkZMZFdjZUFveFp2NHU0WUJwa1htUHRHN24tZFJzRTlveFhHSjBoOWJ4bEN0MTlNWGd0NW5ZeDNlcXF3dnNjaWx2V2JKXzZ0Q0JlZWlKTHJLTjZLVzQ4ZDFKenFPdl9sMldZX05WekxjWDBBc0N0WXo5ZHE2SHl2dTh5M1ZPaGxZVVlrN1Eza2NJcXlicWV3aTYw?oc=5",
+  "published_at": "2026-10-31T14:14:58+00:00",
+  "sent_at": "2026-10-31T14:40:52.550157+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.042
+   }
+  },
+  "checks_base": "published"
  }
 ]
