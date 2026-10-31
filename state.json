@@ -586,26 +586,10 @@
   "calendar_fetched_at": "2026-10-31T15:01:24.452223+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 86,
+    "count": 87,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T08:45:49.287084+00:00",
-      "w": [
-        "aren",
-        "fresh",
-        "inflation",
-        "markets",
-        "pose",
-        "ppi",
-        "retail",
-        "risks",
-        "sales",
-        "worries",
-        "yet"
-      ]
-    },
     {
       "at": "2026-10-15T09:15:48.117145+00:00",
       "w": [
@@ -3462,6 +3446,21 @@
         "targeted",
         "then"
       ]
+    },
+    {
+      "at": "2026-10-31T16:50:49.002385+00:00",
+      "t": "Middle East on edge as fears mount the Iran war could restart after the midterms",
+      "w": [
+        "east",
+        "edge",
+        "fears",
+        "iran",
+        "middle",
+        "midterms",
+        "mount",
+        "restart",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3489,6 +3488,8 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "c2224c9e308a8e4698efa2f17869147486f94d03ae04c021dc42ccda1fc9fb3a",
+    "044b3bf6893ef9dfda1e80aa203bfc6c9cd2dd21cdfe2f241cea15627e1bd60d",
     "9d5d75d644822b44c214d0c07c806b7475c1dbd8d491c20257e92061b57503c5",
     "248e9a1d8899238a6420c1114e33176c4c7987e75c5dd8c2e9b9883976bd7624",
     "7bfbc5cead34d29862893f0440ea69b865e0064c42784ef0aa5e405da854df69",
@@ -4486,9 +4487,7 @@
     "b6f01f40e73f619e9c317b5a4d4fe768ce3b26fafb17ec985aad2d16ee33bda8",
     "22884e4e4cfaff4ad41451797e8da6df0b81447043ada451501296d08ab0ea25",
     "0db969adeb1f9e600505047208d9574a112fb5d436942620f95fa40d42a368ad",
-    "a1f6916203d219f8869dfebecdaa28b6f03b10f0fe5577999339776fd1b49d9b",
-    "b56470802210897e4a98f0fb3e7ef27fd9988e54986ecdb98abd79367c2ac6df",
-    "31fde73e9818ba3861b4fa31d92df30df89060a45dc304f03695586f61402c16"
+    "a1f6916203d219f8869dfebecdaa28b6f03b10f0fe5577999339776fd1b49d9b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
