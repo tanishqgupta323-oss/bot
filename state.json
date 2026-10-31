@@ -586,24 +586,10 @@
   "calendar_fetched_at": "2026-10-31T12:01:22.736411+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 45,
+    "count": 46,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T04:31:05.438009+00:00",
-      "w": [
-        "bets",
-        "billion",
-        "bitcoin",
-        "crypto",
-        "ether",
-        "liquidated",
-        "nearly",
-        "slide",
-        "xrp"
-      ]
-    },
     {
       "at": "2026-10-15T04:40:49.832638+00:00",
       "w": [
@@ -3458,6 +3444,19 @@
         "million",
         "pull"
       ]
+    },
+    {
+      "at": "2026-10-31T12:31:09.160587+00:00",
+      "t": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+      "w": [
+        "call",
+        "iran",
+        "lawmakers",
+        "npt",
+        "peace",
+        "war",
+        "withdrawal"
+      ]
     }
   ],
   "resolved_events": [
@@ -3485,6 +3484,7 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "d1e4372d4e686204e61b9fbd7baaf6ea09b5cc874b81fc18223d28cafd11cf0d",
     "eb4029c2bb0225605256918b8a88717fe940e419fa18dc2c3aa16e3287203a5f",
     "8ccc033175863f59d92d33c1114fd123f32737750e00a853ac2a0c9dfecbbe2e",
     "cf7523867ec997aac6e3e6616d44228189d574f1ffcadfc8c0c57d58d8311d3d",
@@ -4483,8 +4483,7 @@
     "26974e51c6a717cee3f0afd7519f48fe5479676f09a78b1b85f094cbb690978f",
     "6b7c0336ce5f8cb3e5587f571e3a32c0b69f0658d3c59be26acd01d86045a0f4",
     "7c9673c680c41d573a1c4b182c4302c7a5464f6a490d1f682b269d2cba5b01e8",
-    "1ed2acbaf4bc61f7c88f4c1c952beb2f1eb4a0e530388603909b3a66de3f8fd5",
-    "55251299950f5895e895b9d781450d823f888da8b6ec5f3d4158a0ed9dbfae5d"
+    "1ed2acbaf4bc61f7c88f4c1c952beb2f1eb4a0e530388603909b3a66de3f8fd5"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

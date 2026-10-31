@@ -11358,5 +11358,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al Jazeera",
+  "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1JxSV94cm1pZi0zZDZ5XzVYczB1aDcyQWhfSnpjcWlpV0FjeU54dVJGV1BYalFncXNBVmt3dFVwS2lVenFmdHB2TkpzVXNsdl93OHg5T01xWFJhZndQMWs1d1VqMDhKSW9DM2tZbUpyNGl0VFV2TU5Id3NqZWM2SXhkeXhINmtEcHdPWFdfbWFrQUMwUWlLQXZKUFFfY21ZM21fU1NQUFI5VDNtMFpCcNIBtgFBVV95cUxNVDM0QklRd0M2TkdmMWdnbGZORFc3bm9BZVRNYWdWU1NSV053eTRYR3NsMlk1TmxBeU5ROUZjRWhlYmR3WnNMemZwRENSSnVuaWFOTXoyRWc3dE85RXFudFRKemRGcF9VTllfLWdfZGFtekItVW5pS25fclpLU0ZYenMwSzg2YjhHaVk3RUdaYnpEa3lJa2FLY2U5RmNvX0JTRnBfWjFORWxpaGRkR2hCTS0zcUNQQQ?oc=5",
+  "published_at": "2026-10-31T12:23:06+00:00",
+  "sent_at": "2026-10-31T12:31:09.930198+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
