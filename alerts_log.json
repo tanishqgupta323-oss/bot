@@ -11680,5 +11680,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "New York Post",
+  "title": "If Iran war erupts, Israel may be plotting another ‘Operation Grim Beeper’ style attack: sources",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY1NlLVYxd2xYU1pxMVVYUXhNTUdfaUxKMEN6ZlVBLWFMMEZYaVUyd29SZmc4SmV2YmlTX0RiNnBBOVVmdV95RndjXzZsVVFPNlFuX3pDYXJtelMtVV9rMUUwOXYwbGViLUg3MVhmc0toS1M0Z1dpUE9NbXlfNEY5MU1UNTd6dXl1T1VfTUFFRG9qR1QtRWIxS1ZYWTQ1R0ZINXlOT1lGaTdUQ1ZqRVIzLWxfYWpwOFYzOW9zUFptbXRjMlc2WVE?oc=5",
+  "published_at": "2026-10-31T21:44:00+00:00",
+  "sent_at": "2026-10-31T22:35:41.516530+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1686
+   }
+  },
+  "checks_base": "published"
  }
 ]

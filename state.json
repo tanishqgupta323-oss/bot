@@ -586,24 +586,10 @@
   "calendar_fetched_at": "2026-10-31T21:05:38.247983+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 151,
+    "count": 152,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T10:50:53.721353+00:00",
-      "w": [
-        "cpi",
-        "deteriorates",
-        "ethereum",
-        "extends",
-        "further",
-        "losses",
-        "next",
-        "risk",
-        "sentiment"
-      ]
-    },
     {
       "at": "2026-10-15T12:01:27.102472+00:00",
       "w": [
@@ -3462,6 +3448,24 @@
         "renewed",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-31T22:35:40.544172+00:00",
+      "t": "If Iran war erupts, Israel may be plotting another ‘Operation Grim Beeper’ style attack: sources",
+      "w": [
+        "another",
+        "attack",
+        "beeper",
+        "erupts",
+        "grim",
+        "iran",
+        "israel",
+        "operation",
+        "plotting",
+        "sources",
+        "style",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3489,6 +3493,7 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "36f33064aeea188361bd602573bae94823ea73a47955a5f54107e880fc110d2d",
     "eeec7860fbb2f572539eda235cd8fd2891172a27e4786ecac802db3d420b5af8",
     "a332ab294ce4afc64be02578c7b00439aa6462bc5cdaf1bda5ce56cabdd16687",
     "d428cfe330c69dd9f5d5fd6ab3f9c5f1c5f2649adc491acb463c4aa6014c140e",
@@ -4487,8 +4492,7 @@
     "01900a701d967f2bd895ed1df113a9e427754871dfc3aee99d033d5283a34777",
     "c3f35d2405c8f22e238e38904e988da58742ab8694a6273a08c289fc8c418ecf",
     "4ec9dff19f967123e6fbe2b2840a46e10e92ba2f9132b0ebde53089b22823d40",
-    "32d7d1b35f0f83bdd819767995f8f5397fda14a199693ecb655d0feb2db9f664",
-    "3b5041d536d6f746e2ec4d13dad744e15df0d684bb51fcf27c2588c8f209b491"
+    "32d7d1b35f0f83bdd819767995f8f5397fda14a199693ecb655d0feb2db9f664"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
