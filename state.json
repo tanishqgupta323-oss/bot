@@ -586,22 +586,10 @@
   "calendar_fetched_at": "2026-10-31T12:01:22.736411+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 49,
+    "count": 50,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T04:55:40.333405+00:00",
-      "w": [
-        "atmosphere",
-        "attack",
-        "fears",
-        "imminent",
-        "iran",
-        "tehran",
-        "warlike"
-      ]
-    },
     {
       "at": "2026-10-15T05:25:34.982774+00:00",
       "w": [
@@ -3458,6 +3446,19 @@
         "soldier",
         "war"
       ]
+    },
+    {
+      "at": "2026-10-31T12:55:36.852965+00:00",
+      "t": "Iran’s Khamenei Orders Military to Expand US Retaliation Plans",
+      "w": [
+        "expand",
+        "iran",
+        "khamenei",
+        "military",
+        "orders",
+        "plans",
+        "retaliation"
+      ]
     }
   ],
   "resolved_events": [
@@ -3485,6 +3486,10 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "3fe359706c6e47dedad550842d9146c7dd1ac2fbd0d2e24798481f57c85ade0e",
+    "05d90598a70126fed22cddb7ab426c3dc3cd32d6a56982d287ed1930caded062",
+    "c96a9684e6581f7a8cd9b62f812628ffee089840c4fe382b3dc71b71bf2de4ab",
+    "9375c3019075c8c0e6e56ed4a44b9a616083ebe1c9c4d10f4f1b708aea816361",
     "fd5de2eeaba892841576fb75b29243c2fba9575331ded1dc466da556de04d36d",
     "6c048f9eb9276b2eae57fa7b75fdc7375c148f6a7d7f83164a5d9c68326a88e2",
     "133c685a480c96b1a6aadc93260e372014c8cb631903bb2e28bc53e420d8c416",
@@ -4480,11 +4485,7 @@
     "d81b1480b270c01d39d5715481fec910a48c88dd1efc12e9717c517932d2371d",
     "cf25bec35ff6be7ad847e980b0731a13ae74667c2b5724e2feac27cde65eaf05",
     "2f66b33d1dcae9de80a0c7c2b83a32aaad8fabc598f67d78b04bdc40c5437fb2",
-    "a2250cf0dc98de398d6cbb798e1bfed5ca2cd7319be19247bcc12ca805505cef",
-    "218e3831cb61999168f8ece5c637ba3c686a716e0cc4fb01dcc756257e0379a2",
-    "0889428aced614a6c585a61ca891978110dca684196b3bf61a4839a6608e8769",
-    "ddf4c1bc07b6308a6186cb979a2b923d38e42a50526e74bcefb2b8427cc69996",
-    "aa3078cf40a08688d614a59a0a037381c9e4aecf867bca02dfa7efe506ff1c29"
+    "a2250cf0dc98de398d6cbb798e1bfed5ca2cd7319be19247bcc12ca805505cef"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

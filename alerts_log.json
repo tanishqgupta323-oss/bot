@@ -11334,6 +11334,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0137
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1106
    }
   },
   "checks_base": "published"
@@ -11402,6 +11407,32 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.0851
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bloomberg",
+  "title": "Iran’s Khamenei Orders Military to Expand US Retaliation Plans",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOEQyUXVZd3NxbDRqMFNvYWlqRnFTNWJ0bGhSZ1VXNHJwdEEwTXZtVERNdDVTR0NXWE1CMXVJSmF3cEt4ZVlXLUZEbTJ5bFJfdEs3UUZPYU4weXVmWl9KUHhRTmFHbVFsVktyUjJhVkNiOEVFQWhhY2ZVQUFpSmxfU2ROQ05pOWxubnlKRzZVN3VTQ0g0bUFCVkwzY3U3RURIWko2aW9UaGsyNXNmM2VrZDNwaw?oc=5",
+  "published_at": "2026-10-31T11:49:52+00:00",
+  "sent_at": "2026-10-31T12:55:38.113435+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0422
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0524
    }
   },
   "checks_base": "published"
