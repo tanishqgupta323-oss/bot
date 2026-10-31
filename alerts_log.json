@@ -11238,5 +11238,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Anadolu Ajansı",
+  "title": "Iran warns war could spread ‘much wider’ if US launches ‘another military adventure’",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2EtUThrYVJyQzBKZjNQdXFWYnIxTXFnb2dBM18tVTdsMnZyVUJ5TTJIbHhGU3o2ZDVUTGFRRXg3MFpUck1GVjJFZHF5UXh3VTI3d2xmc25EWmNnMjFlYzBlRkJLaDNJbFFpYzViYmFneFdIUzVhZEltbFRyREJDUEltVktrWTY2dXJWMllmLWJCTTZaQWt3Z2NkZjRVMVBOMlpqOGowdEpNTTBlN2hqN0Z6Si1YcE1oV01KTUsxbHlrYVFG?oc=5",
+  "published_at": "2026-10-31T09:44:13+00:00",
+  "sent_at": "2026-10-31T09:50:51.431074+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

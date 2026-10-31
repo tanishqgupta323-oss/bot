@@ -586,24 +586,10 @@
   "calendar_fetched_at": "2026-10-31T08:55:42.696211+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 22,
+    "count": 23,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T02:50:50.265307+00:00",
-      "w": [
-        "concerns",
-        "cpi",
-        "fuels",
-        "futures",
-        "gold",
-        "hike",
-        "jump",
-        "rate",
-        "slump"
-      ]
-    },
     {
       "at": "2026-10-15T03:10:55.889368+00:00",
       "w": [
@@ -3456,6 +3442,22 @@
         "war",
         "warns"
       ]
+    },
+    {
+      "at": "2026-10-31T09:50:50.620277+00:00",
+      "t": "Iran warns war could spread ‘much wider’ if US launches ‘another military adventure’",
+      "w": [
+        "adventure",
+        "another",
+        "iran",
+        "launches",
+        "military",
+        "much",
+        "spread",
+        "war",
+        "warns",
+        "wider"
+      ]
     }
   ],
   "resolved_events": [
@@ -3483,6 +3485,7 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "e85f5f3e2df8d493b1d0bd15a67c5914a38c12561b59ee8af39cd45739d45b3a",
     "2960ac7b3ffb1778423ad449f28639a9fb74e3e41929fee14b5fef67ea73b110",
     "930b3e7978878ff263fcf734d5b3415949393061cb50208bfd5822c349aa100a",
     "8c769276a76bcfb57c45567360cee5a604235da6559fcac8a4b7ee74c649f5ae",
@@ -4481,8 +4484,7 @@
     "e32aff5671eb271abbe4dcd3f24b0f5b175c4e478913f502f9591c51bea510de",
     "ccfab7e9cd3159415bcb96619f749b8e44ab1dabe226b5ab08a02376888d675e",
     "c6869170d6ab3b185ee5b60ad547e2291fdd4e626ced86aa42b93ecc6468d068",
-    "273c3f55e31146e217db95db9b6927479aedc549ebc0421cf6b3af9a7a3acc2a",
-    "7ed88eb390dc60cf4cff1be7d156fe4e01836e7f203364898344c5132516d5a6"
+    "273c3f55e31146e217db95db9b6927479aedc549ebc0421cf6b3af9a7a3acc2a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
