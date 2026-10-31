@@ -586,21 +586,10 @@
   "calendar_fetched_at": "2026-10-31T12:01:22.736411+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 52,
+    "count": 53,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T05:25:34.982774+00:00",
-      "w": [
-        "cpi",
-        "driven",
-        "slide",
-        "spike",
-        "treasury",
-        "yields"
-      ]
-    },
     {
       "at": "2026-10-15T06:05:36.426100+00:00",
       "w": [
@@ -3459,6 +3448,24 @@
         "plans",
         "retaliation"
       ]
+    },
+    {
+      "at": "2026-10-31T13:05:45.800215+00:00",
+      "t": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+      "w": [
+        "450",
+        "binance",
+        "bitcoin",
+        "citing",
+        "company",
+        "fears",
+        "hack",
+        "listed",
+        "million",
+        "nasdaq",
+        "quantum",
+        "sell"
+      ]
     }
   ],
   "resolved_events": [
@@ -3486,6 +3493,12 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "6761a5922ee77d5ab488b539dce9114a8e9b2766c43b0a8fc86ba471e3310ebb",
+    "11a5915b4abe20ba346403464d92ae26fe14d27e6d5cb2c54b31e18f74c7be34",
+    "9ab7330d76f173bed60907443a94b7fd1a0f24230fa647b3d4861273e47d9d37",
+    "7dd50efa53ab013550a2a9c2b776143588f6c18d6f8ce3b49a70b8118f4af56c",
+    "f407415db51a439dede1ea64e23c61c21b91e97466178d77b15acb261353accb",
+    "d95cff4b746fc2cefbabba13fed1cf56a8e540161617cf374b3855bade0d9e05",
     "f0b6dde97cc6c9a978629d12936dce10c6a6be0d057bef384a7ab17660ba96fa",
     "a2250cf0dc98de398d6cbb798e1bfed5ca2cd7319be19247bcc12ca805505cef",
     "af99a9bf7a758a22788744be4d3fdf4680d4f1ebf09082d880dde79074373dda",
@@ -4479,13 +4492,7 @@
     "b48745bca05be67ee999ec088f5d9788e50cd62abbf2a7f2000478d8a96ef8d6",
     "e11756fa47fc9aa38535dd7f7bed8b76efeff9bdd6b07a6c9102f0273aa53390",
     "376cc9a5e705b67bc509af1b095e9ce9086817887890f6b175074b6d85937c6e",
-    "a6050279afb0c904560ee097bad6d32f150ac37f7aa9e4d8c1ddf4dcd065bc94",
-    "bfbaeff46d8edfe2046a7ed3e394b702ad72c0fd507c5c5ead2482f6d66bdfbb",
-    "20b8224aec1ae454ed835fb8158f5d463d4f980eba4d83f7772fed3e26931027",
-    "adfd9d1d06302c91581ec20872e90fa582f3ebe1083e3b3f052f970fc80c6838",
-    "1d9e44e69d792b81e30e3a19b64dc456a76c7c6ec87f33471be4a938d9d13ad1",
-    "5427688a81855988fe2edec81f555aaa61e00d192a63f445fc91f726d8fea7ad",
-    "7dfb71c0455818f9d6c534d807a6051af860e3b4dfb2c9b58dff4c6b29c0e5c5"
+    "a6050279afb0c904560ee097bad6d32f150ac37f7aa9e4d8c1ddf4dcd065bc94"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
