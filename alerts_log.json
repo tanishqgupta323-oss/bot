@@ -11212,5 +11212,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Ynetnews",
+  "title": "Diplomacy or war? Qatar signals Iran breakthrough as US warns Gulf states to prepare for war",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BRGc0OUlOQmdaM3p0SWotYVBteW1OcGN2RnVWNHFHYmhpa0liRXBDeWF1WjV4YVZpTlcwQ3ZSTjdnX3JuZGhGTFZ3bFZfQWFLYjhseUl3?oc=5",
+  "published_at": "2026-10-31T06:58:06+00:00",
+  "sent_at": "2026-10-31T07:25:40.333549+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0397
+   }
+  },
+  "checks_base": "published"
  }
 ]

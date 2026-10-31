@@ -586,25 +586,10 @@
   "calendar_fetched_at": "2026-10-31T05:55:41.113994+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 2,
+    "count": 3,
     "day": "2026-10-31"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T02:40:48.783821+00:00",
-      "w": [
-        "000",
-        "2027",
-        "bitcoin",
-        "climbs",
-        "fed",
-        "hikes",
-        "rate",
-        "sees",
-        "toward",
-        "williams"
-      ]
-    },
     {
       "at": "2026-10-15T02:50:50.265307+00:00",
       "w": [
@@ -3455,6 +3440,22 @@
         "trump",
         "wants"
       ]
+    },
+    {
+      "at": "2026-10-31T07:25:39.305476+00:00",
+      "t": "Diplomacy or war? Qatar signals Iran breakthrough as US warns Gulf states to prepare for war",
+      "w": [
+        "breakthrough",
+        "diplomacy",
+        "gulf",
+        "iran",
+        "prepare",
+        "qatar",
+        "signals",
+        "states",
+        "war",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3482,6 +3483,8 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "812d76aad83c5226ac0ae92e0b9f2b3ac3e010dc1c8df49f0dc4587115cf2ab7",
+    "b75872293217ecda4a4fe7230a311284ccbac3bce88b33618b81815d09078fd6",
     "0a6cbf8ba2ec420b2df0e98cca67e475159dc91d2a022e9cd7623bf2a1ba4274",
     "f7a9408ca064619a83e85253735b871cd1752759b12bf5c78b64b775e987385d",
     "71a8a0747ec8b43165d0c06b3657bdd84d7598f61639a7f2efc365383ad239b9",
@@ -4479,9 +4482,7 @@
     "7be9f4496b63f6ab692306e700bfa6e5071fc06b83f5c6a3b78689d0769f4c15",
     "e880bd83f36e47dc4422155c5b8b159fbbd30c6b4787d4377b2e3448a54b21b7",
     "1de5dbe0327dae4241e3109064dfa7374180c5765994b2d27e2d8fd7bcab9208",
-    "88f5b719dcaa525fa04da1ad076222216c570fc5c703c11f1fdfe716c3f280a2",
-    "dc22827d1db90297d5c54671686972ad08cba8d1ebb3722ed6a56afd26219389",
-    "20ec1477c32f5b2aea53fe53e2fcb7754650a8a0e7af023a49b7bb3fbab010eb"
+    "88f5b719dcaa525fa04da1ad076222216c570fc5c703c11f1fdfe716c3f280a2"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
