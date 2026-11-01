@@ -665,26 +665,10 @@
   "calendar_fetched_at": "2026-11-01T15:10:51.414839+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 117,
+    "count": 118,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T19:31:11.132655+00:00",
-      "w": [
-        "bombs",
-        "dubbed",
-        "house",
-        "iran",
-        "mother",
-        "plans",
-        "prepares",
-        "sources",
-        "use",
-        "weapon",
-        "white"
-      ]
-    },
     {
       "at": "2026-10-15T19:35:44.652705+00:00",
       "w": [
@@ -3563,6 +3547,20 @@
         "timelines",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-01T17:55:37.384110+00:00",
+      "t": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+      "w": [
+        "braced",
+        "hormuz",
+        "iran",
+        "negotiators",
+        "reopen",
+        "strait",
+        "talks",
+        "worst"
+      ]
     }
   ],
   "resolved_events": [
@@ -3590,6 +3588,9 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "2eefde0f84cfbcacd2c23eb4b713d6a191ac1819d7b8d53bb17dfae971a99811",
+    "769c80b37a9887382ea0547ef6d372ba8f02d81804abd6114be81844af288946",
+    "8b5c43e3048f71f1b1d81207339576f1d33d606718ee280b7eacac7d8be40ea3",
     "6a0e9fd4a7f7de9bed4a43fed62f05f944fce951f25fa49c5c8242d90c3b47f1",
     "c1850ae555339ff04e9b85d4e995070570a283e900529aadaea218b5a136159d",
     "b3a4297ba7fad8a105787fb436560b9e634eecbcabf56bf629b9bd6720e673d2",
@@ -4586,10 +4587,7 @@
     "055f713ed4e12ec61240a7a15de610afc10d26f13e8f302d94092e563e6e9ecd",
     "e6594b30328ba1fb36a3b5454409b3e8f299ec0d3d04b5958fb91873a408308d",
     "cd90d23791ea8d3431916fef97176538d76a2ea334b8f759777d9f9e57b0edc2",
-    "1807a17da3b4e9581f0e4dae7bf7a2c2c77ac133f39e9d89942a193d9f910f55",
-    "76bd6d62dfee37862e82ac18de13e12b5c5ae0ad5118591df1178816e59b62eb",
-    "309339c9073050a1d9339392dd904db025a9df7897282479a4270b8f3c851d99",
-    "4ced887cee98dc18fcba4061ad66ad8d1be2b027bb2870c2bffa55cede4c2768"
+    "1807a17da3b4e9581f0e4dae7bf7a2c2c77ac133f39e9d89942a193d9f910f55"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

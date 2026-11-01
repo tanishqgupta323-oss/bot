@@ -11940,5 +11940,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Guardian",
+  "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjVSR3czb2tNNE5iaEtFN0ZqWnZvczZzV3F0ZHpoMEVSdl9Jb01HOXF6U3BITmRVM3BEc3JraWl6alRYWndQR1kzdVZxZVVsNjQ3cmhLUmlpS0FGT1dxVV9tbWlHUnQyWUZvR2JLcm9oTmJpWHVKWmtiN2tLbXp6UFRJZUFXWnBIUFlCZE1fOVZ5QkYwOW1VRnAtOGl2MnhRRHpjcEtWeTl1d0JJMGpKdjEzZF9yUkNUdTFJTg?oc=5",
+  "published_at": "2026-11-01T17:49:00+00:00",
+  "sent_at": "2026-11-01T17:55:38.500433+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
