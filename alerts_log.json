@@ -11982,5 +11982,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Financial Times",
+  "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlZjTzdFYjAzeVItVzFIMWE4QXVhblR1SlVvMnFjLWxBczktR3o3V0kyMGRvMXFibUhmOUNoRGlQZ0dTanNhaUktM1dOeXBIcU9PS3Nyc01GbEhtX0t2VDZDckdQMGg5NGluZ3ZzOE11a3BYVGp4RHNEY243U0VUbGU5dk0?oc=5",
+  "published_at": "2026-11-01T18:02:52+00:00",
+  "sent_at": "2026-11-01T18:32:07.608818+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0146
+   }
+  },
+  "checks_base": "published"
  }
 ]

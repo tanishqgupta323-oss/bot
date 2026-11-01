@@ -665,25 +665,10 @@
   "calendar_fetched_at": "2026-11-01T18:15:48.203644+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 124,
+    "count": 125,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T20:15:49.508004+00:00",
-      "w": [
-        "ahead",
-        "elections",
-        "high",
-        "inflation",
-        "iran",
-        "midterm",
-        "pressure",
-        "put",
-        "republicans",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-15T22:01:28.525129+00:00",
       "w": [
@@ -3561,6 +3546,20 @@
         "war",
         "won"
       ]
+    },
+    {
+      "at": "2026-11-01T18:31:08.900562+00:00",
+      "t": "Gulf braced for escalation of war between US-Israel alliance and Iran",
+      "w": [
+        "alliance",
+        "between",
+        "braced",
+        "escalation",
+        "gulf",
+        "iran",
+        "israel",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3588,6 +3587,9 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "729ecd70a72bae218212012ee9b81451ce3efcceadc1c8c710988b69f4c40d40",
+    "0fbbd16e67d794eaa3f4ce5ebcdc62e12ab92f9d29a0bf7eb120cfbcb3b4f5cb",
+    "d3b206ac99a2fe867a25e340e88c7b73909f7cbaf72063577284c5357c0a61d2",
     "c29e23d3cbc713a15ac861904c4926bbabdfe7821977e897f2a454f78ea15194",
     "f42d649f0a1306948d912ce5a80c76a39e62757a50d9bedde9201fa8561dfb86",
     "88cf62cd3687c111369f78913dc6d3a873a4469fab11ae0cd54c6809e1b42a2c",
@@ -4584,10 +4586,7 @@
     "cb93e5455ec55174d222f6c62b3b605f368ed511c47b4ac0f51bd0f195ce2998",
     "d3d1f89a06a9b91e6e029d8d2d969fa8ba270e08b8124df6ee2f217fb3a572cc",
     "0d5ebb11b661d03fc0138daf628df92581495924426cf783f53c86ae0a617402",
-    "647ebb00804e10373833161a26a659a5f252488edda3e74210ff163ef3040da0",
-    "9320ec693681a82f4d0f5fcd43176765feb65920eb25a28ca72d37c336940958",
-    "51f6e4a5a092f8966ca16b5994d60504010c91325bac7ae46bbf613313ef0970",
-    "bfa5b9f9f0ee33db6aab7772b418f4004320248c6fdb07efba849d91a7693cd1"
+    "647ebb00804e10373833161a26a659a5f252488edda3e74210ff163ef3040da0"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
