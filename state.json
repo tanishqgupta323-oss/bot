@@ -665,21 +665,10 @@
   "calendar_fetched_at": "2026-11-01T18:15:48.203644+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 152,
+    "count": 153,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-16T03:01:28.128724+00:00",
-      "w": [
-        "action",
-        "against",
-        "considering",
-        "iran",
-        "military",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-16T10:01:28.834930+00:00",
       "w": [
@@ -3569,6 +3558,17 @@
         "navy",
         "tankers"
       ]
+    },
+    {
+      "at": "2026-11-01T21:10:49.406469+00:00",
+      "t": "Rubio: Trump is READY FOR WAR with Iran",
+      "w": [
+        "iran",
+        "ready",
+        "rubio",
+        "trump",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3596,6 +3596,7 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "c3aed62fffdc9ae8f5bf62b1c8d8b30dee7169308886a49f9a65477fed115d8a",
     "cb93f9384ba822bb5c219588f9d0f89282053816489564c44457a427f181ee64",
     "56faed63fa379c32c63608e29c5cf0eebeb080913520a57ae5493f240d44cd02",
     "c5ff5390a4f624dbd146cd51899a7fa3e77fb88fe3efe7b4db33ac201f2327a2",
@@ -4594,8 +4595,7 @@
     "6ef96bf89aa0a872451316c83d4a983f8b27df36457b6277a88016c0b53e6a44",
     "7dbb6bd16060b7b778639cd46cf86cac0df4578821386685a95350b540b57693",
     "a658571e54769f50de4cb987dd5f59c5f8e7abd943d28ed5e01cbb71a7c98a36",
-    "0b9725b1bd8d1cba27e657b5f312637c851b0dcb00ec82089f7fc7fa5c39b866",
-    "77237df8b6495dce14603af7c90757bed8a9c01b928ba7107bc4e5889a2dfc7b"
+    "0b9725b1bd8d1cba27e657b5f312637c851b0dcb00ec82089f7fc7fa5c39b866"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

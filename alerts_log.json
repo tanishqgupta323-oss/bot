@@ -12112,5 +12112,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Fox News",
+  "title": "Rubio: Trump is READY FOR WAR with Iran",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zWWo0N19WaUFDbm8yTTdHckVRVEZZVVhOZi02VjBvY1dyUEs3V1U5aHlWOEkwYnlRSWJYbDVyXzU4aEpZWnBqc3d4UFg0amhXQjNMdW1n?oc=5",
+  "published_at": "2026-11-01T20:14:38+00:00",
+  "sent_at": "2026-11-01T21:10:50.350470+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0296
+   }
+  },
+  "checks_base": "published"
  }
 ]
