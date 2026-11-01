@@ -11706,5 +11706,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Le Monde.fr",
+  "title": "Trump says US still has 'to take care of' one or two targets in Iran",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX1QtbUtNMEFGUk9vMkZDeHVJY1ZFMnR4NXhWTEJRajI4ZjgzbVItYUVKbGdraFRVV0tGSlhoa28wbTNwLVllWHBkeHUyZVIxWHVYOFhBODBiSm5VR08zQ3J2TjlDWklHWXJaazR2amUxN0lUanUtVzJycmU2RjZKRE9FRTVmU0p1bVQ0VFlIaTFDLUpiTnFrM2p1MkRTc2MzdmpGS201Wno4TzAxcU8ySmpMSGl2d0RfaUFaMUxSUmtwYktnMnFMZUJXLWhuZktETTZ2TkFHaw?oc=5",
+  "published_at": "2026-11-01T04:49:47+00:00",
+  "sent_at": "2026-11-01T05:01:24.541158+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
