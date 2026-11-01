@@ -665,25 +665,10 @@
   "calendar_fetched_at": "2026-11-01T18:15:48.203644+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 122,
+    "count": 123,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T19:35:44.652705+00:00",
-      "w": [
-        "against",
-        "bombs",
-        "considering",
-        "iran",
-        "mother",
-        "part",
-        "plans",
-        "reportedly",
-        "strike",
-        "using"
-      ]
-    },
     {
       "at": "2026-10-15T20:15:49.508004+00:00",
       "w": [
@@ -3561,6 +3546,21 @@
         "talks",
         "worst"
       ]
+    },
+    {
+      "at": "2026-11-01T18:20:49.428897+00:00",
+      "t": "Iranian army: War could be longer than previous one, Trump won’t dictate its duration",
+      "w": [
+        "army",
+        "dictate",
+        "duration",
+        "iranian",
+        "longer",
+        "previous",
+        "trump",
+        "war",
+        "won"
+      ]
     }
   ],
   "resolved_events": [
@@ -3588,6 +3588,11 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "88cf62cd3687c111369f78913dc6d3a873a4469fab11ae0cd54c6809e1b42a2c",
+    "d29eeb742dd979f0a56e8dd4b1021e7706e2adb600d3287e3f09d34a63a1ecab",
+    "fbc301fbd09ad1909622581aacb842804430063a9d446daff936fb49e3c7a141",
+    "e5f20a19827e2ca444c36021c0d3561d176d2a7fd082bcc8c427e4b8294fdc98",
+    "76b51a4b160472174c00e28762279242b8d4e85df8fec11cc7f102b92d7744c8",
     "0fb17941cb9a198bb0ef03a245d57f5e87a28f821354d4fa6bd38ce6fbb27f43",
     "6b98e0fce212e2d6256c984da29fa7c9ffdfa230e5d28df5c3fe355ef8cc80fa",
     "3b17bac9899962bc4dec0356fa7e6598c8b39ebab3bc932fb50e65d253bbcd07",
@@ -4582,12 +4587,7 @@
     "51f6e4a5a092f8966ca16b5994d60504010c91325bac7ae46bbf613313ef0970",
     "bfa5b9f9f0ee33db6aab7772b418f4004320248c6fdb07efba849d91a7693cd1",
     "c6dcbad93118fb0d54b950de72c851bb0b6c32c033ad1fd773f74c6050d13eda",
-    "4965906e457245c61c0ac3f783f0d2fd60727c741f0eb57d7b1bc5f1336fbfdb",
-    "6bb00096cb3159a6a222ac57bd0a236645483d2f253fe4b2bd6fbba1dd5ad3ab",
-    "46d69b842c3728de5e11384f7ed67e20ed1e8a5cc6007c7de0d18a3e2ef63e52",
-    "9246bda9bd764b744795168bf5fb8ea3931193223022767af84670e12b8140af",
-    "37fd19c96d79d75853f2d77e939c7080cb8219854c2a686dfb573e3333109ce2",
-    "733ec91c0d3baea0d3ea6fb5aa4efeaf2d590211402d08c99cad5379548c57cc"
+    "4965906e457245c61c0ac3f783f0d2fd60727c741f0eb57d7b1bc5f1336fbfdb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

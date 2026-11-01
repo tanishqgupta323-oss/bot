@@ -11961,5 +11961,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Times of Israel",
+  "title": "Iranian army: War could be longer than previous one, Trump won’t dictate its duration",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0lMRlVva0JjWlN1Y1JZcFloZHZ0Z1VVX1VYTWhldDVNbldlQlJDbWNfRE8zOEEzdU82R3gyZzZjZUNRVWREZ2FxM1lHemhSbUlQeXVqT1hiUHZMS3RPUHQwejZGQ18zZ294bWJSbEJvR05KSmZhcnRja3VzSC1NTldFNjl5Rm9RRjBhQkJWTVRHUFZtR1A0S3hvb0tRVzRMRG9ScTUxM1FlUVZaaW9ZbThmZw?oc=5",
+  "published_at": "2026-11-01T17:52:58+00:00",
+  "sent_at": "2026-11-01T18:20:50.629728+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0846
+   }
+  },
+  "checks_base": "published"
  }
 ]
