@@ -665,7 +665,7 @@
   "calendar_fetched_at": "2026-11-01T15:10:51.414839+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 92,
+    "count": 93,
     "day": "2026-11-01"
   },
   "recent_stories": [
@@ -3588,6 +3588,7 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "e58626e155306f1ce963da30dad9a748195341582eeedcce7aead2945d4ded8b",
     "c3ddacf28097e49f9263251346ca1fcd60967b2a4b099110daa8476067605740",
     "b418453ea85dd27294c66f25781ee1aff80bd744844ca5f379f461b46fb53dcc",
     "151cc610771c1e1d30773ff1da83f972bcbbc6238df6f245622db262ef562547",
@@ -4586,8 +4587,7 @@
     "864fa002a74f13f264ac10384882dde8c87672adcfb507c21fcee21e552524e6",
     "57ab574c0a2d66a37c05b4bbe32675e169d9740eb509d0b48a33e0401856c5e4",
     "198c49efe3e9f4ac8d5aa0cabf88bc7c0d546f0bff206c174a5e5cc4a935b3f4",
-    "2d444a3f58ff89965e179c8c419a687f4879e4ff58680d2a856f5c9435c5c387",
-    "8fcfada6a411195756b47324cc42ec5a681493ad0b619ddab6bf21ba5bc07744"
+    "2d444a3f58ff89965e179c8c419a687f4879e4ff58680d2a856f5c9435c5c387"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
