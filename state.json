@@ -665,22 +665,10 @@
   "calendar_fetched_at": "2026-11-01T09:10:50.364107+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 32,
+    "count": 33,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T12:41:00.050985+00:00",
-      "w": [
-        "concerns",
-        "exceeding",
-        "forecasts",
-        "grow",
-        "inflation",
-        "ppi",
-        "surges"
-      ]
-    },
     {
       "at": "2026-10-15T13:06:22.184483+00:00",
       "w": [
@@ -3550,6 +3538,21 @@
         "stolen",
         "withdrawals"
       ]
+    },
+    {
+      "at": "2026-11-01T10:10:50.336133+00:00",
+      "t": "Wall Street Journal: Trump and Netanyahu Discuss Resuming Attacks on Iran",
+      "w": [
+        "attacks",
+        "discuss",
+        "iran",
+        "journal",
+        "netanyahu",
+        "resuming",
+        "street",
+        "trump",
+        "wall"
+      ]
     }
   ],
   "resolved_events": [
@@ -3577,6 +3580,21 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "bfb49b89e6a0a781d879ddb45ea35507429479c98c2e291749a01b5707640711",
+    "6078781bb377dfe4c24fef4db13873cdf1a619a07f7aa988c81a27b181adee07",
+    "fba2dfd1940df06fcefdc2686de7c4587369d91a7f45ce051e80ed6673fb6775",
+    "ceddf28dc269c3cad097cbe0a3706ca3a00f6d94db76ed7def2266bcbebff618",
+    "823e8bea84be3c905b51f77b82e5cd444e7e673f461c9854a8354432e77257bd",
+    "e31b4ea1655019ec13f444332488c4f8795189ee001d975e7505009752145c28",
+    "e70d6bee156230dea001f81ecad3d84b7e0ec38152426650e6358ab2f0e1dfa2",
+    "243acd461a73bf3037756e1989291d270f28f6be1d97298f87a58161a6e35fdc",
+    "91f024b79db9924c8cb138fc0d4f89cb907773f7ca3561652d74abd54f4144ec",
+    "c84d86c4b7a58a00b2b605b78375c5065e935b86361279821a18a6ece41aa4ab",
+    "8a070e1deb8c3bbd60eebd2a90166f89b60101a0c73e3e8e5ffb066efa80248d",
+    "329a997db60ad4f4744660b5d893b135b0d789b8943aa4a8216b4906204178e8",
+    "38c479652e0bd62622054b6c9f3299f3de2910d492fc6d5cab6882483c7bc99d",
+    "77325a5fe8ab60898db82bf262b0548969140801627c0b9bce73f9f758bb9fa8",
+    "5dbeb6dcdf0a04aada151e0fa094fd360c0576d91e76ab6821a5d5aa2f8dbb57",
     "ad4568068259556b40d7fff6e1b5fbf63b03ff791a4799472b2464ab69c89f91",
     "1aff30ae63df700b36cd33def7d5d612a0002c325db65182cdc9a5c98f664c76",
     "567b50ba0e925901ba95dcce782eab29b3ce4afab503f630e006058b5066b52d",
@@ -4561,22 +4579,7 @@
     "522a827926a86f5fc59c091389e3a58079b8d417968c0a1a0d91513630d98b25",
     "564cb8a3c8c5f3f264b911e8065fc84f85ead3a1815983b81fde2e3c49c930b5",
     "9c630048e19c24a25388f50d5795a831e5d6f4283fe1f6f00c06b6bc9e8b8b25",
-    "53bae0e36e838caecc3dc5752ac7d9eeea2d5073b43e312b2b1629ff4c6e2c66",
-    "0a53310466c97a06a4a1f495052221689b049993716384c011e6d26048770e85",
-    "f0972de9a792d8e4d11b0501a3f9b5d71055a03f6716d14376f4b2ce660c0de9",
-    "3248ed0239076f0d3dd82332255ecab3d8054d1b98ffd3ea4148a0ef1518efd2",
-    "07fac23032dbe148a7efeaee7adbe887de012bda6f8b11a650efcc47135a4dcb",
-    "a01688a08b251b60c774082d5a43f7720365946c1c6e472a562f3b2341ea2054",
-    "f2106e88f96a5c7c0b876d0a8ad71a1cd3a9a3b71fee95d881fb113aa03a8d28",
-    "e89fa81cda4d9f0b167896a978d9dcd4c86de8425c24e0e2b71796a65a769a59",
-    "da58d2cf269bf68758cd45817d0e78b5c1c99e152db515a6950a301962f290ca",
-    "201679168cd495df86c95ec0bf051e504be64cd19de9fb3faaad2ca3379e53f7",
-    "c830e71f505a4458c8b86ba18f0c052dc7d1ea35e5e8a6b1d3df45b6ca1f11f8",
-    "5c3c2c412a187a4bdcbed050639c6267c008ffb61ea23df9ebdd7e04f8100639",
-    "240e2f28ed6f6871d8c6981443e19103e2f54db94310ab51ef63754847b4804f",
-    "3b88bc784d872d0b48846bedca19eaf563f6f2beda7367ad6b623a036d40de47",
-    "85c057e00363acdb22fa4fc98dfd164aefd70c99f1918997142d11dc26fb9bd9",
-    "28b5c8a36f9b9dacd31d19f6f98ebc12a82f66a34184d2d56dac17f8f210510a"
+    "53bae0e36e838caecc3dc5752ac7d9eeea2d5073b43e312b2b1629ff4c6e2c66"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

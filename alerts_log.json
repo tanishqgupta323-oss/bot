@@ -11810,5 +11810,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "8AM Media",
+  "title": "Wall Street Journal: Trump and Netanyahu Discuss Resuming Attacks on Iran",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQemtVLXIxMjJSUDBHdEdXZU5IV3FRZngzR05YM05oa19UX3ZESzhQa2d3RFItTnBpaXZuRG1YdzZ4OXIyQld3U3FfVmkyMktYbVg0eTNOUVJWa0YtU1J5NExSWU8wSVgzd2ZITDFXWVg4ZGgtVEV0b1JVYlVrNURYOV9kaVFkMGV5UWlVTWZIZ2N6ZVpKMThOV2pVMA?oc=5",
+  "published_at": "2026-11-01T10:06:54+00:00",
+  "sent_at": "2026-11-01T10:11:05.162133+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
