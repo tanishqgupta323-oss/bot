@@ -665,25 +665,10 @@
   "calendar_fetched_at": "2026-11-01T18:15:48.203644+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 143,
+    "count": 144,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T23:40:50.450388+00:00",
-      "w": [
-        "blast",
-        "bombs",
-        "energy",
-        "iran",
-        "major",
-        "mother",
-        "sites",
-        "states",
-        "targeted",
-        "united"
-      ]
-    },
     {
       "at": "2026-10-16T01:31:17.492640+00:00",
       "w": [
@@ -3564,6 +3549,20 @@
         "tuesday",
         "urges"
       ]
+    },
+    {
+      "at": "2026-11-01T20:10:55.249679+00:00",
+      "t": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
+      "w": [
+        "dallas",
+        "fed",
+        "implement",
+        "increases",
+        "least",
+        "logan",
+        "needs",
+        "rate"
+      ]
     }
   ],
   "resolved_events": [
@@ -3591,6 +3590,8 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "cb3db433384afb840c2005e627fc0256c992134ecb5fc685519c7ccc01ad4e01",
+    "e5af74987e2162a7d31c4c515b8a260cd0ecddc1b3929f4a43c863bcfa977de3",
     "943ea56562ba97423fd1902ae3158a8d36412fb71eacf6c6aab884362a026ac9",
     "62bb436ac197fec240bd1b8d4643a8761b977bfc089af176f116807dc070423a",
     "5bb2284b00baac95a44573287d186b641199950e6a8bea8b31dee3f85ded174b",
@@ -4588,9 +4589,7 @@
     "6dd3d3e127575b9fa34ec8131d941af8222dedb8006362a2d245e931e1b5b41d",
     "a8024d1f622b599215ccaf26d34a9222b2ecbf4808416e1f7171485ba4f01ead",
     "e8e804415aab7503cd958262f0a0bc55eb886c86f3b7b661d121c920e41df28d",
-    "45a4f2fe49846d514a328dab49f387ec8e74159728e581683116f7ddd0958922",
-    "c7b4ac86315fa0a504f1f664c7f0bbc65331c318a8f0762f919ddd39f1a216a4",
-    "11382e544618fbfd8892c6ef341a178b3864b380a729db686ef2085d518c7a21"
+    "45a4f2fe49846d514a328dab49f387ec8e74159728e581683116f7ddd0958922"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

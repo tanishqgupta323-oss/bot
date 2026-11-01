@@ -12039,5 +12039,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WSJ",
+  "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
+  "published_at": "2026-11-01T19:14:09+00:00",
+  "sent_at": "2026-11-01T20:10:56.222611+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1274
+   }
+  },
+  "checks_base": "published"
  }
 ]
