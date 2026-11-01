@@ -12148,5 +12148,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "New York Post",
+  "title": "Iran’s boosted weapons capabilities have caused up to $15B in US base damage: report",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbFRlLUEzdjNGQlBzZi1BeTVuWVpMMWZEME13N215dVRudkZSSHJXbnZFUHhZaHFzeFcxbC1aUWdiM3ZWSmw5UF92eThyYkVCN2cxMGx3eTNUbW0zOXd5bmlaeWR2V3d4Q3pDMGRITnhfUUdPTElEdkpFVnVwSTR2WmJZbmJrMDlDbGJrWkNWcGgyOTBwenFrWElRSHUwaVNBQTFFRXNJd2J2LXRLS0ZpV3gyRHh1MEda?oc=5",
+  "published_at": "2026-11-01T22:42:00+00:00",
+  "sent_at": "2026-11-01T23:31:14.413746+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.064
+   }
+  },
+  "checks_base": "published"
  }
 ]
