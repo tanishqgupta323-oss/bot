@@ -665,23 +665,10 @@
   "calendar_fetched_at": "2026-11-01T18:15:48.203644+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 139,
+    "count": 140,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T22:01:28.525129+00:00",
-      "w": [
-        "deterioration",
-        "expectations",
-        "fed",
-        "hammack",
-        "inflation",
-        "require",
-        "response",
-        "warns"
-      ]
-    },
     {
       "at": "2026-10-15T23:40:50.450388+00:00",
       "w": [
@@ -3560,6 +3547,23 @@
         "israel",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-01T19:50:50.732106+00:00",
+      "t": "Trump favors diplomacy with Iran as Netanyahu urges strikes immediately after Tuesday's US midterms: Report",
+      "w": [
+        "diplomacy",
+        "favors",
+        "immediately",
+        "iran",
+        "midterms",
+        "netanyahu",
+        "report",
+        "strikes",
+        "trump",
+        "tuesday",
+        "urges"
+      ]
     }
   ],
   "resolved_events": [
@@ -3587,6 +3591,14 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "b5e0104fb82f634272576d95812deb84996f69997afe7ca4a86b3e93cea8d9d2",
+    "f79e4446ee4b57c6cb02c284385a7cc890d2777606002ceb9b3c581b937018e7",
+    "5e55d6a453317700f06cf89addea3b256aeca54b4773a5d6b420ac2c6e5126df",
+    "8a045b53529ead5badf65fc2a7fd4f81e367c4c0c97708527f5d826e85854261",
+    "a019bf5d1339f2b7c7e89081e6f0631569184beb6c54b6ae1f2131ca95005c66",
+    "c92b60cc86d643078e2a6b0d8795369a26a709b636738929b18671ee7e133953",
+    "3e07a7fd6b42c269b6c553be4bb6bc893b51fe354ad5ce24eeeba7343878b385",
+    "84ffdeeb08fd5bc2d29815cca2c85efb6b3536cb02e0bf58ac1bcf828588446a",
     "7ae29316dba9597d3d2801dfbfb6054e0d1fe6be2f79b75ae060befe95c82977",
     "2df69785ef09f79669af63c2e860953a6371d8a79e817cff756ff358a7510e3e",
     "500a57b5c7cfc79cbf829db47ad58a0d37b7132a3165eee122d0db280f1479a1",
@@ -4578,15 +4590,7 @@
     "e5af74987e2162a7d31c4c515b8a260cd0ecddc1b3929f4a43c863bcfa977de3",
     "8d568a3b23952d01ecb60f939a2d888da18637d07b281636caa03e75fa8492d2",
     "91dd993e3315985cdde030d93ef27e6017e5ce747c8e355808288e2627883ac0",
-    "84190533ff0fcb8eaaf69f6ffbfe28bbd601edf0274f889697a74e52c0235c3e",
-    "fd4570b9796053ff34fce4c562b2b10b4ecb5fdf4521675145e4a924524afac4",
-    "b097ee73cff7c83887ec79362bf34b719b353686235a22b082f3804cac236487",
-    "24d0596ad21fcf57ef3a019975a575eda4f38ec175d900eb24833ec0da057484",
-    "85f346728f2c95d87b51987a4a18d560ea24b4fdb5a18010935f6d3ff2b2b33b",
-    "34bd12c465e36244495017ba03ba1a4cd8f36af86635744adf1b9ac656d6d8fd",
-    "9a1cfbd3361a35582426e8798e370238bd0e83ce123e5c4ddf1633b6f425f06b",
-    "91cdf04e21fa8c942c2e79253021d2de7817d7a5cc3a39ea884ab0394872b8bf",
-    "f0427f113db6ae75d52a77fdad53c90a72c825b0fecdf62d454dc4469f325fb9"
+    "84190533ff0fcb8eaaf69f6ffbfe28bbd601edf0274f889697a74e52c0235c3e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

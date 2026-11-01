@@ -12018,5 +12018,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Anadolu Ajansı",
+  "title": "Trump favors diplomacy with Iran as Netanyahu urges strikes immediately after Tuesday's US midterms: Report",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObVBvU1h0Z0JSVDA4VFo2Y201MzJlbC1RNDFIRFJnVEQxQVhubDlsSElDdXl0NWNWT25SS2QwckZOTVlQbXpmLU9ZYXhUdHdHTER1X2NwSkl6MXpNVXJTN2t4eWZhV3ZsZkdqX203WElPUVZpR2hpQXpJZEJzSHI1MHNKZTZVeUZCdzAxdU9pMHViUlc5UXFaS0VqYVZqbmUtSVB0N2lBRFhoUEtIYm5SWGtCa0dkYXA1MHlwbkwxMWs1cjRyTEZtbjlzYi1rWmdhTDhUdDM5SDJmSWNXU1A5eQ?oc=5",
+  "published_at": "2026-11-01T19:48:29+00:00",
+  "sent_at": "2026-11-01T19:50:51.786883+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
