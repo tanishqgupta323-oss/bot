@@ -11888,5 +11888,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNBC",
+  "title": "Iranian negotiators in Qatar to continue talks to end the U.S.-Iran war: Reuters",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMEtSN3N3NVFRUWhmUzRPM1g0RDZyMlA1VnJIejFyUTAyUzVvQ3llWmxvcmpLNWc0RTRKNm81UU5mamNTZGFnZ1BnTUNEREtLVWs3N2dYR3QzRGdzbkJFNnAzY09EUkIyRG1GZ25TZG5XSE9mZHlaWFNSTUpZMWpoZldTVWVVcTVNeGVseExwNzdYaU5VRHhOTGwzRl9Xd182ZERIeNIBqgFBVV95cUxQU1lpSVUyVFJULTRPbUZibGQ0VW1UbVhuSHRHUnFZNDNaYkJoU2pZaTFJbHktejFjakozSDJZVmJjMG95Q1ZrdlA2WGZaelJvZ3RYVzl6V3FHc21UYzVlWElXU3VDamZuV1BfTVNPZ3BfYlBTaUZGRDdYZURxZzFORmhvdWZ4RFpESkhGdHVHR2MzN00zM1Z5eXdtTmd2U0h5bkdWenlrQktpUQ?oc=5",
+  "published_at": "2026-11-01T13:30:02+00:00",
+  "sent_at": "2026-11-01T14:05:39.408629+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0155
+   }
+  },
+  "checks_base": "published"
  }
 ]

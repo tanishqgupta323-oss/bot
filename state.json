@@ -665,22 +665,10 @@
   "calendar_fetched_at": "2026-11-01T12:10:50.740626+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 76,
+    "count": 77,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T15:01:38.948411+00:00",
-      "w": [
-        "bombs",
-        "despite",
-        "doubts",
-        "impact",
-        "iran",
-        "mother",
-        "weighs"
-      ]
-    },
     {
       "at": "2026-10-15T16:05:49.014707+00:00",
       "w": [
@@ -3558,6 +3546,21 @@
         "unrestricted",
         "warns"
       ]
+    },
+    {
+      "at": "2026-11-01T14:05:38.249238+00:00",
+      "t": "Iranian negotiators in Qatar to continue talks to end the U.S.-Iran war: Reuters",
+      "w": [
+        "continue",
+        "end",
+        "iran",
+        "iranian",
+        "negotiators",
+        "qatar",
+        "reuters",
+        "talks",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3585,6 +3588,10 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "7d3f8cc50f4e4534a8673a2a757ed0aacf07957a1ce339db3fbad0e7eddf6aff",
+    "fe5aca4e29c518c5fbdb70ab868edafc28828b2606bba4013d2dea6d5f774b3c",
+    "f98e70c8d282de3057c0e5eabbf5ec7b291f341fb6b54de40854e47b34962d1c",
+    "a64e2d7b61af612f954963b7fcd3d6f7ef465bc605b91e7b46c69405b1d96d39",
     "92913a38b0669272ef7cbb977b3c6a5ae9b0d54c810b04e3ebba2e8c7dfb0d63",
     "3a60685e5548b2eb018ecaad0c84111a5ec435c89b5290bb3f698abbf6eda301",
     "6a63e27f34e2adc291cac8a7f6eb3ce1396f2bda735fede898aae8453f214ae6",
@@ -4580,11 +4587,7 @@
     "48fc8092d91aec105e3606acb8553dd89d22d3cd8f0dabc0a79abbc3a5c3eb13",
     "6cb447b1196c5c6a5ae532bd2cc361be70c4225a7e335731372fc3aea1e280c9",
     "133c94a000af5e99f992cf3eae9c7ee4c5eecb1e772ef724d91ab778e73589f9",
-    "1f6e6e49f092a63875d40ed3696254c3d0d9295b12d37f14793712dbabcf9d96",
-    "8ec0dec3bcfee5644b45b1a2d7645ebde44eb28c2ef3496a9fc9d5fa204418cf",
-    "9098fe4757005dbe1c0e370701268d14cdc74992edb4b93f873be1c2b0ae925b",
-    "cd177229235b420f8d772a50b7f8b384cd9d29bef2d95358fa380feb36b727f0",
-    "d0071ee0d20a0cb107df7bbeac8a32c597926555db51a3b3192b44a9c3fbf330"
+    "1f6e6e49f092a63875d40ed3696254c3d0d9295b12d37f14793712dbabcf9d96"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
