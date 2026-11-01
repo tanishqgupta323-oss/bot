@@ -665,18 +665,10 @@
   "calendar_fetched_at": "2026-11-01T12:10:50.740626+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 64,
+    "count": 65,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T13:06:22.184483+00:00",
-      "w": [
-        "expected",
-        "ppi",
-        "september"
-      ]
-    },
     {
       "at": "2026-10-15T15:01:38.948411+00:00",
       "w": [
@@ -3554,6 +3546,18 @@
         "top",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-01T13:01:23.259203+00:00",
+      "t": "Iran warns of 'geographically unrestricted response' if US attacks",
+      "w": [
+        "attacks",
+        "geographically",
+        "iran",
+        "response",
+        "unrestricted",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3581,6 +3585,12 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "5efd78b12ba1dcb1f20d29ceeb65825b158d745a1f090c45cf9364809c3d33fe",
+    "f47e9670b56adeef2567d73bdb82543368c75f3a100b9bd78eb9a04c3e0ed8ad",
+    "fc09afdbe042c74ad613b1f01deeba40cd4785fcd0232892af45b516aff0c617",
+    "2ef4a9a5a632e2bd389f7046b6d3b19e57e3255397b67de648f1b9c97bf90ca5",
+    "7e6ddd9124af0e4678f199d2e1ffbd5ddd1057507581aa12b1b5b412292e4b81",
+    "2b0b46c9902defbe3b781616e977d8026c54e63f7ed0c40e068e1533d8d044c7",
     "1ebdf13f6746100121b35baaa03b06687f188175e9644ee66383ebb9eaf16dc0",
     "a8245877ac754988fb948459719415e787ce3e752e341b6a60c160b51a47c4e3",
     "a44252f0da8e83af7490a6ea85f940f2d63d5fdceede2ad835adf88347d60b0d",
@@ -4574,13 +4584,7 @@
     "e7d27a8fdd558930c18bf9d401e131d6539ac73f724b94be5c2ed71f137f4612",
     "58df06b411b592c7373986603d9994984c039bd3e000048ec7abb97db24e6bf8",
     "30dcc37bf52ed3e03e88ca140d5433e3aaa81fd6a08cd787aac84c417cc2834b",
-    "b4c288d0281c11c518d1dbec1f4f3d3faa84c7f06cb1d8e15176e5f8799c9376",
-    "1104d2eb696cc6afa381d1df3ef8d64ac75dc3b26d04e4a1e387e3cfbc5d5ba9",
-    "cd3d07ee5e6577fdb9021210aae58c286d0cbf1eb2bb9fcabac6a0e6bd9c405c",
-    "d411a794d61277b0775bd556ddff6c4acf410c6d4aeccb659704b23e3ca229f7",
-    "ab4fe0056ed4c22f407f0e1f5dcdf5c5a117e1f5429f7038a6bf3b6f11a6eb36",
-    "0ea05cc147442916ee12bcf8392103c99e0639c70766cd6dac0391b286355059",
-    "f9fd879fc2acdbfd76d3aef9c600d14c4843f00bae5a297eb7acca7afaa8c638"
+    "b4c288d0281c11c518d1dbec1f4f3d3faa84c7f06cb1d8e15176e5f8799c9376"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
