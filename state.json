@@ -665,22 +665,10 @@
   "calendar_fetched_at": "2026-11-01T15:10:51.414839+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 98,
+    "count": 99,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T16:05:49.014707+00:00",
-      "w": [
-        "done",
-        "economists",
-        "fed",
-        "hot",
-        "ppi",
-        "shows",
-        "work"
-      ]
-    },
     {
       "at": "2026-10-15T19:31:11.132655+00:00",
       "w": [
@@ -3561,6 +3549,20 @@
         "talks",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-01T16:05:40.335030+00:00",
+      "t": "US, Israeli targets, timelines, priorities for a potential third Iran war",
+      "w": [
+        "iran",
+        "israeli",
+        "potential",
+        "priorities",
+        "targets",
+        "third",
+        "timelines",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3588,6 +3590,15 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "54da7211dc1c51a2e812500e65872351c4d5661334dc88c7aff8e8a560271cf9",
+    "37ee6f89fea1816e6a49e56e101aded193db9a0e946a7ff31558b151b2411f71",
+    "d2bfa2e6affd4a3bfbcdbb7ea1a1579d48e95f3e06a119df8fc2b51ec5844ceb",
+    "f6426778f488b6fb1e60fdf876f13ed291850893665e51473925549fe61a19ed",
+    "47846c6c01cdedf9c6886a0bdb0e3e44da9479f150bdfa4327e5d54e3b5dbb63",
+    "775ee5b7bac4c270493e4a4e60ae07755ae77737a850fb314fef8631fb4bbed2",
+    "4f21d53e1628320253d6b7a958553f9b8d7386133c1fd9dfeb0f69a06120ca9d",
+    "4146e9348ec4ccc5804ca9367c3a5f0cdde65ee9e0e7ff0fa3546565f17d6320",
+    "9375c3019075c8c0e6e56ed4a44b9a616083ebe1c9c4d10f4f1b708aea816361",
     "008d40e2c4030479a8d8bc515703a685ccad2924e271894d25ce0f49096dadca",
     "5db3f8a8608d803d4ddc29ec042f62e9890e76b52038affcc526129c530b16cd",
     "247a3e2755f83aa690865f36fe7be030d894e750688de9f9bb1038b3b8243ec5",
@@ -4578,16 +4589,7 @@
     "11a5915b4abe20ba346403464d92ae26fe14d27e6d5cb2c54b31e18f74c7be34",
     "9ab7330d76f173bed60907443a94b7fd1a0f24230fa647b3d4861273e47d9d37",
     "7dd50efa53ab013550a2a9c2b776143588f6c18d6f8ce3b49a70b8118f4af56c",
-    "f407415db51a439dede1ea64e23c61c21b91e97466178d77b15acb261353accb",
-    "d95cff4b746fc2cefbabba13fed1cf56a8e540161617cf374b3855bade0d9e05",
-    "f0b6dde97cc6c9a978629d12936dce10c6a6be0d057bef384a7ab17660ba96fa",
-    "a2250cf0dc98de398d6cbb798e1bfed5ca2cd7319be19247bcc12ca805505cef",
-    "af99a9bf7a758a22788744be4d3fdf4680d4f1ebf09082d880dde79074373dda",
-    "0889428aced614a6c585a61ca891978110dca684196b3bf61a4839a6608e8769",
-    "218e3831cb61999168f8ece5c637ba3c686a716e0cc4fb01dcc756257e0379a2",
-    "3fe359706c6e47dedad550842d9146c7dd1ac2fbd0d2e24798481f57c85ade0e",
-    "05d90598a70126fed22cddb7ab426c3dc3cd32d6a56982d287ed1930caded062",
-    "c96a9684e6581f7a8cd9b62f812628ffee089840c4fe382b3dc71b71bf2de4ab"
+    "f407415db51a439dede1ea64e23c61c21b91e97466178d77b15acb261353accb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
