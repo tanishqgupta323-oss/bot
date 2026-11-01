@@ -665,22 +665,10 @@
   "calendar_fetched_at": "2026-11-01T12:10:50.740626+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 58,
+    "count": 59,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T13:06:22.184483+00:00",
-      "w": [
-        "estimate",
-        "mom",
-        "month",
-        "prior",
-        "retails",
-        "sales",
-        "september"
-      ]
-    },
     {
       "at": "2026-10-15T13:06:22.184483+00:00",
       "w": [
@@ -3553,6 +3541,19 @@
         "trump",
         "wall"
       ]
+    },
+    {
+      "at": "2026-11-01T12:25:37.353402+00:00",
+      "t": "Gas prices top $4 a gallon as Iran war escalates",
+      "w": [
+        "escalates",
+        "gallon",
+        "gas",
+        "iran",
+        "prices",
+        "top",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3580,6 +3581,10 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "0daaf2c3f7deb6d397359266ce06dbc5c880bfe4ad2de354d9daf1ab228ce0ba",
+    "29b0cf180c89e3f4f749bb9ded931c01d6d3dc4875c3bce05bb5d159490d0557",
+    "832fb92a6d6d4ef6854cabc7bd8efb3e54a71e1ea31690acd24bd30984b75262",
+    "45e8b4ce9cbf571db741a6959c11101260f2b70266037f3b16ec7454affbb75e",
     "b6fc2e2206255c40c8b88cccf2f891a23a6cb495a367f8da02fc1c33eff11404",
     "70e2fb4cfd11eabd91f3c1dedc9bb5d2374f9f6cda4f1c49e064a16abc565393",
     "7d2170f4783e6aff3b212eb704496609e5333987468e4f3f5c0e0c2289cfd022",
@@ -4575,11 +4580,7 @@
     "66a4b511eb32f0774929a8b9ed243d1f92be3e6cfe7b61efced7c42d1e958476",
     "94361f327598b85b4768ba53ea2e657735ec3a652fc060f3c80639b91532888b",
     "dfae0a3a24d159d69102a6b984562d8f5fe8e8a757303576cba2beae4fe3e607",
-    "81ebcac3561d1dcf6a1e490966a45bcdbca2a61aff3bf50d5907280c17cfd22a",
-    "c36b7b4ee72ac97e3864f8484336ddde58663de5589dc8237320c0fd016bbbab",
-    "cc65390eef4669894803310621970ab7c885fb121271814c3fc7e68cc48fadc7",
-    "57b70bac25ae86fc1e8bba3dcae03388271446ae95d8e327026ea15de18c542f",
-    "731df1d7d9cde8af0ab290be9420dda071e25a6b2d5e9288b5d59f5e57647176"
+    "81ebcac3561d1dcf6a1e490966a45bcdbca2a61aff3bf50d5907280c17cfd22a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
