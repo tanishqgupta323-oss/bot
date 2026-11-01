@@ -665,23 +665,10 @@
   "calendar_fetched_at": "2026-11-01T18:15:48.203644+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 144,
+    "count": 145,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-16T01:31:17.492640+00:00",
-      "w": [
-        "bitcoin",
-        "fed",
-        "kospi",
-        "plunges",
-        "rate",
-        "uncertainty",
-        "weighs",
-        "wilts"
-      ]
-    },
     {
       "at": "2026-10-16T02:25:38.678125+00:00",
       "w": [
@@ -3563,6 +3550,25 @@
         "needs",
         "rate"
       ]
+    },
+    {
+      "at": "2026-11-01T20:15:50.390581+00:00",
+      "t": "Iran vows response beyond Mideast and target financial assets; oil markets fear generational damage",
+      "w": [
+        "assets",
+        "beyond",
+        "damage",
+        "fear",
+        "financial",
+        "generational",
+        "iran",
+        "markets",
+        "mideast",
+        "oil",
+        "response",
+        "target",
+        "vows"
+      ]
     }
   ],
   "resolved_events": [
@@ -3590,6 +3596,13 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "2b67ce2201600cd5f156dd22860c8e5fccdf6067c859a0935ce2b95a367a7949",
+    "2b59a80c3f70d3650d70d2b472b98fbed584855f121565667c14fd0d66598851",
+    "eedd51b4d2cc830cd6e00d6570f3aa6a4a9d8656a101ff6da79481793749d358",
+    "002ad08dc8034e5dd1b55ff4952f33e35f0cc12351f80d76d9ec74c5fde0ce49",
+    "c1fd2d7b60b40e55fbbb8de55335e13496788ffbc32a3aad38684f565d37b095",
+    "d8e38a75b55091afa84098d15cb83fd36fd6984bceecf6b96fb7f24c2ec1ead5",
+    "5b0c729ed3d1ae61ec89d5f0fdf88cdc6faf051985ad02815db0e6713b81a477",
     "cb3db433384afb840c2005e627fc0256c992134ecb5fc685519c7ccc01ad4e01",
     "e5af74987e2162a7d31c4c515b8a260cd0ecddc1b3929f4a43c863bcfa977de3",
     "943ea56562ba97423fd1902ae3158a8d36412fb71eacf6c6aab884362a026ac9",
@@ -4582,14 +4595,7 @@
     "51fe9ccbf651fe574246aa3902a75d0720258a1bf37f51316cb4411cda617b3d",
     "4b98c3925c0afd8ce3f549fe913a8bddfbba2376e9d51e02d5c2b228f50e71d5",
     "166e8ce27050bbe1f2060896782e0629f817473c0eeb638ff5d8235b9cc101e2",
-    "45ded831db4d44e92b81ea34646f91886f1072675fe9c191a8f393d0680ddddb",
-    "16e3db7f0a28298c36b979490ef9edab7b6e8459c8e2ce55efc04e5b72a08eca",
-    "ef211c95f59fde4e788a389a9e6d06d2cd216d464d8c92e9662805e4e5dea5f5",
-    "e11d4c068c0b31fae14998909a2521daaae6e57042f57a32c79f90c1887a7e80",
-    "6dd3d3e127575b9fa34ec8131d941af8222dedb8006362a2d245e931e1b5b41d",
-    "a8024d1f622b599215ccaf26d34a9222b2ecbf4808416e1f7171485ba4f01ead",
-    "e8e804415aab7503cd958262f0a0bc55eb886c86f3b7b661d121c920e41df28d",
-    "45a4f2fe49846d514a328dab49f387ec8e74159728e581683116f7ddd0958922"
+    "45ded831db4d44e92b81ea34646f91886f1072675fe9c191a8f393d0680ddddb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
