@@ -665,24 +665,10 @@
   "calendar_fetched_at": "2026-11-01T06:10:49.876148+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 15,
+    "count": 16,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-15T12:15:47.054740+00:00",
-      "w": [
-        "deliberate",
-        "gulf",
-        "iran",
-        "persian",
-        "power",
-        "reuters",
-        "strikes",
-        "water",
-        "were"
-      ]
-    },
     {
       "at": "2026-10-15T12:41:00.050985+00:00",
       "w": [
@@ -3547,6 +3533,19 @@
         "risks",
         "surges"
       ]
+    },
+    {
+      "at": "2026-11-01T08:40:49.540239+00:00",
+      "t": "Trump says US could strike Iran's remaining nuclear sites in '10 minutes'",
+      "w": [
+        "iran",
+        "minutes",
+        "nuclear",
+        "remaining",
+        "sites",
+        "strike",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3574,6 +3573,10 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "75c1ef4a0e032b9292b21e9f16135184bb683fb9e5b52a71a69a2fb7812136d7",
+    "ad7a179cc21f12aa4e0470cf5009d8b7ae39dc8b86068f3285c60b5a663f751d",
+    "3ed5bd4c0074a329328d1f6e76abd81081acf612712941663da26fd2c0bc3db1",
+    "f8dcb10fe607e84906db5273a76c50416a71b72579441fcec6916c5bcb3951fb",
     "8e2f1b8b36b399b01967e3a6a8be8f608846f88906ee7c50571a08c7a7b622c4",
     "772654b20794238f210f2093617d18ac6a37effb540a3b4df46d7ba403efb4e3",
     "78b1a68b5553a5282356029509bbc8119a5958285d3e14cdb8f84c515c171f2f",
@@ -4569,11 +4572,7 @@
     "3cfd488acfd0d8a9dfcbe4e636bfd2f76325a88c00992b020795f0fa011222a5",
     "d454945cffc017640b69fe20ac3ca92b3faf620644a9a2c882f02f65104a91f4",
     "aa468651b0347b34305453f663dd7f163517289b38f1e33b59aafc0043f81985",
-    "cd724ab0aff4add94fe1b2fb874a666f45245e28e1202c71aa9da714ff571af9",
-    "7b989d15bc57d6ac04fd526dfbcce39a10f8bc29db901155e957132913861c2b",
-    "c7b35bbe35510e05e323fdca3a14f61eb6fdffeb92a10afe1e75d37bf80590a7",
-    "dffde1e8dc74745473f08841c44cdbb8414f648b2c033faeef7b071d4046e5b8",
-    "639931db5470fec0ed489bb0fe24d4156beeb823af3537b0627295b382405f03"
+    "cd724ab0aff4add94fe1b2fb874a666f45245e28e1202c71aa9da714ff571af9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
