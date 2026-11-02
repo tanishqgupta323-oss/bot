@@ -665,21 +665,10 @@
   "calendar_fetched_at": "2026-11-02T00:20:48.814296+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 215,
+    "count": 216,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-16T12:51:09.647735+00:00",
-      "w": [
-        "iran",
-        "mountain",
-        "need",
-        "pickaxe",
-        "strike",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-16T13:05:47.202727+00:00",
       "w": [
@@ -3577,6 +3566,22 @@
         "tells",
         "wallets"
       ]
+    },
+    {
+      "at": "2026-11-02T03:05:38.157102+00:00",
+      "t": "Tanker hit by two projectiles off Saudi coast as Gulf incidents reach 10 in three days",
+      "w": [
+        "coast",
+        "days",
+        "gulf",
+        "hit",
+        "incidents",
+        "projectiles",
+        "reach",
+        "saudi",
+        "tanker",
+        "three"
+      ]
     }
   ],
   "resolved_events": [
@@ -3604,6 +3609,12 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "b884e5006f6834837269df83f0568a3491f1ac00c2826e820253e7f0c1d7e1c6",
+    "988d8d3cbceb1099df1483964820246c984410d66f94263e279436c50c7ca7f4",
+    "062cc4f3e088d7054f6aa09ec3bea1daca2a6b159296d768bb54cd5e469adc6d",
+    "c2e8fe63c7938d9075bf19f610d08f61caad8633e3f44bb3e3ea9707c6a4651b",
+    "66bbd63c98bd1966eee8f217786d65924e5ce01649bba80ab7c6d0af72d1afbd",
+    "a2c0a0d5d5c68dabc40d290850529ce1e40ba46a2be8773af74092c6c4ce3811",
     "d87491536614b73c03e9b913f891ce3a6e40d3aa4f72b5c4c0154e1101c10e65",
     "903422c13a94fd52107253bceafa7c5bed2473e40789f36584b71f7708013f22",
     "df9428948a28ba4d45ac43b81c52f1237077f27143c24f4035d2d28c04713615",
@@ -4597,13 +4608,7 @@
     "f2fc42da5151a4c6aabe826d6292625495760a592d9c8dc4b320886e8ec0601d",
     "7e523ff3252c4ee877b433901dfc5cc46ce475311796a2ce25643cc008d7eb8b",
     "835de41c8c02f538ae12ee993322028194cc02546367862c8eff86f13852f0a0",
-    "f3d1318a90783b9fb381f29349df110055610c01e21d08fb7d16536d7e689e98",
-    "fba47383305826172a9ba7490cfc990354c8e914803c7d07d1c333118fa60984",
-    "64ad26055175bfe293d3bb7ab6143ba29793b9c64bda97798264c9207e13f9e7",
-    "4fa9243223f96b9242b0f99576fff8ec567d23d2d4b1f9d205e3c8427c0c2525",
-    "3e9e98a5f8102d1825dd2e3dced2879da990102ead0fb6e3d7551c1109dbe7da",
-    "431332420b959739806a26b5a15710646410acd064af019b212c56124d68daad",
-    "32e38274a6d1e975b1c7bba98bbd4c303858f0cf69d36bb410616b8971b406b9"
+    "f3d1318a90783b9fb381f29349df110055610c01e21d08fb7d16536d7e689e98"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
