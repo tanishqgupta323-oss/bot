@@ -12292,5 +12292,26 @@
   "xauusd": "NEUTRAL",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "SOFX",
+  "title": "Iran's Supreme Leader Orders 'Geographically Unrestricted' Response to Any New U.S. Attack",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ201MjA4OXRzVDRnZjJzRldOcnVyeF9Nanh2STltbl8teUZnUGNZYUJWNnhsNVNqNTk1OWVkSUpxTlcyVTlJbmhCcGNsa1JIeWdLUV96VGxNWHI5Z2xlc3JKSGpzLWhQOFhEc3VpM2dacV9YdEVKSkIyODhaTVFiQTBFcDN0R2c1NE9jNURUZGhhX29QblM0Y3JYVWh1LXpwbnRQSG9fS2NSc1Q0?oc=5",
+  "published_at": "2026-11-02T04:33:07+00:00",
+  "sent_at": "2026-11-02T04:55:38.957781+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0112,
+    "XAUUSD": -0.0486,
+    "BTCUSD": -0.0317
+   }
+  },
+  "checks_base": "published"
  }
 ]

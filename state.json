@@ -665,28 +665,10 @@
   "calendar_fetched_at": "2026-11-02T03:21:02.304873+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 235,
+    "count": 236,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-16T17:40:58.632894+00:00",
-      "w": [
-        "100",
-        "attacks",
-        "crude",
-        "escalates",
-        "hit",
-        "hormuz",
-        "iran",
-        "oil",
-        "refineries",
-        "russian",
-        "tops",
-        "ukraine",
-        "vows"
-      ]
-    },
     {
       "at": "2026-10-16T17:55:44.942881+00:00",
       "w": [
@@ -3587,6 +3569,21 @@
         "users",
         "wallets"
       ]
+    },
+    {
+      "at": "2026-11-02T04:55:38.012900+00:00",
+      "t": "Iran's Supreme Leader Orders 'Geographically Unrestricted' Response to Any New U.S. Attack",
+      "w": [
+        "any",
+        "attack",
+        "geographically",
+        "iran",
+        "leader",
+        "orders",
+        "response",
+        "supreme",
+        "unrestricted"
+      ]
     }
   ],
   "resolved_events": [
@@ -3614,6 +3611,8 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "9e592ae98063d1580117f013820a6688df6267aef786e006e33662b9ef916cf9",
+    "d013ededa6e5a9adc35ad700b1a44ffd770872b2d5c41d04e51bb2eef2190482",
     "d2f0ed060182ba057f7b02ebf21f6b3f43486fec7d91db56c78421bd0e53db44",
     "eaf7e6ee56c024579e6e8c7df490b2cb9429d9dbdbfd84887df17a992b74ef2f",
     "c345cc2674fd100c1a28a0f6dcae129718784ad1582be3e170c7852e5d3ab15d",
@@ -4611,9 +4610,7 @@
     "675b84d53862cb5daf7413b2d0f22814b02ae1b6109e2df47626edc883eccbb6",
     "fdbdb70236309b4132612b82e0becf395c95832e747f2195bb165f5bfbc184e0",
     "7ba830331c50aa1f9071888421d4a99724b9b3cea836c81e9ecac4d0985fe7ba",
-    "b0067eddaa69486d83f96f8ae617bc2bf78690dcd4ea77703980c9dbfb70b41b",
-    "60b7e8c60122024575eabf9c23b1e3beb6c61d2a129f3978442ba96a5f72c7f0",
-    "1e0eb32717e2eed95e6911c133d3c9e78e48da45d0ec7f73aec5be00e06c1ce7"
+    "b0067eddaa69486d83f96f8ae617bc2bf78690dcd4ea77703980c9dbfb70b41b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
