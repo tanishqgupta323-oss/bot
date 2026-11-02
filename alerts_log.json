@@ -12296,6 +12296,11 @@
     "EURUSD": 0.0224,
     "XAUUSD": -0.0409,
     "BTCUSD": -0.0812
+   },
+   "60": {
+    "EURUSD": 0.0783,
+    "XAUUSD": 0.3121,
+    "BTCUSD": -0.147
    }
   },
   "checks_base": "published"
@@ -12348,6 +12353,27 @@
     "EURUSD": 0.0559,
     "XAUUSD": -0.1047,
     "BTCUSD": -0.1978
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Firstpost",
+  "title": "Trump may attack Iran with nuclear weapons within days, Tucker Carlson warns",
+  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUmN6VjlKWUpFMVFXMjluNTdJOGh1QlIzcGxmR2NEQURBUEVtVjRMRF9kc0ZXR3IxZExxaFRnVXhPdXRRazhWLVRJcXJfdkZPN3UtZXZpVFNDakM3OVZsUnpvLTFQZ3VKQl9iek43MzVMYzRtUURUc3Y4UDVOT3NzZWpPVzE1Y0NyQS1KUlJvcHJRM1lOa0Zod3FidXVWdlRsNUNFUjgxYjFMNGl6cXFwaWtHLTkyRWp0RTlYbjBHdFA0T1B4ZW1vZU1acTZJeEMxU21xUFJfcFdzdU5EYzJ2ZmtBUlhrRFVKSkJfSFBfZWxLUGhk0gH6AUFVX3lxTE16eDQ5UHRIRXNiSHZ2Q0ZRaDZVQ2hpYTNxbll2cTNBXzdXSU1xNTU1TTktZEwxaWZpcFJHSlVVTEJwNHRtSFhaaWhDU3dyVzZ5NjQzYnJSczczRXBMRWk2SGlJcUF0dWJJN3ppOE15dzc4UzJHbTB1MGtGcmdvc1RJSktnWmZybXBXSXVpR0VlNWpoYVFhOHl3Z1pON1dsdnZ3MHJzd2RQa2o3UDFRTmgxc3hWT195RklWUll3VENnaU9aSjhGSkcxd25mekVhMjh5a0JsQUx3aVVacTdCdTl1Y0JGVU11ekNfTU1RQWUyM2taWkN4MHJ2Q1E?oc=5",
+  "published_at": "2026-11-02T05:17:02+00:00",
+  "sent_at": "2026-11-02T05:45:51.291355+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.1022,
+    "BTCUSD": 0.1098
    }
   },
   "checks_base": "published"

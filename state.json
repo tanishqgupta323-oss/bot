@@ -665,27 +665,10 @@
   "calendar_fetched_at": "2026-11-02T03:21:02.304873+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 245,
+    "count": 246,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-16T17:55:44.942881+00:00",
-      "w": [
-        "ahead",
-        "data",
-        "fed",
-        "fomc",
-        "hike",
-        "hot",
-        "inflation",
-        "market",
-        "october",
-        "odds",
-        "raises",
-        "review"
-      ]
-    },
     {
       "at": "2026-10-16T20:11:06.832761+00:00",
       "w": [
@@ -3587,6 +3570,22 @@
         "slide",
         "year"
       ]
+    },
+    {
+      "at": "2026-11-02T05:45:50.491900+00:00",
+      "t": "Trump may attack Iran with nuclear weapons within days, Tucker Carlson warns",
+      "w": [
+        "attack",
+        "carlson",
+        "days",
+        "iran",
+        "nuclear",
+        "trump",
+        "tucker",
+        "warns",
+        "weapons",
+        "within"
+      ]
     }
   ],
   "resolved_events": [
@@ -3614,6 +3613,7 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "a99b5ce254c3d50f5f630e7d693f2a28017aa42e0d6b83045935c13fa6db271f",
     "97069b7557b2364211ad8e0bb9b90c571cf02675e9d9b7fd2f1e800bfd0303e9",
     "9ba7b56f69257674fc3c2fdda68980063feff849d4bdab497673261cad9ee4ee",
     "40437bc877acbefe00a4e64a9d652a29c3491c81bbec1c5bdb8ad31b97789b1d",
@@ -4612,8 +4612,7 @@
     "2fd740e2cf0d1e52fe1fb11856af74986609b1854d66b653c5c8001c9eb8c314",
     "83ee492171a27d3e37aa836bfe61a3c73adbfb175f86c8da3cab7d78aaddd7ff",
     "429ca1beb6d7aac2d61329a2c3be552fabc4766eabad7804a2cab4255399341a",
-    "841b944272cfeef46959e499e341c751e698acca75634ba7e96db5a37723ce1c",
-    "4e115cb7336c02f81b05f4167fabb4776b5c98e6d6a70162d31ebb3005f5f8b3"
+    "841b944272cfeef46959e499e341c751e698acca75634ba7e96db5a37723ce1c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
