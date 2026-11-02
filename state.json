@@ -665,25 +665,10 @@
   "calendar_fetched_at": "2026-11-02T06:25:38.591448+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 8,
+    "count": 9,
     "day": "2026-11-02"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-16T23:58:28.094923+00:00",
-      "w": [
-        "conflict",
-        "escalates",
-        "hub",
-        "iran",
-        "missiles",
-        "oil",
-        "saudi",
-        "target",
-        "war",
-        "yemen"
-      ]
-    },
     {
       "at": "2026-10-17T01:55:37.409520+00:00",
       "w": [
@@ -3590,6 +3575,24 @@
         "now",
         "outflows"
       ]
+    },
+    {
+      "at": "2026-11-02T08:50:57.871067+00:00",
+      "t": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
+      "w": [
+        "billion",
+        "binance",
+        "holdings",
+        "less",
+        "live",
+        "outflows",
+        "records",
+        "starting",
+        "then",
+        "total",
+        "updates",
+        "withdrawals"
+      ]
     }
   ],
   "resolved_events": [
@@ -3617,6 +3620,18 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "f6b369780d1002d11c3d8ae454776093f39e92e137e036835451fa7ffdcc0b77",
+    "73f6b3edb2cd08c6efc6ceeff439b0cba510c61366870ca2504625683dd76101",
+    "d3548eba0f65bf82129517ee6a562939485a67a60479b9a92516d62893e4777a",
+    "3103f7e53aa5fc46aff18ee3fda67138d698f0b838a97cf0cecd46f60c24b622",
+    "b05242a354cab73287ee35e555e0c38e5df41be738a998a406a2d73ed41901bc",
+    "ab52e5d433fb45e9a982186797c4d4b08b4bdb31a960be75d122e1eaee8cbeaa",
+    "a865e8717ddfa51b1372454c30d5951f90fd0cb0a99a3c0c16be8b805de4420c",
+    "3d73cd23cee2f5c5730094d7c7dbb6e9e7ebcc98beae4bfa82fedac5f448fd62",
+    "f236fe97de2abb8a4ec464c25f9932726e9072a0b24e939f757779986c94f010",
+    "bda333c83b8af9869898c66d7244d6559c188c61bf0a5eb4ee5991f32ad19e74",
+    "4829a6b7170d3d3ccd61cdc4adb3103646d53d2f9d3380187ee90c29cd1e1163",
+    "9d2c81660176c2990d56b43c6a1e3c481cca85bf8f50f895ce10c25a6c7cf2d6",
     "4c3bea3345a47964d7a2463f04abbc137168e7969882821965af19c689696ac4",
     "b5a7b3192d7f30b1608dd7339e53deb55cf42f7a04ac12ffd303e71aaf9d7419",
     "84e88365a3257bb743b01333cc26c0d3cde5d494200673a297cb64303fab7d8a",
@@ -4604,19 +4619,7 @@
     "3c39ae9d3189ed55daaa4cc7b34b5a5942f2f082c285eb8f0c1b84342fb5ead3",
     "8cde5bd05e52f4f8ba61efee4c98ca64dea3fe3e5c7ea55fcc0096575e22d8ab",
     "b384c85a19d3750f7f7642653fcb938a2c4c88e5c4b94d5ca16e4c2e0be4bd3b",
-    "44e645f9843674d3fdd8eda995677f7e3c2fd2cb678e873cb060367e438711ba",
-    "e863e84bbd82b0b45aa4e91e14496a0d3089a04a599ffb18c1b3311364fcf20a",
-    "bc97194d9e6d1758683398cc9502795bcdf235c4d19f3844a97464dba30759b4",
-    "5b7377ee48aa899264673b2f5c3f80d72cc07d94a7243b5e2468cca1531af1c9",
-    "621a27b20807f698421355f00eb64d98fa9a452f0b46719edb03dd80cc485686",
-    "f819dba20d0fb0003ae49907a38929a99dd2099635625fbfec7446abb5bf284e",
-    "e5786d2ae30730962a8f86155620f0dca812ef607be9a22dfa9cefaf64874a7c",
-    "7e0c9148dbba11add1cedefcfe891902ae6de77fe1d3388ede91f058c588a4e1",
-    "943570deab787eb6ff3816c664083506f2a71ad9b28bf2cc527d97802ae7d88b",
-    "c0ee4e5b61137710d52f927feef543f538e29ff2cd5506cfd239ca974cd57e18",
-    "a5237f4dfea2378232c2e40dce6a3dfeaeb544e6cf3f7fd1736d295fe5b88eee",
-    "cf9af25745ef0b1682e82163e69b3b8b07336c9df5b91f61a95e55e613003fbc",
-    "a060fd4e7ebc36645afc49ee329c22711d11d6ee8c4c306366970422b49b3f5a"
+    "44e645f9843674d3fdd8eda995677f7e3c2fd2cb678e873cb060367e438711ba"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
