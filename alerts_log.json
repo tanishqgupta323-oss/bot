@@ -12382,5 +12382,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+  "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+  "published_at": "2026-11-02T06:46:41+00:00",
+  "sent_at": "2026-11-02T06:50:52.716780+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

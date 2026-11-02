@@ -665,23 +665,10 @@
   "calendar_fetched_at": "2026-11-02T06:25:38.591448+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 256,
+    "count": 257,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-16T20:11:06.832761+00:00",
-      "w": [
-        "against",
-        "bombs",
-        "considers",
-        "iran",
-        "mother",
-        "reports",
-        "trump",
-        "using"
-      ]
-    },
     {
       "at": "2026-10-16T23:58:28.094923+00:00",
       "w": [
@@ -3586,6 +3573,23 @@
         "weapons",
         "within"
       ]
+    },
+    {
+      "at": "2026-11-02T06:50:51.976838+00:00",
+      "t": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+      "w": [
+        "2026",
+        "643",
+        "barely",
+        "bitcoin",
+        "etfs",
+        "friday",
+        "green",
+        "lost",
+        "million",
+        "now",
+        "outflows"
+      ]
     }
   ],
   "resolved_events": [
@@ -3613,6 +3617,8 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "e19cfa30a5b55be9104a8fa215f86754184c3f36cd350fe834daafd03ba3cf3c",
+    "b1f32da35921d35a8e32ad6592814b541d25dbe28e68ccfedeb40e25247d4feb",
     "c193e9c8bdb68fb16872fce3f485da8c379dea0be583b3537639f44b562542c3",
     "e5ebb7022c768718fa72a14ab96e55fe998d49c7b576d7e17fa1cb7777891c6d",
     "a2d75929bd6a88876c127389896708bcea52d8e06adf8334e707d575a2dbf796",
@@ -4610,9 +4616,7 @@
     "4a636abd0c62d4c858581875e6c421ec9fd5b080e8b01f9af760d733c75386be",
     "60036cd74ce494daff9f06400c3222c471cce9f8aa7ad540f203646bb541117e",
     "0dcb431e46a152623a5a5620a40598d8ffcb292456d559a6d3c969698b3da33f",
-    "40a71133b05efa4d85c8197570711f7d8be8dd6b411915777ac751113a3414fd",
-    "20badd2c17f5a2f72d0a560b932b91eb934b1b4650aa55ca5654b0004de627f6",
-    "630d6b8c6f89965f006462ec4853185809f1c25c95e8ddd3c783514a722c0a2e"
+    "40a71133b05efa4d85c8197570711f7d8be8dd6b411915777ac751113a3414fd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
