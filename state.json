@@ -665,28 +665,10 @@
   "calendar_fetched_at": "2026-11-02T21:40:59.389641+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 155,
+    "count": 156,
     "day": "2026-11-02"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-17T09:05:36.715399+00:00",
-      "w": [
-        "around",
-        "attacks",
-        "highs",
-        "hormuz",
-        "iran",
-        "little",
-        "reach",
-        "record",
-        "response",
-        "ships",
-        "steps",
-        "strait",
-        "strikes"
-      ]
-    },
     {
       "at": "2026-10-17T13:50:50.956912+00:00",
       "w": [
@@ -3589,6 +3571,22 @@
         "reportedly",
         "verge"
       ]
+    },
+    {
+      "at": "2026-11-02T22:05:41.841312+00:00",
+      "t": "Up to six blasts reported near Iran’s Qeshm Island as Israeli TV cites US strike",
+      "w": [
+        "blasts",
+        "cites",
+        "iran",
+        "island",
+        "israeli",
+        "near",
+        "qeshm",
+        "reported",
+        "six",
+        "strike"
+      ]
     }
   ],
   "resolved_events": [
@@ -3616,6 +3614,22 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "fcae3b992b523af6bed9d60145a999cb81ce66ab091cadc5108c994cbf431358",
+    "8004ef3870644b244c9d414d8574f03a98554ec335e3cc1683f3e11b57900da7",
+    "4078334319ea882c2c4bcd2e8f3aa4faf64559da0b9b51700de0245b7306bd89",
+    "59a5b570e81a582f599badb83c9f2b9b269d81207030d8d707392e09b1860666",
+    "9308da514bdead16614f7619370168335f135d06e4aa1bf33220f0b9eddceab7",
+    "9207d0e14003967babed2ac1a77942cd92a585f6a0bc589225eef361b57762f3",
+    "294cec8a296ead6630e9248abc532971cb6d25924940e420fa5555341af9595b",
+    "4c2cbf84b4b0009801a4507a691fb4d0a21f1e6fac3c1c485692c4149f2bf49f",
+    "dac01818e3f7d8e719ee8eaa62170618ba946cc270a77e7645407e831f59f91b",
+    "2d504c39ed063f0a531299d65c2d23031c15a9883277688fd6d79f75de8e7e78",
+    "588fbba021dc8e7cd1aaf09593e95b40878510acf5d8f4065eaee597e53e6213",
+    "cb5b852de5c7432f38c8b7cbf34af8103d35265a8c8ed5b78f972ed5084d6e15",
+    "20a63456c32b42e9231d730291ba9ee073ff7d0207969f9135dd5c122e9bcda0",
+    "16ff4f76aa06cdbe53216e5eaa09230cb3447bbd2db31d2082f7416ab3404d86",
+    "686193155e182ad2c97e9e9b94eddffa0a6c2390f211d7ecf93d4c7d7531fd4b",
+    "fade75fdcae0d00d3d63a9491076374c9fc2be9ed70d5477d0ce52b2556bf979",
     "24cebac81465f03bba9641110c797dc95eb936805cef0f1800cabcd347d677e0",
     "bc84c2e88d4a4e84528b7de25c6a24c933411837b7a4af5ef9f857defc7cf832",
     "e7e4398132888055082263866cbe1e291cb22ebd5374bacf1474e9adb214845f",
@@ -4599,23 +4613,7 @@
     "f906fb672c93d6991eace5fc4f0f57de422cdf596bfe7154ef360f36633e570e",
     "ee07f3cce4d59be0860918942e752281d9a27ceea070417c1a72b22e77ee50e1",
     "8608f4cd74bd644def00faa84c2215628efa777f5db1836e60131bf3bf65d31d",
-    "8b6a5a05c3c5df27cf0204cdf81ea884ababc4366070332f74fed97cbcf2cf2c",
-    "5c0829153a7eb6b8139e885c45262bb72d308b99e70252b3c583fc51a0947d93",
-    "dd45cdcafa312512b9583f150fc7c5cf56e105c7adcb24397af6f0b178fd3d0e",
-    "06b566a6cd0dd815c2920e6e7b86ed2c424ca7675ee1c26ecfd615736c718cc0",
-    "175a16244c6c68e81fd65dd041bc822cdd1d955b6bc3d1ee0d0d48639fb4e452",
-    "7c8079610e964af89067932cdfa5ec3a0f115b51fc7d90791627b369b9037b81",
-    "31553c598254ab43df6b054818c45052dbdbadaab3ce3d7cb43930e8d879531d",
-    "29288885778f617fa1bf9bc08e0b3758e59836d760a8fcef7d31b5c7c42c7f63",
-    "828db37d7c3208a264f03f79a0c952d3703821c2f195b40e7df47485914a64c1",
-    "8e95ad35ce153ecb34a1f6a7439ffba6ae6b57eaae7e33cd3490437490a31bf1",
-    "a99b5ce254c3d50f5f630e7d693f2a28017aa42e0d6b83045935c13fa6db271f",
-    "97069b7557b2364211ad8e0bb9b90c571cf02675e9d9b7fd2f1e800bfd0303e9",
-    "9ba7b56f69257674fc3c2fdda68980063feff849d4bdab497673261cad9ee4ee",
-    "40437bc877acbefe00a4e64a9d652a29c3491c81bbec1c5bdb8ad31b97789b1d",
-    "cc5ed84eec5e6119a1c1d754352d6910cd971b1962254c1dad02f7f214d5e6d4",
-    "4137f668f8587c0fb1314b5b2215bba1938a60d8e564b3771402e37fb684862c",
-    "81c9c34dfe7a7ded3147ff389dce03913f198aad4bcea14b3c47b594e90dcd7f"
+    "8b6a5a05c3c5df27cf0204cdf81ea884ababc4366070332f74fed97cbcf2cf2c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

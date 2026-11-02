@@ -12538,5 +12538,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Up to six blasts reported near Iran’s Qeshm Island as Israeli TV cites US strike",
+  "link": "https://investinglive.com/commodities/up-to-six-blasts-reported-near-iran-s-qeshm-island-as-israeli-tv-cites-us-strike/",
+  "published_at": "2026-11-02T21:48:45+00:00",
+  "sent_at": "2026-11-02T22:06:44.538640+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0784,
+    "XAUUSD": -0.0354,
+    "BTCUSD": 0.0067
+   }
+  },
+  "checks_base": "published"
  }
 ]
