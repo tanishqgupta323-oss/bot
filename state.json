@@ -665,25 +665,10 @@
   "calendar_fetched_at": "2026-11-02T03:21:02.304873+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 237,
+    "count": 238,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-16T17:55:44.942881+00:00",
-      "w": [
-        "crisis",
-        "debt",
-        "euro",
-        "european",
-        "finance",
-        "minister",
-        "steep",
-        "swiss",
-        "trigger",
-        "warns"
-      ]
-    },
     {
       "at": "2026-10-16T17:55:44.942881+00:00",
       "w": [
@@ -3584,6 +3569,24 @@
         "supreme",
         "unrestricted"
       ]
+    },
+    {
+      "at": "2026-11-02T05:05:38.472583+00:00",
+      "t": "Gold’s slide to one-year low: margin calls amplified a fall driven by Fed hike bets",
+      "w": [
+        "amplified",
+        "bets",
+        "calls",
+        "driven",
+        "fall",
+        "fed",
+        "gold",
+        "hike",
+        "low",
+        "margin",
+        "slide",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3611,6 +3614,13 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "a876fffbecc9b40543ecbb5b8f3b7a2e07b5865c227af5118c0eda13e2531cf3",
+    "a4ffa5989bae3744edda941c14a4cf0949d90b0c0cf2999853fd18a787b6db4f",
+    "65797946cdfa236102ba3bc82229fcd22918f1939f01820fa9b94a7f9756966c",
+    "6013af7af19eeb0701ce380999ea6cce9194c042b5cf601b1cc4893dbe8dc37d",
+    "32dc6472c34364e6d9f24901d2a30534ebc8a15e26a9ba7c8b4e2652fe77c87a",
+    "a80d78451c6e340be11751c403c7defa306c35aab0c85950c887e62fca90a129",
+    "81eb170c96c154e89b425e3e67969aa1905be569e4d0867551e275bc1d9a6b03",
     "2070dd101fc9f2d3c0d2cf93facccd84daeafc9065fb7dff6e4789455d9c9cdb",
     "9e592ae98063d1580117f013820a6688df6267aef786e006e33662b9ef916cf9",
     "d013ededa6e5a9adc35ad700b1a44ffd770872b2d5c41d04e51bb2eef2190482",
@@ -4603,14 +4613,7 @@
     "8ffdd4232a50d394fed1d773b6eae406c6f7546f2737043940d40c17c103cf63",
     "f3f5371005864af939db5edce9520b7b6727573fe77a55959c0c16b2d54ee5ef",
     "e628251116f19e60b1484b89dd117dfe0bd9dcad820f4d0a60619ea0102f3052",
-    "729c2c942ba6c383992e9d12bf3dceb4c6d0aac9e94414d574c3f984fdc9db2b",
-    "94fc1fd001e45bbeee91e0d92864ab63933f76b7399222234361476eb73627f3",
-    "c4fef844c28a5c0e1be0644bfb39c8d781eafaee5a2cf25dcb09e2a82f9a4a28",
-    "550344150e3cf0db835d01fe476b2a3b89603945b409a35eb61cb16a7fa4d53f",
-    "deffc52baa724b584b4fe4c4bd24360f4449b4d203ae355f2dd385033b30fe38",
-    "675b84d53862cb5daf7413b2d0f22814b02ae1b6109e2df47626edc883eccbb6",
-    "fdbdb70236309b4132612b82e0becf395c95832e747f2195bb165f5bfbc184e0",
-    "7ba830331c50aa1f9071888421d4a99724b9b3cea836c81e9ecac4d0985fe7ba"
+    "729c2c942ba6c383992e9d12bf3dceb4c6d0aac9e94414d574c3f984fdc9db2b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

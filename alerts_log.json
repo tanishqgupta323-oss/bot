@@ -12320,5 +12320,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Gold’s slide to one-year low: margin calls amplified a fall driven by Fed hike bets",
+  "link": "https://investinglive.com/commodities/gold-s-slide-to-one-year-low-margin-calls-amplified-a-fall-driven-by-fed-hike-bets/",
+  "published_at": "2026-11-02T04:08:05+00:00",
+  "sent_at": "2026-11-02T05:05:39.693545+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.0204,
+    "BTCUSD": 0.1084
+   }
+  },
+  "checks_base": "published"
  }
 ]
