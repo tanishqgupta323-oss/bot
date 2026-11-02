@@ -665,27 +665,10 @@
   "calendar_fetched_at": "2026-11-02T12:35:37.685206+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 57,
+    "count": 58,
     "day": "2026-11-02"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-17T01:55:37.409520+00:00",
-      "w": [
-        "attack",
-        "complete",
-        "deal",
-        "demolition",
-        "hour",
-        "iran",
-        "isn",
-        "outlines",
-        "plan",
-        "reached",
-        "trump",
-        "tuesday"
-      ]
-    },
     {
       "at": "2026-10-17T02:15:44.137068+00:00",
       "w": [
@@ -3593,6 +3576,22 @@
         "updates",
         "withdrawals"
       ]
+    },
+    {
+      "at": "2026-11-02T13:31:18.240387+00:00",
+      "t": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases",
+      "w": [
+        "air",
+        "aircraft",
+        "bases",
+        "buildings",
+        "defenses",
+        "hit",
+        "iran",
+        "mideast",
+        "targeted",
+        "then"
+      ]
     }
   ],
   "resolved_events": [
@@ -3620,6 +3619,15 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "d79116e3a2f5198b238367c10723670015f0dc1c37bda177fed0971fa278b2c9",
+    "c8353b28a8d21733affd18ea10ba112ebd60ba8bb6e59eca208d56a6942e4617",
+    "4fafb581fc187d041634f6836e91d59f5c62bbe8439b1420adc3ffbe14b27b1c",
+    "9418517fbf47a72b8e6c6a3a8aa264bf151d675124fa8cab28a757b8f071d10b",
+    "f9cac048973b44098088e06fead1d6bbae9e28326ddfa015e8716114b9ff2327",
+    "387f1b6b6bb18fb393b01952fe4c322c03154078149d00684d50d2f637c44d89",
+    "b8832a12f2baf82e5d15be3db0505a8f1e681166b16e27114518f347ba31c0b5",
+    "dfe10bd4fba062f19b9c8d0867ba9ae9cfb0a9b77d493ccfca7f353e83dbbd87",
+    "a2c131502eb247569e152a9147092c4a67119442fd2036b65098edcd59858b01",
     "e96042fd42517becc997b7e09f37c794bab0aff0556a7b7b8863b6ae7550a806",
     "873559147cd669b2bfc2ea5dc8fdc0d5114967f42ce1cd2b65c2ae529b990886",
     "949ce118b6c47a446d77e07e9f6bcf380d77134a13b66ff4ac07dd8a859c8c20",
@@ -4610,16 +4618,7 @@
     "e137756025a2be698675e317d97cff79a75679703e5529832070738b232274a0",
     "dab9728c0b867f696a2a53b7fa480c6b22fd8461f1fa6e11f42e1e7f5b60ebcb",
     "cd1d598422ddc3b4cb1744ff17b282d6cf308d3c71800bac574680f9f64eca68",
-    "9514395b68cc598361b5bbbc0f6a01f399ddec2723ac4e311de2ee538ba5a8d9",
-    "74df5a460765f713b189b0c583197bab9491188080d6dccd5c6b6685b5ecb120",
-    "fb9548d2f8f6b78ed2cb22a4e7c03b271d54c0ab8466a03790e9bb6dcda74e49",
-    "633a842dcb816e2bf9606c58f9afdc05ccd6fdb693452e011d6da99735c7c6d6",
-    "bcb455f7dbed0f1d92fc82bf3d7acb6bcea27df8ed348a87082042a6821dd285",
-    "aa38da1dd03ad4b14944056c134d335836ebb474b57126c4d782c5b20cc8b7eb",
-    "236bd5e6fb409eea9dc87b6c8951b2678df323dc83bf82ab68e05025ef337230",
-    "a53ee03b8aa6cc3a448dd8af6a6b2f9f9ac330b38a5b1599365781261c9fc684",
-    "c14640413af132deacda386a424971084b4a9252907360e9cf437a71abc9b078",
-    "c5387021a2aec4c94cca53c558128235344bbe2da05ddb24940e41607dcfd6b5"
+    "9514395b68cc598361b5bbbc0f6a01f399ddec2723ac4e311de2ee538ba5a8d9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

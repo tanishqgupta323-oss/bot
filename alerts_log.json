@@ -12434,5 +12434,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Alabama Daily News",
+  "title": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFE4NTNJQlpLTzhJNkZVcHVNNENUR2hRQjNnVWtnUXQ1VlZGLWN0UWNWdEI5TlVaSTc2SkFyVjh4eDVjazdyOVUtU1d1UmwxVVdqTHdETzhROW1kRWtQbW1qUFBGTXBFLV9uUm5pSVAzX1FIb3FmX3VMV1BFR19ZNEhIRlBFZ2lySnEyb0Q2emliUkk2S0NzZEp5eUVtVEUwdy1GNkFR?oc=5",
+  "published_at": "2026-11-02T13:25:21+00:00",
+  "sent_at": "2026-11-02T13:31:19.325871+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
