@@ -12247,5 +12247,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Tucker Carlson claims Trump weighing nuclear strike on Iran’s Pickaxe Mountain",
+  "link": "https://investinglive.com/commodities/tucker-carlson-claims-trump-weighing-nuclear-strike-on-iran-s-pickaxe-mountain/",
+  "published_at": "2026-11-02T03:23:58+00:00",
+  "sent_at": "2026-11-02T04:05:40.339642+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0223,
+    "XAUUSD": 0.1279,
+    "BTCUSD": 0.1833
+   }
+  },
+  "checks_base": "published"
  }
 ]
