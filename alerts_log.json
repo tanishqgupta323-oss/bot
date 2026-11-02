@@ -12174,5 +12174,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "BTCPay Server tells operators to shut down after reports of hot wallets being drained",
+  "link": "https://investinglive.com/cryptocurrency/btcpay-server-tells-operators-to-shut-down-after-reports-of-hot-wallets-being-drained/",
+  "published_at": "2026-11-01T23:30:01+00:00",
+  "sent_at": "2026-11-02T00:05:38.975087+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": 0.0461,
+    "BTCUSD": 0.2359
+   }
+  },
+  "checks_base": "published"
  }
 ]
