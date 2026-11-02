@@ -665,22 +665,10 @@
   "calendar_fetched_at": "2026-11-02T03:21:02.304873+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 218,
+    "count": 219,
     "day": "2026-11-01"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-16T13:05:47.202727+00:00",
-      "w": [
-        "bombs",
-        "cnn",
-        "include",
-        "iran",
-        "mother",
-        "plans",
-        "report"
-      ]
-    },
     {
       "at": "2026-10-16T13:46:03.154382+00:00",
       "w": [
@@ -3582,6 +3570,18 @@
         "tanker",
         "three"
       ]
+    },
+    {
+      "at": "2026-11-02T03:25:39.317948+00:00",
+      "t": "Trump says ‘at some point’ US will have to give Iran ‘the hammer’",
+      "w": [
+        "give",
+        "hammer",
+        "iran",
+        "point",
+        "some",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3609,6 +3609,10 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "81d0b92394395b3d0b3e16c6cbbcaeb1bbcc8e7e0baf9f244862c83d6fb3de9a",
+    "e28106ad62909c08dd9fc0b3c44bc9c1c71f8675a01a33a535f5641945764a71",
+    "f5a8af5b5d64f93f8a3517d193483470023bcc29d8f9f71a6ee08c07c6f44513",
+    "94e29ebb86aec1191f2f4958473c05ac6eb6df125b5ef6c32cf32b5ded2c592d",
     "b312880194b2b79c01ef2c7dbf7fd248bf95be67563883f9077fb0298ed72a90",
     "f14ff889eb0013bb0b5954c05188d7f1a27fcc12153f864a13aaabf3214f5ac4",
     "a86638dd31ccc55814528da4ef0d6f86e8575501017f27a65489ab810c3d4837",
@@ -4604,11 +4608,7 @@
     "ad4777b0e5d5f9157d655f8f7ccecf7ae418932636c4fd9a3b0ac5255ea4cd4a",
     "2efaa0155c1613237858d134e88b36d77ee2bbf9051019752fdb1e8567976926",
     "6b1ae39a9d9decbaf5a217208c3d860f8b91de44b2d55f26f161f22f00ca813e",
-    "e2a8d99ca3afa23cc6d6a62aa98ca77bc4f573cef547fee1df247b24af915972",
-    "34051c43bc104e6bf42ced5679d78b56720cb26a617e30e2d8527911a76ae264",
-    "71f6682eba152213950f59a8bda3488fd1c57ba4d94df95a615e704ed00f11c9",
-    "3a3361a78a1ba4ea824d7af3b2444e0310bc61c30d62919d93937fcaf0dcc5b7",
-    "f2fc42da5151a4c6aabe826d6292625495760a592d9c8dc4b320886e8ec0601d"
+    "e2a8d99ca3afa23cc6d6a62aa98ca77bc4f573cef547fee1df247b24af915972"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

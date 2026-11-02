@@ -12226,5 +12226,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Arab News",
+  "title": "Trump says ‘at some point’ US will have to give Iran ‘the hammer’",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmp6WkNpd0Ftc3c0MENnTXZfODlNOEJhUzRkS1F3cG04aURQeUVKRzlKSDl6VVNpWWlFRDZnc2NxeXVJSjRrbzB6eXVwVHYzcHRyMzhKdzFONjZ0NVpYRTdwYTc4WmRiUHBpSkE4ZUt2WlBQZGM4VVlqLXJQR2tTMjVGTWthbjEwRnlVam9XSWV4eVRPRU1fM1R6M0hyUFVaREU2d0xNcktOZw?oc=5",
+  "published_at": "2026-11-02T03:19:23+00:00",
+  "sent_at": "2026-11-02T03:25:40.295109+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
