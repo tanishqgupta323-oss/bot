@@ -125,11 +125,11 @@
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "d40b685b129e3aac58b7b05b",
+      "event_id": "ebce4c93a3a5783f1687d1f5",
       "forecast": "-",
       "impact": "LOW",
       "previous": "-",
-      "scheduled_at": "2026-11-02T19:03:00+00:00",
+      "scheduled_at": "2026-11-02T19:00:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "Loan Officer Survey"
     },
@@ -662,10 +662,10 @@
       "title": "Consumer Credit m/m"
     }
   ],
-  "calendar_fetched_at": "2026-11-02T18:40:51.737125+00:00",
+  "calendar_fetched_at": "2026-11-02T21:40:59.389641+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 151,
+    "count": 152,
     "day": "2026-11-02"
   },
   "recent_stories": [
@@ -3616,6 +3616,10 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "0ba8ea361c98eb5a6ce90cb366fb20e81d54089ab037d96be060a4c759fe3552",
+    "daee6a0c6908aa2a367e8943e0e01667fa9351934ff666ae7b27c5136ce27db8",
+    "b2cb718e14ac293df10a6542a586df87ba636ad124a2554cdfa68f26281854ff",
+    "67681e7d4e8a69313c43091c33c8969b081a7993cbe1c9bd88929817e086ef78",
     "d2f0ed060182ba057f7b02ebf21f6b3f43486fec7d91db56c78421bd0e53db44",
     "165b8b3963b39812b831d69cc156a926e884b51f2b304871aa6be63c6b68d763",
     "9903304fa67329b7c37d7c51e435966f5659e636f902743e14d0620993214429",
@@ -4611,11 +4615,7 @@
     "1b860f866789fffbd7e98c70a86adfef99c8f679f787c845f3f443f613650693",
     "fbda14674c5eac333a2119418c30bf101e705304bebdbd649f4556c4661a8067",
     "75c6db512ac3d4bea3ab07cac690c14b5742cd59b11b801dc7941845c1d06c8e",
-    "e4b588f6d08d3831b2b9d4b351074639513604a53c3e93786b358cb40fe87db4",
-    "422cc780efa920654453f3e5b56fc3866167820de6c931edf8596e39ac6e1b35",
-    "55103e002dcb4e43eb57ac22e31137d681fc1636c1b983c8aec2757bcb92188f",
-    "30ce31d452aecc12b2ed8e9250c78c1eb8607ebeccddbb86cbdde4e346966b68",
-    "ce1d56df488a47b57bd7dfb132a464c02a21a46fcdfa4543eb4143b10680578b"
+    "e4b588f6d08d3831b2b9d4b351074639513604a53c3e93786b358cb40fe87db4"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
