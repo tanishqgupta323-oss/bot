@@ -12460,5 +12460,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Advancing American Freedom",
+  "title": "Fed Holds Rates Steady",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxcS1ub0RBNFJhbHNhREUzcVhRSkRJb2xCQWdTY2c4QXkyMGprR21SeW9LYXlLZGlHZ3NyT1BBY0Q1SEhncS1JQ09LZDIwWEc3dk1xT0hBdVpGV3NjVklXTVN6dkJTQXhKUXdMNXhrSDdkcFU?oc=5",
+  "published_at": "2026-11-02T15:11:43+00:00",
+  "sent_at": "2026-11-02T15:20:59.504711+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]

@@ -665,24 +665,10 @@
   "calendar_fetched_at": "2026-11-02T12:35:37.685206+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 78,
+    "count": 79,
     "day": "2026-11-02"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-17T02:15:44.137068+00:00",
-      "w": [
-        "fed",
-        "high",
-        "hits",
-        "holds",
-        "inflation",
-        "interest",
-        "rates",
-        "steady",
-        "year"
-      ]
-    },
     {
       "at": "2026-10-17T04:25:34.472802+00:00",
       "w": [
@@ -3592,6 +3578,16 @@
         "targeted",
         "then"
       ]
+    },
+    {
+      "at": "2026-11-02T15:20:58.419808+00:00",
+      "t": "Fed Holds Rates Steady",
+      "w": [
+        "fed",
+        "holds",
+        "rates",
+        "steady"
+      ]
     }
   ],
   "resolved_events": [
@@ -3619,6 +3615,13 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "c36de44487a890dbf3476f4654f21779aafc386ee96390c9f8c8863fc82b0c61",
+    "0c57fa3e4b277539e0f7b6402041f992d46930670f2eadb778d41473fd33bd29",
+    "7a87153f2989ed5e743d73e16a15e07b5d123b42c636407a891f73580adb7c1f",
+    "ff1dcc4d0137666fdb78d6bea52188cf695c2fad8554396a5a2dc275ec4f938d",
+    "a98490bc97e6914f873aedb0c30189aae75fc94f76bcadb961ecca06b911d85b",
+    "61a9ec8ca1c44ef6feac370b447b7a0380f55e7fded6ee1dac764d7274c151ae",
+    "222286761640ef36f95d5f009e45b452f833189a198847bbb2389522c9f9f2a3",
     "4352bdcddcad5cf08ccb6bc48c8d7625bb71a7ae15f61eedad3f5c7ac5f6d8b4",
     "b8a8240234826f77cab8dc24fad9dd2e709330020566e9455fa0d03fa7a318bb",
     "646b9534ca16ed42c0c38806e7f61b1246d39388009b6f51163a6099555b6332",
@@ -4611,14 +4614,7 @@
     "2eefde0f84cfbcacd2c23eb4b713d6a191ac1819d7b8d53bb17dfae971a99811",
     "769c80b37a9887382ea0547ef6d372ba8f02d81804abd6114be81844af288946",
     "8b5c43e3048f71f1b1d81207339576f1d33d606718ee280b7eacac7d8be40ea3",
-    "6a0e9fd4a7f7de9bed4a43fed62f05f944fce951f25fa49c5c8242d90c3b47f1",
-    "c1850ae555339ff04e9b85d4e995070570a283e900529aadaea218b5a136159d",
-    "b3a4297ba7fad8a105787fb436560b9e634eecbcabf56bf629b9bd6720e673d2",
-    "96ec6bd4f2f8e07c5d22ea8fab8423226dd2f4abc55b1a5af69afb73e69ba935",
-    "7fb7ec3063e2bde7db7f9202b269893fe17924672122a3a36f275c05c69388e1",
-    "59d234075961d2c4994a05765448db44e2911228b76061d0b6cc2cb676d3c2c9",
-    "db58e6908ea31529371ff074e93632f5bca5e9b9e7655f835c2b230b07f6032f",
-    "948afe80c6a3cc7b1f8292827bd48091e1801d419c0b2bd92a31740238076ee8"
+    "6a0e9fd4a7f7de9bed4a43fed62f05f944fce951f25fa49c5c8242d90c3b47f1"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
