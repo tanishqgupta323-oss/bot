@@ -12486,5 +12486,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "New York Post",
+  "title": "US and Iran resume 'very intensive' peace talks on ending war — as Trump threatens new strikes",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVBkZVlzOTZ5ZXhyMGlkVEt0WW53UWpLU0R1OHVVUlBFcldtakduUTJtY01hSk5PckpuTlJIZnVZbUVwV2plaVBCSEQ5TE91eUFHd2NxckFBUmRVZ3ExRlVOeW94SkU3TTl0OFFISDJQVmNfOWZjeG1ocVpweS05dDN3N3V5TEJOemN6My1pTE84bDFzNXoyTEN4MU0yUmtJRXNlVUJrVDcyZE1mN0F0Z2labjZ6bTk3d2M0eHBSdlA4MmpoaHpwbmhVRVM?oc=5",
+  "published_at": "2026-11-02T17:15:00+00:00",
+  "sent_at": "2026-11-02T18:05:51.575480+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": -0.176,
+    "BTCUSD": -0.43
+   }
+  },
+  "checks_base": "published"
  }
 ]
