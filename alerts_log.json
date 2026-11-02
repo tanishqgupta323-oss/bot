@@ -12512,5 +12512,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Iran and US reportedly on verge of preliminary agreement",
+  "link": "https://investinglive.com/news/iran-and-us-reportedly-on-verge-of-preliminary-agreement/",
+  "published_at": "2026-11-02T18:25:24+00:00",
+  "sent_at": "2026-11-02T19:05:47.624154+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0112,
+    "XAUUSD": -0.141,
+    "BTCUSD": -0.0988
+   }
+  },
+  "checks_base": "published"
  }
 ]

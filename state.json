@@ -665,22 +665,10 @@
   "calendar_fetched_at": "2026-11-02T18:40:51.737125+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 122,
+    "count": 123,
     "day": "2026-11-02"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-17T05:31:08.930096+00:00",
-      "w": [
-        "critical",
-        "global",
-        "iran",
-        "routes",
-        "trade",
-        "upended",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-17T09:05:36.715399+00:00",
       "w": [
@@ -3590,6 +3578,17 @@
         "very",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-02T19:05:46.441359+00:00",
+      "t": "Iran and US reportedly on verge of preliminary agreement",
+      "w": [
+        "agreement",
+        "iran",
+        "preliminary",
+        "reportedly",
+        "verge"
+      ]
     }
   ],
   "resolved_events": [
@@ -3617,6 +3616,18 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "3b0b6b805da4a42404d203f83ba06e7caa923479c18aaf3c9d18e2389c78cf88",
+    "331b040a350e70af2a5f98fbb8409424a60394d902af0e22e4ad4437a991eb7d",
+    "4b55bd42fed43a8d363c73f8932fe11a5981731249d39f55ace6a036a1e1e2cf",
+    "3e9ca144ce7015778dde270d336a7513adaa1cce400fe4708bb51ebb2c817dc2",
+    "e4d446ccc506a802500c40629cc278acf1061d0d5f0b258d3593f1cdeab5d8a0",
+    "430a9d4d2739f691e5b47cbe1a49fe31beccf608476ed96f40c211ea7998ea2e",
+    "f9a22fcbded64bd34f96eb05fe025ba1d40189fc90dbc4a8b5c708054eaaaee1",
+    "f82566c4a8fe8c1846e33fff6d60312f94a9c2b882c614fcfea9d3096ae4a911",
+    "3d13005f35d62a9b7bd43e230a865a726bd3ccf92f89635a5b4ba48f29a53840",
+    "736c8fb279c82bb40c37e31da604c3feb1e7afd219da91059ae11a6729dc73e1",
+    "b64dc0267ac2688a006a5e19b377868e24e5a4f8a5fd02d193265a8eb4fa0997",
+    "f249d68c35c806ae4ab680e018fbefcebf33fca385d855a1d0c6d3b8c6c2ef7c",
     "de20c8ca75aa5961b6d3cb0ed30314c7fd017282f6da7526a08d4790872413f9",
     "c4623b4bd8c1d4ce39bea845bc0805c7d00be7d261eefb1d4fe8e81a3858e2cc",
     "c7bf59633d7d84e33ce1499ebcf7bf05bd02f45ce9bf3766aa739f70489e2929",
@@ -4604,19 +4615,7 @@
     "ebeeabf7ab5a70f03e645339011ad268988febec19a733e385c1ec185bda6ffb",
     "486ac956cf218bc9d055b7f43462f030bf381fc874c53691f24edd320dc87567",
     "80153f212cc10a5da13c1a6bfcd118be8be1560af609c10cac0ce2fc51386099",
-    "a8a0a3b868ba4846d55fedf6aa9a244b5c13d6a2dd324455f85935ddecc197c6",
-    "e0c99c1028309cbb29c9b8d1068b538291d0bc04c43f2464556db4db44feea25",
-    "c4785d13fd19c304f83dc5b9e35d6f8a3e28dba009afdc86c8a682e6ba0a6ded",
-    "2636c0566fce8f7813946c7b3730bd16a65b50f3815b7c1f62ec9be05df3bcc5",
-    "eed3863085b8f60c0a7651bf0f347ad10dd78323ef247ae1a184c7f972698b6e",
-    "7a60139818cbba888a84da5a950a8af086c5ed6cf67cb814e535ee14e585488b",
-    "63ea7883672b2e3cad9d4493e6a44756b84a2cd261c925d13738a0fd7d9ddb7f",
-    "157d867c00408b0203e3429141d5afc350da7a6489c2a2857bb95f5ac8bb2c4c",
-    "87eb580bbd4ee7dcbdb1e00acf1b05390f8ad375c4f0fd2437567e13e93fa810",
-    "28be7f0719772f82e385f7f06fb39ca78f1dc5e7c62a06c212d3efda89370e7a",
-    "1a84207cccc47c6783e85865a8e21ba50975bcf094c23685fea796b398fcb352",
-    "e12d1c44884215cb3a84a9a56aaabb7c52033c4cf1624ce5c982115b0f14aa66",
-    "779d44e085ca4e27d5bc5af6d6d931edbcf93b6270546a1080ca59998a23e7ef"
+    "a8a0a3b868ba4846d55fedf6aa9a244b5c13d6a2dd324455f85935ddecc197c6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
