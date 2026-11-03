@@ -667,24 +667,10 @@
   "calendar_fetched_at": "2026-11-03T19:05:48.364908+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 125,
+    "count": 126,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-19T01:20:51.409344+00:00",
-      "t": "Gold rises as Warsh remarks curb Fed hike bets",
-      "w": [
-        "bets",
-        "curb",
-        "fed",
-        "gold",
-        "hike",
-        "remarks",
-        "rises",
-        "warsh"
-      ]
-    },
     {
       "at": "2026-10-19T03:40:48.078348+00:00",
       "t": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
@@ -3596,6 +3582,21 @@
         "warns",
         "weapons"
       ]
+    },
+    {
+      "at": "2026-11-03T19:21:05.265878+00:00",
+      "t": "U.S. launches new attacks on Iranian targets days after Netanyahu pressed Trump for more strikes",
+      "w": [
+        "attacks",
+        "days",
+        "iranian",
+        "launches",
+        "netanyahu",
+        "pressed",
+        "strikes",
+        "targets",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3623,6 +3624,11 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "fcb6d0799b1fff6e7fc85f2b01e708821d1776e88d1d9593da3cf8456cc5c0be",
+    "a7c63f8961ba21e64bcd89cf1931809dda3b48fffde460b707267788bc7972c0",
+    "c0d2a6821702eaead7b4d731cf3b24d6a1855e5c532c20b0564e286f0f148f81",
+    "69af6f4217841dcd7fd6fd14b36acc89f1cfceb6832acdba113054c18cfacdbf",
+    "8106301c8c16d088044a509bf727d617996ac7f5bd434d85bdc3097905a5aaf8",
     "cecd00b5799f3cc9729f13296bc629e42f29de135c2c8d94531b993f2b181dd6",
     "e9a84071ccdf5a88655cfacf09887ae62b25a5914fb6a79e8f16fb4011813fa8",
     "69bcea2fb893e279fbd9d0e791b53413d1c85d21cd72cbee9a4bb90976dfbbfd",
@@ -4617,12 +4623,7 @@
     "157ec7aea952f4609f2f2b3f7a303bbabbd918b429120963142e915d2fd815bb",
     "f8e7af86ce3843ca2c041f1c0c830e5f2865ed97782fe05628508d9a0aec7b43",
     "7b8dfcd846249041caa2bf6a04035c62b37ac5a4d73c0545f6ea0546b0bd7f82",
-    "638480fa39a189f21c18ae5452e3ba5341a465ab1d8432c77d6412c30767d9b4",
-    "b94cea6c7f1110ce98a3346f03f5123f6d8a2e758aa0b202d22ec5edf7c379fb",
-    "a30798cfd656925d8a540f5bee51018c3cd1ed4afc772e1303cce6f5fd01d7d2",
-    "0e3dc100d04333706984773e4d82a7e2aaa8784a84210c4873416fc36c2e771b",
-    "2f2577c01664d0b620ae123ff078aecc552fad766e442fd4ca5c7f4f4eb76df2",
-    "cde3d55086a53492e164a6d48be1bacf6f1f7a219ee8fb0a8d6f12e1470b418b"
+    "638480fa39a189f21c18ae5452e3ba5341a465ab1d8432c77d6412c30767d9b4"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

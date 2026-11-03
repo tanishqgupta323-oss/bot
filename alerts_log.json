@@ -12996,5 +12996,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "PBS",
+  "title": "U.S. launches new attacks on Iranian targets days after Netanyahu pressed Trump for more strikes",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTRLaEl5M0lIVGl0V3RQNExrMk1vQW5iOTRxUi1NdFRpbDkwSm1icXpsZXBQbXFpdjM4SjFWd0I0VEFIT2RDUm5mQWtzbmlaSTlFYXFpbUlHTktINVB4WDVuNmdRWGtmYUlOQW92OGhJc2NweWoyZ3RJbU9VT0ZlN3FvaHdLaU5rSDJHMXBEZi1tNHJXUjJXRF9weFJIRUlPOW5aaTM5eEFFRjkxa2QtQ3RtSkVWdGx5SU9JU2JVQ2JYT3BqSjMtVGZ30gHPAUFVX3lxTFBLelpzanoyMy01cGRURlBiNloyMmVGdF92enpCTDZBMzJQNXNObzI1bGVXa2Y3THBYbS1aRnU1RXJlV213MUo0bm9DWTVIcDUwZzdpX0llOUNnOWwtN0d2STlIZnU2ZWxVUElUMDVJcVBqM2RneFFNTU9DQ2NaVHNXUjRKQW1GR0o1OURmQk1FVEtsbDN5ZUQybTktcl9vQjQtbGFDUkxpS0dkWGxGMXFFX21tZkFObFV5dlVnYWtRV2ZCemNXSkxGQnVJSnF3bw?oc=5",
+  "published_at": "2026-11-03T15:07:24+00:00",
+  "sent_at": "2026-11-03T19:21:06.630971+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.1342,
+    "XAUUSD": -0.2255,
+    "BTCUSD": 0.0299
+   },
+   "60": {
+    "EURUSD": 0.0336,
+    "XAUUSD": -0.0481,
+    "BTCUSD": 0.4148
+   }
+  },
+  "checks_base": "published"
  }
 ]
