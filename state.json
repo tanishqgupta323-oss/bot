@@ -149,6 +149,17 @@
     {
       "actual": "-",
       "currency": "USD",
+      "event_id": "635178af21e59a59a33dd663",
+      "forecast": "46.2",
+      "impact": "LOW",
+      "previous": "46.8",
+      "scheduled_at": "2026-11-03T09:00:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "RCM/TIPP Economic Optimism"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
       "event_id": "81df892a9f06dc4c24e38d0b",
       "forecast": "7.15M",
       "impact": "MEDIUM",
@@ -167,17 +178,6 @@
       "scheduled_at": "2026-11-03T15:00:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "Factory Orders m/m"
-    },
-    {
-      "actual": "-",
-      "currency": "USD",
-      "event_id": "1de88d1f3d6e0a44fb6ace58",
-      "forecast": "46.2",
-      "impact": "LOW",
-      "previous": "46.8",
-      "scheduled_at": "2026-11-03T15:10:00+00:00",
-      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
-      "title": "RCM/TIPP Economic Optimism"
     },
     {
       "actual": "-",
@@ -359,7 +359,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "6a8efeb4e37d6d76880522bc",
-      "forecast": "-",
+      "forecast": "-0.1M",
       "impact": "LOW",
       "previous": "-1.9M",
       "scheduled_at": "2026-11-04T15:30:00+00:00",
@@ -664,10 +664,10 @@
       "title": "Consumer Credit m/m"
     }
   ],
-  "calendar_fetched_at": "2026-11-03T13:01:36.344136+00:00",
+  "calendar_fetched_at": "2026-11-03T16:05:44.163221+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 91,
+    "count": 92,
     "day": "2026-11-03"
   },
   "recent_stories": [
@@ -3633,6 +3633,9 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "315f1dd635ac5954d15ad107ee91d332b67e62c8879539c95968f5fe6e6d0030",
+    "c56cb24f3ca1b6f00a4291ff7cb9ade6f4d12af7c8bbf0bd12e55e5d49b37fe7",
+    "b258152409e0653ec92b626ca4efc8daa1ed17a9ebdcb5039e891cdb71d828e3",
     "eb9f1a2290cc49fe31b101ff261e5476ecdf37c7b162ed2b4b464e3391245c31",
     "9414f7148962b3f4b67bcc662581ab53127c26836f95cc06625129b922f950a8",
     "eda1c6c4c5da8ca0e4a6bad42db6bde997bca6cb5287b966da8b176986e2eac9",
@@ -4629,10 +4632,7 @@
     "35e96eb946964421662310171c28aee0e4d76426bb13b1613e2b519ff779da8d",
     "f37ce25d3781527a6f97bdba79adec1f59791f55d35468c25f021d5a60deaf6c",
     "6d1a6a88037c6e93ab86338ae94ad974d30f36d5148b23cf034c0adaa3a20af6",
-    "cbcf3289ca13f90f140098f8cece799a74910f38741984086fdb8f7e471fb63f",
-    "7e7fd8cd488b3a86c2d3f8b34463ba297d56f0fdef2e7e2f3ace49c57453ccbe",
-    "133736f69ac3c81770ebb60e4e590eb611f01638d1e53b42de0219405c8179a1",
-    "f9cf0c117bc40a475d2334c620b8763ce307ff4098915a08214f377af54fafa8"
+    "cbcf3289ca13f90f140098f8cece799a74910f38741984086fdb8f7e471fb63f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
