@@ -12564,5 +12564,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "ABC7 Bay Area",
+  "title": "US-Iran war news: Israel's Benjamin Netanyahu wants Donald Trump administration to carry out new Iran strikes, officials tell AP",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU05CUmRBV005Ym5YT2FoT1BfeEZibXVsMXBNSnRpUEQyUExxSWtjQVVLeldMUWZEd2I1RjdhS3FSVG0xeDg5alNaRmJWbm8xLVZmMTRZa0NEUkxxdW1FczVhZFZQa3czQ29UN3o0S1VFVlVoNnFlbWxPZzlOX1ZlZk1BTFVHaFhyYzVrTnBxOWsxU3BIQmtlZWhsM0tqZVlsdWJjYXpnNmxlYTl2eVU4TnZfV1VkMnJoTGViVXQ4Z3oxZm1GMm15TzhOWE5RMFVENWhhMzl3S1JzQXV5aV9xSGEySdIB6AFBVV95cUxPNGpRX0RXUm04THhaWjd5a2hFOVg1eFdFZjF3Vnp0TU5FZFU3SGNvd2o5SWZmOTRzNkRrSzRId0cwNmVPZHdEdjU2TVlDVmVfQVdoZFdrai02Qk5JTDJtbUw3VGJTbmlEVzNrMktscmViTk9XalVxZnBNLWtZdENyUGI1NmdOdlp0Nmt6R2NnT2ZFMS0zNmIyemFvZjJZNUhoMnZLUTM3QkJja29OU1Z0QVo3OUdaMm9KX21yelVZdV94NHA5cmJoRzc3eUdJbG9pTS1JdE5jOERDM2VDLVdCbmlTMndzX013?oc=5",
+  "published_at": "2026-11-03T00:11:42+00:00",
+  "sent_at": "2026-11-03T00:35:41.604537+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0224,
+    "XAUUSD": 0.1237,
+    "BTCUSD": 0.2497
+   }
+  },
+  "checks_base": "published"
  }
 ]

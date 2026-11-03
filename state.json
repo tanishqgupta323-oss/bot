@@ -665,22 +665,10 @@
   "calendar_fetched_at": "2026-11-02T21:40:59.389641+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 178,
+    "count": 179,
     "day": "2026-11-02"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-17T13:50:50.956912+00:00",
-      "w": [
-        "guards",
-        "hit",
-        "hormuz",
-        "iran",
-        "mines",
-        "strait",
-        "tankers"
-      ]
-    },
     {
       "at": "2026-10-17T14:31:06.309124+00:00",
       "w": [
@@ -3587,6 +3575,26 @@
         "six",
         "strike"
       ]
+    },
+    {
+      "at": "2026-11-03T00:35:40.618017+00:00",
+      "t": "US-Iran war news: Israel's Benjamin Netanyahu wants Donald Trump administration to carry out new Iran strikes, officials tell AP",
+      "w": [
+        "administration",
+        "benjamin",
+        "carry",
+        "donald",
+        "iran",
+        "israel",
+        "netanyahu",
+        "news",
+        "officials",
+        "strikes",
+        "tell",
+        "trump",
+        "wants",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3614,6 +3622,10 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "867fa1bf8466a1f157265789b3dbdfc9ae9c65810eba792f5d63310f6fb0badf",
+    "047d3845fee4931c05efdd84f1ffa48688802bfb7ae8cf08f02ea39ad5b1ce10",
+    "84e3951fe10edb4b3af13332d7337ff6e4226bf9f3d7e910c9a0f4e1be2a99db",
+    "c50d3fd27b44bf02ccd0669bbefcdadf79cbd16a00e020f2221e5e889ff3e21b",
     "5058a845321f382956f6489676b0e364ffdf90476b7f9d7066c4c4bde3bf2555",
     "04d6eb488b626a777825b2b55559d826b4e0d927195419fcfcc682acfd96a7f6",
     "dd5cfce758863a8439d34d1a77668cc0ef0d77844a8eaa091805d9b4c15c52d0",
@@ -4609,11 +4621,7 @@
     "dd0553638a671647b5fdff7c8aeeb386548f08657721d711f2f504b5d9b3568c",
     "558dce6cf396fdd436645192d9f618e0b3fe4fd7791e74ef6069d7909c7258e8",
     "1c5ee576cadba3050219023d2518f43f2e713b7d16f76815dfdd8d65b1eef55b",
-    "778fc3ae6374d12de76e6321d90e09464b419ab8574472ddc855a942605de1ca",
-    "00d4c5209aa6f75070660e61af1406bc53113c09403056889ba0cbde03757cc3",
-    "11a2704e95b8f447b7d679019c1b72ea6765486e93f814ae2033a8b3a596a0e3",
-    "a457e4bc1cc7011f3d07a58f23198bd6e82440d2618aff613b1b6c113d4894d0",
-    "bff0eeb9ed6e4a63e21f134fc773e92cf5c7116c3f653888753085b1f3fc4d0e"
+    "778fc3ae6374d12de76e6321d90e09464b419ab8574472ddc855a942605de1ca"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
