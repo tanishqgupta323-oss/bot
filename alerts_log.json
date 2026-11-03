@@ -12637,5 +12637,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "BBC",
+  "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OdnJnNXRmV0JsZXdPcVNsUmJ5U0c4OUZhcnBhNmtBZ1dPTHlkWl9GOFhYTUpLbHBLZDgzMzUwd190aWtQNTRGLXdHR1pJMG5UekhXckF4SmF2NHc?oc=5",
+  "published_at": "2026-11-03T05:00:43+00:00",
+  "sent_at": "2026-11-03T05:15:52.414415+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
