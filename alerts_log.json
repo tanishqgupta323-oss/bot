@@ -12720,5 +12720,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WJTV",
+  "title": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases: Analysis",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlpHNUVYT0dHZGdicDZSN2s4dTdMOGltZ0RRaG1wQU5hMTlLemNOQjVoYXVKcG15aVhvWGNxZ0RoaU9MMU5UZkNVc3NjVU5uWGs1QWZwa1EtRkYtalFnZWl0Z1I2RVZfTFQ3aWRfd3FmaTlCMFF4N1lYSkstQWhza09QSE5OYmdxX0FMcDVjVXFkQ0VsWGpUeUdqUldUX2w3dm5kZ1RkM1Y0RWdNTml2LXhpelDSAboBQVVfeXFMT2JDeWVFekVfZmF6NmhzVDBNaFpuaFJDWjYtbUs0UzhGQkQ2SzNLdUVyaUxnUjVNRWRQblQzQlowakFUbkUzNlVyZkU5ZUNkS1ZsU1JFRkdHYWkxeWdVcWdudTJMOUU5SWxFX2RFM2RMb1U4THRtR2lnaU9sRk1ES2lrVkMxU1JSSUlFTHlmZk1BdzdGOGFaX0Rqd1Ziem9PaG5oenpCSllkcUk3NlZCVjkzWkFFU2U5bk5B?oc=5",
+  "published_at": "2026-11-03T10:22:03+00:00",
+  "sent_at": "2026-11-03T10:40:57.860530+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": -0.0409,
+    "BTCUSD": 0.0583
+   }
+  },
+  "checks_base": "published"
  }
 ]

@@ -665,22 +665,10 @@
   "calendar_fetched_at": "2026-11-03T09:55:39.172765+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 26,
+    "count": 27,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-17T22:45:45.680838+00:00",
-      "w": [
-        "attack",
-        "fearing",
-        "iran",
-        "israeli",
-        "retaliate",
-        "rubio",
-        "struck"
-      ]
-    },
     {
       "at": "2026-10-18T01:13:51.217285+00:00",
       "w": [
@@ -3601,6 +3589,23 @@
         "needs",
         "rate"
       ]
+    },
+    {
+      "at": "2026-11-03T10:40:56.609419+00:00",
+      "t": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases: Analysis",
+      "w": [
+        "air",
+        "aircraft",
+        "analysis",
+        "bases",
+        "buildings",
+        "defenses",
+        "hit",
+        "iran",
+        "mideast",
+        "targeted",
+        "then"
+      ]
     }
   ],
   "resolved_events": [
@@ -3628,6 +3633,10 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "dfa7337e056b92081779f187856e8ed90c0a02a55ff8fcde13500cb3958f40ed",
+    "16c65f66afa69fc2d53912cf6112f31423793c2e8709c1370b8bf5d10ccb8283",
+    "8bbac03b3231d15934636049ce91cfbe73e24a3eda5a95837050f6a6517043a2",
+    "f25f3879c7065ccaad49b096c52da9734b3a09c55294a44afff08226054d28d2",
     "731524aef18855b345e782de66d3c8ada972906aa3486dbc0c14e6d21378ec80",
     "4b862784ed8aa00736df0a91157331adacf65210e47afb0fcfd3d77d0128f2cb",
     "a8a50444b9f443d99e8ca7307734fbdb123ffa45cb25dafb798c1452dda07c31",
@@ -4623,11 +4632,7 @@
     "67c351b1bdd3a5307d30d3644ba4d736c5916b2c61b60f19852459f163032443",
     "23e29460d4eef2ec1b3f77f7c6d97ad1ccbee02f170656e9d8f1dad89c48adbd",
     "7c0bc1a6157f5f04cd4c596e7fe6c631e2809c391ec3ed3b027fa661e9d5fd5c",
-    "689728886178835036ac77218a5730fdf5029448c0ebddc16b65441aedbdcdca",
-    "b0921777debdd1601c5313d6ceb0fff2738526408ed4c0bfb286c2d421fbc134",
-    "e92e044f49ddd9542e9dc77f2243853560f18207dae6b54abad6759e6d80da46",
-    "ab13cda83ce2a98d68c17dcdbafe30182bbd77597bf98596ac9c3e35961773ed",
-    "c29f1f1e8ca9a85f639c230af13be2f2da5cb4f848d24aa92b3ab5d15e394bc4"
+    "689728886178835036ac77218a5730fdf5029448c0ebddc16b65441aedbdcdca"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
