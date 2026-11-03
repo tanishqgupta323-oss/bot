@@ -667,25 +667,10 @@
   "calendar_fetched_at": "2026-11-03T16:05:44.163221+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 94,
+    "count": 95,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-18T14:01:25.657720+00:00",
-      "t": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
-      "w": [
-        "attacks",
-        "iran",
-        "operational",
-        "plan",
-        "report",
-        "resumes",
-        "shipping",
-        "strikes",
-        "vessels"
-      ]
-    },
     {
       "at": "2026-10-18T14:10:48.747651+00:00",
       "t": "Shock Leak Triggers Sudden Bets On A Massive Bitcoin ‘Bailout’ Amid Price Crash Fears",
@@ -3606,6 +3591,21 @@
         "military",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-03T16:21:08.556156+00:00",
+      "t": "Trump confirms strikes on Iran as Pezeshkian urges against return to war",
+      "w": [
+        "against",
+        "confirms",
+        "iran",
+        "pezeshkian",
+        "return",
+        "strikes",
+        "trump",
+        "urges",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3633,6 +3633,19 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "2bd641a1a45de9e737f70fd897de23742768a4b3e35725b0abbaf8310361b46a",
+    "00c94f4b51a01982725865d657f77e63ff108d99dd4f1927c908cd0ce87c5fb3",
+    "f166fabdc42396f43021741414fc24a63ede5092a811300b447936afac0c9afc",
+    "95ae08744ddb1e6d2e4941eedcce7e3a5db6d3d1a34d6ddec2f8e06ef0622f01",
+    "2b5a9bcc6603d6553762fbd57022b2a5fb1251ca7e90552ffbfc3c72ef59d32e",
+    "b991611298b6b60d1649f2d5ceb10f705147ed53ba5581ec037ff1e6df038afc",
+    "e404585ba2d77ceac0ac4f547c2f09027fa2e41be2d985cc486fe4854b656772",
+    "864eca9b3b7a70080af1a797253fd3edc53b479be29fa2607e2e4b20aa4a9081",
+    "6814ab172d95af2fa361543ada887106491db75fd2d52fbe48b5ee45d584aeaf",
+    "ebccb2e3d07c1dbaaa4c6081d7cf2a3628fb056c836753b3a293d828d57452d5",
+    "adbf10deca929ae8a97e42969d3561bb04c7536190e6eb33dc673b286ff2a456",
+    "7d3d01385d1923baf642fe6c41a79b6c19ac766f58e5e2c76abbfaefd255478f",
+    "7c334c74fb01959aafaea670b3b01f6a07ebfd4669a4bc2b6f166b93acdfe85d",
     "7ab74bff20cd1047f40f86f8a81d67b03303b40619d6eccabdfffb1e8ed98ef0",
     "f487faf456191804962ff0abbe3a3c1b554c6bb1d470e683fae53789d5b58bcf",
     "24a44422a883b9f56432f4d302c67c7d5efaa4204706743e033d0548bf39a72b",
@@ -4619,20 +4632,7 @@
     "bc2d1b753cf47293f5e0d74ea6f9e363a070c1ae6665ff0d694615fcf4b8aaea",
     "8d01d15f1b84b7a6529f866f1da17c3dfe94d32f14390192c798a90a0ac6e021",
     "93e1a35b792abe74c8e27ab4328ea2a12a3249cde523c375c69c7a4c6f7de7c5",
-    "7a77271891207c715df4629ed538eff0ff1f3579e357e8f4145ff394a839505d",
-    "1fb634b253baa92c93ee2c891ee5cecedf29c544da30de92c038dfa4cc3b51dd",
-    "4b7f3efe7758401369ab2e364d2a9a7c91bdefc2676d3967e80662bc9bc5c857",
-    "a7fcf474e3700a03d2306be06696ece96d3d3188e7b3249085722de1592fc1bf",
-    "099bb1b655ca40654afd7de40d8a7c9dd7fb30875fab53b85fb78f0e22c2265b",
-    "890fc9890a9e4f1f3874874d8d76bd49dd3d0c9b2b2e75be54fef5ec8074136a",
-    "c9466b89e1484bbdfd862046dfd93105e4ff233d97d4eb7cb84d9fdc2be44b93",
-    "cdb39534e7cc1fd6e4e9b62a3f0f373ec7c3e477047fbf5250a6b08e22348fef",
-    "ec0b95a57dcf547fbd117deef847e5fec5769d0703ffb91e252a44f9d0e43fa5",
-    "80ff55d64b107e864a47f95a3dbaff17469353cdee62071e4a51425e38652a2a",
-    "81e1b03c9191b219f2ab87ad34ade6068ceca57ae65bb2588c53c26185c4413d",
-    "a185f1057a8375bbf795e572dce95ffa1b60b3793e0e8890e51fc808c4aa0614",
-    "4bef6dc3180c8aa690702e1c9f85506522b37690bbdcbb2773aadfc9eaf18a00",
-    "e313fd320f102e1d32468112b97c3c394b8b41cc39007d6a99305e30e38fc162"
+    "7a77271891207c715df4629ed538eff0ff1f3579e357e8f4145ff394a839505d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
