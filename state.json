@@ -667,24 +667,10 @@
   "calendar_fetched_at": "2026-11-03T19:05:48.364908+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 129,
+    "count": 130,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-19T03:40:48.078348+00:00",
-      "t": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
-      "w": [
-        "canada",
-        "carney",
-        "effect",
-        "retaliate",
-        "take",
-        "tariffs",
-        "trump",
-        "vows"
-      ]
-    },
     {
       "at": "2026-10-19T08:35:38.973764+00:00",
       "t": "Trump weighs strike on Iran's oil lifeline",
@@ -3597,6 +3583,18 @@
         "targets",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-03T19:40:53.034563+00:00",
+      "t": "US has plans to strike Iran as early as tomorrow — report",
+      "w": [
+        "early",
+        "iran",
+        "plans",
+        "report",
+        "strike",
+        "tomorrow"
+      ]
     }
   ],
   "resolved_events": [
@@ -3624,6 +3622,8 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "0fd28e6a11d36bcdb1665e83a23f3c08bee68deb6f55beb5c35aaaba8a7c3f3b",
+    "547e02a0a87ab2f7c37630988ae943c5d007b53036fb5d7dd13ab7a93fa3e5be",
     "e200103982624fc2154ef41fa01f14635a79ca129a89d9e8eb3dbab9e692dd66",
     "08a0bbcb3c8f3ffbe9fcaee19d6e1e1efbd0a69de0aa73cc12c57bb47f121060",
     "4f072d7cbdfe94233498ca501f433eeb4a0bad5bfa5ae52117acb3fbb4866021",
@@ -4621,9 +4621,7 @@
     "5b349a042f8e5fcd77164a989135b52ba90f789e3fc9edb52419c07c73068f5b",
     "d1a2ed99c5d2f09cefa9a6583f2a2c751d31544938317b5a654507b2ca42ef92",
     "5ad9f29fe4a70dfab49c5a952f170014d09ed7abbb1c532b9cb036755ac683cf",
-    "e16c9ea1ec988408c91bd8757a07946b13893f46c71aba46174706a3f49e3998",
-    "94a40b8f5153e6caf2d833f27354b70f4ab55a46f13d70d0467173738ef305d0",
-    "50be1ee01a3e0a49e9f3188326a763503ee35ab6dbed271f35b5caad3326c72e"
+    "e16c9ea1ec988408c91bd8757a07946b13893f46c71aba46174706a3f49e3998"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

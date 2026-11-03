@@ -13027,5 +13027,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Times of Israel",
+  "title": "US has plans to strike Iran as early as tomorrow — report",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcVNaNG1maExCU3d5OXJnbDlIaWVuTXJxMDkyV2RvcE8zVjRSWk9BSXJwcjVyd2xpMEtaX2hGRTdDX21aMGVRdE5IVi1xU0s4UzFpd2RTNVpKQU13VkJHTURQLTNzWTMxYkRBYnpJdG5ZRTY1Vm5qN0ctNXd2aERfeUVKbXBrUnN3RUU3OUxwZWlBVWd2cktGazMyZTFVWjA5cjVZ?oc=5",
+  "published_at": "2026-11-03T18:48:06+00:00",
+  "sent_at": "2026-11-03T19:40:53.825410+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0224,
+    "XAUUSD": -0.0127,
+    "BTCUSD": -0.0293
+   }
+  },
+  "checks_base": "published"
  }
 ]
