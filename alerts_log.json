@@ -12668,5 +12668,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al-Monitor",
+  "title": "US strikes Iranian islands as Trump talks up diplomatic progress",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa3VDMUJLWjVBd3RvNWdwUEw0eHBkU0RQNzdjUEk1X2NDV2pFX08yWXJLSUREaFdoSXB1eGhMazQ5ejktQlZabWhRVldUbFUwNGp4RlpfUHVIaFZpWkxlU2pjOWh0bjc1YU1MWk9hS1M0T0tJakthdU9sQWs3cmhVTzRXaGZiQzc4WE12Y2tNM3VMNXlQZVFuWjFVcHFPTjlCbmxpSXRB?oc=5",
+  "published_at": "2026-11-03T07:30:19+00:00",
+  "sent_at": "2026-11-03T07:46:00.587771+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
