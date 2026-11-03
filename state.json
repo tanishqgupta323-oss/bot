@@ -667,27 +667,10 @@
   "calendar_fetched_at": "2026-11-03T19:05:48.364908+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 124,
+    "count": 125,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-18T21:05:40.766135+00:00",
-      "t": "Romanian F-16s shoot down two drones over Black Sea, NATO council to meet Tuesday",
-      "w": [
-        "16s",
-        "black",
-        "council",
-        "down",
-        "drones",
-        "meet",
-        "nato",
-        "romanian",
-        "sea",
-        "shoot",
-        "tuesday"
-      ]
-    },
     {
       "at": "2026-10-19T01:20:51.409344+00:00",
       "t": "Gold rises as Warsh remarks curb Fed hike bets",
@@ -3599,6 +3582,20 @@
         "raise",
         "rates"
       ]
+    },
+    {
+      "at": "2026-11-03T19:15:55.753274+00:00",
+      "t": "Israel Warns The US That Iran Is Considering Chemical Weapons Use - Report",
+      "w": [
+        "chemical",
+        "considering",
+        "iran",
+        "israel",
+        "report",
+        "use",
+        "warns",
+        "weapons"
+      ]
     }
   ],
   "resolved_events": [
@@ -3626,6 +3623,9 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "cecd00b5799f3cc9729f13296bc629e42f29de135c2c8d94531b993f2b181dd6",
+    "e9a84071ccdf5a88655cfacf09887ae62b25a5914fb6a79e8f16fb4011813fa8",
+    "69bcea2fb893e279fbd9d0e791b53413d1c85d21cd72cbee9a4bb90976dfbbfd",
     "2ce4ad4be56b06e597e3c55146332596813dba424b678a6959446661c76de38e",
     "dab1e28b3f190d353f8f6d8af22e811041e12d22034ed775d698272ccd86b874",
     "3f5595d4400234bbc100b2900fef7172bb28f76f6914ffb7580fcd231e45d8f2",
@@ -4622,10 +4622,7 @@
     "a30798cfd656925d8a540f5bee51018c3cd1ed4afc772e1303cce6f5fd01d7d2",
     "0e3dc100d04333706984773e4d82a7e2aaa8784a84210c4873416fc36c2e771b",
     "2f2577c01664d0b620ae123ff078aecc552fad766e442fd4ca5c7f4f4eb76df2",
-    "cde3d55086a53492e164a6d48be1bacf6f1f7a219ee8fb0a8d6f12e1470b418b",
-    "85bcaaf06305ac7cad48f9d6124a414979fbe4de0173033e20c8166cc840a199",
-    "08f65e71f215aeaae0d401fcd585a1a28d2d5c67a89d1ffb4ebee9febb80d70e",
-    "9d4c35d68ec5179d1e44a4d630fe0f12e58151d29585486d454e6ce06ae9b336"
+    "cde3d55086a53492e164a6d48be1bacf6f1f7a219ee8fb0a8d6f12e1470b418b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

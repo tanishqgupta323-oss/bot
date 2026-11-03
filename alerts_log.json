@@ -12975,5 +12975,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "i24NEWS",
+  "title": "Israel Warns The US That Iran Is Considering Chemical Weapons Use - Report",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUZvRUxPXzlxZE91Q2hVLWdXMDhiVzItT1Q1SjlJMFNRZzF1MnlRWWtnOWpneC1YSFhwbng5Qjl0czRSWU5qZFlXT2U2bWJ5MkRqYThfYk14M2NyQnByTEpzSjAzVFpudU1fRTJUWWZfaGNEMzB2THJuQTIxQmY4cExHeXlVNVdHcmJWMHNpMHY4S2w5a2RyQUVtTjdwNjJoUVJYUGlLeUxiLUp5OHR0ZUJOOVJtYTlOLUZQYjg1eFA?oc=5",
+  "published_at": "2026-11-03T18:41:09+00:00",
+  "sent_at": "2026-11-03T19:15:56.861028+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0,
+    "BTCUSD": -0.1535
+   }
+  },
+  "checks_base": "published"
  }
 ]
