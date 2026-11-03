@@ -13084,5 +13084,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Foreign Policy",
+  "title": "Iran Strikes and Israel Aid Cuts Shake Up Election Day",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEVSOXY5Uzh2NW9NWFloZWRTelRJUG5yVGIzOGx0bUZ3Q3F0cV9XbmJla1RWTHFYeHZJWDJ2cHp1WFdBcWhhV28xcEFaejc3TW82bG5rNlgzemNvUWVmV0lUeTVyV2hVNzN5Q0xzcm5lNDRxOFlnNi0xUU54MGFZellBREdCX0dfVlZnUkRSR0RXQjc3R0tHRzg3MGV3Vlctc2dUQ2ZlTVVTb1hseWRaMnAwVGR1YXNJOWZsOXVVY3ljZ29mOVVr?oc=5",
+  "published_at": "2026-11-03T23:04:36+00:00",
+  "sent_at": "2026-11-03T23:15:55.497386+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

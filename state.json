@@ -667,23 +667,10 @@
   "calendar_fetched_at": "2026-11-03T22:10:56.505394+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 164,
+    "count": 165,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-19T08:50:52.153276+00:00",
-      "t": "Gas prices top $4 a gallon as Iran war escalates",
-      "w": [
-        "escalates",
-        "gallon",
-        "gas",
-        "iran",
-        "prices",
-        "top",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-19T10:15:45.716639+00:00",
       "t": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
@@ -3598,6 +3585,20 @@
         "shift",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-03T23:15:54.330740+00:00",
+      "t": "Iran Strikes and Israel Aid Cuts Shake Up Election Day",
+      "w": [
+        "aid",
+        "cuts",
+        "day",
+        "election",
+        "iran",
+        "israel",
+        "shake",
+        "strikes"
+      ]
     }
   ],
   "resolved_events": [
@@ -3625,6 +3626,13 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "1c90c03dc910ee92bb8927c09f916ba25f5c9a4cade9ddde04b6a6e92189c574",
+    "c021476d87c2f0ae7bb70a8fe74fa83197a9b3e3d7d066d24f38af002729e0df",
+    "56fab52649a0e74fa9a88f1e0adf00a7798d181e5c2c66588ac8473b6c514666",
+    "18e64e989b2f8900a3ef190d0494a8b2be6815f8caab50a9d2044820e708f86f",
+    "b8691e1055ddbe565b6563633a716b02551b2bc9846e81e3c8def715f87d0fb1",
+    "ec0e1472b95bb41fec9f7d7bfc546c676c62554679d62e9050786f7ce939ade9",
+    "5e21070d2ab27f82ccdd7a60acfbd7cef422bde4d94aadf04214ec7514f8bc6d",
     "479863395657a8eade1fe67b54aab2b914c728aa2d35a6d8d3be2c8ef7fc2954",
     "f8d90ec989d474666ad33b6a17a4a311837b9e5f8f041082943eebdef4182b9b",
     "7d5e36852b399d2273c31ab085039de42e01c9fd702f9bd82f3b1fd25d9b4c2b",
@@ -4617,14 +4625,7 @@
     "75d1b584085b9715caebba195f35d9dfc7ddbfc5fe181066dd57467d095484bb",
     "b7fec25b2f6bf3f6edcc32ef58cf3be5918a6cc726aa12458a221fc67dadcc3e",
     "377ee4ab5643c61208b85e5f829b0d5406de183d8d7d019fb92ecb9881547dd2",
-    "ce221aafcc914f66920fb012c23d781c759a2951644cf0da00b3aad47628ea77",
-    "ba30e78fc4bfca925b4827791ddf388adb0861cce938587bb30b926ed4a9f253",
-    "a5b0e068948e1d11e1e99ac1cdf1a314129fcf5f0254ad64ca1137904ee4803e",
-    "89219af87a0bcd9f44d237d980f7641b24bc2f69b50011af8190878c95c4c8f3",
-    "a357f9befeefb47f514dfc16c275e51bfb3ef023f8af95fe2d3084c1882054c6",
-    "a48b40e54d04ee4fa1ec9e71afa9ef27543f8084680647ce8d2461795e861594",
-    "3675d76c15523af476de42755ced54966e57c19e18a74ff0e50967b4544d4e96",
-    "8c413af91194829f9fce446ec0da8628bf2af063951c87bd7867cd44a5a6e06f"
+    "ce221aafcc914f66920fb012c23d781c759a2951644cf0da00b3aad47628ea77"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
