@@ -665,23 +665,10 @@
   "calendar_fetched_at": "2026-11-03T13:01:36.344136+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 59,
+    "count": 60,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-18T02:55:36.234802+00:00",
-      "w": [
-        "catch",
-        "fire",
-        "hitting",
-        "hormuz",
-        "iran",
-        "mines",
-        "strait",
-        "tankers"
-      ]
-    },
     {
       "at": "2026-10-18T03:45:45.789503+00:00",
       "w": [
@@ -3608,6 +3595,18 @@
         "recovery",
         "underway"
       ]
+    },
+    {
+      "at": "2026-11-03T13:55:41.741936+00:00",
+      "t": "Trump Says US Will Stop Paying Israel After Year-End",
+      "w": [
+        "end",
+        "israel",
+        "paying",
+        "stop",
+        "trump",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3635,6 +3634,15 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "0f81869322a19d3bfcd25c113f243abe68f2de872eb0309114987f290942e614",
+    "4a83e3113e1b0e74fbc6e9563b3f9dbb701fdf4b9a260bb5b531359cff4c701c",
+    "65816e2612f710b5fcaea080440b3f87312764429a4ec970f6fca879677a62e6",
+    "4fce70ba819ce12281e1eab2118fab1b91a85f90ba252fb86b78b13bdd888aef",
+    "88aa2cfd7bace8b6f200d2537169de4d419a113a682d345ea2049730c8a8ce82",
+    "13d3338293df3b0c2cbd6a0d874bdc73a985fbec6b0a3f0aa2cb4c3ed9036afd",
+    "f323b2efeed58357ca04db0f78eec057c19d9d5a603dac1b508a680fd73674e0",
+    "fe3e7c89f6fc644de7319ca00a5bb0d401ca2933684bb509025443d19b039cb8",
+    "44718947f595a80ed4157dbc4338931b78b11627dd4a68cf84d98ac521176469",
     "edac5dfea7099597ad3d87ab1f4e615dbe7848949f2c6702a493d67b4e4f0170",
     "baf88105792e93683f7aeb56692237bf487eb43ee16d547cf9775c60f0b186ac",
     "29bf8009183416d704aee96a7c87ca3890abaca6dbcc15f637b2af46e48c7341",
@@ -4625,16 +4633,7 @@
     "e48711822e7bbd8402279a11393f0756011a98e61df0a314ffe9c1cae0fa38a5",
     "210f9374fabe1f8b659dd9ebd5b5b7bd3c056aa6c7ec2871f9cb3d07c9f40d31",
     "345b68220a4d0d26160cde6494ed29d676bfec6bfd17927e349f70b71c654c71",
-    "6e4171713e8555cdb267e9df9642a59dc929bf6762ff877f345fb947bd2cbc09",
-    "c7288b6dbe4724841d4845ca1aebf33e817d92044c14287c000c71b1b94cdc58",
-    "d5e4ef7dfa02029c8db02a0b549a6d53f21cd55d87f277fcb579f7ad97a93689",
-    "889fd06d0316c32a47958d89d1b117daa170d3c5ba93068ca92d5a7c5d59a25a",
-    "534bb2c29c98e33fc7785c17a3ec79fde62b893d4f02baa79170e85fe335eca8",
-    "67fdffdfd934cd29802006c5c88dce33fcd8711ea39d0e42ef34424f1750e735",
-    "6fa582f724ce1b36528cc6d20182c8b862aa167955b2b22aa39aacb5eea3139c",
-    "21bba4ba99b2ded5eee40bff01d644e46a2a2dab9765c85b0f3ba12fff86bbca",
-    "ff8f81976187a58cf848c779656254548ebe2d9db99e296b37fcdf331fca635b",
-    "a4aff591296c207302f16a02acd6f3283f6d59dde39ab3835d13c56a4f4e7df1"
+    "6e4171713e8555cdb267e9df9642a59dc929bf6762ff877f345fb947bd2cbc09"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -12793,5 +12793,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "U.S. News & World Report",
+  "title": "Trump Says US Will Stop Paying Israel After Year-End",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOHJxYUNYbC1feDdjMVRzOV9mUWcwSS1nTmUya0U0QzAxZGRVQUtpOGJLdk1lNkw1bjBDLWNuZWZpVkNuN0dtSzF4emxnejk1WncyYXI2c2I0RXdkVzU4YjQ4QXFvUVVzWWFDYXBGUmVDWmRIMllaSEk4a05ua19yTk5HdFU3QjVDWVJLcFRkWHVDenFBTXczTzRKTEstMWdkWWlHZ0VwUXphZw?oc=5",
+  "published_at": "2026-11-03T13:28:00+00:00",
+  "sent_at": "2026-11-03T13:55:42.962913+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BEARISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0896,
+    "XAUUSD": 0.5057,
+    "BTCUSD": 0.1762
+   }
+  },
+  "checks_base": "published"
  }
 ]
