@@ -667,25 +667,10 @@
   "calendar_fetched_at": "2026-11-03T22:10:56.505394+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 170,
+    "count": 171,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-19T10:15:45.716639+00:00",
-      "t": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
-      "w": [
-        "adding",
-        "boom",
-        "fed",
-        "headache",
-        "inflation",
-        "medicine",
-        "others",
-        "pay",
-        "sees"
-      ]
-    },
     {
       "at": "2026-10-19T12:40:48.940860+00:00",
       "t": "Why BofA still sees an October Fed rate hike",
@@ -3599,6 +3584,18 @@
         "shake",
         "strikes"
       ]
+    },
+    {
+      "at": "2026-11-03T23:45:51.682474+00:00",
+      "t": "US has no immediate plan to strike Iran, Trump tells FT",
+      "w": [
+        "immediate",
+        "iran",
+        "plan",
+        "strike",
+        "tells",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3626,6 +3623,9 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "5a242d1eb7bd539075746e4824550da3782a2c5e676327324a5a8a6364701a7b",
+    "82a34cf1b11b31554594bb13e1555e85e9464cf2f1a642dadd885c5780d0b03e",
+    "507a0af3c1632a8cbb1665f548069659612f1542379e6ebbf380e460cb963e94",
     "e099aedce55c259e3056bad25c62e4872a95d8578503c2579d28837638cd86f9",
     "48db40a5cd322500a8728385fdf4ab983d46d5defa513cb1040b2eb7682c188d",
     "3bada23ce670ac53730e5924b24d2ad43db82882dcf97b82a02374cdbc2bb1ad",
@@ -4622,10 +4622,7 @@
     "e0bea275acae4c0a3b0450c530ca31eb44a4aca8f5e18aa1c555cf8cc512d4de",
     "d0da154c5230f79605a28410b9ec686cde6ed693a6cc97da9174fe7f8169b02b",
     "d344745f61c7edc2f14658a990a4f590fbc54451d8a53d859af82e56baec5c68",
-    "b210b8935bb0eb5160f2e16ec62a33ef27c8ffe00c8a96caee96bf208648fb2c",
-    "cdf51af4f9c15480968d2ceb48aa60bbdf5710cb8ee6f384306cbafe9de8a880",
-    "d154c5eb043ba021b65ce2ba8604f2d5b27e962b4d34207ac6c03fea89f60652",
-    "0b780f009977172d78506d6aae35ccb753732aa3d1d22104979ccce622549daf"
+    "b210b8935bb0eb5160f2e16ec62a33ef27c8ffe00c8a96caee96bf208648fb2c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
