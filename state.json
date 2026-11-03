@@ -1,6 +1,6 @@
 {
   "actual_attempts": {
-    "f002b1eb12b12450a174971f": 4
+    "f002b1eb12b12450a174971f": 5
   },
   "calendar": [
     {
@@ -667,24 +667,10 @@
   "calendar_fetched_at": "2026-11-03T13:01:36.344136+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 83,
+    "count": 85,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-18T08:10:47.107683+00:00",
-      "w": [
-        "2nd",
-        "explodes",
-        "hitting",
-        "hormuz",
-        "iran",
-        "irgc",
-        "mine",
-        "strait",
-        "supertanker"
-      ]
-    },
     {
       "at": "2026-10-18T14:01:25.657720+00:00",
       "t": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
@@ -3607,6 +3593,19 @@
         "robust",
         "surge"
       ]
+    },
+    {
+      "at": "2026-11-03T15:41:28.857817+00:00",
+      "t": "Trump says he will end billions of dollars in military aid to Israel",
+      "w": [
+        "aid",
+        "billions",
+        "dollars",
+        "end",
+        "israel",
+        "military",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3634,6 +3633,17 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "1402249d23a511aab57fc97a247ec0647766b6c1e723c9d31936f86e0389f6b7",
+    "e0a9f473d75b86b8d6c73baf964ed314e8264246af00985a67e70873c4e5fdb3",
+    "ebf7afb629c2da11f5563258d8a8c69d16fe6f94f042a8dba64e69fffd695cdb",
+    "67b6269048cc026407b5af74107633f696921acb6c7f3638805555892200eaef",
+    "ac7f17ffee3f30ecdf80bd1ca33d3918219fddbde9a50a6f6bc65b2a07be3b58",
+    "2f5712530e1d8ef3e8b7b7b711f343a4332333b4457f3a74fa986d932351a918",
+    "32c75f9c50bd34dbbae8a19fbc161c91771925fbb36dfe9366ad93afc35fdd89",
+    "1a04b1b4645a0a44bb9e472ebe52ca981f5bb0346405c92ffda4a38538e26832",
+    "ab205b1868b46ca2fabcd2541ea2117b325bbf542d0ab8acb06aa8ad52104a7b",
+    "1c1db7409e607118e5ddf811e690adabc8c0c85e3ddd74cdb275eb2c7d28b1b1",
+    "a3a760f479b8a9060f97de999b083bfc90c8edbcd856776b956e77b132536da0",
     "5450637f82b5a00596f8d4276f26dfea378c78ca9831c2e67746c9f3a0d35a4a",
     "a9992a6f46975ae8d92272b4cae3bf396a20f19a0cc957f4fd3b20b762b49f0b",
     "43e8ac28c9ab782ea068892bd67d93d8e1376ce2f79ffe9df8a94f394a82fbb0",
@@ -4622,18 +4632,7 @@
     "de5df9d26bd76eee8dc33eb79d00079e830ceed0d2bc2eee049992194e4dbbfe",
     "7c77c7da024cccd12785e2e1e6769c4acda3dec84e594bdf970cc644898d5ebe",
     "e0a2ecf719e3d353eff2f42f9f83b64fd0506973a3e845c124d152ee67a538da",
-    "6e2702a5250563a1f4fabdd6f47b35269a03d62b9c2e6f3e29017dbff4cb3e8c",
-    "2ca9f0920cf2f3c33b2be4e66230cc335d70dc893b75a0fdc0fd4982276414f2",
-    "65beb095e1d97f25427ff097cc0b3f858b2a98fd30f9e608fc4c515cea1e28a1",
-    "e9430b79c98528fab24ea30eec949ddcf3dadc4e0ee42c7ed94b10240dc7346e",
-    "c9af045c6a3182e0878db00b7004deb5ac295533fe99b2a306fd40a0115a30ae",
-    "56325a44063bfa0a48e1bfff926f715dd3d04b8f043658fb546daab522d97036",
-    "6d043eb981cabe481b6473e2c488e7cc7b5df9a2b825a5ee7e837dd63c3063b0",
-    "80787ebbfc4c2feb79fea42b523eeec4ff5d157ce5c1f1ccef672efe92758b3d",
-    "c8532503396f2aa8add54c4cc8ae6c1ac035cfe77e71dd6990e324b60fc6400a",
-    "5ccbc98ccfbda26729e68750316d1d369519bebda41632a5230332e32b8d1b0d",
-    "0a8bccdfaafdd3ed11486fdc7fef6b817da287ddad7d9454d90cf65aab138bd0",
-    "1d155c64fd00a2d0f3c18c45a86c648ba32a3233a2bc749372beeb995a42503b"
+    "6e2702a5250563a1f4fabdd6f47b35269a03d62b9c2e6f3e29017dbff4cb3e8c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

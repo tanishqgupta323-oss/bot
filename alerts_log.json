@@ -12866,5 +12866,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Politico",
+  "title": "Trump says he will end billions of dollars in military aid to Israel",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmd6SkVPb2ZTOURqbWtoSFVYckRHVHhtcjhrRUJlSGdXRTB5V1N2U0xTQ1VjQlNLN2ctaF9OWnlIcng4ZWoxS2l3WkFVWkl4RFVINUUyY2YwaGJpdzZCZEhZbkN3TzBULWdaS1M5TUJ1NF9CNzRJUEpMdXF1YUdYLXFQNmVHeEE?oc=5",
+  "published_at": "2026-11-03T15:20:00+00:00",
+  "sent_at": "2026-11-03T15:41:48.726424+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0224,
+    "XAUUSD": -0.1497,
+    "BTCUSD": 0.0469
+   }
+  },
+  "checks_base": "published"
  }
 ]
