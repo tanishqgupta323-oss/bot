@@ -665,22 +665,10 @@
   "calendar_fetched_at": "2026-11-03T09:55:39.172765+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 46,
+    "count": 47,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-18T01:13:51.217285+00:00",
-      "w": [
-        "blockade",
-        "enforce",
-        "hormuz",
-        "iran",
-        "navy",
-        "ports",
-        "strait"
-      ]
-    },
     {
       "at": "2026-10-18T02:40:49.764844+00:00",
       "w": [
@@ -3606,6 +3594,20 @@
         "targeted",
         "then"
       ]
+    },
+    {
+      "at": "2026-11-03T12:45:54.890376+00:00",
+      "t": "US carries out ‘defensive’ strikes on Iran’s Qeshm island in Strait of Hormuz",
+      "w": [
+        "carries",
+        "defensive",
+        "hormuz",
+        "iran",
+        "island",
+        "qeshm",
+        "strait",
+        "strikes"
+      ]
     }
   ],
   "resolved_events": [
@@ -3633,6 +3635,14 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "ecfe6a7d41a580bc8724bf8acc228798dec9bb7e43a733fe202c19d3223d0a14",
+    "c6f0c1017f526c6906f60b945eb2b2fa4ede4a72f6df4449f867276c0fd3f3c4",
+    "838a05b884261896f2ea30e2db03f81dfd42c96ed9340b8d73a487de9353d9ea",
+    "6826631311422d4ada4fd1dd8f9c95b33aa176f14233b5e7188c448e85b9a86e",
+    "e16825b04a7fba3a151bd551b541a229d6eebbfd42019de86ab770817c083a40",
+    "44e53d46f81943d4beca03513c856bcfd0aed541e5449ea996d46474fbe33b7d",
+    "a66f56fdc40b0e0bff771124d2f38855bbcf5b43755011b8789fc82f80fa3502",
+    "87e625d35bd28d4c8e5a3e1508581cb3930fc2404e34756fea86341d1687a837",
     "a57d28bc5ef5c67794e9eb81fcc5fafc5fc36be3b78ac52769f8d8d1fdd51843",
     "63e7a3f708985364516da993cd9a3d40c771c44a532f0c37d1570d8837a17a0c",
     "f9d87df002a7e216951102ce67bde561dd95aefe5a4b7f53dbc3054afece5b48",
@@ -4624,15 +4634,7 @@
     "cd009f05fef59775e3deffd15184de356bdd61c60470be90128502a9ac0f241c",
     "6030e4ced313dd425c4cb3d4b152b9b1037ffcd6069b567fe05f2a9a984d4f93",
     "d598a446c58f64ea033e3da2caf58bc58e9c1adc87d5b3ae44f6885e6dc8ef2f",
-    "655b70d4092b9d2c5d0f5809d3c20de051ea9e20a5e81b26818d4b9ffc355458",
-    "482a331955439ddc9df9611388fbd91492aa7416041b22441aca284dce9381d9",
-    "1ed53a390bb12f01a9bd785774ca2aff20d17a39e49d901d8a7f017aeb8ceddd",
-    "91a1d0528b191e7e0aa6e234fde3fc627640ce6c311eb70b60c4f10a2ea5c605",
-    "6d1899578dd96dcf296611df1365307fb0d3ea890a4b15e46efb5d602fb53128",
-    "4c7d07b3df462ac46476943064ec5381ffda3e07e12c19e08a64577b110fdef6",
-    "2721389dcd3d7822da624b9e60ad6855ab016af6c08ab17311943206476aa3b9",
-    "733fe803c7afd918cb119ca8a39dbd098c1f0df8d0122b13147af6f6972eda81",
-    "f3e79e6befccf83daf31f8ae654c5890d9b150a747ebb77772de9e84bc59acd8"
+    "655b70d4092b9d2c5d0f5809d3c20de051ea9e20a5e81b26818d4b9ffc355458"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
