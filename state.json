@@ -665,25 +665,10 @@
   "calendar_fetched_at": "2026-11-03T13:01:36.344136+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 70,
+    "count": 71,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-18T03:45:45.789503+00:00",
-      "w": [
-        "hit",
-        "hormuz",
-        "iran",
-        "near",
-        "offers",
-        "plan",
-        "reopening",
-        "tankers",
-        "tehran",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-18T04:01:21.958787+00:00",
       "w": [
@@ -3607,6 +3592,20 @@
         "trump",
         "year"
       ]
+    },
+    {
+      "at": "2026-11-03T14:55:41.639157+00:00",
+      "t": "Binance's $6.3 billion hack began with a fake job interview, exchange says",
+      "w": [
+        "began",
+        "billion",
+        "binance",
+        "exchange",
+        "fake",
+        "hack",
+        "interview",
+        "job"
+      ]
     }
   ],
   "resolved_events": [
@@ -3634,6 +3633,11 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "128d2c08e878cb55005aeb6b730a0a219080fb6a44b34e80c288362237d17766",
+    "c1e149aac2c16f40d7765635a37d31e118f7ffc3f17352cddd2704e852990d7c",
+    "4d0a82b007e8d10adc8fb6361e9869130f7e23393f2607957a01edff73fa3783",
+    "d9ebb55ad0d184c5a555ac39e7c835af8ece5c77a449e43360ba09ee377dc368",
+    "513dc74c74ed81de9955c10993a737410ae048d9b0658d83cd0a0df12d9ca766",
     "f588208c323491b04eb308e041ea3f5dcb5804dc7a939ed6b49a73b599c841c0",
     "b73be12c25cf670bf3732cd5f42a9698a86264778f08708f08d1ddb11e517266",
     "cbc3e77c0a6b8e499d96f0671fed2e9c6500fa68f9dd622142e767de2d28b8e3",
@@ -4628,12 +4632,7 @@
     "4aafe2004e9d69410fa570b8fb8a2e0b2ab75bc4f4b1225db90793b8870cd5c7",
     "517b0efb5f1387b391535745abce39f53733075c15e9c8a7dce64e0a94c90f57",
     "1bd94f18b0f3d3a80de9aae3fbf08f357752cba5113110873b129835f873acbb",
-    "8c7da09763e8c65e882f5fe097e59ccca93481a63208dcb789010de630086fa7",
-    "54dedb8f843b591e8173846821a10fa1c7fbfca36608b1b4f38787d28936dc7b",
-    "f4163ef76948e99c89139f34ca862acf49164e425deb61cfe20c572ba6455461",
-    "fd1cd8fec0e3433eb9d56f86b68b440b8e78f5ece54ef37acb8ef244f3fd3d57",
-    "a00e6e137b444674458cc2206cae40275c19cf7c54f4789bbabe5a968d6b5a6a",
-    "42dfac89d6357b88ecc079d1c8dad52723c5d731b8ae7384cce68073ccb0d6f1"
+    "8c7da09763e8c65e882f5fe097e59ccca93481a63208dcb789010de630086fa7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
