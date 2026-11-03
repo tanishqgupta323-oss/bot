@@ -13058,5 +13058,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNN",
+  "title": "Trump’s Election Day bombshell on Israel points to historic shift in US politics",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xTXdXT1EtNzR6OE9mdHlVRFQzRW9xeW5aWlBkdkkyYV8xaTh3R3VrekFHUTJxMk9YbDBfY08xSVZzY0pibC1lb0ZSM2F1TVhJYjZhdlFMRUt3YXIzT2N2V0FLQmFZU0RFRDkwUFNtQjg3ckYyZjZ1RA?oc=5",
+  "published_at": "2026-11-03T21:19:38+00:00",
+  "sent_at": "2026-11-03T21:50:58.378258+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.1144,
+    "BTCUSD": 0.0564
+   }
+  },
+  "checks_base": "published"
  }
 ]
