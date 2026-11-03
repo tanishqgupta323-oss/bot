@@ -665,22 +665,10 @@
   "calendar_fetched_at": "2026-11-03T03:45:50.216100+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 219,
+    "count": 220,
     "day": "2026-11-02"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-17T15:01:22.730567+00:00",
-      "w": [
-        "impose",
-        "partners",
-        "set",
-        "sweeping",
-        "tariffs",
-        "trade",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-17T20:40:47.400359+00:00",
       "w": [
@@ -3598,6 +3586,19 @@
         "trump",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-03T04:55:38.335379+00:00",
+      "t": "U.S. forces launch new ‘defensive’ strikes in Iran on eve of election",
+      "w": [
+        "defensive",
+        "election",
+        "eve",
+        "forces",
+        "iran",
+        "launch",
+        "strikes"
+      ]
     }
   ],
   "resolved_events": [
@@ -3625,6 +3626,7 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "421179b7f0f4a97da158955fa13cb9cf2b794d87235a1c771fa56a311a8c275c",
     "74975a458d63519d7fd3cf7a6aa1074de1078fa64fa8b31f23587e12f89bd277",
     "a37592106b163f6d3bcac1795b7ad2e938f4bc6f5fc945002f7cde140f25fc2e",
     "0576b2a81e125fa10e13dc965912818562c4a004d38b315c48558f0c9c416f4a",
@@ -4623,8 +4625,7 @@
     "e41a9ed4b1e28de0643743c56b4361c2080c31cde80fbd1a6926b149b9004bbc",
     "5f932cb4ff7f7c75536a883c967e992c0e414838f21772602056a3b64272ce93",
     "8ae9e149f422e2f3d56156d3784fbd31799d931480037b668013062983cb76c5",
-    "6f469241a901df5e516b55e76059d3be327f6d1e15be3a968d1c3838683747e0",
-    "bcec56e45eef1a8c834317e7a314bfb5ee0838d49eb493eb6f54f89e1fea44c9"
+    "6f469241a901df5e516b55e76059d3be327f6d1e15be3a968d1c3838683747e0"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
