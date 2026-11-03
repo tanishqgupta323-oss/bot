@@ -204,11 +204,11 @@
     {
       "actual": "-",
       "currency": "EUR",
-      "event_id": "d8c7ec52b583dea519117550",
+      "event_id": "6529b9d58ed8e8cd641e55dd",
       "forecast": "-",
       "impact": "LOW",
       "previous": "-",
-      "scheduled_at": "2026-11-03T17:00:00+00:00",
+      "scheduled_at": "2026-11-03T18:00:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "German Buba President Nagel Speaks"
     },
@@ -664,10 +664,10 @@
       "title": "Consumer Credit m/m"
     }
   ],
-  "calendar_fetched_at": "2026-11-03T16:05:44.163221+00:00",
+  "calendar_fetched_at": "2026-11-03T19:05:48.364908+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 122,
+    "count": 123,
     "day": "2026-11-03"
   },
   "recent_stories": [
@@ -3626,6 +3626,10 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "b156308ea7890508b3a69d20d4468f4c8a23faad852c7aea1e950a0a6b42f820",
+    "0fe0455c77abd36c3f62d5a755023712717b2c38f1aa579a5846f25f0aed6474",
+    "871ae48b2f63f92c92cadbcafb7f088894da000840ebd3b9f74b364fe2c3fd4d",
+    "2d38b0a77bec8b731796fb85bfde0a93cf63f6c16e901e3a1889b40fd7485774",
     "7fc83cc46860b619f3a26d8c91405386ed5264a797a9e7c9eac9f9577fab32b6",
     "08311abfd2946cab732ed4ccfe01581a8040f1fc43c3d83d61566a4f0cb8e1ec",
     "31a16f3243cd1de950b617489455c5180fef48dabfa64bd8a9d20dfadbc3a609",
@@ -4621,11 +4625,7 @@
     "7ff0ffc080226095a0299e37328b77f2f767445ec1dfe66006ecc7ef397107bb",
     "e734bafb13bed9f28e53ea11b72893e3d15c2ad175f9326cf38a0a4ef8d92892",
     "e9a84071ccdf5a88655cfacf09887ae62b25a5914fb6a79e8f16fb4011813fa8",
-    "bd7356dfe2311cc2b492d064c978f131067ed24b5685875155ddfd948c957887",
-    "63123bbbf66743a86761746d89236fa3f6bf7bc8cf001127559f236575f3c2d9",
-    "6bc4168af437be07d79611554d0a0432699694a671059cd63b070c354e067675",
-    "556afd5b163e3cc7aba4a68835447668e6924b7ca9ce25d2f737e65558f9b56c",
-    "7b8b1b5021982ba315d512f64bdecaf94dbbbc4fc23a52de3bb3a385335d09d1"
+    "bd7356dfe2311cc2b492d064c978f131067ed24b5685875155ddfd948c957887"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
