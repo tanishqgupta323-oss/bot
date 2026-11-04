@@ -667,24 +667,10 @@
   "calendar_fetched_at": "2026-11-04T04:15:53.891432+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 228,
+    "count": 229,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-21T07:31:09.117535+00:00",
-      "t": "Iran Vows to Retaliate Against Any US Strike on Pickaxe Mountain",
-      "w": [
-        "against",
-        "any",
-        "iran",
-        "mountain",
-        "pickaxe",
-        "retaliate",
-        "strike",
-        "vows"
-      ]
-    },
     {
       "at": "2026-10-21T08:25:39.877811+00:00",
       "t": "Report: Netanyahu planned massive Iran attack, but Trump blocked it",
@@ -3604,6 +3590,20 @@
         "sinks",
         "sweep"
       ]
+    },
+    {
+      "at": "2026-11-04T04:55:39.412282+00:00",
+      "t": "Democrats win control of Senate as US voters reject Trump’s agenda",
+      "w": [
+        "agenda",
+        "control",
+        "democrats",
+        "reject",
+        "senate",
+        "trump",
+        "voters",
+        "win"
+      ]
     }
   ],
   "resolved_events": [
@@ -3631,6 +3631,9 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "e9f38cac97ad813b4aa2ebc3aab4fb4917c2aacc1c5c473f83d4f22e827c0435",
+    "3f7934170828ce1f35588457f063f25a9de4f5ef95eeb0ea4d3565a3ad8b7dd9",
+    "bfa3d779b437dd99598abb298caa5ef873f740ad64b6301a330102e845615784",
     "194253bdfdb2069bedde78f8a1e05f8127f5aa7f9dd9ca66a715dc9ba7d68424",
     "6cd806d3b40bb6cc3e41e4534c559bf278a5769555b7e46dbe86893b8480af87",
     "a9ab15d29a16e2a1e92d996e55e87051596f30f4934abdd377150ca7cee1b4b6",
@@ -4627,10 +4630,7 @@
     "b3ca81e75046e90ac0ed33ed40cce1a8b9d388355e342615504085977077270d",
     "003a4b06c661002f78b5169ab18e06b11e0c6a0f41f0fc546f14d20b300affcd",
     "31365e965649a87724d05fcb51068eac0cde71e759ed3d1b37537471883f8d66",
-    "69eb20bddc990c4a915780051ba529f55cf625e5ade259a152f0c3902735c3e1",
-    "3fb96a33394d94df1d1cff7e34140f4f59eac4b1afc023e762b1c8c27065f044",
-    "10382af4aa581f0dd944672b83672a118bf359498c6c888b8d8e4f201fc38613",
-    "ed1aa3b22cb8d03b240e98a8fadc51f2250fcc9e84ea147a2fffc666d547f1c6"
+    "69eb20bddc990c4a915780051ba529f55cf625e5ade259a152f0c3902735c3e1"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

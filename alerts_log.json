@@ -13310,6 +13310,11 @@
     "EURUSD": -0.0338,
     "XAUUSD": -0.1342,
     "BTCUSD": 0.4001
+   },
+   "60": {
+    "EURUSD": -0.0562,
+    "XAUUSD": 0.1949,
+    "BTCUSD": 1.1574
    }
   },
   "checks_base": "published"
@@ -13326,6 +13331,20 @@
   "eurusd": "BULLISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Guardian",
+  "title": "Democrats win control of Senate as US voters reject Trump’s agenda",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZVR5eVp2VTVFS0JZWHQ5R3V3V2tsbi1pVG9QQngyel9TclVVVWhhR2ZYVnB3UmlORHZVbnFGN1pHa2dRYW5DMEQtSllYVVFHVXVaelg0Ujl0N3RzMjhOYkd4S01LSFVYQll3R1EtN2RuMFRqcEI3cTZBTGFBeEdTSU5fVFhzaDdYR1dkSmxwSUIxSHMwSUE?oc=5",
+  "published_at": "2026-11-04T04:47:00+00:00",
+  "sent_at": "2026-11-04T04:55:40.582988+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
   "checks": {}
  }
 ]
