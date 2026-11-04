@@ -667,25 +667,10 @@
   "calendar_fetched_at": "2026-11-04T04:15:53.891432+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 227,
+    "count": 228,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-21T01:05:36.591826+00:00",
-      "t": "Iran war live: US warns peace deal with Tehran is extremely difficult",
-      "w": [
-        "deal",
-        "difficult",
-        "extremely",
-        "iran",
-        "live",
-        "peace",
-        "tehran",
-        "war",
-        "warns"
-      ]
-    },
     {
       "at": "2026-10-21T07:31:09.117535+00:00",
       "t": "Iran Vows to Retaliate Against Any US Strike on Pickaxe Mountain",
@@ -3604,6 +3589,21 @@
         "strait",
         "tankers"
       ]
+    },
+    {
+      "at": "2026-11-04T04:50:49.906369+00:00",
+      "t": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
+      "w": [
+        "700",
+        "bets",
+        "bitcoin",
+        "briefly",
+        "democratic",
+        "markets",
+        "rattle",
+        "sinks",
+        "sweep"
+      ]
     }
   ],
   "resolved_events": [
@@ -3631,6 +3631,12 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "194253bdfdb2069bedde78f8a1e05f8127f5aa7f9dd9ca66a715dc9ba7d68424",
+    "6cd806d3b40bb6cc3e41e4534c559bf278a5769555b7e46dbe86893b8480af87",
+    "a9ab15d29a16e2a1e92d996e55e87051596f30f4934abdd377150ca7cee1b4b6",
+    "1bf316d6e99aecdefe62816a8225d7769ede06b2c9d89f629344c86344c1b61f",
+    "c427ab23e7843f6dae19d4a7b020bcb0ce4dad1bdf7753951baaed81bf075b56",
+    "48b3998ac3d2b334b0b1bf82ae063a5e8917daef528208e3876af9f8e02d6cc2",
     "b65cecec60e930ba519a95177a23faf60e47603b5067809b07d928298e38bbf4",
     "6bcd83eeda4b88b532168fd0a7f681c9f2bcb8056a8abf919fb7bbc09d5d11c5",
     "b176c11042b927017772b8eb0d6bb8ce01bdab7158648c48fbaf97b667dc44ca",
@@ -4624,13 +4630,7 @@
     "69eb20bddc990c4a915780051ba529f55cf625e5ade259a152f0c3902735c3e1",
     "3fb96a33394d94df1d1cff7e34140f4f59eac4b1afc023e762b1c8c27065f044",
     "10382af4aa581f0dd944672b83672a118bf359498c6c888b8d8e4f201fc38613",
-    "ed1aa3b22cb8d03b240e98a8fadc51f2250fcc9e84ea147a2fffc666d547f1c6",
-    "100feca635eadabfbb39d9261ec6feaf4d032120c0dc848020eecc0b562eafcb",
-    "59129b0d10329c1ce1c87c81c9e498e04a3115af8529e26df3e8e0941639f7db",
-    "2ec8eb6d3a01d6d71ccbf5aed308f21d74be48c63a6b4820e42e2a2c8201e808",
-    "00446032099e4dbf789882756ec008790e606521ff7499e75f17ac93a7b8a829",
-    "da9780c64039238025b276d305c6f387d2e21acf742c1149c26b382c8a2ec108",
-    "bfa3d779b437dd99598abb298caa5ef873f740ad64b6301a330102e845615784"
+    "ed1aa3b22cb8d03b240e98a8fadc51f2250fcc9e84ea147a2fffc666d547f1c6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

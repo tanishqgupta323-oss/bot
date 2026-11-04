@@ -13258,6 +13258,11 @@
     "EURUSD": -0.0787,
     "XAUUSD": 0.0329,
     "BTCUSD": 0.27
+   },
+   "60": {
+    "EURUSD": -0.0112,
+    "XAUUSD": 0.1064,
+    "BTCUSD": 0.8028
    }
   },
   "checks_base": "published"
@@ -13308,5 +13313,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
+  "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
+  "published_at": "2026-11-04T04:48:16+00:00",
+  "sent_at": "2026-11-04T04:50:50.834553+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
