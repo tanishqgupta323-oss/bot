@@ -667,25 +667,10 @@
   "calendar_fetched_at": "2026-11-04T07:15:54.129536+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 7,
+    "count": 8,
     "day": "2026-11-04"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-21T10:05:37.910603+00:00",
-      "t": "Bitcoin rallies on US-Iran deal hopes amid increasingly positive reports. What's next?",
-      "w": [
-        "bitcoin",
-        "deal",
-        "hopes",
-        "increasingly",
-        "iran",
-        "next",
-        "positive",
-        "rallies",
-        "reports"
-      ]
-    },
     {
       "at": "2026-10-21T21:10:49.584102+00:00",
       "t": "U.S. troops and diplomats evacuating Middle East posts, sources say",
@@ -3604,6 +3589,20 @@
         "trump",
         "whole"
       ]
+    },
+    {
+      "at": "2026-11-04T08:40:59.346095+00:00",
+      "t": "Gold Climbs on Softer Dollar, Falling Treasury Yields After U.S. Midterms",
+      "w": [
+        "climbs",
+        "dollar",
+        "falling",
+        "gold",
+        "midterms",
+        "softer",
+        "treasury",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3631,6 +3630,17 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "f4753e280ab397f4da9a5f775ecc3a79b2973381a46f083ad9b01018b8a5dd3c",
+    "433e1eb9f1d136597cccdf623ea23b114a7fa2183aa112dbd548da9b971797cb",
+    "8f5fee779850d02be2ca8451ef940e2e3e69d8a983f25b675a2aa3fe2b07098b",
+    "0363ba8ad8cc95227993a93a52608a1b1a639e205abb36de6acb428182a0fa28",
+    "3c49089ad8098fc44462c2aac80a9892dd1d2c441e011c24959526f7c9c2bf34",
+    "8d44e547872497ff89017ce963c51112e4de4cd204118a865d929801436d0d0c",
+    "ede4d5b50ee6ddb44c466040de28b551b3abd15c6849e6c5cdfd4dd2e4756296",
+    "deaaff3a21d21a28930f2044ab90ac6ce56be7f23f31bf8312d19fe5ddd22194",
+    "276322e5d6b7cde9bdbba2ed764a5f2a8a6c025da96ff80f9675b18793da13a2",
+    "32994e701c0e6d24cfe08d3ff3310c463f8d253d47e4e3182c670890c88fd058",
+    "f0df221f24621b84312bce56838b8608ffa74e4cda602c5b199a778d5588ed47",
     "33fbbc5fda9da33dd32ea222afc624e0b01799b17b4ebefe1c28c91274535191",
     "4653b774fd437518193dd37c0ecaa77e926c1dc9581bbd1f2380a891da2f9e3d",
     "e44be5caa787c60871edc597b711d2730b6f0e9d795b3902762906e713f50e86",
@@ -4619,18 +4629,7 @@
     "081f4bd465f4ddd483d5c07dba4fadc6b8376e410b9ab032baebb92f9c49a698",
     "fc98fe4193f1d7565b701bdb9f45ab6bcae4967cec090caf03efcb65b9a8818a",
     "5b4be60f8668c6ae007e8360e4b7fe9a38804cf60e7435fef114b3b11b41b7f7",
-    "ba10769188d291dcdfb6977c59c634635fd7366aceb7ec600c2cf126c0438ad0",
-    "32f046a4e69b9f38e5d21377476da6c3aa3278e7e26ef851375aa847b49055e8",
-    "52ae858e3e3cd89a9270a098c361cb8f8f7fbd6303e61d10be6c10ff99f14401",
-    "f37be1836d1a9ba91aac60579e9e3edbdd81896c6a47427aceee02f5e9ca1f88",
-    "81caae4e85a7706bfd403168b4a2a4d06fdf5c8bf6119d36388a681c15fdc4f5",
-    "151458f7b6ebf7e313f6b37f2c46dfe03b544f7204b4fc805b0fb9cb56a31b77",
-    "fed83f7ae975cbce4861fe55ea5bbb1fe90730916af0a605221cf41b283095bc",
-    "ac1a1b0545611c2490b1e5a0809c3f60e9f0d2dc265f0c587a788ebd3327d6a9",
-    "4beb40ec5ac75f47151797c18ce5d1829243a0696d995ac93c7acee20ef3f85f",
-    "83312f2242182c30df2f4993e9ccf3312d5c552ef5e4c0a3957f16a984af2c51",
-    "b168d8b7f8d7f5ed1ea967a48e2a7971a0fb31d1ebb44effa756bbfb63be39e9",
-    "6c54762b03943ac9ff23f186d45143aff44fea5bf25f7515d6e158f13219e8d3"
+    "ba10769188d291dcdfb6977c59c634635fd7366aceb7ec600c2cf126c0438ad0"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
