@@ -13248,6 +13248,39 @@
   "eurusd": "BULLISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": -0.0787,
+    "XAUUSD": 0.0329,
+    "BTCUSD": 0.27
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "ABC News",
+  "title": "Trump gives Iran a 10-day timeline in Board of Peace meeting on whether he'll continue talks or strike",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWRiejdkUVhEY1VkQ2hySENucE5Yb3FqMWZFZmcyelpmd2x3R0ZxWmNYSnZDM0ZsZFMxc0NIeS1VM0kyVXhBOS0taDB4bjdRS0x2dTJJbHkwaWNSSVNwbWpHQkRmLWhTeGpCQUl4bnVyc0c4dVpXLURQNTRTVUdhUzN2aklDeXFSN0tjVGw0b3ZpV3hXM2RLS2N3?oc=5",
+  "published_at": "2026-11-04T01:23:01+00:00",
+  "sent_at": "2026-11-04T04:01:26.205038+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.1239,
+    "XAUUSD": 0.2828,
+    "BTCUSD": 0.0778
+   },
+   "60": {
+    "EURUSD": 0.0112,
+    "XAUUSD": -0.2752,
+    "BTCUSD": -0.1688
+   }
+  },
+  "checks_base": "published"
  }
 ]

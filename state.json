@@ -667,28 +667,10 @@
   "calendar_fetched_at": "2026-11-04T01:10:58.026800+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 217,
+    "count": 218,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-20T10:05:39.578233+00:00",
-      "t": "Crude oil surges further amid Houthis attacks on Saudi energy targets and stalled US-Iran negotiations",
-      "w": [
-        "attacks",
-        "crude",
-        "energy",
-        "further",
-        "houthis",
-        "iran",
-        "negotiations",
-        "oil",
-        "saudi",
-        "stalled",
-        "surges",
-        "targets"
-      ]
-    },
     {
       "at": "2026-10-20T12:50:55.248684+00:00",
       "t": "Fed to skip October but raise rates again in December, nearly all economists say",
@@ -3603,6 +3585,24 @@
         "strikes",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-04T04:01:25.012568+00:00",
+      "t": "Trump gives Iran a 10-day timeline in Board of Peace meeting on whether he'll continue talks or strike",
+      "w": [
+        "board",
+        "continue",
+        "day",
+        "gives",
+        "iran",
+        "meeting",
+        "peace",
+        "strike",
+        "talks",
+        "timeline",
+        "trump",
+        "whether"
+      ]
     }
   ],
   "resolved_events": [
@@ -3630,6 +3630,14 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "8fd752b05ddd320de05fa56a8dd0dcb9de903fde94c2dea3450bd4046151e0db",
+    "b3f45e322e0c866d1fa1fa6734511929de78920e1aac72634b33ea6276db0755",
+    "04e7e747a97194075f40b12d5411aceca918d20d6839bc61ca7ad02bae11f06d",
+    "9d98eb27a1487b6966763da6c40ec7baa85bc2d42a75cab3d43afdd076f98f75",
+    "51085e253c6365f6a78364eca8bf2493352dadc57ae06cdee6b41b4c438fee17",
+    "a774db9bcb26d3e21e1dfe900dff9b5e4942f1f976c3ba256b7ad5005084ced5",
+    "cd3c0f16155a2e21246014fbeffb115a401963f6225521b81d305065d8aa301a",
+    "a9f466b3efacd003e771caf5dbcb3eda413228fd3511bcc9927f3f8b44d3932d",
     "ce6cef615fe9b37ee8ec53f67fb8a7e564dae5c13436fb1068c22284f1d37adb",
     "44239bc2a702344575aacb12591cd1af7946013b058cba42aed950feee0cd6aa",
     "b2d540586eb99631810a6e3d1a23352afd4bc76cffd7f2a50e6d1e58846d7ce8",
@@ -4621,15 +4629,7 @@
     "00e90f6d2300e4c73a6a86a1d0de5104b09d10ad72b3f176952d4811b942b4f1",
     "69532906581b97013f4d054e09c08a13f1f34657f057220ef12f632cb876ea73",
     "f0b874e3dfc623d67010fe9c3b16516a5036f31d735a8b7465d7775205a82dbb",
-    "479778abf28cf5abf99fdf9179b6f4941b15a2a6a8039cb3b2368ceec3583a23",
-    "021e6bf9b5e35c0eddb45ce96f6223105655e33529b920282610789656595250",
-    "39b7a2a7eb6821738eaab875851a0fac52345a66dc44a9de479045cfdfacd96d",
-    "e92ac042d0d7bb521c09b09ad74bd30a898ee5e5790cd738e0360afcfec1c6c4",
-    "b643f549cbe85d7f0a78d1d6a45e04a0a4dd83592846d5da389a76ba22f39dd3",
-    "1e4e8dc31f194e0f96bd4c5fdf4f915f9888304cc5cee210cc028dbd34a5d23d",
-    "ffbc71c98b14d5c8da1263683ad234116c633658987558ddd351b622e78a3122",
-    "621f64406d7a7e57a50be92ce26b45a95f6882aeed65313a99814f864d98d3bb",
-    "ca30e6d904fa482cd3099d4e0c7f1b332ff20acd73aa56a2d8600fe449ca2ac7"
+    "479778abf28cf5abf99fdf9179b6f4941b15a2a6a8039cb3b2368ceec3583a23"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
