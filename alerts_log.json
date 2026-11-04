@@ -13157,5 +13157,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Sell tech, sell USD and other signals from the massive blue wave that's unfolding",
+  "link": "https://investinglive.com/forex/sell-tech-sell-usd-and-other-signals-from-the-massive-blue-wave-that-s-unfolding/",
+  "published_at": "2026-11-04T01:53:46+00:00",
+  "sent_at": "2026-11-04T02:05:39.942448+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]

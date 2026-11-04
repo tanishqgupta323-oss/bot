@@ -667,23 +667,10 @@
   "calendar_fetched_at": "2026-11-04T01:10:58.026800+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 194,
+    "count": 195,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-19T16:50:50.393741+00:00",
-      "t": "Live Updates: Latest from Israel, Iran, and the Middle East",
-      "w": [
-        "east",
-        "iran",
-        "israel",
-        "latest",
-        "live",
-        "middle",
-        "updates"
-      ]
-    },
     {
       "at": "2026-10-20T08:05:42.082688+00:00",
       "t": "Trump slaps additional 50% tariff on certain Canadian goods",
@@ -3599,6 +3586,21 @@
         "trump",
         "wouldn"
       ]
+    },
+    {
+      "at": "2026-11-04T02:05:38.475876+00:00",
+      "t": "Sell tech, sell USD and other signals from the massive blue wave that's unfolding",
+      "w": [
+        "blue",
+        "massive",
+        "other",
+        "sell",
+        "signals",
+        "tech",
+        "unfolding",
+        "usd",
+        "wave"
+      ]
     }
   ],
   "resolved_events": [
@@ -3626,6 +3628,16 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "f0b190ccf948d57383d2d92902edc5041319274d3ff20c9e092316f09d803565",
+    "9a46273e7a6ac15c652d078ac94c9090b13539f90eb129266ec2b932ef171bb4",
+    "fb79961a2e30c4904f59cf8a4fb78cdfbf262f18b312dc3d314c5cc9ff13891e",
+    "de74e78707555e51b814b80a7a4cef3bd2755e8fb3450a942e50130db0bf6b3a",
+    "2804a1b2f5b11fd480f36ff35d82e4ca1e40d7870b1aee38d55f0b1685e63248",
+    "fc31ad7a91d3738d2bfc979b16278e3ac15acac18897b19ccd9acf0c78a3e862",
+    "f92003f3ad2f6385acb0d3406b9b4701c5077889cf439a3bd388574ee3d27fda",
+    "d067832fafdf68dd7d2dc61f9bca9c163b6c28bf990915c0e4c7d1b4951c9230",
+    "4ec5b286419a69b48dafb1afb3a92eabc4d0bfafd3957688040d7a22b8bbd6a7",
+    "fb47a9b32fec31dcff3c39a259d35fe1ea8524dcc85f2a70c450752b7ff5ca44",
     "cbf68f4a56792acc2c3374f7d75fe063db768b0ebe3b636a1f86a5d5e48d52fe",
     "a8d5bb27a7df91f6660bb29b630c1691dd295e26790cd5911ea93f27fbc86404",
     "9e6451d0662b84870a092a69537b0280b6d0a3910324020e208ed9090889254c",
@@ -4615,17 +4627,7 @@
     "ad032f85e03b1a30d6cb89089286494964d1294ecfe9970377e85ac60b976bff",
     "bd9d0f85d48ca12732ffba75e94f566bb273a76ddbc5a139a53dfb633212cae5",
     "59f0148f060649099ed25a900d8b68df8d7c018f33d346da1edcad645c38be0e",
-    "68fbce6260de75c3155653721019cf9569e1d8689e588fc85c237409f1896bfd",
-    "1099dadddb14312c6bdc5dfb3f8fe072bf252d528a53fcdedd54916d6f414f99",
-    "dbc2c0b8059be2da9820baa568d6d6afa6bbec0be689efa1fe32e3e2173571e2",
-    "0e1bd68bb684a633d4ba1c145b192e67d7e772535bbc7f6620c4d135e0cbafc9",
-    "2b255c8441b36be8f81449bb408807d238a3e321d490686a2e3c9f8a21fefc2f",
-    "62193a5e032a506e732102dd2dda5b636a4dd5f3f60dc412462d90e1aa36dc81",
-    "50bd1db650b923da2c00a520150a3f5c0f1490be0d7deb2eac4c02e3f18f742a",
-    "7ad5647f55ae501759b3613f60c257b37d2e36065023746a9918d12b76625351",
-    "7b708e50b05abd82a6330e2c94863009be4bb50eac247dda5be78ac8eb295bd2",
-    "d82e3c285fbead10efba233c7bbe918079dbaf0bc07562b9ad2bc89a426abeeb",
-    "20c030d14cd509379e711712ac67752a20e106894afb215fd816544cf2f01330"
+    "68fbce6260de75c3155653721019cf9569e1d8689e588fc85c237409f1896bfd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
