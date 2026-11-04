@@ -13474,5 +13474,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Washington Post",
+  "title": "Opinion | America’s rejection of Trump and the GOP was broad and deep",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZU1MdWd4Ri1Cb0R6ZWNOQ3dyMnNsQ1VwY1hzaHFwQ0Z0ZGl2anRmUlh1aUxoR29hOGcyWm5zRklIUzBNc0E4dTkzRlJqR1VlSzc5YWQxN2ZNWmIyeXJtRFdxZ3hTUGJjLTNlUW1IUHU1NGxUTDlhd2VvSW5lY1YzMXgxdHozWEhFZjluMnJLRUdNZVlyaTQzUEtzWS0tbDl4c1pVUlpRNA?oc=5",
+  "published_at": "2026-11-04T14:06:38+00:00",
+  "sent_at": "2026-11-04T14:11:06.973872+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

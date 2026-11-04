@@ -667,23 +667,10 @@
   "calendar_fetched_at": "2026-11-04T13:25:38.010687+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 63,
+    "count": 64,
     "day": "2026-11-04"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-21T23:25:36.208673+00:00",
-      "t": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
-      "w": [
-        "draw",
-        "elections",
-        "iran",
-        "israel",
-        "plans",
-        "renewed",
-        "strikes"
-      ]
-    },
     {
       "at": "2026-10-22T01:20:49.022580+00:00",
       "t": "Gold falls near $4,115 as Saudi attacks fuel inflation, Fed outlook in focus",
@@ -3603,6 +3590,19 @@
         "jump",
         "october"
       ]
+    },
+    {
+      "at": "2026-11-04T14:10:51.464857+00:00",
+      "t": "Opinion | America’s rejection of Trump and the GOP was broad and deep",
+      "w": [
+        "america",
+        "broad",
+        "deep",
+        "gop",
+        "opinion",
+        "rejection",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3630,6 +3630,7 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "8e8abb5b053753b7cad43fdd5e9c3ee4b211730931eacc62128524e73ecabd55",
     "f0ebdbfee7d90492c0dd6f17a465adb69d35e50206de5f8ae71405ccc36a33a9",
     "d99a7cb38ae587ac367c887975b289aa44ee88861d2d650b2b4190aa98a378d0",
     "ad6008ceb5f8441fb80a65ce6735269dbf618ad06de95c14f890089d60c7bd8d",
@@ -4628,8 +4629,7 @@
     "d1ec8b9c50e9b93af1426d5b7edcddf06070e5d3b0e6cbbfb29a8604b0ff8ca1",
     "3c56f25aec9710afc5f4fc4a40960acef038a0c01283a15634b80974843db1e7",
     "0468bd573088ab30b2735f1532d74d206bbbdc49cb3d354e37b6baedb197fe47",
-    "6041bcd240882f4bbcc0382684fee151c90c13ac7a615b4ec88a6a1004c6a66d",
-    "6237c14f0018000a636e877511e5a2a897864115a74c0e09a1f2efb7f158bb6d"
+    "6041bcd240882f4bbcc0382684fee151c90c13ac7a615b4ec88a6a1004c6a66d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
