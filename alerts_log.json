@@ -13209,5 +13209,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al-Monitor",
+  "title": "Democrats projected to win House as voters rebuke Trump’s Iran war",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTJjVGc3bFUxU29qbjMtU3BHRnozU2ZmdDB6RndPVUY5YjAyUHNxR3pWX2hSN1dOdWdrdVB2X2dQMzlyc2FsNkRIelR1QmdZSWtCRVozY0x5Z3Z3S2ZVTExheEZNdV9STU9mdnlWejAwemtpM0FIekFlN000dFh5dWpoUXVrRHNKQ1VtMldvZVlaMERpY0VIeFluMFZ2LW82UXYteHJobw?oc=5",
+  "published_at": "2026-11-04T03:13:54+00:00",
+  "sent_at": "2026-11-04T03:20:59.848388+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
