@@ -13409,6 +13409,27 @@
   "eurusd": "BULLISH",
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0788,
+    "XAUUSD": 0.2303,
+    "BTCUSD": 0.0597
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "ABC News",
+  "title": "Democrats projected to take Congress in blue wave fueled by Trump, economy discontent",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3h5ZzRXVWtsV05pYXV0al9Qem4wcFhReFV4YTVxNk1aZGwxT1kzZmVBbXpiOWN5ZjNPa2FFdGk0TzBlTUVyNU52djVZTllnWXZKQi05VTBtcTdhTW9NUXNWRDB6WmFpME0ySTBuTHdtUkJOcGpXeGhoaUN0WnVYV2JFOHIxZ0JBRGN4ZlFkOHd3VEd4X1FFTG9sWmltbXEwWFdNc3VBMV9Zc2_SAbABQVVfeXFMUHQ1b1daS3B1M1VNdWFVR2ZaekJxUGpwQ0lQNGdQUUM5T1NvTEp3bzhzd3liLVFYMmxoUE0tVlFCOTZxMEpILWhkLXZJMDJBU3N5cTdOX29LMy1rcFM2UFBUVUgzR0xVMTlDVm12c0p5d1loSVN6eGd4RDEwTWl0blFiQW40NTVsVGlieERXNHU0T0FyaFIwQVFFQ1lxc2dWQXNwVXZka0tHVmtNcE9VMGQ?oc=5",
+  "published_at": "2026-11-04T08:45:11+00:00",
+  "sent_at": "2026-11-04T08:50:51.275196+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]
