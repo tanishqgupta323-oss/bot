@@ -13440,6 +13440,11 @@
     "EURUSD": -0.045,
     "XAUUSD": -0.047,
     "BTCUSD": 0.0706
+   },
+   "60": {
+    "EURUSD": 0.0451,
+    "XAUUSD": 0.2003,
+    "BTCUSD": 0.0141
    }
   },
   "checks_base": "published"
