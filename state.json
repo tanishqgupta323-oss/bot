@@ -667,26 +667,10 @@
   "calendar_fetched_at": "2026-11-04T01:10:58.026800+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 214,
+    "count": 215,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-20T09:31:10.705943+00:00",
-      "t": "Bitcoin dips below $82,000 as elevated oil prices, Fed outlook weigh",
-      "w": [
-        "000",
-        "below",
-        "bitcoin",
-        "dips",
-        "elevated",
-        "fed",
-        "oil",
-        "outlook",
-        "prices",
-        "weigh"
-      ]
-    },
     {
       "at": "2026-10-20T10:05:39.578233+00:00",
       "t": "Crude oil surges further amid Houthis attacks on Saudi energy targets and stalled US-Iran negotiations",
@@ -3604,6 +3588,21 @@
         "war",
         "win"
       ]
+    },
+    {
+      "at": "2026-11-04T03:45:54.567034+00:00",
+      "t": "Qatar says remains ‘hopeful’ of a US-Iran deal; Trump confirms strikes on Qeshm",
+      "w": [
+        "confirms",
+        "deal",
+        "hopeful",
+        "iran",
+        "qatar",
+        "qeshm",
+        "remains",
+        "strikes",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3631,6 +3630,12 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "84f66dc9e56b1c0c9dd171bfb23a94a9d685a32cc6b7b07e22a5dedb86bc3f3b",
+    "e6a6b68867d47a7ff6e603ca58c1915ae3f1199e8e981357f9e465a86fb8668e",
+    "79697de871025bd4b10fb38ec20ba2b0b27f5b0805bed6a0fb1d0f9eb1f41e4f",
+    "77cf07e73b7035b881cac682fcb2a644c9050d5ab31694025d89527744ae2687",
+    "a5e91b0cb70e178a5082009f5e7f95754fabc930a8b55d1aea2c257d373fcc77",
+    "601cd0763a30674c17756474166eba9992ece381c67d2f85614c307bd8afce80",
     "835dcf0cf2f0b0c28ca697bef72eb76234062eef66c1b25124cac4290e1d6649",
     "edf68e2820f05366e52aa76aa0b19ec1f6b63280d9b1ce454448420e2ece8831",
     "804b8197a32dd7d6ce0b29b6d0cc5561d7a349e88265ddfa40fb0b57f20fda57",
@@ -4624,13 +4629,7 @@
     "cb3db433384afb840c2005e627fc0256c992134ecb5fc685519c7ccc01ad4e01",
     "bbd61b75c09680dc836873d57c48df33c765e080f3188b2504588a8670648ff5",
     "ca2e067b0c00523ec3b2c1ba8423291aefcfe9cfed916ff34726bbb65cf38d63",
-    "74367db08fb872838bc715f31ddf8b0e4b2643139d915a245dd24d365f869e03",
-    "408bbcab06106713fa9a32dfe1e7fcf7651e8fd0bbe344317d7d78fd4fb7dc38",
-    "ccdff694e85577c8440d5543be03ce82789268da1b959e77d74e1fb687dc8771",
-    "3123d46de9d62d98070e2ce099e88a905b60040c4000b6455ef9749d3f1e0f7b",
-    "f3bc66e128fa6bbd616d2f36b3595469964bfca268d35201937a08c5ab61a64e",
-    "312b829a693623f5c4c68681b1651463b9a014dbc3f7fd80b351ba70907e800d",
-    "646b9534ca16ed42c0c38806e7f61b1246d39388009b6f51163a6099555b6332"
+    "74367db08fb872838bc715f31ddf8b0e4b2643139d915a245dd24d365f869e03"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

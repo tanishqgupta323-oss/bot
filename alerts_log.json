@@ -13235,5 +13235,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "アラブニュース",
+  "title": "Qatar says remains ‘hopeful’ of a US-Iran deal; Trump confirms strikes on Qeshm",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1FxOGZRWE1reUZ5Nk01Q1hvY3RSYjdENUtCUWkwWEJCemtUdUM5YWZ4clYySFhsVzFyV2NDWUVGTnRZMXdJeUVuNXcxTlZNOUlXYVVHTWJvRlFXQk0zTXVVempQSU1mXzN1RDg2M3UxNkZMRUkyYTVES1VVX0YxS1JrV2o2aHI4R25VQmNyTllKdl9pV0dnRGdqc0FUaU1YUFJuOEVuSDVGZEZZajhDdzdXdmk0VUVuRmpRMVdtNjY?oc=5",
+  "published_at": "2026-11-04T03:43:56+00:00",
+  "sent_at": "2026-11-04T03:45:55.528031+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
