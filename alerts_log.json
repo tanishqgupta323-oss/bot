@@ -13188,5 +13188,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Update: Iran says Hormuz stays shut until demands met as US deal remains far off",
+  "link": "https://investinglive.com/commodities/update-iran-says-hormuz-stays-shut-until-demands-met-as-us-deal-remains-far-off/",
+  "published_at": "2026-11-04T02:26:30+00:00",
+  "sent_at": "2026-11-04T03:10:53.490792+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0563,
+    "XAUUSD": 0.1165,
+    "BTCUSD": 0.0219
+   }
+  },
+  "checks_base": "published"
  }
 ]
