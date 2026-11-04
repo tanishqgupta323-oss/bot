@@ -667,27 +667,10 @@
   "calendar_fetched_at": "2026-11-04T22:35:36.929424+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 157,
+    "count": 158,
     "day": "2026-11-04"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-22T01:20:49.022580+00:00",
-      "t": "Gold falls near $4,115 as Saudi attacks fuel inflation, Fed outlook in focus",
-      "w": [
-        "115",
-        "attacks",
-        "falls",
-        "fed",
-        "focus",
-        "fuel",
-        "gold",
-        "inflation",
-        "near",
-        "outlook",
-        "saudi"
-      ]
-    },
     {
       "at": "2026-10-22T04:15:45.313111+00:00",
       "t": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook",
@@ -3603,6 +3586,22 @@
         "rejection",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-04T23:05:35.599389+00:00",
+      "t": "Citi targets $5,000 gold as a Hormuz reopening could flip the Fed from hikes to cuts",
+      "w": [
+        "000",
+        "citi",
+        "cuts",
+        "fed",
+        "flip",
+        "gold",
+        "hikes",
+        "hormuz",
+        "reopening",
+        "targets"
+      ]
     }
   ],
   "resolved_events": [
@@ -3630,6 +3629,9 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "781f9a4b789696ee8c200bb63deb517f5ffba5c4205a86eec2ddd4400e9b2db1",
+    "d01f0247e98b6b8e711e6bb68505ae83be662fc63aa18ba0303c84ca9da1b559",
+    "09f154503f6c49de9323b37b71c52f9bfa125659b67d60424d395376a5955af7",
     "3755fc273a4f12d1eda82eab172b67905748ee714a30bd10bf0dca6f323515b7",
     "7547e3a98cfa716a12314a8550ddfaf00cb24d1d89246277e5314adbba45c46d",
     "42f565c51489ce8c32ce9bb5c7ee960e99e162e998f287f5357af031cfc3410a",
@@ -4626,10 +4628,7 @@
     "1c316a6ba6789296ba9a830388b8948c753c10b3c473217a285a2c5bcd071113",
     "c02260fd284623e94c498b01e0e00d54f41a87291757faa386820e92e52aae47",
     "caca2beb443ef88bbbbb9d3c66604c02fc8a68e7d95d0bf766f4b1c2fa070fba",
-    "2d0fb8a424e4bad81f6c8d96a3442b82e26c2051b681ea6dbf25778003f51a36",
-    "31c601bd2971954e710b29236e9ff55021eca8a3c4453f96976283764d668f06",
-    "95efaa3e8ed4663c046a9a130d8710b4a05e55469fcf129776243f292560f80f",
-    "fd1184cb8ee19b2944a1285af198d7a5826247c7f2b32619aa187d43389b5f15"
+    "2d0fb8a424e4bad81f6c8d96a3442b82e26c2051b681ea6dbf25778003f51a36"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

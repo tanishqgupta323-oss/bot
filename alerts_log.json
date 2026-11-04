@@ -13500,5 +13500,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Citi targets $5,000 gold as a Hormuz reopening could flip the Fed from hikes to cuts",
+  "link": "https://investinglive.com/commodities/citi-targets-5-000-gold-as-a-hormuz-reopening-could-flip-the-fed-from-hikes-to-cuts/",
+  "published_at": "2026-11-04T22:40:45+00:00",
+  "sent_at": "2026-11-04T23:05:37.140124+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0225,
+    "XAUUSD": null,
+    "BTCUSD": -0.1329
+   }
+  },
+  "checks_base": "published"
  }
 ]
