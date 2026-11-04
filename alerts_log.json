@@ -13295,6 +13295,13 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": -0.0338,
+    "XAUUSD": -0.1342,
+    "BTCUSD": 0.4001
+   }
+  },
+  "checks_base": "published"
  }
 ]
