@@ -359,7 +359,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "6a8efeb4e37d6d76880522bc",
-      "forecast": "-0.1M",
+      "forecast": "-1.7M",
       "impact": "LOW",
       "previous": "-1.9M",
       "scheduled_at": "2026-11-04T15:30:00+00:00",
@@ -502,7 +502,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "b6a6421d1b75b01f3e76ace2",
-      "forecast": "-",
+      "forecast": "81B",
       "impact": "LOW",
       "previous": "80B",
       "scheduled_at": "2026-11-05T15:30:00+00:00",
@@ -664,10 +664,10 @@
       "title": "Consumer Credit m/m"
     }
   ],
-  "calendar_fetched_at": "2026-11-03T22:10:56.505394+00:00",
+  "calendar_fetched_at": "2026-11-04T01:10:58.026800+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 186,
+    "count": 187,
     "day": "2026-11-03"
   },
   "recent_stories": [
@@ -3623,6 +3623,11 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "8f3063c9ccf20d960cf1b20e476eda4eb6ec1cbbd120d2ca97d0c01133fd2a62",
+    "74874545f9f8fa9fb2d412ad243e1c7778852044f2f240c9d649b0983b423e16",
+    "d9213d577a9b9c8feebaf68431789c786df6cd0fb3440902b5671d026ed30e57",
+    "8b899e69789e026c8294a825f0b44aa23d50e117ed2c49fc32b3b54cecf10f64",
+    "41bd7535985ebc7a411cefa471789c161929661fa760ead65cfc8ae9c000872d",
     "8e28fca41609f3f53fbb83949899290be786387b5cc88d76735d47f237be618f",
     "1e2d5da722e4ff35acf37714c1158dc36a72affca3ef47a4ee4ab3b7643407a7",
     "0e69e351b03b441a4d9a6bbd564b2e941bfb6f0b2d50db906755f4aca696412c",
@@ -4617,12 +4622,7 @@
     "da3406de000d6935a4267b2ba1b96e0ee11d10eac5126dd5a27aa1a3df99b813",
     "ef1485e7fdfc74659b4a85a1a88009a788707b3ef9a8cd7d2b0c5ebb923e7d8d",
     "f48e4d739a2e7fad4b822b1fbdab1d2bb026f91092f7171a0b369f54ae3245de",
-    "43b425e7727460fc430092dd0aab7bf7e2d00186504119d22483141f120da432",
-    "b8017c5c5c6a3d05657668189fddd61219750c133b33d06fa5fdb7ec7fdff971",
-    "71987fbaca290a8a0b5b40c03b53dee70c902aa4c0c82b53a807728c165825eb",
-    "eb2f6a4ac2925fd8736b69d670f0b571a6836c2e1e0678299aab258cc6e54734",
-    "4fb2fde78ec840cfcfa701ff6541b3c1d2cffe018ddcb351dac83eb716d7779a",
-    "fcd37b08594065d3994312b513fba2ca69a3073ef7a13eabeb86c71f92fcb581"
+    "43b425e7727460fc430092dd0aab7bf7e2d00186504119d22483141f120da432"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
