@@ -667,24 +667,10 @@
   "calendar_fetched_at": "2026-11-04T04:15:53.891432+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 253,
+    "count": 254,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-21T08:25:39.877811+00:00",
-      "t": "Report: Netanyahu planned massive Iran attack, but Trump blocked it",
-      "w": [
-        "attack",
-        "blocked",
-        "iran",
-        "massive",
-        "netanyahu",
-        "planned",
-        "report",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-21T10:05:37.910603+00:00",
       "t": "Bitcoin rallies on US-Iran deal hopes amid increasingly positive reports. What's next?",
@@ -3604,6 +3590,20 @@
         "voters",
         "win"
       ]
+    },
+    {
+      "at": "2026-11-04T07:10:54.998548+00:00",
+      "t": "Trump says 'we're blowing up the whole country' if no Iran deal is reached in 48 hours",
+      "w": [
+        "blowing",
+        "country",
+        "deal",
+        "hours",
+        "iran",
+        "reached",
+        "trump",
+        "whole"
+      ]
     }
   ],
   "resolved_events": [
@@ -3631,6 +3631,12 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "ea92045a315f144f8656e157d448853251230cd4ece4cf11ddb0c1b36203699e",
+    "64f02bac3da406500d6f25a1810e225737db95dca38d5e5eafa8a41c35e397f4",
+    "6ef2d52b88019794ae6f16b022dbb58f7ad3577e5425bd85df79e002eb5e974c",
+    "5d1c1a938d13ed4f535d0df777ce196e297d12ccc28640fa3acd71f1e3d74c42",
+    "001f50c1e76b895f536f586cb1f1db028f5b1027b42a809e01869fc67bb7df24",
+    "ad7a179cc21f12aa4e0470cf5009d8b7ae39dc8b86068f3285c60b5a663f751d",
     "2ec7cd4299e6c4fc051a620f7971dc15ec470b6c288a154714b904ea343917b3",
     "e7dd869b8ff2fae32897090ee2e3b20f95ebbd93560e3e5e5508282be086233c",
     "4c2ad8bf6c1f249e8c60518ec8fb3bb70640d2a6f083b293cfb72aec8535d4bc",
@@ -4624,13 +4630,7 @@
     "34b1f36ba9b4eccdd18da36cd39e309c2c5d2b4ae063c75f56bc85dcf605b6f7",
     "0963a17559456c6b44d585f647f4b300a3664f8b1a020aed17541607a4031a63",
     "06a2c174041fe82f28097f4d7095e2ea0294b5eeca0d67d209d8498ce9ab2230",
-    "280b2e3aca5ff3428f7f4e177b6b7d7208813a881dafdbd86762180a07c569ed",
-    "d9632ebb5eba2cc604b438d911c620d5f1d8a422d3b86b3c9b6f3146491905a4",
-    "368c9de85e843ee4ae59d42f7512f95f47bcc6e46fe42c3925df1e88e2f64132",
-    "da7e248329d5488504c473b40ff76414e6d836e7b670025456bc878996e3b147",
-    "3365905927e2380e43de6843a576d10a63989040e1df2cb643f6209722351f2e",
-    "38893061027ba267006eacf37032868fde5c711c3fb2ebbc8652dc5a2481782f",
-    "d8f94e7eee3805f8cdc7d08f4d35cc2ae85295d0f7f245c67668c1d2fd717d6b"
+    "280b2e3aca5ff3428f7f4e177b6b7d7208813a881dafdbd86762180a07c569ed"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
