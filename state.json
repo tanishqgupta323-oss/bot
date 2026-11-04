@@ -667,23 +667,10 @@
   "calendar_fetched_at": "2026-11-04T01:10:58.026800+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 188,
+    "count": 189,
     "day": "2026-11-03"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-19T12:40:48.940860+00:00",
-      "t": "Why BofA still sees an October Fed rate hike",
-      "w": [
-        "bofa",
-        "fed",
-        "hike",
-        "october",
-        "rate",
-        "sees",
-        "still"
-      ]
-    },
     {
       "at": "2026-10-19T16:50:50.393741+00:00",
       "t": "Live Updates: Latest from Israel, Iran, and the Middle East",
@@ -3596,6 +3583,22 @@
         "tells",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-04T01:35:43.912847+00:00",
+      "t": "Trump launches Iran strikes hours before midterms despite saying he wouldn't",
+      "w": [
+        "before",
+        "despite",
+        "hours",
+        "iran",
+        "launches",
+        "midterms",
+        "saying",
+        "strikes",
+        "trump",
+        "wouldn"
+      ]
     }
   ],
   "resolved_events": [
@@ -3623,6 +3626,15 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "ce04cb49c15fba784ab164340d415e41431b3a10bad879144254d7366ff87b65",
+    "7937ae964f3df102494a892f7c8dee14da97dfb82c6c0dafb2146eea1a338540",
+    "39ee1dae2275bbe0bd4fb3e4ae87b086fea26c37b7269401aba0093b7608cc84",
+    "230cf80863b2f8fb6ced41cc2836bd6a1edead510aaa91bc4f641ab24724ce3f",
+    "f19d2b7338947adb54c3e790590849c7d899b30e5c9badbb1fd68ba8a4b55b5a",
+    "571044732e22dc2f27f12917c7fc7aa6078ce06f670cb503a2954fd54b62aac6",
+    "d7c456fc6014c9a1a36001b5193d2793b327464c00d2683873876c08f4eb9455",
+    "c7ba0c00a1025c9b5185d11f040523d657ea77345e5b5ce5c5ae93f7581d8c08",
+    "0d72f3a2e34300263841b165935e8903baef46789ba3f948c78e14dbf2b4d7b0",
     "6656b955ab3f14ce9ac94446dfa8481cbc9c119b309fa4a60f1376160a44724d",
     "87b1c837422a2c6c98b919de1a6ee2188b9975908cb7c1b347156da3eca2a453",
     "2c0868f711c45bec5b5288b29018ea256c3d88782a27f63eb1072ce170596034",
@@ -4613,16 +4625,7 @@
     "93404931d76bdb0f1d1619b6689b666e43919a9326af496079504d83084eb71f",
     "d17a34074458f07daeba7ed28b8ab876f5ca7f67b37b426fa30809996c749f20",
     "2d4675ff8c56af9a74b537e4c2ee68ede5ef7a8c8ae0be6b9416d4a18771b48c",
-    "fa9d4bf9e4ad5665bfd8af2de3a2013716d9a1af50c8f82e1bcdbd171f08152b",
-    "3283ce3625a143c4978a30fc77e15e79e261ad40b9aa619615d5abcda29f14f8",
-    "81ea86352f7dfce43c7f1bcadd2314fe052a1c40511167421de6197046ebf086",
-    "7b008470ada9c93b6dbf3aef866f0f0e37f8c4746c00c303fd9c6a9e8488b971",
-    "b67b11e82ce13544d323d96cfda2612a691c4ad6a7e9b9bb73597444d7e80f1b",
-    "028ca6a432eab7db83e1944255f3162226cebc9f34552a1daf3bace164505fe3",
-    "70d286a9cec8f492a3269b2912bc7831fc4eb888f27061bada5625af21274fff",
-    "55855247fdb80d291e06162cb8000b48a14967a4eb88e9be2da46a808aa57470",
-    "93dbd10325993324ef0d19fd570385d56e8e290608779a2606cdd8a68f1705b8",
-    "b593d7d1ce75baab262c7d7bfd21366c60093824e6a52fb31b45bfbf87d65992"
+    "fa9d4bf9e4ad5665bfd8af2de3a2013716d9a1af50c8f82e1bcdbd171f08152b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -13136,5 +13136,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CBS News",
+  "title": "Trump launches Iran strikes hours before midterms despite saying he wouldn't",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTdIdHBSLXUzQkFHWGF1QXppcHFVZ25VSHF3TGNZRkNQcEVJaFgwdktKMGlnajZtTE9HUFlmQU0zUHJGODBidE9yUEdUN090NEswRDMtb0I4SDJCNVBlLWdhelRGcGwyNUJQWGdBaTVBclo5Sk02cUVxa0g4YldydjJ0NmQ5ZTZIcHJmSk1EZVBiWlFoaV9jR0pfWmsxb2VuSzB5dmE1MFRodw?oc=5",
+  "published_at": "2026-11-04T01:22:00+00:00",
+  "sent_at": "2026-11-04T01:35:45.069172+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
