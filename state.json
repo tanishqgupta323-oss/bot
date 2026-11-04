@@ -667,26 +667,10 @@
   "calendar_fetched_at": "2026-11-04T07:15:54.129536+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 25,
+    "count": 26,
     "day": "2026-11-04"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-21T22:15:53.188325+00:00",
-      "t": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "w": [
-        "agrees",
-        "call",
-        "hit",
-        "kyiv",
-        "missiles",
-        "peace",
-        "resume",
-        "russia",
-        "talks",
-        "ukraine"
-      ]
-    },
     {
       "at": "2026-10-21T23:25:36.208673+00:00",
       "t": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
@@ -3606,6 +3590,19 @@
         "trump",
         "wave"
       ]
+    },
+    {
+      "at": "2026-11-04T10:15:53.471328+00:00",
+      "t": "Eurozone October inflation accelerates to 4% as energy costs jump",
+      "w": [
+        "accelerates",
+        "costs",
+        "energy",
+        "eurozone",
+        "inflation",
+        "jump",
+        "october"
+      ]
     }
   ],
   "resolved_events": [
@@ -3633,6 +3630,17 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "31c60de50a53ab680856891c17b0fcaab5a55b760d5aa2eed36f5958dd4e8707",
+    "637b089e44227c9cd07aaf78f2dbfc12d94f6a955006a6b2d4da4c0afb323514",
+    "f8ca931612eb196844b048418991264bef89cdc8bc85740752ac679f66ebc6ec",
+    "1f45e5ed114587c8ded57b1384649bb4725b31a23c703fb60960661b418ff200",
+    "0d3bba937097da0b9d84d5ddc7b10cd588a1e77705965ecae1360e514cda139b",
+    "02802d78cb36e1f09dcd667975c558eda564fa794fc73c6ccb0b0d43878fa84e",
+    "53ac36b42d22aec9718d467adb0798576692dd32706b7d7ce5e222acae88b41c",
+    "b41fb9644da9819c11c67e7b11acd5ee86c9e0aa1e294185a42712320de66175",
+    "fda7944b85f3f33008d34c567cb1bae8ac7aabc58b1d664c4ea3adc584f540f1",
+    "d454585cf81d4d0f80305534370b0091b32d6d8d31014ea7c4900083040b39f7",
+    "f418c79f1cf64c7093e10ee3d26e5731e85e33bddfeb74bcac78a524e1130f06",
     "329a232c7f0d163546cae1e22443df5cfde0ed6f139958aa0e73c6af26354b1e",
     "232666339254303e18b634a708e547cc14067a8fa75d93145a76977e9b8072b2",
     "77f7acaa7cbbd693449159ca113d82c4f398869e385064c3530742e90e10f4eb",
@@ -4621,18 +4629,7 @@
     "7a6f5402aaa5b5f60935675dccc666b565774a6d70b2d7cebb392b635f6c7840",
     "94b36bebe2bca02307849050fe57ad023793bf605873fd8dbaaaf41dedfa8f8e",
     "01339e743d322bda0d2493ca8c1c75d30e20b33b59f3d0e49af2ed6e5334a3ee",
-    "1269f6c4a18dfafa18c88e41af63379449f452280ae600d4f96436afd702bd28",
-    "c6de1c43260d0f38e4f772d8f7eede527f11d006ec546a2587c232988cff73e5",
-    "c3a35deec0cd9ca9aed74d7ae27b473af2ce4fb82cd153cc7c1a296fb5338798",
-    "181bbe50c56ef90b62bfbdf9b90ab67ca1f511029d88fd9355e91b8d04e4f84e",
-    "89d2eac588c1ece64743fab3e28c2f5be9f7237b499cfdd21b9b688fafd10233",
-    "a4289d3efcd9993f484f5dcf7935ca6c688ea550a0670e75046ba38fc9682e1e",
-    "86379cfccba6696326f59b7d0fe7d10e37be1de11c955d39f2b8b7247e0dd885",
-    "67e4305a802a0b13aa22d9a0f4e26ea5065cb8c5ac710e887ea8ae1b250aecb4",
-    "fe3ea3a6f5a32be5560e5d6b403677867bbf5454d82a25714f16ebbc1e524a84",
-    "d780e624432c27941de29543537d4cdc2e0eeffb95a19d00a3becb836efa72e4",
-    "654aca3ae2bb9bf7bb2f0f581b1975e9c2c9a0e9ea43e781bd6537bb8c1fd1d8",
-    "fb3f631765042fc17116dc7fa8ef368d60ad18ee4528b5e7afcac9fc70b9bd0d"
+    "1269f6c4a18dfafa18c88e41af63379449f452280ae600d4f96436afd702bd28"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

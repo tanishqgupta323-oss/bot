@@ -13448,5 +13448,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Eurozone October inflation accelerates to 4% as energy costs jump",
+  "link": "https://www.investing.com/news/economic-indicators/eurozone-october-inflation-accelerates-to-4-as-energy-costs-jump-4998115",
+  "published_at": null,
+  "sent_at": "2026-11-04T10:15:54.450919+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
