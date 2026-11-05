@@ -13656,5 +13656,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "ECB looking at indicators to see if December hike needed, Lagarde says",
+  "link": "https://www.investing.com/news/economy-news/ecb-looking-at-indicators-to-see-if-december-hike-needed-lagarde-says-5005239",
+  "published_at": null,
+  "sent_at": "2026-11-05T17:20:48.115442+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]

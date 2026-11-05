@@ -667,25 +667,10 @@
   "calendar_fetched_at": "2026-11-05T16:50:45.598493+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 88,
+    "count": 89,
     "day": "2026-11-05"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-22T12:41:36.750358+00:00",
-      "t": "Jobless Claims Drop Below Expectations, Indicating Labor Market Strength",
-      "w": [
-        "below",
-        "claims",
-        "drop",
-        "expectations",
-        "indicating",
-        "jobless",
-        "labor",
-        "market",
-        "strength"
-      ]
-    },
     {
       "at": "2026-10-22T16:01:25.181561+00:00",
       "t": "Oil prices top $112 on worries of Iran-US escalations after midterms",
@@ -3602,6 +3587,20 @@
         "tech",
         "wipes"
       ]
+    },
+    {
+      "at": "2026-11-05T17:20:46.801746+00:00",
+      "t": "ECB looking at indicators to see if December hike needed, Lagarde says",
+      "w": [
+        "december",
+        "ecb",
+        "hike",
+        "indicators",
+        "lagarde",
+        "looking",
+        "needed",
+        "see"
+      ]
     }
   ],
   "resolved_events": [
@@ -3629,6 +3628,16 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "d44b9e63bf261dee6b557d82a3917e913b68a31de349986c1c0484fa79ee03e4",
+    "51a741ad2a6fbf06353c78c53f0dd680a27a550faa41593b6a488575aa6e58d2",
+    "77f4cea01db5072b801fe22c51dc60b341868a48d3f728893e55869395768ef1",
+    "8a2a86f4370bccc624b79a921c0f48fd168ee35072bfb4052e3c84dd4fdb0421",
+    "3f074a12cf8e6d99d0f614c7ea6b1d0110da661d19d2f712066745ee0ab1d8df",
+    "2186ba382ceb8087d819e9e3f59f2f25d5cbde0d4a7ea92353ed9999bf232d86",
+    "ab1b88a48a1af0e7c94adeb03d1e1dd5cf34b2f462e933ba4ea18934200294ee",
+    "9b85dc7640c81026eb58799bcd11ec4f70be29c9a4d48f7d4ec43dab382a210e",
+    "db41db1425080fb0a42ad7cafd4cb9e97ba0d603b1f8dabb600b22ac5566d803",
+    "96bce0c192485becec381a4c8d6da6c2034d702c8b413f74b65aa67ecf1753ab",
     "1bd69f735b81aa3587e07b0df0903909e3cc6e90a943c12e752affb19c1a2e2d",
     "ada46ecfc484c4dcf5ecc56c2b1596492728a05eb97abda766b28292d40f4569",
     "d60e2e208f5c9565023dff67e9526f07824ac94252c49b387d962ebbc71cf751",
@@ -4618,17 +4627,7 @@
     "5ecc0aa29f07abe0e958f3649eb5ee70d104dcaf28cb12740dad1da7de6c17a6",
     "a148817fee681c2be15ed5163c39e98910c259a0eae60c7ccd907b54212f0416",
     "9858f4a3827a1819d18d72f8cc132a6b06af6dd0224f466f69a491ba757b8925",
-    "f2d0c50355e5100a51c25e5f873bdb59038629b3657fd239ed1e7e5e7d3fafcf",
-    "5793b5fb1cc8070e7483a5e8bf663dfbe214ae464da8dc4b0d439c4f835bea6e",
-    "0684b41da760daea3d9247ccd51ebeb35c6f1d1ca930dced870330baab65c908",
-    "76a0be10f0a75bb9b26a947e007eaeb6d4a2560fdd74077021887cfa530c64c5",
-    "186fdab962b6e3d33f10239d51ec7554a0b4dcbe43b8dac55eecab8ee4037098",
-    "5339601a5fc6ce44df1da23c0fb18d482d5e436328868bb435002352d936708c",
-    "f57237b90340884532a302f74a2ad0f6ae468f8052839d9a05ce9fc31f48b0dc",
-    "9e8755be8c176c9cf9edcaeb14d8681d7993a27a9b34d421c78453df7d2369f2",
-    "d9ef0c6febda5a838cda031e159c97aac9b545d8eddcdd6c0d64f6f6c41d1166",
-    "a6feb085270d6106fef69b30d29f925f4244eac5df30094a46a87cccd84de7da",
-    "c4586d82acb8732dc4b21c11a3a0b57d0973ba93f81150c537d8438f79e6afe6"
+    "f2d0c50355e5100a51c25e5f873bdb59038629b3657fd239ed1e7e5e7d3fafcf"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
