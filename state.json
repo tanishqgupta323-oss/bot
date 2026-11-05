@@ -667,24 +667,10 @@
   "calendar_fetched_at": "2026-11-05T16:50:45.598493+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 99,
+    "count": 100,
     "day": "2026-11-05"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-22T16:01:25.181561+00:00",
-      "t": "Oil prices top $112 on worries of Iran-US escalations after midterms",
-      "w": [
-        "112",
-        "escalations",
-        "iran",
-        "midterms",
-        "oil",
-        "prices",
-        "top",
-        "worries"
-      ]
-    },
     {
       "at": "2026-10-22T18:50:49.556588+00:00",
       "t": "Reports: US and Israel Set to Restart Major Operations in Iran After Midterms",
@@ -3601,6 +3587,21 @@
         "needed",
         "see"
       ]
+    },
+    {
+      "at": "2026-11-05T18:10:47.293945+00:00",
+      "t": "Bitcoin tumbles below $76,000 as post-election stock rally fades",
+      "w": [
+        "000",
+        "below",
+        "bitcoin",
+        "election",
+        "fades",
+        "post",
+        "rally",
+        "stock",
+        "tumbles"
+      ]
     }
   ],
   "resolved_events": [
@@ -3628,6 +3629,10 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "e851f32e0a6ac6f614fa25a2a6b84b6036f46981454f23a7214963f8abeb4503",
+    "4b0dabc4e6717372469ee55850cc82da744c34f2f9eae0357fd4c34df1d32b35",
+    "a378bc357f1dd753e1a7e6b61320d35ad8961f11e2e880d77907e13b6e9de2b4",
+    "72c1dd22c0f8c8b4338f7d034c5cba131d0262a281d2be089f191415f39872dc",
     "d366c780ad562b55300402f15bc54c4011549e43709feae5f09f2b0dbca7a09c",
     "6ceb0c9d8bb3ba7b390bfc2b016fbf28bf86e657e6aff99c0cf1e08ab9b917c9",
     "f16b9eb13cae3e6f6615d0d213a6af5ef10687538b7fd01bdfa1f183da9b090b",
@@ -4623,11 +4628,7 @@
     "1c438a7be8b7fe5578ad50fe53df64059a4ed2e888d9a26970a40242f5096c23",
     "e65f7d0f45858b20fc524b9793ba79295a04fb7f32e1555cc6604243389de115",
     "048ce6e84ca15232454d3450091157cd84a8747d27891b7c8e4ace8a0d8e7b23",
-    "2da5dd8bc9841100e0bb4e75f5cf7d725d0927d1c39607b66419de6166e4f19c",
-    "fe654dbe4e173397682dd1342b3019cec25fb87b7cc4f5afcc26120db5fcd66a",
-    "0fcdcf433a37c45ccee70edab76403bd302884837e13f46f11ee2919a99af796",
-    "3bf288a87d8f3bdc8538f4cf152fcf403602be699a7ed1a6a79e74ae316ecb12",
-    "ad854be8f5d5158df92c1e0e0ba192080c277036621855ea1591473c058d6ae3"
+    "2da5dd8bc9841100e0bb4e75f5cf7d725d0927d1c39607b66419de6166e4f19c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
