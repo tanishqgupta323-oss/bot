@@ -402,6 +402,28 @@
     {
       "actual": "-",
       "currency": "EUR",
+      "event_id": "f616a5c553cf7713a33db4b4",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "4.18|1.6",
+      "scheduled_at": "2026-11-05T09:39:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "Spanish 10-y Bond Auction"
+    },
+    {
+      "actual": "-",
+      "currency": "EUR",
+      "event_id": "69545067828f9ab06e63ee41",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "4.93|2.0",
+      "scheduled_at": "2026-11-05T09:55:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "French 10-y Bond Auction"
+    },
+    {
+      "actual": "-",
+      "currency": "EUR",
       "event_id": "a80fdb5469b8a7f4da8e3eba",
       "forecast": "2.5%",
       "impact": "LOW",
@@ -409,28 +431,6 @@
       "scheduled_at": "2026-11-05T10:00:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "PPI m/m"
-    },
-    {
-      "actual": "-",
-      "currency": "EUR",
-      "event_id": "496b9e00168ce2acb77b7f40",
-      "forecast": "-",
-      "impact": "LOW",
-      "previous": "4.18|1.6",
-      "scheduled_at": "2026-11-05T10:03:00+00:00",
-      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
-      "title": "Spanish 10-y Bond Auction"
-    },
-    {
-      "actual": "-",
-      "currency": "EUR",
-      "event_id": "cb01afdb567d523a8b155b19",
-      "forecast": "-",
-      "impact": "LOW",
-      "previous": "4.93|2.0",
-      "scheduled_at": "2026-11-05T10:18:00+00:00",
-      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
-      "title": "French 10-y Bond Auction"
     },
     {
       "actual": "-",
@@ -664,10 +664,10 @@
       "title": "Consumer Credit m/m"
     }
   ],
-  "calendar_fetched_at": "2026-11-05T07:45:44.512799+00:00",
+  "calendar_fetched_at": "2026-11-05T10:45:45.337218+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 24,
+    "count": 25,
     "day": "2026-11-05"
   },
   "recent_stories": [
@@ -3630,6 +3630,9 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "58b211a961a928215522cbe85bf4733b0a67309d647b5d4952bbb4860b8a2e85",
+    "6c204ce815be3aab48ab3a2a06460325290a7f086a1f3672660cd009850f4747",
+    "fafad182f7fc15dd790fac677b986b2c46b936318f90933399b4c552763576c4",
     "6d05e9048db5631d569459acd4792069f45f019ffa153eacd9927c6656048f7e",
     "6d7d432957daa9c85941eaf09351ef1d00a32b1697a152712a7f81fa0e2a05fb",
     "0b79cf27e6140752ddcbac8aac6b7a769235b11ac15bab0845bf6cd1dca3486c",
@@ -4626,10 +4629,7 @@
     "7ddf4951ccdbf05a66c3a437797df4b009b6ab00f26b0cb2d3d75d7a96f93991",
     "990625fc5f444b5b4cfc141192e55f34dcbd77443c66f212fe08c4a7d2935615",
     "3f81ad56d8389b79da664b3d24718c45bc13ab8a75546350c67e3ad433a0b355",
-    "22535712f70e88ca9c96bc6601dce23cf5b2286398a50fe882d6640d251eefbd",
-    "a1efb4020cb0a789d02515869a476bfc6cb1c03b195da2876b408090ed9f3279",
-    "3ecff29ab0aa84b12549810eb44be1d6f72e042a0ba2e73bf8b7e857ff2e647f",
-    "f830ea414417d2bd231cc8352fa63bd5fd41933890b7eecf360c74438c357dbc"
+    "22535712f70e88ca9c96bc6601dce23cf5b2286398a50fe882d6640d251eefbd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
