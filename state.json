@@ -667,23 +667,10 @@
   "calendar_fetched_at": "2026-11-05T13:50:43.880601+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 80,
+    "count": 81,
     "day": "2026-11-05"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-22T10:50:49.675387+00:00",
-      "t": "Iran War: Latest News, Live Coverage and Video",
-      "w": [
-        "coverage",
-        "iran",
-        "latest",
-        "live",
-        "news",
-        "video",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-22T12:41:36.750358+00:00",
       "t": "Jobless Claims Drop Below Expectations, Indicating Labor Market Strength",
@@ -3600,6 +3587,21 @@
         "weekly",
         "year"
       ]
+    },
+    {
+      "at": "2026-11-05T16:40:45.780025+00:00",
+      "t": "Bitcoin Price Crashes Over 5% to $75,000 as Tech Rout Wipes Out Leveraged Longs",
+      "w": [
+        "000",
+        "bitcoin",
+        "crashes",
+        "leveraged",
+        "longs",
+        "price",
+        "rout",
+        "tech",
+        "wipes"
+      ]
     }
   ],
   "resolved_events": [
@@ -3627,6 +3629,25 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "5b827425454ac6c2f80578c07ca8cdffbd4ef31a579dbd8b65cf3746a4d42fd8",
+    "9325e87cc3f35554bc033c11ea66bd93c0e003b25f37019bd4128a14debd8b94",
+    "4f36af52a4b466519fb2fc102027dbdbf9bfb8aa9e51f14772759c766621c118",
+    "580f52b2b1af59db02510ffbf31c0f09005623cb99c463ce2619f26d4e76c94a",
+    "26f50b6fd4f3b692c483d6071d134f237ea4c21d1f1e4bf49e7bd88476a1360b",
+    "f6fa8e44ae50a15d0ad6d170efd936b2d011f32302575c474fddd056e2f05380",
+    "f3e66f7235a3b551120c9c765200b8df9f67c77d3d540a441ebf427f655f7dbc",
+    "2e582a1950bc8d13e37d1c6e19e8886041e042ac73f5653a529b35e8ebefbc50",
+    "28ad4f5326290ebad77916fe719570cc68276c21dfe9a3eb8832d04290daf76f",
+    "3345ade661c63f746610e4ad63ec85a36017e2ed50dc0c7f7b96a0e84abc6cc3",
+    "3ed2ffefec3cc346639d4809d5047fb9c4dc11b5c70dda65a607ee9cb8015799",
+    "50ae2cb521df0543443196b3b7c1e32d7d403b1b865536509f4ae54d3aac811a",
+    "ed977a91d43ce000df3dd6c3714d0d83c237f3e27d4084d28a6d7edcd1076a88",
+    "0f17feddeefdc51a265ae5a4e473fe6688b4c502efa60c25eb67e7d4429f07c7",
+    "88bee1ae0ad1c89aaa8c13dffac167625353506e4d09c617ed0915e634253351",
+    "4f30d4ec0f18188a862ab3871031f654e1ab44de7612c5e6e37e995f14391917",
+    "462b14f1305a43abced40493f43085b2012e8b7b5402498f4cb20195c8b51137",
+    "bdc43eb0785a8e9b45004283a4eb54ac400c2be24d4a1dd33dbb3a6071b1c1ff",
+    "d6240f8d7c9f147769540e50c01a998a78b6b8fd5ad8048b5e1f65975430f321",
     "2ec768d1ef586013b520fd51005e8b9cc79cbf71fcd46ee10c9ef62983afeff6",
     "fd153ebc8678b29a712787ee7f86d1764186a99fbbbda5a9f6f7337f80d0f662",
     "f1228942f3f99124ed8621ecf90a353c3bf97a255e285b8920ffa3231d905a7e",
@@ -4607,26 +4628,7 @@
     "cca2c9a82e616696f143917a46f0fa152df6b7e80e8591fdd3a08b900b24078b",
     "2d32a06ad76cf18a1fd031c2b3d4c14291d371f23656c5d63b0595c8dc8044e1",
     "ba6ceb593880a2b3aaad848b094c4d2c646beaaaaa4083b3eed05992faad2b2f",
-    "9a6259fcdceedf5c93dd984a986d36f2ef82cf5747c59b53d23e25e3aceb950e",
-    "eaac7fbd4898ae055a056dd5d608f71b168f68e5f536c2352c3df24e67ff2485",
-    "4e504d4f664bd47b59300c37f6cd68eb9ef69133b286e854b3f01ed3315fe3bf",
-    "bbfd9c245feab1687a98630679a24b9afaad8f68674acbdf221240672f9bf834",
-    "b90a2a4d6b8be984b23f553a6ac2b11b274a18aa0cbf6490a84546af5ec36ac7",
-    "110d4c17788499e220bae61cacff727b7e7ab1117c57b7289a8a595a4586611b",
-    "ada2b333031022cb4fe988a1a67fd19001400e152492899529bd8540aa73af90",
-    "4889d338eac16d727de46f4b3ae7c818eb344f4fae4c6189399de3fbea428a43",
-    "7edac5828499c7ea0563f6fe00f0d3e98b9f7ce54aed17e498de44fd3bb0d930",
-    "8a1cd5a1c76d4938fc9e0ebd2306ce228037de59db7396ceadc0db13c5218780",
-    "7f49f74e619b4cd17df87596950fd8c94b805c82403346e5377923075d011c33",
-    "db59ef18273817f2cb6b946374185607e10299d164bab1438ad4f80815ac24b9",
-    "0b7688594d4caadeb1c6e86e92b02d2d2eb2ab989cea88934e957b59008f920c",
-    "104f7708b10540311cddb89a3c335635dd4b7358edb298cbe8009dbbc8963ca2",
-    "7e97a582b4eb8d675dd0c3f608227bb2b3dbd3784fc4165c9e601985446e3c0b",
-    "650cb3871c22a4775bd3053319e8e2d98dacb7edb62d42a51da9516c31245978",
-    "033765739b90dcf74614336370efaddd879594e3c8186610ba28ad5523f68b7b",
-    "173e161640fd422ec44c9bafae9fa28ab567cb69d7c2f3b06f0b382843bb2035",
-    "7d493f4252531b5de4d97ce38e068e681904bb63143daa3f4f7c528e2451be4d",
-    "a604b6a77717365426d034162f88e86ba9e64637f63c77b79d966eb22f1096a7"
+    "9a6259fcdceedf5c93dd984a986d36f2ef82cf5747c59b53d23e25e3aceb950e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
