@@ -667,25 +667,10 @@
   "calendar_fetched_at": "2026-11-04T22:35:36.929424+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 171,
+    "count": 172,
     "day": "2026-11-04"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-22T04:15:45.313111+00:00",
-      "t": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook",
-      "w": [
-        "drops",
-        "gold",
-        "higher",
-        "longer",
-        "oil",
-        "outlook",
-        "rally",
-        "rate",
-        "reinforces"
-      ]
-    },
     {
       "at": "2026-10-22T04:45:46.615927+00:00",
       "t": "Trump says US ‘not negotiating’ with Iran, something will happen ‘fairly soon’",
@@ -3602,6 +3587,17 @@
         "reopening",
         "targets"
       ]
+    },
+    {
+      "at": "2026-11-05T00:40:45.543962+00:00",
+      "t": "Can Democrats in Congress end the war in Iran?",
+      "w": [
+        "congress",
+        "democrats",
+        "end",
+        "iran",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3629,6 +3625,8 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "e6a7519f497d70defcb0334dea42035ef3eb0e464f14ba51a9605257a0b2d80e",
+    "5a08f91d725c74b43fa0e26557223e33b16819b32bcd6ea288f6e2a54f63129f",
     "4c13673e1a7e216c3f6b19cbb7f726b44da0a1d3af2f60f561c669d2cab358b2",
     "57b61b13dbdc382ba7956422b1c8719d6feb1e22725ce0a52543eb8032c0501d",
     "a9b49a690ec17b5a3c8a189aa13754b0896afda2c5130cd6b0f3c3f01c13e045",
@@ -4626,9 +4624,7 @@
     "563d96c961789b7ee6f42da120b37440393a7fd0f7d4000922fdf561af938db4",
     "50321b56bc47938d1c179039f09bf238320c3b9d896621a5afa8b1f72a38b1ad",
     "9f007b8911b68a45514524c7279b603f4786f373b8a03fabdf190d32bd66b942",
-    "f1b5c77952f6c90c2034fbf1ecd89a50db33bf372287fbe5ce79a840d60468aa",
-    "7f7d158cc2736f14d5ad334c9d8dd236a40fd09e1f9398d2ce86f8111111f680",
-    "87c77599a1fa675deefd8591b2a0da17c3cd7e716e3af35b1be1d683aa6ae803"
+    "f1b5c77952f6c90c2034fbf1ecd89a50db33bf372287fbe5ce79a840d60468aa"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

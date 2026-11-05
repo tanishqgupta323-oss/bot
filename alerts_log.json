@@ -13526,5 +13526,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "BBC",
+  "title": "Can Democrats in Congress end the war in Iran?",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yYk05dUpUT2ZHS3ZVeHhlRkRLOFU3dG9xeHpVUlI5RE1qMV80eUVXTDNmMndhc0xiQ09JX3ZpYVAxR0M0SEptdHQySVk0RXM2aW8tSFhjdlM?oc=5",
+  "published_at": "2026-11-04T22:14:41+00:00",
+  "sent_at": "2026-11-05T00:40:46.508902+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": null,
+    "BTCUSD": 0.2601
+   },
+   "60": {
+    "EURUSD": 0.0337,
+    "XAUUSD": null,
+    "BTCUSD": 0.1004
+   }
+  },
+  "checks_base": "published"
  }
 ]
