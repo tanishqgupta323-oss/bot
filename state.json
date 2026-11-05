@@ -667,24 +667,10 @@
   "calendar_fetched_at": "2026-11-05T01:40:46.876880+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 187,
+    "count": 188,
     "day": "2026-11-04"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-22T05:01:21.207634+00:00",
-      "t": "Iran’s Navy says seven vessels hit, warns US of wider response",
-      "w": [
-        "hit",
-        "iran",
-        "navy",
-        "response",
-        "seven",
-        "vessels",
-        "warns",
-        "wider"
-      ]
-    },
     {
       "at": "2026-10-22T07:15:47.954643+00:00",
       "t": "Iran says 7 tankers on fire or damaged overnight in the Strait of Hormuz, and other Mideast news",
@@ -3601,6 +3587,22 @@
         "trump",
         "white"
       ]
+    },
+    {
+      "at": "2026-11-05T02:20:45.234077+00:00",
+      "t": "Gold extends rally above $4,100 as dollar, Treasury yields fall after U.S. vote",
+      "w": [
+        "100",
+        "above",
+        "dollar",
+        "extends",
+        "fall",
+        "gold",
+        "rally",
+        "treasury",
+        "vote",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3628,6 +3630,16 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "4e7c1239794124caa9f11b66a98ab8099c99d09d88c9de1f9a295490a171c358",
+    "0bef75f396ed4316029acb37e40efdcda51320ca7dc0ce13e04b70ad3bba335d",
+    "07026670df69384a157a9d95fea2391e528480bb1cb8f8fdc5b9e8670013453b",
+    "fecf892631781e22b7d1e22b9f000184e65f3ffcbec9cc05c06ce6d71b422921",
+    "ae88c480825449ca45fd1f9beae08a649aea3ed0b6db7f40923021dcd297bb45",
+    "f270397b7365e577d1e376af5892e72ddf3412b868725ce23b429b1636b3cb19",
+    "92a20735f4ce1c243e509986d2e7845a8f4c32c349d78221c8d5c4f60567262c",
+    "03dd8910a7afb22c7c8801daf82fa8a5d18e39f7cfd59ce65604885b17632b83",
+    "ced8aa4dd1640df99cb6f66809f5f298b9f0611da35e06cb4cf1481bb3d9b30a",
+    "c5105bda3b8964fb9fbf94a0e5a93bc3ae5c3f06c3e93529796530eef99b5684",
     "e65add0bef8126baa29b7d6b4d87de854f788468bd825eb7aa4a434200857447",
     "93d2788551535bf5792cdb61d787937c56a1ad2c77c7b0ce4ce1f5ea411b6aff",
     "b6fc1456fb2bd9d4571f88ad83f5c063f0e9d7ff9ca494856775ec5de1e6ba60",
@@ -4617,17 +4629,7 @@
     "a7fad5bb7460825b3f3b7a83345cd4e85fcd0225f83193943989c8ddd4b9a6ec",
     "8c2ca3c5d17123b7c182f1f7608eca738c5f9a1cce04fad155503b3a0a5c6db7",
     "3dfd481880d83c9409e9174a1eeece6e84b0b79ac2a37a45fa3d92a1da3e0a82",
-    "7b81150f86059498ae48c2db250ee3bb639eb736fc121a4ddff2df95051d4677",
-    "8d35a32d48792c57fb34cee70581fbdf0c09bbeadb8acc9b725bde9eec55b9ce",
-    "7ad5647f55ae501759b3613f60c257b37d2e36065023746a9918d12b76625351",
-    "7b708e50b05abd82a6330e2c94863009be4bb50eac247dda5be78ac8eb295bd2",
-    "50bd1db650b923da2c00a520150a3f5c0f1490be0d7deb2eac4c02e3f18f742a",
-    "d82e3c285fbead10efba233c7bbe918079dbaf0bc07562b9ad2bc89a426abeeb",
-    "54dedb8f843b591e8173846821a10fa1c7fbfca36608b1b4f38787d28936dc7b",
-    "d9632ebb5eba2cc604b438d911c620d5f1d8a422d3b86b3c9b6f3146491905a4",
-    "ea92045a315f144f8656e157d448853251230cd4ece4cf11ddb0c1b36203699e",
-    "64f02bac3da406500d6f25a1810e225737db95dca38d5e5eafa8a41c35e397f4",
-    "6ef2d52b88019794ae6f16b022dbb58f7ad3577e5425bd85df79e002eb5e974c"
+    "7b81150f86059498ae48c2db250ee3bb639eb736fc121a4ddff2df95051d4677"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -13578,5 +13578,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Gold extends rally above $4,100 as dollar, Treasury yields fall after U.S. vote",
+  "link": "https://www.investing.com/news/commodities-news/gold-extends-rally-above-4100-as-dollar-treasury-yields-fall-after-us-vote-5002012",
+  "published_at": null,
+  "sent_at": "2026-11-05T02:20:48.998601+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]
