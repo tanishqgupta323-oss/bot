@@ -667,22 +667,10 @@
   "calendar_fetched_at": "2026-11-05T23:01:18.115026+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 157,
+    "count": 158,
     "day": "2026-11-05"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-22T19:55:40.661655+00:00",
-      "t": "Netanyahu says U.S. and Israel must topple Iranian regime",
-      "w": [
-        "iranian",
-        "israel",
-        "must",
-        "netanyahu",
-        "regime",
-        "topple"
-      ]
-    },
     {
       "at": "2026-10-22T20:10:50.582439+00:00",
       "t": "US, Israel have drawn up detailed plans for renewed strikes on Iran",
@@ -3604,6 +3592,22 @@
         "street",
         "wall"
       ]
+    },
+    {
+      "at": "2026-11-05T23:31:01.626227+00:00",
+      "t": "Trump meets with national security team, says Iran war decision coming \"soon\"",
+      "w": [
+        "coming",
+        "decision",
+        "iran",
+        "meets",
+        "national",
+        "security",
+        "soon",
+        "team",
+        "trump",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3631,6 +3635,13 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "77ecc3c585cb9994630796b3dd0c9257c8fefbc501d8c2264fa6a6a53e424cea",
+    "9d8ed9b628ce88ee2ef06bbcf7d13d902e8ff31fa885ea33b5a7c9d4ee45b15c",
+    "76f0eb6f08e4db50a577bab85034d51bb13b78fabe45336343bd4431ad2b1b4d",
+    "d9d4b12605503c717d016224a373a382e288bd88e2430f0e9cc62d99cb5d72aa",
+    "2e4b62bc8eba5e8a5edfcc2dc6c4c2f128c84a6a94d0114c84c17aad9b1716f7",
+    "19d107f40f4a6f94e1aafeb2856878232486ec09c3dddfba0875cb94f831fb8a",
+    "5aec7597c684b0e59b9ff6ca16aa7ccd73c99d3a80ae4dc2653ac456fcbe2eea",
     "16d8176bb48a7cf8ea26da5791d9aac015fce52fa24f543a0a51eda0b2a187c3",
     "6b1a3adbc7ca0928efc833b09964e4a30e95d59404b3728425c6c79d43cc9bc8",
     "f982f9f417ad4c7323b9401791e7a3e090ca56395fea4d06e3fa0e810ae54939",
@@ -4623,14 +4634,7 @@
     "2bc897be4ce90356692237ada0b3b4d8f2c7b97387895d1641dc05a65fe716e4",
     "6bc61a42580e055f6105cd4673aa2edd18c556a7043ddc3084bd5be698c8755b",
     "cdf51af4f9c15480968d2ceb48aa60bbdf5710cb8ee6f384306cbafe9de8a880",
-    "7a792f85f6c2f0f98f214483a31682aa791e15a2bc1122c7de203c17010be69e",
-    "50431b0f59b28650b405d458fc3b3aaff3eddb91e214a89ea392e8a8c897e751",
-    "6cac01e4b55fb7a1ba2a8222f0698669fa986d96b660b96e0199975ac4dba24f",
-    "66f6fe4fc6cfaac8585689764f5f5e0f69c26acdddf91619b48ff7827c4d0e34",
-    "5bd32192876ab32295f87d3846369c9c45ea00f0a45fcdcb54c1644c6117c4e4",
-    "ee9d28e3076995c0f4e1ff306425b40d0abd90819406bd70edee87d0d5a7b6f2",
-    "f33a81ec7533c6a10a9b3fd75696307b4aae311cbeae2df3e9b1769cf5ea0020",
-    "9e0a946c056abd5a3e5c4da4386ec9d0267b66727839089c77f1fa5cd1f207ea"
+    "7a792f85f6c2f0f98f214483a31682aa791e15a2bc1122c7de203c17010be69e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
