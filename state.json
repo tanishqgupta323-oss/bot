@@ -664,29 +664,13 @@
       "title": "Consumer Credit m/m"
     }
   ],
-  "calendar_fetched_at": "2026-11-05T10:45:45.337218+00:00",
+  "calendar_fetched_at": "2026-11-05T13:50:43.880601+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 53,
+    "count": 54,
     "day": "2026-11-05"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-22T07:15:47.954643+00:00",
-      "t": "Iran says 7 tankers on fire or damaged overnight in the Strait of Hormuz, and other Mideast news",
-      "w": [
-        "damaged",
-        "fire",
-        "hormuz",
-        "iran",
-        "mideast",
-        "news",
-        "other",
-        "overnight",
-        "strait",
-        "tankers"
-      ]
-    },
     {
       "at": "2026-10-22T10:50:49.675387+00:00",
       "t": "Iran War: Latest News, Live Coverage and Video",
@@ -3603,6 +3587,19 @@
         "vote",
         "yields"
       ]
+    },
+    {
+      "at": "2026-11-05T13:50:45.614453+00:00",
+      "t": "US weekly jobless claims at 57-year lows amid low layoffs",
+      "w": [
+        "claims",
+        "jobless",
+        "layoffs",
+        "low",
+        "lows",
+        "weekly",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3630,6 +3627,19 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "ed9dfe3313130a0d23c18af051c000fd96cd424d10c89510dae414065bf79bc7",
+    "1af01056bd205bb52dd96551d4ea5bc0f4c0acccf977f8c2108536665b3f564d",
+    "4b400eddb1bc1a59708203e761e08d03da7b3720bbf4d4c360db9ed783e40213",
+    "96c1f452938c6c9ad23cdaf1a654aab0c2bdcab97dd61b56aa5145221e11c102",
+    "d26dafa1b28c7befde7ec404689faadf55e99bdb7b292fa916da24d4716a7497",
+    "5b22ad7f00ce76480f8e58d5ccda8be815aeb717e791673b91d0907de9148081",
+    "f6277922ec302de1799c169140f65aacfabd8f1e5320b83ecf7cbf139cf19bdd",
+    "a1a9a01f043b833de93790d3fc2d52089bb3419b629306cd60cb2f46dc8beff7",
+    "89851ca3929819422f1743955e1c1c65964df9e729d0355e8ace971bee1bc679",
+    "19e3d4cf38a153bb96f827250548bedcc2488eac439d7699cd01a0d24cb45f7e",
+    "ab7750f2c8b9322eb541554e8a75d380c2031a4171d71b63692d9f31aa07c62a",
+    "d120208a6511450f341c2add9829c58d636e88a85929ff985802efe680f887d9",
+    "733d8fdbf1b8b32ca8dbdda97e3ea8d16a1c9ea8593f704a239061fa8db4f619",
     "217bf8afcf15b1c50d94b5a6fa2ae0a91cc4e2eb82f3155d209e712a74484a98",
     "fd2fbe76593d46efacc64528a2cd32450ebc488db03437d6d48be15b559cb5b7",
     "18500d955be43ec83baaf19111b7a9c4ca24bc08211ab029fda67413a919cd7f",
@@ -4616,20 +4626,7 @@
     "331c128fa8d04fda922ad90d4874488ce62a3c6de4c149254cc55912d7c2f5c1",
     "c0b1ca7bb2f2f1ee25c61b6ae2e5af4d8b7d0504b290c84f3c72958d8bf3eac5",
     "1d455c7c8495f8357d1324fa5b4ebb50e39a6eda9e6c2a954fdcb856c3343f20",
-    "6b8cceabd57107b2e131258005f398cfef9853043c1c2317fd4ace5859fe5387",
-    "001ed9c03f40c0922f69c347ca93b8be76868714c43c95ddf5125bcbce1ba37d",
-    "19eed379cb2011c626943bba0bd9df5fb4bc548a8ebf880c9c08271290a90bfe",
-    "4e22c82c5b1bf3c6a105f0f2cf666c40a975e4b0de9218f8ad15b8379485e68b",
-    "ed8ecdcbc2e8c5c1199da08754aa54ce79fd59dd3b10982dd770923dd7e6d221",
-    "4c1d0a58129bdf43378cc2bc8646f3ca779c6ddcaccafcbbe848fa5e97527251",
-    "52c48c7085d2f7d825474518c528310aee9701d3b7a82b5f65345c811c0aea65",
-    "38445b46954df914a3edd93912c445deb438978e33d0347dfdc1e33ed20bf635",
-    "9ccecb268021b033819c5be7e46f09ce493e2c4db42655d976ad93a41a759e94",
-    "9166f1d648cda7014ef33a2018e539f0afbf978f36472cb440394aaa034205e1",
-    "59eb6f9f2ca639d50dfd3ff1b79962fde91104cf060d21fa52a2ae014dcd495b",
-    "0ac9af582563150fe09ff53255d08413a65ee49a8efbb8d41e39e2a93db5d5ca",
-    "9c4358ede7e414bf26659b47174a7c184191072011a3c6742e7c52101756b3ae",
-    "01a1408b383baafd699a37eeb5667114ef4ec0c0b435bbd746795c7dbeabc294"
+    "6b8cceabd57107b2e131258005f398cfef9853043c1c2317fd4ace5859fe5387"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

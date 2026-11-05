@@ -13604,5 +13604,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "US weekly jobless claims at 57-year lows amid low layoffs",
+  "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-at-57year-lows-amid-low-layoffs-5004323",
+  "published_at": null,
+  "sent_at": "2026-11-05T13:50:46.410996+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
