@@ -667,24 +667,10 @@
   "calendar_fetched_at": "2026-11-05T19:55:34.760785+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 142,
+    "count": 143,
     "day": "2026-11-05"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-22T18:50:49.556588+00:00",
-      "t": "Reports: US and Israel Set to Restart Major Operations in Iran After Midterms",
-      "w": [
-        "iran",
-        "israel",
-        "major",
-        "midterms",
-        "operations",
-        "reports",
-        "restart",
-        "set"
-      ]
-    },
     {
       "at": "2026-10-22T19:55:40.661655+00:00",
       "t": "Netanyahu says U.S. and Israel must topple Iranian regime",
@@ -3602,6 +3588,22 @@
         "stock",
         "tumbles"
       ]
+    },
+    {
+      "at": "2026-11-05T22:10:47.710065+00:00",
+      "t": "’Our phones are exploding’: Goldman Sachs dissects historic Wall Street crash",
+      "w": [
+        "crash",
+        "dissects",
+        "exploding",
+        "goldman",
+        "historic",
+        "our",
+        "phones",
+        "sachs",
+        "street",
+        "wall"
+      ]
     }
   ],
   "resolved_events": [
@@ -3629,6 +3631,18 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "b8847b7f96a833e2304945ccb3733d47e92a187884435fe54bf5ab6f19ec56c5",
+    "7eaa75f2b0527f2790f52d4ad788670141681fb8eeef46dcdd41aae1aa3d57e8",
+    "8368b8654fdf1ed44c6fdc8383c5ead6bfc4ca5e931558c6fd82c14ff9bbe318",
+    "222e1fe36237453214b6e2d0092bb8fb775da37ebbcd342716ee55ea8ae1af0e",
+    "aa9f601f18be4dfff6532f2d940012851430312c24ffa629a048c7d28330e16c",
+    "69515dc9fba6b45f2212679b06aa4e2a7fa502a6ff528cca746cad686b030944",
+    "859f2e86eb431ddcb79a800a8da12aea51876219f23378cbe62fa9922e9595e1",
+    "455b9dd47471583e77cf937a00a3b9da1c6fa1624efda05433f12e9506f34e04",
+    "205a87c8a6dbaf84b540b1522222bc8ef8901d525a81437a861e0c5002064be6",
+    "189d8a903d7f6e3dceddbec21193034f3566a32e8dbba27d4a7019e273bcd97e",
+    "716f52c029730c9f6bf9eb244d42b72f12f7b80e8370e4d54127f8b345bc0130",
+    "e3a6e78bfcc9674959b8016fa083923a8fd12fd36e147f1521218b7327237bad",
     "ae9173530d4d711b1ce5447a33a9e786674e5eb832bb3cd477f6521df142719a",
     "5f08e7c9fc7c56fe7460fb12fbe83a54889e0bbfddbe1605a773982e39ba9988",
     "ce0761237b2934626044e49c49961a216976e2f184792d51fc9732eeb4ea7cf6",
@@ -4616,19 +4630,7 @@
     "2896646b251193a2172262fbaa435b6d3cf9a58b109c8b50b4929236009ba61a",
     "8a56a5bb900d270249d04c9e86bbf606edfbc93354e7d45bae6845f518d16a06",
     "db1acaabc55301ae7d28dfe6f63f00adb606f5e4b5ecad0fa425b4ab243f0b22",
-    "cd56d03023232ab5de9ffcbb901e7a9d1b9bb70cea2b574e8228a16fda72346e",
-    "60f21b8e93eecf60852025a04062931cfcc760be60c0ffd0c9acaf2c1a22ca70",
-    "0ed9b9045c28b48b758e8fa1ec1f212fb509db61eb1baf6b9ad318be0c78d6f6",
-    "98f45c9bc932ad2ed9fa176f01428ed0ec9f9c3a066b03ef8080fdf8201b91e6",
-    "530e6a47a89b2fcaf27ed9e5d0e1fe7f56ee8567689b39eae125d9f3e99c936b",
-    "9a11b23606d207a074b2c81d2ce3636552d0a6026c411c459d22d510606b7636",
-    "e9abbf2a46d8c3d7bf985c7a82b9f3ae1729e9746fbc84853fa8bac60fa1c4e4",
-    "a93c6e8bffb0cad6cfa169f209df7560b925a4de8d9945f6377e4bc2c3b450ea",
-    "6c74c5c3876b862a113898cc511b030cd6dbe8c2e19753009a16d65e242c0968",
-    "42e3142151dc85c76a9c8686fb27bed5e33cdf8025681c2230b7b97735908e3c",
-    "65b4776c139d0a0e8394a60190cce0bfab6f4df0a65689c301ceb887dd66d5bd",
-    "d8552923a88ac204b8c192c543705e77dc8aa7ccc901f17197098614f59476bc",
-    "0bb60f39ad7010f0e270baa7b09033653f85b629c2b72736365f54e04f7ef7ed"
+    "cd56d03023232ab5de9ffcbb901e7a9d1b9bb70cea2b574e8228a16fda72346e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

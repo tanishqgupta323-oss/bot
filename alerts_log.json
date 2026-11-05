@@ -13708,5 +13708,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "’Our phones are exploding’: Goldman Sachs dissects historic Wall Street crash",
+  "link": "https://www.investing.com/news/stock-market-news/our-phones-are-exploding-goldman-sachs-dissects-historic-wall-street-crash-5005892",
+  "published_at": null,
+  "sent_at": "2026-11-05T22:10:50.013976+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
