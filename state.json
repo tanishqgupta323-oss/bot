@@ -667,23 +667,10 @@
   "calendar_fetched_at": "2026-11-05T01:40:46.876880+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 181,
+    "count": 182,
     "day": "2026-11-04"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-22T04:45:46.615927+00:00",
-      "t": "Trump says US ‘not negotiating’ with Iran, something will happen ‘fairly soon’",
-      "w": [
-        "fairly",
-        "happen",
-        "iran",
-        "negotiating",
-        "something",
-        "soon",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-22T05:01:21.207634+00:00",
       "t": "Iran’s Navy says seven vessels hit, warns US of wider response",
@@ -3598,6 +3585,22 @@
         "iran",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-05T01:45:46.142920+00:00",
+      "t": "After Election Day rout, Trump returns to the White House ballroom, his ‘safest place’",
+      "w": [
+        "ballroom",
+        "day",
+        "election",
+        "house",
+        "place",
+        "returns",
+        "rout",
+        "safest",
+        "trump",
+        "white"
+      ]
     }
   ],
   "resolved_events": [
@@ -3625,6 +3628,7 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "db1acaabc55301ae7d28dfe6f63f00adb606f5e4b5ecad0fa425b4ab243f0b22",
     "cd56d03023232ab5de9ffcbb901e7a9d1b9bb70cea2b574e8228a16fda72346e",
     "60f21b8e93eecf60852025a04062931cfcc760be60c0ffd0c9acaf2c1a22ca70",
     "0ed9b9045c28b48b758e8fa1ec1f212fb509db61eb1baf6b9ad318be0c78d6f6",
@@ -4623,8 +4627,7 @@
     "558f28cc66900130e1789452f8b485c81d5205bd439d703685dad79cb6c0e486",
     "661e87f508cb32c8b827f22839b97fca1076ccfc4a1af135f93739cf143b6e54",
     "da914ab6a1221eb4fcb0f669bedf660a2a8401d3f62cb9258dae19eb52b55a44",
-    "4eabdfc9e6fb028aa5110366f82911064805e86fc3780f17f8f8dfee6bc0d7fb",
-    "b66f9c95a91f18dd4bddca658638f8088d1734937af7d3e12f876e0e7a55aaf4"
+    "4eabdfc9e6fb028aa5110366f82911064805e86fc3780f17f8f8dfee6bc0d7fb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

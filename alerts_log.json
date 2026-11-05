@@ -13552,5 +13552,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Washington Post",
+  "title": "After Election Day rout, Trump returns to the White House ballroom, his ‘safest place’",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVQxeElqN3laWmNWRVROTENQbE42OHlOY1R1Ny1xQ24wcWhDemcwQUdTc3pDVmdHREZWcE95UmpFRHA2SHpUYnRDYmo0cUNVOUFDQkM0ZEdjRnp4X1NqREt2YzByeDRtMUlveWNXNWJwUDJEbzA4c0U5M3M2Y1JIa3R4cERZc2FLdjRvdHVZcE9QTkY3Q3pia1VadjgyQnc1ei0zM1R0NlBxU2M3SXV1bjBOQXJJdmpUZVRmUk9tQ3IwQVVuUFE?oc=5",
+  "published_at": "2026-11-05T00:39:11+00:00",
+  "sent_at": "2026-11-05T01:45:48.275118+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0562,
+    "XAUUSD": 0.2883,
+    "BTCUSD": 0.1256
+   },
+   "60": {
+    "EURUSD": 0.1013,
+    "XAUUSD": 0.7868,
+    "BTCUSD": 0.1246
+   }
+  },
+  "checks_base": "published"
  }
 ]
