@@ -1,7 +1,7 @@
 {
   "actual_attempts": {
-    "3e567a6022a5657a59969d47": 5,
-    "b1f0b8cbdca0856830f5e5c0": 5,
+    "3e567a6022a5657a59969d47": 6,
+    "b1f0b8cbdca0856830f5e5c0": 6,
     "f002b1eb12b12450a174971f": 8
   },
   "calendar": [
@@ -669,23 +669,10 @@
   "calendar_fetched_at": "2026-11-06T11:10:42.524404+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 73,
+    "count": 76,
     "day": "2026-11-06"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-23T15:05:38.613717+00:00",
-      "t": "Why the market senses a weekend Iran escalation and what happens next",
-      "w": [
-        "escalation",
-        "happens",
-        "iran",
-        "market",
-        "next",
-        "senses",
-        "weekend"
-      ]
-    },
     {
       "at": "2026-10-23T16:01:25.099625+00:00",
       "t": "Trump Weighs Quick End to Iran War Against Letting Conflict ‘wither’",
@@ -3614,6 +3601,19 @@
         "surge",
         "surpassing"
       ]
+    },
+    {
+      "at": "2026-11-06T14:01:15.518267+00:00",
+      "t": "Strong October jobs report sends yields higher",
+      "w": [
+        "higher",
+        "jobs",
+        "october",
+        "report",
+        "sends",
+        "strong",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3642,6 +3642,17 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "b25a9772ad032171d2f04fd5148894c05125053430a42d3059dca8e532817fe3",
+    "6f6cf54e52e229b69e96bb5368b7cae3f4d085245eff42dfe537ffab46ec5f48",
+    "f46073118f86e607d604ce81a44164358ef60b6a2334677668f98ae14dcbb775",
+    "a4424632e4e80476171621371aaddf70a45a4ffcf4c98cb3db481950fb1663ae",
+    "4fddbd18366785d4cb79afc9574403f706238347bc1d24b663a06d7c39a97380",
+    "dccb2d13f2a38377273c08240bd5fcbb4710fea6c20ddff92515b57dd63a2818",
+    "ce39fb20d8475b80d152f6cef7c40f964e1a025df00a7baa07e5d1eff7ff2eb4",
+    "010b9bfb80db5b6250284bcfbdaee59ff08594bbca1dfc44628f36a9be4dc010",
+    "11608847d5cfe893fb2d72980a5ee3e100b2b2b9741a6ca35c8ac2f7b5f046dd",
+    "acf23e3a6bd1cc1a633b13debb56f3625f260b1767cf236f6cc89bf0798956b6",
+    "8cc3401b30186d0d5f3dbbff618bd5ad17a07877333cdcffa043bb0b9bc339d3",
     "db3be55469af617c0f2dabbab1ab1dad2e496a5387c46cd47488d7ad574a942c",
     "c054256fb5593676cd6c7cde0d7d27b375202e9e3af00f0e442f09b8748a3394",
     "4f7e8ba197108c8dddc2ef4cf542020853d00437d24a6377aeed392f7c7d1aae",
@@ -4630,18 +4641,7 @@
     "d9c848a678890c73e5d2089d61ba31361f5dcefcff0729deae14da6bc5b4eb14",
     "b2b956896a53a424704bc37d2b056d4bd98ecc6f4dfb2d303950f8444194bd2c",
     "b18afcfd20b3be8f1f5283450abe0848cfece29d9d51ac3a6b5c45a363e6b980",
-    "838d863ee58f8afd9abad9bcb1140dc0404b8961ece6db058b78aaa6491b00c7",
-    "348d87f141316addffaae40eda9fee616e07ddbe6be63f303d0700bb3a2b1d08",
-    "06b70cc8d9bc32fce83c2917877ea5aab518163581617cdcb5c5ed2dcb4cc2f4",
-    "cec632260fac08a8800728212fcc1cc215af848d45f7a3f25e0f8ffbbbf19f35",
-    "e3f79304d934b3b8779c3e1684f7434909ee1e3fd3db0855bd3271dc4bf18077",
-    "7a2d3d5a4e6f38e7212bdd8033d8b02d3eac422274de01084e869ac090a50838",
-    "a530c59d2fe679daed73a1147f9ba7f545093e332da7be60460fbe4bf1649642",
-    "9d6aaf1456629dba8469262bb8df459892ef5acdfe5eacbb71472fd232e4b8a3",
-    "dd9b741c62bb9609c7f836e0dfa07e886b4d02d0866032f48bf41531168b37f5",
-    "7cd3f610d3f7a9cdc3fe13435ec80dea7ac04c6d7cd2aa4e6315baa6fcec1f67",
-    "273661ecf1457345798f6e73ab44c411f92f46a22372fe4cc5201a3ffa73eee0",
-    "31b3e0c89badc2468cdb646f1ee4cc6e99e61eb442e0f5a17ba1e4f8b91d3bee"
+    "838d863ee58f8afd9abad9bcb1140dc0404b8961ece6db058b78aaa6491b00c7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -13924,6 +13924,27 @@
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0446,
+    "XAUUSD": 0.037,
+    "BTCUSD": 0.0325
+   }
+  },
+  "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Strong October jobs report sends yields higher",
+  "link": "https://www.investing.com/news/economic-indicators/strong-october-jobs-report-sends-yields-higher-5008272",
+  "published_at": null,
+  "sent_at": "2026-11-06T14:01:16.337156+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]
