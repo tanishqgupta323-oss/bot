@@ -13882,8 +13882,27 @@
     "EURUSD": -0.0112,
     "XAUUSD": -0.0319,
     "BTCUSD": -0.0787
+   },
+   "60": {
+    "EURUSD": -0.2008,
+    "XAUUSD": -0.2231,
+    "BTCUSD": -0.6795
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+  "link": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+  "published_at": "2026-11-06T13:31:54+00:00",
+  "sent_at": "2026-11-06T13:35:42.558629+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

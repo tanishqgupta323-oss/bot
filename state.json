@@ -1,5 +1,7 @@
 {
   "actual_attempts": {
+    "3e567a6022a5657a59969d47": 1,
+    "b1f0b8cbdca0856830f5e5c0": 1,
     "f002b1eb12b12450a174971f": 8
   },
   "calendar": [
@@ -667,22 +669,10 @@
   "calendar_fetched_at": "2026-11-06T11:10:42.524404+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 57,
+    "count": 61,
     "day": "2026-11-06"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-23T13:25:53.836380+00:00",
-      "t": "Iran says 7 oil tankers damaged in Strait of Hormuz",
-      "w": [
-        "damaged",
-        "hormuz",
-        "iran",
-        "oil",
-        "strait",
-        "tankers"
-      ]
-    },
     {
       "at": "2026-10-23T13:31:21.920373+00:00",
       "t": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
@@ -3615,6 +3605,20 @@
         "suggest",
         "while"
       ]
+    },
+    {
+      "at": "2026-11-06T13:35:41.737233+00:00",
+      "t": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+      "w": [
+        "000",
+        "165",
+        "added",
+        "blowing",
+        "estimate",
+        "jobs",
+        "october",
+        "past"
+      ]
     }
   ],
   "resolved_events": [
@@ -3639,9 +3643,16 @@
     "e14761d8d9daf448f652d326",
     "22afbaefb23667448d34c9d3",
     "b81a617dcd3d2291f102f6ee",
-    "b16150e4fd92508a8b8bbe7d"
+    "b16150e4fd92508a8b8bbe7d",
+    "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "335ff50bab2a7c7803b6352e812f4a8120621748273a4d542639936fe75ce0a4",
+    "edb264794dff02082fb0c19933779a83228cae502d7235f8b39150da700feb58",
+    "f0acf706a45a7155a39c7f00a1e532bea840697e7c901663d18c1c1452771f7b",
+    "58b9ad05589f739e197a173fd61ec67ec79c7579d5a292715272bf1614b764b8",
+    "6a78fc984d8f9d929afbfc8b7a13951141511239a1740b161e144f2b3ad8f3f5",
+    "d75e55c1fd67ad8deca0606c46f286ecae321c72a8e7033ec61cbb7e811604fb",
     "f28711ae1d7ca6c7b45899a41b4574a55bf644e94aa8e9d932b4893b2ab44096",
     "f12d5afc1ca29b699cae2b9b19d0c63c903aead9faecdbbf32f15b362eed12ea",
     "91a0da5234f4aaab090925fff306f24a49747d4f78b0add8764da3fd8fca00de",
@@ -4635,13 +4646,7 @@
     "9b85dc7640c81026eb58799bcd11ec4f70be29c9a4d48f7d4ec43dab382a210e",
     "db41db1425080fb0a42ad7cafd4cb9e97ba0d603b1f8dabb600b22ac5566d803",
     "96bce0c192485becec381a4c8d6da6c2034d702c8b413f74b65aa67ecf1753ab",
-    "1bd69f735b81aa3587e07b0df0903909e3cc6e90a943c12e752affb19c1a2e2d",
-    "ada46ecfc484c4dcf5ecc56c2b1596492728a05eb97abda766b28292d40f4569",
-    "d60e2e208f5c9565023dff67e9526f07824ac94252c49b387d962ebbc71cf751",
-    "0b49baa104fbc8a990fbce83e11c37cef96af92af42fbc3f2bf712b647aa58fa",
-    "c7ec0bcf9cb2e36374a021289569ecaa72496b32f2a2221b536df92e4035fdac",
-    "199eae1040338f027efe63bcf7e9d4810cd0d3c68e29dfb21f28106b122cf603",
-    "e6b19e1b3be9db784d0233804736b356fdeffeae093e9afccccd5ac969655540"
+    "1bd69f735b81aa3587e07b0df0903909e3cc6e90a943c12e752affb19c1a2e2d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
