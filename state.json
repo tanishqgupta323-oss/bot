@@ -667,24 +667,10 @@
   "calendar_fetched_at": "2026-11-06T05:05:36.288088+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 236,
-    "day": "2026-11-05"
+    "count": 1,
+    "day": "2026-11-06"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-23T00:15:49.156741+00:00",
-      "t": "Iran says 7 tankers damaged in Strait of Hormuz, and other Mideast news",
-      "w": [
-        "damaged",
-        "hormuz",
-        "iran",
-        "mideast",
-        "news",
-        "other",
-        "strait",
-        "tankers"
-      ]
-    },
     {
       "at": "2026-10-23T01:25:35.494639+00:00",
       "t": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
@@ -3609,6 +3595,22 @@
         "putin",
         "security"
       ]
+    },
+    {
+      "at": "2026-11-06T08:01:12.788825+00:00",
+      "t": "Goldman lowers year-end gold price forecast on hawkish Fed shift",
+      "w": [
+        "end",
+        "fed",
+        "forecast",
+        "gold",
+        "goldman",
+        "hawkish",
+        "lowers",
+        "price",
+        "shift",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3636,6 +3638,12 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "05a005c372d368db237147d6534ed07c5f4876dbd96c1c6853ca71a5c8e763cf",
+    "c5b3826144c95cb2e69b33db92e6acbb2f48802d7fa635cb23cbcb0ed6edaf03",
+    "2e765a3f3739203901f2474920ae03fd20cdd863dcac52be51f6c9618d552d3e",
+    "5a6d1aaa62ed0720f34683714503589cae81d707857819cc5dcc1f76d34b618b",
+    "a9068edc9cc9501745dc2a6031404a5481cdd907a3120ce00823cc5f05ac4307",
+    "10d36a548343d152359436a7bafb61c00e8b111d04b684c94734f892fa470e4c",
     "1dcae04455773d2b2ad9e7d77d0b4ac2d0c138f70828928c58de2fdd6808a462",
     "163d2ff0974d59181faefd16a7caf6e6f219da85bc4aa14417a961ab880b8e94",
     "a65a0cef68a7e922fcec7934bb96e1b63628041f6e16a6bfe347ba9e4b59563b",
@@ -4629,13 +4637,7 @@
     "0d88c2f72a7fbb7904d0f92a11b44a890452bb1e5d0499b5644891e198e4e0cc",
     "51d4c78b96b8495102ca3b747bf09189b1aa517e98c1d46c5ce4703c2351e194",
     "b129ad9c08a751f70e2bd92757b17610ab609a21be7d96a5d172f33e86396dc0",
-    "7ee6dd30533b12a5e824d42e770139d4d438e656b2ef245f5051ed7a7fd747f4",
-    "95c0f9d883ecc46eb7b2b1427f36625ce59db48398e514fed4bd821ec1d920eb",
-    "d890c644ffb908f29ff476b2672cb88e63568bfc69658d8d5b45626394a97e94",
-    "32f79fcdae86abe641a80d6011e9570e67c1dfd2f2ef7bddd011da531e18a697",
-    "8d15fd268e662b4e69163d4651a2baee5d2d8b209d346764178c9eb8f520b910",
-    "8e0b5f253e510c97ae62c16514e76f2e2c777cd505eeefe1d945634fa1da2e7b",
-    "41a21ef81a4c556f3e6350c4aa0f1c27e62ffff0f026fd4aea5425028d84eb44"
+    "7ee6dd30533b12a5e824d42e770139d4d438e656b2ef245f5051ed7a7fd747f4"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
