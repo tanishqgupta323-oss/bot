@@ -680,20 +680,10 @@
   "calendar_fetched_at": "2026-11-06T17:10:44.168176+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 124,
+    "count": 125,
     "day": "2026-11-06"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-23T18:55:38.806157+00:00",
-      "t": "US could strike Iran this weekend, envoy says",
-      "w": [
-        "envoy",
-        "iran",
-        "strike",
-        "weekend"
-      ]
-    },
     {
       "at": "2026-10-23T20:15:45.966687+00:00",
       "t": "Trump says US may do another military operation against Iran",
@@ -3623,6 +3613,19 @@
         "report",
         "traders"
       ]
+    },
+    {
+      "at": "2026-11-06T18:25:34.505151+00:00",
+      "t": "Iran war: Gulf tanker attacked, 1 seaferer killed",
+      "w": [
+        "attacked",
+        "gulf",
+        "iran",
+        "killed",
+        "seaferer",
+        "tanker",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3651,6 +3654,11 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "d625cd5eadb987a397bbcbe40dfd73d9e5141497334457a847146c9c612a45c6",
+    "0cb6dc3d703f13d6a325ac8bcebdf4baa717aaf05a2381a3967ca15af21f9d71",
+    "06a1f0f274d81753c566441eb19c76820e6f0b02cca3e7eaff505e462f4adc17",
+    "62a63de55801284b5c58eba6e75191da627456f507388a17d0dc3cf45b902a1a",
+    "5823756fb2c5d28479a3b5b11468edbea847ac3af9c2a891ac6dcef8f1816c0c",
     "bd41d222f5aa0f9da203e8617d6cb9468478057b2552f9dc6b10e0be3762911c",
     "88c66f16a548c80a39bfedea89acea4d538ce99455aacb9c566c06d504f86134",
     "f749694e3b0154babe6e1aff3bd5131f6524bba62f734c204f807c01a1432934",
@@ -4645,12 +4653,7 @@
     "7eaa75f2b0527f2790f52d4ad788670141681fb8eeef46dcdd41aae1aa3d57e8",
     "8368b8654fdf1ed44c6fdc8383c5ead6bfc4ca5e931558c6fd82c14ff9bbe318",
     "222e1fe36237453214b6e2d0092bb8fb775da37ebbcd342716ee55ea8ae1af0e",
-    "aa9f601f18be4dfff6532f2d940012851430312c24ffa629a048c7d28330e16c",
-    "69515dc9fba6b45f2212679b06aa4e2a7fa502a6ff528cca746cad686b030944",
-    "859f2e86eb431ddcb79a800a8da12aea51876219f23378cbe62fa9922e9595e1",
-    "455b9dd47471583e77cf937a00a3b9da1c6fa1624efda05433f12e9506f34e04",
-    "205a87c8a6dbaf84b540b1522222bc8ef8901d525a81437a861e0c5002064be6",
-    "189d8a903d7f6e3dceddbec21193034f3566a32e8dbba27d4a7019e273bcd97e"
+    "aa9f601f18be4dfff6532f2d940012851430312c24ffa629a048c7d28330e16c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
