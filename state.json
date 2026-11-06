@@ -664,10 +664,10 @@
       "title": "Consumer Credit m/m"
     }
   ],
-  "calendar_fetched_at": "2026-11-06T02:05:33.879624+00:00",
+  "calendar_fetched_at": "2026-11-06T05:05:36.288088+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 214,
+    "count": 215,
     "day": "2026-11-05"
   },
   "recent_stories": [
@@ -3636,6 +3636,8 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "2331b50081dec85f78d6d346c7e13925fa3c44b92b62f0953e2fbb9c32088d82",
+    "cdb397e6b423b5f060df014e24e1f1de67de0e908c7d91848b17773f084c7a01",
     "d7c456fc6014c9a1a36001b5193d2793b327464c00d2683873876c08f4eb9455",
     "bf8264241973ec6063894f4a01f003f06935c70ee24fa99ad51ffca6c6e0cc82",
     "95360c02222ae8789ddb742e9852dfac459218274b7811d4586e292272fafab1",
@@ -4633,9 +4635,7 @@
     "6af6aeed7cfa759c43dce9adaa5db72d925750328d0f1e7d27671574954b2df0",
     "174a957a31a2fd449d08f65e241561f929ce2e1d599e74224ef2dde1ee7b0be9",
     "8fc935249d59a842c4c9aafd0df8c276311c94bae9416450bb467a137e93af9c",
-    "a0dabf127ec80e267d19a32dd6c14fcfd9ec81d3971b5eefac0c9233b10188ed",
-    "9d5e4127e349b4fe29533c611cff908f6a1d5b9d799fb9eb48570bd09ee257e9",
-    "e8d628b52a03646559bee860f439abf2ef5fd742dd6c57f2298a7253a9e41fef"
+    "a0dabf127ec80e267d19a32dd6c14fcfd9ec81d3971b5eefac0c9233b10188ed"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
