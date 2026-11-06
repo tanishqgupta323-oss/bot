@@ -657,6 +657,17 @@
     {
       "actual": "-",
       "currency": "USD",
+      "event_id": "03c0ad384dda4c4625d90700",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "-",
+      "scheduled_at": "2026-11-06T18:00:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "FOMC Member Daly Speaks"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
       "event_id": "5faaf47e8e0be740e51cc4c8",
       "forecast": "13.4B",
       "impact": "LOW",
@@ -666,7 +677,7 @@
       "title": "Consumer Credit m/m"
     }
   ],
-  "calendar_fetched_at": "2026-11-06T14:10:44.167414+00:00",
+  "calendar_fetched_at": "2026-11-06T17:10:44.168176+00:00",
   "first_run_complete": true,
   "gemini_usage": {
     "count": 114,
