@@ -14046,5 +14046,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNBC",
+  "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83d09fT01uTmdIZ09Wb0pDYWg4VU5rRTF3MWstQ25hU2dDM011N3k3cVBzRFFOeGtuTjVSMHJVcy1zb25qY0Q4NERLSUIxN3JUN2tUbEZoZ2FLbVBDajRHUFktYVEtOTZ2cWxlX21NbF8xd1JxN25GNkNn?oc=5",
+  "published_at": "2026-11-06T18:39:20+00:00",
+  "sent_at": "2026-11-06T22:10:46.697922+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.1496,
+    "BTCUSD": -0.1199
+   },
+   "60": {
+    "EURUSD": -0.0334,
+    "XAUUSD": -0.1226,
+    "BTCUSD": -0.2554
+   }
+  },
+  "checks_base": "published"
  }
 ]

@@ -680,23 +680,10 @@
   "calendar_fetched_at": "2026-11-06T20:10:48.220410+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 168,
+    "count": 169,
     "day": "2026-11-06"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-24T01:31:10.748857+00:00",
-      "t": "Iran war could last another year, Trump ambassador says",
-      "w": [
-        "ambassador",
-        "another",
-        "iran",
-        "last",
-        "trump",
-        "war",
-        "year"
-      ]
-    },
     {
       "at": "2026-10-24T05:40:51.818124+00:00",
       "t": "Middle East latest: Trump warns of 'another little Epic Fury' amid fears of renewed conflict",
@@ -3631,6 +3618,21 @@
         "rates",
         "san"
       ]
+    },
+    {
+      "at": "2026-11-06T22:10:45.920069+00:00",
+      "t": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+      "w": [
+        "americans",
+        "daly",
+        "fed",
+        "high",
+        "hikes",
+        "inflation",
+        "likely",
+        "rate",
+        "treadmill"
+      ]
     }
   ],
   "resolved_events": [
@@ -3659,6 +3661,16 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "2149126a516717cefb88071ba6a0d17919928ece5633fc8587b71709a2c172e8",
+    "06d7771f8e52dca45bd46be64ca3f8a6e636a3cd0e014eec4546b7ac7fc26ef3",
+    "f9c5e6032df2a2eb7a5eaa520ae0d0ee9e7a94ddd63a162199167b8d16a13464",
+    "71c9d49c888f8b7b2805937ce015c5124c254adf49dcbca330bc1005d6caa8ff",
+    "8980455a04cfe35c13b92d4c5131f88f79ebc31bec39ccc818566dea4b76c216",
+    "bda45a376f6cbe709e5ae50f38c0f66aca658aaee643846e3c14440150c112ce",
+    "b14310ec86f505346f5b1bcae947fa31de826ce41b321d97b6114efd9bb6aca2",
+    "36ebd56bfd20a552449eef240dfae2b428ffaee61118e1b9b237b32599e9fdcc",
+    "5c40e0d6797851324de21a9398f491cb27490e074f443f453242fc6edf088e4c",
+    "2c68ec77d3556236145af5e63c46838367e949ab628bb1e6023a19f011302b85",
     "618a0be47c0be06f29ee2defab986afd6d67dc1ebdcfad1044995e6064c24c99",
     "cad5acc01322ffd529b4cc4af75dd2938c10090191ab10219ebbcada2ecb6622",
     "98c6153d03b680bcbb96e429501bfebd71abd0b81b96f574dd3b5209d4c5d5ea",
@@ -4648,17 +4660,7 @@
     "85e1da82b9ea2698740e0c3a2f2476202bd0cfdafe282e346067d817628cd320",
     "e6a7e0173ecb17e3594a9a462ce401af1d29a3fb371ff25be9b9efef50e5029f",
     "f6281924d75e0482b90e196a2fc7912f8326546c1160d46d3b170637683e3865",
-    "5d11e67996b16cfc5c02a95689088d543ecc4c5502ea998bd7526acb26c99b87",
-    "1832c5231b69642b774a21573da7220855f428c7171be21b818ff2ba5f6daa0b",
-    "6fe34150bb6a96dfbc38457482d307d89292bde11996c64fa8a4c0a9d74d8a62",
-    "c35bae62387c7f9d57c2b1a946c1ee39e39dbfee07b856dc8b6d487997fc3d03",
-    "7ac7fcc5f86285e84a953bba2497374dae495f1c86fc8be6518f8cc4dd71928b",
-    "da6829bacc8aeb46320967c4a7b089c8360aefc16faa82ca25c1a29abcf24eab",
-    "eabee6350bfc103ac6e2830c1880cf9cd3e31da438ad5c00577f54c887ce8e82",
-    "ececcc73a1a9ca86e4ecb98d69d71e6d0aacbc5512e319fe39cdb043e687efd1",
-    "abcbb40428d7104212fdf040ded2d783e3382af2d73bceebdc7c5b06692669e5",
-    "e994aa264c4347353af424a6d1e5b6cd34e10a11cc1e5cf39e66a8a94c295f50",
-    "7c382badf32f7a22e528226a703430b0b6e7e9a3587989db49b11b4bf1063ff0"
+    "5d11e67996b16cfc5c02a95689088d543ecc4c5502ea998bd7526acb26c99b87"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
