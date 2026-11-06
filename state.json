@@ -1,7 +1,7 @@
 {
   "actual_attempts": {
-    "3e567a6022a5657a59969d47": 7,
-    "b1f0b8cbdca0856830f5e5c0": 7,
+    "3e567a6022a5657a59969d47": 8,
+    "b1f0b8cbdca0856830f5e5c0": 8,
     "f002b1eb12b12450a174971f": 8
   },
   "calendar": [
@@ -666,29 +666,13 @@
       "title": "Consumer Credit m/m"
     }
   ],
-  "calendar_fetched_at": "2026-11-06T11:10:42.524404+00:00",
+  "calendar_fetched_at": "2026-11-06T14:10:44.167414+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 79,
+    "count": 82,
     "day": "2026-11-06"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-23T16:01:25.099625+00:00",
-      "t": "Trump Weighs Quick End to Iran War Against Letting Conflict ‘wither’",
-      "w": [
-        "against",
-        "conflict",
-        "end",
-        "iran",
-        "letting",
-        "quick",
-        "trump",
-        "war",
-        "weighs",
-        "wither"
-      ]
-    },
     {
       "at": "2026-10-23T18:55:38.806157+00:00",
       "t": "US could strike Iran this weekend, envoy says",
@@ -3614,6 +3598,20 @@
         "strong",
         "yields"
       ]
+    },
+    {
+      "at": "2026-11-06T14:10:47.226420+00:00",
+      "t": "Traders raise bets of Fed rate hike after jobs report",
+      "w": [
+        "bets",
+        "fed",
+        "hike",
+        "jobs",
+        "raise",
+        "rate",
+        "report",
+        "traders"
+      ]
     }
   ],
   "resolved_events": [
@@ -3642,6 +3640,10 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "bc227a5af7352f87cd7bbbc865c14e8b649a1b5d7dbf88ae818f06d2eff170d5",
+    "45ba969596bf5f3849fd4272a1780ab1ab9a929cfc9ec81e431c3f2adb391675",
+    "3d14d7665b14e6015c4627f02fc239d470565764af52fb04edd502320144855f",
+    "64cf350ad51f9f2bab95b3f76e296ad93a4eb8b7087930d0a897e4a25378ce0d",
     "e87e9e0c8ab9454a993792e0f33ea39a650bd9595d165ba7d4e593720c3d268b",
     "351350911b48a8e82271a39db3f0cea2054378f47e04d3abb1774ed05d08d53e",
     "5d4e6f32e1e77c40160a385e2b89ac3c2d9aa829ccfce2a485e2abd827d87a99",
@@ -4637,11 +4639,7 @@
     "d366c780ad562b55300402f15bc54c4011549e43709feae5f09f2b0dbca7a09c",
     "6ceb0c9d8bb3ba7b390bfc2b016fbf28bf86e657e6aff99c0cf1e08ab9b917c9",
     "f16b9eb13cae3e6f6615d0d213a6af5ef10687538b7fd01bdfa1f183da9b090b",
-    "4797e020dab04af6332ed4fd71f3b92b625095e5187a0b24b19929f7377152ea",
-    "c4e9970a60e0b000cd7a8b47ace1dde34fd683376008eacdd6b1e2198e5a67cc",
-    "7696c8c362e5f4997ed608ab24ec464f5957f6309381a5b94175e35a409f2125",
-    "a22ac698dd888835d9c417f9da2b0d794135022111d69c8f8105bbb761dfbd8f",
-    "aad247dfd73d7efe6262a6c39241fada255326ceaa9a801ac0567b8d05a4383d"
+    "4797e020dab04af6332ed4fd71f3b92b625095e5187a0b24b19929f7377152ea"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
