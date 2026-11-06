@@ -680,27 +680,10 @@
   "calendar_fetched_at": "2026-11-06T23:15:47.119094+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 181,
+    "count": 182,
     "day": "2026-11-06"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-24T15:15:50.268244+00:00",
-      "t": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-      "w": [
-        "000",
-        "below",
-        "bitcoin",
-        "crypto",
-        "east",
-        "evacuations",
-        "middle",
-        "pressure",
-        "slides",
-        "under",
-        "weekend"
-      ]
-    },
     {
       "at": "2026-10-24T18:35:38.103658+00:00",
       "t": "Pentagon Presents President Trump With Options for Renewed Iran Strikes",
@@ -3629,6 +3612,19 @@
         "strike",
         "tasnim"
       ]
+    },
+    {
+      "at": "2026-11-06T23:20:44.555498+00:00",
+      "t": "Trump briefed on narrow window for a new military campaign in Iran",
+      "w": [
+        "briefed",
+        "campaign",
+        "iran",
+        "military",
+        "narrow",
+        "trump",
+        "window"
+      ]
     }
   ],
   "resolved_events": [
@@ -3657,6 +3653,7 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "402c7925c372b195d44fe9250d4e551541755f7912951ebcb30b119c378ceb2a",
     "ade8ed4c802a1bdcc53a12132279fed34efeee54365f290094ea629064bdaa64",
     "bfa49e1b2dbb9b02df3d8a463aa270f2928dc31ff19c95d3c4584eef433b7fd9",
     "ec4ff9bf8727a1b66414f4778e4ce79cbf33b3aa1829fe3dfa442256222b6f0e",
@@ -4655,8 +4652,7 @@
     "22a2189670214a3c85ac4195bd75c7f7f6315ca589dcdc9d2f63f0d40148909f",
     "52c0c8ddae0e2a629cad7b7b07b57d05c13ede15636d827df884e46c052ce8a3",
     "03bfd0038d602967304c66dbaf2bb5e2c667aea3b0b85e6ffe63f9c400c9a44a",
-    "2c69f81327b5ee2c3839340edd88c5bc19cc86df07d72b8bec72b9869ee00ecc",
-    "8eee648ff97559353fd92e3be7e494527badf99499dc8c123bc0b430019e80db"
+    "2c69f81327b5ee2c3839340edd88c5bc19cc86df07d72b8bec72b9869ee00ecc"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

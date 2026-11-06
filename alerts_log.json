@@ -14086,5 +14086,19 @@
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "NBC News",
+  "title": "Trump briefed on narrow window for a new military campaign in Iran",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON29peTVaRjhUaU9BTUZOczZveVZfQURKWWJWRTVSeWljWXdETkpZcWNPX0lTRDBVQk52czlfMW9JTHBuLS1GU1Fya3BsTkZfM3FZaHRJaXRORm9FVXMtSWJjRy1BS1hDWGF0X3F0VWNDRzVpV1lLMDZnOU5DY0gtcTgyY1liWkhNR28yLTVzM3FFN0Z5QjZPc1drNEJFOUc1a2NCMmYzbExYS1pTZ2l5VTRTOXhRQWc?oc=5",
+  "published_at": "2026-11-06T23:16:33+00:00",
+  "sent_at": "2026-11-06T23:20:45.455325+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
