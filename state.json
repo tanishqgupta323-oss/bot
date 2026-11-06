@@ -680,22 +680,10 @@
   "calendar_fetched_at": "2026-11-06T17:10:44.168176+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 130,
+    "count": 131,
     "day": "2026-11-06"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-23T20:15:45.966687+00:00",
-      "t": "Trump says US may do another military operation against Iran",
-      "w": [
-        "against",
-        "another",
-        "iran",
-        "military",
-        "operation",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-24T01:31:10.748857+00:00",
       "t": "Iran war could last another year, Trump ambassador says",
@@ -3626,6 +3614,23 @@
         "tanker",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-06T18:55:38.848548+00:00",
+      "t": "San Francisco Fed President Daly says higher rates 'are likely to be needed' in inflation fight",
+      "w": [
+        "daly",
+        "fed",
+        "fight",
+        "francisco",
+        "higher",
+        "inflation",
+        "likely",
+        "needed",
+        "president",
+        "rates",
+        "san"
+      ]
     }
   ],
   "resolved_events": [
@@ -3654,6 +3659,14 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "67e576c1f3723b6ddfcbcb87bbda5a99601bd9f35d28e0fa4cac33f74ecacb3b",
+    "066c45e97a27a9c781437eb566179086d1685bc36cce914c12a4d446375b7540",
+    "0fa4e063f9224710130b843f3fec154347d0a1f74f292fb078444037daa40ca7",
+    "3c2f6bdbb01a145d02794ef8610dcbb9f9b758715c9b194fe325b9712c23fc3e",
+    "4dc1762d3335fd399441868c25a610b57821f85e3cbeaac4baea48cea4b71ba0",
+    "c012b2659e25283f92260eb9dc137ca0ece4b976a56aee1e708dd49765ac064d",
+    "91188f4bf0cd60f72c069512d2c973358bd6c557305043bda1b4e3a8e7f7f406",
+    "f72cc81c3a20c83a8cb14b51de50c78342de0d59c6e44b9d71a2a3b63e60f885",
     "caa324bdd1a92dcec16ba2881b7fd5a927c990be6cb263bf8ca1fa4a945936e3",
     "d02b9aa04f9069549fc08116f2d3b0043c862c29c1da1f552fc490533de37a5b",
     "5956889570f5a221cb68087f5cb83a77c6607e7bf74f2ed73d33d1dbd6a78ecc",
@@ -4645,15 +4658,7 @@
     "412ffa790e39543f88e2ecb492c8efcf23028b2ad41d112b450f646980b5f305",
     "0f4fbfbd13415c216ec896fff002ce9ba28d84b3c1a3fad32e47b0fb73d438c1",
     "0f93de486f3f3879f4c6f9d7bb5b09183bc28282d5c573a16d7f8125e7596985",
-    "339eaa16855a083860188eced45444ac07a10cdb3fc3b4c7cf4ced8adb7a7953",
-    "a91fc93f072ec7ccf5cf4d3f2cfde0c7bf2052c0d6c50501eeda1ba6b0f8981d",
-    "c58e2dd92a402debc2ab3c70af7b7bdf510c28399fc384588d404277fb9f402d",
-    "3e23030b6f0e7ccdef12268da239776c5d61b22c2d747e5ff621e6b792bbdda4",
-    "971e9e35df9626a0c7217029980fcfd30ec7982c595aa2debed60dcfe4710560",
-    "6a54e1a262c7bdca5c8d315005d955d1f21ff49a077899e67b642b911df959d0",
-    "1a4830180098721ccc0d888f581d1805a9587d4930e5856483421e379cece2dd",
-    "916046be5fbf95f583d8f5cc9dc20025207d5dc42ea5f41ec93f8654a6157d6a",
-    "03594262bb291132fe84a46a1daec61d82621fd604f85a8782258d5881fb11cc"
+    "339eaa16855a083860188eced45444ac07a10cdb3fc3b4c7cf4ced8adb7a7953"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
