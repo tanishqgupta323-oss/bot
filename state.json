@@ -667,39 +667,10 @@
   "calendar_fetched_at": "2026-11-06T11:10:42.524404+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 43,
+    "count": 44,
     "day": "2026-11-06"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-23T01:25:35.494639+00:00",
-      "t": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
-      "w": [
-        "attacks",
-        "civilian",
-        "economic",
-        "iran",
-        "strikes",
-        "targets",
-        "threatens",
-        "wider"
-      ]
-    },
-    {
-      "at": "2026-10-23T10:25:40.540807+00:00",
-      "t": "What is Pickaxe Mountain? Trump says US will hit Iranian nuclear site 'pretty soon'",
-      "w": [
-        "hit",
-        "iranian",
-        "mountain",
-        "nuclear",
-        "pickaxe",
-        "pretty",
-        "site",
-        "soon",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-23T10:40:50.031811+00:00",
       "t": "U.S. and Israel are planning for a possible attack on Iran after the midterms",
@@ -3611,6 +3582,34 @@
         "shift",
         "year"
       ]
+    },
+    {
+      "at": "2026-11-06T12:25:35.478437+00:00",
+      "t": "Stable Labor Market to Keep Fed on Track to Raise Rates Gradually",
+      "w": [
+        "fed",
+        "gradually",
+        "keep",
+        "labor",
+        "market",
+        "raise",
+        "rates",
+        "stable",
+        "track"
+      ]
+    },
+    {
+      "at": "2026-11-06T12:25:35.478437+00:00",
+      "t": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
+      "w": [
+        "flipped",
+        "iran",
+        "missteps",
+        "overnight",
+        "trump",
+        "war",
+        "washington"
+      ]
     }
   ],
   "resolved_events": [
@@ -3638,6 +3637,9 @@
     "b16150e4fd92508a8b8bbe7d"
   ],
   "seen_headlines": [
+    "c8b200da7acfa32b533fa3501a2901098d66800a2413e7521690374a36ac801d",
+    "d61c123d2fbe44e25fdd1f8ec28b3b70cf6ca2b3811d1224fa15512948a3f560",
+    "42c765531f39acd23d55f8cb73f3e49e74cbbf90aa9844d0a10b984e292f6e3b",
     "f7e9bb01fe166452780396fe76f27aeda0967a01d9f4cef554b355e25344b432",
     "f4722fbc82a77f623118060c33a53863e6b0c6723413f4612b9cbf5e19bd2478",
     "514252ab53ff8f6ae80433b47aa338bc551c7d41ca68867ddba217684bf9b227",
@@ -4634,10 +4636,7 @@
     "2a9221ffcb853916f2b3cdccdca2d34a10a1b8439313bbc983771af98d18d660",
     "426fe86a0c7faf251ae5922016ca0b41cd57f74d64c494aa5d6c7710ffe1cc62",
     "4a591d50b22573a12fe13228d0cf46e0f3f52cff4a039364dc31723971766a8a",
-    "f5aeb55d9f4c12219eeb7f9cc106f368673ea4aca769448cb0c8a21ffab949a0",
-    "6eff7d108df1d823b5cd7efa01530ef3ba1e79ffd5d44dd3b4aeeae8223681e9",
-    "1854badbb1d0fdff91df8fbc66e5a9a2473115b9aa32218bddf2976f2783e6ab",
-    "22b55c27dd5c96c334820cc3f797bdf715df88c299335f6a9b1b174e25300daa"
+    "f5aeb55d9f4c12219eeb7f9cc106f368673ea4aca769448cb0c8a21ffab949a0"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

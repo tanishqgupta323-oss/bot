@@ -13812,5 +13812,45 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The New York Times",
+  "title": "Stable Labor Market to Keep Fed on Track to Raise Rates Gradually",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3ZZR3JMbllUMFZ5bWxkRGhDYmlCN244OENvcGxmWlB0M001TzdCZkpfZTRtU25XdU8zbm8wUGdfeW5NblZwSlJCVGN1V0dCY2ozakNMekJ2U3I0elZfTlUwSC1vYjhTaC1hNHI2dzdKdUt1aWhIU0FYS25EOF9aTXBTWnJNbzJuNWtLeHhUWUpCYkhGdmZLRDZMUno4SlZUd042QkN5M19IUVNqclNhOW1ZQl9INHFiUVpDZHFYVQ?oc=5",
+  "published_at": "2026-11-06T10:45:28+00:00",
+  "sent_at": "2026-11-06T12:25:36.823965+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0224,
+    "XAUUSD": -0.0466,
+    "BTCUSD": -0.2128
+   },
+   "60": {
+    "EURUSD": 0.0224,
+    "XAUUSD": 0.1055,
+    "BTCUSD": -0.0139
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WSJ",
+  "title": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzhmcEwxWnJ6eXlYcm5qb2lmOXVadVNibW1kYm1PbG5EaGVhQ0lnWDVQVk8tWU84Y3ptYWtJdjFjY29xZnUxOE9LbU9RVzI5WlhDbXBEbDlNRnBDRmJZVHk1Z2h5VTBCQmxweGxOUWhlZlJKWF9zaGNkSS1abVctSktKSHZFTFV3c24tNE4tdDdNQ3lEVFhmWFNobDR0OVFK?oc=5",
+  "published_at": "2026-11-06T12:20:24+00:00",
+  "sent_at": "2026-11-06T12:25:37.523169+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
