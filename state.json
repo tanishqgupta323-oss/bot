@@ -680,28 +680,10 @@
   "calendar_fetched_at": "2026-11-06T20:10:48.220410+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 179,
+    "count": 180,
     "day": "2026-11-06"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-24T05:40:51.818124+00:00",
-      "t": "Middle East latest: Trump warns of 'another little Epic Fury' amid fears of renewed conflict",
-      "w": [
-        "another",
-        "conflict",
-        "east",
-        "epic",
-        "fears",
-        "fury",
-        "latest",
-        "little",
-        "middle",
-        "renewed",
-        "trump",
-        "warns"
-      ]
-    },
     {
       "at": "2026-10-24T15:15:50.268244+00:00",
       "t": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
@@ -3633,6 +3615,20 @@
         "rate",
         "treadmill"
       ]
+    },
+    {
+      "at": "2026-11-06T23:10:46.175617+00:00",
+      "t": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says",
+      "w": [
+        "agency",
+        "iran",
+        "island",
+        "missiles",
+        "news",
+        "qeshm",
+        "strike",
+        "tasnim"
+      ]
     }
   ],
   "resolved_events": [
@@ -3661,6 +3657,8 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "aca99ddfe6a32c79665a1c27b2723ac1b621c1a1474e62e4e59963b619419003",
+    "6b45caf942f604fea13626b4bba77a33268ea3f3de3e245698f42efa987e0b4f",
     "2988fdb23ef2b58df01a6fc25321f3703b928ceccfb1474d310555f961f25e29",
     "b1e26a335e3d2d736dcc2f5e9844899e31398b2fdce05733e5ef15c1e56705c4",
     "f614bc30940ccb6f00f4b6b2fa67ffc5e643fc050023e29bc00c3c7c1fafd943",
@@ -4658,9 +4656,7 @@
     "8eee648ff97559353fd92e3be7e494527badf99499dc8c123bc0b430019e80db",
     "d25880e5233fed643c0a4e6ff7da410e011d6419948beb5a9e81a7cec361f65d",
     "1b20be42bfa72c2de554824c28c0af705163f9e388e3e10c0528e5fe2382681c",
-    "9c5d3612298d8bb394a62507899abed91c3dfd8952701e6d567b972bb18b320c",
-    "a57679ce8d1cf85e807f300dc974037d5f0da4a828a550bdeaf7457a37f57050",
-    "31d33ace4a165e8bd5e011216f75047038cfa7b771b6af5883334e5503be5971"
+    "9c5d3612298d8bb394a62507899abed91c3dfd8952701e6d567b972bb18b320c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
