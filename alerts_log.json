@@ -14176,5 +14176,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Russia launches ballistic missile attack on Kyiv ahead of Abu Dhabi peace talks",
+  "link": "https://www.investing.com/news/economy-news/russia-launches-ballistic-missile-attack-on-kyiv-ahead-of-abu-dhabi-peace-talks-5009587",
+  "published_at": null,
+  "sent_at": "2026-11-07T03:10:48.129571+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
