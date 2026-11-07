@@ -680,29 +680,10 @@
   "calendar_fetched_at": "2026-11-07T20:35:35.033290+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 141,
+    "count": 142,
     "day": "2026-11-07"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-25T21:35:36.344869+00:00",
-      "t": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
-      "w": [
-        "despite",
-        "done",
-        "expected",
-        "fed",
-        "hiking",
-        "hold",
-        "hot",
-        "inflation",
-        "rates",
-        "signal",
-        "steady",
-        "they",
-        "week"
-      ]
-    },
     {
       "at": "2026-10-26T00:05:38.753066+00:00",
       "t": "Gold dips below $4,000 in worst week in four months as oil fuels Fed hike fears",
@@ -3628,6 +3609,22 @@
         "moves",
         "treasury"
       ]
+    },
+    {
+      "at": "2026-11-07T22:05:35.214700+00:00",
+      "t": "US strikes Iran air defense system, unveils new effort to monitor Tehran’s borders",
+      "w": [
+        "air",
+        "borders",
+        "defense",
+        "effort",
+        "iran",
+        "monitor",
+        "strikes",
+        "system",
+        "tehran",
+        "unveils"
+      ]
     }
   ],
   "resolved_events": [
@@ -3656,6 +3653,10 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "0998370d9f060294637c3409cb3a4a1fe373048a817e179fdd2e87d1a9d657d5",
+    "acec7251c1e614a5083f8e00e52f85309abf9786d637599418a829e1ce919970",
+    "4bb2b7e6afc5d483a175aebbb9ae058509ffe291696b5bb21ca426d8aeaa1e21",
+    "ffd235eb0f5c28ffc4fc96d8597acaf3d1f7556cad62333769e310427a0e951b",
     "3f782173f3e9686e2130381c0290ed48dfb5498de6163308bd5f00a4a85cdd48",
     "a365a29b5898a82f7abf795b22fbbfdc1b0e7ad9240079ed4a15fa403b7c9bf3",
     "89b464c232f330af4b509a2393295a124b6bd16b6768ea7863b431949e284fb3",
@@ -4651,11 +4652,7 @@
     "c75f4ef36c57c56669c0d79f6a57d94b428be0fd1999410119f76ccd90496ecf",
     "c3954ade317f21fe29b590a180b1cdf41c71aa44a2fee37e303ac346186091db",
     "9f9dab4855c564fe07697c54f5210d57afdde7826173dced727d65feb8410ba2",
-    "f49778c56ae2c8fd5628bb4b6dd5ef3bf72dde73cce0ec68daeea4437f72cca3",
-    "62d06ec1669915e22540fdd1086a61dbee6500fa6ffbb27e89635e3557b1f9c0",
-    "c246993dedee15e1ec16ce5c9a1d13115225856560947ebe4475fcd2554f5b49",
-    "fbabf0a3c771a02c36da8923e1251214ca1788d276f06b32a785f7ce6f85b564",
-    "08e1d22b806b3e72ea031636896f298e107d2f91553b3644017a5914932733d5"
+    "f49778c56ae2c8fd5628bb4b6dd5ef3bf72dde73cce0ec68daeea4437f72cca3"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

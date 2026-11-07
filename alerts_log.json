@@ -14514,5 +14514,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "LiveNOW from FOX",
+  "title": "US strikes Iran air defense system, unveils new effort to monitor Tehran’s borders",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQVpZOXNqTERYTENkQ1BidTFBVzlWUGszazZrOGpZeVRLdUxkUGJzeDJRSWE2NjNrakNRX0RZYmd2c2c5S1R1WFJ4QnF3bDY3ejhmYjMyenJTRnRaTUZMZURPcFBfbTNhaWFWT1hjOFdOalZQVjJFZ3BzRTlodmRqUU9id01FVTlGY08wcURaRFMxaUdHTWU4UXRmOFE3eU5LZlNHMmlQTHZJTDdzeGc?oc=5",
+  "published_at": "2026-11-07T21:30:11+00:00",
+  "sent_at": "2026-11-07T22:05:36.284732+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.089
+   }
+  },
+  "checks_base": "published"
  }
 ]
