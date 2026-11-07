@@ -680,24 +680,10 @@
   "calendar_fetched_at": "2026-11-07T05:25:33.527647+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 2,
+    "count": 3,
     "day": "2026-11-07"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-25T08:10:56.990711+00:00",
-      "t": "Trump Says Iran Strikes Could Come Today. Can Bitcoin Hold $80,000?",
-      "w": [
-        "000",
-        "bitcoin",
-        "come",
-        "hold",
-        "iran",
-        "strikes",
-        "today",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-25T08:45:46.084962+00:00",
       "t": "Iran's army claims it shot down US drone over southern Iran",
@@ -3625,6 +3611,18 @@
         "trump",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-07T08:20:44.569793+00:00",
+      "t": "Iranian Media Report Explosions in Southern Iran",
+      "w": [
+        "explosions",
+        "iran",
+        "iranian",
+        "media",
+        "report",
+        "southern"
+      ]
     }
   ],
   "resolved_events": [
@@ -3653,6 +3651,9 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "22330d8f58c337a2b42ca2de5da0424054f3348d0f7f87742f12396289c9cc8f",
+    "f648b065239c1fec51380a3ae87786d64c2faed2c9dd4c7567ed354bcf975d27",
+    "4f8caf3c150078bde86b69e25a43289cf6c50698ddf361acdf860a74e27c5aaa",
     "7a4945e32706286c3387fefbbc37a40fd0d7cf653add9aec2bab3bc0df74d643",
     "b897ac74b71f6545df6db26828bba56d980f86cbcd78bc70a793ceb0eb9e8730",
     "73a2fd831991f678886999921646a3aa696f9679c0da27675d7c09b64ce7ec74",
@@ -4649,10 +4650,7 @@
     "3be0fb52393f4b7b989b77b93f9467f710aa2d5e679df91251b9320fcb25cd09",
     "bbefa72b6922b09daee1baf17866932cacee909fbd231686be2e666ffdfc20ec",
     "ea83bde69be0c32f8c77ebf6d8c1f05fffa3c94a1fd1eda7495a68bdb0e8d064",
-    "abde36811f7efc0b6a116dfd0bd0d315e0fe520250d1983c535df7ba4082f8e9",
-    "df59b16e216d4d325c5fb97920a953fd55a1b769ed81facc6c21a73f0f599c13",
-    "d3ae39dbca2ac11784e1aa1425606e1bc49962ea2a9010f3845685f054366a0d",
-    "ed2cb5537d77844515ee72c67d46747727010ed76942c5fb02024aa3c655dcf7"
+    "abde36811f7efc0b6a116dfd0bd0d315e0fe520250d1983c535df7ba4082f8e9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

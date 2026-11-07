@@ -14280,5 +14280,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "8AM Media",
+  "title": "Iranian Media Report Explosions in Southern Iran",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oZ0ZsZzdkeWFzelU0YWFTdkwxcDV3Qk1fX2d4dGRjMEJVYVNzTUdmTEF0VTFoOE5XNXpjYlJFUUt2SU1MRGozeWdCMUdKc0hZUzA5dWRodXY3SkxWQ0prS3BkWW81SVdzQ1FxQ3QtZ0ZLNXhOQWE0aHI0NA?oc=5",
+  "published_at": "2026-11-07T07:05:19+00:00",
+  "sent_at": "2026-11-07T08:20:45.363990+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0014
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1232
+   }
+  },
+  "checks_base": "published"
  }
 ]
