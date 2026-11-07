@@ -14150,5 +14150,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "KTVN",
+  "title": "US military carries out new targeted strike on Iran as Tehran's leaders weigh mediator's proposals",
+  "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcVc0dV9FMDJnb0NmVVRtXzBpdXBoRU1aM1g2TWJoamc2T0VvaTI0YmN6ck5aZ0pTVk5OZHFaS2Jjbmo3aWdCS093T3dfUlBqaTl3WWh6dTJfeUMtaVZZbUdBbm5hM3d2bWFtN0JYRWRza3VSVGlrZmJEcjV5bUdBTThSN1hjRE1oTkp6REkwWkgwNjh0N0VlVkxkNFV4a0JXSXhhSEdJaWZFbGhham1tUDA1QmpCcnBlbVJ6MXZIX3dzVXl1SlIwOTJESmliOFVHenJZdFlpQTVHSDJHT3QxZGVkWC1KUFh0eEJiYkEzTDBIU3YzMkQzV0Z3ZnBNeUY5RnhXajZCeExNUE9UOWF3?oc=5",
+  "published_at": "2026-11-07T01:34:31+00:00",
+  "sent_at": "2026-11-07T02:10:48.938329+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.107
+   }
+  },
+  "checks_base": "published"
  }
 ]

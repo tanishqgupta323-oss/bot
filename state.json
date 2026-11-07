@@ -680,26 +680,10 @@
   "calendar_fetched_at": "2026-11-06T23:15:47.119094+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 212,
+    "count": 213,
     "day": "2026-11-06"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-24T21:15:49.555243+00:00",
-      "t": "Trump: We May Attack Iran Tomorrow Or We May Get A Great Deal, Either Way We Win",
-      "w": [
-        "attack",
-        "deal",
-        "either",
-        "get",
-        "great",
-        "iran",
-        "tomorrow",
-        "trump",
-        "way",
-        "win"
-      ]
-    },
     {
       "at": "2026-10-24T21:40:50.803872+00:00",
       "t": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead",
@@ -3626,6 +3610,22 @@
         "report",
         "struck"
       ]
+    },
+    {
+      "at": "2026-11-07T02:10:45.732421+00:00",
+      "t": "US military carries out new targeted strike on Iran as Tehran's leaders weigh mediator's proposals",
+      "w": [
+        "carries",
+        "iran",
+        "leaders",
+        "mediator",
+        "military",
+        "proposals",
+        "strike",
+        "targeted",
+        "tehran",
+        "weigh"
+      ]
     }
   ],
   "resolved_events": [
@@ -3654,6 +3654,12 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "ba49302ce57c66cacf3245ee1b7891b5397ed6f934b4425b74de76650cdd3b43",
+    "63aeb31641202d26b783ab23b346ca1cc1bf3553fe58d11cc50bd0626ccb9d19",
+    "848b4fc5976b3c2091849e687fa12cd29cbe1c8b4de4c4f9d420fdbb2e7e949b",
+    "4869e90b6797eeb546fd144ac98deb753d37b3c66941d889d6f32f615e91cecd",
+    "e5d6c19155e22c2a59d135036a59e368253affa1070c8cb897176acd5163ed08",
+    "6f664ad2128d6723b2cf2927912f72f979efe0a977dc1001ffa4c8e91bdc5e49",
     "1a1007225cb1d420f5c8c9183c3fa042a380bfeb70498dcd2fd0b55d1258567a",
     "9bb9170b0307d63fae8344c86a7f4301376002673ee502b77318c268ca427b39",
     "d7c456fc6014c9a1a36001b5193d2793b327464c00d2683873876c08f4eb9455",
@@ -4647,13 +4653,7 @@
     "478174f8be47ebc8b2ddb71f1d7ffab3dd6a97fc95596bfbc289be993687c6c6",
     "87b1f0294e8eab8d1a61a079c143f86250121e8d8806b1d6e5495211c8a6d8b2",
     "d5719f6a93bb644a64c69802c5929ae116fa58e7e995cca06986ae4b0aed7daf",
-    "10fdae9137795aa703dc982b5fd2b9e9e204f84dd0c87d11f95c59f4673bb93f",
-    "f864dab3b4fc7d39b3b553ae6c6e9096c1d4641464148e53af5872f6b815d16b",
-    "fb8bbc53cc9776a88f0f0f53451c3cc8ea9f88b5aa18dff62f7afc6b336a8f87",
-    "89378478c11bfab288e1b9d4f5df3a3d21ca37ba9e26c6d9f8a10bb5c661fbb7",
-    "13ebdfff2c3d21b9da4f645a75e5e7c6ca7f1a90481b0d3d66a1935b70ca6006",
-    "a5b4b6cc2bb8a781205201adc58ceae70aca3589ee61cac6764a0f8ad0fbbbb7",
-    "5fa5e0c1d8fb4889e47305099da5d63d2f0cad9d1457e61423df055e9643c450"
+    "10fdae9137795aa703dc982b5fd2b9e9e204f84dd0c87d11f95c59f4673bb93f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
