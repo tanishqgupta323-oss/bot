@@ -14254,5 +14254,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al Jazeera",
+  "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMFVzN1dmN0xGMGpGLVNmc3ZkaF9zRUJ6cVg3MkloZGtZeER0RWw0MkZEY0Y1MnJyai1SU0ZyOFc0MnBYQUdCTm1KVm04VXRITGQ4R2xRWkJ2RktESnRVZDFlSncwUEhVS1hhZ1JadTgxYUd2VDJXdFBCZHppU0RQTkk2ODBzNFJnanZvcmw2dUgxQjExamdkb1lxQm55QVhQbTV3ONIBqgFBVV95cUxQbDhXVGdyNkg4RFljS2l2S2U1bDFyYU83NnNsUm45OU8wbnYtWTdPMzJWVUljUWpmQ000dk9PUVY2YURYdWxrQi1USWg3MDVpM3dtanN1SEZTNnFzQnlMM3RoSVZiZWdQNFZnMEVPbjhMUVRCSnZEVndFYVp1MjRSNkxEbkVYMDdJUU04YXh2Y1NqbVJIZGVnLVRFajFhMjh5a0ZLX0NfQ3NWUQ?oc=5",
+  "published_at": "2026-11-07T07:09:00+00:00",
+  "sent_at": "2026-11-07T07:10:46.190980+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
