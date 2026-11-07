@@ -680,27 +680,10 @@
   "calendar_fetched_at": "2026-11-07T11:31:00.146392+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 25,
+    "count": 26,
     "day": "2026-11-07"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-25T09:20:51.927113+00:00",
-      "t": "Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears",
-      "w": [
-        "bitcoin",
-        "crash",
-        "fears",
-        "flip",
-        "going",
-        "imminent",
-        "price",
-        "shock",
-        "sparks",
-        "sudden",
-        "zero"
-      ]
-    },
     {
       "at": "2026-10-25T10:20:50.634760+00:00",
       "t": "Bitcoin Slips Below $80K As Peter Schiff Warns Of ‘Very Long Weekend’ For BTC Investors — Mike McGlone Says ‘Don’t Fight The Fed’",
@@ -3625,6 +3608,21 @@
         "trump",
         "warfare"
       ]
+    },
+    {
+      "at": "2026-11-07T12:01:15.347902+00:00",
+      "t": "Iran prepares for war to resume, eyeing new targets and a shift in military tactics",
+      "w": [
+        "eyeing",
+        "iran",
+        "military",
+        "prepares",
+        "resume",
+        "shift",
+        "tactics",
+        "targets",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3653,6 +3651,13 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "72d787f147548dca20b4a04f0d01905724a7e40fdb6a254a7c9cd469f4c72afe",
+    "250ee2f4b064f5f8f09aa142b865fa9ee75e78bc20ae2224e021006554ee29bf",
+    "7f3fd27cc20ed9ff0964f8c6bfcf2b03cbc0b6b6c1fec0a0c45e078d3571712f",
+    "c331c1b07fd0ba45038e23eb566ddf799d2a06e75b97a19584a41a9e05078acf",
+    "10c29a8298bbf0008a3980986875d70e4862d918dcf40aaf521f2dc8bd5c584d",
+    "23cdd85f2db06dc543c27bb7ba09ed5be5eef54163bcf383b0fb12243e380668",
+    "fe06d9c6efc69b2883214653b576a17e9faee2ec3ebbc4f5dc0beda127bc3ebe",
     "9142a8f3d003fe695fdc6b9f09886acf479fae1068ca2282d203ad9db70cdf51",
     "a8987353436e552582ea59efe42ce177c827aa51c2b9af5b770390a055c26175",
     "2a255622438b9278a35399b70e4e51db7dfa069a6d8310c334cbb90d778f800b",
@@ -4645,14 +4650,7 @@
     "b2f31dfd057bac1e74d3d8a57d2d5a4b663c3fa9c907ca6cf99993817ada81c9",
     "60a10096ec28b6ab55ea7008f995ac9ac68ffaead5474d9620ef09ff742b1d26",
     "92153a5982ab048f39a7d3eb55782727a04cb4d4b8e112988fef4647d719808f",
-    "61c0641bc76917ac53bd68683b04c0a9899e5dd86121b53aca80a1085add3298",
-    "287eb27b1cb4add952c6e51694eb3e6d4a0698015c69e323b5ea75fd4526b79e",
-    "e192666abe147a2fa35968434dca58e5d0d6c5bfe1a5bae02bf581901eb732fa",
-    "b51f009794662d22469cdac50605aa5e33dd8bc70f6717bf9d5ee7ee2687aaae",
-    "0f82bcc7699453ab06e5402bc3dc58a883b9dc213ef2e29ae3e19eb20386a5dd",
-    "da26398b22faeb3b0e91b1209d4b3a9d35f97aee246820576457e244a62f7a9a",
-    "2bd9df103c9cd021d1eb11a364f8bb5888ae211e890d97f76bd104ca25d953a3",
-    "2350a9661aec4521821637c57e608ce5fdddaa39e8891060a9341713ee96ffd9"
+    "61c0641bc76917ac53bd68683b04c0a9899e5dd86121b53aca80a1085add3298"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

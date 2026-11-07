@@ -14332,5 +14332,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "NBC News",
+  "title": "Iran prepares for war to resume, eyeing new targets and a shift in military tactics",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUpka2hLSkx5ODRTeUJaOGtYZ1RvNHNHR3ZsamxQTWhjaWU1RXgySkh3Q0lyWnBCMjRqMHRZeWlJOVVJVkJwa3JmM0s1N2Z5YXdGWlMtTTRzSVcwRUVoYXhPbXYwTEJXT3lHbnlmUDkyaXJUU3hRRHdyUjY5SV96Ym0zcUhMQ190MnJjS1Nra3pwbEV3NnVZbV9uam45N3JiRlowOTVUeW9GRm1mTjNfM1R3?oc=5",
+  "published_at": "2026-11-07T11:50:35+00:00",
+  "sent_at": "2026-11-07T12:01:16.638234+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
