@@ -680,24 +680,10 @@
   "calendar_fetched_at": "2026-11-07T05:25:33.527647+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 244,
+    "count": 245,
     "day": "2026-11-06"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-25T02:35:37.888004+00:00",
-      "t": "Gold prices break $4,000 as investors brace for crucial test",
-      "w": [
-        "000",
-        "brace",
-        "break",
-        "crucial",
-        "gold",
-        "investors",
-        "prices",
-        "test"
-      ]
-    },
     {
       "at": "2026-10-25T04:31:14.625413+00:00",
       "t": "Iran Threatens Gulf Civilian Targets If US, Israel Renew Air Campaign | LIVE BLOG",
@@ -3626,6 +3612,24 @@
         "strikes",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-07T06:10:44.030023+00:00",
+      "t": "World in Brief: Stephen Miller to become Trump’s chief of staff; Strong jobs growth in America",
+      "w": [
+        "america",
+        "become",
+        "brief",
+        "chief",
+        "growth",
+        "jobs",
+        "miller",
+        "staff",
+        "stephen",
+        "strong",
+        "trump",
+        "world"
+      ]
     }
   ],
   "resolved_events": [
@@ -3654,6 +3658,8 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "741e5570dccc0ec5bf6bdd5b0ba0cf6e7a11186a63977885f44ffb5acabd80ef",
+    "545feff8150de95ac42070e2e1da33d4f2bd109137540d82d89c4b52a67cf7a7",
     "9e5e0f52c8ff0c0f86a2bd060d5494773494501cca563b7855fa797df418d219",
     "54b8ff3d4c6da82bf575850f8e4485d37cc025031b73917d46accfd0131d352b",
     "6ddfc2fb2f595d92411696c0abb953b5eb44c49c6a93db396af306fcdf2b466e",
@@ -4651,9 +4657,7 @@
     "3865fe1a00f9ea315f572f44a66165677224c64b5f6581bc7942bcfb09217546",
     "37d915adf2353263acd5d93bd549bddabdeeb73ef479aaf7bdaf13bbef13a4f5",
     "4e7aa3ba55bc82bc3ebd04441ed6b0f3a4515fffd742a0b732744b7bd1f95090",
-    "a271754080bfc60e8a1a3c1a6649c3cf26856d230485915eb6d62474be82656b",
-    "39e21683eb4a54e92cf673e45ede421785618900464f4cbfb172f0e14f70701f",
-    "1c2abd3c850993a491fd5580dbdd7a0327b1bb24eb95b57470c0d09c9409c538"
+    "a271754080bfc60e8a1a3c1a6649c3cf26856d230485915eb6d62474be82656b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

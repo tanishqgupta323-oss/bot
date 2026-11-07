@@ -14228,5 +14228,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Economist",
+  "title": "World in Brief: Stephen Miller to become Trump’s chief of staff; Strong jobs growth in America",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUzBWXzdHZm1IdUxRMW1CWndxRjZraWQzbHlfblZpWFJfRnl5OTh2UmZJa3pPY2dDWEhFUjhXRlZ6c3p0NzNGV3drUERieTdQeWhGQnZ3ajdJUzF3elhoRWRLeDdrZWFOZlVBWmhxdFZ3RFZ3NkxDM01sb3B4Nm0zWlpsYXJ5aHpsUDRkMF80N0lFcWViWWdF?oc=5",
+  "published_at": "2026-11-07T04:50:52+00:00",
+  "sent_at": "2026-11-07T06:10:45.094436+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0774
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.2184
+   }
+  },
+  "checks_base": "published"
  }
 ]
