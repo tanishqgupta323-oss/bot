@@ -14449,6 +14449,41 @@
   "eurusd": "NEUTRAL",
   "xauusd": "NEUTRAL",
   "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.041
+   }
+  },
+  "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Los Angeles Times",
+  "title": "U.S. carries out targeted strikes on Iran as Tehran’s leaders weigh mediator’s proposals",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZldIY0JYNjllYmVNb1AyYzFHOGNyMzNXYmxvbERBQmpqX0VWYks5ZVVacDUyQk5TRTMxQU5QNUI4Z1ZKeG45dFZTVWZPTEdzdzl5M1F5V3BHOHpXWEMwbU1DRVF3R0pIWlR3TGRYcHNKNWRnb0JSaEZxem9XSlA0NkhVYUktUFU2RG1EcmpiVHhlNzdiRVU2eEdxMnVyQUhEMnZwck5NeGhWM3J4T2sxQllmcW9lMFdvc0NFdU9zdW5ydXM?oc=5",
+  "published_at": "2026-11-07T17:34:00+00:00",
+  "sent_at": "2026-11-07T17:40:50.987985+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+  "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+  "published_at": "2026-11-07T17:36:46+00:00",
+  "sent_at": "2026-11-07T17:40:51.609416+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]
