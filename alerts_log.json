@@ -14358,5 +14358,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "ABC News",
+  "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT2Qwd1VWZ2I3eUY5Qmp4R1NEQTV4Y1lJdEZ4eFZHdnBTN05vLTJvdHVIdC1xUjd4cDYwYVYybFM3b09DMzVqV2Rrd0hRQ0Jlc1VqUk05SXd6VjV5NlNZMm92a0ozR2ZmWWd4UnNvUTVqYVZGWlFfVXhITjN2c1V1WF8tM3BqVi1WNzNiSTllM2dtWGU5VzFtb2s5MWNncEVTcm12TU11T2NfclXSAbABQVVfeXFMTUJ2RWlNMi01MUdKN2xadnQ4Q1VzZzM1V3dXVW1XNnVPaThtNUQxcnZ4UUJRd2YzSllRMnlGU1FRME5lb0tkdFFqOFBxMmF1NFdKdFd4YlpfeFhBUGR6dUZrV21WNGh1UjFqVEF3Wkl5WjFyaXJHVmp0V2x2RXlpNjU1bUluemNqaTZMbDNGVng3V2dIZlNlZmFOaFRxSGhwLXFzTlV4MXJCU01YalI2WFU?oc=5",
+  "published_at": "2026-11-07T13:03:12+00:00",
+  "sent_at": "2026-11-07T13:20:49.906109+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0685
+   }
+  },
+  "checks_base": "published"
  }
 ]

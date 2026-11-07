@@ -680,33 +680,10 @@
   "calendar_fetched_at": "2026-11-07T11:31:00.146392+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 40,
+    "count": 41,
     "day": "2026-11-07"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-25T10:20:50.634760+00:00",
-      "t": "Bitcoin Slips Below $80K As Peter Schiff Warns Of ‘Very Long Weekend’ For BTC Investors — Mike McGlone Says ‘Don’t Fight The Fed’",
-      "w": [
-        "80k",
-        "below",
-        "bitcoin",
-        "btc",
-        "don",
-        "fed",
-        "fight",
-        "investors",
-        "long",
-        "mcglone",
-        "mike",
-        "peter",
-        "schiff",
-        "slips",
-        "very",
-        "warns",
-        "weekend"
-      ]
-    },
     {
       "at": "2026-10-25T13:10:48.777337+00:00",
       "t": "Will the Fed drop any hints on rate rises?",
@@ -3623,6 +3600,22 @@
         "targets",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-07T13:20:48.733532+00:00",
+      "t": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
+      "w": [
+        "imposed",
+        "iran",
+        "lifted",
+        "limit",
+        "mideast",
+        "missile",
+        "news",
+        "other",
+        "ranges",
+        "self"
+      ]
     }
   ],
   "resolved_events": [
@@ -3651,6 +3644,8 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "c620bd8f5974148d216c17c6246b8a8debe470ecdcce26ada315afddf8906e7d",
+    "3b3d7bdaaafeffcbd6c5f4640e580fd803d40931a6d771e8f8d1caac6cb6380f",
     "c52e2cdf7b98dc68411e6bcb60434a478db9e730fb0ffd08486b18dda9de9840",
     "c3decb1c93934a64bf531570f9582f5560e025bf6bd892b77d1fb3369c4cfe2c",
     "744cebd315e64d7c1109225a666bcd83036d1a7d6b47da245320be1d2b9d4a59",
@@ -4648,9 +4643,7 @@
     "2e8c07745358e8d8fb0377840351df3d77403eb4a64a7adcddeddaebd762e572",
     "3dd21ea3b4bdbff12d0c14f8cb180441533c9cbd257e30e0f86433ddd8b3d7bd",
     "9860c282f458dee477cca8e25a6c6bda3a34f414f6b7ced78199da70e28b3a96",
-    "e7697e0cb0ab162c4d11bf101fe76d8ae50e234f745161cd0fcbaa1030c04d00",
-    "26e716d10697c10bdd2b88a970e55030a2fe30d3cd2aa018bbf7703111c2bffd",
-    "720f7e6e6f508137f9ffccb2c042ce85ac94f305bb602c489399240205c62a0b"
+    "e7697e0cb0ab162c4d11bf101fe76d8ae50e234f745161cd0fcbaa1030c04d00"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
