@@ -680,24 +680,10 @@
   "calendar_fetched_at": "2026-11-06T23:15:47.119094+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 197,
+    "count": 198,
     "day": "2026-11-06"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-24T18:35:38.103658+00:00",
-      "t": "Pentagon Presents President Trump With Options for Renewed Iran Strikes",
-      "w": [
-        "iran",
-        "options",
-        "pentagon",
-        "presents",
-        "president",
-        "renewed",
-        "strikes",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-24T21:15:49.555243+00:00",
       "t": "Trump: We May Attack Iran Tomorrow Or We May Get A Great Deal, Either Way We Win",
@@ -3625,6 +3611,21 @@
         "trump",
         "window"
       ]
+    },
+    {
+      "at": "2026-11-07T00:50:42.408800+00:00",
+      "t": "Two missiles struck Iran's Qeshm Island after aircraft heard above - report",
+      "w": [
+        "above",
+        "aircraft",
+        "heard",
+        "iran",
+        "island",
+        "missiles",
+        "qeshm",
+        "report",
+        "struck"
+      ]
     }
   ],
   "resolved_events": [
@@ -3653,6 +3654,7 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "81484251f28f74bc69eba4856afa9d831f4d19227e8b6c3029c4e7c7a0975999",
     "4e54ba9aa212683313597423552773ddcaa3222359a073bda3c2a5f71fbe410a",
     "0c5e8f3153ef5e0c3362a2ca14420b04738d314de0724791de64c0e7dc7c114c",
     "c0878e31ff472da8f3d36e06ccc2e13a50529e263a59b0efb180c9fc4060a58b",
@@ -4651,8 +4653,7 @@
     "be7332a820b5d84c3e570ea316397bce4dfefcb9c90eb3e1eea255c4ba96b91d",
     "9067a96082c4abb880ee8b5474de6b9f6c23e115f54dedb9862fa776a433b5aa",
     "0889e948b469bcd770636300be84c70eb8b2709fdd31a1c16dad1a89bc8173cb",
-    "23933c55eff82418488b85aac79bbc05f0ba90a6feb0eb560c2686f2ca1dd9f7",
-    "3995e8d5f376b7acd567c9d947c9905e13ed563438cddee0280dbf9bd3f52eed"
+    "23933c55eff82418488b85aac79bbc05f0ba90a6feb0eb560c2686f2ca1dd9f7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
