@@ -680,29 +680,10 @@
   "calendar_fetched_at": "2026-11-07T20:35:35.033290+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 152,
+    "count": 153,
     "day": "2026-11-07"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-26T00:05:38.753066+00:00",
-      "t": "Gold dips below $4,000 in worst week in four months as oil fuels Fed hike fears",
-      "w": [
-        "000",
-        "below",
-        "dips",
-        "fears",
-        "fed",
-        "four",
-        "fuels",
-        "gold",
-        "hike",
-        "months",
-        "oil",
-        "week",
-        "worst"
-      ]
-    },
     {
       "at": "2026-10-26T06:50:48.395390+00:00",
       "t": "Donald Trump Could Order Major Iran Strikes as US Forces Reach 96-Hour Readiness",
@@ -3625,6 +3606,22 @@
         "tehran",
         "unveils"
       ]
+    },
+    {
+      "at": "2026-11-07T23:10:45.820725+00:00",
+      "t": "Explosions heard on Qeshm Island, multiple locations in Iran, state media says - report",
+      "w": [
+        "explosions",
+        "heard",
+        "iran",
+        "island",
+        "locations",
+        "media",
+        "multiple",
+        "qeshm",
+        "report",
+        "state"
+      ]
     }
   ],
   "resolved_events": [
@@ -3653,6 +3650,7 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "863177041bcb464517e23e700a65e62e30292c0ecf9ebd25fad7aa63b70b28b1",
     "3fe0a40c4d300dfdc0c5e88c2de9831cf587add0a87f23781915079d2fabca9d",
     "fcaa52d660327b2472298f857bf4c441836ed3aa013b23071a324ec4f2ffc3f5",
     "9d4cc81669764d3faa40e5afa6bb424dca88c24d9dbb0be874472eb62b643464",
@@ -4651,8 +4649,7 @@
     "22a5b8addd7155aec469c73fbfb5c4efbab9f9fbc47331b0fd8f540091a7b0f1",
     "ab89a537266dbb88a2c0c59c14efa8db249f367997cf297c0d839e0b88ecce57",
     "20f49472298101693625bb570f8cb6b0ffc92daef5c6f62cca600c467f71e7e1",
-    "98b9569f1ac8aa60b0c4a8515b282ec738a1034f06fb763368b9eab41e698d3f",
-    "28525561a12c071e2d79064f3724e8536b7744a1fabd04661f971711a9926185"
+    "98b9569f1ac8aa60b0c4a8515b282ec738a1034f06fb763368b9eab41e698d3f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
