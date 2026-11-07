@@ -680,23 +680,10 @@
   "calendar_fetched_at": "2026-11-07T14:31:09.458643+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 86,
+    "count": 87,
     "day": "2026-11-07"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-25T15:15:44.822163+00:00",
-      "t": "Trump Says Decision Time Nears on Iran: Deal or ‘Finish It Off’",
-      "w": [
-        "deal",
-        "decision",
-        "finish",
-        "iran",
-        "nears",
-        "time",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-25T17:50:48.411619+00:00",
       "t": "Trump rules out Sunday military strikes on Iran",
@@ -3622,6 +3609,20 @@
         "sachs",
         "weighs"
       ]
+    },
+    {
+      "at": "2026-11-07T17:20:44.975857+00:00",
+      "t": "Binance CFO exits days after catastrophic $6 billion crypto hack",
+      "w": [
+        "billion",
+        "binance",
+        "catastrophic",
+        "cfo",
+        "crypto",
+        "days",
+        "exits",
+        "hack"
+      ]
     }
   ],
   "resolved_events": [
@@ -3650,6 +3651,10 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "3a81e0d3ccaca34d06c4009a68d38c2e3df2c5125059b1930a19b9c4a430ad4d",
+    "165f307e217355ede24430d3638b2f654bc1cd379505a393c1e14b4b1688fce4",
+    "32144fb325b1e6b3fd1bedaac6577af3c3afed1c6e6b257096d088f26ea7b51c",
+    "fcd7fd380bec666642191960cc35bfc8e6f6d6617c344c355d36a1ee944201f0",
     "9904ca0f74395e4145eac610cf946184eec655b45a3e35885b4646ed824e0bb2",
     "1ad38538afdc49c1fbb2b4d6fc554dabe3e7c7e221bba3e30662f113bb207916",
     "80c240c9c66a4177c0396e2074dd5ddebd8901e23eec08f9d676049b3068c2b2",
@@ -4645,11 +4650,7 @@
     "68c1ae9021d229e5df316faff88d2ca72f13bfd2f74e8f6920dc14bc716ba8c4",
     "c52f6a8c9c80f6cb316d0fb06c604384ce9d046ddc61018de8385d58eff7f4b1",
     "2b55bff12bde6dc02f1e4ae1ea3e6007fae68337d96782e8e596784a966e0bf5",
-    "ff4978cf75fabffe097d3e4368fdf7c7c397a22d9453bb7dfd2019ad9e36f60c",
-    "76a87dd515de0f1b54294ab5c2f6ab4a856e5fa8344d488eeeded317e3b37b34",
-    "2c4bb56e5397d82051ffb4cf4cd96846a4c41d1da27ef2783bbe5b1fb9161d7a",
-    "7180d3b5d064a0b855ae2dd865a28f6e6c087c73d1d8daf2b4bfcf95bb1c14b1",
-    "133ecec859494cb17dbebf932a81e38f1685a54070f60379a1dc9bb2654707bc"
+    "ff4978cf75fabffe097d3e4368fdf7c7c397a22d9453bb7dfd2019ad9e36f60c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
