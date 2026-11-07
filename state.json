@@ -680,23 +680,10 @@
   "calendar_fetched_at": "2026-11-07T08:25:34.374465+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 6,
+    "count": 7,
     "day": "2026-11-07"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-25T08:45:46.084962+00:00",
-      "t": "Iran's army claims it shot down US drone over southern Iran",
-      "w": [
-        "army",
-        "claims",
-        "down",
-        "drone",
-        "iran",
-        "shot",
-        "southern"
-      ]
-    },
     {
       "at": "2026-10-25T09:20:51.927113+00:00",
       "t": "Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears",
@@ -3623,6 +3610,21 @@
         "report",
         "southern"
       ]
+    },
+    {
+      "at": "2026-11-07T09:01:13.562084+00:00",
+      "t": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+      "w": [
+        "again",
+        "cognitive",
+        "engages",
+        "iran",
+        "nuclear",
+        "sites",
+        "strike",
+        "trump",
+        "warfare"
+      ]
     }
   ],
   "resolved_events": [
@@ -3651,6 +3653,7 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "cf54c1d8f3e56e9ce0f01b97ec339f7a94e5dcbfea6a7cade8fe7853d9867d54",
     "cb9e54df92b04b7b7492d0972aee789f5314c0f49fe0fb21e4edfa4b0c502268",
     "3be0fb52393f4b7b989b77b93f9467f710aa2d5e679df91251b9320fcb25cd09",
     "ea83bde69be0c32f8c77ebf6d8c1f05fffa3c94a1fd1eda7495a68bdb0e8d064",
@@ -4649,8 +4652,7 @@
     "9ee0e525d5aaef1df7c27bf6ab32a45addae62aae9fbe1b05150ba53022f50f9",
     "c0f7291e3477c8a65212cd94993ed5127cbc45cadaad0a73070afb8c46f941b9",
     "aa62b7aa35ca33bf277873fc26adc00d9b90b07b4ec831e6b41890690d68e2f4",
-    "a2025ab438720eb7ed040e0409c5dc7d525948574dd6b4012670081399152b82",
-    "a98e4d0d0654d429ec7f115560c1e370272d7ee777b978ecb1a3ef3379bce5e5"
+    "a2025ab438720eb7ed040e0409c5dc7d525948574dd6b4012670081399152b82"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
