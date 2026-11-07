@@ -680,25 +680,10 @@
   "calendar_fetched_at": "2026-11-07T02:20:44.821219+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 236,
+    "count": 237,
     "day": "2026-11-06"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-25T01:05:38.032350+00:00",
-      "t": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
-      "w": [
-        "back",
-        "fear",
-        "full",
-        "iran",
-        "level",
-        "pushing",
-        "risks",
-        "threat",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-25T02:35:37.888004+00:00",
       "t": "Gold prices break $4,000 as investors brace for crucial test",
@@ -3627,6 +3612,20 @@
         "russia",
         "talks"
       ]
+    },
+    {
+      "at": "2026-11-07T05:15:42.320996+00:00",
+      "t": "Iran shoots down 2 US drones as Trump announces ‘minor’ strikes",
+      "w": [
+        "announces",
+        "down",
+        "drones",
+        "iran",
+        "minor",
+        "shoots",
+        "strikes",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3655,6 +3654,9 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "9b9750f714d0b33396e681b1a64124c90b33ba76f497e5b32d81b825a51fe9e3",
+    "693705336b991a0653bca93e50519c4e9afb8af5c206e7072988574545056130",
+    "3ea46e7b7c01e4bb3be0f4dd7a2ba63c5d0b31ecf493865865e01bef32c5493f",
     "9f4637b82cf05486546bd944e6601565961df182b5de3877feb7f0559bfda99d",
     "79f6b3731888f03cece7c144b7e701a6de6551ddb447895884617143ba53eac4",
     "e65a306645fb2efdec8e85531a478e2d73844991eb6285fde739d6b2e2b82243",
@@ -4651,10 +4653,7 @@
     "68bd4cec3e80011bdf03ecba231718db50129b215d3a913dae53de1c112d8c2b",
     "8da02fdef349642b264b887b03bf427ad8a111291d9f476b3ee635711a5e7950",
     "eee3ba101ac69e37ceed6150e74551ba710a6aeed4ce4fe30965e836182c97bd",
-    "a0a82eeb44d3e81c26ea89595306dc8b28fa521a1ca78385f5d4ea99c337f7a7",
-    "8ee0a12ccdd586b42e359c12102128c4080b0f64c7ff2f2f97ba605c39139551",
-    "a2cef9c40daa8f5144c353bcb69c0860dfc2b0b310f286d74162263edc2e6f38",
-    "a50c79b7e5f35c1874cbf52c0b4abf456dc005ebef2fcd2884bb0c28b17c9014"
+    "a0a82eeb44d3e81c26ea89595306dc8b28fa521a1ca78385f5d4ea99c337f7a7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

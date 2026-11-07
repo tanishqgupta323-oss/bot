@@ -14202,5 +14202,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "chinadailyhk",
+  "title": "Iran shoots down 2 US drones as Trump announces ‘minor’ strikes",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4TXExMDQ5M1MwSXg4YVBNRHlOZWVKbUlDNkNsWnRGUlFxMERVYU5HS0QzTEpsOVdBY0k2M3hOTnU4amFXc2xBenNZUlZfOW9lWVlmeEdnRGI?oc=5",
+  "published_at": "2026-11-07T04:30:48+00:00",
+  "sent_at": "2026-11-07T05:15:43.911425+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0119
+   }
+  },
+  "checks_base": "published"
  }
 ]
