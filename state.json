@@ -588,27 +588,10 @@
   "calendar_fetched_at": "2026-11-08T18:01:13.641696+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 134,
+    "count": 135,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-27T13:05:36.665715+00:00",
-      "t": "FOMC Preview: A hawkish hold as markets watch for signals about timing and extent of further tightening",
-      "w": [
-        "extent",
-        "fomc",
-        "further",
-        "hawkish",
-        "hold",
-        "markets",
-        "preview",
-        "signals",
-        "tightening",
-        "timing",
-        "watch"
-      ]
-    },
     {
       "at": "2026-10-27T16:31:09.685928+00:00",
       "t": "U.S. faces record gas price hikes amid Iran war tensions",
@@ -3517,6 +3500,19 @@
         "through",
         "understandings"
       ]
+    },
+    {
+      "at": "2026-11-08T20:25:33.224948+00:00",
+      "t": "Iran threatens to ‘rain down hell’ if US escalates war",
+      "w": [
+        "down",
+        "escalates",
+        "hell",
+        "iran",
+        "rain",
+        "threatens",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3545,6 +3541,13 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "7e6203b909a8c8cf73a967b765ea6d483e655c9559656f75b1aeb13239433704",
+    "85592c33a3d56caa48c46c84f432ac5237ae9eb7a86dcc3c0ccc7ef87824165a",
+    "76ff6e75a963032a0494a82016348fd9fb697f7a35238b5d15c3f42ce45e3ce1",
+    "870f579b5ace2d196adfa374029e2342afef0613231f31f0f98191d662b0ae05",
+    "8be44344c7fc8926f57f44abcd3f2b8603f582b8e1dd53e8a4d14c56f736602d",
+    "9d3700c797cbb7f4fc1495f2a494fae0dfcd647bc0b5d1a90f08be850e0fc735",
+    "9e5e0f52c8ff0c0f86a2bd060d5494773494501cca563b7855fa797df418d219",
     "0d2ab628a33f3aad2616fc0dff28f0163f58bd19aaf3436b3380ff65cd29e9a6",
     "3e20aa3737e425ac251108c4c7b89dee629d08b3884a034b9b7e7e473228cd6a",
     "3bc7a8028b4aa4d4727c61a63c5080bce2938c72bdeb77342ec470ebe47e3fd6",
@@ -4537,14 +4540,7 @@
     "d2691c5db7e979336725cb1539842c08f2d16f311c713461a8cd6a0e2187e827",
     "f5981f060a5a3df559e94b4dfe6dad21e19e7f44e15f68b708595efdd1afa6cd",
     "92911d5b5a7e9823f7b118f387f2f701c824f34a00e0773d6af05903cf92ea72",
-    "819613654b96c6cbf27ca5c176350cd6b9636f922aa31a9cdfd2ab1c1250607b",
-    "9679d7256fcd049d91076555bf89adc4336094e0f6f4afdecf537ff431a40cd8",
-    "5d0ede7f980506d2aa9e865e268cb124825ed38562a56c4a5cdb0c507cc60b40",
-    "2821fe9934b4322f5af50afe1c788bc57ea40646e11491545de09624232a1a97",
-    "9f3e666206414b834c698ae6d5c453b78d11ef0ab2154572d0cd2bb01098389c",
-    "0979be2f78a23307647631efa45e167de38549b5265d379ce1d6d40d68d4980f",
-    "741e5570dccc0ec5bf6bdd5b0ba0cf6e7a11186a63977885f44ffb5acabd80ef",
-    "545feff8150de95ac42070e2e1da33d4f2bd109137540d82d89c4b52a67cf7a7"
+    "819613654b96c6cbf27ca5c176350cd6b9636f922aa31a9cdfd2ab1c1250607b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
