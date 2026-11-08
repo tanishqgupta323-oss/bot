@@ -14592,5 +14592,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WCTI",
+  "title": "Trump confirms new US strikes on Iran near Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOT01oYlVVaXZ0d0NNNGJFQzQwb3F0VUl5WWhiLXU3NWFtb2lNUnkzSDIxc3c2U3N2UW9mX3NLUlZyeGV2TkNtNjl5b3hXQmpWdkF6LUwzdDE4eEwtQWl1SGFNNGs4SkU5c1Myd0ZnM25tajRaNTVVUFRmX21pVjNsVGwtVkRwMHgySVFhX2s1cmhESlJFSzlNZjFyMk5zX2pXeGRHVWhoX0pwVXktQ0ItaDFsc0VqM0dnMHBMcnR3Yk1JRGtvckZ1X1VLb3hLcGxHVDlqMVppWjZIaWFxUTdCNGR5bVQxQTdaMU0tVjRfd1pleGhBc3EyZEVJdmFTeHVtTU41WDVlaDRHbXZ6RjBNNUZMZkpIbGNOOTlPcmUxNllaSVlZRldWTHRxb29OYUhhbXNEU0xaUUNDNmc3dG93NUw1VFc3dThuSERGTEFQYml2LV9oZUN6bDNyMTlUYmpXSTJpZXBCRk81RWM1c0tfX05zeTJhdWNITW5sYkNnVnVsZ1ZVa2FxR2JNdXZQNjl4LXcxeXJzVENpUTJ5OW52STRCcw?oc=5",
+  "published_at": "2026-11-08T02:03:45+00:00",
+  "sent_at": "2026-11-08T02:15:47.275433+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

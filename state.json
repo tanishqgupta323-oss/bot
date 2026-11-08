@@ -680,22 +680,10 @@
   "calendar_fetched_at": "2026-11-07T23:40:41.246878+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 184,
+    "count": 185,
     "day": "2026-11-07"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-26T08:45:47.383686+00:00",
-      "t": "Iran says it’s prepared to go back to war amid threat from the U.S. and Israel",
-      "w": [
-        "back",
-        "iran",
-        "israel",
-        "prepared",
-        "threat",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-26T09:40:51.219472+00:00",
       "t": "Gas prices top $4 a gallon as Iran war escalates",
@@ -3619,6 +3607,19 @@
         "war",
         "washington"
       ]
+    },
+    {
+      "at": "2026-11-08T02:15:46.524747+00:00",
+      "t": "Trump confirms new US strikes on Iran near Strait of Hormuz",
+      "w": [
+        "confirms",
+        "hormuz",
+        "iran",
+        "near",
+        "strait",
+        "strikes",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3647,6 +3648,8 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "e1dc9255b3ce63e1b0e36c2677d1f78fdd7fa2c4892fa99fe935b6cc928849ad",
+    "13e30f5f6d16cab4a4565dc8e229db5ab18cba877ccba184461f919b48144ceb",
     "3947f79693bb6e70f6c4e338fd2e23931ee39a391e725979dc9b47eaa5cf238b",
     "f3469195ced18c12d5fae7995d0303a078470727516d22aa5c8dc42538469fd0",
     "c43c300e039497464a06e8f3516e4918a14fcdce9905e40caed2846793669929",
@@ -4644,9 +4647,7 @@
     "b790de7e0ebd13d75cd4bba499168b58b05c5fafb720cab27ff870cfb6387144",
     "9746d42a8333b640071e4dcd79a29ebe6e302ff5a884da6ce88085704854eb09",
     "638d6074c57c216403d85db76e49e928d120a412216255e2659fe3e5dc6ed810",
-    "bb614899f18a334e68b902f12e389851eafecc21b1eed885c7c4cb77c0d58a7f",
-    "d9f473fe9a438c947e2278361764fe3382cf56710e09e5301553226fd3ef917c",
-    "2177b83be2569a33b0869b9466db745360fee8377fc4dbabbe794f095c6bd10b"
+    "bb614899f18a334e68b902f12e389851eafecc21b1eed885c7c4cb77c0d58a7f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
