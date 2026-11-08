@@ -588,25 +588,10 @@
   "calendar_fetched_at": "2026-11-08T11:50:44.318011+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 69,
+    "count": 70,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-27T07:20:52.356767+00:00",
-      "t": "Fed holds interest rates steady as inflation hits 3-year high",
-      "w": [
-        "fed",
-        "high",
-        "hits",
-        "holds",
-        "inflation",
-        "interest",
-        "rates",
-        "steady",
-        "year"
-      ]
-    },
     {
       "at": "2026-10-27T08:10:48.747584+00:00",
       "t": "US Military Prepared to Launch Iran Operations Within 96 Hours",
@@ -3522,6 +3507,19 @@
         "iran",
         "tankers"
       ]
+    },
+    {
+      "at": "2026-11-08T14:20:45.233066+00:00",
+      "t": "As tech swoon roils market, US inflation data on tap",
+      "w": [
+        "data",
+        "inflation",
+        "market",
+        "roils",
+        "swoon",
+        "tap",
+        "tech"
+      ]
     }
   ],
   "resolved_events": [
@@ -3550,6 +3548,9 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "174cd9832b2742ac1725222ace505f2143b84b4e566aa86553f700b041d146a5",
+    "69c8edcf8ebbd4c961b0781baced3493dacb9ee509e000a00f4e2c4564920e0f",
+    "9505c4150904bdb33231fcc18a168dcd175c29132f2742b194c0d58a56cb7ecd",
     "19a14e26c2bfa2b437647bfd77669edb9bc529f7518263a67bd2362662fb65cd",
     "8f7ede33d0b620f86543b3fb64e0aacb9781e3bc3ae42382cdd655ba6af2f2da",
     "d7aa295e1a1ef293b7564e6a7f1c3be0e884970963d498678fd70f0bc1908a91",
@@ -4546,10 +4547,7 @@
     "95831c5775b5b49d1e96fb73cf5ec7938ca87b635728cd3e26c871f42a5aff91",
     "ba53da6920e81bc8fcae3132b9f8a3b4243f40062648ef54f06f1d0e2f1761a4",
     "b2c9301999decb35755842c05816d7883dd69b18851a6fe679dd49de15189329",
-    "f3d364f6c6012cce1c4661a7b64c5ea1bfc45c1e0f430f3da97da8dc5a96a74b",
-    "4ebe592db28628ca64f5ba57661e8868dea197d02dbcc0c079647d0ebfdbe5b0",
-    "7f7d0c950f4763d0cd6da0a0f7cd5eb1a501432c6d33e3332bf0f72b59ee953a",
-    "5b50dfa515ffe9016284c20de9f371f31cffcad993b5203e68a5b8a48b4df516"
+    "f3d364f6c6012cce1c4661a7b64c5ea1bfc45c1e0f430f3da97da8dc5a96a74b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
