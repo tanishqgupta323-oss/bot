@@ -588,29 +588,10 @@
   "calendar_fetched_at": "2026-11-08T21:05:40.136090+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 161,
+    "count": 162,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-27T18:31:10.711862+00:00",
-      "t": "‘Neither War nor Peace’: Khamenei Demands Iran’s Terms Be Met as Tanker Burns near Hormuz",
-      "w": [
-        "burns",
-        "demands",
-        "hormuz",
-        "iran",
-        "khamenei",
-        "met",
-        "near",
-        "neither",
-        "nor",
-        "peace",
-        "tanker",
-        "terms",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-27T18:50:49.258981+00:00",
       "t": "Food and household brands warn of more price hikes as Iran war costs bite",
@@ -3510,6 +3491,17 @@
         "iran",
         "ultimatum"
       ]
+    },
+    {
+      "at": "2026-11-08T22:45:45.326554+00:00",
+      "t": "Diplomatic agreement with Iran may not be possible, says US' Rubio",
+      "w": [
+        "agreement",
+        "diplomatic",
+        "iran",
+        "possible",
+        "rubio"
+      ]
     }
   ],
   "resolved_events": [
@@ -3538,6 +3530,7 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "995e2589ae680787891f430187388e368a19053b837298779a9b31dc177432cd",
     "c2e1820cf50f957478fdbf58ced9f9d0765377b159b190b97f6877f31a60cc50",
     "d4a18b9f28770cdf947dea7ce923db80d5c6a2e3220060a2c738b44c42bcb8ce",
     "25ca1d6ce6fd20ac675ac7f0d87649c083a6c23206cf3b3a9c908ddfc282e5d3",
@@ -4536,8 +4529,7 @@
     "fe06d9c6efc69b2883214653b576a17e9faee2ec3ebbc4f5dc0beda127bc3ebe",
     "9142a8f3d003fe695fdc6b9f09886acf479fae1068ca2282d203ad9db70cdf51",
     "a8987353436e552582ea59efe42ce177c827aa51c2b9af5b770390a055c26175",
-    "2a255622438b9278a35399b70e4e51db7dfa069a6d8310c334cbb90d778f800b",
-    "b35b66a738bbd51479ce6d126b7545e38f520cce9dd707dcd0c1efa47206a5fe"
+    "2a255622438b9278a35399b70e4e51db7dfa069a6d8310c334cbb90d778f800b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
