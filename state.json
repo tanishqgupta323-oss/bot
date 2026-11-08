@@ -680,26 +680,10 @@
   "calendar_fetched_at": "2026-11-07T23:40:41.246878+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 176,
+    "count": 177,
     "day": "2026-11-07"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-26T06:50:48.395390+00:00",
-      "t": "Donald Trump Could Order Major Iran Strikes as US Forces Reach 96-Hour Readiness",
-      "w": [
-        "donald",
-        "forces",
-        "hour",
-        "iran",
-        "major",
-        "order",
-        "reach",
-        "readiness",
-        "strikes",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-26T08:45:47.383686+00:00",
       "t": "Iran says it’s prepared to go back to war amid threat from the U.S. and Israel",
@@ -3622,6 +3606,19 @@
         "report",
         "state"
       ]
+    },
+    {
+      "at": "2026-11-08T01:31:02.547846+00:00",
+      "t": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
+      "w": [
+        "flipped",
+        "iran",
+        "missteps",
+        "overnight",
+        "trump",
+        "war",
+        "washington"
+      ]
     }
   ],
   "resolved_events": [
@@ -3650,6 +3647,7 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "c8b200da7acfa32b533fa3501a2901098d66800a2413e7521690374a36ac801d",
     "2f268c4144b4bdc5def89047542e88cb4e0658b307bc8f7339fd4941265bb5c1",
     "9b97f34f41ce09e642726c864bb5a0bae4f2c4e0514c3267d7fda09cf27b71bb",
     "803584cb7284107d4806fd4096a3e9ac678ecc89ffcf8f093b22307a632b12ad",
@@ -4648,8 +4646,7 @@
     "cfeed0996c4685aa42d72b141bca4e3e65434b02e079638b37c1b29c2f00d9d1",
     "c5977401414612ffc83d4fd0ea4a3a25b6cd3945315d01b8cb38f1b486efb5dd",
     "b21106dfae5734a1f8aeeb1f2d0f9b3c412fac3d1a63152b0c9cec7f4b875fca",
-    "2ba690c266302da090731e5f324bbd74d3d04964b43dc1b939c995e813bd379d",
-    "fae4942c37d2b0f4991b743df7d9eb0531e1a409978dfb6b26dc50b48ee7fc1a"
+    "2ba690c266302da090731e5f324bbd74d3d04964b43dc1b939c995e813bd379d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
