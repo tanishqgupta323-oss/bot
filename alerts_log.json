@@ -14740,6 +14740,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.2622
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.3152
    }
   },
   "checks_base": "published"
@@ -14757,5 +14762,26 @@
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "LiveNOW from FOX",
+  "title": "US launches new strikes on Iran",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXcGtqdWlHalJBOHVDZnFGNTZTbVRWYk56NHZHZlhlNlRpTjBEUnJtZGlwOFhkaC1jTzJoV3pPWlM1QnFuVWRjTzNEb21XUkFiVTg0aG5Yd0VqcTRsODB1dnlrMNIBaEFVX3lxTE8xbzQteXJvbi13WDkwZTdoTWtyd2pzYnlORElocWZkQWhNR0FsOGF2SVN5cnVNVjM1b3ZaZklTeWd2RmJkRkJIakVYM0M3ekJOMWlCTXVhSkM5VVowNzFkRUNrRFdXeXYx?oc=5",
+  "published_at": "2026-11-08T14:04:13+00:00",
+  "sent_at": "2026-11-08T14:25:36.745729+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0419
+   }
+  },
+  "checks_base": "published"
  }
 ]

@@ -588,23 +588,10 @@
   "calendar_fetched_at": "2026-11-08T11:50:44.318011+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 70,
+    "count": 71,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-27T08:10:48.747584+00:00",
-      "t": "US Military Prepared to Launch Iran Operations Within 96 Hours",
-      "w": [
-        "hours",
-        "iran",
-        "launch",
-        "military",
-        "operations",
-        "prepared",
-        "within"
-      ]
-    },
     {
       "at": "2026-10-27T09:01:25.024558+00:00",
       "t": "Rubio says US struck Iran fearing it would retaliate for Israeli attack",
@@ -3520,6 +3507,15 @@
         "tap",
         "tech"
       ]
+    },
+    {
+      "at": "2026-11-08T14:25:35.415559+00:00",
+      "t": "US launches new strikes on Iran",
+      "w": [
+        "iran",
+        "launches",
+        "strikes"
+      ]
     }
   ],
   "resolved_events": [
@@ -3548,6 +3544,14 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "be3910f3ea1b9c991f5e871a9d63753c11b98c3a8a04b4213f16ad5cc2e94f5b",
+    "20ef228becaf2ce1fa9d2a97bcf3cc0d79f0a17e6ee0218317ebabc0d3423232",
+    "140932bd389703144e3fc614d4c1436f08f6e367b6adf2f9abb51feacc742ec9",
+    "9c93721fb88197bb11260190c0e91a20a86cba7e525f944e7dccc954525fcd15",
+    "c3099dcc2136f293083393e2cc936ef0b7fd95d966632b35ec9f2e8832dab163",
+    "4af20324640fcfe9ee09bc442a699e363053602a801ade917e17e4eb6f95ca60",
+    "95365b18ff7a30d9f068255f279b01292cf0fef36e746a55e96917703329734b",
+    "85dcf3fa948d5fac5a090e6e29f16e5460831fffe5cc00caa889b86af24c8548",
     "174cd9832b2742ac1725222ace505f2143b84b4e566aa86553f700b041d146a5",
     "69c8edcf8ebbd4c961b0781baced3493dacb9ee509e000a00f4e2c4564920e0f",
     "9505c4150904bdb33231fcc18a168dcd175c29132f2742b194c0d58a56cb7ecd",
@@ -4539,15 +4543,7 @@
     "ec4ff9bf8727a1b66414f4778e4ce79cbf33b3aa1829fe3dfa442256222b6f0e",
     "aca99ddfe6a32c79665a1c27b2723ac1b621c1a1474e62e4e59963b619419003",
     "6b45caf942f604fea13626b4bba77a33268ea3f3de3e245698f42efa987e0b4f",
-    "2988fdb23ef2b58df01a6fc25321f3703b928ceccfb1474d310555f961f25e29",
-    "b1e26a335e3d2d736dcc2f5e9844899e31398b2fdce05733e5ef15c1e56705c4",
-    "f614bc30940ccb6f00f4b6b2fa67ffc5e643fc050023e29bc00c3c7c1fafd943",
-    "df5adf31b560a8efad6ea1ed6c85378abf900e469ae2e7c9f2c09941db3edb69",
-    "bfdd1a9a4324c96aef373ed8ccd1f73bf98bcad305d00f15ffac8646954158f3",
-    "95831c5775b5b49d1e96fb73cf5ec7938ca87b635728cd3e26c871f42a5aff91",
-    "ba53da6920e81bc8fcae3132b9f8a3b4243f40062648ef54f06f1d0e2f1761a4",
-    "b2c9301999decb35755842c05816d7883dd69b18851a6fe679dd49de15189329",
-    "f3d364f6c6012cce1c4661a7b64c5ea1bfc45c1e0f430f3da97da8dc5a96a74b"
+    "2988fdb23ef2b58df01a6fc25321f3703b928ceccfb1474d310555f961f25e29"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
