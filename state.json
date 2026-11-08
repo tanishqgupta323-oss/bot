@@ -588,25 +588,10 @@
   "calendar_fetched_at": "2026-11-08T18:01:13.641696+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 124,
+    "count": 125,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-27T11:45:54.853153+00:00",
-      "t": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-      "w": [
-        "expected",
-        "fed",
-        "hikes",
-        "hold",
-        "point",
-        "rates",
-        "steady",
-        "warsh",
-        "way"
-      ]
-    },
     {
       "at": "2026-10-27T13:05:36.665715+00:00",
       "t": "FOMC Preview: A hawkish hold as markets watch for signals about timing and extent of further tightening",
@@ -3517,6 +3502,21 @@
         "southern",
         "target"
       ]
+    },
+    {
+      "at": "2026-11-08T19:35:41.572842+00:00",
+      "t": "Iraq has reached understandings with US to allow oil exports through Hormuz, minister says",
+      "w": [
+        "allow",
+        "exports",
+        "hormuz",
+        "iraq",
+        "minister",
+        "oil",
+        "reached",
+        "through",
+        "understandings"
+      ]
     }
   ],
   "resolved_events": [
@@ -3545,6 +3545,9 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "e86cc9f3f62734e3acaec428f61f911b5438964195597b1313021bf04cc922a8",
+    "482a16d868b7ad3d674ae83a2e44ea996db05d005ed2d6b048e271643c3fb705",
+    "e65a306645fb2efdec8e85531a478e2d73844991eb6285fde739d6b2e2b82243",
     "1cc62f57e2e9402903c186950fa7e90abe1b443db359e35ba96020b40293103a",
     "247d56a71b720e73437adf797636bfb95c72b01cac0c6c16ba47770f07784131",
     "68c9fa8f7d0ab0ff1d4b10c41e5c980e2cf7bd2cad9db459cfa26e013f7475f7",
@@ -4541,10 +4544,7 @@
     "234aadb8408fa2ccfeef303af83c6243091bfd9e08c645fda3e2dcb4f223bee5",
     "ead16755dca37af633cba9930e63fe1107112033560ea8b0ac0d1d0c90dafe31",
     "6b0df099b873bb9be6e54cd2d955624cb8d8fd4441a577ad32d796a55aef9ddc",
-    "d0c2f76b1df2a9c3b0bed36cf000a7dba882de4030bd6c80e90859e2d1b7365a",
-    "8ee0a12ccdd586b42e359c12102128c4080b0f64c7ff2f2f97ba605c39139551",
-    "9b9750f714d0b33396e681b1a64124c90b33ba76f497e5b32d81b825a51fe9e3",
-    "693705336b991a0653bca93e50519c4e9afb8af5c206e7072988574545056130"
+    "d0c2f76b1df2a9c3b0bed36cf000a7dba882de4030bd6c80e90859e2d1b7365a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
