@@ -588,25 +588,10 @@
   "calendar_fetched_at": "2026-11-08T08:45:43.200521+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 27,
+    "count": 28,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-26T11:20:49.036511+00:00",
-      "t": "Iran ‘disables’ tanker as US commander flies victory lap over Strait of Hormuz",
-      "w": [
-        "commander",
-        "disables",
-        "flies",
-        "hormuz",
-        "iran",
-        "lap",
-        "strait",
-        "tanker",
-        "victory"
-      ]
-    },
     {
       "at": "2026-10-27T05:31:06.098104+00:00",
       "t": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
@@ -3529,6 +3514,21 @@
         "trade",
         "wordplay"
       ]
+    },
+    {
+      "at": "2026-11-08T10:40:47.178324+00:00",
+      "t": "Saudi Aramco Riyadh office hit as Houthi missiles target kingdom",
+      "w": [
+        "aramco",
+        "hit",
+        "houthi",
+        "kingdom",
+        "missiles",
+        "office",
+        "riyadh",
+        "saudi",
+        "target"
+      ]
     }
   ],
   "resolved_events": [
@@ -3557,6 +3557,10 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "3dfc5d51a696d6058bdf853e17986d4c1daea3d9b9b66bf0cc3daef2cb996434",
+    "884eb566701ecdbbd603870fabc20ccc88102e111a3f4f22c0c630e282f88582",
+    "09f6d211d8fbeb0c4dea7268fe4ac9a00a3a5e4a2423578981afa38b8c25e528",
+    "6f147e680436c31dd9447ed1aa4842826b82c265212b856ae4c52f43b2dcf4b6",
     "4ff032edfecbd87d3e650a8d0e170db1a300548bb6e8a8dcd24ccd91d36c174c",
     "6b6032beec011c13d970d3c78b43172f290c5d561fe27a52bee37ab51f679756",
     "e54322b2bb2fc6461faa5f5830dd9c184df026f897e27733d3e9c21153024e30",
@@ -4552,11 +4556,7 @@
     "241026668e61602e4ff6bef6659abbfbbc3ac25de216f8532e6fc9d6af8007ef",
     "d81c60cff245ad8a2f669e99952427408640763b20f1d5342e1128ff7b8f67b5",
     "8cd6f7757346cc1aafcfec41d69ea8b36f4b268f81cfc86862a69d202444844e",
-    "6b0af58db55ed3b24f02947d4c6b2a948c4ecc4ee2061acb4c85ef4c462fbeb5",
-    "77ecc3c585cb9994630796b3dd0c9257c8fefbc501d8c2264fa6a6a53e424cea",
-    "11beabe2f1d05623b85e959267f9553637b241ff2cf00e07577e1d3b0be2b463",
-    "edc856ed1d76aa727efe2fd11cb2a0b65003249d640d600f340d4f661b97ce2a",
-    "2480675d7e3c786ec2c1debc06d5a396919ed0c450f9f5ad44f506392de08bd5"
+    "6b0af58db55ed3b24f02947d4c6b2a948c4ecc4ee2061acb4c85ef4c462fbeb5"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
