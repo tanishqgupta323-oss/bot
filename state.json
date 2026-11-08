@@ -588,24 +588,10 @@
   "calendar_fetched_at": "2026-11-08T08:45:43.200521+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 28,
+    "count": 29,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-27T05:31:06.098104+00:00",
-      "t": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
-      "w": [
-        "brokered",
-        "ceasefire",
-        "local",
-        "melania",
-        "southern",
-        "starts",
-        "trump",
-        "ukraine"
-      ]
-    },
     {
       "at": "2026-10-27T06:40:51.310243+00:00",
       "t": "Bitcoin dips below $80k as Strategy pauses buying, Fed caution weighs",
@@ -3529,6 +3515,18 @@
         "saudi",
         "target"
       ]
+    },
+    {
+      "at": "2026-11-08T10:45:44.630801+00:00",
+      "t": "Israel defense minister says ‘mission not complete’ on Iran",
+      "w": [
+        "complete",
+        "defense",
+        "iran",
+        "israel",
+        "minister",
+        "mission"
+      ]
     }
   ],
   "resolved_events": [
@@ -3557,6 +3555,9 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "78db51e2d0766118443f8d2a43c5a160d5333c2890daf3d25a8bc5a28c25eb73",
+    "e60a63276853eb415fcc3c6e7a217826b2da2da91c7aa963d1f323cd893d0d65",
+    "edc856ed1d76aa727efe2fd11cb2a0b65003249d640d600f340d4f661b97ce2a",
     "3dfc5d51a696d6058bdf853e17986d4c1daea3d9b9b66bf0cc3daef2cb996434",
     "884eb566701ecdbbd603870fabc20ccc88102e111a3f4f22c0c630e282f88582",
     "09f6d211d8fbeb0c4dea7268fe4ac9a00a3a5e4a2423578981afa38b8c25e528",
@@ -4553,10 +4554,7 @@
     "ceb232848dea94e8f4e57836f2ec9bc8f34de8b90e622943e16459419919bc54",
     "b2eeebed86edd57115d55e0e950fabd249081ce605bf51703c17ec1bd5cd797f",
     "1136a14bd9eef11e29885142a1dbe945b32234c731e9d17675f7c427b5d93c3e",
-    "241026668e61602e4ff6bef6659abbfbbc3ac25de216f8532e6fc9d6af8007ef",
-    "d81c60cff245ad8a2f669e99952427408640763b20f1d5342e1128ff7b8f67b5",
-    "8cd6f7757346cc1aafcfec41d69ea8b36f4b268f81cfc86862a69d202444844e",
-    "6b0af58db55ed3b24f02947d4c6b2a948c4ecc4ee2061acb4c85ef4c462fbeb5"
+    "241026668e61602e4ff6bef6659abbfbbc3ac25de216f8532e6fc9d6af8007ef"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

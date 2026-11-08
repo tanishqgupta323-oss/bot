@@ -14684,5 +14684,26 @@
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Arab News",
+  "title": "Israel defense minister says ‘mission not complete’ on Iran",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSDZsS3NJeEsxSmZKY1NiNHV4bGNTckhGX0lnVTR3WEY4MFpZTUM5b2ZHN0JkTTZSMEtWRDhEc1FrdXFnY0wwTV8wV1dhd1VnUXYyR2tUc2g5VFpVQUZEWXhaaG5GdmxLbmt5N2JCNi1oOG5rTUxZeFBhSEVEYlRJaGlWUl81REdoUjdKOGdtaFZhVldDRzFuVDZ3UW00cnZpakJJTA?oc=5",
+  "published_at": "2026-11-08T10:08:14+00:00",
+  "sent_at": "2026-11-08T10:45:45.383154+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0099
+   }
+  },
+  "checks_base": "published"
  }
 ]
