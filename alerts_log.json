@@ -14662,6 +14662,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.0176
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0088
    }
   },
   "checks_base": "published"
