@@ -14826,5 +14826,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Fox News",
+  "title": "Explosions target southern Iran as CENTCOM announces new land blockade",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15NGpCQ1JxNVJVak9Ed1VVQWhPR3BlZFZLcWVUb2lqMnNfUUhjNlFUNkdCalc5ZjhURi1tYzZjQTUwaVlNdUw4V29mTHBfYmh0QWZOX2l3?oc=5",
+  "published_at": "2026-11-08T16:03:04+00:00",
+  "sent_at": "2026-11-08T17:55:34.565892+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0746
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.3488
+   }
+  },
+  "checks_base": "published"
  }
 ]
