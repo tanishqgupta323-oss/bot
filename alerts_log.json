@@ -14951,5 +14951,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Weekend: Houthis hit Riyadh’s Aramco Tower and target oil storage as Saudi supply risk grows",
+  "link": "https://investinglive.com/commodities/weekend-houthis-hit-riyadh-s-aramco-tower-and-target-oil-storage-as-saudi-supply-risk-grows/",
+  "published_at": "2026-11-08T22:36:52+00:00",
+  "sent_at": "2026-11-08T23:05:40.338796+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0361
+   }
+  },
+  "checks_base": "published"
  }
 ]

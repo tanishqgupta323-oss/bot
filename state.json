@@ -588,26 +588,10 @@
   "calendar_fetched_at": "2026-11-08T21:05:40.136090+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 164,
+    "count": 165,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-27T18:50:49.258981+00:00",
-      "t": "Food and household brands warn of more price hikes as Iran war costs bite",
-      "w": [
-        "bite",
-        "brands",
-        "costs",
-        "food",
-        "hikes",
-        "household",
-        "iran",
-        "price",
-        "war",
-        "warn"
-      ]
-    },
     {
       "at": "2026-10-27T20:15:48.612437+00:00",
       "t": "Lockhart Sees Fed Rate Hikes in December and 1Q, Risk Rising Oil Prices Lead to More",
@@ -3502,6 +3486,25 @@
         "possible",
         "rubio"
       ]
+    },
+    {
+      "at": "2026-11-08T23:05:38.936807+00:00",
+      "t": "Weekend: Houthis hit Riyadh’s Aramco Tower and target oil storage as Saudi supply risk grows",
+      "w": [
+        "aramco",
+        "grows",
+        "hit",
+        "houthis",
+        "oil",
+        "risk",
+        "riyadh",
+        "saudi",
+        "storage",
+        "supply",
+        "target",
+        "tower",
+        "weekend"
+      ]
     }
   ],
   "resolved_events": [
@@ -3530,6 +3533,12 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "42eb960310cc44e74f5a7f1680f0df927299ed841daa2e5f51fa79544ea902c9",
+    "b4de63a867ea46381d10b7a7fcbbe1d3facd04e4faede39516dd9e529f037f05",
+    "459e1efaa726f9d5da9f3a767965d35a82accdca5bf9d8393a1e431a16cc391f",
+    "629d76e5dd31358e6cf849d2f443f66a878c8920050f0990b515303e2a843f3f",
+    "ae443cf3bbaeb2635be539412ae11e2085d33d878960c1ea9dc80bfcde8f43ab",
+    "11269861b1dcf62a462b2575fe151e44af1e4919bc544d698a3b2e2d8e67c755",
     "644216516dc99d7a1ad46ca8bf161dc3da44bdd44b12b2acb56603751207eabd",
     "121f35e5caa0f913a112931e47b16568a033c83bae3295c4a62f9ef0f0a0e04e",
     "45f95226aed301f0f59d02e28eb847cb8894424b8325e2949ef721ddd0573b8d",
@@ -4523,13 +4532,7 @@
     "5873854174ca5e7b7613573b6b830224ac9307606585c2181800c994bbe1906c",
     "da26398b22faeb3b0e91b1209d4b3a9d35f97aee246820576457e244a62f7a9a",
     "2350a9661aec4521821637c57e608ce5fdddaa39e8891060a9341713ee96ffd9",
-    "0f82bcc7699453ab06e5402bc3dc58a883b9dc213ef2e29ae3e19eb20386a5dd",
-    "72d787f147548dca20b4a04f0d01905724a7e40fdb6a254a7c9cd469f4c72afe",
-    "250ee2f4b064f5f8f09aa142b865fa9ee75e78bc20ae2224e021006554ee29bf",
-    "7f3fd27cc20ed9ff0964f8c6bfcf2b03cbc0b6b6c1fec0a0c45e078d3571712f",
-    "c331c1b07fd0ba45038e23eb566ddf799d2a06e75b97a19584a41a9e05078acf",
-    "10c29a8298bbf0008a3980986875d70e4862d918dcf40aaf521f2dc8bd5c584d",
-    "23cdd85f2db06dc543c27bb7ba09ed5be5eef54163bcf383b0fb12243e380668"
+    "0f82bcc7699453ab06e5402bc3dc58a883b9dc213ef2e29ae3e19eb20386a5dd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
