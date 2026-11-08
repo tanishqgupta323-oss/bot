@@ -588,24 +588,10 @@
   "calendar_fetched_at": "2026-11-08T08:45:43.200521+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 19,
+    "count": 20,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-26T10:15:47.495153+00:00",
-      "t": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
-      "w": [
-        "canada",
-        "carney",
-        "effect",
-        "retaliate",
-        "take",
-        "tariffs",
-        "trump",
-        "vows"
-      ]
-    },
     {
       "at": "2026-10-26T11:20:49.036511+00:00",
       "t": "Iran ‘disables’ tanker as US commander flies victory lap over Strait of Hormuz",
@@ -3529,6 +3515,20 @@
         "trump",
         "whole"
       ]
+    },
+    {
+      "at": "2026-11-08T09:55:34.996803+00:00",
+      "t": "US plan to blockade Iranian economy, trade routes, is 'wordplay,' IRGC says",
+      "w": [
+        "blockade",
+        "economy",
+        "iranian",
+        "irgc",
+        "plan",
+        "routes",
+        "trade",
+        "wordplay"
+      ]
     }
   ],
   "resolved_events": [
@@ -3557,6 +3557,10 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "31e4108f788ace3e5f5ce8d0bff1657b92be35851131490130d6b6593fdf3df1",
+    "4824a068d8dd80d228ae91294c77aa22a7debf6b7a0c9fe8ddcad67045807ae0",
+    "0e84aec00f3f5207ef62175e8ece5aa03e523b012b0c0afa3d3c64c2af86e966",
+    "d4cd6102bce2e0c19ec3ea49df1ccdfaf511d7318a50fed51894b7a57301ad16",
     "104441a9f956d9d6eef533c671ba88411fa3ef7b43da0deb0b978e3203cea477",
     "f1e6ce99c10548a33751ef47857c2c5bf7ad9a350a5619f44742d6e9be517bcf",
     "f339962bf07126725e38a12be89d01a962ad8c6a7938c501690bd68fddf96e53",
@@ -4552,11 +4556,7 @@
     "5d70471d6d53957cd4eab6a6034707df50117515c32d11b11ff54bb083fad768",
     "c7bb3373eaefb82b58e4964eeffe42e5ebdf5756f529ec7e45ea9f3de5254c5c",
     "832fedc9f59ead5426cab0ee71edbb7aeaff8ad34bddd8b7ba3fe55b427b3e86",
-    "cba987c509395980f4a60f6e6041f1b750ab0d6a23883e209cddfaf9bfc3f3b7",
-    "91b7dacbf94dd78f9d5f07d3aa09782f967ade784f1d41b9641a121f36dc7b1c",
-    "14d86e92d32ad5d1e5f632b3c6c8ebfd1928415b4abdef4f7bdaea91d3bf76e6",
-    "029cb6fd1fd5bff2fe1b03edb409b6bc72e5f2439a8e04fd37e6d794fc45cb05",
-    "d25434220323b1a42002b22741a65b4e3e86ee6870dcdaf0e46ae428260ab183"
+    "cba987c509395980f4a60f6e6041f1b750ab0d6a23883e209cddfaf9bfc3f3b7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

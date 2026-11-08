@@ -14644,5 +14644,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Jerusalem Post",
+  "title": "US plan to blockade Iranian economy, trade routes, is 'wordplay,' IRGC says",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jSjlrQlpCTlBzRmN4UmR3Q2dxUS01eVcxZC1Yd1BITGVYSHRiZ0c2SjV4M095Yk9EQnMtNU0tWFFKUWp6ZHJUM3VEQzY3YnA4ODBYMHlkMVBXN0VIZUtKLVRfMEFtWkVhb0E?oc=5",
+  "published_at": "2026-11-08T09:17:45+00:00",
+  "sent_at": "2026-11-08T09:55:35.754586+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0176
+   }
+  },
+  "checks_base": "published"
  }
 ]
