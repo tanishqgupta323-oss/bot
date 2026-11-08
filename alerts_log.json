@@ -14800,5 +14800,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Washington Times",
+  "title": "Trump says U.S. launched ‘minor strikes’ on Iranian targets in Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEN5em95ejBZSGVnRmhkQXFWZkJwdzFPYXIyNThOMXBqazl1Y0Y3NHVOVUQ0aEVwTGt1OHVUZnBkejBSTVVVUERNQ0Q2QlgzazhYc2xRbmhKSnR6bTNYaGxIcl9kdExSYkpTQXNvMUNxRVBjcUhmc21oR1JEOHNlZ21LRzZlM2kzS1ZqOFRaQm5HM2QyT0E5RnNnYWRVdjQ1bEdxcndCUS1Xc3gzX1B5R1Y1d2xjUQ?oc=5",
+  "published_at": "2026-11-08T14:57:24+00:00",
+  "sent_at": "2026-11-08T15:35:38.455177+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0234
+   }
+  },
+  "checks_base": "published"
  }
 ]

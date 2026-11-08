@@ -588,23 +588,10 @@
   "calendar_fetched_at": "2026-11-08T14:55:34.456259+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 82,
+    "count": 83,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-27T09:01:25.024558+00:00",
-      "t": "Rubio says US struck Iran fearing it would retaliate for Israeli attack",
-      "w": [
-        "attack",
-        "fearing",
-        "iran",
-        "israeli",
-        "retaliate",
-        "rubio",
-        "struck"
-      ]
-    },
     {
       "at": "2026-10-27T10:20:48.434525+00:00",
       "t": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
@@ -3516,6 +3503,20 @@
         "launches",
         "strikes"
       ]
+    },
+    {
+      "at": "2026-11-08T15:35:37.100732+00:00",
+      "t": "Trump says U.S. launched ‘minor strikes’ on Iranian targets in Strait of Hormuz",
+      "w": [
+        "hormuz",
+        "iranian",
+        "launched",
+        "minor",
+        "strait",
+        "strikes",
+        "targets",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3544,6 +3545,9 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "2e5b2b0a33b3ec54d85a5fc1237ee43b2e445eb9705c63d5f8657707bfd48e3e",
+    "1a332d5e4580ddc0384c4781eaa12521a039fa1706d126914fa5261a5c6178d0",
+    "a25dd8a1bd2c0d58925bc63bcc8550b357b1891979f33f2f1375e4b7ee29bfa0",
     "1a71e5b0ff0996e82c3e83f029cd6741f3db67c74edbdbe97e2a739e79782245",
     "90983da6ca44bebc5d13dbb2e81d54f8d4b5b27c8c63043d8b4f0edbc7a62a60",
     "50d0b1c116729570c584a27b2f75ed45bfc846a2bb3fbb3ec242de6a4e3d6776",
@@ -4540,10 +4544,7 @@
     "59b6221dc22029cab79a962eb115e58016c2093d9f75dfb88dd09f341ef23c59",
     "1b963e610de3d2c330b55baa2284cb67a1bab96fa9181df12e36fbcd635cf03d",
     "51b34da6d45f42a1927a93095b005d899518c5bb7ddc618f44f8c050fd724cd9",
-    "eb39a58a4276a37b436448b8154863efe0229f221c4d943f01f99335f74fd712",
-    "b8f0d43237d8a6280fb127c0466c384d07c12a5a21874d6e53843420a5ba10be",
-    "d3ba9c741309ef87d684875a50d696afe97a42ccbbd7eec10de9288ad1248ec4",
-    "362cfd8f644f497617dee0b0193fa193e80e83c9e44a177bdd1f581ed517be59"
+    "eb39a58a4276a37b436448b8154863efe0229f221c4d943f01f99335f74fd712"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
