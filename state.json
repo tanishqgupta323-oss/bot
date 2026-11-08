@@ -588,24 +588,10 @@
   "calendar_fetched_at": "2026-11-08T21:05:40.136090+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 145,
+    "count": 146,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-27T16:31:09.685928+00:00",
-      "t": "U.S. faces record gas price hikes amid Iran war tensions",
-      "w": [
-        "faces",
-        "gas",
-        "hikes",
-        "iran",
-        "price",
-        "record",
-        "tensions",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-27T18:31:10.711862+00:00",
       "t": "‘Neither War nor Peace’: Khamenei Demands Iran’s Terms Be Met as Tanker Burns near Hormuz",
@@ -3513,6 +3499,17 @@
         "threatens",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-08T21:20:43.062624+00:00",
+      "t": "Iran gives US two-day diplomacy ultimatum",
+      "w": [
+        "day",
+        "diplomacy",
+        "gives",
+        "iran",
+        "ultimatum"
+      ]
     }
   ],
   "resolved_events": [
@@ -3541,6 +3538,11 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "421a3fd96ab57048824b12fc04fc22fcec56db61c6f838097fb1961ea4a016c0",
+    "0df5d80bcb463dc23477282fd7f03730debffd5104520ffa6b51dd5ca9b6d499",
+    "bfee634aab01e70eef6997480f441fe2f55251ee24e536187f28c42b4f70f183",
+    "61aea386439e15a493fcef02a2e4ee56f7431416c7aacea72d931a047889d8fe",
+    "3be0fb52393f4b7b989b77b93f9467f710aa2d5e679df91251b9320fcb25cd09",
     "61cdf536be5d1dce44c3f36f4738c3b46a84f055344a5a74dd5fa0855526225f",
     "61207e10c59d2dbeef78dcabcd909439c014f1c9627a620a3c2b99d10076cb28",
     "86677b6c08b41977259e6260bd58637782801ff30d3061e8153b90e0ed2f5f2c",
@@ -4535,12 +4537,7 @@
     "86206e4746720b6d88718dd3af1f79029d0fe607525eca3aefeecc7b0298800b",
     "9e7c33a3de152a59b61a51d2d021508870b9fe57658393f730f70d79ee746aa7",
     "9213ffd43853a45b079fb8cc5ec19a123b056a896231dd2e5c4a0340bb212673",
-    "15273f626ad3ab9d3dcb336baf3b279ee3109979f52facf60b839a52c26c959e",
-    "89883e96d0d2110c5e791f932f7335fb5b6feb4f72ef791bcfeceee9e725d5bb",
-    "27976cc26939dea9c2aa1c5dfdc7cc9842b2efd8ece6eb6c929567d905f66c9f",
-    "c39e9e2cbf0032090279318953e703d0cd3e0e941ef3dbbac531e2940cecf240",
-    "014371e1cc9678c836501ef141617c449f69e8f62747b7fff27bbb0f6d581b24",
-    "ea4acacd8a245d6839bb98c1ac4dc36a47c76154971141054b14ec65b269f1d8"
+    "15273f626ad3ab9d3dcb336baf3b279ee3109979f52facf60b839a52c26c959e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
