@@ -588,26 +588,10 @@
   "calendar_fetched_at": "2026-11-08T11:50:44.318011+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 60,
+    "count": 61,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-27T06:40:51.310243+00:00",
-      "t": "Bitcoin dips below $80k as Strategy pauses buying, Fed caution weighs",
-      "w": [
-        "80k",
-        "below",
-        "bitcoin",
-        "buying",
-        "caution",
-        "dips",
-        "fed",
-        "pauses",
-        "strategy",
-        "weighs"
-      ]
-    },
     {
       "at": "2026-10-27T07:20:52.356767+00:00",
       "t": "Fed holds interest rates steady as inflation hits 3-year high",
@@ -3527,6 +3511,17 @@
         "minister",
         "mission"
       ]
+    },
+    {
+      "at": "2026-11-08T13:35:36.137367+00:00",
+      "t": "Iran says 3 tankers caught fire in Hormuz",
+      "w": [
+        "caught",
+        "fire",
+        "hormuz",
+        "iran",
+        "tankers"
+      ]
     }
   ],
   "resolved_events": [
@@ -3555,6 +3550,10 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "8d450890e86910867af0eca3625a5c1c780bc11e46a4d004079e614e77c86d61",
+    "3e098272f0cf5b4ed82aaff7ba1fe34adc52367e8398340c316a73b33cc2e249",
+    "95aaeef5b0ca2eb808560a52fd71d0c64e1455205d032334b05f98ae8fad6fa8",
+    "f6281924d75e0482b90e196a2fc7912f8326546c1160d46d3b170637683e3865",
     "7314a08abceb1f0ed9d837e65858e2c97f6daa3bd33e0bb30e52ec5a8b958c5e",
     "fa03eccc93ce48b72157240af13ff37056f835542bab434e6f3a4749db78bbae",
     "56b6543c892350fe5e7f4934991b5b21da374b9de44f938d43fa52fc03b0b063",
@@ -4550,11 +4549,7 @@
     "fe62fda6329eb8222fee1a5099e83ddb9d1d051982492cfe1a499406285b58f0",
     "54db7f5a17d5d951ebec0392e46158cc46e6974b6f8820c174be5081c9483474",
     "6128874047eb5501a5aeb98824edc93aeec9838d2e0231102350da55a67407c1",
-    "04113427a1b32ba3dbf56e4faceceed8e85012d348e744b714b4dc3220b8c1d2",
-    "0642b725cf2979e6e2d7001a7fde3ba30070c9c47cd8d67af8be190c4d76b7ce",
-    "4ae7ea149f1e4f2e269cddd36443f214b1d57bca77cd2587c9c7ac216a862dab",
-    "36449f00fd5f639195000c25983348b0ec63e7df6d058d2f42199daf4f2f08ff",
-    "9a3716f80bc728d0756ed3be1e46999c56dbf4e927a9043b093f4ade6bf6b3ab"
+    "04113427a1b32ba3dbf56e4faceceed8e85012d348e744b714b4dc3220b8c1d2"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -14722,5 +14722,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Arab News",
+  "title": "Iran says 3 tankers caught fire in Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWxXRVNSZG5UVW81THljWjhYSGNWZC1ocU8xckxBa01oMFNhdHJLYzVQODhpY0lyS0dsUm51UndaU0VIRlM4NW11SnFZS0o3b1BlblF1WFVKTDVRYjRZWHRLa2VEQXk0VFMwU3J5d2k5dnlsWjlGS0Rxb05LTzN0d3Y2blhJSjFTb2hoZjNQdw?oc=5",
+  "published_at": "2026-11-08T13:22:12+00:00",
+  "sent_at": "2026-11-08T13:35:37.321163+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
