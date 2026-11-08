@@ -14683,7 +14683,14 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0384
+   }
+  },
+  "checks_base": "sent"
  },
  {
   "kind": "live_news",
