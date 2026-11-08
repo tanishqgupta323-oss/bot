@@ -588,23 +588,10 @@
   "calendar_fetched_at": "2026-11-08T08:45:43.200521+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 9,
+    "count": 10,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-26T09:40:51.219472+00:00",
-      "t": "Gas prices top $4 a gallon as Iran war escalates",
-      "w": [
-        "escalates",
-        "gallon",
-        "gas",
-        "iran",
-        "prices",
-        "top",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-26T10:15:47.495153+00:00",
       "t": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
@@ -3528,6 +3515,20 @@
         "strikes",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-08T09:01:13.892624+00:00",
+      "t": "Trump says 'we're blowing up the whole country' if no Iran deal is reached in 48 hours",
+      "w": [
+        "blowing",
+        "country",
+        "deal",
+        "hours",
+        "iran",
+        "reached",
+        "trump",
+        "whole"
+      ]
     }
   ],
   "resolved_events": [
@@ -3556,6 +3557,9 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "ad7a179cc21f12aa4e0470cf5009d8b7ae39dc8b86068f3285c60b5a663f751d",
+    "d126b5390abd28f4dcae288b58a4b7516e62ccbd6a6f423e491eaf7cee97ae82",
+    "c7da15033671b2bf269acc7890c1cbd58b46c60001c29853bd4b59b0dea89984",
     "34d0e12e1f86d09c93a2e65390062be12c4cf23a97b47ad6f4c99ea7cf4a6e68",
     "3dcb98a53e8cc0cce3b4e275e22c374e0e29a0d5ab187b835572e9c655ab726e",
     "a2551cdf15bf49d18e5291509d2b80a534a007a07ba38c6e11a52c0716f98ef4",
@@ -4552,10 +4556,7 @@
     "744b3dd82fd0eaa1474168c709f5d83cec288937602a7a845b5e29afdd1b84fb",
     "2870da2868d3ca9defafabffc986b217abbebf816ae45974853c33292cdbd048",
     "8f5cd72fa688ad041ac21a17056b128e46be3985b48355afdff672f840b1af76",
-    "2a58917cdd4c239a7a60545820845493ef547fa6bcc7eafb314ec503b3835816",
-    "bab70686a7c10ddf13269f5b89718a48c67022b729159ba21015c444afa217c7",
-    "f85337d8d0a750a8ca076b09edc2a5a6a5e0c9d6dc34463a1f17807748e62e26",
-    "06e08a02412058dca2041659ce5d84bdf178b03ac26ff92cb7e2a19078980e03"
+    "2a58917cdd4c239a7a60545820845493ef547fa6bcc7eafb314ec503b3835816"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
