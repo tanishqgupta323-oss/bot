@@ -15112,5 +15112,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al-Monitor",
+  "title": "Trump says Iran war 'highly unlikely' to resume",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUhrdU1jeS02TWY1ZEEyZEs5cmhCb3ZsTWM2X0hlakp6Nk9ZM1Y5a2x0QmdsYktGZUh4VGxmbFc4MFZiaS1DVVVsVDRkMGR5MlVyYmx6eXZkenAzZi0ySmtYc09rRGtfUm9JTlAzZjdXSUhvTHB3cmVvVjNiVUg2eFBmOXRpeVFZU0MyWGItQm4?oc=5",
+  "published_at": "2026-11-09T06:48:52+00:00",
+  "sent_at": "2026-11-09T07:35:34.323181+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": -0.1068,
+    "BTCUSD": -0.0545
+   }
+  },
+  "checks_base": "published"
  }
 ]

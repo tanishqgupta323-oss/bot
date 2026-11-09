@@ -588,26 +588,10 @@
   "calendar_fetched_at": "2026-11-09T06:10:47.702928+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 249,
+    "count": 250,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-28T02:20:48.985188+00:00",
-      "t": "Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns",
-      "w": [
-        "arabian",
-        "attack",
-        "concerns",
-        "oil",
-        "prices",
-        "refinery",
-        "reignites",
-        "rise",
-        "saudi",
-        "supply"
-      ]
-    },
     {
       "at": "2026-10-28T08:50:53.972510+00:00",
       "t": "Fed expected to hold interest rates steady but a hike is anticipated by year's end",
@@ -3506,6 +3490,18 @@
         "task",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-09T07:35:33.426260+00:00",
+      "t": "Trump says Iran war 'highly unlikely' to resume",
+      "w": [
+        "highly",
+        "iran",
+        "resume",
+        "trump",
+        "unlikely",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3534,6 +3530,7 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "b6f88622781c94201aa57c26abd5ac86e5132454bea827648d9c0ca31f82fe4e",
     "9d72d7f0d7216425312bd543cd5803ab06fea82be7964c92f00c9218231b4e75",
     "7a4c1ee1d41c3c8403b3c4a154b35c0f430f621a6886665b5f0a914587f57304",
     "5e24943e8f1b0c5a87bc6345e488ae8b5b77b5ca4c66dd43e6d4fbf6c362ca38",
@@ -4532,8 +4529,7 @@
     "25dd7e8ccdf62a32f2c626d7a671865140b9c6582b5cfb06a93cf89d474c2e7c",
     "401dc80e8971d56b5ae7ac52179f2aab74612456227485c477e2b0c6124e32de",
     "7f84a7e4ab532ecf317384d3505e994b9d484b59737f2308c49e5a4cdc733ef7",
-    "686eacb86cd31e9ffed927d7626e07c26b0e0be3d6301230ee853c5dc738e63c",
-    "807d3eca460c0c07999a1d8cfcf79c762334be094b43954bcfb3d8aec8460626"
+    "686eacb86cd31e9ffed927d7626e07c26b0e0be3d6301230ee853c5dc738e63c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
