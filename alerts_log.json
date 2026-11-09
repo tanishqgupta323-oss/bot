@@ -15000,6 +15000,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 1.0472
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.2335
    }
   },
   "checks_base": "published"
@@ -15016,6 +15021,34 @@
   "eurusd": "BULLISH",
   "xauusd": "BULLISH",
   "btcusd": "BULLISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": 0.2386,
+    "BTCUSD": 0.0167
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bloomberg",
+  "title": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalBuZXBLSkx6bEJtdVU0djlRbHRwdlVRNWdTbWJDM2NrRmZVcGg4SV9mdEVONXVWeml3OFgxZWRKMEoxenRCLXVaSXhDdUdRNG55V3ZWS0drMzJwaUJYN3A5cFlpWEt5anBMMEtoa0R1LTIxa3BnS3luNUdPWFIweTY0NEJhS2thcnpqY0YyVEJwZHhxclFyQ3c0OTNETy1aQlFaeHN2R1A3dXg1T0NDU21ycw?oc=5",
+  "published_at": "2026-11-08T23:40:10+00:00",
+  "sent_at": "2026-11-09T00:15:49.180430+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": -0.1694,
+    "BTCUSD": -0.644
+   }
+  },
+  "checks_base": "published"
  }
 ]

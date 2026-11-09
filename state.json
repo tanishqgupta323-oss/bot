@@ -588,26 +588,10 @@
   "calendar_fetched_at": "2026-11-09T00:10:43.292011+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 176,
+    "count": 177,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-27T21:10:53.713200+00:00",
-      "t": "ICYMI: Fitch sees Fed hiking to 4.25% in December, says US credit outlook still benign",
-      "w": [
-        "benign",
-        "credit",
-        "december",
-        "fed",
-        "fitch",
-        "hiking",
-        "icymi",
-        "outlook",
-        "sees",
-        "still"
-      ]
-    },
     {
       "at": "2026-10-27T23:55:35.360026+00:00",
       "t": "How the US Navy could enforce a blockade of Iran's ports in the Strait of Hormuz",
@@ -3503,6 +3487,22 @@
         "trump",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-09T00:15:48.206832+00:00",
+      "t": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets",
+      "w": [
+        "bets",
+        "data",
+        "december",
+        "decline",
+        "fan",
+        "gold",
+        "hike",
+        "holds",
+        "jobs",
+        "rate"
+      ]
     }
   ],
   "resolved_events": [
@@ -3531,6 +3531,10 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "b9409c6966ad2644fb943ee395edd9007c2aaa3f56a0095763e76ebdda61ae7b",
+    "fca401e8585cb27602a0e4bed6ece3efa3113cab407cd54d73614c559e5da57f",
+    "b402f975fb0bdddb6b540716d48481e1a4b924681a1d54330e9c2aea4b442297",
+    "74c883fe8bda213a0fa652ce4b6be9a3b898e76895f3d040c51cdba2de664bd3",
     "77cbded4d7274788c6ec6101be1bec6691d6f8a7179e9f8f03ba12d4098a68ee",
     "986a8fa07d2e878795a1e4c90ab8e3d4354b45b62d0f92c6e1719bea71726c82",
     "7ca1f0d547a199f0bd759a1441bab14cfe77a608ac899ae54108d5c15e39fbf9",
@@ -4526,11 +4530,7 @@
     "537d9835754fc3648a07166e130f42550929f2e85d1c6a6237bffb8321e41785",
     "333e42f0264817a2363c8924ff9472f28a0ed0cb690ad7ff8120b0678fed8b55",
     "b318cf6f4639c6765b4ddb9f23b778897f0de12438b631fb64be88e6826241d8",
-    "8a15f6e4f63d66fb92980710e460f6a941bbfdb94d85d6950f31c27e0bf5af53",
-    "a194906193bbee314d6cc213ebfc2ff7a6ca3ca885c5a75f9f8cd8e94fcbc95a",
-    "a5838ee1d50f87f761c5939f409af4c42ea03ebb33662cf760125a63ace7db5f",
-    "8a7de396c5f7dd8f90a7ea232ec649a9edab2839ad6cad6ae435debb9eb4af69",
-    "b093fc31347571a91b1cd2fe3314dcae9630f2873294db66d229072e4f8f4f9f"
+    "8a15f6e4f63d66fb92980710e460f6a941bbfdb94d85d6950f31c27e0bf5af53"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
