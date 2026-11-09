@@ -246,11 +246,11 @@
     {
       "actual": "-",
       "currency": "EUR",
-      "event_id": "be0128371733a2c97510989e",
+      "event_id": "cc8a39405d3ff08080afdf81",
       "forecast": "-",
       "impact": "LOW",
       "previous": "-",
-      "scheduled_at": "2026-11-11T08:20:00+00:00",
+      "scheduled_at": "2026-11-11T08:15:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "German Buba President Nagel Speaks"
     },
@@ -323,11 +323,11 @@
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "61cde6693c9c65d3d11eb155",
+      "event_id": "39e987fc8cb2ba2375010f5f",
       "forecast": "-",
       "impact": "LOW",
       "previous": "-",
-      "scheduled_at": "2026-11-12T14:00:00+00:00",
+      "scheduled_at": "2026-11-12T13:30:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "FOMC Member Hammack Speaks"
     },
@@ -367,11 +367,11 @@
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "d1ac160ef1ce4b0a13c4b58a",
+      "event_id": "d1b088270b1ad75827099446",
       "forecast": "-",
       "impact": "LOW",
       "previous": "-",
-      "scheduled_at": "2026-11-12T16:30:00+00:00",
+      "scheduled_at": "2026-11-12T16:15:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "FOMC Member Goolsbee Speaks"
     },
@@ -385,6 +385,17 @@
       "scheduled_at": "2026-11-12T17:00:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "Crude Oil Inventories"
+    },
+    {
+      "actual": "-",
+      "currency": "EUR",
+      "event_id": "59f5b36c1a39337a91d4067e",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "-",
+      "scheduled_at": "2026-11-12T17:30:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "German Buba President Nagel Speaks"
     },
     {
       "actual": "-",
@@ -596,10 +607,10 @@
       "title": "FOMC Member Jefferson Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-09T18:31:04.180017+00:00",
+  "calendar_fetched_at": "2026-11-09T21:31:06.038762+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 150,
+    "count": 151,
     "day": "2026-11-09"
   },
   "recent_stories": [
@@ -3539,6 +3550,10 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "296828d325d95b57ed84cb93fff2379416b6c85fbbe8091ecf82ffc5d06ebdf7",
+    "a0cc6d930e6923fcd7612f74dd06b178561bebd1420db2da0f90369937285af9",
+    "b36ad628a6b48d897a6f9ae85407e34d526993b6474e7ea8836ba29791dd7b24",
+    "faf5f33fff4ebe023ab5160456e35e522e08566374ea39fc29471b907bb3581c",
     "045620059d8407516ae2c9c938029b964d75763f2fae72976887c7e039455ce1",
     "a6ccac9c14f21afcd44af8c2bb0f46cdcd2cae5eb6e09f07574081b6a5ea2e85",
     "cbf056480f8f30bb29b7c7e3f021418e3b3dde140ab34c2b5fae5773c796fdb6",
@@ -4534,11 +4549,7 @@
     "eb44212b7e8d5f111e950ec8dbfc9db8214e2367873374d6bcb6fdbbd2b059ab",
     "62cebd44ccbbb3607624aaf8ba42ade05075fe330194bf333ce77ca2c015c087",
     "62014a88065e7c5ddf8add70893f38f65414b1192c305c0c52c342b184ffe0c8",
-    "1ec0e7131006d8fc4d3e60ba71766b1387108d21332eed0fba01bff90ab3d390",
-    "332729868baf815c4461b7336abbdaaa9b06abcbf84df10e5e4cc3022546326f",
-    "c09b1d0bd7f025a02cefdc6d4a9e24a8cede1ee179690f199a7bf2be772f4ade",
-    "5b7d495299896da50a7e30633152aeb85ac5a6591a2a0b639f915687ed4c7351",
-    "a3f9e59e06f7a969b44e6cea304e85cbd85f0c4e6fed07ccc5717b4cc06c7b4b"
+    "1ec0e7131006d8fc4d3e60ba71766b1387108d21332eed0fba01bff90ab3d390"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
