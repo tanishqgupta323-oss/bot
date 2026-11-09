@@ -15138,5 +15138,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Euronews.com",
+  "title": "Trump says US has ‘won’ Iran war as Rubio reports no progress in talks",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFk2SzhMUnZnbFhjV01RMWQ0bUQ4UG5tUVYwYVozNU1MQXc5MGgwUGNGRzY3bllMalF6cGo3R2tBektVaHNCQWU2ejZCUjNtZ2tESGZKVmNrY3QwWGpjdXRrTzVBQ0hSVVpyQm9iTlVSQzhUWVpJendyY2tJc28ySWNvR3VoYlVTX2ZpR0ZVbkVfQlB2WHIwdjl5MUp3Y2k5VUhtWG1DWQ?oc=5",
+  "published_at": "2026-11-09T10:42:38+00:00",
+  "sent_at": "2026-11-09T10:50:48.386617+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

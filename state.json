@@ -588,26 +588,10 @@
   "calendar_fetched_at": "2026-11-09T09:10:56.810165+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 30,
+    "count": 31,
     "day": "2026-11-09"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-28T08:50:53.972510+00:00",
-      "t": "Fed expected to hold interest rates steady but a hike is anticipated by year's end",
-      "w": [
-        "anticipated",
-        "end",
-        "expected",
-        "fed",
-        "hike",
-        "hold",
-        "interest",
-        "rates",
-        "steady",
-        "year"
-      ]
-    },
     {
       "at": "2026-10-28T09:40:55.540256+00:00",
       "t": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
@@ -3502,6 +3486,20 @@
         "unlikely",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-09T10:50:47.569870+00:00",
+      "t": "Trump says US has ‘won’ Iran war as Rubio reports no progress in talks",
+      "w": [
+        "iran",
+        "progress",
+        "reports",
+        "rubio",
+        "talks",
+        "trump",
+        "war",
+        "won"
+      ]
     }
   ],
   "resolved_events": [
@@ -3530,6 +3528,7 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "183bdd06c743eab52379a839ae116ad84ee146c0c4d867a5e333a29a85b59b70",
     "27c5ccd24a8c879deaebe9b812d209c59aa8281b50eee9ae572ef85fb337b63f",
     "81263d68265b6094b76ef388afef756a3f491037b3f906e3532b04ced02d967a",
     "707f38203fa8e3ac7ada12f24c51a9a1954a6f2c9d1d41ddcefafce21c003dba",
@@ -4528,8 +4527,7 @@
     "83da80139dfcb2080530c51d83e09637d1d1b4e665ca95077eab3e66c9ff1621",
     "111bee38241862a0ee7f9d7adcda73e818cc034f3a9ac668d130b5b74ee64658",
     "1fa5421d96c82cac9361034a10563fdd9dff47315383171ebd8e9fe270a41ce4",
-    "49c3a9542a6ddd7753b557b6a48f849f7e17aaa2ad72a7bbb0c9e88cac432b9b",
-    "bd32107195031ea05111e86f354e8b51c730eb4c84868815defb7cd7fb2c8b8f"
+    "49c3a9542a6ddd7753b557b6a48f849f7e17aaa2ad72a7bbb0c9e88cac432b9b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
