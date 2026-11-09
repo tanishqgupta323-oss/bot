@@ -15164,5 +15164,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "U.S. consumer prices seen rising 3.8% year-on-year in October - Truflation",
+  "link": "https://www.investing.com/news/economy-news/us-consumer-prices-seen-rising-38-yearonyear-in-october--truflation-5011686",
+  "published_at": null,
+  "sent_at": "2026-11-09T12:40:47.505559+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
