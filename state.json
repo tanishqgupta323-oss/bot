@@ -268,6 +268,17 @@
     {
       "actual": "-",
       "currency": "EUR",
+      "event_id": "5e7738b67b3d4a9d4d5f3379",
+      "forecast": "-",
+      "impact": "MEDIUM",
+      "previous": "-",
+      "scheduled_at": "2026-11-11T09:45:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "ECB President Lagarde Speaks"
+    },
+    {
+      "actual": "-",
+      "currency": "EUR",
       "event_id": "e912b349319380079a89fb54",
       "forecast": "-",
       "impact": "LOW",
@@ -585,10 +596,10 @@
       "title": "FOMC Member Jefferson Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-09T15:20:44.779386+00:00",
+  "calendar_fetched_at": "2026-11-09T18:31:04.180017+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 115,
+    "count": 116,
     "day": "2026-11-09"
   },
   "recent_stories": [
@@ -3528,6 +3539,12 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "da88d62d174cfdfcc1a846dfed9c31f8b6ec7e4c30500f4af912d33b53676fb6",
+    "c13900e42cdd1bc0c126adae748c97b148bd6e756c1ca3b91aad5e2b976383e3",
+    "369ebd0be88c39be8af14848b9e2b47d21f302d93a00789df3124108ba9ceb35",
+    "ef8b54fb96d1191e8ac9683a0ab1f3776407ff32f07add6fa2c753b5b24066db",
+    "d5cb890952d6e78963e5a02a88102c33a023a9ab536e35a1c1555366196971d9",
+    "61f1e270ab1287f013fceebf71c051d9b742d76754386cd94b7b104557033832",
     "9f946de6277dbbb13191707af5a5e13f6fa9e679acc5c4e799456bbfb80a359a",
     "1bfef09f6951242755c244b063f03003c6e9bcaee1bef0d4a775ae217990f411",
     "1483e12be5be91e664dec565e26791e2549a9458ee99aac5e075e06e0bc26668",
@@ -4521,13 +4538,7 @@
     "ae3398b1f531c695af99834f94d78b76333c366758437383ffc36b2b9478283a",
     "80500873d396d3e8fd96b41ffc5ab8ebf62903472273a8ae64cb7543a865ce24",
     "e3f168271ebc5c41f710db4e66e176d4c400cfb67e311951a5e688682bbd1064",
-    "849c6b4d4351779ff036d17770681550d3d04b2e49f79364f17f828905f80071",
-    "5b2818d1dea5295297f3f8cfb7fe39895e2f0b6227c2afc13381718aea7c1a32",
-    "c45c48fd2f52b0d8a624a0ba15860f7538094da295ecdd65a354b92202455803",
-    "4dbbf4d4fa8fc5944a0228e4d550dc9f34f5479d35c8494472b356fb06abca68",
-    "550f20e4c1df5744ae0ca004fcc2cd703ade9739a97ab9519c249ca9f8cc27b2",
-    "803140e17dcec0e7824f7adef66b5f406f2996f1964d9e3be2afc67872cbc6ef",
-    "0af95650eacfef10b76a3433adeb5749ec21e93dcaadfc89eec1b98909c75250"
+    "849c6b4d4351779ff036d17770681550d3d04b2e49f79364f17f828905f80071"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
