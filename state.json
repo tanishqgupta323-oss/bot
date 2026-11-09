@@ -588,28 +588,10 @@
   "calendar_fetched_at": "2026-11-08T21:05:40.136090+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 174,
+    "count": 175,
     "day": "2026-11-08"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-27T21:01:21.985337+00:00",
-      "t": "Dollar hits 2-week high a day ahead of Fed decision, euro slips on French worries",
-      "w": [
-        "ahead",
-        "day",
-        "decision",
-        "dollar",
-        "euro",
-        "fed",
-        "french",
-        "high",
-        "hits",
-        "slips",
-        "week",
-        "worries"
-      ]
-    },
     {
       "at": "2026-10-27T21:10:53.713200+00:00",
       "t": "ICYMI: Fitch sees Fed hiking to 4.25% in December, says US credit outlook still benign",
@@ -3505,6 +3487,22 @@
         "targets",
         "vows"
       ]
+    },
+    {
+      "at": "2026-11-09T00:05:34.059161+00:00",
+      "t": "Trump eyes Xi, Putin meeting at APEC on Iran war, says he’d ‘certainly take’ Huang",
+      "w": [
+        "apec",
+        "certainly",
+        "eyes",
+        "huang",
+        "iran",
+        "meeting",
+        "putin",
+        "take",
+        "trump",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3533,6 +3531,14 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "f2786df5381d862d177939720c8c1128f97a28a6b7dc0ddbae498f87a09ed496",
+    "870e29092dce41c9282205078e1b8de12a357c7721849964aaab962215df02e8",
+    "23121a013ecd507dfc619fba8c7ccacee53f8d5a51479df73bd8201b7a143b11",
+    "528c9d2998b1070234c7b521b183a6cad271f5caac139f55354d62387151bdef",
+    "69495eb0dacba9aa9027242fee8017b06194e6620fa259509e0b6b2ee968332c",
+    "277871092b30bee7ddc1e6b8f37b1f83546af6f843b8b4efd4aeaf3c3a249a12",
+    "e5dfd542e12efdf3c50bfdc050c2a38d5771c92665c11f69f60b857d12eae841",
+    "a4a69516656b3f1851d40d8d8e9751982d0e9aef920e7d9158e84d979e35824d",
     "6057b07c22d0417e88511ae34ac0f86ca783e874ace9e177eea0c5daa44120ff",
     "8bad1d33731d9c570c18fc83c9075801b9f2dafabc1ea949fd6ce084bc6fed8a",
     "4291bf0614633b7b0e3b30687fabf9ad3b6d0a0df72c03608d794390a686e7dc",
@@ -4524,15 +4530,7 @@
     "4d4ad0bfe71f6bce5673020fe16a2e92bf3f19e5af17887535813f07716b900e",
     "6821393d0ef70c7144f9e0b2d8a51bfe44564bfe9cd8fe44ba0a829b282e9e3e",
     "8e285d70187bde8cc44e85d2d74f0f9de1884fd65249db5be3fe5af1ec429701",
-    "1a59b50b8a997fccff08f0586e16b5c93f318756245a8991bf22c0caa5a55f2e",
-    "8e2af7f3de8e4255c80140f66207b9b4a68efb2bd6d59e3882cd96c624589e5c",
-    "f86d6bdd8017fb64f253a4769034dcee69b5c41330b40f57558a4d2a57811718",
-    "fab9a10f421854942be0984d43ee201cf76def8f2d311dc838d9990ad01a38f3",
-    "cc6a565d3344215855548ca6f60c6b438792cbc7fe6723e7370eed7e88a1c520",
-    "d6d54effbfb369e26c09c3c726ad7a74abb206e7065b6c3fa33aad5023d2d764",
-    "ed7e081489d453234d53c6ba4817878dbb38183084d1e5f99d433a823ff98b60",
-    "7753a7b7697f8390b3a4e7a06309522422cdcc9ec27c1aead89ea263ac741687",
-    "e0e21235c538f83143ec2d47bb4f7f003e2b3dbb671812bb399a3a0c617e40e4"
+    "1a59b50b8a997fccff08f0586e16b5c93f318756245a8991bf22c0caa5a55f2e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
