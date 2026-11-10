@@ -15346,5 +15346,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Bitcoin stays under pressure ahead of the US CPI report as Waller raises prospect of a 50 bps hike",
+  "link": "https://investinglive.com/cryptocurrency/bitcoin-stays-under-pressure-ahead-of-the-us-cpi-report-as-waller-raises-prospect-of-a-50-bps-hike/",
+  "published_at": "2026-11-10T10:24:23+00:00",
+  "sent_at": "2026-11-10T11:05:37.188384+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0225,
+    "XAUUSD": -0.0367,
+    "BTCUSD": -0.0504
+   }
+  },
+  "checks_base": "published"
  }
 ]

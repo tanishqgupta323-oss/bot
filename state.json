@@ -610,27 +610,10 @@
   "calendar_fetched_at": "2026-11-10T09:40:47.345261+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 32,
+    "count": 33,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-28T23:05:41.262532+00:00",
-      "t": "Gold heads for its biggest yearly drop in 11 years as the Iran war lifts yields and the dollar",
-      "w": [
-        "biggest",
-        "dollar",
-        "drop",
-        "gold",
-        "heads",
-        "iran",
-        "lifts",
-        "war",
-        "yearly",
-        "years",
-        "yields"
-      ]
-    },
     {
       "at": "2026-10-29T03:35:39.450983+00:00",
       "t": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
@@ -3515,6 +3498,24 @@
         "rush",
         "sits"
       ]
+    },
+    {
+      "at": "2026-11-10T11:05:36.145171+00:00",
+      "t": "Bitcoin stays under pressure ahead of the US CPI report as Waller raises prospect of a 50 bps hike",
+      "w": [
+        "ahead",
+        "bitcoin",
+        "bps",
+        "cpi",
+        "hike",
+        "pressure",
+        "prospect",
+        "raises",
+        "report",
+        "stays",
+        "under",
+        "waller"
+      ]
     }
   ],
   "resolved_events": [
@@ -3543,6 +3544,15 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "de8d79410348a5858ee09e99318b78fb0cfc3f9374139c5cfa7270503b80eef1",
+    "c8ab32fa9924dcd8e77057b7162ea027c90956f0db7f53a0eef25ca1f6933e8f",
+    "de7c8ac63440b188805f2730eefe591a2468938d8a4545103886aca2ba4f47b6",
+    "ce221bc24ac0330bbd6eb06d060a99461775773222aec4bc56b0a0b350c00d96",
+    "a5044d81a5ec4429897b017c3cb6fe3782d19df5d40ca1c1517a934ef9cd87ed",
+    "ecb7f518a3a8375bcda69c39b987c5d44a1eb9a705e667f70cebaf15a1320569",
+    "3756d9f3e47af7b44da455b52496fd8d286cb969a985dbd9c8917d0a87050a7c",
+    "d05aad954314eecfa0049992e20bfae5230b0cd851226fd4c233b4e54fcd47b6",
+    "9a06a1e22b3dc04d9d4d33ac31fd910530d18fdf48943aea1060dd708ff7a4d7",
     "290e8c2eccb2a399bcebfefffea682f7b16cd8aa0d00dead93a391238c011e89",
     "e7ed5362d91bb96c1c481075cdc4c2b68d55c83be924e0b5d3e115f738715e53",
     "29ee5f4b1095666f291757ad05c71977855d7409f5630d963e9433870d775170",
@@ -4533,16 +4543,7 @@
     "a831dbd2fdd9584b3b94b4542cc55c1cf67dab304b3faf553e827298141ac28f",
     "e1dbef9b0beaf9c5741617bef06a9b006ecdf5d8a52c2cdbdf01579789a3aa17",
     "08d074c225fd63fc516821447e7bc1b0b300273550916d961a0045065e4193db",
-    "b3539f6c8bd3ede64c5bcc6c33b5377ef1f4059ae1ada7e2b8b2df5b65a4cb36",
-    "db00ae22fa3cca1497d0fb483128d92811dd1aa2e740e993b5d3d69e59e7f02b",
-    "4f0dfcd023b881983b751b23e9090e710f6ce327347aa3b1e5d1813b683e5191",
-    "c8338bd25f78a189fc8a219d7782f493965951dcdb7a4dda467a6a6359f25690",
-    "0f9ec5361600df4a660fb68f29a7096fad8b4e2a7232147e86902f6a6f8b783b",
-    "dc958435eb216f8a297dfb26e24fb4fa221a8e3a01db929c709c87030514ef21",
-    "ca8ecaa4d3c60645cd657713952f3f9cdbb2b45d3fb21e5867dce758c03e80ca",
-    "167546f5c8ab58526f71d1fe57e108c4a1da045858d1f3c58cc5795a2f5b231a",
-    "e1b7ff5b8435a3e6aa993da8be83562eabafe22bf5f13d6261eb8e76106ef920",
-    "8313a8a2b369bdd6adfe08dbb960f651abe3c0e3ae8dc3aa584f698af341819f"
+    "b3539f6c8bd3ede64c5bcc6c33b5377ef1f4059ae1ada7e2b8b2df5b65a4cb36"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
