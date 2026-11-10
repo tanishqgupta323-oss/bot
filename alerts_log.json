@@ -15237,5 +15237,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink",
+  "link": "https://investinglive.com/news/us-cpi-preview-wall-street-sees-cooler-inflation-but-the-fed-may-not-blink/",
+  "published_at": "2026-11-10T05:40:31+00:00",
+  "sent_at": "2026-11-10T06:05:40.199418+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0024,
+    "BTCUSD": 0.0655
+   }
+  },
+  "checks_base": "published"
  }
 ]

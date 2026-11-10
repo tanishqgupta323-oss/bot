@@ -610,23 +610,10 @@
   "calendar_fetched_at": "2026-11-10T03:35:33.243409+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 238,
+    "count": 239,
     "day": "2026-11-09"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-28T18:11:05.971937+00:00",
-      "t": "Fed holds rates steady despite concerns over inflation",
-      "w": [
-        "concerns",
-        "despite",
-        "fed",
-        "holds",
-        "inflation",
-        "rates",
-        "steady"
-      ]
-    },
     {
       "at": "2026-10-28T19:40:52.392326+00:00",
       "t": "Fed keeps interest rates unchanged, but two officials dissented in favor of a rate hike",
@@ -3518,6 +3505,21 @@
         "risen",
         "slower"
       ]
+    },
+    {
+      "at": "2026-11-10T06:05:35.370065+00:00",
+      "t": "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink",
+      "w": [
+        "blink",
+        "cooler",
+        "cpi",
+        "fed",
+        "inflation",
+        "preview",
+        "sees",
+        "street",
+        "wall"
+      ]
     }
   ],
   "resolved_events": [
@@ -3546,6 +3548,9 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "b9910bbb1430360ec94be63acb2c5c6767bf80e372378ccfc40934acf5b90d79",
+    "a0f58698099f684b68181f64dece2d36cbeffbd8c53e550a4176eb701196882a",
+    "1945a832e0dd91e3c2c72995c52e0900117d9031568bf4660f675cbe21d95d58",
     "3cad41fb9b2050475596c105c5a0d13304dd39f45557c1cf6d50ac4e65b0dd12",
     "d7a9f823da0bc16512a93f3647d62c01accb8fa03301fde0d45057967a23f405",
     "9eccfd9b204388c64c77d6c2c76f2c9c5fe678488be58c52f2ced80631a0deff",
@@ -4542,10 +4547,7 @@
     "df0108bcfe1d7cc50bfb7acf9880511b979509a4ef25fa64f8722f1af19950c9",
     "24193e52d59b9a64e11b248f9dfc024d393f88eeb79db65e4a451a5cd8ecce88",
     "149a073adbbbc311b7cbd5e55f615eebe9d7ead4fa2bf80ebd682841fa042ecf",
-    "6f13dce2457c1ddb797a35797d54a2722a6cdccdd2315b916e66e329c99ad6ee",
-    "d92e2bab4bc0e1148f7d910e3517380c842b69dcafcf94703c55c89f1121702d",
-    "e8e78f9af84b1533112156b60741b235df1e6a6deecf9932bf88775370c8a9ae",
-    "8ab5874c3bb0b843f196cf0ea994515d1c8d42f74f1c1900a1393db2e430c71b"
+    "6f13dce2457c1ddb797a35797d54a2722a6cdccdd2315b916e66e329c99ad6ee"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
