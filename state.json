@@ -610,24 +610,10 @@
   "calendar_fetched_at": "2026-11-10T15:50:45.212063+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 106,
+    "count": 107,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T13:32:22.196610+00:00",
-      "t": "ECB keeps rates unchanged but points to mounting inflation risk",
-      "w": [
-        "ecb",
-        "inflation",
-        "keeps",
-        "mounting",
-        "points",
-        "rates",
-        "risk",
-        "unchanged"
-      ]
-    },
     {
       "at": "2026-10-29T13:36:17.997213+00:00",
       "t": "Federal Reserve holds interest rates steady even as inflation remains high",
@@ -3529,6 +3515,22 @@
         "official",
         "rate"
       ]
+    },
+    {
+      "at": "2026-11-10T17:05:40.818867+00:00",
+      "t": "Fed officials open door to a half-point hike after inflation beats expectations",
+      "w": [
+        "beats",
+        "door",
+        "expectations",
+        "fed",
+        "half",
+        "hike",
+        "inflation",
+        "officials",
+        "open",
+        "point"
+      ]
     }
   ],
   "resolved_events": [
@@ -3559,6 +3561,22 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "30471c9f6de207cb2e8280de4a48b1ee094cb0bc88d630a61b2d0d299c295ff2",
+    "7ba40368d6213d22b6f37a9e2d9b3d91cf0310288f200b6aa2535728dd2f530a",
+    "11c3790a63160d7012de1b539902797ceaa96d7ce2d38db21bfc85493bef4581",
+    "99f1c8a5e5f677a2a898339e28cb37a999a4954a952c7a3ff5ab58149e8f1150",
+    "b96fa93faa6ed3b7f83bed5a2a5c4b5b0f063c43a0db60d01eb892e38ca4f9df",
+    "83b2f686f2017559aa046d5bf8231ecce2702711d86710dd2210b5e6a4d69996",
+    "cacce6d1a130a27bf9a5fcb73ba1ee55f8fbb13275edc8a06bf0812042d01d5d",
+    "0f809067eb44b6ea0e4ec1807787c7cdb921553c44c694975022febac6ec2d3e",
+    "d0b9a555cf0f93454def9eecc22a4b47907702403c514b9bceff80a74076ce75",
+    "9a858401536afccce319e9997cbb653c90fb2a97ad96f33958d49929c19707e3",
+    "6f41e1e2ba225ee9df55fae64900c99f7e31a981243b61f3bf1046e408cdb4d9",
+    "2f8f2b03a58a4fa09f11026ea754d54a9c189346a0bc91122fae3836789c2a84",
+    "f6e92cdcd7446d6b48bc0501b728bae6932a74192b6cd4a96a965545ddcd6fda",
+    "9eb3b8d42136e4b5a4dd4bb53bed9f5b5aa9812b726d4d8b71942993d252f711",
+    "0337795453faa5320529e9777f1f8730e5811093a2807061a1430fd689554a72",
+    "2c5330d436ed1168ac8dd7816a01100a0ede9d9b2f6d746a5607d2dda60bc2f2",
     "6ba2abcf6701d713463b288a8da9b7fa35d1f972c72e672489cae07b404defcb",
     "9509e5bd602b3ab27f4a08f7a0855b99c4a22a33287ff53c848c545c38e6c8a5",
     "f516d95911462de1b77f5bf64d60e3348a7b4a4f40609c015ff490d76f5eb429",
@@ -4542,23 +4560,7 @@
     "61c107590a96fd2611e9a2c884a65d88e658fdd58274ece5274fedf4856f3091",
     "2570b1ba596a65b1429af0d644bedefc8d09bd65b88568d42fe9a43b461d2d1b",
     "7880693106be6248eb7be85b6a034164256692e108b2f0b4fb2ad301b27532d5",
-    "40fc94677bef6f99dbf8ed46db5c1302685d4e0cd6fe74935d02722463f8055e",
-    "6a6bde3606c32efb0bfc1a649a907deacf64a2056c9f7dcdf8a7b5e48e6dda8c",
-    "142261186738d64488999a0debd9a6ef4814c4ca82bb2e531d44b466afac2027",
-    "1cf502bba8e00a8b46e604e8acf6837bb97e180ed017a9c5d704fd23a7b0fb65",
-    "7433e039d79abc03ab26b0199d2c86677d59ec41a421917953400707f2338bf2",
-    "f50d250b16814988af2b7e686ffe806551d49872d201951993f0a04877481b59",
-    "f7482fe4ba8424200fc1006374bb8a827363217bd473a56309ab776910518fb1",
-    "efdf47d6cea7ed75729d76a922f82d3ab2fbe6e39a17620489761e0a8547d87d",
-    "091bcd0af2ec671c1391209b67ff47cd5e139e56b2ec364b0b31bfe7899528d7",
-    "b56c31a78204be49ca7e52a6183ac3e7e37e7f0e0493838e40685808d0f5cfce",
-    "94f181b2247c3369ce6cd2085a262548024d76af31036d40cb6da99833610234",
-    "76295131e61368bbbe04ffaf9aaa10be62b3a791564919b2cf5c0480a5ee82b4",
-    "3af85f49c8b0c05bc700182e7dfc88ff1b1d725af012eb07616bab44667d750b",
-    "722761a7ca21cc4184330e6dfc8bdc3d1eadcbfb95484a88ee3d6d215ca62b05",
-    "1c66ea2765228aaf84a5e3027ad61344f1bef20b52a80dae59fbd56e33b44a48",
-    "7a74d43a0a1a648bcdbc44c1f5066435003bc7a9fe428242ee256fd15df65d9a",
-    "c89eb4faecba2e4de9e70d82c78aeb41517e3a29a2aeaada99c6933ef89858c2"
+    "40fc94677bef6f99dbf8ed46db5c1302685d4e0cd6fe74935d02722463f8055e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
