@@ -610,26 +610,10 @@
   "calendar_fetched_at": "2026-11-10T03:35:33.243409+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 233,
+    "count": 234,
     "day": "2026-11-09"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-28T13:20:55.953571+00:00",
-      "t": "The Fed is expected to hold rates steady. How will Warsh justify that in the face of higher inflation?",
-      "w": [
-        "expected",
-        "face",
-        "fed",
-        "higher",
-        "hold",
-        "inflation",
-        "justify",
-        "rates",
-        "steady",
-        "warsh"
-      ]
-    },
     {
       "at": "2026-10-28T18:11:05.971937+00:00",
       "t": "Fed holds rates steady despite concerns over inflation",
@@ -3521,6 +3505,19 @@
         "test",
         "warn"
       ]
+    },
+    {
+      "at": "2026-11-10T05:20:43.402910+00:00",
+      "t": "US consumer prices expected to have risen at slower pace in October",
+      "w": [
+        "consumer",
+        "expected",
+        "october",
+        "pace",
+        "prices",
+        "risen",
+        "slower"
+      ]
     }
   ],
   "resolved_events": [
@@ -3549,6 +3546,13 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "1a126bb9da870acd8e03b8728f1d74b54af95941015d480ce8161d9aa0090d6c",
+    "a1085df4b6f1282ad23abbc60df02cffa022e1cac57197e5c9a11f6668b07096",
+    "287fc1f8f6b9ebc93264c667af43c7940b675c2d6a2e10f5924739404c3a13c6",
+    "2d24e6075b6c72818aeb701f1948a2abc6c7dd70e7bb54a5b4728f4c48b382da",
+    "5c224dcba31a0e48df0d19ecfa6f2697183cbcae4ec3c71e4b7a0cf94a81c27e",
+    "5edc3dd17666f3809282404a4dafe8ed5bb871dab4ede39242d1442ae548ff43",
+    "535ed8b76747b6c6c24fefc26db64f096684f15bc8458d12324f5b499a16c9c2",
     "bc1b0a89a46b03901dcc5a62a4cecd87916600b8f7f33d500c13b42f3d8c7e73",
     "37c172d5522a9967aa0abe52aa7e79232f2a394a4eb678dd85ce0e3ed3901ace",
     "0bd3473a36193a6440816e6171581c213bdd613f3b10d60f62336b107a2a0b43",
@@ -4541,14 +4545,7 @@
     "5618733d77aa4e27a14e7b8b8272c3e266b08ce0e94195d7699d2f61cc45e6d9",
     "0a6b7266b72a92449ca6ddbe22b9e576ea1575b0652babece14865a6f62a5246",
     "862e21f7c4728ccc20ef48e0355eb69356abb6107407ccf5005ff1df910ad733",
-    "15abc527fa02f7d5fb6aea7057cd410a0b12a42fdc54b4122372898d225071c0",
-    "6772a8b3dcb90de9bde4f6310ef231400a4708d200f540bfd3dd850c5c4ebba1",
-    "7361f6ea8ae3fc1aac1e13482bcea0465cbec7668c331a509049a7a82d41e966",
-    "da18d8e0eef111cf2b0a7160f9be29f871b6f91a2f9da4ffdbbcff797f817a23",
-    "30ffa68288b1c10c287378d6cb6a753cbaa9c5a084517341389bdb1ed60e91d8",
-    "a87596c548d7303bed20469e55cef6e27007cde5090181adb8db7b3b989ad168",
-    "718c13c90152c40b014b6e43de97b1139a872d915d58f98fff02ec5d0ed0b8f4",
-    "b6148917f1c973e691e251a5cdf09adbd86dbd00961c955959c06a898129f30a"
+    "15abc527fa02f7d5fb6aea7057cd410a0b12a42fdc54b4122372898d225071c0"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
