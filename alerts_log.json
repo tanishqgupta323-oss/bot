@@ -15627,5 +15627,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Deutsche Bank expects Fed rate hike in January 2027 after hot inflation data",
+  "link": "https://www.investing.com/news/economy-news/deutsche-bank-expects-fed-rate-hike-in-january-2027-after-hot-inflation-data-5016313",
+  "published_at": null,
+  "sent_at": "2026-11-10T16:51:01.796726+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

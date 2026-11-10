@@ -610,27 +610,10 @@
   "calendar_fetched_at": "2026-11-10T15:50:45.212063+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 103,
+    "count": 104,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T13:10:51.458474+00:00",
-      "t": "Fed’s preferred inflation gauge rose in September as third-quarter GDP beats expectations",
-      "w": [
-        "beats",
-        "expectations",
-        "fed",
-        "gauge",
-        "gdp",
-        "inflation",
-        "preferred",
-        "quarter",
-        "rose",
-        "september",
-        "third"
-      ]
-    },
     {
       "at": "2026-10-29T13:10:51.458474+00:00",
       "t": "Inflation Accelerated in October, PCE Index Shows",
@@ -3529,6 +3512,23 @@
         "quarter",
         "rate"
       ]
+    },
+    {
+      "at": "2026-11-10T16:50:55.831534+00:00",
+      "t": "Deutsche Bank expects Fed rate hike in January 2027 after hot inflation data",
+      "w": [
+        "2027",
+        "bank",
+        "data",
+        "deutsche",
+        "expects",
+        "fed",
+        "hike",
+        "hot",
+        "inflation",
+        "january",
+        "rate"
+      ]
     }
   ],
   "resolved_events": [
@@ -3559,6 +3559,17 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "a75f9f166b874b7c4a5ecc828777159c35a9ae229dc2ec4c5f39d5d2d5ca1a92",
+    "cab4eca50f35a32bd9333564966894102ef39884848ca5a2ab20872a81f9e8e8",
+    "b543c9f6ac54d45b8473680f3af0c9fb0b4a2f94fb25cf7ac9d1e0325afccf32",
+    "708381c0d549fe363613381232f216c66652d86b5480bb0c49dc5ae8594ec828",
+    "8be037a09d77b874df286ad0a5b31bb35551c791b2f1e4704797a6afc924a187",
+    "cf2fa32ed32333d07401819ccdafa931398ba06da5cf253f3727e04a77589f56",
+    "94f7913d2edb41328f62519e1c6a8c9809d709d83c07e266ed8a5e85ec0eecb3",
+    "f5051d4173276dc38b9f1ea66af7052122a38d8f4b35a9d65333965cb7f1a552",
+    "9958dc264d87a6ab17a3d04d2e5ad09aa2851c0957d0bcd33e6cdb0e4fd78d37",
+    "e7b18376292667c220f2ee8770b117acd0e0795a817afb756d53f404f05b7dd9",
+    "d5cdafdd7ce2d9e71a3ee9415cfc0f5974061dbbfcfb4fecbdd8946824a3a049",
     "de16e3f3c56250d28ccfdb180c8366b512be98cca0b4dd602bbf235e6200998e",
     "8049087add21be03018e60ac3e76905b170d3b665399e0670ba9f935ce17cc6d",
     "8953327a3176af7987c1d2b9293ee713ce3329788348eeaf5c0e3aee80b1b3c0",
@@ -4547,18 +4558,7 @@
     "3c1f74405c5f3ba9711c428cbacba5b4352a9bfa2dbdfea9610344d76271e4a6",
     "945a71ee2d79365d2226153bd39c1b170a00b8cbd0c0b2d62ac2736f9f8e330a",
     "bd3f5c3eb36173e7bc4824b8b946445df7f2f6196143eb47b3d850423db00844",
-    "8a8c0ac20471eb578c83e7568b0500e11e175e6d98ccfee8eb08fa2ff0136756",
-    "07b741d7eaf9267feb7377b42b4936f7e20211db662029b3e31974f39121e452",
-    "f8c7a6aeab199216d39b13b2c600738fb534d47aedf35264ec680345b182a05d",
-    "410087a3330cd0c60297833438e6f86fb5af124d7fffebde4489a438c845bd4b",
-    "08ef89190457e8f013317d378464cf0f28390f643a681873f800710b0ba9fc8a",
-    "837b914617142ace1221c925208c7c8a30c29ec169d6405333880f583c2b57ad",
-    "501a0070707575df411486d8acb83ef621013695ea1b69c1a99ba0de84ef6681",
-    "82747b828c1c9aa9678a8e00cf6d72ccc94cc9b5637c3e6c7c53f32d5dc850fe",
-    "5ff81dfcf6fbe8c781cf772e044a88cfcd5f36e70e5d3e6c9006941fbcaad902",
-    "15bfc87d357da7724fc1a96f8e1e2ab908b863d64edc8d282c05d0f910cd0e05",
-    "53b766b7bee6a32132186b2ee9b9e61faca2f27dc2b4fcf1571ab927c2649767",
-    "3d4082b860b96e052174656e7dc38832c5d3c207796c491dbe045158dd540dd5"
+    "8a8c0ac20471eb578c83e7568b0500e11e175e6d98ccfee8eb08fa2ff0136756"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
