@@ -15736,5 +15736,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Washington Post",
+  "title": "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2ZKUlBkR0xZX0VQNjlOMXFjNkFCc1lEbUlTNVIzZHVteDU2R29hTTUzcWV6RzdmRjdYRWxhcXFhc0drZk1OMWFseld5dXRXNENrYVFWa0lCVEE3U3UyeUppRzVxQllYT21aY0pjZlVnVThaNzVGa0o2T2lZeDcweTUtZVNOa1lGN09uUnNyS0RMc3ZIWkN4eTVLV3Z4UkRkUjhBV2hyTllzdkNQM0g1RE1WR1Z2UDdZVFMw?oc=5",
+  "published_at": "2026-11-10T17:31:38+00:00",
+  "sent_at": "2026-11-10T19:05:45.197975+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": 0.0025,
+    "BTCUSD": -0.2151
+   },
+   "60": {
+    "EURUSD": 0.067,
+    "XAUUSD": 0.0918,
+    "BTCUSD": 0.4292
+   }
+  },
+  "checks_base": "published"
  }
 ]
