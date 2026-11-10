@@ -610,34 +610,10 @@
   "calendar_fetched_at": "2026-11-10T15:50:45.212063+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 94,
+    "count": 95,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T13:01:56.799236+00:00",
-      "t": "Fed's favored inflation gauge trended higher in September",
-      "w": [
-        "favored",
-        "fed",
-        "gauge",
-        "higher",
-        "inflation",
-        "september",
-        "trended"
-      ]
-    },
-    {
-      "at": "2026-10-29T13:05:57.256192+00:00",
-      "t": "US September PCE core inflation +0.5% m/m vs +0.3% expected",
-      "w": [
-        "core",
-        "expected",
-        "inflation",
-        "pce",
-        "september"
-      ]
-    },
     {
       "at": "2026-10-29T13:10:51.458474+00:00",
       "t": "Fed’s preferred inflation gauge rose in September as third-quarter GDP beats expectations",
@@ -3525,6 +3501,34 @@
         "rate",
         "remains"
       ]
+    },
+    {
+      "at": "2026-11-10T16:05:34.574015+00:00",
+      "t": "US 2-year yields surge as the market realizes the US has an inflation problem",
+      "w": [
+        "inflation",
+        "market",
+        "problem",
+        "realizes",
+        "surge",
+        "year",
+        "yields"
+      ]
+    },
+    {
+      "at": "2026-11-10T16:05:34.574015+00:00",
+      "t": "Fed's Logan: It's clear that Fed needs at least two more quarter-point rate hikes",
+      "w": [
+        "clear",
+        "fed",
+        "hikes",
+        "least",
+        "logan",
+        "needs",
+        "point",
+        "quarter",
+        "rate"
+      ]
     }
   ],
   "resolved_events": [
@@ -3555,6 +3559,11 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "e206a71d503f4bcc73ef338e20d31dbe455b61bddc8c2873d02603f4b56c4f73",
+    "42b44b1568f36b7f1cb34fe7c4b0cf1424165268ab96e84ecedec124bcab1cb9",
+    "e122ccaf13e920e9700ed675a1829ea83fe0ce0a9896f6ec4b53221736e4e741",
+    "cc55e7f070667885cdb137f14149bed7ffb6daca460082556eea05da0629bd08",
+    "e3c49548f7231b3c135be00a10786fb53c8561af93c74c6b6b90d3a20427b68e",
     "041033cc410c48f135e5fbbeccd813f8a07656c1150745261b7f05131bb79065",
     "1d3269d7844e0774cfb90efd3781bf487c12d9d6444e7e8bdae43a77a59566db",
     "98a510670a6c78283d89c29ffe69f9cb6626af51fad23536d729e9d4019a98f1",
@@ -4549,12 +4558,7 @@
     "045620059d8407516ae2c9c938029b964d75763f2fae72976887c7e039455ce1",
     "a6ccac9c14f21afcd44af8c2bb0f46cdcd2cae5eb6e09f07574081b6a5ea2e85",
     "cbf056480f8f30bb29b7c7e3f021418e3b3dde140ab34c2b5fae5773c796fdb6",
-    "6d778cd144c5eefb9a76031c4d86893fe2260d74e4f53089addd862135207680",
-    "857fc6abbf17d0dd85cb851da39ec6c0e9b87f8d1f1def892dfbc231313f6139",
-    "0c9dd6e06cebc6334d47e6a2b6de5df0365bf8514058f91f0b61b52d96a838b3",
-    "382de2af3c9141763fc86283d5aa646b0bc83d5a9ae2618fd12f0b2f123bb27f",
-    "ce1ebff549bc265afdbab200e9d25435f6fda58e1bd8f8fdabd605a122e58258",
-    "6601ccc630ae5666152ad144b902e374341f28955a90e3b56c46fef8b2b206c2"
+    "6d778cd144c5eefb9a76031c4d86893fe2260d74e4f53089addd862135207680"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

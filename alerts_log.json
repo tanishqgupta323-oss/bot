@@ -15575,5 +15575,40 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "US 2-year yields surge as the market realizes the US has an inflation problem",
+  "link": "https://investinglive.com/forex/us-2-year-yields-surge-as-the-market-realizes-the-us-has-an-inflation-problem/",
+  "published_at": "2026-11-10T15:09:13+00:00",
+  "sent_at": "2026-11-10T16:05:35.732071+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0112,
+    "XAUUSD": -0.0296,
+    "BTCUSD": -0.3233
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Fed's Logan: It's clear that Fed needs at least two more quarter-point rate hikes",
+  "link": "https://investinglive.com/central-banks/fed-s-logan-it-s-clear-that-fed-needs-at-least-two-more-quarter-point-rate-hikes/",
+  "published_at": "2026-11-10T15:55:17+00:00",
+  "sent_at": "2026-11-10T16:05:36.314188+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
