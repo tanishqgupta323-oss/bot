@@ -114,22 +114,22 @@
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "251002ab88b0bcc03b6afe98",
+      "event_id": "6910bd11a667889f5f8c7293",
       "forecast": "-",
       "impact": "LOW",
-      "previous": "-",
-      "scheduled_at": "2026-11-10T13:15:00+00:00",
+      "previous": "16.8K",
+      "scheduled_at": "2026-11-10T13:14:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "ADP Weekly Employment Change"
     },
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "ed1e501f4fa72701c6b6844d",
+      "event_id": "251002ab88b0bcc03b6afe98",
       "forecast": "-",
       "impact": "LOW",
-      "previous": "16.8K",
-      "scheduled_at": "2026-11-10T13:16:00+00:00",
+      "previous": "19.5K",
+      "scheduled_at": "2026-11-10T13:15:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "ADP Weekly Employment Change"
     },
@@ -607,10 +607,10 @@
       "title": "FOMC Member Jefferson Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-10T12:45:47.660064+00:00",
+  "calendar_fetched_at": "2026-11-10T15:50:45.212063+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 91,
+    "count": 92,
     "day": "2026-11-10"
   },
   "recent_stories": [
@@ -3555,6 +3555,18 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "a8d5dd00e1147e1bec73d1497735618177bdd35f4ad587d2a6466a6afcd3e8c6",
+    "c0037675c7b915aa457ef2b54ba7f3ee7831bd61fe9429060d68addb03ff3bb6",
+    "d4cfac49cc48505144184a3127741eb0c3fe300eaa1c7cfe1e950e1948722f60",
+    "470dbc51e6e14215bd7b10493a4120b27e5ca3b2dd9506d524202de1edd48ad0",
+    "5f5c828246c928e5f9365d287f604382b4cff50e135f0b0de1fff550d830a362",
+    "80ae1c706fb3c12a61d9cb3adc9f0f207c61fbbbf5e41982e1b9c963bf739d3c",
+    "b8f6229bf2cc17eb83cc47af4fe7cf1ac6277b8a2057c63b26d1a5851c15daef",
+    "9bdcdf6b166c8c8189c7a49a281c167d3a56aa80e8f1341ebe5e3649ff2dc346",
+    "cf1b5c6c94a2f5f486c21cfcb647d38d3765682b5275d1f60d789b9359b4b261",
+    "6b6bfaacceee8ef1e4ab27153e0b21c92c18a17f22043b70938682fc392ab6bf",
+    "f76b9fbdaf5b80f8294af030926e0514b603ee60cb7ff6576aa33e2a456db189",
+    "763b18ce95d42ebfc8554eeac7b502e7fff59d0dd571aef8dec9ce6f541b700f",
     "2abca79e97879962a60f3b784ea3cb2f635a745b3c2c86bf9ca95986cdb278a3",
     "daa3d2ba9b58ae210498e14aaac390ca497e43fec29232e984e36f95563fc3fc",
     "93009487511218e965c1f246791b375c426ce843825e7f0cc895c694c1f5a3d7",
@@ -4542,19 +4554,7 @@
     "7a31db070a55aa2086c99e9f17f055f26268fd636e7578e4807b55d4034a9f5f",
     "f44175fd40ddb2569b17fcc35586012467063fea1d3f44136a86e52035c61f1e",
     "db6ad7306730660a1e46f658722f9331db8959df65f5395165411e10ee8ce7ed",
-    "8bb274d6260368c259f3b040bde472a443000790491e122c6211c82975411ca9",
-    "8c32348d065f2ae44c76db84c0927e1c655036b0de6b031c9e0122f7c72c32f6",
-    "fd3c3e303417b2a70e39ac4242340b131f147e73b51535b2820be5af1ef5f625",
-    "18ba753dfbafe3519fcbdd311e8c5f58243fdda7b8ed5dbdac3ba615522b7d8f",
-    "1b0f5759cd1260030427d41ef3d855c3ad9573fbb7fb3e0b303cbf1d21dcbde2",
-    "2e783026867bc7c04609da1ec1be44f94798094578cb5315aacb38bd2874e069",
-    "6b9bae12820f70724109ccbc1813e8f4b0dfa4d9720ae7ada3994f771d778d99",
-    "e7bfcc78a23963af4edc5e2bd40bad404e3b84b65ca1a42ab865d70063b85d3d",
-    "8a86c9de74d1135247bb3881a03e953dc7511d49d539335a2d25200c10df0f5f",
-    "b9fcf6298fc6e4994e4e3036c485fe9f9750da4eb631dc03b8eb6022d38e4fbf",
-    "bbc562f3924dbd126ad123b9ada4c2077b29f65b41482015fbf3ee8016ff7ac7",
-    "462bcbf453fd82765669d331e0d13a2d2100f9acae90b26666963f7ceff45c85",
-    "c2ee9b4804d68ebff1581aaeafff6deb3bd27a83944b06bb39f9a151b89a1d4a"
+    "8bb274d6260368c259f3b040bde472a443000790491e122c6211c82975411ca9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
