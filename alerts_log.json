@@ -15471,5 +15471,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Politico",
+  "title": "Inflation remained elevated in October, cementing a Fed rate increase",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHhIaWRzdk1aSzZmZHRVc2tnVzZkSFAzQjZtS3J3a2NwNnRKTTMwVXExRzk5cEVlQ3Ezd0xidEN0TmlCRjFlLWxtNU5VTDR0aVVZTDdZMGVDLXJLdHZEUXpTUTU3UHlYeUJaclV6Zmo0X0pwU3VJbFUxOVNOLU8zd2F6bHdLVFg1azBoWVFhVlNKWUc3dHptMEd0RFZQZ0lKZUNQTkEtaWJBV1k4SEhuaA?oc=5",
+  "published_at": "2026-11-10T14:20:00+00:00",
+  "sent_at": "2026-11-10T14:25:42.913025+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

@@ -610,24 +610,10 @@
   "calendar_fetched_at": "2026-11-10T12:45:47.660064+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 74,
+    "count": 75,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T10:55:41.236156+00:00",
-      "t": "Fed leaves rates steady as governor Lisa Cook dissents",
-      "w": [
-        "cook",
-        "dissents",
-        "fed",
-        "governor",
-        "leaves",
-        "lisa",
-        "rates",
-        "steady"
-      ]
-    },
     {
       "at": "2026-10-29T11:35:39.200346+00:00",
       "t": "Trump weighs post-midterms Iran operations",
@@ -3519,6 +3505,20 @@
         "rose",
         "stronger"
       ]
+    },
+    {
+      "at": "2026-11-10T14:25:37.707365+00:00",
+      "t": "Inflation remained elevated in October, cementing a Fed rate increase",
+      "w": [
+        "cementing",
+        "elevated",
+        "fed",
+        "increase",
+        "inflation",
+        "october",
+        "rate",
+        "remained"
+      ]
     }
   ],
   "resolved_events": [
@@ -3549,6 +3549,12 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "41af94813542ee94e2b81ae07eb388293a48941c68bf66aee08fb8129a0a6042",
+    "29d61449ddb9c8e33b4861154c51e15030b2d8f331045731f8d88eef8e509be8",
+    "7d0cb06dcb003e472b2707ba4151a5a8f865248132c9687b5e029eaa40653f80",
+    "d1030e3a5142a755dcbc7a9742240bd2c9aa083d0cfa4ec3a4986771a45c0657",
+    "3a0d0c54e4fe38cdc20a9fe6046b0f320e71e05e8d8ac5c293b616727e0107da",
+    "4eefbe3f7fdf8366c5f28486bf6dfc5cf17e48eade0552a6c0f59cd88ad9d1fd",
     "88df4d7d0927e44935618b94c043bf62d56f3652b6c0645f1214fab64b71d4ac",
     "c2676ecf8e4f57a21685e8da9570eacb40c04bb58110e762aeef4846fc05f313",
     "ee73064be1098aca1d7659363c2d79382f06dc28426b0f9dfd6f4436b8fbdcef",
@@ -4542,13 +4548,7 @@
     "055d9c2b4ba88c2efb13996df243cb372a23ccd534a6a02449cf11eebffe3d43",
     "488749be6bdab1482207ebf4b49a9e079390720d9cb33d69f749207fc08a303e",
     "0590c6449aab60d4aad816b13b48e496797a1ec040a307cebce1a00cdae09a91",
-    "4b46e900445b09fadbd3c3d110528ecd7f473cf609937500cf38d367e3f93023",
-    "9b12107b5ff5e776a4ec7deaae831f44c516e3eedfaf975eb372bbf8b153ba25",
-    "ed1792103d6db0489e7d30cf0a6edf92d6cc5fae7582512666d3a96b8aa4a453",
-    "7f7d3349c7f550578acbbb540d9b2bd390eedc62333de4effa075cd81ee4a403",
-    "d685efc7f88eb732d7e02754a7e94372a7d790952595967ff18f5cd2ec1d196c",
-    "01b435e9b6816d3b88225590a0c0e71607edb75fe0c9bf7f4726547273c1cd90",
-    "42cc323dcb0adaf63dc5feba6a989e395f916db046af0415c1df4bf0671efd49"
+    "4b46e900445b09fadbd3c3d110528ecd7f473cf609937500cf38d367e3f93023"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
