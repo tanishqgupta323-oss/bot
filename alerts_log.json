@@ -15814,5 +15814,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Forbes",
+  "title": "As CPI Rises, Fed Rate Hike Looms Pushing Up Borrowing Costs",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTJ3OUVsRlQ2ZXA5QUh2OWJjeWV2NmRIT2NMRlh3by1VcG1iVlRSOVp1Y3BxVEFTVFpNVFdWY0V1U2owQ1pIOE9hU1RyV25kT1RJdFV5eUNhOW5aRTJUZGk5NEJnM1VxeTZvN3V1R0VBcHRsSTB5OVdxb0dnLW1wMmFNdmN1REZxWE9QWDVMY2FJd0lxdXV0ZE4xakJrdXdxOHg1SHlBRVdRaWhwYVFLYS1JUmIweUVkNGFTNDE4cC1oZzRkaVdrell3?oc=5",
+  "published_at": "2026-11-10T21:32:17+00:00",
+  "sent_at": "2026-11-10T22:15:47.775646+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0112,
+    "XAUUSD": 0.0669,
+    "BTCUSD": -0.1809
+   }
+  },
+  "checks_base": "published"
  }
 ]

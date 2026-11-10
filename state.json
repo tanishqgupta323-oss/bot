@@ -610,25 +610,10 @@
   "calendar_fetched_at": "2026-11-10T21:50:46.117264+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 165,
+    "count": 166,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T20:10:50.523297+00:00",
-      "t": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
-      "w": [
-        "announces",
-        "blockade",
-        "deal",
-        "iran",
-        "islamabad",
-        "naval",
-        "talks",
-        "trump",
-        "yield"
-      ]
-    },
     {
       "at": "2026-10-29T20:25:40.273722+00:00",
       "t": "Senator Briefed on Trump’s Iran War Plans Warns of “Devastating Escalation”",
@@ -3530,6 +3515,21 @@
         "video",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-10T22:15:46.426125+00:00",
+      "t": "As CPI Rises, Fed Rate Hike Looms Pushing Up Borrowing Costs",
+      "w": [
+        "borrowing",
+        "costs",
+        "cpi",
+        "fed",
+        "hike",
+        "looms",
+        "pushing",
+        "rate",
+        "rises"
+      ]
     }
   ],
   "resolved_events": [
@@ -3560,6 +3560,8 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "5768aefb47d855071814a5220dddb3b037642b259a3c87415dfdc64cce520631",
+    "a30132def18c00ceab9f74a429f18714de757d2861a9480cc09124f85814234e",
     "e05ded815e3d3999ece530c3f26de38ec9c2e079291883a15deb81b817f53195",
     "1f3cfd6e489c546cec66307f2dd8ee5a496c4af5f0a7033ed0e6aa0368025905",
     "f02ecd7d7a0e49061dfe518554d65a1520ca7bc3a5fc03094480ee0dfdeaf6f9",
@@ -4557,9 +4559,7 @@
     "ae3ec5568539f7a5060c0782cf2bb077ce355eaea0b3e9336b798fd6a0fdf6aa",
     "e640acf7e3f7ed4f4da7d0f2e13b006da1f022e195316869d8669cb3839cdff7",
     "961478f1eb73c3ae4b1294458114e4e2ba8b2c8f856dd4ad173e414cd6a351ed",
-    "dd5af0ad10bdd5c7804c85997deb6b893416958b6706c231a1597cb2052c5a37",
-    "ad89b6e6282dd7d8e30e128a1effc7f6a2f40793754b9c21dda4decd9738ebfc",
-    "851e7f0a2d3e0adda74bd5732bdb8bc9498148022120f78379df2bdb48326867"
+    "dd5af0ad10bdd5c7804c85997deb6b893416958b6706c231a1597cb2052c5a37"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
