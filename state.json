@@ -610,26 +610,10 @@
   "calendar_fetched_at": "2026-11-10T18:50:45.553828+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 139,
+    "count": 140,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T19:31:09.577697+00:00",
-      "t": "Gold dips, with spot prices just above $4k, as U.S. data hints at more rate hikes",
-      "w": [
-        "above",
-        "data",
-        "dips",
-        "gold",
-        "hikes",
-        "hints",
-        "just",
-        "prices",
-        "rate",
-        "spot"
-      ]
-    },
     {
       "at": "2026-10-29T20:10:50.523297+00:00",
       "t": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
@@ -3533,6 +3517,19 @@
         "schmid",
         "tighter"
       ]
+    },
+    {
+      "at": "2026-11-10T20:01:17.242461+00:00",
+      "t": "Iran War: Latest News, Live Coverage and Video",
+      "w": [
+        "coverage",
+        "iran",
+        "latest",
+        "live",
+        "news",
+        "video",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3563,6 +3560,9 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "99e54558fd4c617047e0c83f36c3ccca44d58f9bec60fbbef1aeb5c81e5aabd1",
+    "da9921670c886eab1bbc1ca06ad64049e27805832c13273b5e922478f92b9ee4",
+    "d97eee06f5c78b0985015995f85aac4b21364edec8fa1b852acda9cdd78c3930",
     "ea7329aa9f7777c7f9e67c7dd9605d1e792cc176dd1ccfbe9a7522568657c9ab",
     "e2bd9fe97c8cdab47042ab0e86e9b4bcff02e69d162cab4dec2ebebf7fd227c1",
     "eeb0b8363c936b71e1926b2dc985b982669f6892774c3882fc048a67beada54a",
@@ -4559,10 +4559,7 @@
     "d76eef197f1e9f5bd99b213580a60529016d9ceeb95afa612906a52df271be7f",
     "d17be9490c85b002d2fe4945e26a3c8deee84d89a9ff068e77682db253757b4e",
     "2b47edb2b28121d86662d496b9aa331e062c5904bf4be5dd1a78d546aa80b270",
-    "98e0a7d359c3c9e218b36dd47e9a4728cdcc1c650ebdd651c179c0ce1a9530a1",
-    "a232267a61cc2805cf14150d6b179507edef6ef549ad8586720c8d1b6f5d5639",
-    "5286f74d0b2a7c74584a527b405af9bb5a5fc1469e45b39fdd996a979724176b",
-    "fa733ba667ed81e4c2d8af42bce1783a377adb42b31c35dde4c1eb23ec1eb3b3"
+    "98e0a7d359c3c9e218b36dd47e9a4728cdcc1c650ebdd651c179c0ce1a9530a1"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
