@@ -610,22 +610,10 @@
   "calendar_fetched_at": "2026-11-10T12:45:47.660064+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 79,
+    "count": 80,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T11:35:39.200346+00:00",
-      "t": "Trump weighs post-midterms Iran operations",
-      "w": [
-        "iran",
-        "midterms",
-        "operations",
-        "post",
-        "trump",
-        "weighs"
-      ]
-    },
     {
       "at": "2026-10-29T11:55:39.868811+00:00",
       "t": "Fed Holds Interest Rates Steady After September Hikes",
@@ -3519,6 +3507,21 @@
         "rate",
         "remained"
       ]
+    },
+    {
+      "at": "2026-11-10T14:50:45.980546+00:00",
+      "t": "Market spooked because now the Fed may need a supersized hike in December",
+      "w": [
+        "because",
+        "december",
+        "fed",
+        "hike",
+        "market",
+        "need",
+        "now",
+        "spooked",
+        "supersized"
+      ]
     }
   ],
   "resolved_events": [
@@ -3549,6 +3552,7 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "5c246a5857b7bc7395271161f879ed88fd1916773fdd9b3575e4457350aff578",
     "e40f0cfb1bb0351936e9525bbdc745a5c1b50bdedba76187614af857b5a1fd78",
     "d753795430ae045783b355fdb5821d46987b80279cd09cb8873e7485242a5f24",
     "599f2e2933271e0578f303aeeb4aff15ca79f9d1a1686cc9a8a43e7695a6ebfc",
@@ -4547,8 +4551,7 @@
     "80b0b1c6b2656f5850f39a10e8bd6e95d6bee7a79c5fc7246d6b6394d2c8be9f",
     "7a78211d7b713bf9a778b390948bee9a8a450870ca66f13285e077dfa9c787f1",
     "ab92bc2ec158e29318a341b056d43b3ed50d1f87afd78574189eb8fd65ee3e76",
-    "7ca1f0d547a199f0bd759a1441bab14cfe77a608ac899ae54108d5c15e39fbf9",
-    "26cba105ac7eae1886ef3df080a3ccef9506d4adc2de80483ac9af541919fd53"
+    "7ca1f0d547a199f0bd759a1441bab14cfe77a608ac899ae54108d5c15e39fbf9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -15497,5 +15497,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNBC",
+  "title": "Market spooked because now the Fed may need a supersized hike in December",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMDhEVlJxMWhUQUEzNDhsTUVHci1qWWV3THQxYm9hUUNNdnN5a1lPN0xUSmZvVElFRk5iaUZzaXlwcjdUTGllWlg5RWx5SVVEd2dxUXZDSzFZcXh1SzF1bWZBN0E1dV9ZWUxCVXN2UWt2VzQ3UEtDUFNkNFpYX3czUERna29mQUdHUTRrVVo1UUYwMWdtakxzMVZCMnhTVGpTY2NZalFRNUxwT0lBU3dv?oc=5",
+  "published_at": "2026-11-10T14:38:59+00:00",
+  "sent_at": "2026-11-10T14:50:48.014574+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
