@@ -15320,5 +15320,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "Bitcoin Sits Out Equity Fund Rush as Fed Hike Odds Reach 84%",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHBTMF85dkh3NGdOdFBmRTdZLXgtdnkyWVY5YkNKOVZ4MWZwbkZJOXJmTXYydDNJZGJLeE8zWnU2Y0pvVy1CdDVmZFhDRWZGM1BfT3hmMVp6NlpxcU8xcU1mdXhMOEJyQkg1TE5XblhvNXRxZnplVUtGSFFrSDNMQU5PbGNMemw5eXB0V0czNDRrMDZfSFFmU2xB?oc=5",
+  "published_at": "2026-11-10T08:51:47+00:00",
+  "sent_at": "2026-11-10T10:45:50.445211+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0787,
+    "XAUUSD": -0.3901,
+    "BTCUSD": -0.3479
+   },
+   "60": {
+    "EURUSD": -0.2021,
+    "XAUUSD": -0.8627,
+    "BTCUSD": -0.2889
+   }
+  },
+  "checks_base": "published"
  }
 ]

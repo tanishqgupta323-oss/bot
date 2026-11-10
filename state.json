@@ -610,25 +610,10 @@
   "calendar_fetched_at": "2026-11-10T09:40:47.345261+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 28,
+    "count": 29,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-28T23:01:34.476840+00:00",
-      "t": "Gold price drops to $4,035/oz as Fed votes 10-2 in favor of rate hold",
-      "w": [
-        "035",
-        "drops",
-        "favor",
-        "fed",
-        "gold",
-        "hold",
-        "price",
-        "rate",
-        "votes"
-      ]
-    },
     {
       "at": "2026-10-28T23:05:41.262532+00:00",
       "t": "Gold heads for its biggest yearly drop in 11 years as the Iran war lifts yields and the dollar",
@@ -3515,6 +3500,21 @@
         "support",
         "waller"
       ]
+    },
+    {
+      "at": "2026-11-10T10:45:46.946940+00:00",
+      "t": "Bitcoin Sits Out Equity Fund Rush as Fed Hike Odds Reach 84%",
+      "w": [
+        "bitcoin",
+        "equity",
+        "fed",
+        "fund",
+        "hike",
+        "odds",
+        "reach",
+        "rush",
+        "sits"
+      ]
     }
   ],
   "resolved_events": [
@@ -3543,6 +3543,16 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "0597263331b9e13c63402cf7ea083c6c2e98fad6513462f6fc87ae528ca87fd5",
+    "9d745dd28105d2ce7888c3b6c4a5f7f6436da750271680078297ed33d1aff905",
+    "7f5c35434b95a5806d761dc3a9af3f9a2ded7975a2aac2adcb9e94b90dcec187",
+    "085942a3bdc802d630f2013ba6118ae050322f50e8f83866f4be0302566fd73c",
+    "5a08e3bca940675ef44f68744cc18dd70519d9989223c761d92bda753783947b",
+    "84738f100a493ebecda2e029b7049ad7417922df8f13fb82cb8650cec910ac1b",
+    "3bcb2d553c84e3145a0d05841e66c14a52b8ed0d038eee6e99e43306017a9bac",
+    "9e4f21a4e3fde676acb02892ae9ca6083b56ef47e36b1188f7080845a6acf3dd",
+    "de13dfa97b225b20ccc82183f749edb52fb32610e165dfb5c945a02ad694ac54",
+    "eb2eb30c439f9701766c4a3bc6ecc45bfa63044d9a3eaa376a9c6ee6bfce5072",
     "47a9a8f2a27cf3070c2ebb1e7f8d889d5e5e8b097cd1fa971619359f9a1dcba6",
     "f05a34f083e3777d9e407c18f0dadf3e08cd707010c54df0f640dc6edce36203",
     "8a06e47ebbce6d891c9f77a6e1b5646276499b20fb511968496a569bc3bc8992",
@@ -4532,17 +4542,7 @@
     "6f387452b72b37e25fdf11bc99a246cc258f8cd8507042b4038cae1db2b2ef08",
     "dd0398bf5dab37033612afbeacaa1dc193bf8ad163da76e40a892200a0dd7886",
     "e47fef0c66c5b9b21beeb3d1450b99b884dd44b6264811dd230e07f47c4109e0",
-    "c5786739b219bfc32d1862f63cced69b3623fe16bd2b990b67a4953ca9345497",
-    "9767206e23637c84e9df694a9b919267ac7d21fbbf0ebfbfc8581f1c147d724b",
-    "2cecb9d679c1a1c5ed52fbbdb6cf1e5b2da7efed810ac31ac9c86fc9a6fcf74a",
-    "798513cd93be75e971384be1e63f3ab24b06c84aec6b5129f755327ffc44545f",
-    "eabb68bd6ffc13d229248e1ba206e00c9f49a7c763b9b6ee8dee35d122e84d87",
-    "c01b952685167fa1d27fe9755e8b5ba403b7e875785147ce9ce26c0cd727c39b",
-    "c8a1fac75107c037ab80b00a77509d09b577b5c7fcb34ed395a48a33689bd8a6",
-    "67aaa2ecd1cd0da1bd577d83673f9710d35b854d9564c3d2516658d267deaf8e",
-    "d26b8d6369a45146c04d1ef9be4325fd0cc66a83e99d08068881c6890266fb29",
-    "225a714398522fbdc8f76f921f0339eb81e64eb787facf89f680d35f9b8a84c3",
-    "8225f613df042b29ec9d2f2622a9678c06f98bdba9857fe533cbb8eca235f234"
+    "c5786739b219bfc32d1862f63cced69b3623fe16bd2b990b67a4953ca9345497"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
