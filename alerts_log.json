@@ -15641,5 +15641,19 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Journal Record",
+  "title": "Fed official calls for two more interest rate hikes",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT2NUX2EtbW41eGRZYXJlaGppelAxUzZKQjJiVE1paVpMTllCR09rTllnalBxeFRaNlNHVU44YjctTE1WeFQ0R0dtRWQzeHpTdnMzX2I3LXBGdGI3VHV6Y2VMdjhPVEE4NkphTGVNQk5CRnAtSVo0ZjlQNW5uWUUwTS1pYXM0UQ?oc=5",
+  "published_at": "2026-11-10T16:51:17+00:00",
+  "sent_at": "2026-11-10T16:55:40.353096+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

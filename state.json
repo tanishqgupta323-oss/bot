@@ -610,22 +610,10 @@
   "calendar_fetched_at": "2026-11-10T15:50:45.212063+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 104,
+    "count": 105,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T13:10:51.458474+00:00",
-      "t": "Inflation Accelerated in October, PCE Index Shows",
-      "w": [
-        "accelerated",
-        "index",
-        "inflation",
-        "october",
-        "pce",
-        "shows"
-      ]
-    },
     {
       "at": "2026-10-29T13:32:22.196610+00:00",
       "t": "ECB keeps rates unchanged but points to mounting inflation risk",
@@ -3529,6 +3517,18 @@
         "january",
         "rate"
       ]
+    },
+    {
+      "at": "2026-11-10T16:55:39.222471+00:00",
+      "t": "Fed official calls for two more interest rate hikes",
+      "w": [
+        "calls",
+        "fed",
+        "hikes",
+        "interest",
+        "official",
+        "rate"
+      ]
     }
   ],
   "resolved_events": [
@@ -3559,6 +3559,9 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "f516d95911462de1b77f5bf64d60e3348a7b4a4f40609c015ff490d76f5eb429",
+    "7e4c402b4f7e498341b44849589dcfef3ffa1bc0994c1165db84fcdd3d3dc107",
+    "8b768f7c1306c55c27204091fb14ef2b269a68dce4b2baa9f26dedda62d955e3",
     "a75f9f166b874b7c4a5ecc828777159c35a9ae229dc2ec4c5f39d5d2d5ca1a92",
     "cab4eca50f35a32bd9333564966894102ef39884848ca5a2ab20872a81f9e8e8",
     "b543c9f6ac54d45b8473680f3af0c9fb0b4a2f94fb25cf7ac9d1e0325afccf32",
@@ -4555,10 +4558,7 @@
     "7a74d43a0a1a648bcdbc44c1f5066435003bc7a9fe428242ee256fd15df65d9a",
     "c89eb4faecba2e4de9e70d82c78aeb41517e3a29a2aeaada99c6933ef89858c2",
     "ccabc256bb3e5dc2a0ab8b5ce02f7120b1631e8c24b720fb09cbca9f919779d4",
-    "3c1f74405c5f3ba9711c428cbacba5b4352a9bfa2dbdfea9610344d76271e4a6",
-    "945a71ee2d79365d2226153bd39c1b170a00b8cbd0c0b2d62ac2736f9f8e330a",
-    "bd3f5c3eb36173e7bc4824b8b946445df7f2f6196143eb47b3d850423db00844",
-    "8a8c0ac20471eb578c83e7568b0500e11e175e6d98ccfee8eb08fa2ff0136756"
+    "3c1f74405c5f3ba9711c428cbacba5b4352a9bfa2dbdfea9610344d76271e4a6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
