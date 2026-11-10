@@ -610,23 +610,10 @@
   "calendar_fetched_at": "2026-11-10T12:45:47.660064+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 55,
+    "count": 56,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T09:01:28.827196+00:00",
-      "t": "US to Gulf States: Prepare for Short, Intense Strike on Iran",
-      "w": [
-        "gulf",
-        "intense",
-        "iran",
-        "prepare",
-        "short",
-        "states",
-        "strike"
-      ]
-    },
     {
       "at": "2026-10-29T09:15:57.930185+00:00",
       "t": "BTC news: AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
@@ -3514,6 +3501,23 @@
         "should",
         "waller"
       ]
+    },
+    {
+      "at": "2026-11-10T13:01:22.231596+00:00",
+      "t": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll",
+      "w": [
+        "december",
+        "fed",
+        "high",
+        "inflation",
+        "once",
+        "poll",
+        "raise",
+        "rates",
+        "reuters",
+        "risks",
+        "stay"
+      ]
     }
   ],
   "resolved_events": [
@@ -3542,6 +3546,19 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "5935e78279db21c1d26f3eae463f07871891e26efffc05d0f7c39ccf1d89ca6b",
+    "47230be96f8aaa88311862bbb1da99718a9fffa49a34da13a0da714336e38b22",
+    "d2b644b7f84ef7cd89439bcf6adb26ddcb5fd5ff2608dcd0c3238c0389342126",
+    "2455fd23b29579f7425ab7ab0e26e9c24dcaf30c130ab63fdbcfed80ed446320",
+    "6ba58dc1325819cdce17a39de2b8dd48a2c0bd73616f020fb9843ce0262bfc78",
+    "53730c4a10be19fc330cf6907c21262da23373485dba9b4e14e19571688560e4",
+    "1b283ce324ec2bb377650bede908a2ffc4a1d4f82714a2c539c447c9cb0fe1ce",
+    "cea0ab2a7637a1c64ddcc4eb65585ac80867dcb18779381ce5b81c912f60bf39",
+    "31704422430ebd3a575f3b742881b5d30f8b8316b19608ed684d90430e08c0fd",
+    "2cc2f22234a60bfb1546b347bd42aee986694d5132c6f281f0dd581dec29ee77",
+    "9ed6783fb1841049201242bc2f5b7370cb6a4f78fad83cd54e7749cedba945aa",
+    "7aab9e78671a3325075841ba5fc68533961e97c811df42f6d40efa608168b55f",
+    "24400cb36bc35858abe3176786de4399940ce98369b27872c9bb175338d7976c",
     "a5edbfe4fad7fb2f3b4451538a5ae4b2cf9a5cad8a86d8cea492cbb5bd62baaa",
     "3ff89c2683a5268ced5a5a3a3c594bbe3efd06500f20741a1295f8c9db84dc11",
     "3464c52a3bded55f5f73771bd540692d5684a3943235db876723113fdf6f33e4",
@@ -4528,20 +4545,7 @@
     "057ad9a57a5221e4e806e758ca6fe993e8b660cbe25638b218b94eb58fc7de20",
     "10adca9a92c6eb3427f60c6d8e41bd87b76c88920f91df0b5522579a062e7369",
     "7d20e5b3530b37a8b34b48a6e55e3c601cb6601ed8ee3998a6b17624066a7be7",
-    "fe57ce7901dfee125974ce5044d485364d8283f3219b44f473426709bdba0f9b",
-    "31cab4f69edb9f4335da55b579c2847b967ad7f91387c0b08908cc507a62ac00",
-    "20eeb3abe98d5351e5694564c71046fef9b4208eaf0ce278f0328b00ca4ea82d",
-    "55bc2e4457d7c278918c34b73041d0b05586b1d3187de0507d4f1540763d2e3d",
-    "da88d62d174cfdfcc1a846dfed9c31f8b6ec7e4c30500f4af912d33b53676fb6",
-    "c13900e42cdd1bc0c126adae748c97b148bd6e756c1ca3b91aad5e2b976383e3",
-    "369ebd0be88c39be8af14848b9e2b47d21f302d93a00789df3124108ba9ceb35",
-    "ef8b54fb96d1191e8ac9683a0ab1f3776407ff32f07add6fa2c753b5b24066db",
-    "d5cb890952d6e78963e5a02a88102c33a023a9ab536e35a1c1555366196971d9",
-    "61f1e270ab1287f013fceebf71c051d9b742d76754386cd94b7b104557033832",
-    "9f946de6277dbbb13191707af5a5e13f6fa9e679acc5c4e799456bbfb80a359a",
-    "1bfef09f6951242755c244b063f03003c6e9bcaee1bef0d4a775ae217990f411",
-    "1483e12be5be91e664dec565e26791e2549a9458ee99aac5e075e06e0bc26668",
-    "3dd7e93c4d29fdc19a949d2ec87d52b17ca2f5f6bc393cfea862376a84e95822"
+    "fe57ce7901dfee125974ce5044d485364d8283f3219b44f473426709bdba0f9b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
@@ -4611,7 +4615,9 @@
     "7b6b7d884a09f3457ccc88aa:10",
     "3e567a6022a5657a59969d47:10",
     "00a185bf063e99570a35a63d:60",
-    "8ccbaeff6976654d45d8efa5:60"
+    "8ccbaeff6976654d45d8efa5:60",
+    "00a185bf063e99570a35a63d:30",
+    "8ccbaeff6976654d45d8efa5:30"
   ],
   "version": 2
 }
