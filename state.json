@@ -610,26 +610,10 @@
   "calendar_fetched_at": "2026-11-10T00:35:32.624414+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 215,
+    "count": 216,
     "day": "2026-11-09"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-28T12:01:29.786549+00:00",
-      "t": "Bitcoin tops $81,000 ahead of Fed decision as memecoins lead altcoin gains",
-      "w": [
-        "000",
-        "ahead",
-        "altcoin",
-        "bitcoin",
-        "decision",
-        "fed",
-        "gains",
-        "lead",
-        "memecoins",
-        "tops"
-      ]
-    },
     {
       "at": "2026-10-28T13:20:55.953571+00:00",
       "t": "The Fed is expected to hold rates steady. How will Warsh justify that in the face of higher inflation?",
@@ -3522,6 +3506,21 @@
         "truflation",
         "year"
       ]
+    },
+    {
+      "at": "2026-11-10T03:25:40.146345+00:00",
+      "t": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "w": [
+        "analysts",
+        "bitcoin",
+        "cpi",
+        "enough",
+        "faces",
+        "inflation",
+        "relief",
+        "test",
+        "warn"
+      ]
     }
   ],
   "resolved_events": [
@@ -3550,6 +3549,7 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "a41b3bf4ab07178dcc3c55d842f24c546cc00f3d6d3e05d69a23f0c016d42c3c",
     "057e8244652e8b1affc772be71452243d76921288f995f6eff6538259fa9286b",
     "cdc4cb58014de5ca14d4dfe716666ebd06813605845ba64300c4ae77fc078c38",
     "afc21d38b0906c81ab01407034051c1d294075c8e0106ebd093c8de9c3de90b9",
@@ -4548,8 +4548,7 @@
     "235fd63a201970db3989d75448f9bc4e5e013aafc531e1f9c0ff1bfa2795046d",
     "30907d92fbf639bb8055ec9ab350b76bf7e6e8c3289175694d5732f75f2dee54",
     "ae896e2b54809703a714c658344ba5c1ec45f6832a59b41e0f0c55f6a11bf4f6",
-    "15c7e0aaa7f49146a3644145ac12c49d5132c93453c67ce13f489b827f0aa26a",
-    "9c3ac3a8fc54ca14919942d7c8cfa0dc85a0f85e8a51f06f4542dca55a162719"
+    "15c7e0aaa7f49146a3644145ac12c49d5132c93453c67ce13f489b827f0aa26a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
