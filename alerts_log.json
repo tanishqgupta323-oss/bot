@@ -15762,5 +15762,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Fed’s Schmid calls for tighter policy to control inflation",
+  "link": "https://www.investing.com/news/economy-news/feds-schmid-calls-for-tighter-policy-to-control-inflation-5016588",
+  "published_at": null,
+  "sent_at": "2026-11-10T19:10:45.903682+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

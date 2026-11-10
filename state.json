@@ -610,24 +610,10 @@
   "calendar_fetched_at": "2026-11-10T18:50:45.553828+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 130,
+    "count": 131,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T14:35:39.991899+00:00",
-      "t": "ECB keeps rates unchanged; euro and bond yields fall",
-      "w": [
-        "bond",
-        "ecb",
-        "euro",
-        "fall",
-        "keeps",
-        "rates",
-        "unchanged",
-        "yields"
-      ]
-    },
     {
       "at": "2026-10-29T19:31:09.577697+00:00",
       "t": "Gold dips, with spot prices just above $4k, as U.S. data hints at more rate hikes",
@@ -3534,6 +3520,19 @@
         "signals",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-10T19:10:44.988953+00:00",
+      "t": "Fed’s Schmid calls for tighter policy to control inflation",
+      "w": [
+        "calls",
+        "control",
+        "fed",
+        "inflation",
+        "policy",
+        "schmid",
+        "tighter"
+      ]
     }
   ],
   "resolved_events": [
@@ -3564,6 +3563,20 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "0d2ff43d79641b93b7c1206b864afdb345fa7a54dd311d87c3594cd347aad12e",
+    "34fc450a37cb3c489d16772ac66055824dd59af41513bc4fd56ed1d7db01ccb3",
+    "ff1789ea820d50ebe772c77c8fdc396d9a41a318f5467b4edef78ec6ee263a9f",
+    "6fcc680167e6a719000aa94f893cbad5dd028404e6753814092a3e79e5b6ad0b",
+    "6374bd377ae8b11aa4fd59d9fc4f9e913084e7bffdb70a4b24d1e765258eb4ca",
+    "bc0f8f09d2230266b787018e02692d09b879edb5b7475ab960c7249e7f4ab3f1",
+    "3295f4f35af5cc359f0241cc6ab07636b436a5db5c662edf045cc1f97d3a06d5",
+    "f60686cbf114a5bd86d547c566b81e126608c8f769c817098448d7f028502236",
+    "eb73e72df93447d3cc350c5791c1730a83977f2c67bd69995176dd5a918a3453",
+    "bb3317fa45dca8c2ccdc493b1902f113b76c7e70e6e1cd7c02e2b35431e64e45",
+    "ce7b25cd805fc34e742daf2f7ad8f02e0b065268c24526684392f8e8f70ccfc5",
+    "5fc48c40bf4b1624571918dacb220af1b132f3cd3667cd040d7817cfbe5eebdf",
+    "06a2e2804462a5835cd48c37ca9ef85b6990dd3b89eecd6df9a840a5e8cb5a55",
+    "0dba2f3ad4bc43576698dff2457755e080fbd227208771a56e89487e9dcb4a71",
     "20d7b48d60a91d9bdad94aaf23f149ca7359e533d590dd772ea6a03999d795db",
     "ed8a35ced59f6589ec68a38c5aeca4c64ccdb09f016b20cce26f8d9ce6d56e42",
     "5348dea747b461a0293982238d9dfd7609d4e8b843007abe2d20b4603d92bd25",
@@ -4549,21 +4562,7 @@
     "696380d363a180fbba9ed9bb7147770dd2852cea40fd1a3181e71973bbdbbb7f",
     "346fa89346c22242864c65e683696bd0484778a2c173dadf2d4b82f7d67266db",
     "2738cf85ee60f8e08839a91f6e3a3bc3691de8d23e1274eb93e1d06cdb80d3aa",
-    "0377cd0b3839b87a31a46c6a7a02c392105ee46621e7002b85452330c993a0e9",
-    "6885efff4fe14c2f65398aec7af01e7304ed337e951aef2fa0555f3bf27269aa",
-    "0c7908a262756d7faf3dcdba8fd312a632f86895c20a2e049e305c1e40dbff87",
-    "ae386a7f8024255fd284a23bfe1d84375edcf852411c092aac3093568361f20c",
-    "83aab9fe2bd0842d7bfd43b4a2f2b4aa2fbebd27e955e8efc536875be290a52b",
-    "d0ec4319245f97538675296caa2bf16dfb0804d7d66cc596c8c6244e2fe7e888",
-    "cec7900d63a62f7e6f32f2e04dd596ca6f16977338700a7f8841497fe7d6bfaf",
-    "0bad2f08a02e11786cfe53e39f956241a925b88df0f35d3e26eb58c8ea6495d8",
-    "bfda7980d8be7ba7fb71a429e6263a9a82dd4afc9aba00518efb0f68737479cf",
-    "66b62db41ca867b7a3f6308915e788fb1c72e84ed8e20d6267546b7b7b7fd256",
-    "f59670da46f81336d95bc46eb557ecffcef438a0d85e59a84f818780c27effe0",
-    "df7cbf1d8f1f7b507dcdc45739085e178d77c907efef788686d7a64a20f388f9",
-    "fe672ba8a2e49b624a8a5b844fbde27925d8e59463371f9ca8d9a23c43801c1b",
-    "e8c2bbca6343b7610382ec9b642d6cd7db7abbd7f5a64e8aa363e9c36576e3be",
-    "feb8f910b89958ca72a35d641f3baf3f18697579b4c40befe67ab193319ce7ee"
+    "0377cd0b3839b87a31a46c6a7a02c392105ee46621e7002b85452330c993a0e9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
