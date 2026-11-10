@@ -610,23 +610,10 @@
   "calendar_fetched_at": "2026-11-10T12:45:47.660064+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 82,
+    "count": 83,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T11:55:39.868811+00:00",
-      "t": "Fed Holds Interest Rates Steady After September Hikes",
-      "w": [
-        "fed",
-        "hikes",
-        "holds",
-        "interest",
-        "rates",
-        "september",
-        "steady"
-      ]
-    },
     {
       "at": "2026-10-29T12:01:28.105236+00:00",
       "t": "Fed still on track for December hike? Here's what to know",
@@ -3522,6 +3509,22 @@
         "spooked",
         "supersized"
       ]
+    },
+    {
+      "at": "2026-11-10T15:05:40.615141+00:00",
+      "t": "US stocks slide, yields jump, USD higher after hotter-than-expected October CPI",
+      "w": [
+        "cpi",
+        "expected",
+        "higher",
+        "hotter",
+        "jump",
+        "october",
+        "slide",
+        "stocks",
+        "usd",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3552,6 +3555,19 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "dea8cf6e04a86b9c1a702f8a6967d9a59fd007955f8a7914260fc705f2941f7f",
+    "3b442ed5a64481efac2e05b7a55c53f3c72ccfdee234b7d8829f6fe627464b4b",
+    "c24bc402ce9a85f01f0dd4aa3c1c5ca081c1fbf2fc1b2f3943126b23899d6e1d",
+    "9a3c79e679747c6b6b344d4dda39c376ef8469bfb142166567b35baae9690fb9",
+    "b5b1cb3e9fe69715785e9b104e88bbfb72a1fc4925875bb9bd264c2b710b4704",
+    "2dbea775cc13d9a059abcb79eee33cb22436c135f64b6f4a2158b46590beb42e",
+    "e5e92489d0bb5d73c1dc3d97f195772ab97b53b8cf2e977655dc3707932131f5",
+    "a30cb1ffac930b61b433e713908fb757ff8520e289c18395ce960ea8c5c7a2b8",
+    "34f4c0094edffb01678f8f9784205da91a373360d4404120e60308df51a5f683",
+    "cc47d64c1d1da371ebbee1598c664cd7884f0b5ee8b352763443304caece7ee6",
+    "bf7887b17c4183302f5d3e34d25c4c13ef9c0342af5164ad5f3432a656262950",
+    "f956313334529a1deb1d438566abb4dc941981d16738f851ef3e9ba564497503",
+    "4eb7c85205049d85366b06c120393fc48eec71a34a64064880ef172039dcb5d5",
     "15b569fb70fdaaeac734da09044363cf675fce0be54493f713cc6e60a0bbef99",
     "6749503b88ed3d906d77ed4c545f51c33f45d1128f27bcae1c134142172fc3dd",
     "b6c270007faee600d57c53aeb6f3c5ac0006b1e5b73a50353c1ce0f41fb9e225",
@@ -4538,20 +4554,7 @@
     "d1a63adc7b07134da73b435926468390002c4d3beeac9960076ecc8a4b798ff2",
     "8c21d93fc28a8697ef1cf86bcc94316905ad99c811ab6aa0d716ea3a49c5e35e",
     "56a601f58c79da48b409836abbb3dce9d6176aaf8fead6a4d8117da58c74c8e2",
-    "084f7d83ee5f905560a6dcde40139045ac382742e5b618e3df0b76c3cf79d982",
-    "46ef0260b6b337004a84593fd86749dda8ca2e8a2786fe898bf87ca6a1ba3a8a",
-    "0c05ac7d1a6a27c1efa29cb77892d1fed30e9660a13a237617ba2b0c3bd4fc0f",
-    "a911a7200ac5d56961c7c621e635ac37dbb07284d08b5e2bb07fdcf4e48a9f72",
-    "6ab2c5a8fc8c87ed585023589dddc761e2757a81804b5b2e7d75cd3ee1b5ea9f",
-    "dd4b1c46a5855821e905f153ac6f28fc6f54bcda3a7d675e31c1d1705634a187",
-    "69864c7ff40f562a88424ae2ae9fcc5e0cb758a5ddbd5c3cb5435e7241dbae31",
-    "267c3c45e32d223dbe11d634e02bb3ebe189e888caf1f0266dcfaa1aadbe2b91",
-    "7b0e6f0c398e6c599e678bda707909a5176ebf3f4edb8f3480ac9bdb711b2df3",
-    "a0c63fbe28d9df6bd1eb68e06478e81fe454d8fbd6dd65af5544d420b83797a4",
-    "88db98345733c2431d4331a20c7c6604b4f59a2d9dcf19d677d79f3b841e6de8",
-    "3e51a52b22db966a8179c7b737b5472deb5c23f6c6229462941cc499244b55ca",
-    "a4e1b0eccc2e3190e30a3e0ec5c919560cf90ccf4d78fb5828fa4110c8cf5ab8",
-    "7a73d7ce3f11fcc3c0a8d37e1dbede5d596a04b9c6d047a86b50cb9ec7f245c4"
+    "084f7d83ee5f905560a6dcde40139045ac382742e5b618e3df0b76c3cf79d982"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

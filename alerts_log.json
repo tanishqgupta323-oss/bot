@@ -15518,5 +15518,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "US stocks slide, yields jump, USD higher after hotter-than-expected October CPI",
+  "link": "https://investinglive.com/technical-analysis/us-stocks-slide-yields-jump-usd-higher-after-hotter-than-expected-october-cpi/",
+  "published_at": "2026-11-10T14:06:23+00:00",
+  "sent_at": "2026-11-10T15:05:41.384705+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0672,
+    "XAUUSD": 0.0886,
+    "BTCUSD": 0.0007
+   }
+  },
+  "checks_base": "published"
  }
 ]
