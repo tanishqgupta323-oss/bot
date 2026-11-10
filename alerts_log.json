@@ -15705,5 +15705,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "European stocks mostly higher as hot US CPI sends Treasury yields above 5%",
+  "link": "https://investinglive.com/stocks/european-stocks-mostly-higher-as-hot-us-cpi-sends-treasury-yields-above-5/",
+  "published_at": "2026-11-10T17:32:18+00:00",
+  "sent_at": "2026-11-10T18:05:41.814688+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": 0.0248,
+    "BTCUSD": -0.0936
+   }
+  },
+  "checks_base": "published"
  }
 ]

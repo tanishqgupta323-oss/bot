@@ -610,26 +610,10 @@
   "calendar_fetched_at": "2026-11-10T15:50:45.212063+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 117,
+    "count": 118,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T13:36:17.997213+00:00",
-      "t": "Federal Reserve holds interest rates steady even as inflation remains high",
-      "w": [
-        "even",
-        "federal",
-        "high",
-        "holds",
-        "inflation",
-        "interest",
-        "rates",
-        "remains",
-        "reserve",
-        "steady"
-      ]
-    },
     {
       "at": "2026-10-29T13:41:35.855248+00:00",
       "t": "US economy posts strong growth, inflation stubbornly high in challenge to Trump",
@@ -3531,6 +3515,22 @@
         "open",
         "point"
       ]
+    },
+    {
+      "at": "2026-11-10T18:05:37.174821+00:00",
+      "t": "European stocks mostly higher as hot US CPI sends Treasury yields above 5%",
+      "w": [
+        "above",
+        "cpi",
+        "european",
+        "higher",
+        "hot",
+        "mostly",
+        "sends",
+        "stocks",
+        "treasury",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3561,6 +3561,22 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "83b275dcc4c84e8876c1ca24483819747dda64cadd9971148e4e5d824f707f68",
+    "06d580f9c83729589f1953cbb1bfe9d0485c628f6716afc4cd76e914d9a11e70",
+    "01cf8aeb0ef6af944b0fc00f6da50c436e865adce839cd40efdee1ceeb9cb705",
+    "111a6cee50d53d9bfd641be498e99a42afa06873270b20c3c35365076276a1f2",
+    "0b9e37f54d589234369946461d687564b5c8b3b2bc86586a5cd53a60207c7394",
+    "f357c19e221d253245499a0f64d4d26e44062725d34ef4608ca050e0879ec793",
+    "df0044b7d337684cda1756f147f650123cc3c97e59a2ba278cb1511c6bc7c34f",
+    "1bd3a9e1db1a12340ab20b726d9bdc467ebbd8b6a4c1753ed590a298b2ce0f58",
+    "ce17147a5f9bdd5deb3827a628827dc5e73dfe90926091f738d19319ee493ea3",
+    "00bf54870560e442a28c082a565243e7037656a44b8b3d0591cdfe64387bd1e2",
+    "51db5f18b44c0b12cd66153487868a6943dd1539e2208eb5a4961bb7e8b57e68",
+    "d8c578052f6358af5ba3f94d489ed3ac3267c4b2ef318be01937ef593dfeb1a4",
+    "898fe2b461a09776d029c5b1456d2421911da5cf04b54856c5ae403f41f09b6e",
+    "4293c89c7951d3b825ce58212192aad12103ab4cafe68cba93e9486fc7659a1a",
+    "ef2072bd016e8b01e3c8398d9e36d3c463e65c77081f03fcb196ebbd5309bdbf",
+    "c89b11ea34ef499571252dfcfd206977f9c2294c181f98e877bc03913ee7366b",
     "48f3c31352ff7ccf55350773ff28583f332eccda8ff85c32175f792e926f0651",
     "8813d86d922a417e958817db27155fa46866b7770658d1571465553ebb0c6a30",
     "05d2846f7bdeb26bb3ab5d7f9267aee3cec412213501239c6ca1426ce5698e8d",
@@ -4544,23 +4560,7 @@
     "486d171378161e7527a219f9408343158e8a44974642ab1f83de518707a17deb",
     "223de35bc73762c80c6072c1542df7ecea9450aa0b4c2bc8fe49ab5ee522b2e1",
     "18a33f84b87e79ffe573c5c4622a5da212ad414b5b23b2b481d284f61b71ab7e",
-    "f2cf42986a9f9fbe1dcb7dee42d9a5a396d572223006ea10e9ec4d3611d03a82",
-    "e788bf722f79620cbbd83b3857d37c4f4ebc0442ac08ff1ba6cc8b52a77ca64b",
-    "42f4893e631d4faca1ac4aba87dc7bc498df3a24a94c5dbda13590649b11c432",
-    "a0a71ad460f03283fda444a2cc8a735d5e50ccf6e5a197a0d61797089d6a6d30",
-    "95977ecb256c66f70dd0cded63756fdbcfbec428eec91b4e11749e95d5de3d3d",
-    "9fa0242b2ffcf6327b3897afa5d6b9566a823c94a7ebcbc3981793e5e0892be9",
-    "d092e6872808ea0f0265e63f6eb9b77b6e1a332d263de562db0da240c72b2a56",
-    "597b16c3f75d3f63984184717480e4b4f3c8bffe112a26349f6f0a248554465f",
-    "6411c954479c1b674231ba91e2f3513546d0dcde119f8af0dc256b7af12b5d50",
-    "69e88da7db0d5bd946e5a88d435b44875949c1922d761a0ffc8eaa4a854302c3",
-    "89cf4475878b9538596bf6683106bd5146913bdf1b74207ae8fe318c4cda9347",
-    "088ff7429ab73cf39eeb8af368fda204ee20651ced25925c1ccb08cd23bc5e61",
-    "1e12cf4f968b7d96b1f9a9c8366264851f93e1f9a59cb6d9f3ce21f6445c8092",
-    "1d0d54870d9f54081f7113b0f02816b4c1dfd61d17ce015fe9ee9e34834eeb74",
-    "8cdee6aea377c28fdb9c545ee6f8833e75d06d7cfd690d5affb4c7ef34222f04",
-    "a37dcd9af5c563d33f95a316a7e37d4829baae4c2b61aedc6ce2a2a4eb758433",
-    "3020b139aac9a3dba06775e07e3f8233195c051b0e3ef1120f8e7c09196b6bab"
+    "f2cf42986a9f9fbe1dcb7dee42d9a5a396d572223006ea10e9ec4d3611d03a82"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
