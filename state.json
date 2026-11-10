@@ -610,27 +610,10 @@
   "calendar_fetched_at": "2026-11-10T06:40:46.936433+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 13,
+    "count": 14,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-28T19:55:40.184379+00:00",
-      "t": "Fed Chair Kevin Warsh Announces Interest Rates Will Remain Steady Amid Elevated Inflation",
-      "w": [
-        "announces",
-        "chair",
-        "elevated",
-        "fed",
-        "inflation",
-        "interest",
-        "kevin",
-        "rates",
-        "remain",
-        "steady",
-        "warsh"
-      ]
-    },
     {
       "at": "2026-10-28T23:01:34.476840+00:00",
       "t": "Gold price drops to $4,035/oz as Fed votes 10-2 in favor of rate hold",
@@ -3516,6 +3499,22 @@
         "hike",
         "need"
       ]
+    },
+    {
+      "at": "2026-11-10T09:25:33.874297+00:00",
+      "t": "Fed's Waller plans to support at least a quarter-point rate hike in December",
+      "w": [
+        "december",
+        "fed",
+        "hike",
+        "least",
+        "plans",
+        "point",
+        "quarter",
+        "rate",
+        "support",
+        "waller"
+      ]
     }
   ],
   "resolved_events": [
@@ -3544,6 +3543,11 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "43366757e62cea64b3b21c7cda4ea8fb69934672d08a6305c7d037927a7dbf48",
+    "60f77a777b3f9edd7f414e51df5a9a20e0cd1e430ffda7e51a6496cdec6ecc2a",
+    "2d69e02026f8e255f0516abbbd4cbbf72bdbcb2237e0a0597f601d8c6d8a00cf",
+    "053b37dc08a78486105454b418de41b26d5411a8b97158e023f09e2cd9c31c5c",
+    "dcb02d701fbb2a559200a10c24170c278557f5e3b7458172436088c13b0b15f8",
     "a40107d4134661bf3f297162849aec485fdfab39c62b7aeeaedc3b6a07b28911",
     "5c0a357eaaa195375ccbeefc846e7505cfde1c53a2683134d399ffdecffdfee7",
     "1e1d3cf45855b7856ec40976f935fee65fffefeacedd0b1d6edd25ba2cf38151",
@@ -4538,12 +4542,7 @@
     "5089798dfc6573830508c99015bb30534b5da8d2ade2458434667d4927871ad7",
     "33fbbc5fda9da33dd32ea222afc624e0b01799b17b4ebefe1c28c91274535191",
     "6fc4cf3cdc05d472a222c6b30fab896ba443f694463ff0ed088875a4764a2b7d",
-    "91053c9843099411dcf0705a2eaa53a59ccb86fbbe8c66a3d2da4330c3882adc",
-    "68a131336f5657251f34a7365fc3a38e00e3bace9061c3cf306d772ab009a385",
-    "8b36e40ae562261841438f9a19fa35747f883c213173e77e48daba88dd5819da",
-    "e7c7e2b334c571a6438df3a5b664ed717ec4cfcf3d52afe8d2d14b88b5aab31b",
-    "7e5beb9e30831031fa1aa1d142094c19953f39e9523b55f6e260c7495b5dc602",
-    "c965be12ae426f968aab9cae4fb6a0646bcf605c821129b9a1900674d50084bb"
+    "91053c9843099411dcf0705a2eaa53a59ccb86fbbe8c66a3d2da4330c3882adc"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
