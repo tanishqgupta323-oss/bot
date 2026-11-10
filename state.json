@@ -610,23 +610,10 @@
   "calendar_fetched_at": "2026-11-10T12:45:47.660064+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 85,
+    "count": 86,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T12:01:28.105236+00:00",
-      "t": "Fed still on track for December hike? Here's what to know",
-      "w": [
-        "december",
-        "fed",
-        "here",
-        "hike",
-        "know",
-        "still",
-        "track"
-      ]
-    },
     {
       "at": "2026-10-29T13:01:56.799236+00:00",
       "t": "Fed's favored inflation gauge trended higher in September",
@@ -3525,6 +3512,19 @@
         "usd",
         "yields"
       ]
+    },
+    {
+      "at": "2026-11-10T15:20:49.525850+00:00",
+      "t": "Inflation remains hot, pointing to Fed rate hikes",
+      "w": [
+        "fed",
+        "hikes",
+        "hot",
+        "inflation",
+        "pointing",
+        "rate",
+        "remains"
+      ]
     }
   ],
   "resolved_events": [
@@ -3555,6 +3555,9 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "f9398e957b49493241bb2ca26ed0943475a7af9825da81554e164ec8de02a578",
+    "16e6b69b830fb87cbd78c15b238f983f1df8fc7b35ef212cebf8ae7090033735",
+    "7e2e3631e808932eabe84c2d97e9f6ea823165e0ce8ddc49b3babee442711ff3",
     "393898a9fe685d5b734b7d26f58d37d5b1fe4149824e23babb68ecd246d3cb5e",
     "68c338d0118292fbacb10c0aa6134163fc6fca360320dbbcc3084b0ee8f1ef37",
     "153d5fbd137c3198d5b6cee0ba627bde8ae37511fa97ac97fbe9fe5d9920a65d",
@@ -4551,10 +4554,7 @@
     "5e0883fa0cf9d556fe3774c674139f51314ca145aaa2ea4c0cf458f37fb567ac",
     "fdb9f1332ddb88656a75d2b37f780142877a73c37cb48600353346c9e0af0003",
     "aaebdc50cc3c01889196f0ebf1bc1d32911b8799331bc03834616ee41eba7e25",
-    "2f0a61d836fcdbc84dc609797db8714196c55e9694364a530767ebde016d5faa",
-    "15fc64612f490a383d70749692f6b0f9c29d293a1c9694427a5055b4ff9882ab",
-    "46e9373b2e21baff4767563480a0df308c25fad8753f7f41fcf0897d968a7d7b",
-    "e69cfba4bc8bc595dcd3e6f3c592f7b89a38f9f51f0b0e3d2a9dbc7b00a45b18"
+    "2f0a61d836fcdbc84dc609797db8714196c55e9694364a530767ebde016d5faa"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
