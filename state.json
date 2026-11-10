@@ -610,28 +610,10 @@
   "calendar_fetched_at": "2026-11-10T09:40:47.345261+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 43,
+    "count": 44,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T03:35:39.450983+00:00",
-      "t": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
-      "w": [
-        "000",
-        "below",
-        "bitcoin",
-        "crypto",
-        "dips",
-        "fed",
-        "hawkish",
-        "jitters",
-        "led",
-        "samsung",
-        "tech",
-        "weigh"
-      ]
-    },
     {
       "at": "2026-10-29T09:01:28.827196+00:00",
       "t": "US to Gulf States: Prepare for Short, Intense Strike on Iran",
@@ -3516,6 +3498,22 @@
         "under",
         "waller"
       ]
+    },
+    {
+      "at": "2026-11-10T12:01:19.136511+00:00",
+      "t": "Fed’s Waller says larger hike should be considered if October CPI runs hot",
+      "w": [
+        "considered",
+        "cpi",
+        "fed",
+        "hike",
+        "hot",
+        "larger",
+        "october",
+        "runs",
+        "should",
+        "waller"
+      ]
     }
   ],
   "resolved_events": [
@@ -3544,6 +3542,17 @@
     "7b6b7d884a09f3457ccc88aa"
   ],
   "seen_headlines": [
+    "b1415f740e1dce8bf576d451f96e0a76cef3103516b94f7c5a337b1a5f5c5303",
+    "5499e01dee7ed5877c4661094a56b14ccb836f0f90e271fafb55ed1e6b1328f1",
+    "776c7661d42bb8a5409a163ea24011ca758778b6734e6881f1b8ba506bc87b33",
+    "2a9d13dad8c6ec3878034cd444bd3cc221fcf48cde417517218ddd1c399b0da2",
+    "1e7b2d9c3e4a2322c53007687ba3c857893a6a2ed369b754601d80d9d44a8d37",
+    "accfd8bf4faaa5fbf90175235756c7def3e5d1499891a1c01ef2925b5d3fbe52",
+    "4a6b4edd2ffcf38190a771f62f80d865f81f09f50a9772a412fd3f0f34f67e9e",
+    "fe862497956990a2aa2cda1834f678bfae90be7812a70f1a4b008ca538304e88",
+    "bae4bc10a20a96f53161c54027f8ed047247f7ac41474abf1bf6c818909f2821",
+    "a9b83606ddee7b5b1efad395c17eceb5e21777d320d1a5d7656ee7753dd655b9",
+    "dac7c989e1857eb0dfa3a01982e92e9a7f5ed8984525c6c389f0432abfe51deb",
     "3e27952e0c8c85057eb3ce6781644ac621e1d8f227809a7e33f085434eba15d5",
     "85e2d1addc51dc4c1145a5e3cee2761dc8fc814c6e5696a6919626b4d16dd1ba",
     "93c06469f69f16c0f2fe80a4c7d14bcd5b73dafacdbc9a34b4841452aea905f7",
@@ -4532,18 +4541,7 @@
     "4df279467ddd0d93c14611a178584520a16253ffad65700c69c8d2afd1b8392b",
     "aa2d277c7f704b58f0598c76a99110436cd803d68740ffa4851cd5b572ba494a",
     "028dbcbf728829a657afa85d2d4769cff10ae28a97fa4a44f5f10a6eefafa54f",
-    "1db9234d6024f837b74e44a30018d358ecb2f3c36f0919487f68ac479d776250",
-    "446e8ea709d07d5da443185a83453ed6d4905dab4290ce6b6257a0645a95f157",
-    "66fdae291a00197b6db7b9d2448c0aaef4befcaef2f82534983350259e8dceb8",
-    "ac1472d2fbbf4e409c673511a7e465d71edc2adaca591d642b99ff9dc7315a5a",
-    "81d7b1c301f2a75d244e16f9fc2731aa959d8e57ca539be9b11febbcdafd2428",
-    "febb6a0a7321a9a5015c1bc3019df70cc2cf29562b0f3dd5b1e74bd150d851cb",
-    "b3bceb60c8d4856f3cc006b51d5de7fbf1f569ab19bc6128b895d5479860d0e4",
-    "bde7d7e5d9585ef0b52982f62a29875160f5b662b7ecfbb6d35fc1b3979281c0",
-    "235d2694865c13f5780e7bbe2cc0a8a430a66ab88a6255fc7e2e8015397ef2e6",
-    "32164c1db21cc0ecbb5fd40b4db5f143897c02ceeff8a6d061553474e138ac8b",
-    "12586974635d5669a0e9345f7acfe5cc49c874c36915b40ad72daeba4724c794",
-    "423d5f1813351bce4b41bc2aa856c31a4c14c1e4797a08f38def2816b86364a7"
+    "1db9234d6024f837b74e44a30018d358ecb2f3c36f0919487f68ac479d776250"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
