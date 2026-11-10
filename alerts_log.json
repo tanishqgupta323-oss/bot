@@ -15416,6 +15416,11 @@
     "EURUSD": 0.0,
     "XAUUSD": 0.0049,
     "BTCUSD": -0.0
+   },
+   "60": {
+    "EURUSD": -0.235,
+    "XAUUSD": -0.5166,
+    "BTCUSD": -0.3014
    }
   },
   "checks_base": "published"
@@ -15453,6 +15458,13 @@
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": 0.056,
+    "XAUUSD": 0.1923,
+    "BTCUSD": 0.5104
+   }
+  },
+  "checks_base": "published"
  }
 ]
