@@ -15419,5 +15419,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WSJ",
+  "title": "U.S., Iran Exchange Strikes on Islands as They Fight for Control of Strait",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQnNCdG05QV90X2xsbjY3QmtkNERKeDBUV3NYM1BQTTNtRzQ1T1lSc2FZTUJaQzdRYmpoaVFnOEZUZHRyMWZOWG1VQ3FnYnMzUTk2SG1oZkhNT1lCdVAyMlVlbU82aWQ5a0VPd2k1SWg1MW5NeUFTTlBScVJCeGxvbllOSXJGZXQtTjVoNlpESWs0SExHUVo5c3MyYVlETERRUnhVWi1LRkN0emdvYnBvN2dZY2lsdHhpd2Nz?oc=5",
+  "published_at": "2026-11-10T13:07:00+00:00",
+  "sent_at": "2026-11-10T13:10:50.161505+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
