@@ -610,19 +610,10 @@
   "calendar_fetched_at": "2026-11-10T12:45:47.660064+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 62,
+    "count": 65,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T09:35:39.125999+00:00",
-      "t": "US-Israel war on Iran",
-      "w": [
-        "iran",
-        "israel",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-29T10:55:41.236156+00:00",
       "t": "Fed leaves rates steady as governor Lisa Cook dissents",
@@ -3515,6 +3506,19 @@
         "strikes",
         "they"
       ]
+    },
+    {
+      "at": "2026-11-10T13:35:48.743346+00:00",
+      "t": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
+      "w": [
+        "core",
+        "cpi",
+        "expected",
+        "october",
+        "rate",
+        "rose",
+        "stronger"
+      ]
     }
   ],
   "resolved_events": [
@@ -3540,9 +3544,14 @@
     "22afbaefb23667448d34c9d3",
     "b81a617dcd3d2291f102f6ee",
     "b16150e4fd92508a8b8bbe7d",
-    "7b6b7d884a09f3457ccc88aa"
+    "7b6b7d884a09f3457ccc88aa",
+    "00a185bf063e99570a35a63d",
+    "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "b67696e4df3a46c652ff35e3112b0161ad2a427a6587cc017d48362c2b984df8",
+    "e930372c943ae74568bfeac4aac4c1a7b06d3f6f9e8b25cac73b7edd48c630e4",
+    "f0ee6724845a5005e8b1d417500f31ed683e6742405732c3206b30306120e333",
     "9eed9c7756da18254465d8ebeabdc85cb8bf46198ed681c828b53152ccab28e1",
     "ea4f1aa8bf0a5ab4ceaa152f4f8a163fac528d90a052b13d55a5a6cea747e8b3",
     "13a6c538c9e8ecc8bd609ca6068d43731d4b15b00687a1adf04a76892fb24627",
@@ -4539,10 +4548,7 @@
     "99fbfe8917ac4ab974732aea45d94ff6ff150f89a4ea2be3fcaf5d0d7c124de1",
     "4ba419dd18e271da303e224d142abdc3d5158e7ac8ddb53bc28c2d34cd442d1e",
     "639bd65612d68cf7f0e1cec41c034faed13d941b6308c929330999a04d9853ee",
-    "f3469195ced18c12d5fae7995d0303a078470727516d22aa5c8dc42538469fd0",
-    "c6f5ebb0031af3896eedd53feb4eafcbfe711822bebf51cbc9614928d5356098",
-    "24069634225900b3b497fc3966c4d600986a39e6a00accf5a903c0e34135bd65",
-    "9936d279e4d2444d08019ce37122801cb9c553883b8f83db6de343fac275c188"
+    "f3469195ced18c12d5fae7995d0303a078470727516d22aa5c8dc42538469fd0"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
