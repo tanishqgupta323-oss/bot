@@ -621,23 +621,10 @@
   "calendar_fetched_at": "2026-11-11T06:55:33.851467+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 6,
+    "count": 7,
     "day": "2026-11-11"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-30T04:55:39.651759+00:00",
-      "t": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
-      "w": [
-        "billion",
-        "binance",
-        "bitcoin",
-        "freeze",
-        "hacker",
-        "splits",
-        "wallets"
-      ]
-    },
     {
       "at": "2026-10-30T06:25:40.218832+00:00",
       "t": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
@@ -3541,6 +3528,21 @@
         "war",
         "washington"
       ]
+    },
+    {
+      "at": "2026-11-11T08:35:34.215354+00:00",
+      "t": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+      "w": [
+        "demands",
+        "denies",
+        "hormuz",
+        "iran",
+        "met",
+        "shut",
+        "stay",
+        "talks",
+        "until"
+      ]
     }
   ],
   "resolved_events": [
@@ -3571,6 +3573,9 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "c1624a91a4fc9c01c722c2e420a80e19bc6a385187cae6b7222b26d131dd3f2e",
+    "f1f861c119c9a1bc434a16f674d2a01abbdef3a25bb40d732bc773856e4e08af",
+    "0223018d6e44d66b3476bad2406341a2b1d0688da3c45e66ddac90e44a3e81f6",
     "d2a8def30c622c5102e50ac8513275cfc0a7125f58dd3c91500d7498875a640f",
     "c12bf19ec1a62e74e52b4e076f0764a4a307d30185b8a25559a51604f97fd05d",
     "cb8e8fcf48df47a3106b9278b16ed12f553cb781ce98d3ea5adb4edcdd4dbdb9",
@@ -4567,10 +4572,7 @@
     "3998fff907d996fc9b3b385551f1df25217447eb8b12573195dcae088f4db559",
     "05065b8f46a004dcfd0797af41865fb8d5d5b7bafc1e5159c41c763e842e0fdf",
     "aad41f04f4695c6362beafd18de91463a16bcf86a455e1a1f21a30bca2c8dc7c",
-    "aed1141cd7b0c7e95250c179ea04132b483179fa848ae749ebb12399f82e7d90",
-    "98016e71ea65a16dcadf41dea395178c918c2192e54cf4543263b394de07e81a",
-    "6966604e3d7706a390a24179c7d396dad0e452183a91bfc04fa088cd0b8b5a8f",
-    "c23b5b311b249c981021da96d7027eb9691a483adb4520f49926bfd78c954c6b"
+    "aed1141cd7b0c7e95250c179ea04132b483179fa848ae749ebb12399f82e7d90"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
