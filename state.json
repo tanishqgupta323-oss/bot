@@ -621,28 +621,10 @@
   "calendar_fetched_at": "2026-11-11T03:55:33.626017+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 236,
+    "count": 237,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-30T01:31:16.513370+00:00",
-      "t": "Gold hovers near $4,000 as PCE inflation, oil risks revive Fed hike concerns",
-      "w": [
-        "000",
-        "concerns",
-        "fed",
-        "gold",
-        "hike",
-        "hovers",
-        "inflation",
-        "near",
-        "oil",
-        "pce",
-        "revive",
-        "risks"
-      ]
-    },
     {
       "at": "2026-10-30T03:40:55.151419+00:00",
       "t": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
@@ -3551,6 +3533,22 @@
         "odds",
         "rate"
       ]
+    },
+    {
+      "at": "2026-11-11T05:05:35.509594+00:00",
+      "t": "Three reasons Goldman has added another Fed rate hike to its forecast, higher and higher!",
+      "w": [
+        "added",
+        "another",
+        "fed",
+        "forecast",
+        "goldman",
+        "higher",
+        "hike",
+        "rate",
+        "reasons",
+        "three"
+      ]
     }
   ],
   "resolved_events": [
@@ -3581,6 +3579,17 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "d46fca0fd8dc51b7f234c872e170a16f81420f94b70087dc126391f4ea80bbba",
+    "f6cba2570eabc8a6a78cf11d029d276c329c8366c1c027c963d339e4c190b986",
+    "357c6c6885a8f7256102c47e8d4e1970f5d26e75391c7c9111b7b2dbd663beb7",
+    "fb970b077e06cf8c93343814fc61b9088b5ca17ec83a82387b3bd646bc9c9591",
+    "cd9def6731199df6d9fcb1b4731d19cab4a7af0a1ba75e7165a6bdc422e5a931",
+    "5660a6fe6027837ec9db4ac1592e1ac73d167df47bd8b25d0c672da5843793bd",
+    "5d6cb181dd90bf8ad0261948b59379fa572daeae3d1f4665d7f10451939d18ce",
+    "8991e1e2124257f56250701c6da67a2333ac91d26376a883b91d167509932029",
+    "775346223ce29fa7e700294fe6aa563714b8963869177e878129ee4d684724f8",
+    "884a18172d37f89a9f75f516a4e6ca284d2350937b9acb5a7019883eb5692c0f",
+    "68f573d44bd2a426d7db22bbe6adca137cbb60c9429379998172b12c39e21e10",
     "634fbddf767b733dac32d4c3bba35ca1101de923bbf2edd30bce97397efd062b",
     "1c617fce67a1708c138729321d2fd08d887edb3d7b8f81554def70cd0e22c7c8",
     "779fcc273b3fd45374dc18eb47d4af80670e436e59b6c32026a7d46da8825fe7",
@@ -4569,18 +4578,7 @@
     "df7d9a6777b3b4ed4e867b98c0bfd60afd0b8619c0dcb53cb64691a4572b1344",
     "bbff0aeed1feabd10a28eb222a2c12119c507c11d9052a1fa6ee5d33ad745d0d",
     "633fff39780af62ca3f5dc23271d96e0b22de66753836cd750c4dbb1c5f54ece",
-    "388c98cc8ea63ae2bd88446d5529f19f234f8eacbc12429acb77ddcc7d54b784",
-    "c89c3d3a867a1e254a45a2496778694df62d4efc0c8b5b2b627cba8f5aa5b049",
-    "13a4e7f06d39716df7cbfba99fa7ce8479447a42f62540e4b2df9947a3b0d0af",
-    "bb0278fe62688cc4d095b08e72adf86cf18ed28cbc91888769a005a2133bb726",
-    "8301c9b385daf981c7fbb069eda854ba312ace32fd5861f527928e9c50d0da3a",
-    "a31fd389af6b5e97f56cea40e79a47c456f1babbec2d0a21e498376cb13bafca",
-    "ced51377795ef51e412350863c923e61c08385f1bbd21a754c1a1a77baa0605e",
-    "29ebdc0ca4244b41d76c7a7393787d6b23f846319f0873e381347ea16f8801d0",
-    "06ba7f4b75c8cd586e5b3718243a7b29f6fe56217e7e6d1130d8317f07587179",
-    "f959e386f8f0702a0d4091643ae588080ad136f3e92de1adb1c9dc84f8bf8076",
-    "ba448657b606759ffbed46d09c3535a4db09a626b23202fdb71bbabc2d5e82a5",
-    "8462759a06bb799fd783aa5ec4e1e6d3cd652e78df5fdb8698179cf11ff67af3"
+    "388c98cc8ea63ae2bd88446d5529f19f234f8eacbc12429acb77ddcc7d54b784"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

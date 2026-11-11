@@ -15996,5 +15996,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Three reasons Goldman has added another Fed rate hike to its forecast, higher and higher!",
+  "link": "https://investinglive.com/central-banks/three-reasons-goldman-has-added-another-fed-rate-hike-to-its-forecast-higher-and-higher/",
+  "published_at": "2026-11-11T04:14:17+00:00",
+  "sent_at": "2026-11-11T05:05:37.105827+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0112,
+    "XAUUSD": 0.0049,
+    "BTCUSD": -0.063
+   }
+  },
+  "checks_base": "published"
  }
 ]
