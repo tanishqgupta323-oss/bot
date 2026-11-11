@@ -610,23 +610,10 @@
   "calendar_fetched_at": "2026-11-10T21:50:46.117264+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 189,
+    "count": 190,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T20:45:51.567891+00:00",
-      "t": "CENTCOM chief briefs Trump on Iran strike options",
-      "w": [
-        "briefs",
-        "centcom",
-        "chief",
-        "iran",
-        "options",
-        "strike",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-29T21:15:49.682198+00:00",
       "t": "Potential multi-billion Binance hack hitting crypto markets",
@@ -3535,6 +3522,19 @@
         "three",
         "worries"
       ]
+    },
+    {
+      "at": "2026-11-11T00:15:50.268846+00:00",
+      "t": "Fed’s Paulson Says Gradual Tightening Seems Appropriate for Now",
+      "w": [
+        "appropriate",
+        "fed",
+        "gradual",
+        "now",
+        "paulson",
+        "seems",
+        "tightening"
+      ]
     }
   ],
   "resolved_events": [
@@ -3565,6 +3565,10 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "3ccc1776a6e077921bcc04c889112d7159b86fae4a58cb0db02a06e55e7fb60e",
+    "e46477a90f5df0d80063aa553761635c8eb8a2fa4115f9b9c45c96f6795c5350",
+    "79b19dbd58cae2c3133535c5dcadfb5c9ebf2efcd5ec5b05d5b3563639fe4ec1",
+    "668e24b195d0056508834e36fd08946c9721080f0b6b2e6322f2eca394fb964f",
     "35f667d0a47b0319727f6f6fa0beefc5b5030d3ceecea810b97435306cbb4dd4",
     "721016f34565838c50ab3d68477832f2e39c9ac54b93ec7e2f929e72c0fdde97",
     "6edd9125be042690f15ea457c2045e63a6de80dcd86803c23791cf589f2963ff",
@@ -4560,11 +4564,7 @@
     "aadf5b5b89f1e8313dccb4b9643ec22b28a1375c6b4548032fe866b979da1eb1",
     "8d65bc4127f4a4fa476c339e96cbdf265e08d7779a2c4823021a0b76ffd3b8ce",
     "f9b578564eccee6140125e14ebe02fa2e201df72d34c41346f7632947e3f0813",
-    "c12bca877ab08258c8aabafd254838cc2d097c65a07525e9fba63f637b18c27c",
-    "966c5d3a5f5793d8893df708f04695f63f0565d4bb5b557f063916fe64b71c39",
-    "d8cdcd259779a73670a76d136e209b30997e502bdc7a5dc794b7565040c7a0ba",
-    "e6af1cf92dc8f8dbf7e8f7f20f3a81e0886a1c4f17b1a697e5f10e86c6202023",
-    "25948173228e3348fe1b7e33f0a9fdbe98abfd2803d5a77e8a25f72f538b220d"
+    "c12bca877ab08258c8aabafd254838cc2d097c65a07525e9fba63f637b18c27c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
