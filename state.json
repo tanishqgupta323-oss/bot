@@ -621,23 +621,10 @@
   "calendar_fetched_at": "2026-11-11T13:01:16.765663+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 79,
+    "count": 80,
     "day": "2026-11-11"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-30T18:45:50.029763+00:00",
-      "t": "Fed Officials Signal More Interest-Rate Increases Ahead",
-      "w": [
-        "ahead",
-        "fed",
-        "increases",
-        "interest",
-        "officials",
-        "rate",
-        "signal"
-      ]
-    },
     {
       "at": "2026-10-30T21:45:52.910354+00:00",
       "t": "Trump plans to resume strikes on Iran day after midterm elections",
@@ -3559,6 +3546,22 @@
         "shows",
         "upping"
       ]
+    },
+    {
+      "at": "2026-11-11T15:15:50.549722+00:00",
+      "t": "Euro Falls to 18-Month Low Against Dollar on Fed Rate-Hike Bets",
+      "w": [
+        "against",
+        "bets",
+        "dollar",
+        "euro",
+        "falls",
+        "fed",
+        "hike",
+        "low",
+        "month",
+        "rate"
+      ]
     }
   ],
   "resolved_events": [
@@ -3589,6 +3592,11 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "7cfc1fd2702148170f11c68672fcd8fe8824389f69cede1431eff331c785110d",
+    "bb20741d4a27d66adb064a3a621515b0e3070a50670d50add246cfcae856733a",
+    "c84c91bdc621a8843fd7116cb940182f882950bf902023fe9d74eb601182df89",
+    "5612f48ac77526ef0b556afbe2cdb73577e0cab12b8f5a0303491077bd61b0c9",
+    "edc51ae31389a035a3fb61af3aaec7df9c33fc4cc182277c510300a602ae1c45",
     "029b620d8f5bd9a0b2b246c88dbf6eb9780645e33b2d8908c55d3a1f804259da",
     "0dde98470d5261fbf5ea53e0d390f62b2480120ad6e484df63ecc491b6bcb75c",
     "6363b98c780b0084dbbc4c8958d15bf7776d1c281ce94c124ac2bff94fc5269a",
@@ -4583,12 +4591,7 @@
     "9d09bae1a915252a44e0efdb0bd8ea731e271acc363375e38ab88f68def6934a",
     "477df5b2de12d3e717fc3001c92fc764e1d48d17c2cbc168f00bdb36ed3cb140",
     "1a4dfc7ae68f0a7c8799aac12521ab0c1c6ae9ffb8ce79505e02cd9d4336b865",
-    "59c1ce54cb0b5038c297029c4845ba2d846d8fd7d6cfff2b26c2e73a145e3f58",
-    "e33bed1db4f4138f843c48884ff12d695edc7eb03b756d9eae2106dc22f76e8b",
-    "8926b122824a754cc9042f2abfd277fb1f3c209a9919ff1aeb357ce8a6430337",
-    "1a63b5da8f3456e385ca807dcaa0b382abbb38f5cb98f28e48604b00709f158a",
-    "ceec60abfc96378ccd99886491d0ca3e953a1cc3a17023d775426f19f9bd4261",
-    "5054df9c18f321d87c5bb83bfc5f38bccf82f562c985540a54ffb1ae3c746b26"
+    "59c1ce54cb0b5038c297029c4845ba2d846d8fd7d6cfff2b26c2e73a145e3f58"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
