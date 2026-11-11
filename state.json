@@ -610,24 +610,10 @@
   "calendar_fetched_at": "2026-11-11T00:50:47.441774+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 199,
+    "count": 200,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T21:15:49.682198+00:00",
-      "t": "Potential multi-billion Binance hack hitting crypto markets",
-      "w": [
-        "billion",
-        "binance",
-        "crypto",
-        "hack",
-        "hitting",
-        "markets",
-        "multi",
-        "potential"
-      ]
-    },
     {
       "at": "2026-10-29T22:15:49.314677+00:00",
       "t": "US-Israel war on Iran",
@@ -3535,6 +3521,20 @@
         "seems",
         "tightening"
       ]
+    },
+    {
+      "at": "2026-11-11T01:05:37.631152+00:00",
+      "t": "Dollar gains traction as Fed speakers warn of risks from inflation",
+      "w": [
+        "dollar",
+        "fed",
+        "gains",
+        "inflation",
+        "risks",
+        "speakers",
+        "traction",
+        "warn"
+      ]
     }
   ],
   "resolved_events": [
@@ -3565,6 +3565,20 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "54a8c197525895ccf34ed94618ca99c9858feff9e4e2fd814abb5850f4815f8c",
+    "13699c69b0a45b20df7fb1b22c641cd1f1ac55278d37e68331559dc7f8093795",
+    "caddd705c5617dc2f1acfcbb890692b1b948ab4b5c767fda2cf34a364fdb0451",
+    "7419219a198644f0d60641d27272d059815003f39218fca1001dfd7956f35054",
+    "9a25eaf9f40d3254d94eae2670b8da4f4951087a1e5b2ff45edcbcb39b956667",
+    "5ca8edef82b33ec51ed337ffb8e720d8c60ef362302fa4acd7f97bb951ad6c77",
+    "a79e4f86f6d9dc7bc178bca56938afb9a3929109b1cafd9d332e1fd73694eb5b",
+    "d7ba495797a2e4846f895626ece891ad1937e9a4b429a9327a4c9830b68334a8",
+    "c425b8b4409b9102dc9f233f0531e02adbde484f3139d35c0d1beaf6fb968038",
+    "048333cc5216c9dd7bb382a596ccaf18aa6672980cdf1a0cd609528aa524cd2d",
+    "d27f9944dfd0e9df3b64c4da8bd5c5c823b67eca48230b1da56108f346db356e",
+    "2acfe423120177f97e2967d8fd1127d184e169df53b9f7817b0c106e771836cd",
+    "59daa7a4f1286b9326f757cfdd6aecb3341f1cc78721da070b2659c3fc1e3d86",
+    "882cde029d828ac020e8cba70c8c7cf30ddc54dbfa3920b586ccd1d0a81f8725",
     "992c103ab362cba37efb02ae1ef6e4f37014b3bc07509d998a3e42d4133f53c3",
     "50640673cba2cabd97d5f6dc3350a89a524aa2c5c50fdd4bf3505c18750b3595",
     "e34f9cdff47af5cb19b2e53b351762dd268362172c040b8416f68e2d20e92227",
@@ -4550,21 +4564,7 @@
     "bc19e605f972fe0e3fafa2a8dc2d8b446d71557123eed8f0e081c77b53c18c89",
     "5d68649de67ab19d292aaba96a38b7e6028c5c6bc44db8f0f01535ff4f98db2f",
     "79fa87889bbd613ffa9588cfc9b0c2a61b6cb46a02760d11ca26cf8f84081d3b",
-    "0090a83cefe3195ce31e93c56535be14f5b0f0c3241a13398b9901b92b7911b7",
-    "0ef292903bae5492d73053c0d488d02ec35d01751fa66db1e392359b237b1186",
-    "662734817f85779c0a948e853362e5895c50619fd4f99cd91b653dd4965dad5f",
-    "c113a0b88cd496d4103213e4160fb4f2606ef00f18d340480ddf529d3ee2fc1b",
-    "38047a39cc200b6bfbf89a6beb6252dedb9db77715e53d2540a37f08773d38af",
-    "43366757e62cea64b3b21c7cda4ea8fb69934672d08a6305c7d037927a7dbf48",
-    "60f77a777b3f9edd7f414e51df5a9a20e0cd1e430ffda7e51a6496cdec6ecc2a",
-    "2d69e02026f8e255f0516abbbd4cbbf72bdbcb2237e0a0597f601d8c6d8a00cf",
-    "053b37dc08a78486105454b418de41b26d5411a8b97158e023f09e2cd9c31c5c",
-    "dcb02d701fbb2a559200a10c24170c278557f5e3b7458172436088c13b0b15f8",
-    "a40107d4134661bf3f297162849aec485fdfab39c62b7aeeaedc3b6a07b28911",
-    "5c0a357eaaa195375ccbeefc846e7505cfde1c53a2683134d399ffdecffdfee7",
-    "1e1d3cf45855b7856ec40976f935fee65fffefeacedd0b1d6edd25ba2cf38151",
-    "015ae0e055e787e549f3690cfcc0623b7812d42ec887ba7929212203d14deed4",
-    "ca399680b16871eb099106038db4ebb3bb6ac447e50c0304caaf5bcc072c1284"
+    "0090a83cefe3195ce31e93c56535be14f5b0f0c3241a13398b9901b92b7911b7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
