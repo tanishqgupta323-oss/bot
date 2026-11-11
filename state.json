@@ -610,39 +610,10 @@
   "calendar_fetched_at": "2026-11-10T21:50:46.117264+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 187,
+    "count": 188,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T20:25:40.273722+00:00",
-      "t": "Senator Briefed on Trump’s Iran War Plans Warns of “Devastating Escalation”",
-      "w": [
-        "briefed",
-        "devastating",
-        "escalation",
-        "iran",
-        "plans",
-        "senator",
-        "trump",
-        "war",
-        "warns"
-      ]
-    },
-    {
-      "at": "2026-10-29T20:35:40.085527+00:00",
-      "t": "Two U.S. service members die amid Iran war, Pentagon tally shows",
-      "w": [
-        "die",
-        "iran",
-        "members",
-        "pentagon",
-        "service",
-        "shows",
-        "tally",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-29T20:45:51.567891+00:00",
       "t": "CENTCOM chief briefs Trump on Iran strike options",
@@ -3530,6 +3501,40 @@
         "rate",
         "rises"
       ]
+    },
+    {
+      "at": "2026-11-11T00:05:36.338084+00:00",
+      "t": "Fed’s Paulson backs further gradual rate hikes, names three triggers for faster action",
+      "w": [
+        "action",
+        "backs",
+        "faster",
+        "fed",
+        "further",
+        "gradual",
+        "hikes",
+        "names",
+        "paulson",
+        "rate",
+        "three",
+        "triggers"
+      ]
+    },
+    {
+      "at": "2026-11-11T00:05:36.338084+00:00",
+      "t": "Fed’s Goolsbee calls CPI ‘borderline disturbing’, flags three inflation worries",
+      "w": [
+        "borderline",
+        "calls",
+        "cpi",
+        "disturbing",
+        "fed",
+        "flags",
+        "goolsbee",
+        "inflation",
+        "three",
+        "worries"
+      ]
     }
   ],
   "resolved_events": [
@@ -3560,6 +3565,18 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "6edd9125be042690f15ea457c2045e63a6de80dcd86803c23791cf589f2963ff",
+    "f40528186649659797f6c08617f20cf9ac1d620877e75301b9a045f9ccf94ee7",
+    "c18aa933deae57034ed95871e261148206b95cbe8bf8376d3005ed3ca663a0d5",
+    "faa5f1de10b3cdd2c9aae8868cf2d95f68309306dec70b571a33e98e399df8c7",
+    "45ae9c5a38bc76236d7106cde3c8f66ab4c3c29597c8945b8bd48936c0db656f",
+    "0ab549f55d37777d819ff7dd037006729e455687e205a502094e357a46d438c2",
+    "e0b0a71071a006fb76ab928aadd353cc6d502deb91ce6b75180ca49ee3fe1e26",
+    "fa4ce61936ac44e5332bd5c26d4a942f10f29b6831231b1395882352c2c18470",
+    "f4b7fd183aaad839f35ab4ba8b482293c20677c30025f1d83522712e2314ddfd",
+    "5719259825ca0c5258c3f582a89221257328f373f6f770dae6fe76aec5a5eec2",
+    "dac7bf71ae33f5fcf36ceb7130b181a50ce2159fa79809f09456d032b903f7b9",
+    "f3585aaab7bf21debb0bd3e650d6a9717e758b3009cf87362844bf89219d1836",
     "0d2c0c1baa6aa5d416381e5f60557bc1c98989e7f4345230115365a8fa224984",
     "048598748ec3388a5e1d3dd3c97e183b4972684ad393285702c1ba81e0d4aee1",
     "752b352d01671e54a103014a4c23318aad0ca217b3a2b391ad990395be5697b0",
@@ -4547,19 +4564,7 @@
     "e6af1cf92dc8f8dbf7e8f7f20f3a81e0886a1c4f17b1a697e5f10e86c6202023",
     "25948173228e3348fe1b7e33f0a9fdbe98abfd2803d5a77e8a25f72f538b220d",
     "fa989e402b0ad8d449191268ef752daae05a6f75c5b7b22f8e67e509621b24b7",
-    "39ed446eeef93dd3555bc6391905c1c95a94d5f3971579a000e459059b1ff6c7",
-    "5599d31d83a1a79edbc14db59c1a9549e8f980ca3c74f330c56edc9d9165d2c9",
-    "9d23346af098f64d0b043b215c63c3df7edfbfd9fbc70e1cfbb919e7e2d1756c",
-    "2d11622595b1a2194975d5c5b213d380fd6b3642bfecc5e4fe51eccd275ab1a4",
-    "d3823e513511038b1994a855b09bcd24956e4744037daf1e808970bdaa3398c3",
-    "2704dab32623d59b3b645bb2d356a826ab0d7f0a2613d4f7d6309550ae4567a5",
-    "6c705cd015f1415d2872c573f84314797fc42c7c2235590175d27f74d756b124",
-    "2c506f0f43ec71a1804a169ca4d6f46373ed46643587f90e67b630f92cf50529",
-    "af5e08ce40bc8000b117f13588d3c9cac393b683a404410bfaa9eb193ecd51d5",
-    "0ee939afe2ffb3de89375e024f4ca389f865b362af62dafd153cc8de4bd0fd33",
-    "83a6be9a4eeedd5da56842a9cc0dc293ef39c5b799f48e7225a0102835e770ee",
-    "4b0e0ded4c394194e38cc7b7b15484f6c9c0593f63b16c73cb7518946214fa0e",
-    "95ffdbad98ef02f8fea2a1bef897f802f16fb9e23fc95109a0f38824ab547657"
+    "39ed446eeef93dd3555bc6391905c1c95a94d5f3971579a000e459059b1ff6c7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
