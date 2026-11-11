@@ -16277,5 +16277,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CBS News",
+  "title": "Inflation remained elevated in October, CPI report shows, upping odds of Fed interest rate hike",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yY1puMmJtSGJhQldvMzg0d2RXa09JdzFnaUZLWkVmdzB3SVV3c2Y1dG1vRk53UlJEQUROUjR3UGFqLVNhOFRHRy1TRVJWWEdGTlNjVHlVR2gyZ0RhMWUzczV6c3R2MkFoYnF2QmZ5b3RBWkRFbUE?oc=5",
+  "published_at": "2026-11-11T14:33:44+00:00",
+  "sent_at": "2026-11-11T15:01:35.686201+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0222,
+    "XAUUSD": -0.2308,
+    "BTCUSD": 0.3076
+   }
+  },
+  "checks_base": "published"
  }
 ]

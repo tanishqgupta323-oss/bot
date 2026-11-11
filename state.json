@@ -621,22 +621,10 @@
   "calendar_fetched_at": "2026-11-11T13:01:16.765663+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 76,
+    "count": 77,
     "day": "2026-11-11"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-30T17:45:53.703323+00:00",
-      "t": "Fed needs at least two more rate hikes, Logan says",
-      "w": [
-        "fed",
-        "hikes",
-        "least",
-        "logan",
-        "needs",
-        "rate"
-      ]
-    },
     {
       "at": "2026-10-30T18:45:50.029763+00:00",
       "t": "Fed Officials Signal More Interest-Rate Increases Ahead",
@@ -3552,6 +3540,25 @@
         "rate",
         "warsh"
       ]
+    },
+    {
+      "at": "2026-11-11T15:01:21.435817+00:00",
+      "t": "Inflation remained elevated in October, CPI report shows, upping odds of Fed interest rate hike",
+      "w": [
+        "cpi",
+        "elevated",
+        "fed",
+        "hike",
+        "inflation",
+        "interest",
+        "october",
+        "odds",
+        "rate",
+        "remained",
+        "report",
+        "shows",
+        "upping"
+      ]
     }
   ],
   "resolved_events": [
@@ -3582,6 +3589,18 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "32db95fc5ba7ae8c451e07171edc03341bb2dd188395e845218b0b2546aa51c4",
+    "e07ed5d16a13b68415aaa5f0750cdc1fe82170a39b847737f069609409e1c71a",
+    "b0da7a9b91c35f00791157e17902fdb8104b529fcb355b441bc4aa35deb5d46a",
+    "4a42d0dbb64f9150767186c119ed8913cca28d9452d4cc45fec77d9a919a5ff1",
+    "2d6e89a7a4c379691d7c365d7b61db981187ece584e974d7533b88d99e731e9c",
+    "70875877a995e63abc946b8c5757962f949aeea50b50579883c4cdb0c9c8b42c",
+    "c9939a6e986490facff4c4b9210e46dd7d03f467043f6ebaf6d674b09c580bbb",
+    "9a1e087c113619aa5bd22b83b93e61888c75da46f1c4e76b9990a825c2a29f0c",
+    "b87086b4ad60843c3aa21ff81cf31e44015cd96d1e3b4f3f3bcb3624c5282e9c",
+    "2fce53ff0a5685833786a5121ff5560b05ca0c64258e7ac6d6caa317dfe608dc",
+    "586ca6a575cf0ee11afc52b2f2a4c4c155f8c574a90cfd8420c79cf13864f89b",
+    "788e1a67779a5103d0be59541a8a972beae7e20e549e0a7363aa54f380f63dc7",
     "31a9d17afdd0f2e07ff9c5b802ef8fc39cfa7e29fd7f5e393a37fc4506b819df",
     "7144835b4e9df4d5b371bba38c2076e9d68849b7c817486552769be7e83d7576",
     "aa01a9c5af341429ca5892b3a1154ac74c03a129b3757bfa4963cef74425f6fd",
@@ -4569,19 +4588,7 @@
     "8bea7ffa4897a70db92da677e15f56d134ebad66a0bf45ff597d8c095731fb1c",
     "103daa92cca104d2444b68198f7affdb040bcbc9090847a8fe21da63535e5fed",
     "af3e764c4b0911a8a370f27f93c2c2ef093e8f317fc59fdd3509cd264a77f0fe",
-    "a6a8f786ce1e1b765e1506f564f79bda74aca6fe4392830439f390e0177d21ba",
-    "8472f9b62e6fe46706b56994c0b356d178f33807f12fa47357f7c9ba7fb4b3f4",
-    "e285235ebac5063731149ec609bb7ad82fc87165aa83dc3531b57f070c997509",
-    "f08b308438e3f51af1b7e043ccbc1a6cd4d976f3dfa2b22ce1a234975260aa8c",
-    "7a58370d1480bef6d1d62da466ba8919696cff0521b741de48cacff1176f9180",
-    "a991d2b9295f7c3a1549a304a6f73efd3f1c335186ff29f63d8f21d93f30f69d",
-    "961593d7cd0dd2045a3db8f8aadeeda3101a420c4567db694fb0cbc60962fbff",
-    "99e54558fd4c617047e0c83f36c3ccca44d58f9bec60fbbef1aeb5c81e5aabd1",
-    "da9921670c886eab1bbc1ca06ad64049e27805832c13273b5e922478f92b9ee4",
-    "d97eee06f5c78b0985015995f85aac4b21364edec8fa1b852acda9cdd78c3930",
-    "ea7329aa9f7777c7f9e67c7dd9605d1e792cc176dd1ccfbe9a7522568657c9ab",
-    "e2bd9fe97c8cdab47042ab0e86e9b4bcff02e69d162cab4dec2ebebf7fd227c1",
-    "eeb0b8363c936b71e1926b2dc985b982669f6892774c3882fc048a67beada54a"
+    "a6a8f786ce1e1b765e1506f564f79bda74aca6fe4392830439f390e0177d21ba"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
