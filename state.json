@@ -610,19 +610,10 @@
   "calendar_fetched_at": "2026-11-11T00:50:47.441774+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 218,
+    "count": 219,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-29T22:15:49.314677+00:00",
-      "t": "US-Israel war on Iran",
-      "w": [
-        "iran",
-        "israel",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-29T23:35:38.437918+00:00",
       "t": "Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack",
@@ -3535,6 +3526,21 @@
         "traction",
         "warn"
       ]
+    },
+    {
+      "at": "2026-11-11T02:40:49.986965+00:00",
+      "t": "Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike",
+      "w": [
+        "asian",
+        "bond",
+        "expectations",
+        "fed",
+        "growing",
+        "hike",
+        "rate",
+        "rise",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3565,6 +3571,7 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "9e61df90de085aebc78ca8d8491fae02228acd213504b1578634368bbdca69a3",
     "222b26f8068476a147a6b63b791f141aa964e408e2d8911fc423bc93a93c2d7a",
     "4d3a9d764e8ae237f261e435dc8e69f58ed51e77905242d6b2176c1135afcf8a",
     "b5fd3ba96136017d5ef22643957d3529a93873f20289e98c87f397c264f66881",
@@ -4563,8 +4570,7 @@
     "85afbe1b2589392b9d8bdc24f1b5d046a37b1d01f06ba7a0cf06eb75c01d4301",
     "b4e82fd6df08568f9e508e836dc6b09e7fdc3cebc76a74c792fe56da33414a66",
     "1a3e2277e7934ddfeb7b1d5286d9e2d8d9bc44fb4326cd34d6dbff36a79e7793",
-    "ff84b263fbf5024e9bcb3b370535e10a02acf4116aa5c14f232f59c535c4192c",
-    "a0be72d598d1ee37e1f691dcd0cb6d99856e95d547806dd39349106760ebc89c"
+    "ff84b263fbf5024e9bcb3b370535e10a02acf4116aa5c14f232f59c535c4192c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
