@@ -621,21 +621,10 @@
   "calendar_fetched_at": "2026-11-11T10:01:16.267823+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 37,
+    "count": 38,
     "day": "2026-11-11"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-30T11:05:38.437415+00:00",
-      "t": "Italy October preliminary CPI +5.4% vs +4.6% y/y expected",
-      "w": [
-        "cpi",
-        "expected",
-        "italy",
-        "october",
-        "preliminary"
-      ]
-    },
     {
       "at": "2026-10-30T12:01:30.013835+00:00",
       "t": "FBI and US Secret Service working with Binance after $6.3 billion hack, source says",
@@ -3548,6 +3537,21 @@
         "table",
         "waller"
       ]
+    },
+    {
+      "at": "2026-11-11T11:31:05.182177+00:00",
+      "t": "Falling US Bond Futures Offer No Relief as Fed Hike Bets Grow",
+      "w": [
+        "bets",
+        "bond",
+        "falling",
+        "fed",
+        "futures",
+        "grow",
+        "hike",
+        "offer",
+        "relief"
+      ]
     }
   ],
   "resolved_events": [
@@ -3578,6 +3582,9 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "e98a9538b5e23b9f6ae44361ef5e7ce53a1387e37259a0370aee1103cd37a495",
+    "ebaf38dc7c49dcf6469fcd6bf1a34110cce061ec6aea7faadaa30f826057365c",
+    "d26bdc9c0f386a36dbf75d39eed6461a6af13da6037202bd554dd8cca312cc31",
     "35632e7e5fce86b745ce225f29cd1c7afb0d62243ca07ed48e42e37c227af1e3",
     "cf45e314eda39eaaffc756cf6641fba68c96b95809df8ea71f0a2707877a9aa6",
     "bafda0e5719e7d1f3e457bd40230633e91cb155070be3aae05888f8600295f17",
@@ -4574,10 +4581,7 @@
     "b9188459fc734dd8b83a236c39ae893bd3999e9291331de8052988a7935088aa",
     "0e31a86386f4df1cc230ee1b4e74db4ef57d642d8e5fbc8c271b65b7577ac98d",
     "85c1e995e95b3a86d4b4bd24dd6ed4413f5c71afcb6ba5396e59851baecd2b40",
-    "4ec68e1cb8fe9d83296dfd0f5a79fc99b502c71b1ee9325c8a1aa4832debb73c",
-    "72ea87a6077443b59643db890df5793ce69608106f73bff7460a118557e854a8",
-    "3994f7cb1a266f86d0ac39c7fae9b97b83adbbc0e36f6c506dce98df9f3cee0f",
-    "eb4b18b17f563ace10d9bd06bd60c46404cd250231c69580e7db33251442d28e"
+    "4ec68e1cb8fe9d83296dfd0f5a79fc99b502c71b1ee9325c8a1aa4832debb73c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

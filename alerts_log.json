@@ -16152,5 +16152,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bloomberg.com",
+  "title": "Falling US Bond Futures Offer No Relief as Fed Hike Bets Grow",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2hXVmxBejZuMktqMDMzbUNTcDA3ajBFdlE0MlpZc3AyU0ZPeHl0ZjJ3b3BhT2REdlRDVmRYWS05aFVhemtkZmVacFBnWFNXQlg5QjlmREo0VEdHRFFyTXNYR1FqV1VKUlhtVlNsT1ppUDRVQ0FVUTdGTW9FTXdVWWRVN0ZZMXpMNFo1dFBtMzJ4SzNRWHJkWnBlaGZId0x6dXJXSmU0ZW5tczhnc2pUM2Rn?oc=5",
+  "published_at": "2026-11-11T09:52:45+00:00",
+  "sent_at": "2026-11-11T11:31:06.748609+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0911,
+    "BTCUSD": 0.0969
+   },
+   "60": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.0394,
+    "BTCUSD": 0.5165
+   }
+  },
+  "checks_base": "published"
  }
 ]
