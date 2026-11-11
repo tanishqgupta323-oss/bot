@@ -368,7 +368,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "131da7f80ec43d4d277caba5",
-      "forecast": "-",
+      "forecast": "-0.6M",
       "impact": "LOW",
       "previous": "-0.9M",
       "scheduled_at": "2026-11-12T17:00:00+00:00",
@@ -423,7 +423,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "909696c063f2a443d05fef97",
-      "forecast": "-286.3B",
+      "forecast": "-298.6B",
       "impact": "LOW",
       "previous": "-26.9B",
       "scheduled_at": "2026-11-12T19:00:00+00:00",
@@ -554,8 +554,19 @@
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "ecbe5728eec9efe310e5422f",
+      "event_id": "02a7f49b1417e7f661130843",
       "forecast": "-",
+      "impact": "LOW",
+      "previous": "-",
+      "scheduled_at": "2026-11-13T14:40:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "FOMC Member Logan Speaks"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
+      "event_id": "ecbe5728eec9efe310e5422f",
+      "forecast": "65B",
       "impact": "LOW",
       "previous": "77B",
       "scheduled_at": "2026-11-13T15:30:00+00:00",
@@ -607,7 +618,7 @@
       "title": "FOMC Member Jefferson Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-11T00:50:47.441774+00:00",
+  "calendar_fetched_at": "2026-11-11T03:55:33.626017+00:00",
   "first_run_complete": true,
   "gemini_usage": {
     "count": 229,
