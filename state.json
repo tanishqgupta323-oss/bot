@@ -621,24 +621,10 @@
   "calendar_fetched_at": "2026-11-11T13:01:16.765663+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 59,
+    "count": 60,
     "day": "2026-11-11"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-30T16:01:29.821528+00:00",
-      "t": "Bitcoin drops over 5%, falls below $78k after Binance hit with $6.3B hack",
-      "w": [
-        "78k",
-        "below",
-        "binance",
-        "bitcoin",
-        "drops",
-        "falls",
-        "hack",
-        "hit"
-      ]
-    },
     {
       "at": "2026-10-30T16:40:51.987152+00:00",
       "t": "St. Louis Fed's Musalem: Tighter monetary policy is needed 'soon'",
@@ -3550,6 +3536,23 @@
         "raise",
         "rates"
       ]
+    },
+    {
+      "at": "2026-11-11T13:20:48.041251+00:00",
+      "t": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+      "w": [
+        "bank",
+        "borderline",
+        "calls",
+        "central",
+        "disturbing",
+        "fed",
+        "goolsbee",
+        "hikes",
+        "inflation",
+        "report",
+        "weighs"
+      ]
     }
   ],
   "resolved_events": [
@@ -3580,6 +3583,11 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "b32d370fb0ac0d7da81c915d4bf51bbb36899ab34daedcb3a6221d5acc141c6d",
+    "545682a40a7d3565ec3a2c3cba657d950aa4d4823e4fa02bf55d2e223b29a966",
+    "7ac17bb02d7e2ae9e60c5502c295374837f94d6f968099d0f309e26bf67e2079",
+    "ad063a77cfed560860d5db3753860ea75dd7fee374d7229a7000a18bcd55837e",
+    "f750b65b3f3d53d60334766ead091dbafe4d85f16c078cf0b367ac576c770a0f",
     "2d5265f50a2786fd520e4232a530e894c2aca69c541172f1f349989806c7cdd7",
     "2fed249b297aa6c8ec73a635b96139f30e27834534e09fc142c152af3d3372c3",
     "cc9f32d925f16ce3005b867edae2f5a9488dd15cab4121eecfe781878ce2d4c6",
@@ -4574,12 +4582,7 @@
     "da13699665c49be34f160dcc88b39e35484f7188353987c224e98705475f3b74",
     "ec0c16705728bcc62b9e94d3013afad512c41999d1ca6f94370c180f8f231986",
     "ec6d7e090588382d3323ca4e4ee011f2e1b8d2763418e8bb3c5d390f0a4ab05a",
-    "106a2e4cc502322b1fdc5986b04886dd8ab04ce14695379beae864daf7e51f3a",
-    "af061e84f430704fa01ab64087e70db608428cc76c4c255b2003e3a45a14c9fa",
-    "9b817785a31c031dd8d008d82725929cdbfb103330f8cec613a9191852d4ffe7",
-    "f438e6c816d254a71d18aef9c9a2ebc555ca68dc56b16b6f0106fac6d15dd97d",
-    "6b0086cde80bbc50088de3760c0ffc77836492b59b8419a2b66fefea5d1b389a",
-    "b7ce4d73324df12f813694dfa84dbad0d43cf1b3d67a6d65afda9ddd880434ad"
+    "106a2e4cc502322b1fdc5986b04886dd8ab04ce14695379beae864daf7e51f3a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
