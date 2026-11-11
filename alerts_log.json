@@ -16048,5 +16048,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WSJ",
+  "title": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzhmcEwxWnJ6eXlYcm5qb2lmOXVadVNibW1kYm1PbG5EaGVhQ0lnWDVQVk8tWU84Y3ptYWtJdjFjY29xZnUxOE9LbU9RVzI5WlhDbXBEbDlNRnBDRmJZVHk1Z2h5VTBCQmxweGxOUWhlZlJKWF9zaGNkSS1abVctSktKSHZFTFV3c24tNE4tdDdNQ3lEVFhmWFNobDR0OVFK?oc=5",
+  "published_at": "2026-11-11T05:39:30+00:00",
+  "sent_at": "2026-11-11T08:05:38.946650+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0223,
+    "XAUUSD": -0.0123,
+    "BTCUSD": 0.1329
+   },
+   "60": {
+    "EURUSD": -0.0892,
+    "XAUUSD": -0.0787,
+    "BTCUSD": 0.0529
+   }
+  },
+  "checks_base": "published"
  }
 ]

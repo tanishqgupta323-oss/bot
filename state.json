@@ -621,25 +621,10 @@
   "calendar_fetched_at": "2026-11-11T06:55:33.851467+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 1,
+    "count": 2,
     "day": "2026-11-11"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-30T04:01:24.346070+00:00",
-      "t": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
-      "w": [
-        "binance",
-        "crypto",
-        "exchanges",
-        "funds",
-        "hack",
-        "institutional",
-        "investors",
-        "pull",
-        "rush"
-      ]
-    },
     {
       "at": "2026-10-30T04:55:39.651759+00:00",
       "t": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
@@ -3543,6 +3528,19 @@
         "slumps",
         "yen"
       ]
+    },
+    {
+      "at": "2026-11-11T08:05:36.267595+00:00",
+      "t": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
+      "w": [
+        "flipped",
+        "iran",
+        "missteps",
+        "overnight",
+        "trump",
+        "war",
+        "washington"
+      ]
     }
   ],
   "resolved_events": [
@@ -3573,6 +3571,10 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "20d879f3fc7cf17b10875b8573ebae7f82dfbfbe40042a335e72140ff98dc8cf",
+    "d74fd11be9b5be5f1615fd724db18082758451ce1358ef57a0fe0b111b5f2cb9",
+    "a490b452b12967aa27aa3bbb8f66fc1eb78cfecf5f141164e462e2b920372413",
+    "c8b200da7acfa32b533fa3501a2901098d66800a2413e7521690374a36ac801d",
     "2272c632e20bbd195b94965b79cebd7e852c993b424f1970f7f6746935a10bb6",
     "e4541eadc04fa549e51a122be5b54905bc32145e87d3f186e7e04d13bc050b6d",
     "aa23f733c55c02e65e740a626b5cafe154075f3abfd2f3e256b8225169063179",
@@ -4568,11 +4570,7 @@
     "9eed9c7756da18254465d8ebeabdc85cb8bf46198ed681c828b53152ccab28e1",
     "ea4f1aa8bf0a5ab4ceaa152f4f8a163fac528d90a052b13d55a5a6cea747e8b3",
     "13a6c538c9e8ecc8bd609ca6068d43731d4b15b00687a1adf04a76892fb24627",
-    "264d45ababc4ea964f5dacb8f25ab793c649e78a5f7bb4a62b92a37b426b0d70",
-    "144fa0fde5d3834ba4b26e92e24af6ad5265d89a72b8686c49ab864a428f2272",
-    "c3541f3df72535b7a533323c1cc28d982707c100a735cea6eb2670b5a1965037",
-    "08e5fd9b0d728db0d3352443bffc676c9737cc2fdc3a2acbc1bcab6a698c14d0",
-    "311c482c247b589ef2dbead427e3c22857224c38b3d5e97af9c4119aed7b5210"
+    "264d45ababc4ea964f5dacb8f25ab793c649e78a5f7bb4a62b92a37b426b0d70"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
