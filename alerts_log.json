@@ -16095,5 +16095,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Gold dips after Fed's Waller drops the 50 bps hike bomb and US CPI comes above expectations",
+  "link": "https://investinglive.com/commodities/gold-dips-after-fed-s-waller-drops-the-50-bps-hike-bomb-and-us-cpi-comes-above-expectations/",
+  "published_at": "2026-11-11T08:32:12+00:00",
+  "sent_at": "2026-11-11T09:05:53.760901+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0223,
+    "XAUUSD": 0.0271,
+    "BTCUSD": 0.0989
+   }
+  },
+  "checks_base": "published"
  }
 ]
