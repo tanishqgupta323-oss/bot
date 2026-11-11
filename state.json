@@ -621,27 +621,10 @@
   "calendar_fetched_at": "2026-11-11T13:01:16.765663+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 73,
+    "count": 74,
     "day": "2026-11-11"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-30T17:20:52.846174+00:00",
-      "t": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
-      "w": [
-        "continue",
-        "fire",
-        "guard",
-        "hormuz",
-        "iran",
-        "reports",
-        "revolutionary",
-        "strait",
-        "talks",
-        "tankers",
-        "three"
-      ]
-    },
     {
       "at": "2026-10-30T17:45:53.703323+00:00",
       "t": "Fed needs at least two more rate hikes, Logan says",
@@ -3555,6 +3538,20 @@
         "prices",
         "seep"
       ]
+    },
+    {
+      "at": "2026-11-11T14:35:36.920457+00:00",
+      "t": "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+      "w": [
+        "bps",
+        "commentary",
+        "comms",
+        "fed",
+        "hike",
+        "problem",
+        "rate",
+        "warsh"
+      ]
     }
   ],
   "resolved_events": [
@@ -3585,6 +3582,9 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "342ab58450c4a33f228bd55b9f95f84d3db7db3eec4c19719a6a4b1875df2dde",
+    "569510aad939c172a4bc98bda00fbdb34c389f14423a92d37be2bfc638b0f7c3",
+    "fd9d470b4969e3ac89ae42cef881f91f39c7d6d10bedc45487c0558dc1c9f2dd",
     "1e7d7bc1ec225ef3de5c91c00b11bc63f39c0e18bf6e903c72d623c897a9264a",
     "405cbcb0b1eeea8046f29fd556f0fba2c525464491282a8f7063fffc3a2d9530",
     "563f3853702d4052bab4ad8fbc5d98620a5d5411c79594e91d7928540ff35579",
@@ -4581,10 +4581,7 @@
     "76f935f45c19c706e74ecfe6da054c0cc75718ae108a45b7931b05a320e7fd46",
     "84033e22b1b0efc6f9f0c9cd407f24a26ec4334b7c859fab5a5589e44a543292",
     "db12c366269b78bb22a04a8567b9a870fbad10aedfdcdd893fb298eba3b93320",
-    "6a5ec4c72b4034329c72fb588f5a66ea1f6260b46548a20ae657403a4028327a",
-    "a59d091dd67bdcd565c1b3ce76a06524fb379b49684f025665d4baa1f067dd3e",
-    "5ecc36b8d651364c5cf0ee0d01b29fa602b25e1588d06c39dc66eedf35bf9834",
-    "98ba70ee630ce5da6a3dcd46a96e64907c960e33f5e1b849ebacc9daefd70623"
+    "6a5ec4c72b4034329c72fb588f5a66ea1f6260b46548a20ae657403a4028327a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
