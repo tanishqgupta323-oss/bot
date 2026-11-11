@@ -16126,5 +16126,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Ethereum extends losses as Fed's Waller puts a larger rate hike on the table and US CPI remains hot",
+  "link": "https://investinglive.com/cryptocurrency/ethereum-extends-losses-as-fed-s-waller-puts-a-larger-rate-hike-on-the-table-and-us-cpi-remains-hot/",
+  "published_at": "2026-11-11T10:08:43+00:00",
+  "sent_at": "2026-11-11T11:05:42.855377+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0111,
+    "XAUUSD": -0.101,
+    "BTCUSD": 0.1967
+   }
+  },
+  "checks_base": "published"
  }
 ]
