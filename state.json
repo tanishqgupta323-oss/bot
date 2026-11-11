@@ -621,29 +621,10 @@
   "calendar_fetched_at": "2026-11-11T03:55:33.626017+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 238,
+    "count": 239,
     "day": "2026-11-10"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-30T03:40:55.151419+00:00",
-      "t": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
-      "w": [
-        "behind",
-        "binance",
-        "blockchain",
-        "crypto",
-        "foe",
-        "group",
-        "hack",
-        "korea",
-        "lazarus",
-        "likely",
-        "longtime",
-        "north",
-        "sleuths"
-      ]
-    },
     {
       "at": "2026-10-30T04:01:24.346070+00:00",
       "t": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
@@ -3549,6 +3530,19 @@
         "reasons",
         "three"
       ]
+    },
+    {
+      "at": "2026-11-11T05:15:45.150400+00:00",
+      "t": "Yen Slumps to Over One-Month Low on Fed Hike Bets",
+      "w": [
+        "bets",
+        "fed",
+        "hike",
+        "low",
+        "month",
+        "slumps",
+        "yen"
+      ]
     }
   ],
   "resolved_events": [
@@ -3579,6 +3573,10 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "ce7562b6b4331ffd69cda3a9eda8d70493319ba39b5cac975e1af9cb0cd9fc47",
+    "766a50bc675449e0a863153454933d0e4a2fa179e0d267e548c701c87a327f86",
+    "3548c1aa3b7cfcd7d956ed18c65d30a58793e5f579caf26f5ea319707a06bac7",
+    "388c98cc8ea63ae2bd88446d5529f19f234f8eacbc12429acb77ddcc7d54b784",
     "a9d645f59d38bc605d72c610c6094079d1fe0435c8b653ce09a877daee69cb8b",
     "c6a4a5e40898c8dcc9456cb2adc016309cd75e11f45e6c7b5a80040ca2251071",
     "d46fca0fd8dc51b7f234c872e170a16f81420f94b70087dc126391f4ea80bbba",
@@ -4574,11 +4572,7 @@
     "d7ed117150e12861164801bbf4c23576a7403f1cffe9e995929c2b47d427090b",
     "386774bcb2da8b6a7b85a1646e02490b4fbc4696375f02d3f7ae85e3f138d936",
     "f646bbce40fa29f54cfba618f2e93c26b689e12315d75dfdf9750a621eb97b86",
-    "289c34e2412704f274004d01714f6446e198b2f29f2446f157cf21f4d1247078",
-    "402e4d37d7bda8564d75042b738725a8b2ee2352a501f58032cb5f70a228ca22",
-    "64e38197d4962517f630f95d74214faef0e6f2ffff70cee5a15c7881ade2f631",
-    "df7d9a6777b3b4ed4e867b98c0bfd60afd0b8619c0dcb53cb64691a4572b1344",
-    "bbff0aeed1feabd10a28eb222a2c12119c507c11d9052a1fa6ee5d33ad745d0d"
+    "289c34e2412704f274004d01714f6446e198b2f29f2446f157cf21f4d1247078"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
