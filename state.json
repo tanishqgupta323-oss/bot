@@ -621,24 +621,10 @@
   "calendar_fetched_at": "2026-11-11T13:01:16.765663+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 67,
+    "count": 68,
     "day": "2026-11-11"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-30T16:40:51.987152+00:00",
-      "t": "St. Louis Fed's Musalem: Tighter monetary policy is needed 'soon'",
-      "w": [
-        "fed",
-        "louis",
-        "monetary",
-        "musalem",
-        "needed",
-        "policy",
-        "soon",
-        "tighter"
-      ]
-    },
     {
       "at": "2026-10-30T17:20:52.846174+00:00",
       "t": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
@@ -3553,6 +3539,22 @@
         "report",
         "weighs"
       ]
+    },
+    {
+      "at": "2026-11-11T14:05:36.954990+00:00",
+      "t": "As Higher Prices Seep Into Broader Economy, Fed Officials Consider Faster Hikes",
+      "w": [
+        "broader",
+        "consider",
+        "economy",
+        "faster",
+        "fed",
+        "higher",
+        "hikes",
+        "officials",
+        "prices",
+        "seep"
+      ]
     }
   ],
   "resolved_events": [
@@ -3583,6 +3585,9 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "78f03499fce75e4d9b341ac90ff6894997e3d3e40edde71fe5a4237e4c434ae5",
+    "4f7b07792e3654b93423f913acfdb30dba80b2ce6e325c476f6ebbf2b66d464f",
+    "1cfd109f0c9f9fbdbc890fdc46aee6f734ab9aa28fccc79196d40e9895b94b36",
     "201efe7ad78685c7ded8b20ecc8432523027382fe54ae4ccc6365bfb4cc47513",
     "5b6fcd617455b5a575247379c7155763b8a6cd1048880a9b6ae5e45a30874c64",
     "06d13630d7675acb443ac0b01328e70e827b24380dff9f5bb706ca72ca0eb00c",
@@ -4579,10 +4584,7 @@
     "0d2ff43d79641b93b7c1206b864afdb345fa7a54dd311d87c3594cd347aad12e",
     "34fc450a37cb3c489d16772ac66055824dd59af41513bc4fd56ed1d7db01ccb3",
     "ff1789ea820d50ebe772c77c8fdc396d9a41a318f5467b4edef78ec6ee263a9f",
-    "6fcc680167e6a719000aa94f893cbad5dd028404e6753814092a3e79e5b6ad0b",
-    "6374bd377ae8b11aa4fd59d9fc4f9e913084e7bffdb70a4b24d1e765258eb4ca",
-    "bc0f8f09d2230266b787018e02692d09b879edb5b7475ab960c7249e7f4ab3f1",
-    "3295f4f35af5cc359f0241cc6ab07636b436a5db5c662edf045cc1f97d3a06d5"
+    "6fcc680167e6a719000aa94f893cbad5dd028404e6753814092a3e79e5b6ad0b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
