@@ -16464,5 +16464,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Anadolu Ajansı",
+  "title": "Iran’s Revolutionary Guard says 2 oil tankers exploded in Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVBRR3dMMWVSUVBuVmhJamZ3TXlqdjFQZTFFSnFRQ2VSSjkyMDk2Q2VSTVpocnZ1cUt3N21BQnNWeXVibTVWNUtGeGZaRVVZZmU5R0RxZWtVakV6NEZ3cFZqbFpwTWNpWmYwZVJMbGJrTFRYVGExUHNGMmhQRzkzLVZVc1daazNYNkpyX0JoaGctMWVwb29FSk1MYlFrZjMwc2kxSUYtYnBlcWJkTGt2VmFseXNVSGpXM01j?oc=5",
+  "published_at": "2026-11-12T08:54:05+00:00",
+  "sent_at": "2026-11-12T09:01:20.314854+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

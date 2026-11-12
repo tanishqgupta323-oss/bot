@@ -621,23 +621,10 @@
   "calendar_fetched_at": "2026-11-12T07:10:45.142904+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 10,
+    "count": 11,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-31T11:15:51.708093+00:00",
-      "t": "The biggest question about Binance bitcoin heist: How much AI was involved?",
-      "w": [
-        "biggest",
-        "binance",
-        "bitcoin",
-        "heist",
-        "involved",
-        "much",
-        "question"
-      ]
-    },
     {
       "at": "2026-10-31T11:15:51.708093+00:00",
       "t": "What does it mean for homebuyers now that the Fed paused interest rate increases?",
@@ -3572,6 +3559,20 @@
         "treasury",
         "yields"
       ]
+    },
+    {
+      "at": "2026-11-12T09:01:18.535851+00:00",
+      "t": "Iran’s Revolutionary Guard says 2 oil tankers exploded in Strait of Hormuz",
+      "w": [
+        "exploded",
+        "guard",
+        "hormuz",
+        "iran",
+        "oil",
+        "revolutionary",
+        "strait",
+        "tankers"
+      ]
     }
   ],
   "resolved_events": [
@@ -3602,6 +3603,8 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "822803cc11ede1b171dbfbdfb98dd821d6826d26bbbc4b0e5fa5f180fe35d533",
+    "1cc5899e0ccc99e6205117437d5190e34518ba940775a19cf023bc27339f38ed",
     "45750c8f36ec38ecaab6df5c05503a11bf5b3ad3643c8f92fe64110797a3995f",
     "d36b1fab3a6949b359b53301136cbdb2032d49d200f6018d36c931323a4365c3",
     "d8524a4e912ec46968171763af917d549f29fa3b1bbf22e533a21afc182832a2",
@@ -4599,9 +4602,7 @@
     "0032154a6c7e7b52e24204ee683236228ab65d1caa237a8c37aea54fd1e642dd",
     "dd1186059e44c9ae2f89e01a6ad7538ec9a5d8e2d7550d2896aea6241a932a30",
     "9cbd3bdde1641109c68a43ac046470584899b065b24d05be5d5633df958a0738",
-    "c041f0138c41ac0cd77ba012af43aa008dfed366815df8cda0aa745c9f1604c6",
-    "cc597e2f16672594b3bbc4a99584c7fbaf06f46a2666a18b9e2892caf73198c0",
-    "dbcfa1dc2248ba978f17b2bf7258367ccca8b0d9958c9d8a4c1d9195adba8a6d"
+    "c041f0138c41ac0cd77ba012af43aa008dfed366815df8cda0aa745c9f1604c6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
