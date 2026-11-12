@@ -621,40 +621,10 @@
   "calendar_fetched_at": "2026-11-12T19:15:44.003862+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 148,
+    "count": 149,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-31T17:45:50.672366+00:00",
-      "t": "Iran’s leader threatens retaliation without limits as Trump weighs new strikes",
-      "w": [
-        "iran",
-        "leader",
-        "limits",
-        "retaliation",
-        "strikes",
-        "threatens",
-        "trump",
-        "weighs",
-        "without"
-      ]
-    },
-    {
-      "at": "2026-10-31T21:25:35.835775+00:00",
-      "t": "‘Closer to war than a deal’: Israel braces for renewed Iran fighting after US midterms",
-      "w": [
-        "braces",
-        "closer",
-        "deal",
-        "fighting",
-        "iran",
-        "israel",
-        "midterms",
-        "renewed",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-31T22:35:40.544172+00:00",
       "t": "If Iran war erupts, Israel may be plotting another ‘Operation Grim Beeper’ style attack: sources",
@@ -3575,6 +3545,39 @@
         "trump",
         "vance"
       ]
+    },
+    {
+      "at": "2026-11-12T21:01:16.001472+00:00",
+      "t": "Trump pulls Vance from Iran talks, saying ‘we don’t need a deal’",
+      "w": [
+        "deal",
+        "don",
+        "iran",
+        "need",
+        "pulls",
+        "saying",
+        "talks",
+        "trump",
+        "vance"
+      ]
+    },
+    {
+      "at": "2026-11-12T21:01:16.001472+00:00",
+      "t": "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
+      "w": [
+        "160",
+        "dollar",
+        "first",
+        "fresh",
+        "hits",
+        "month",
+        "peak",
+        "scales",
+        "september",
+        "since",
+        "time",
+        "yen"
+      ]
     }
   ],
   "resolved_events": [
@@ -3605,6 +3608,21 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "79c3f64e771e9ae3418a0f979c0e81c4ee1848786c89d4ea3e4ddc0871eab0f1",
+    "0826cfff62431a7e766ce6532cf471b58cb411c721353b955e0371838e29e7fc",
+    "a5de51359e8868c78e464b698fdc2436fbe9dde0f7950fd68590f339f7688bff",
+    "2563a599105f70a8012ecd5db673f594e03f754a33f24b5f52d8ee11c65fad1e",
+    "130721089b4ceeda9ad453bfb606b75a02657c6e8072b8dc7316c770992b6a76",
+    "e2d53c437d7bbd89a681317409ccb3c1d709d64d72b1c275755c55aa8b5875a6",
+    "771ddb149a83b11fb7be229c6ab140c99dc25d963815fcadf5179f3937233c64",
+    "5894cacc42767fa0ccc416b3b119e314e440c673497cf2dd9a589cb4acbbc9c9",
+    "7444d2944cca48e8355c5752af82b4857200dbb1504d9d1954d0793678ecd252",
+    "c9e4fb56da186a1740bd4fb523d17ad8c46411627f4de5cb59abac5122ad4d1f",
+    "101d85c1f647daf8997aea36edee45b5c75c02e12c4e8e894d165ccf5163364c",
+    "41c330129efab417321f89fd4fe66fbd68b0576485039679107fdedb5996aa7e",
+    "e4fa06897f030aa5ff70ede550ac646790ddbb55205d310b72357ad85536f731",
+    "2b19c70a431a7bb9497ae8f97eaa91bcfe6b660a288861067e6e163ded1e9800",
+    "afe030628f20ac146d78dfdb157ac15366d4e26f48c40e2e6fbad82e9baf9265",
     "e81758b615d71188e53ed08382538c346147dfad16e7076e57dd461abecfba14",
     "8441f9495845241f9b162f56ee836b865646939536bc85d55a2a4447fb09e557",
     "2a1363ed3925b03565157ba6a049294f438a4b1924c3b8c920cfd9a563c6b884",
@@ -4589,22 +4607,7 @@
     "a8554a517a28851e07e4642411f28bfc3be7eceb1e8ce22c433c01bdde27d8a2",
     "563768996a116414daa6e6a1d706f85869713989feb7fb05cd76ee868e57f535",
     "b9bf7fee669abee3367ce603c0b4e9557047f9187e2e38547a3002f2dadcfc85",
-    "b74647b44d1ac953810496e96ed8d20fcff823c11a68d1c0a4b1aadcf09d1567",
-    "c69ca83ab652db84e703c07c52b99cab94a1a315da0aaa6026057a82cd53eb70",
-    "7ff80454994f4fb0d742f96a51cc8fdba694febaf038641519cc558e13a2c7a1",
-    "41958dda7df1de0db0d6207dc55054fa2577ae7a3e0998303992769c6ee1c4cd",
-    "1c0f19a4ffcb7fdddb5c7da67355d820aa7d33ea0587afcdafadba4e51f496fb",
-    "4e9c16f51c4260388f758e444dac589b44b663dfa8a3eaf2692a71a0a930c2fd",
-    "5736460d3ee22a52f4fada9a96decc6843e7065091393859024925ff46154913",
-    "e61b8baebf15442cf8482eca964d06045d94a3086d8aa23621be9451e29fe33d",
-    "5bea50dfe703909de3a1d666c288d29be15006bd5f81bacb6d3e0a682bda3c4d",
-    "3d92766155ae02d447b01b2841ab278c1a24a7cd851e878a1f35bbe32c6087ee",
-    "589a1974dd5940d7f7dd1ea258f66189104b926ed9e5d7b880b4c96b9d24d2cf",
-    "788bf42c8a698f0e39c7eb806345b96d56a50174ed75e43f1811a24e1e72a990",
-    "54ee1d0dd4b104af5a0fced1b29c85fab29f4ae19bb5efc41ece1a655f04084e",
-    "2d56df455631d249a36d55c19e2109d14ba2e95a9f98be99463fa7c919ef6079",
-    "836b2a2fec3df56a56bc78710af6db4ef74c8bad57c10c59da7f29d12cb35a9f",
-    "0900f8e361366deb3f125bacbfa50d64346a2d446f1cabdb0bffeb2bddc5917f"
+    "b74647b44d1ac953810496e96ed8d20fcff823c11a68d1c0a4b1aadcf09d1567"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
