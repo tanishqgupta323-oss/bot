@@ -621,25 +621,10 @@
   "calendar_fetched_at": "2026-11-12T10:10:45.657227+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 32,
+    "count": 33,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-31T11:15:51.708093+00:00",
-      "t": "What does it mean for homebuyers now that the Fed paused interest rate increases?",
-      "w": [
-        "does",
-        "fed",
-        "homebuyers",
-        "increases",
-        "interest",
-        "mean",
-        "now",
-        "paused",
-        "rate"
-      ]
-    },
     {
       "at": "2026-10-31T11:55:38.290521+00:00",
       "t": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
@@ -3573,6 +3558,21 @@
         "strait",
         "tankers"
       ]
+    },
+    {
+      "at": "2026-11-12T11:05:36.453268+00:00",
+      "t": "Fed's Waller, Bowman and Goolsbee Keep Rate Hike Bets Alive",
+      "w": [
+        "alive",
+        "bets",
+        "bowman",
+        "fed",
+        "goolsbee",
+        "hike",
+        "keep",
+        "rate",
+        "waller"
+      ]
     }
   ],
   "resolved_events": [
@@ -3603,6 +3603,16 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "86c7005a2bbb32f7803345132e71064261323b8d13bb69bea01a6ecc3400a5b1",
+    "ef7a3339a67823cec25c4918b27660cabb0e90b04451e057536aacee3eb291b9",
+    "f7beedbb1b6b02715c65094656f660a2bd4eca47e075b35f9f119078247caed7",
+    "3bb4b731b919038c17c8f7d09c9cab4904f15071e150b5be58a22796311f70fe",
+    "367fdeba028406d5b730379e4ec17dd4e98fe3b516a68f45080a53601fd66f9a",
+    "083b0ad17efef05c243d6864e97d809c52cfaad14e70ffa5ca2b9643470664b4",
+    "02965de1263dd6ee8049c573bea9e3c893aed3d59599824823568533faa736fb",
+    "010eb7c211ced11aa67dbda971b436ba39ce42e83db74ecbe80b300b4cbe5bb5",
+    "8e63785d4383c5bf56fd092132b8386652d003ff8bb8bcd4691546d8f30219aa",
+    "ba63851e3b20c121a90f885128df4c1f1af6ff14cd5e6af04b29ef921518e33f",
     "4e1f8989383c95f3d0c8d53e783fa6f9dc94e3cba903464e4b6a958d1f502a72",
     "1f76842c638a1a22315545bd0a29eaaf413089565213b2dd0332eb70b65e7064",
     "595f2cb8231efe3c45f03296a353099b954e4abb6f9048675b41d145bb919844",
@@ -4592,17 +4602,7 @@
     "618c0b47cc0cdc55105906698a821b3ac83fc388423f45f6286e3966d2a118b5",
     "9b2d40030edeaf71072ab18bd1d7c121002b295c7d6bd2046e7d7d56f523c08f",
     "0165dfe9856992946ff518623303c8a85166aade52d308aa2547aa465c4138c3",
-    "eab8de8bf3439dc0433731aa94406f3629c430b3a9843cb5c1cb7de053479566",
-    "fa84846bdb5ff71701518f8ca17a27101267782e6d37d8f8b3de440606f82457",
-    "e2a772bc5d2dfca4c4621a1dba9eadc55de66d675683b65afcbebf2e21abef93",
-    "c2f3fec23b3f2ab612c8abfd76b85890dab8d4952738360ac4974b1be5d9c77b",
-    "342ab58450c4a33f228bd55b9f95f84d3db7db3eec4c19719a6a4b1875df2dde",
-    "569510aad939c172a4bc98bda00fbdb34c389f14423a92d37be2bfc638b0f7c3",
-    "fd9d470b4969e3ac89ae42cef881f91f39c7d6d10bedc45487c0558dc1c9f2dd",
-    "1e7d7bc1ec225ef3de5c91c00b11bc63f39c0e18bf6e903c72d623c897a9264a",
-    "405cbcb0b1eeea8046f29fd556f0fba2c525464491282a8f7063fffc3a2d9530",
-    "563f3853702d4052bab4ad8fbc5d98620a5d5411c79594e91d7928540ff35579",
-    "f97de8c31523235122d0df177af645a9e3df708c59d461bd1af045fc051efc20"
+    "eab8de8bf3439dc0433731aa94406f3629c430b3a9843cb5c1cb7de053479566"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
