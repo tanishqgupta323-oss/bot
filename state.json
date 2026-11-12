@@ -621,24 +621,10 @@
   "calendar_fetched_at": "2026-11-12T01:05:41.713965+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 175,
+    "count": 176,
     "day": "2026-11-11"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-30T23:35:39.445283+00:00",
-      "t": "Trump says Iran war goal met as gas prices rise",
-      "w": [
-        "gas",
-        "goal",
-        "iran",
-        "met",
-        "prices",
-        "rise",
-        "trump",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-31T02:20:51.412342+00:00",
       "t": "Explosions in Hormuz as Trump says Iran ‘wants to talk’",
@@ -3565,6 +3551,23 @@
         "securities",
         "sees"
       ]
+    },
+    {
+      "at": "2026-11-12T01:31:04.614496+00:00",
+      "t": "Gold clings below $4,000 as inflation fears fuel bets on bigger Fed hikes",
+      "w": [
+        "000",
+        "below",
+        "bets",
+        "bigger",
+        "clings",
+        "fears",
+        "fed",
+        "fuel",
+        "gold",
+        "hikes",
+        "inflation"
+      ]
     }
   ],
   "resolved_events": [
@@ -3595,6 +3598,14 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "b62c873a096c58c9dbd771d3c2ab98b09ecd32515b145837aa2abad3d0951b71",
+    "396d879d63792c0aea73d96292a5a61f3e6f52f4729d6ac09204cc394fb83be6",
+    "6428684a6cd7ef5dcabede9ec7784977d6d64f26c00473026a0198b03705d62a",
+    "50bac95c45b6005b82f8341fafcc81c346d68f9e2f11ce1c95243fe977359c34",
+    "cd01e123214422f5c3f87949d089d59a64c6f88bffc6186653bda63670d89598",
+    "5d67335047cd52889f8baafa2d5e4123eb834ed1846eddf271bb30afa1030155",
+    "cdcf96b2f2b46a10b1a1ea32941294970f7978294b7b57298816694f091ecb6f",
+    "3c71494adbba7e4fb89fca6df099c539c5513d3ccb895678ee150192c4365b19",
     "24ad21fbf110e4de6e4b5a399d2db4505ef2117856f55b518ead86cea47d6b38",
     "f2791fe6056326d034af9aa7ab531f58130f4c925448801171aad6c11944930f",
     "4981b15981ecda968ab688fa143f83ce12a2bcac9d2336ece4296613384594a1",
@@ -4586,15 +4597,7 @@
     "da000b65441ab5b6ab72bc9e89a31e789573f49653ce3c0796ebe4cac484a532",
     "e5b433606c332925af56721620321acc9d02377f00508e28cfbee03958b96d32",
     "412650d96e570f609b8489d8eb97d9199be39a1ab3d2e3c278b5757f2fa1cf3a",
-    "52321d246ad9d5b7a9cedf03e4501547fe8d0112e39d00d4db38c675bbe74fdf",
-    "d84f51a1096c333999c61539f1e456ba8a4eccbc58b4ccb29cb31e4316b57fa2",
-    "317b3f4caff19ae2d66a997d7872067d287d34e664ceb2d51044859b1f50c23c",
-    "f78f43ad8d78006af447f8e733b0a8691c71a3163ff147558ea4c815a4826789",
-    "ef9bdb8e1a996faf625efdb5576a7f84e8124228a29083d4ac342c01cd32cdf4",
-    "33cc7f4ced0dccce9a96efe6260589a7a6924b0d67c52c1ed1f49b1e222eebe6",
-    "a821042914978158c1384e57118ab1725cecc9c2ee2ecfe5565896dfc806b050",
-    "2c96bc0684274f738f863e74b8420550b809d488908ef8a25f046166e15a9073",
-    "4a34a862ace2da81c1bfdd371ba742e38ee0c440b318e91a061454d41068c43b"
+    "52321d246ad9d5b7a9cedf03e4501547fe8d0112e39d00d4db38c675bbe74fdf"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
