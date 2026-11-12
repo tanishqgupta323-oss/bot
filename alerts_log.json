@@ -16412,5 +16412,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Asia FX holds losses as dollar hits 19-mth high; yen nears 160",
+  "link": "https://www.investing.com/news/forex-news/asia-fx-holds-losses-as-dollar-hits-19mth-high-yen-nears-160-5020289",
+  "published_at": null,
+  "sent_at": "2026-11-12T04:10:46.153096+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

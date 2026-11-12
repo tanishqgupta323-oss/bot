@@ -618,29 +618,13 @@
       "title": "FOMC Member Jefferson Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-12T01:05:41.713965+00:00",
+  "calendar_fetched_at": "2026-11-12T04:10:44.021357+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 196,
+    "count": 197,
     "day": "2026-11-11"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-31T07:25:39.305476+00:00",
-      "t": "Diplomacy or war? Qatar signals Iran breakthrough as US warns Gulf states to prepare for war",
-      "w": [
-        "breakthrough",
-        "diplomacy",
-        "gulf",
-        "iran",
-        "prepare",
-        "qatar",
-        "signals",
-        "states",
-        "war",
-        "warns"
-      ]
-    },
     {
       "at": "2026-10-31T09:50:50.620277+00:00",
       "t": "Iran warns war could spread ‘much wider’ if US launches ‘another military adventure’",
@@ -3573,6 +3557,22 @@
         "sees",
         "straight"
       ]
+    },
+    {
+      "at": "2026-11-12T04:10:45.127039+00:00",
+      "t": "Asia FX holds losses as dollar hits 19-mth high; yen nears 160",
+      "w": [
+        "160",
+        "asia",
+        "dollar",
+        "high",
+        "hits",
+        "holds",
+        "losses",
+        "mth",
+        "nears",
+        "yen"
+      ]
     }
   ],
   "resolved_events": [
@@ -3603,6 +3603,17 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "b93c850eefc3a212829456766c6a7cfff212bc27ad92cba0ad4a915f69682bc8",
+    "b9dcd8ce969ecd754dbbbf120765e297cb1f4dd1bb8600bab8d61921fc2bb336",
+    "7d43a776a4f7d187de45de91543bcf5bfd781ec457e807e92b440e86ebb4160e",
+    "f1e7aaf7d5ba3710028a878401d25595f7bc2a06f1d18d3bfafca13e81f23453",
+    "0ede6db81bafa8ba8da079d45b0026cc0418faca6b24c03d30949faaca2ea7bd",
+    "a7709f9bcbcc02b1ae1b694f2b80fe32b1d829eb7f15ff9b441c7b1ee734473a",
+    "5894cacc42767fa0ccc416b3b119e314e440c673497cf2dd9a589cb4acbbc9c9",
+    "b75be45a94d1777b6234bb01a8022e64674ced53982a4859d15309be70b460dd",
+    "1199479e37890b365b866ccc944f85bed18c311fa40808c7662b1a0a61dd38c2",
+    "7d10d1af2c9c10292003dea98fdefa75dd194d53fd35d51816f3ef3d96d98ad9",
+    "7d5df716bc99d6d7ffdc209cc790ed07867be47a96808e95eb3ec9b78c00522c",
     "478e6fab3b251480fcc90afd208d18e72eb638b5d7b8d28af7c2dd93cca0c4f9",
     "8d13e89606c44052e70f44deb3b4b6136951d2e29128eb37faf523427365cd8c",
     "0a56c4d974a9b359da4183fb39ee3b3a9191e8a27ab05af29396651de8babb73",
@@ -4591,18 +4602,7 @@
     "2158a0a4126a44ce65c3a97afa2375b717bbce7c314f840837f498ced2358830",
     "b6cee2fe22f964ff29255902363df09633eb106e2f6bd9feb9d8fd9301914c07",
     "d1e9ec3dcb7e3950810900d19bf5ee60c1a2b612ebac0705bed4c615cec978f1",
-    "5819769cf3dccce0b299f23e20d85ba8d1edac10905c09ce1c5c058612fcd2be",
-    "5c8083a007bbdd00fab996e8684ae9fe0b2659fbd00cf81fca4d20dd410387b7",
-    "9eed9c7756da18254465d8ebeabdc85cb8bf46198ed681c828b53152ccab28e1",
-    "5ea61738012fb9c177cbd71a4c79a462b7ca1409cbfd6d4d1e3343c49577534d",
-    "4c884575f60669aae1f70a46e888c9239bbd91e4a63054247e35f8a50e9b0877",
-    "b5d2dbcea1acbc4fdbc55346192038d512ee0502eced635106e7b6bb7c3ba5f1",
-    "dae6e0d6f7895ac878a0d0b06e0c244ddd7b46811b96e332381f1f345916258f",
-    "b67fd15308c1f9153acc37fec67883131f3490b61aac54f7a02f91a128921fc1",
-    "2057b533d89c80525507d5f556e714f98b2a30802c5944bfa6ce4a165f85edd6",
-    "14595009896261639b81996025e9571d254f7ce3721e87870d6a11b747407fd5",
-    "f46a050aab8678fa742ed3147efa9ecc65e0ce70bdb9d4dea3743f5953c6f00a",
-    "8eb5a0bf858c026629e172436d293e650c3ef53de71dbd2fc7918ca4b36e5fd6"
+    "5819769cf3dccce0b299f23e20d85ba8d1edac10905c09ce1c5c058612fcd2be"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
