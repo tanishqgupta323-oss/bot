@@ -621,24 +621,10 @@
   "calendar_fetched_at": "2026-11-12T10:10:45.657227+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 45,
+    "count": 46,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-31T11:55:38.290521+00:00",
-      "t": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
-      "w": [
-        "any",
-        "attack",
-        "iran",
-        "leader",
-        "maximum",
-        "orders",
-        "response",
-        "supreme"
-      ]
-    },
     {
       "at": "2026-10-31T12:20:52.504301+00:00",
       "t": "Investors Pull $643 Million From Bitcoin ETFs After the Biggest Crypto Hack in History",
@@ -3573,6 +3559,24 @@
         "rate",
         "waller"
       ]
+    },
+    {
+      "at": "2026-11-12T12:11:04.259666+00:00",
+      "t": "Zcash tumbles as hawkish Fed repricing weighs on the crypto market; focus remains on the Fed and US-Iran negotiations",
+      "w": [
+        "crypto",
+        "fed",
+        "focus",
+        "hawkish",
+        "iran",
+        "market",
+        "negotiations",
+        "remains",
+        "repricing",
+        "tumbles",
+        "weighs",
+        "zcash"
+      ]
     }
   ],
   "resolved_events": [
@@ -3603,6 +3607,22 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "f96f8200b9fe0a34c0ef5bb786f604c211be36cdfbbd44a368a31d5345f72954",
+    "4a6c95e5bc2fc16d10349800b7bf6b7e2367f04beeecd99136877ee5f1a1c596",
+    "379cf674d0608393c61ef7b8da4abbc763d0fcff207b2006cadbdc500a2b7ac3",
+    "a89e4bf2df472eeaeeae5140b28024ced7a151c28b0cdab169d148cc83056c5a",
+    "a75f13e0b1e808d28c7aeca00e2d7972b5e590acc1de62fad1717935c1073cb8",
+    "fa6c48829dd929e52e66d1b587b0c59d108906887e0a8b144996d52f3c34271d",
+    "731280df05e4b6e20a2b6dbc081f38e60882ff28ca876c213fa32472c714ae0d",
+    "b734eef04bb07a203da7ad96e946e5832f2ba785cf785bd0bd35b2fa7557cfb6",
+    "85927bd8fba35a317e5010198af8c0b1098063cd0dfac6fb04cf822676ebf214",
+    "7c34c3d8fdd2ba9b8d1054776e7ac0170dc81c198cad09103534130262919d9f",
+    "e6ffb6d260fafc730b8aca0c4fe42b60d112f2b508ec62bfbc36a71ebaca65f5",
+    "31236a732759d2552bb0dfe080f276c819e3fb3cce1e276f753f0cacffe69708",
+    "83ce47c2113ff32558137e8e8727a953abe16dd79f72fd9b74a439cdf1904705",
+    "9a7805c0aa6129f5d49bf748140fff660a1702b6bde9e6b06769a7f607a35824",
+    "846bb1de047712c2b7f44f99303a3b05c2f4b7538626c13588a5518937fc626c",
+    "75d6813797dd4edaada2bf2cacacecd59e85edc78d892c07c59c08673644aca6",
     "bc5d4f634e39135d79a79e616b4c467906c62d4c574efb70e9057c45adc81dbd",
     "dd20656d44a66261556788b5562161577ce7fd2a2376af14a27ae49cf11855e4",
     "667198900fab1372915a1760b599126afeda4dc4bed474f72ac3151504fd88d6",
@@ -4586,23 +4606,7 @@
     "89f5b33454dc7142b743b479068e874ded335649d9810db976350036d7ccbdc7",
     "3583a75bb8c631b693902bc6dd45b551bcd12bc88231a93bb07e23399e0507ee",
     "99eb045cd87a76e842fd4fab2c4abe15c472d565def692b5251852b033751751",
-    "05709ce6a387cd9aa43435728f73316fe4eb25f0e01e182b9a02656037cf34bb",
-    "3cb5a7afd9d0dd647efb3bc2c3fcac9c2dc9b1eb7ce4cd1d723cec8e719f1498",
-    "7b6f0f5a8080b28137afc58561d0cc0fee88df95c4dea15746a3942d039d7c68",
-    "13749c14fd7555a1a4f71e001ab6af2dd0de0a4e44ce7612cc04e2b234beed89",
-    "b9965ac53a15a5e08cdda5ed4525419603535a8ff35fd0f87271c26793df5aec",
-    "c415ca2db33e029be3ff287ce90bc94ac9353d089a5623672ce8c5985cdbb5ef",
-    "f262c98e711bdac605aa143c3cd7226eed1d58aa31993a15314030c46650315e",
-    "8e4a44548d3729bd95dc6902e289e42cecf609e9d17c535ce8cfe96164f38afe",
-    "3fa7323e5dbf5761bd2c7c8e75a871f013b6afadfa629143490df4fad0679954",
-    "763cef8bb7797be033a9bb026c976ff8855ec0d7f4a4f2c6ad70f7e36d6f1e7b",
-    "41af1c2acbfe76634a402c3a5121d7393eb1437b7256cb959a0dc557663efbf5",
-    "a6053f369b8403eaa9d017fa5863e2d265a808a0a13bb3ede8bc6a5796552eb4",
-    "578076743824bdf75ea60b63f1e427ea6d5c0d53dd1fc2dd2f1d6ded061a10bf",
-    "bd0b09b90b03e2ace326fe071c348f08ad063d0714260e0f7e07700fa20e08f6",
-    "92c3b06b2376be87c67ee110e366f7d19b80b75e93ba7a56c0e9796c2a68f84f",
-    "1d72dd197ffc2ade8bc2e479dc24544000a7ab5b6966a57d8f21292d0a9af0ac",
-    "989e950e3e0894db4c0bf208be7bea9f25cfdde4deddcff1b8bde598a1764e28"
+    "05709ce6a387cd9aa43435728f73316fe4eb25f0e01e182b9a02656037cf34bb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

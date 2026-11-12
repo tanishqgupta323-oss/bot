@@ -16508,6 +16508,32 @@
     "EURUSD": -0.0333,
     "XAUUSD": -0.101,
     "BTCUSD": -0.1323
+   },
+   "60": {
+    "EURUSD": -0.0222,
+    "XAUUSD": -0.2677,
+    "BTCUSD": -0.687
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Zcash tumbles as hawkish Fed repricing weighs on the crypto market; focus remains on the Fed and US-Iran negotiations",
+  "link": "https://investinglive.com/cryptocurrency/zcash-tumbles-as-hawkish-fed-repricing-weighs-on-the-crypto-market-focus-remains-on-the-fed-and-us-iran-negotiations/",
+  "published_at": "2026-11-12T11:51:39+00:00",
+  "sent_at": "2026-11-12T12:11:08.445944+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0333,
+    "XAUUSD": -0.0582,
+    "BTCUSD": -0.1711
    }
   },
   "checks_base": "published"
