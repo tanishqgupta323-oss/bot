@@ -16334,5 +16334,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "TD Securities sees gold retesting $3,900 as Fed hike bets and a firm dollar bite",
+  "link": "https://investinglive.com/commodities/td-securities-sees-gold-retesting-3-900-as-fed-hike-bets-and-a-firm-dollar-bite/",
+  "published_at": "2026-11-12T00:53:32+00:00",
+  "sent_at": "2026-11-12T01:05:43.747110+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

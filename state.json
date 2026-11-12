@@ -618,27 +618,13 @@
       "title": "FOMC Member Jefferson Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-11T22:05:37.378320+00:00",
+  "calendar_fetched_at": "2026-11-12T01:05:41.713965+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 171,
+    "count": 172,
     "day": "2026-11-11"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-30T21:45:52.910354+00:00",
-      "t": "Trump plans to resume strikes on Iran day after midterm elections",
-      "w": [
-        "day",
-        "elections",
-        "iran",
-        "midterm",
-        "plans",
-        "resume",
-        "strikes",
-        "trump"
-      ]
-    },
     {
       "at": "2026-10-30T23:35:39.445283+00:00",
       "t": "Trump says Iran war goal met as gas prices rise",
@@ -3562,6 +3548,23 @@
         "month",
         "rate"
       ]
+    },
+    {
+      "at": "2026-11-12T01:05:42.940850+00:00",
+      "t": "TD Securities sees gold retesting $3,900 as Fed hike bets and a firm dollar bite",
+      "w": [
+        "900",
+        "bets",
+        "bite",
+        "dollar",
+        "fed",
+        "firm",
+        "gold",
+        "hike",
+        "retesting",
+        "securities",
+        "sees"
+      ]
     }
   ],
   "resolved_events": [
@@ -3592,6 +3595,14 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "a42b5477653e6dba3456801890a7f4d2301c2c3b2481d189ad1b53ed794e1193",
+    "f975c934ace3505f4f0f4c6f3a4c364c56c5f47e4ce2c2e424dcf6542135ab87",
+    "2b69ea90b66a2c2e9f3f33cc7088e7bb1c30e916a4dc732c5da8e7981d42dc20",
+    "8c1d222d097089ad691cc0aef688433469206cb64f024fb077b71433c0861e0b",
+    "02f4f520ffe8824464115e657f161bf44e2302f94ec0c321a59872bcddc9c0ca",
+    "5c4da4dd5a6b324ca439311447f8ad5313af860307cb9ed1f5d7bff2fcfbae22",
+    "7578f874c8167a201f5424cb107a1bc5fcba2eee089fd65bc3abfd05fd7d19a4",
+    "28e7d17a669d934e4f965bb5a23dbfc61639370db0bdc778caa5e0e6afb43869",
     "d0159587ac775ff2bee93a960c29f5c4490517b7d17f3da2a15f4ab6e3613097",
     "1dc430db5591da4e819cd1e7986ab29747c688db83c6a4c8b715ec779ab068b2",
     "de8d79410348a5858ee09e99318b78fb0cfc3f9374139c5cfa7270503b80eef1",
@@ -4583,15 +4594,7 @@
     "c80364f24b2484c4558ad21065dbe4b23e719a7f07b920cb6397141912908359",
     "f6b0518cb75af1602c5f02b61ef2321394916d8278ef73825375449fe1115487",
     "b720cceb1f49cf6c58ffbfd239f0b1a508c7293c6929dc5ac3a55e77cb3039bf",
-    "47e2e0c096bd035974fb6cbbaaffe72a64a22e67aa42176e5f348845df5fd242",
-    "c432973dc6127e5449feb4f16ee626763d60603f8ff4eaac3617f3442f568523",
-    "7af2c11a3010ff498ea8f35e68c6f224c407027266d9697c0adcbd684f0e71b9",
-    "180b1c4497ef51a7ef8daa8f30401b8182f9ad69585068821d891ef4a5d8fa81",
-    "ca9a024a5f41916e0589b5f14b23f24eecb4d3b022b2f94ee8efe330ab505aa2",
-    "0355eb27354ed1a050b2466bc56397217e7cb4a8240a2ee41c2af122a5f9e5df",
-    "791b9f412446dbc0c9a53fcec78fba18ff1e97ccbffc983cf1925ac25b1482e8",
-    "87c70f41625d97b34305b75101b4f799feb6857bb8db383123e53aad68cc53cb",
-    "c2d0212e548c6d4dddc499dd7772bee067ad4a0e85b624026ead01ff65eaa235"
+    "47e2e0c096bd035974fb6cbbaaffe72a64a22e67aa42176e5f348845df5fd242"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
