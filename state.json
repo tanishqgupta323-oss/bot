@@ -621,39 +621,10 @@
   "calendar_fetched_at": "2026-11-12T13:10:46.209067+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 75,
+    "count": 76,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-31T12:31:09.160587+00:00",
-      "t": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
-      "w": [
-        "call",
-        "iran",
-        "lawmakers",
-        "npt",
-        "peace",
-        "war",
-        "withdrawal"
-      ]
-    },
-    {
-      "at": "2026-10-31T12:40:51.047503+00:00",
-      "t": "US Army Prepares Mass Soldier Graves for Potential High-Casualty War on Iran",
-      "w": [
-        "army",
-        "casualty",
-        "graves",
-        "high",
-        "iran",
-        "mass",
-        "potential",
-        "prepares",
-        "soldier",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-31T12:55:36.852965+00:00",
       "t": "Iran’s Khamenei Orders Military to Expand US Retaliation Plans",
@@ -3575,6 +3546,36 @@
         "triggers",
         "warning"
       ]
+    },
+    {
+      "at": "2026-11-12T14:50:47.600437+00:00",
+      "t": "Gold, silver extend losses as Fed hike bets lift dollar, Treasury yields - Kitco AM Report",
+      "w": [
+        "bets",
+        "dollar",
+        "extend",
+        "fed",
+        "gold",
+        "hike",
+        "kitco",
+        "lift",
+        "losses",
+        "report",
+        "silver",
+        "treasury",
+        "yields"
+      ]
+    },
+    {
+      "at": "2026-11-12T14:50:47.600437+00:00",
+      "t": "Fed’s Hammack Says More Restrictive Rates Are Needed",
+      "w": [
+        "fed",
+        "hammack",
+        "needed",
+        "rates",
+        "restrictive"
+      ]
     }
   ],
   "resolved_events": [
@@ -3605,6 +3606,12 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "da62ae747d39669349967b9ede469e0e47f0ab5194c7d2220f87c2496cde13f6",
+    "e8c40c51c74dde1f0bf47b3f619140492ffc3f2b9f2130f98285ca56ed7917a1",
+    "a1e95a50120fc4f515305caac81441e28154c28ca9b0388c05666c6005d36462",
+    "fa663e781f52508884fd304f906d09d4a46c3bb3250869a5c6e9ea3a67b5da45",
+    "a6becc802ce74e1fa89cf71527a47d8fd497fa29a812449b7b44070ce48afb1c",
+    "33d824230f8971ec9f9f626db68e4309c61e1f7b341fe6ae529aa337beab1a36",
     "8161b377f8ab891a0b9f7ffec964b0c7eee607ca7892982e0c9082b46bc905c1",
     "0a12724e8dd66883efce88b727c22eca06e4116ce0deffe328085d1a028a5cf5",
     "27a764ecf87d03adc8b90158bc3a0039341d943cbef8ec090bddf827682db419",
@@ -4598,13 +4605,7 @@
     "01cf63f2e0cdc304566e1c42a821f46bcda8e63f4ac88898cf74de47cacf5ea2",
     "972d32d701bd0e0484e1cf95aece26caf912760d0b0028ad1bbc15eb669e0cb8",
     "52db23c1ffceef1ea6bc0c81ca8e260889d5882e4ce7cb63d52a88d07d8af1b3",
-    "d6af10ed5ac78a7944cfcb8cf7caf56db385b084ac19eeb0040aecf0c8a659bb",
-    "37827b53a09a9991e733e44412a747c52f4eb4bc7913e5ea258b55f332446848",
-    "a9158bc6159be14157d4cd4cec1dfb44db910e725cac301379ce2e13cd7e84e6",
-    "6ad806065cb59eddc7f00d853a7da2846fae5a5d777a48fc508e0da2f14fd32c",
-    "a0b4990cced022bd24c1da5efa4c547f625fa63a2b08314e72a8cc24259fc0e7",
-    "02351f1ad93ef2f2fb147a6b08a349393f6ac2d6fbb7e0fd29606c89d1111fc7",
-    "a12a9a0dbca152cd22fca222fb2368fafffc93c282ae0d5c7ae33b165d7f474c"
+    "d6af10ed5ac78a7944cfcb8cf7caf56db385b084ac19eeb0040aecf0c8a659bb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
