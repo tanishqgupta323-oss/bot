@@ -621,28 +621,10 @@
   "calendar_fetched_at": "2026-11-12T19:15:44.003862+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 157,
+    "count": 158,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-31T22:35:40.544172+00:00",
-      "t": "If Iran war erupts, Israel may be plotting another ‘Operation Grim Beeper’ style attack: sources",
-      "w": [
-        "another",
-        "attack",
-        "beeper",
-        "erupts",
-        "grim",
-        "iran",
-        "israel",
-        "operation",
-        "plotting",
-        "sources",
-        "style",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-01T05:01:23.268466+00:00",
       "t": "Trump says US still has 'to take care of' one or two targets in Iran",
@@ -3578,6 +3560,22 @@
         "time",
         "yen"
       ]
+    },
+    {
+      "at": "2026-11-12T21:50:49.658873+00:00",
+      "t": "Trump says he may use force against Iran 'right now' if US allies and ships are threatened",
+      "w": [
+        "against",
+        "allies",
+        "force",
+        "iran",
+        "now",
+        "right",
+        "ships",
+        "threatened",
+        "trump",
+        "use"
+      ]
     }
   ],
   "resolved_events": [
@@ -3608,6 +3606,19 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "a0c4cca83d20bd24639b44b583fdd808f09e153c846d732230fb9b9a29d0a414",
+    "0fdc8a888ca1dc55d3ec0c5baacd3112e5cc453c7d4f5c1824c8f74847d45b16",
+    "aa143c884f458642f9f4193443b0a2cb357acb95f7d376173543372ba432ab39",
+    "4ceb976e66da3802e93ab33fa7b7266bda3b18d96682b5bcd4cbfdf72b726423",
+    "823e48468b8aba5d83e2d3db135211931ba01824333dff37f213fe83d463b50b",
+    "60f7c1ff74ebe5a1be35b95ab0d594903e16433a528892f70de9a7c982ba6457",
+    "9b7aae114ef3f6fa1d9d7089882fe5cf4759e2d5b7b66a4e162d1717418394a3",
+    "cdcf96b2f2b46a10b1a1ea32941294970f7978294b7b57298816694f091ecb6f",
+    "b7952538cabf2253bb520d8f35f7360a603275a281bf3dabfdd5716f9da3b61d",
+    "e4092fc70b252f18b0bfd3de235a768f3e7d261903aaa00e9ee08c07e9f1cc11",
+    "481b884df99628b5286a5d61df910eaff868fa8019ec1d002e93808cb66412f4",
+    "ac265b7a8fc4b3721678bf5c6474fd3f66856184ce5ec4ebe27f7f422c8256f3",
+    "b30cc702163f462161d0349e7f35cbf9956b35e79de3143ddd3236f37aa592ed",
     "279642026e897b174cbf5c3a5c88e5ee1c29d46a72f7ecc4acd86986d3f30625",
     "94adf287dabef08a900cb9fa5e5b670376e2ff021b9640c9614edcc1d37bfbfc",
     "bf6d438dc31be51acd8b8f82d039dca4aa17a6e6da8ee9ba18b56735816be290",
@@ -4594,20 +4605,7 @@
     "89be5b9df6d2943fad5bc94fae6a68c656064f485ef570292384c2df65fae065",
     "4a2cb72c9f6b9d3bbcd24b6974e16cc088fc66135f2aae879183ef320b79de63",
     "b3385970c99777f5c055158b8bcf671199d3fde4321d7e5f3b887a4cca2c7d29",
-    "ff4f47e3fcd600b814656014c1893e584eb31a7f3ba092ef2e9494d923741ddc",
-    "5ec4edc96f6f6d0c4af1ccb8866c834a5c9e165acf0f64f07834451f721baf77",
-    "f290009f7c6c6ad9cab9489bd763eccdf725953bcd849e277a7dba44004ce758",
-    "c5b4602301ef92fb1117670f23d0b5e1948e049e1b025cde4ba345781de0f4a8",
-    "db94a6e3e60c2d4026227842f275f9204ca4030541dd6759f294b674c492cf0d",
-    "5a6f8e25a1fa9e7b337f1a799208a185d5eb6af424b8533a6a01ff706c224412",
-    "0fecc7bc46098fb65cf834156805373e139f845a5a8ac5e463fbea05414ee7b3",
-    "8965b00076cbe712ecb9a0c6a7ca7446c8f0297d42e1fed865b0cc97432b0cbe",
-    "8371eb6df6eecc10be58a6acdb472e80bc52bd2eb7d8cda6040f7b11be1b9e21",
-    "b025fa68eb77815649ecff248bb7fab59a31b40468b8a47e3b50b26f745db331",
-    "f998d6cab8c5325216c1520fe4de2288e78f9ccfe32c23ae428a495c25a71339",
-    "346f79aa476881d4f0b54c8440631a5eded43c4f5443f3e244303f51274a720a",
-    "b8767396d104b69002d319d3cc1e7fc238b1143c07fd03f2bc3f39f88f7fd3fe",
-    "a551d04c7336b6077786e5255b29940d2362655fcbeac876ee1224bf46578d9f"
+    "ff4f47e3fcd600b814656014c1893e584eb31a7f3ba092ef2e9494d923741ddc"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

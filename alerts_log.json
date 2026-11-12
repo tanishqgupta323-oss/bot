@@ -16870,5 +16870,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Anadolu Ajansı",
+  "title": "Trump says he may use force against Iran 'right now' if US allies and ships are threatened",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTGF2RU1nWENYZWFRTE1ZSGdHdkJhZGR6Z2RoN3NPRmlETDh0ZHdhT1ZsSjRLRVU1em5xS1V6WHlORDllSi11YVIzRnNmSVd0ZG5TT3B0RzRSN3duejRMb1lNUjhQc3cxYnhQYkllb1ZtbVhVTldYOHAwbm13NEF1ajNLTm9FaEpQb0pTMTh1d3VURFBLc1RoblcwQ3pTY0pJUTBYay1MYTdocU5kczJTbThFZGhBRGVtR2szcURoZ3RTQkxtcGhKTkdaVzA0MEpyN2ZVNldIcw?oc=5",
+  "published_at": "2026-11-12T21:50:12+00:00",
+  "sent_at": "2026-11-12T21:50:50.698513+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
