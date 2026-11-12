@@ -621,7 +621,7 @@
   "calendar_fetched_at": "2026-11-12T10:10:45.657227+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 56,
+    "count": 57,
     "day": "2026-11-12"
   },
   "recent_stories": [
