@@ -554,6 +554,17 @@
     {
       "actual": "-",
       "currency": "USD",
+      "event_id": "3fb678a3a24a615f6c2ea2d6",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "4.37%",
+      "scheduled_at": "2026-11-13T15:15:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "Mortgage Delinquencies"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
       "event_id": "ecbe5728eec9efe310e5422f",
       "forecast": "65B",
       "impact": "LOW",
@@ -598,17 +609,6 @@
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "a37a64c56b71f74fc207b686",
-      "forecast": "-",
-      "impact": "LOW",
-      "previous": "4.37%",
-      "scheduled_at": "2026-11-13T17:59:00+00:00",
-      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
-      "title": "Mortgage Delinquencies"
-    },
-    {
-      "actual": "-",
-      "currency": "USD",
       "event_id": "78d6f18da98e4b89bf4768c4",
       "forecast": "-",
       "impact": "LOW",
@@ -618,10 +618,10 @@
       "title": "FOMC Member Jefferson Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-12T19:15:44.003862+00:00",
+  "calendar_fetched_at": "2026-11-12T22:15:44.293521+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 162,
+    "count": 163,
     "day": "2026-11-12"
   },
   "recent_stories": [
@@ -3606,6 +3606,7 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "59133b2225e443c4079969ba9dda286e7732023979a90310c64a23a7f007ae01",
     "7dbd9356ace8b0c02fc5938d11df5261610bdb1ec33d3937b6bb1082b52d1053",
     "0ad88f5f79311cdb9b7b3020af667ea706dd6ac221c885711f5bdfcb07d3ad87",
     "d76e6bf5be2960a033edbc0d8f3d49ee23372e635e3114bb240b4aef95c9ff89",
@@ -4604,8 +4605,7 @@
     "d36b1fab3a6949b359b53301136cbdb2032d49d200f6018d36c931323a4365c3",
     "d8524a4e912ec46968171763af917d549f29fa3b1bbf22e533a21afc182832a2",
     "813f981e7a2c3dbef0da61689ab6df8f3af7b7ff7a913a4ed2ad727e6d8e75f9",
-    "6c6cd67584d343b632e54c4c4d7249c7385ab16703f1bc3d7174c980761cea1e",
-    "a1cf2fb0e77a176f5ebb678c04bb83748755be2441b78a51bb11091e9e8dfec5"
+    "6c6cd67584d343b632e54c4c4d7249c7385ab16703f1bc3d7174c980761cea1e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
