@@ -16792,5 +16792,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Foundation for Defense of Democracies",
+  "title": "Trump removes Vance from Iran talks as U.S. launches strikes on IRGC bases",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlFOR0dZeFZ1eEc0b0pYUDhuelBjXzB2a0p6eHhZb21kYUF0R2o4WmJPc216SExnTDEwaW1aWjRGcU9qSUttYVM1Q0lEUi03TzNGNzh1dk04WjF1blo5MlBRTnIwRFRhamxpNFJRSFloOWNmVjRiei12NGlDbWoxUm5QMlI4MU9FaThOU0FRZjdwWWVRMlBuTTBGQUIzbUF0MVozR3k2ZG03UQ?oc=5",
+  "published_at": "2026-11-12T20:14:58+00:00",
+  "sent_at": "2026-11-12T20:20:52.199373+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

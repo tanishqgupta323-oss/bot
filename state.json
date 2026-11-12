@@ -621,23 +621,10 @@
   "calendar_fetched_at": "2026-11-12T19:15:44.003862+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 140,
+    "count": 141,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-31T17:25:35.913063+00:00",
-      "t": "Binance says it has replaced 90% of $6.3 billion stolen in record crypto hack",
-      "w": [
-        "billion",
-        "binance",
-        "crypto",
-        "hack",
-        "record",
-        "replaced",
-        "stolen"
-      ]
-    },
     {
       "at": "2026-10-31T17:45:50.672366+00:00",
       "t": "Iran’s leader threatens retaliation without limits as Trump weighs new strikes",
@@ -3573,6 +3560,21 @@
         "southern",
         "strike"
       ]
+    },
+    {
+      "at": "2026-11-12T20:20:46.795254+00:00",
+      "t": "Trump removes Vance from Iran talks as U.S. launches strikes on IRGC bases",
+      "w": [
+        "bases",
+        "iran",
+        "irgc",
+        "launches",
+        "removes",
+        "strikes",
+        "talks",
+        "trump",
+        "vance"
+      ]
     }
   ],
   "resolved_events": [
@@ -3603,6 +3605,21 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "36be760d52a5084a87478cc316b358c6d68f37fb36a9420b1f1b40c294773434",
+    "1acf5a90b89510827a1e6d8a7fbc9ffec59bc4e614eff8e89a3ca97ab9af7835",
+    "e475b5e5b6a528d5119c5bbf71eaf4da811b80d3398dd9000a600e0638d0de3c",
+    "c6b60172399964eee172badecbd53fddd90026b24c159b8dca4a3747526d317d",
+    "f76a09b2b58f0b211b941d5647085e42d6671671fecffc92e24a82e8d395c1e0",
+    "5cc9cabad3156fd0626e3677b550bd6384150948eb97eec566cb2855312e5fd0",
+    "75bde9f09b450ce467a5f6705d29e70699aaf7f67dec01d0754e9ee28b0d333b",
+    "9df229286a01bf44a6d0ef4eb13f07f4f4d1581c3e561e74b6c46f8a950b84cb",
+    "e196a4ff34315e513899437f06d98f8e3a4e9376a9eccefe3bc9e35b1293f237",
+    "bf4b59e358196e1829000463b7d6d81e7753169a0dd591e98e367af8af356515",
+    "234588c969e1adfa3f447f4bfac1fdedc366fc955f190a288c566cfcadd918e5",
+    "afde31ba774c826ad8778450cd973bb466b174db4598f17863a8674df91632b4",
+    "a0bdfb59fe6d9c2e6fc37f001f5e96804ce9b5473bb30370d32503ce628a1a82",
+    "c4b4203540bba5a61c38b1476f79a5a2b05ffa244264c6e1a20555c1a19b6188",
+    "24d5e31eb37bb0d314613c6edea079d30a07600d362eb1ce23316cd80bbcd3ef",
     "adadc0d5e3511f0aba576ae496a7dbef1379022b905d65470a908b1940adda2b",
     "6488ffc7e45d6892391f8f66a6d78dfadb40f29667cd82a44c59850ebf642229",
     "a4b6d6ba93a88f01244d8db09d368c7d29c6a36780af1680cebabe51dff3b1d0",
@@ -4587,22 +4604,7 @@
     "7cbf1adb1cf4b6305ad8a4cf7315b221257334c493245641a6c8aa3918300966",
     "6b83672bfa3dc147fcd99295797e55740300a5cf0b4f389fafee53850c948a33",
     "b2a67a9760053c572ad6c85469a2e8003776b38697cf6abbd8e36e5c706eec67",
-    "513a104fb33bb730d790e6c4ccb851ea34e226810fb2927278b8a87b31236a0e",
-    "225d397aae02e8f97a13d2d609d48fd4d260a9dec3ce1b8f71a35ce93b7f6b96",
-    "2ee740c53712a35382e352705453cc8e06566bb3e6291f3f12ce1096ec604fe0",
-    "0064f5a045f1371686d275a68a891c5095a5698a3dca77b48a9e266816e2da23",
-    "3005f1971e0d5242df0d3aa787694c0a772d4a91d6f61ec2bb84a22e3f0b3436",
-    "3901a8f9f3fd1ef4d9391f218a2b9b1a5b59347695c21bd494e4ac6c22b5d438",
-    "89faff952be9d79d04a0cd25dbe66a158f073dd0c6507d50481403f1fba1b1bc",
-    "d99e7c2f3be94391aa07da52e54a345f81891bd08eb5661d4974816c04186db4",
-    "7672d232478cf8389480bea29de84ebe804db213a5b833924fc027c0cfb98473",
-    "65a14383b297e949d57e74b9d949dcd25151e07eeade64cc9243b239b803cc86",
-    "dfdc48768d1ef2db65c68df9afe5e77c96cf8cabee2b352feb8a35e2ba6f6b72",
-    "c1cc77b751939350ab47a405b18ab2eb0644b5e37b633a6b8f144e8145637750",
-    "21141ee05f08be6ae7c0d305162940f59ba1ca82cdf1caccda5859a54dd44055",
-    "f4c9e674aeb28e0e15b5d4a155378499230d5e9ce325e6686213e130b7a3f666",
-    "5fa4380c5b2c61dfac9aadbaf14f66b56ed452ef3faa8c44e7af6ccc2d54f289",
-    "c35194a55f5f941ac710425cb9ce7c2abd4cfb1cc40e8deb37a7d27d1e24b60a"
+    "513a104fb33bb730d790e6c4ccb851ea34e226810fb2927278b8a87b31236a0e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
