@@ -621,21 +621,10 @@
   "calendar_fetched_at": "2026-11-12T16:10:51.426828+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 102,
+    "count": 103,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-31T13:10:56.045665+00:00",
-      "t": "Iran says 2 fishing boats hit by US drone",
-      "w": [
-        "boats",
-        "drone",
-        "fishing",
-        "hit",
-        "iran"
-      ]
-    },
     {
       "at": "2026-10-31T13:25:37.502878+00:00",
       "t": "Iran negotiators in Doha for Qatar-mediated talks to end US-Iran war, official confirms",
@@ -3573,6 +3562,19 @@
         "price",
         "rate"
       ]
+    },
+    {
+      "at": "2026-11-12T17:05:48.561653+00:00",
+      "t": "The US dollar moves higher as Treasury yields extend their gains",
+      "w": [
+        "dollar",
+        "extend",
+        "gains",
+        "higher",
+        "moves",
+        "treasury",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3603,6 +3605,14 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "9d23a713f0b7dcb4f4f37733365db8ce077c91e7d616e9749bd41e7cee03529c",
+    "4f307625d56032cb6f6b6afe669b5665e1514802856b8ff19b3d5f199106ca67",
+    "1c3a45ec0bacdcd34fba80eb2a30c9b419da4af7af52f97a52642330f2b8ce0c",
+    "2c9f1a35f37a5b5ac161908092ca0ef11423499152cf5c98f93ba0fb4e80dd27",
+    "d2519cd8e6092006362cc450346c74df42c608b8568cb3113ae57b43936dfcea",
+    "a5f355c2812f6f788a65ae3447905966f47259ddb555e7b7b1560aad93bc6119",
+    "6dc78d65514eebe99b3c322a93b6ad44cb5a6c5489856198ed4de5d7af13567b",
+    "b20d1e612fc135752053f57cde12539fde5ed80310eca26a99fe57a76b73da0c",
     "4400344ea520c55a5395b08fe99e3527b1cbe9a76d8d751c73b5326bcb317661",
     "ed760ba7bed9b7a9af16121d56865f84bc61fef03e5ccb34b5238934d549bcba",
     "5891c58075329b9de406c815d6bec761a28fb108246be55d8c2d297833453d54",
@@ -4594,15 +4604,7 @@
     "03ddb9b24beadfa7c87fc410eb79b04c96896cfb0afafb3c742cdabc0008a34b",
     "08cf08e01fe5daab8e2088905bab711fc23d8ab02edb44cff06fac352aafac7a",
     "20f4a8c6de4340ee9c8b0f3e80dfc31b9a859a178a380818f295d7c80ca1cc1c",
-    "a48a5215822481182588809c910bdc93d271c05355e2922eef0360db6fba480e",
-    "fbb7ce5d31466df0c08f8fbf0acd9ca41db6b348f82e0977f72201ebbdd28619",
-    "78190a8ce153506bcd04320c460d626805e36bad2c8ea4982be7240c854a8d98",
-    "9547809a674fa93a8efeff5ccf046369b6d9c19a3791f6caa93a68ceb327fdf7",
-    "0018358ca47912780ffd76ce8cbbfec55a008c4e677c4cf4ac6b20813675a616",
-    "2b59ab7bf571bf48a396c78cc540b7aa442f5541e70e2fd7bb6d09a8d0c30a78",
-    "45413c31fdd864741c86409c6af9f57453a6101f177846e33605c0dd3719215d",
-    "a8bd6b94faa89affe8cab17a07b06ab11f0f3a486992845d8c1f7e91b2b35569",
-    "e5372e05950b5fb2dfac2e3b26ad376db686477837cbddae31eaa85b85dc2cdb"
+    "a48a5215822481182588809c910bdc93d271c05355e2922eef0360db6fba480e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

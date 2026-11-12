@@ -16667,5 +16667,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "The US dollar moves higher as Treasury yields extend their gains",
+  "link": "https://investinglive.com/technical-analysis/the-us-dollar-moves-higher-as-treasury-yields-extend-their-gains/",
+  "published_at": "2026-11-12T16:03:51+00:00",
+  "sent_at": "2026-11-12T17:06:22.725669+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0443,
+    "XAUUSD": 0.1394,
+    "BTCUSD": 0.3137
+   },
+   "60": {
+    "EURUSD": -0.0774,
+    "XAUUSD": 0.3071,
+    "BTCUSD": 0.015
+   }
+  },
+  "checks_base": "published"
  }
 ]
