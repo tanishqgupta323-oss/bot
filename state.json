@@ -345,11 +345,11 @@
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "129258f0951d3c52e5b0efb7",
+      "event_id": "a63e2fb5e3159a306e981b99",
       "forecast": "-",
       "impact": "LOW",
       "previous": "4.37%",
-      "scheduled_at": "2026-11-12T15:00:00+00:00",
+      "scheduled_at": "2026-11-12T16:14:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "Mortgage Delinquencies"
     },
@@ -618,26 +618,13 @@
       "title": "FOMC Member Jefferson Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-12T13:10:46.209067+00:00",
+  "calendar_fetched_at": "2026-11-12T16:10:51.426828+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 91,
+    "count": 92,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-31T12:55:36.852965+00:00",
-      "t": "Iran’s Khamenei Orders Military to Expand US Retaliation Plans",
-      "w": [
-        "expand",
-        "iran",
-        "khamenei",
-        "military",
-        "orders",
-        "plans",
-        "retaliation"
-      ]
-    },
     {
       "at": "2026-10-31T13:05:45.800215+00:00",
       "t": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
@@ -3576,6 +3563,19 @@
         "rates",
         "restrictive"
       ]
+    },
+    {
+      "at": "2026-11-12T16:10:52.935508+00:00",
+      "t": "‘We’ve got their Strait!’ Trump dashes hopes of Iran deal",
+      "w": [
+        "dashes",
+        "deal",
+        "got",
+        "hopes",
+        "iran",
+        "strait",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3606,6 +3606,23 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "3bdf70e5382870b2c39ba2c1e8c6eb1a1483bb6e45ddd222241ffd0d00237320",
+    "41c95ea050009f01cb9c7c38c826c310bbdf44926e75e2cfc38b21fc5020653f",
+    "939d91b4ce877601d09b57ffc991b508676a01da711cd58a71482a8deec8082b",
+    "85da0f22d5bd8fcb02f6d6568dff8a345a534fedb777e408df37943376af4f5d",
+    "4206024edfcf2e23f41a0c094070074d4bd7b8e6cbcc2e5ec7b265ab7a7163c6",
+    "eb975254330f502292d4c2c0d2667275109cffad00fbdd641b274ef26629f977",
+    "0bca8ec04a035fde6965dbe8c005be2b65a10a824dfdf4e4092859537599f56f",
+    "de45dfdabf9414e62bfe234afb39b331bed0ee00377da38669210de1d2902623",
+    "70bf5ef799391d50c4e513ef4d58940d98957ab1fa0a4ea1da3175fac7c3f502",
+    "b7de6710b21c4daa27f54bec46c929919763c5c85f62f7a746565b00466b04da",
+    "51a7c1f8543c415dd5f880219c8d541277ec49750cfe18bd0f7cc6d58830afaf",
+    "94be88683a6d9f2d8b03a56be642c7669c060d2f537e8c00df3d5a837e16a9fb",
+    "be18d1f1a9e80403f2c374c2cc03f0740f5f2bce769573b2b54706ab57c0ab36",
+    "e6d73e2a55c98a4dedd42e860871904a18d943a9b939d5e46456f4ffeaed4b4f",
+    "f4b0cec644db027de93b6ce86b80aa4a449cce90b9ab0912b4ea8d0df5098a69",
+    "e37e095dc6b4748df74f06ae6bd8a6ae98f7a29561af1bc7155e87d2066921da",
+    "ea93d6d13d4a518207bc8683e9d1cd7a73dcb50dd2f1c69f2e0356d2198cadae",
     "b51438c647cf4138296110c8e805ceea5ce1e8a4266b546eafb884c3a4ba4925",
     "a6535f8da3923cca7c3cb56d88501baaac0605c8f98b40c03ca3cd9af95ff86b",
     "4190a163a1da9c09f3e982a694e96252dd74229797ffb881f8757b9cc64bc439",
@@ -4588,24 +4605,7 @@
     "e13858752d53a4b156346b715f23ca871a9128319ff363b61460abfd4a82aa11",
     "7fdc36b0292af923a0843a28c643111e5b6460dbec89d3dbf1956f136a67e913",
     "4bd46fb79718c68d0e9a39f701eaea99ad9864ad940a40efd2ed5078c3cdfd7f",
-    "1710025be62a00b2a4b497f25b4dee84a1cc17740363cd1d8d4836570191103e",
-    "d75d02cd0e51a7ec5cfa476ea6d2a85dfa0b042b093ab7ae3fa78221d5305e54",
-    "014cfc83db700195cf46bc9056b443374fb58b97564af4303f5fe419fc0c44bd",
-    "5ea4bd120a3d31fee501f8e5e0670c5c6a422ebdf2017f89f4f6c01978962fe1",
-    "b5e74ae85fa66958a3e6a12cf59d98e3c2bf3a2828131f27e401b8403bb70494",
-    "3c2fbb5ccad5cc55198df5f2c4ba452757e93052f8290be609ea4feb331c7e41",
-    "5fafdf33878a6eefa88c2b5a25e74f77523263d1a6ebd0f4b7b42240d11d2f89",
-    "87a2781aaf494a49622ae574924d4e938f1aeab0e1ab697737209609137eb1ae",
-    "8f18f4d79e1f7719a6598e4c3c39658bcf30152ba47b8313e7249c0716c05623",
-    "1fa92a12ac33a0ac4377d5e1fee929df6546e86a79c7b7af268c0d1a5984e837",
-    "25fd9a1c8abd525b2e90ff9abd1a3154e34499dde870fbabefbbd639246c5796",
-    "96888ce929f8f90eb964cd47add000f709dd0d8c8841c109006aceeec06f9af9",
-    "c5d6586128792596f1a4f6e773ce09f414ccd330d61eb5a39ae7eeeb2e9c96f2",
-    "8c13a97521177c5c0ff992f9c6ea4e86b53a66ddbd68c0d89c38fc4073de16b3",
-    "8e5789bc899149c71f41b1b885c3205ea6206ae5c64d15d2e2f5e62a7244ed39",
-    "e25857179733f486d1cfea64ad4a4e990e4ed1bf88b28c84f91a7e03f41deb52",
-    "c4cca210c1bc1a3e51bb0764dbeda73077a309d666891c0468c9a8aa07e7255a",
-    "e374d59f6465d865c63c8de7fd093a20cb98dce6c2cac7b8eef4b060e0a852bd"
+    "1710025be62a00b2a4b497f25b4dee84a1cc17740363cd1d8d4836570191103e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

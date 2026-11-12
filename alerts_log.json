@@ -16620,5 +16620,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "TradeWinds News",
+  "title": "‘We’ve got their Strait!’ Trump dashes hopes of Iran deal",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTh1OXFyZkJUU0xRZzQzWHhfeUxoVDVfY3ZhNEVJZE1BR1RicFhnaWpJTzQ5b3NuTDZJamtyNDFpNHVqTXNIM3kzNmxCbkV5T0RHXzF0eGJlbm1meUhpblFiOWJvWlNRdHJ2dTh3RWhqLW0yZXNGNmZybXNmMWVKb2tjWVNQVHMxcFpVTU50U1I2bWtlQzhVYTNJMUtwV1U4MEdEa2dHVFpHdw?oc=5",
+  "published_at": "2026-11-12T15:00:00+00:00",
+  "sent_at": "2026-11-12T16:10:54.598428+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0996,
+    "XAUUSD": -0.3614,
+    "BTCUSD": -0.2441
+   },
+   "60": {
+    "EURUSD": -0.0664,
+    "XAUUSD": -0.031,
+    "BTCUSD": 0.1507
+   }
+  },
+  "checks_base": "published"
  }
 ]
