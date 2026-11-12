@@ -16716,8 +16716,27 @@
     "EURUSD": 0.0553,
     "XAUUSD": 0.2012,
     "BTCUSD": 0.1685
+   },
+   "60": {
+    "EURUSD": 0.0332,
+    "XAUUSD": 0.1986,
+    "BTCUSD": -0.1479
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Fed’s Daly says more rate hikes likely needed to fight inflation",
+  "link": "https://www.investing.com/news/economy-news/feds-daly-says-more-rate-hikes-likely-needed-to-fight-inflation-5022988",
+  "published_at": null,
+  "sent_at": "2026-11-12T19:01:29.177997+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

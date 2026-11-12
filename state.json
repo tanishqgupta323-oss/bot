@@ -621,28 +621,10 @@
   "calendar_fetched_at": "2026-11-12T16:10:51.426828+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 123,
+    "count": 124,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-31T14:40:51.341813+00:00",
-      "t": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases, AP analysis finds",
-      "w": [
-        "air",
-        "aircraft",
-        "analysis",
-        "bases",
-        "buildings",
-        "defenses",
-        "finds",
-        "hit",
-        "iran",
-        "mideast",
-        "targeted",
-        "then"
-      ]
-    },
     {
       "at": "2026-10-31T16:50:49.002385+00:00",
       "t": "Middle East on edge as fears mount the Iran war could restart after the midterms",
@@ -3576,6 +3558,20 @@
         "sellers",
         "tumbles"
       ]
+    },
+    {
+      "at": "2026-11-12T19:01:20.493139+00:00",
+      "t": "Fed’s Daly says more rate hikes likely needed to fight inflation",
+      "w": [
+        "daly",
+        "fed",
+        "fight",
+        "hikes",
+        "inflation",
+        "likely",
+        "needed",
+        "rate"
+      ]
     }
   ],
   "resolved_events": [
@@ -3606,6 +3602,16 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "2aa1a42d883c8325120fa0134b5ec71062235a1c1b54ec363063dc0f9e5026e8",
+    "de39edc499eec8c5c423bff2be7e54f9c03a346d21797324d3c01f04e769c44b",
+    "acc250e33b855b3f8b1b5920c29504ebee2b49a3a5ec42470a59c0bb89c29b77",
+    "f9119e269dd82c6556922f1d9874ac4e7b4477f70f438219c3329860399bd94d",
+    "1464347fa5c6477eaf7981800651def715cb3824d09bf69a97afdc3f83d5556f",
+    "2733964392f677bd29600d406a9aa8af8a7b1a4aeadd577e90255f0a2d594153",
+    "bc15503069b3b01ee3b8324c9e69a1a54cfc4b8ddfcaeb48ce673fdcb285be43",
+    "a8c33523c59a55456adb492c007b48fd0e2a0009703897121e8658047c2349e4",
+    "493c5c278f1d43d4523d01eb964974182c6e1786000f8dede205c697fd15e8f5",
+    "330868f17453e6fb1ee6c6dfeb7b3e0357bab11e739d410133cf1fc28ccb346e",
     "33534e8b0437c0b4b33ba2046b706422d592fa217c7fefc66862af117290bc55",
     "d0ab55b76e053fd908b1571b4442b55cbe31c39cac367c399048a5c2d8ae4d1c",
     "f709251441653e0f55e577e97741b4bc81b843f03a995dccad7cb43454b64d86",
@@ -4595,17 +4601,7 @@
     "dc0c67fd84290f8a10f62f91673052f8d26bf8b29063e5475bcefdfbbc4609ec",
     "b67696e4df3a46c652ff35e3112b0161ad2a427a6587cc017d48362c2b984df8",
     "5cf5a02e25fc576b94511b07b8af4c948d1d64d9fe542cf139409bf95d3fd500",
-    "a8c388799d7f078c1db9bf165c944820fa1a96920acc4fc03df06f36c812e698",
-    "fbf42816d69de1778e8d16492e2477014f73caa552bc4d7f4b201efecf056252",
-    "e24ecd6840f653364c5cdd180a1c7e572d3260145aca0f042c368fb944101ed3",
-    "0234ccf945dec6593cee276358465c7aa1e3cd86cc4c1578b996ef37dc9f8e12",
-    "6e9b9f6ad57a721f0570d4e0b4af7cc1da798304cbd67d5e257b74d742a03b71",
-    "ba410ee66c58f0ac97c50c5d4b2e6d89904e8caabdcf71fb590e27a7fa84952d",
-    "01faff016f3db5cd6307c075ed101109a358118e81964f3a2a18ef72df8bc9e0",
-    "198c4194f821a955b75aa3c7d26e48b70813b9b57461727ea403c3912428e2ab",
-    "79ac2c27905d972dbc8a4a3e32c14ba278fef522125b7a1161a7acf86646cbaa",
-    "f75ca669c43dafac004ef9308b1e18a828f6f201b9636d9651c5303a4937c140",
-    "52c7fe9f9e6b29381b5e8597c88b76215c5cc5080d062d9ba76780b36e2aaad0"
+    "a8c388799d7f078c1db9bf165c944820fa1a96920acc4fc03df06f36c812e698"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
