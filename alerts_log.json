@@ -16386,5 +16386,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Deutsche Bank sees 3 straight Fed hikes after hot CPI, adding a January move",
+  "link": "https://investinglive.com/central-banks/deutsche-bank-sees-3-straight-fed-hikes-after-hot-cpi-adding-a-january-move/",
+  "published_at": "2026-11-12T02:54:16+00:00",
+  "sent_at": "2026-11-12T03:05:36.554570+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

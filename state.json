@@ -621,22 +621,10 @@
   "calendar_fetched_at": "2026-11-12T01:05:41.713965+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 189,
+    "count": 190,
     "day": "2026-11-11"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-31T02:20:51.412342+00:00",
-      "t": "Explosions in Hormuz as Trump says Iran ‘wants to talk’",
-      "w": [
-        "explosions",
-        "hormuz",
-        "iran",
-        "talk",
-        "trump",
-        "wants"
-      ]
-    },
     {
       "at": "2026-10-31T07:25:39.305476+00:00",
       "t": "Diplomacy or war? Qatar signals Iran breakthrough as US warns Gulf states to prepare for war",
@@ -3568,6 +3556,23 @@
         "hikes",
         "inflation"
       ]
+    },
+    {
+      "at": "2026-11-12T03:05:35.398151+00:00",
+      "t": "Deutsche Bank sees 3 straight Fed hikes after hot CPI, adding a January move",
+      "w": [
+        "adding",
+        "bank",
+        "cpi",
+        "deutsche",
+        "fed",
+        "hikes",
+        "hot",
+        "january",
+        "move",
+        "sees",
+        "straight"
+      ]
     }
   ],
   "resolved_events": [
@@ -3598,6 +3603,10 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "198c4194f821a955b75aa3c7d26e48b70813b9b57461727ea403c3912428e2ab",
+    "79ac2c27905d972dbc8a4a3e32c14ba278fef522125b7a1161a7acf86646cbaa",
+    "f75ca669c43dafac004ef9308b1e18a828f6f201b9636d9651c5303a4937c140",
+    "52c7fe9f9e6b29381b5e8597c88b76215c5cc5080d062d9ba76780b36e2aaad0",
     "36aa322381beb7ef0768cfc6310df7dd168e96bef79d21f8d82ddaca445208b4",
     "f6d26d6621476f0b2c504f93702f0e5a03fafa133955c494bb2156e592dc883e",
     "45265db7fa05cc230096839d9e4c28958676bbeb0eadc707df94ce336c3f67fa",
@@ -4593,11 +4602,7 @@
     "e930372c943ae74568bfeac4aac4c1a7b06d3f6f9e8b25cac73b7edd48c630e4",
     "b67696e4df3a46c652ff35e3112b0161ad2a427a6587cc017d48362c2b984df8",
     "f0ee6724845a5005e8b1d417500f31ed683e6742405732c3206b30306120e333",
-    "8e3b6b97335a0f3d63fd0d4a4ba6a81db0d9d2a73ab541dc2494ab1071b02e4f",
-    "0bd3473a36193a6440816e6171581c213bdd613f3b10d60f62336b107a2a0b43",
-    "4ad3e7dcfbf795995536e61203163ff152c5191164fb711397a84e352fc1f446",
-    "5ca74019d8df24fd9266953370c6708312517a15158c3cdd0fe09c4e177997b0",
-    "b623ed8196bba93b4285d02a3b34395a4c12da5c7088737f2dac13f170e2b5e7"
+    "8e3b6b97335a0f3d63fd0d4a4ba6a81db0d9d2a73ab541dc2494ab1071b02e4f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
