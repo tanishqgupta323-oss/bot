@@ -16542,5 +16542,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Forbes",
+  "title": "Serious Fed Warning Triggers ‘Significant’ Bitcoin Price Flip",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUUY3aEJOb0Nmekg5MnBYSXdkLWdtU0UyUGVZQWJyTkkzRldRd0tmbzcyZkZuMnJmX29Rdl93eTd5eWhYRmdJQ0FMNkhXd1dRTGZhTjBJWFpoRkRqZnhLU0trRGxCaVY5QTM5WWVQNmVFWW1oVFY0U3hpeE9Jc0ItRnJBbTVwYkhzaUc0WDdMNmJVaVlJWkdzUFdHQXNkcDVseWV5WmhnRV9SWFBOU3lsMEszendGZw?oc=5",
+  "published_at": "2026-11-12T12:34:59+00:00",
+  "sent_at": "2026-11-12T13:05:55.948584+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0076,
+    "BTCUSD": 0.09
+   }
+  },
+  "checks_base": "published"
  }
 ]

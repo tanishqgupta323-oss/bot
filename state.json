@@ -621,26 +621,10 @@
   "calendar_fetched_at": "2026-11-12T10:10:45.657227+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 57,
+    "count": 58,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-31T12:20:52.504301+00:00",
-      "t": "Investors Pull $643 Million From Bitcoin ETFs After the Biggest Crypto Hack in History",
-      "w": [
-        "643",
-        "biggest",
-        "bitcoin",
-        "crypto",
-        "etfs",
-        "hack",
-        "history",
-        "investors",
-        "million",
-        "pull"
-      ]
-    },
     {
       "at": "2026-10-31T12:31:09.160587+00:00",
       "t": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
@@ -3577,6 +3561,20 @@
         "weighs",
         "zcash"
       ]
+    },
+    {
+      "at": "2026-11-12T13:05:36.755526+00:00",
+      "t": "Serious Fed Warning Triggers ‘Significant’ Bitcoin Price Flip",
+      "w": [
+        "bitcoin",
+        "fed",
+        "flip",
+        "price",
+        "serious",
+        "significant",
+        "triggers",
+        "warning"
+      ]
     }
   ],
   "resolved_events": [
@@ -3607,6 +3605,16 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "52e5fbfcf9609b37b6049b70660e92e49c37b8b3074622b061a8d4391785abc8",
+    "03697d52f2ab17f07361f4d40fd7bea0015b8b49067ea9d083087cf270d53665",
+    "cf2bfb52b5117d1bddb5735b17608f3d262731db8cf38a65316fa90f4f4b7900",
+    "92daaaa1c9d92ab6564265f3de9086bf1935807cd0fe0e8ffbadc80d4b76340b",
+    "a35be3aae0fca584301d72cac2663e145237b29068e53a35b5e61d1c1cc5f6fd",
+    "fae9fe6b500ebbc19af361ef9da9f59c3806b7662986e5f131d10d5c6e4da8f0",
+    "0b369519b3d3dcbe0385c1c0ba9121a4fd953f26b68ef87e5927d3a01dbe368b",
+    "f9a1c6b5354f7cf3831e2163a23f82353c17d116376163f19dfab18a146e41ea",
+    "1105cc03160dd4f333216e567218e42b5c9fbaf0dd4c742cb45acf8ef735c9f3",
+    "2ffaa091610d4106fc5e65295d85fec9a96c1d22022550166653b67cd41b5fb2",
     "7e8d86c9192248a292036c4abfe9b5c3ad9b53e6021521bbd41387716f9300e3",
     "a364e7f95e61f385f59aaf3396079fc7e1168ed02a1f4fe3359bd73cd543b429",
     "f631544234c24f0827b2fefbb27c0c3feea380e8cea01b8823dafbcf234a121a",
@@ -4596,17 +4604,7 @@
     "8af834a371344b2e3d5c6023b195716aa7e8bc014f095319a83e503cb784eac4",
     "3ae354d8b08bdc382a098ed9c78ef3391b0c091828d940c07d4df589c6d77043",
     "d5db9e26fa50ccf45fca0228731c82c93ad7eb44e2cba2265448fa6f4af27245",
-    "814801db704fceea4d6cc5895c4a644378d4063db77506872d7702c874bcf3b2",
-    "8fa7d1b9e97c945b29816545cb2e381d3491a241485d6e2b577818515131a47f",
-    "dd2f8c8bcea5fc89d843b65b10f947d38f1066044c952e1698f8812aef5de66e",
-    "0a7d8cdbd00eb19c5fb40be9b03bd6ef89c2b321c1920d5e313b84888b089477",
-    "b7687301cdb97177c3220b37cbecb76c6baeb0fb7806d6ddb62252a72ae6323a",
-    "570ac4d65aa1ec98980267ac669226f0554b1803678a0c393f3b60bddd8761f8",
-    "d0d6dabb3b096447f7fda0675ebcb4e4de839a00fb070651b441f77dca86dcce",
-    "b3be5e583e6ac64a1a56ec9b132fdc97aef6c9a28f3529599e4843b784aa63f7",
-    "cfd989615599028b6d307f3287395a88995548e8e103ef4271327821b8f8f86d",
-    "ea6c0f39bc033064a7a739bc0a11c53ad63ebb0a8ddf53594bbb4cd5adb9a163",
-    "e0270a973966b058f2e34b5098586c8d8ca8e01caa01ef80d92aeec40f0f64fc"
+    "814801db704fceea4d6cc5895c4a644378d4063db77506872d7702c874bcf3b2"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
