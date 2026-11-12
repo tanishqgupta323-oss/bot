@@ -345,17 +345,6 @@
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "a63e2fb5e3159a306e981b99",
-      "forecast": "-",
-      "impact": "LOW",
-      "previous": "4.37%",
-      "scheduled_at": "2026-11-12T16:14:00+00:00",
-      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
-      "title": "Mortgage Delinquencies"
-    },
-    {
-      "actual": "-",
-      "currency": "USD",
       "event_id": "d1b088270b1ad75827099446",
       "forecast": "-",
       "impact": "LOW",
@@ -609,6 +598,17 @@
     {
       "actual": "-",
       "currency": "USD",
+      "event_id": "a37a64c56b71f74fc207b686",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "4.37%",
+      "scheduled_at": "2026-11-13T17:59:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "Mortgage Delinquencies"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
       "event_id": "78d6f18da98e4b89bf4768c4",
       "forecast": "-",
       "impact": "LOW",
@@ -618,10 +618,10 @@
       "title": "FOMC Member Jefferson Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-12T16:10:51.426828+00:00",
+  "calendar_fetched_at": "2026-11-12T19:15:44.003862+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 126,
+    "count": 127,
     "day": "2026-11-12"
   },
   "recent_stories": [
@@ -3602,6 +3602,9 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "eb3f4a63df1907c79cef469eaddd7cbe93adfb06cf59b8888aecf343b873c8eb",
+    "9847e2f8203f158821623235db772503c0f8b57436452b9ee68991abfdffe8b1",
+    "ca19e7fee5ee4ffd5f614a665d1cb947bcee632d657e9ee6448208b9a174bebc",
     "bfdc2371f9581e56124a4c8b716f151f8d6e3c32ec6a69f9e5c533b7a17ba638",
     "9bf404dd65d0e374edfbd8fa78b0fe123269c0a1b7a25ef38f2270e4110dc071",
     "b50c68b505bb474cf414ff0e2d58d621eee3637625cd26c33b05624cb85f0363",
@@ -4598,10 +4601,7 @@
     "c13c0540d5b683c51f95c93744105470f82446deffcefded170f04674c9d0671",
     "0d8d7de19aa1b6c9e6c9b4233a1a3181f30ce0e6674efe6905ab3c0209a4cb2b",
     "bd6f139d5e34129d3c67c7f919a81038e634897f99ac30220124f178dbe86213",
-    "9948ad0ac7ccdedd04084a90ef9974f8c6bbd8ceab16fc4097e287581b798d1b",
-    "8a65aa922924daec42408c755c89b88d10baff9bd999ad586984f27300c53dcd",
-    "0f286e15f232c942d4272aeaa389659b08eaf9d0bc360802cbb042cc5aca3f32",
-    "d8fa29c4d454db9e806246bb33fa3e02a99ba649a01319ccce68a6ba8f80a864"
+    "9948ad0ac7ccdedd04084a90ef9974f8c6bbd8ceab16fc4097e287581b798d1b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
