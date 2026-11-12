@@ -621,25 +621,10 @@
   "calendar_fetched_at": "2026-11-12T19:15:44.003862+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 130,
+    "count": 131,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-10-31T16:50:49.002385+00:00",
-      "t": "Middle East on edge as fears mount the Iran war could restart after the midterms",
-      "w": [
-        "east",
-        "edge",
-        "fears",
-        "iran",
-        "middle",
-        "midterms",
-        "mount",
-        "restart",
-        "war"
-      ]
-    },
     {
       "at": "2026-10-31T16:55:36.706273+00:00",
       "t": "Khamenei Orders Iran Military Response ‘Without Geographical Limitations’",
@@ -3572,6 +3557,20 @@
         "needed",
         "rate"
       ]
+    },
+    {
+      "at": "2026-11-12T19:35:35.357005+00:00",
+      "t": "Iran threatens US bases in Europe if Washington resumes war: What to know",
+      "w": [
+        "bases",
+        "europe",
+        "iran",
+        "know",
+        "resumes",
+        "threatens",
+        "war",
+        "washington"
+      ]
     }
   ],
   "resolved_events": [
@@ -3602,6 +3601,11 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "848e31756f5f25b6785e75829d2f9cd806d7bed2f8999573b13f1cba835bb84b",
+    "e1804d184ebc8224ec5aed81be5dcb246b5b4f513996b02c4e2c8d0deb9100ab",
+    "79f0db7399df3a1f0e801689668d9a88561d1b0c1d437750a6a5f96543084f83",
+    "895642e4ccbad6c1d3870123fcf1bf1d36f499312760b6e463d95fc8285449a0",
+    "ecbf19d9a6d4e5f697b1be32e0cfecaf23e11f13bf3f7508e8ffe3fd7f6bc340",
     "58782d9906ea506115b92a4e0a52558ef1b7dd0bc466ef7ca6e48d33d977d4e7",
     "29b1ea724a6700d9d87035c8ab44bb7dfa3909a415195b8c7885ce23b7b2fc9c",
     "c57530ebf81462d66c88d728f73babcb3cfffd873d0b9222f1809584ccf3a45e",
@@ -4596,12 +4600,7 @@
     "476ea4786cab542768a91969ce556b69c7ab087f9fe3e4e72e1b27a3edf6821c",
     "e289080fd166dee6b1323c8ae9c046d24f4f1391f43744b6b8545043c6446bb1",
     "843a16b7210b44f57772ec6db1e79c58499943ed48196c7ec6f78392c048b9b6",
-    "aa8bced0867b3143d1920c689e6eca8803fabf442e1903bfa00e1c4d912844f5",
-    "e9ebd14daada0b89f694c3f2d2ac5ded7939c0df5dc5c16f6439d472ea52a4cd",
-    "32cca59cb5357430528691d505c21a5bb191d1632273dbfb2d36985a3ef5d804",
-    "99ba407af3e753e3f1f8a8a676a2a29de31d5c0f5564364e40acf9b6bb0ddcaf",
-    "676dc19b258b28b435a0c934063e30700480e4c0a7539779dd710a0caff71c6b",
-    "e412145e2cac6c075c4e8203fa4fc0c214d1daa056466287e2d9ff7006faaa67"
+    "aa8bced0867b3143d1920c689e6eca8803fabf442e1903bfa00e1c4d912844f5"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

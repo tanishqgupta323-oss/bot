@@ -16745,5 +16745,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al-Monitor",
+  "title": "Iran threatens US bases in Europe if Washington resumes war: What to know",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVF3VHpiZFZDTjZnaTAwbWJIVzEtcDRyWlk4b2J5cjZzUHJ3SlZ1aWNpV05NY0RnTjY3amR1UW9ZUTVXaml3RkZqczhYTVE0SjExQmFhNjV2bnNKV3JBdTdxaXozWlN5dWlmbmVlNWF3ZXhUNXA1QnVOT3k1dFNnVUJzYlhoS0FQSGIteWxRVWJRV3Z4MFpGa0steExpZ0RNeWZSVFFZdFVBR2ZJY1BoVw?oc=5",
+  "published_at": "2026-11-12T19:29:00+00:00",
+  "sent_at": "2026-11-12T19:35:36.720842+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
