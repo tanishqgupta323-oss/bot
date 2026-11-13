@@ -621,23 +621,10 @@
   "calendar_fetched_at": "2026-11-13T01:20:46.588214+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 220,
+    "count": 221,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-01T12:25:37.353402+00:00",
-      "t": "Gas prices top $4 a gallon as Iran war escalates",
-      "w": [
-        "escalates",
-        "gallon",
-        "gas",
-        "iran",
-        "prices",
-        "top",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-01T13:01:23.259203+00:00",
       "t": "Iran warns of 'geographically unrestricted response' if US attacks",
@@ -3581,6 +3568,23 @@
         "trade",
         "warn"
       ]
+    },
+    {
+      "at": "2026-11-13T03:50:46.031722+00:00",
+      "t": "Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows",
+      "w": [
+        "600",
+        "august",
+        "bitcoin",
+        "crypto",
+        "ethereum",
+        "fall",
+        "liquidated",
+        "longs",
+        "lows",
+        "million",
+        "nearly"
+      ]
     }
   ],
   "resolved_events": [
@@ -3611,6 +3615,7 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "00e59b194d6243f214dacb4e20766adab109852e04cd145382dcb590e496b671",
     "92daaaa1c9d92ab6564265f3de9086bf1935807cd0fe0e8ffbadc80d4b76340b",
     "ca864d1c47d47f7ab4e3dd1cb4dd9956e433c7f37db6f3595d55232698b462c4",
     "03c6368290b886345a63dcae185744ea2c236026afd7286abce1dd8b6295a084",
@@ -4609,8 +4614,7 @@
     "8cf35d8a5bebfd2880b9cb35185c13eb70d5fb631333ca5b82360a342d802546",
     "8e3828014019c16758d64d614f2bc7799aa0f90a1301034eb5e79079d3585636",
     "28087ee531d47246480d6cb45b99436b4c8de76c17e01b51ca99398099c16b08",
-    "d27a6dd71fe85301a45ddf708ced06f385dbc8f35c021ff743ffe2ba2eedcdca",
-    "baa3d08a7d2d9592c750fea0d0f9ea8fdb1540c9a2496c1c3c6e654dc28b230c"
+    "d27a6dd71fe85301a45ddf708ced06f385dbc8f35c021ff743ffe2ba2eedcdca"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
