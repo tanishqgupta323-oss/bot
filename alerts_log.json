@@ -17517,6 +17517,27 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0442,
+    "XAUUSD": -0.1077,
+    "BTCUSD": -0.0057
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Democracy Now!",
+  "title": "Iran Says It Blew Up U.S. Early-Warning Radar as Trump Declares, “We Don’t Need a Deal with Iran”",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcU5UMWpVR2YyZ0Vhck1zNlI1eHZaWmJOR09DZ2tXSnRTbzk3Qjl6dTNNX3dtODNZaGtJQklmcjlFZ0lLeTFaNnpTWWl6cHMxMVcwTWd5RnVRVXhDVVY2UHhYbVRXTkhnTTNNM1Bac25BaS1wdnYwLW5kanY4SHExWW5zU2xtOEwtb3pMamtuZlZTRzZRQVh2LWoxRnFWRVVKMkM4alVvYlZTTTNycU9DRVZfdldDcWUtTzZnR1hoSUZiY2hwV1l5cGdFRVFGWlF5dHhYRF9qanU?oc=5",
+  "published_at": "2026-11-13T15:01:55+00:00",
+  "sent_at": "2026-11-13T15:11:04.733965+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]

@@ -624,28 +624,10 @@
   "calendar_fetched_at": "2026-11-13T13:31:07.787338+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 93,
+    "count": 94,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-02T05:05:38.472583+00:00",
-      "t": "Gold’s slide to one-year low: margin calls amplified a fall driven by Fed hike bets",
-      "w": [
-        "amplified",
-        "bets",
-        "calls",
-        "driven",
-        "fall",
-        "fed",
-        "gold",
-        "hike",
-        "low",
-        "margin",
-        "slide",
-        "year"
-      ]
-    },
     {
       "at": "2026-11-02T05:45:50.491900+00:00",
       "t": "Trump may attack Iran with nuclear weapons within days, Tucker Carlson warns",
@@ -3602,6 +3584,22 @@
         "tariffs",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-13T15:10:45.501592+00:00",
+      "t": "Iran Says It Blew Up U.S. Early-Warning Radar as Trump Declares, “We Don’t Need a Deal with Iran”",
+      "w": [
+        "blew",
+        "deal",
+        "declares",
+        "don",
+        "early",
+        "iran",
+        "need",
+        "radar",
+        "trump",
+        "warning"
+      ]
     }
   ],
   "resolved_events": [
@@ -3633,6 +3631,19 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "e7ea6ae008ee454a5e08bcfc62a672bfffc4bbb8fafe6e47b15b364cd11fee01",
+    "e53084f0c6d01b9078f070523fef16187c14b3a7674998af1200611f84ffc2e0",
+    "e843d9e32fe854173a89c498885b3f1a29013b69bb6c04da0eeab7ee70d396cb",
+    "e21194163c370669b3a118e3101c377670372b2c6ff9aff80f3bdde7bbbf608b",
+    "8d71f1a1dafb99180219bfff8d31acb41d477ac478650610ebd209d20ae630fe",
+    "a3f09ec2883e0caaed88773d35e5ed08f2c090643cf8deccff95e26878eebcf5",
+    "3f5041ff7d921a24da8db10dae54fb923a0165348611657c0044bad173103fac",
+    "472d5d6191c2c92c326f2fa96cb5d13900627daa24b72ed3187e5216af551bcf",
+    "e386053d137a4cbdc52a9990494ae492d2a2ebb88bbf2190cdf9f6673934d218",
+    "6e6add45f9426e11d27d3bcc01c4b719893d5b578523be236a8768e61cdd7783",
+    "fe42d49d2281ae71bd1674bc6418075a985963d4ce7a60f7a4f243609db5939a",
+    "a16df49607640f08f4f040e528a13d198999cddfcb11c7bec5a63eb615a7281e",
+    "1cc72473f26f9e2c8e20380436e48fc5aaee7dcd58becf8a97c6f0230e5975de",
     "07e648ca0b419ded1e391558f113b8e1e546d4ab5c9b66ed361a385446f9b0ba",
     "54627cdc42d1ea6cc214e025a217e15f7370cc72a660fda6c7e4314e144fc213",
     "4abde18c44fdda703bc34e6e41b9d0b260b2b4dc4eed3483d1d9d1b1c26ff78a",
@@ -4619,20 +4630,7 @@
     "b752f85e7a918c3c7ccfec535091aa0bb3a5be1b6edc168560ca6608b7055a0d",
     "528ae7a539d34af47a51e769685f15866a5aca49e798ec8c38938afee9c4f4c4",
     "7526804c8673a30662a760660d919ea623f4e4fdd7bcc2e2196698f16550a82f",
-    "9de09eaafecb5f5da62eb50b50ab80f6589067e6596850da1e35f03278e1af71",
-    "66228dd715daa520c97c9fcf607d35a157c8053b1f8786e915e7004a7b413a10",
-    "6e44c5424e229e31c2181f5bca2f42945a3a1553988d3d88f4458bda9c1f581c",
-    "9f1bc07ba7f45703a2c1875b5a1378d202ed9d0c9656069803061a01e4be85eb",
-    "a4b4501ca618067bf353396c6b733d581c8ccc3c8dacf8c1922e9de92601f5ca",
-    "7b85ac3056cc47b007fb5bfa78ab80d6d2986a88254fa4a1d562fbcc75e09a80",
-    "6c9e9552e54f7888c5153146342930e4afeb975d7a3642297cc13592d721dd66",
-    "e21dcf106e8ef32ea588fb5cca9fdcfa04533a33ce0ef4c30096cb078b2172c0",
-    "838e08dc7a8ec5afef447402447ad7bc1b3f429cd18c2efeae3ace66198e973c",
-    "8e69c386c6181a8e1edaf74ea17e701765bad16870457ff73a8abf209315abce",
-    "3005f1971e0d5242df0d3aa787694c0a772d4a91d6f61ec2bb84a22e3f0b3436",
-    "d99e7c2f3be94391aa07da52e54a345f81891bd08eb5661d4974816c04186db4",
-    "36be760d52a5084a87478cc316b358c6d68f37fb36a9420b1f1b40c294773434",
-    "1acf5a90b89510827a1e6d8a7fbc9ffec59bc4e614eff8e89a3ca97ab9af7835"
+    "9de09eaafecb5f5da62eb50b50ab80f6589067e6596850da1e35f03278e1af71"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
