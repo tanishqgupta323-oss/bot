@@ -618,42 +618,13 @@
       "title": "FOMC Member Jefferson Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-12T22:15:44.293521+00:00",
+  "calendar_fetched_at": "2026-11-13T01:20:46.588214+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 194,
+    "count": 195,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-01T05:01:23.268466+00:00",
-      "t": "Trump says US still has 'to take care of' one or two targets in Iran",
-      "w": [
-        "care",
-        "iran",
-        "still",
-        "take",
-        "targets",
-        "trump"
-      ]
-    },
-    {
-      "at": "2026-11-01T05:50:49.281285+00:00",
-      "t": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
-      "w": [
-        "binance",
-        "bitcoin",
-        "downside",
-        "faces",
-        "fear",
-        "further",
-        "hack",
-        "markets",
-        "rattles",
-        "risks",
-        "surges"
-      ]
-    },
     {
       "at": "2026-11-01T08:40:49.540239+00:00",
       "t": "Trump says US could strike Iran's remaining nuclear sites in '10 minutes'",
@@ -3576,6 +3547,36 @@
         "trump",
         "use"
       ]
+    },
+    {
+      "at": "2026-11-13T01:20:48.029283+00:00",
+      "t": "Fed’s Williams Says Inflation ‘Far Too High,’ Work to Do",
+      "w": [
+        "far",
+        "fed",
+        "high",
+        "inflation",
+        "too",
+        "williams",
+        "work"
+      ]
+    },
+    {
+      "at": "2026-11-13T01:20:48.029283+00:00",
+      "t": "Gold languishes near 13-month low as $96 oil fuels bets on bigger Fed hikes",
+      "w": [
+        "bets",
+        "bigger",
+        "fed",
+        "fuels",
+        "gold",
+        "hikes",
+        "languishes",
+        "low",
+        "month",
+        "near",
+        "oil"
+      ]
     }
   ],
   "resolved_events": [
@@ -3606,6 +3607,16 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "b0770bd95bf315a6a84e4fbe2e7f92a5641b5ea5597fc299e9fa53093d56097e",
+    "86f2c8f35c9102b86c568f8770583ab9c76a5da02ddb8ac0573b9decde5b1c9f",
+    "c1f2f9b77362fb1554f0eab9591548435f141fc98c0bf94efc17c1259246a6e6",
+    "cdb753d4398cfc5ddd7301c1cf1adce55b0e51505251bf4f501472659fef33a8",
+    "2e5b73ae9436f0a83692bff74fe2de3b4fc035dab561bc4705d68c39f0160028",
+    "98cf8c178ef91605143b6b3f9b61f3ebe041d7d94b282fd2ba3d86daf984ad2f",
+    "a1e39c098804f237c7eaa6bfebae4481d127229e153ab1cd13dd807d87e78a36",
+    "9aedbc39abb640408740e74210e9e17ee2931da6854c6591fde89277b545b882",
+    "bd0800376b0aab7d5a9dc05f28cacfe85d6a82ed4a59b6f287bb86ca0133b8ab",
+    "85feeabd37e0fe5578938c81878fed0e5b850de67ceb151ddc103d7ad2401eb0",
     "4828e4b6bf53c8e85ba2145a6b4add9f15feb9b52a338bf93e7d521bac308c16",
     "184c6b7572f3af527d28495053b85a399db07b18c2932c78c1c920be5c6c13e9",
     "52154e3123040389ff3ca5f1e59b785c7c4020f8adf47a83b89a83304e430c88",
@@ -4595,17 +4606,7 @@
     "49adbf5c070b758dcdfd8124f288e1eb7885671f13888c049615b10f8c6965fc",
     "0c1f1e837fe76ce859e593d83e9194707492c6a83717a38f7495eccc880980f3",
     "88e8ca49f22798d598107c32fa5ab258ae4ae8bdc0d7d2e64f367ac6dfadb458",
-    "29d79aced249b79bf6a5c2c763ed62816a0dd4a621ea042bcdbc9b96bd41f825",
-    "c134f09aa5ac9e6f7c83c88866586c1edafa98281b952b6c25f3a6b148d2627c",
-    "fefe970136ceb521c15a1b6b10b642a59c14dc643bc7f17c9764f860d54f1f20",
-    "3c5e18800c579e20ba0807eafe3b4971bad1ab52ee95d13d3ba4caa55e8030b0",
-    "b2457d08db46b3667c2aaac89c9166af74cf0948b4c03ec76df0b3af1d625181",
-    "25b8df8db96fa4c45decb63d3866bdb31e07e0e0ee5d77dd1eb34554d880e5f2",
-    "f30a9c91c85a9aaa4e45fbf05b7fcc0e4948a2e1b0c7978e9ef335da278e2031",
-    "66d64cec831261f9f594474acd031608bd32343b9751c1f144b44563443c3416",
-    "0ea65f6e97090c5f182150d3eac0037622c9e0e3714947ac5230447653d4057a",
-    "5da370650e14375094a7fa5bbff4ea5a2123ea14ed48382cd2c5e40c57b1d3b9",
-    "2717384943925801377a0ebef091c18c60fd821a623da5e77a67a51a1d213c87"
+    "29d79aced249b79bf6a5c2c763ed62816a0dd4a621ea042bcdbc9b96bd41f825"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
