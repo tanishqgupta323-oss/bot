@@ -621,25 +621,10 @@
   "calendar_fetched_at": "2026-11-13T07:26:00.703058+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 9,
+    "count": 10,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-01T18:20:49.428897+00:00",
-      "t": "Iranian army: War could be longer than previous one, Trump won’t dictate its duration",
-      "w": [
-        "army",
-        "dictate",
-        "duration",
-        "iranian",
-        "longer",
-        "previous",
-        "trump",
-        "war",
-        "won"
-      ]
-    },
     {
       "at": "2026-11-01T18:31:08.900562+00:00",
       "t": "Gulf braced for escalation of war between US-Israel alliance and Iran",
@@ -3591,6 +3576,21 @@
         "suffered",
         "tanker"
       ]
+    },
+    {
+      "at": "2026-11-13T08:50:47.899601+00:00",
+      "t": "Treasury yields rise as traders strengthen Fed rate hike bets",
+      "w": [
+        "bets",
+        "fed",
+        "hike",
+        "rate",
+        "rise",
+        "strengthen",
+        "traders",
+        "treasury",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3621,6 +3621,16 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "3176ad43023a73b1fd71a0cef4a8b3bb176bb5a6244ee2250996f42b7e8cf7f1",
+    "a7b87114591942de1c16da7639bd30a88c85435c3624b9d862b4a3fde8553f98",
+    "f4b5ba5696a714dfdd7fe1950262933a9c29742c0d5af7159c022e23e9ed03aa",
+    "46b4f5c1f95385d8570f34b2e58a8dc89e38bb02fae5f84fa2601944f6c0ae84",
+    "9e95a56d3b48c6523a7587bd95a4379c913b04be52030bbf7702d5f5b75d9390",
+    "7e5dddcdcad222678699bd2334489a2fb1371bef88373bca47256493d1cb3aef",
+    "56c1c49a77a41bd1cbaeebb82bee0f0dc2a6533874f79e97e544377f1caab294",
+    "26259891565b9f7b427bd1d9b27e76b87c6e47a712e6e55deaf18bc07b35c53e",
+    "55823e52d205b94275d7da28d499e829fd68bcd21c5a4295f9c06b0a48b7352f",
+    "99b0d391909cfc6c96ca099f0a497049281e566b869efb7d651d036473cec115",
     "a15ec003e6d71d0af612534a399ca0af791e4f2db2761c567e890be835fef820",
     "7508f5a8f946567a84b64da511ba4ce95d90d3100ae6941f7e0eff7dd6014083",
     "7bdd18b8d7bd98002d5658bd561172de66eb5c1b5711ada2b45578c23659fb93",
@@ -4610,17 +4620,7 @@
     "1050fb7fff4ff33aa3c3919138dd058a66984f79fc293be2d59d0576be831b8d",
     "a5d08e0142957015d013f6d2f041106603c51472ca669c6779461547837122f4",
     "5d2bf713adf91d0089d0d4dc47f4abf32a3cabec6ab3271e62f553511dd38496",
-    "30bef061d91edaa087001962bf5be1f5c67697a136a5a35171f4003215f3c7b7",
-    "fef6917fbab6911d524c157a144999d1a64ef0f9203954bfb40251070db91a39",
-    "75575369e7c99dffe3ab4dd1e6644ace26cd83f1d21080b95b131bb2c66c12df",
-    "efcdaa739231ead5ea2d6e033ed400c14b6fb4e1ec9db009a43f8953c8970580",
-    "d9188b45809cb4f643b8a4f0cad7bdb0cf6e1a08417b1a098f42e4a36eb69d33",
-    "fdeff35507cac76cd22fccf6d8ed1940bb4229b2bdaca1f66991907808f2d2c9",
-    "d03e506adb8189b68edf757acceadcd5614a395d385d67ebe4fa3314ed29091a",
-    "65671a9b20b5b160b7c8bc17597f18200a1bcacf8a45a8c66727c1ec267afcb7",
-    "9276ba55c2446098deadc2d9b20e64a41bd5e60c5f217ce6157cbbcd953f29b5",
-    "977aab6e3ba6a7a20cfb93ee0266a4983b1c97defca8c1dee683302a2b1c9a70",
-    "721cfcb22dcfc1a7569c6bfa0c17ca5b92ae5d390b4d1083c862387002e2f3bb"
+    "30bef061d91edaa087001962bf5be1f5c67697a136a5a35171f4003215f3c7b7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
