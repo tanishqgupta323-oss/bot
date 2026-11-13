@@ -621,23 +621,10 @@
   "calendar_fetched_at": "2026-11-13T01:20:46.588214+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 197,
+    "count": 198,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-01T08:40:49.540239+00:00",
-      "t": "Trump says US could strike Iran's remaining nuclear sites in '10 minutes'",
-      "w": [
-        "iran",
-        "minutes",
-        "nuclear",
-        "remaining",
-        "sites",
-        "strike",
-        "trump"
-      ]
-    },
     {
       "at": "2026-11-01T09:45:50.827219+00:00",
       "t": "Binance resumes bitcoin withdrawals after covering bulk of stolen $6.3 billion",
@@ -3577,6 +3564,21 @@
         "near",
         "oil"
       ]
+    },
+    {
+      "at": "2026-11-13T01:35:35.575233+00:00",
+      "t": "Fed Hike Bets Outrun the BoE and Push the Dollar to a 19-Month High",
+      "w": [
+        "bets",
+        "boe",
+        "dollar",
+        "fed",
+        "high",
+        "hike",
+        "month",
+        "outrun",
+        "push"
+      ]
     }
   ],
   "resolved_events": [
@@ -3607,6 +3609,10 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "ea33bf224e35c41a94849687a3c6a47c6cc08d1b1170d42b2caa8f8c23e903e7",
+    "a2514f3881ff99fb56aa5a4e481a18d03bb2b3457a844f32f6676250f9f8755e",
+    "6cf7d804d1b2adfe3f1517a1e08be9065c7b40e7e77a08ac7116412833b8d0b5",
+    "b6b69946d6f966f418e54fdb322b4c4d8e9825ce92d5b31ac56c2fcca2a9f688",
     "9f8236ef867bab509775a1fbcc9b16d2970e9727c5824b1248be3e0d7bbe27ba",
     "d38778eda0697e6a480ceaa16b9b728fee4515bb8f062c0f02544d27ac54c987",
     "a1aee8d64ee4aeddd52eb661db4bc2152684e89feaee29c3ab834dd7e17134f8",
@@ -4602,11 +4608,7 @@
     "a90de4e5c7824a1bec11e34c9bf3f51a2018b5414b5871f2ddb9f0266ba8fd28",
     "3384e5d0a2aa0a8c09c9c9f1ca1e4a24fecbb54fd2ca58cda652f2c28e504ed8",
     "7928d3be8d01ade88da182a2e65c4b3af4fd1b11ff46de4a8afb3ba73553c1c0",
-    "0a9c44e9fd593f4e6e2fe97d3bb44d03bc04760ee7911e1ba23297bf9829d476",
-    "9275ae5de7b9cf3aee6d376c8813f1117d417bd9f112b3b03273191275604cf1",
-    "c84c91bdc621a8843fd7116cb940182f882950bf902023fe9d74eb601182df89",
-    "e63986a920e8f5561d4776c3b5f6989532c8848ef5fc1e3c0e340cfb00c853b3",
-    "49adbf5c070b758dcdfd8124f288e1eb7885671f13888c049615b10f8c6965fc"
+    "0a9c44e9fd593f4e6e2fe97d3bb44d03bc04760ee7911e1ba23297bf9829d476"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

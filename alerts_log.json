@@ -16946,5 +16946,19 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "StoneX",
+  "title": "Fed Hike Bets Outrun the BoE and Push the Dollar to a 19-Month High",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh5X0FvMDZKaG5LVmlIZWtQVE1IdE5JcDBkbW93MXRwQ2RHNWM1S3hCaWhsM01JMXp5TTNfcWc5bzVNNUVmd2JnNTk5cDN2SU9URG1sNjB2cnQzbm00eV9CS3N5TzBYMlZ2QW55MzlXdExFMlNlYlJzMXBVWFRXckZkQ0Zkd2p2cmFMTU1reDdPV1dLbzVkLXZoOUpnbTNEMVQwckF6LXhWZw?oc=5",
+  "published_at": "2026-11-13T01:32:15+00:00",
+  "sent_at": "2026-11-13T01:35:36.345330+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
