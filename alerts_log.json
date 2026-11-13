@@ -17140,5 +17140,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Reuters",
+  "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
+  "published_at": "2026-11-13T07:00:00+00:00",
+  "sent_at": "2026-11-13T08:40:47.024726+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0553,
+    "XAUUSD": -0.1433,
+    "BTCUSD": 0.049
+   },
+   "60": {
+    "EURUSD": -0.0996,
+    "XAUUSD": -0.128,
+    "BTCUSD": -0.7269
+   }
+  },
+  "checks_base": "published"
  }
 ]
