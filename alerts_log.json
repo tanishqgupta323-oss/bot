@@ -17291,5 +17291,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "IranWire",
+  "title": "Trump Threatens to Destroy Iran’s Energy Infrastructure and Factories Within Three Days",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM2U3RGR2ekxkZnlVcWR6LUVkYjhDSDljZGh6dWFkSkEzOURWR204NVNpbnNmVnZYTDhVN2lvZjE2cU5PZTVHMzhiaDMxQ2JkUERkeGxWeTYtUERyajVPVTNfYjBOekZZajg0VXN1QXFOQWxFUnZRQ0t3V3pid3RwQVg0dmN6ZnFYVXpPcHowLTNVUzdlSDdTYzJVQ0dqNi16dFBwR1JkbFA2YmVLWldNWGtWNEtnR011ck1OcUpTMlM?oc=5",
+  "published_at": "2026-11-13T10:41:41+00:00",
+  "sent_at": "2026-11-13T10:45:48.544257+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

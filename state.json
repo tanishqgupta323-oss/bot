@@ -621,24 +621,10 @@
   "calendar_fetched_at": "2026-11-13T10:31:05.660626+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 29,
+    "count": 30,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-01T20:25:38.000642+00:00",
-      "t": "Iran's IRGC Navy says two tankers 'exploded' after hitting mines in Hormuz",
-      "w": [
-        "exploded",
-        "hitting",
-        "hormuz",
-        "iran",
-        "irgc",
-        "mines",
-        "navy",
-        "tankers"
-      ]
-    },
     {
       "at": "2026-11-01T21:10:49.406469+00:00",
       "t": "Rubio: Trump is READY FOR WAR with Iran",
@@ -3599,6 +3585,22 @@
         "rate",
         "year"
       ]
+    },
+    {
+      "at": "2026-11-13T10:45:47.344398+00:00",
+      "t": "Trump Threatens to Destroy Iran’s Energy Infrastructure and Factories Within Three Days",
+      "w": [
+        "days",
+        "destroy",
+        "energy",
+        "factories",
+        "infrastructure",
+        "iran",
+        "threatens",
+        "three",
+        "trump",
+        "within"
+      ]
     }
   ],
   "resolved_events": [
@@ -3629,6 +3631,8 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "56b4982168564e0a65f3ff6373a6f9c0c27eeef1c9f402fe6e46431b755f3c92",
+    "3b7865770e761d568acdcb1e5c8099bc74382e5d3e2721fdb8afa18e0696857d",
     "749dc7b04ce19a266625d66125af11aed3bf95ca40f6758c022be25680c85777",
     "adcd973303df0bc22ab576a8a9ff11e004a2f34d2e84d046ecd16232a3430c5f",
     "c8f20e92222b8498a8f68e2a89d592344556cd0c9c63498396e6655272901035",
@@ -4626,9 +4630,7 @@
     "118532611db64880d488a783b8e18616f7425c551b5e7989b4b9f4519dca95df",
     "22e528802e07215c8cddd1fe7f7a29e180e0541b6056159122260f26db0c3b83",
     "de4cee0c2655f94aa1b8c0ff22911a1b884ea65576e5c5c831b633b900c6be1c",
-    "4e3822ac188f420c15465f0aff2dd7b92d58d06ebbab4048a01feeb3613081c0",
-    "7dd70a7c1972c34dc8f8e33612b2fe6f8716b23969eed954e9ff695ce43ef903",
-    "aac061fc94a84d659608049eed90f5ab925f7920e3d39212513017cb448bd357"
+    "4e3822ac188f420c15465f0aff2dd7b92d58d06ebbab4048a01feeb3613081c0"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
