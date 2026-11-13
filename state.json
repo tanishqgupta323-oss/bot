@@ -621,25 +621,10 @@
   "calendar_fetched_at": "2026-11-13T04:25:33.438360+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 230,
+    "count": 231,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-01T14:05:38.249238+00:00",
-      "t": "Iranian negotiators in Qatar to continue talks to end the U.S.-Iran war: Reuters",
-      "w": [
-        "continue",
-        "end",
-        "iran",
-        "iranian",
-        "negotiators",
-        "qatar",
-        "reuters",
-        "talks",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-01T16:05:40.335030+00:00",
       "t": "US, Israeli targets, timelines, priorities for a potential third Iran war",
@@ -3588,6 +3573,23 @@
         "slip",
         "triggering"
       ]
+    },
+    {
+      "at": "2026-11-13T05:05:34.979914+00:00",
+      "t": "US bond market cracks resurface as higher for longer fears return to haunt Wall Street",
+      "w": [
+        "bond",
+        "cracks",
+        "fears",
+        "haunt",
+        "higher",
+        "longer",
+        "market",
+        "resurface",
+        "return",
+        "street",
+        "wall"
+      ]
     }
   ],
   "resolved_events": [
@@ -3618,6 +3620,8 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "817ea123c53851d948cb5f9f9cf9c89841eb3d85c3a3b87c24d912a56c59a152",
+    "159b058f00668713c67f35da4a7d75156e8219866f1b989b3a28dfe89c346546",
     "2235e11c985afa3ef845e9c3a55fd25edf15e7217b07ee6768252cf3b39af2f9",
     "e78033ee45a63bb56c1e61caf85191ff00fefc79773a1612be2563d98ba52f55",
     "749e9b8858870442cfc489c49d2bad08c8485a4e4a0c47171bd07ffc47515934",
@@ -4615,9 +4619,7 @@
     "4985b62d6fec3237a0b898d07a76ac25681f65f33f0bb33e97d897374abe82d4",
     "1ccc6298244c7f6d69b1f57a541df05d1a1f7602319c98d2011836b1bd12c96b",
     "9d3845a94a1fd51ea2d28b25b50be26db2d2be0d976bbc79df38592ad029179d",
-    "dc0d3975f2212604b2ffefd84e958421a3221336bef3cc90997e2086999706fe",
-    "2c705a49a096fa2a0eb164d227fc29f877a00accf4e006b36440e8cf8d5dad84",
-    "f0135417f84068a1479eb32ff686065008ee291c9bbb506e7396adad4b7de194"
+    "dc0d3975f2212604b2ffefd84e958421a3221336bef3cc90997e2086999706fe"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

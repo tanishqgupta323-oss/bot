@@ -17088,5 +17088,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "US bond market cracks resurface as higher for longer fears return to haunt Wall Street",
+  "link": "https://investinglive.com/news/us-bond-market-cracks-resurface-as-higher-for-longer-fears-return-to-haunt-wall-street/",
+  "published_at": "2026-11-13T04:52:25+00:00",
+  "sent_at": "2026-11-13T05:05:35.878243+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
