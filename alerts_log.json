@@ -16967,5 +16967,19 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "StoneX",
+  "title": "Gold, EUR/USD hit 2026 lows as US yields erupt",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXZEdnZZOXZJRUxyUW9HaGN4Y0VQVkJOM2RmRW85cE1PcFdIT3BuQ3BndGZmdHZoaS1KOTlnMEpYSjZDRG5QWkJVQml5Q2tTa2U0YVhsSjFocmdtRzdrZ0YtUmJiY2x1V3BJME9adzB6dllJX3ZQWmNMTHNyYzdXMTEtVHJCUERGakVPNE9ROEFvNXd1TUVWWTRkQWJrdzBoUnRwMWlTWQ?oc=5",
+  "published_at": "2026-11-13T01:42:58+00:00",
+  "sent_at": "2026-11-13T01:45:49.927680+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

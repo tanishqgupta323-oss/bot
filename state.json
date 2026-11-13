@@ -621,24 +621,10 @@
   "calendar_fetched_at": "2026-11-13T01:20:46.588214+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 199,
+    "count": 200,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-01T09:45:50.827219+00:00",
-      "t": "Binance resumes bitcoin withdrawals after covering bulk of stolen $6.3 billion",
-      "w": [
-        "billion",
-        "binance",
-        "bitcoin",
-        "bulk",
-        "covering",
-        "resumes",
-        "stolen",
-        "withdrawals"
-      ]
-    },
     {
       "at": "2026-11-01T10:10:50.336133+00:00",
       "t": "Wall Street Journal: Trump and Netanyahu Discuss Resuming Attacks on Iran",
@@ -3579,6 +3565,20 @@
         "outrun",
         "push"
       ]
+    },
+    {
+      "at": "2026-11-13T01:45:48.874977+00:00",
+      "t": "Gold, EUR/USD hit 2026 lows as US yields erupt",
+      "w": [
+        "2026",
+        "erupt",
+        "eur",
+        "gold",
+        "hit",
+        "lows",
+        "usd",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3609,6 +3609,14 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "540187232951164ab9e59b3bcf66f1017eb6fa25456802dd0ba27d520b4bfaed",
+    "e886565f3774ed421e6a4e3598d1816ce75ce9bccf645187d887c337d9f89218",
+    "ed9b9df820c893b6c49d146853b3583c87f282b088157ff9b5826382a1878466",
+    "ac9aadb8a164d3404f8d982b8360881d2055ae476744ac574b37e06639ff918e",
+    "b7b7d5169bfd89ffbaeea01f84f2113da5eb63b0bab37d5a79b7a2a7a64d8065",
+    "6dbe1c57a363187831e7066c2b72b4b1d1691d2190a8efdc5f52386a75501cd0",
+    "60a9fb565a76470ad7fc714c692a7247ec6e81099dd0bab3b7464ce72f694d03",
+    "c7aaa7e0f3c4fa5119123b9cfbf621eadb61a760ec10d71930c9dd8750141e27",
     "24bb46c27322c47a79e4ebc576620ca7887da635bda02ec83d1c1d8dae57266e",
     "576cb066b0cd1d32f2f8956cc4516b31d8dfdaa6ecf1d566dc99cde1e4bb8fcc",
     "6c63b6b705f688ebd6cd145bf668d5a465d1a34949235945a4b86bff77c9f1c4",
@@ -4600,15 +4608,7 @@
     "b75ef85afd63e6f8cc6607c3e62e99b1dd4945b37984ba9052fa8393f4d1f633",
     "39caa9204952dfb28d59f7d5e8760a583c9123162aec42aba8b18c9672680b03",
     "fcf8770c1211ebea3eed3629c61e40ae034276cd990667bbab4270bbcdbfca6a",
-    "d755d10f8dcfb49930dc6d91f4f047d1158bd038f798e4866928da426d78110e",
-    "01440f90a061fbd80614028468a438629b744b4d0925d95a9889af76ed0b1b02",
-    "fc6d280f90b2b9e01b07c78a8fda5e6c45e84a862e44643ee0771538ee25ceee",
-    "170b25df3ab84cc1fd3abd6ec5ad0d9773a8cc719db4d575001da153f5ece43b",
-    "43c93f7dfcd3e8f20ce800ed128eeefdceeb197ed42f623bccc71a3f183a3d67",
-    "aa97b110acd0108881d8c9c604aaead5cc00d231a0b940ed785e96f5804d3f5b",
-    "8304f8e13ebe910786af50d3a03f09614ac5022849cfa2c3ca14546a55f76ed7",
-    "222ed728796e0087c968a398c31b817a7b11e9d0b870656e509b7f868c3cc7e1",
-    "d52c9ab01519bd5277f7e7274db0f44a1de64724ac4e39090959a7857c983dc8"
+    "d755d10f8dcfb49930dc6d91f4f047d1158bd038f798e4866928da426d78110e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
