@@ -621,29 +621,10 @@
   "calendar_fetched_at": "2026-11-13T10:31:05.660626+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 28,
+    "count": 29,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-01T20:15:50.390581+00:00",
-      "t": "Iran vows response beyond Mideast and target financial assets; oil markets fear generational damage",
-      "w": [
-        "assets",
-        "beyond",
-        "damage",
-        "fear",
-        "financial",
-        "generational",
-        "iran",
-        "markets",
-        "mideast",
-        "oil",
-        "response",
-        "target",
-        "vows"
-      ]
-    },
     {
       "at": "2026-11-01T20:25:38.000642+00:00",
       "t": "Iran's IRGC Navy says two tankers 'exploded' after hitting mines in Hormuz",
@@ -3602,6 +3583,22 @@
         "strength",
         "week"
       ]
+    },
+    {
+      "at": "2026-11-13T10:40:46.373778+00:00",
+      "t": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight",
+      "w": [
+        "another",
+        "bracing",
+        "cuts",
+        "expected",
+        "fed",
+        "fight",
+        "inflation",
+        "now",
+        "rate",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3632,6 +3629,9 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "749dc7b04ce19a266625d66125af11aed3bf95ca40f6758c022be25680c85777",
+    "adcd973303df0bc22ab576a8a9ff11e004a2f34d2e84d046ecd16232a3430c5f",
+    "c8f20e92222b8498a8f68e2a89d592344556cd0c9c63498396e6655272901035",
     "a8e71f7b14f9af162af54acc59bd8a9150229942fafa22ce692b18aa2b4e811e",
     "a4e787f93a5df85d7f21de68044d93424ac4c85f69aadb39753c3042f1f4d11b",
     "aad712afd5f4be2a361c3ad58225ca9f1ea7af6b05801e09b15483a741eef06e",
@@ -4628,10 +4628,7 @@
     "de4cee0c2655f94aa1b8c0ff22911a1b884ea65576e5c5c831b633b900c6be1c",
     "4e3822ac188f420c15465f0aff2dd7b92d58d06ebbab4048a01feeb3613081c0",
     "7dd70a7c1972c34dc8f8e33612b2fe6f8716b23969eed954e9ff695ce43ef903",
-    "aac061fc94a84d659608049eed90f5ab925f7920e3d39212513017cb448bd357",
-    "405ad368f57f44673308b5f9e92715e6ef4de79d240d840e46e0fcedafbf25ce",
-    "09a8a355a32b0e652bbc103d7d3ed2dcf900f4ed1425aff782267ce85fc91dbc",
-    "3dfc4427eadb22a9c5f8ecd8f0e62bbcb69697a484eedd25573dc9df8275c039"
+    "aac061fc94a84d659608049eed90f5ab925f7920e3d39212513017cb448bd357"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -17270,5 +17270,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNBC",
+  "title": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTIzZHZCSGlfZTAwY0VGY1hwZ0stMC1fblpqQ1N1eC1tWHRFazYxeDMxcVIzdEs0NXNUMVRhVWdJTVhOc2ZQcmQwaUFkOVJMZDVJTG5kUlE2aWtNYnljaHlqU05HWjFIUzl0MTJ1UzZGYk11SU5mXzJuTmxwOWFqbHo1TnkwTXZpMFA00gGQAUFVX3lxTE9QZHhGMjFUYWFSaGRxQ2lrQXpWYkdUTzJ6QmRUNFcxV092Q2MzbzZyMm9paGp2eGpEVEVXUzhsdkRZZy1GOFYycFVXYXFTVmlfZmlvM1EzUGh0TkMtU1dlZlVyd0xYemFaeDNYR0RYc2lhdTk4UTNsVjNJM2hXS2hod3dBTzBfYlNnT0dmLUk5dw?oc=5",
+  "published_at": "2026-11-13T10:00:26+00:00",
+  "sent_at": "2026-11-13T10:40:47.277085+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0221,
+    "XAUUSD": -0.0256,
+    "BTCUSD": 0.2927
+   }
+  },
+  "checks_base": "published"
  }
 ]
