@@ -621,26 +621,10 @@
   "calendar_fetched_at": "2026-11-13T10:31:05.660626+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 57,
+    "count": 58,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-02T04:05:39.106436+00:00",
-      "t": "Tucker Carlson claims Trump weighing nuclear strike on Iran’s Pickaxe Mountain",
-      "w": [
-        "carlson",
-        "claims",
-        "iran",
-        "mountain",
-        "nuclear",
-        "pickaxe",
-        "strike",
-        "trump",
-        "tucker",
-        "weighing"
-      ]
-    },
     {
       "at": "2026-11-02T04:50:50.896102+00:00",
       "t": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
@@ -3603,6 +3587,23 @@
         "liquidation",
         "weakening"
       ]
+    },
+    {
+      "at": "2026-11-13T13:10:46.721974+00:00",
+      "t": "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions",
+      "w": [
+        "approaching",
+        "bets",
+        "fed",
+        "hawkish",
+        "iran",
+        "key",
+        "nasdaq",
+        "rally",
+        "resistance",
+        "suckers",
+        "tensions"
+      ]
     }
   ],
   "resolved_events": [
@@ -3633,6 +3634,18 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "69c603911220746fde11f0441a539450c25d038d242366faef17989bb8b9ab46",
+    "a99344a918eb6756d762d297360bf98935107ee4e180fed34aac8d4a7e6fd938",
+    "b32393352ee29a62a1d84fb8b0c2fa6d7d7e4ee313a5f1b8516f8605a4f0b9bf",
+    "b1b223e70b8e978ff69eb49040091c973b53b34686c230caba806a98e4de8bc9",
+    "7d9a5f61f1a215e74f1309491bf42e471acb8e562bc64ad5e5b6b28f87b60416",
+    "3bcb033fe168da394b99c8c3fc84fd11e2e5ec41e09818812ab958b9e1f43b5e",
+    "f913f1309056595bce2f4f0c2cc5851e7584888471ebdfa2ac429b63e2bde7a6",
+    "c78d1d67fe6965db6b356e5a1f5a5fefdadb93c44da7a27fddc7d0a4eedad7e6",
+    "3652e498f3433c65382a1c6fbeb6816a34a30e3f0a0016847c7183a7cd736bce",
+    "50c0f365f9090eb8fee370a1d7dc637a663e05b5cec728645e0da4495a4c6be0",
+    "1108551820ca4421c24443163f57987890b64fe60f98e659d333c091eaac5b7d",
+    "d5a8d21dc9e3f4f542b061526cb53138e5c24b4e4a7517b5c97d6f32770ca0b1",
     "c15199d6c5788ef899289c26773be3dce7b63ebaa85f00bde24201a24c5dafa2",
     "2206f932d050f66f9fa9d987509bec32adebdef9cfd44dfed24d54fb60f6b1a2",
     "200c929608e8328797c3588afdae5c83f96d53e29913a3df0059a104cd336ff6",
@@ -4620,19 +4633,7 @@
     "bc15503069b3b01ee3b8324c9e69a1a54cfc4b8ddfcaeb48ce673fdcb285be43",
     "a8c33523c59a55456adb492c007b48fd0e2a0009703897121e8658047c2349e4",
     "493c5c278f1d43d4523d01eb964974182c6e1786000f8dede205c697fd15e8f5",
-    "330868f17453e6fb1ee6c6dfeb7b3e0357bab11e739d410133cf1fc28ccb346e",
-    "33534e8b0437c0b4b33ba2046b706422d592fa217c7fefc66862af117290bc55",
-    "d0ab55b76e053fd908b1571b4442b55cbe31c39cac367c399048a5c2d8ae4d1c",
-    "f709251441653e0f55e577e97741b4bc81b843f03a995dccad7cb43454b64d86",
-    "8b6e73c8e29e5d5596f55db0863e6297ed7969d9e8e287ae6bcb385721a64175",
-    "d57b6f286104b7368169b00fb01b39c911ab3b79bf34876d57e5241a65f504db",
-    "96d3e14c363533ab8ef803f609fd34cc953cb9c171203af8c6dc4ca943eaf3d9",
-    "1312a0fd016e4ad4b88ca5d262bd0685d089f524315f3f064ab1c1b52107d250",
-    "c25a68e18fe0370d99d31b14212da8bb5ef06d6f03f334255d6a7bac50f6cb46",
-    "df269f6ac5d27e4735e2e250b3067ae4b9831bce659ed3ee0ecdab4265b251a6",
-    "621c31f406275e2d29f21b990da3e54a1449002edff604256b279bc898b26a4e",
-    "da48524ecc9aa9dfb77e13bdd49d781efac85e3a9830578b5fa6eb165d0f00b5",
-    "80168bbfe5a901207c8e232c903f149860c0658ed624531f229b0c964b6b125f"
+    "330868f17453e6fb1ee6c6dfeb7b3e0357bab11e739d410133cf1fc28ccb346e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

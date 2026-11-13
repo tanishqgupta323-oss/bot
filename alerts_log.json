@@ -17452,5 +17452,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions",
+  "link": "https://investinglive.com/stocks/nasdaq-s-suckers-rally-is-approaching-a-key-resistance-amid-hawkish-fed-bets-us-iran-tensions/",
+  "published_at": "2026-11-13T12:58:28+00:00",
+  "sent_at": "2026-11-13T13:10:47.771469+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
