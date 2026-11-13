@@ -1,6 +1,6 @@
 {
   "actual_attempts": {
-    "a06fa7c9074edf07ea7a56b0": 6,
+    "a06fa7c9074edf07ea7a56b0": 7,
     "be4aa570f5bc1e9754df08f2": 6
   },
   "calendar": [
@@ -624,27 +624,10 @@
   "calendar_fetched_at": "2026-11-13T13:31:07.787338+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 77,
+    "count": 80,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-02T04:50:50.896102+00:00",
-      "t": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
-      "w": [
-        "bitcoin",
-        "btcpay",
-        "drained",
-        "payment",
-        "reports",
-        "servers",
-        "switch",
-        "tells",
-        "tool",
-        "users",
-        "wallets"
-      ]
-    },
     {
       "at": "2026-11-02T04:55:38.012900+00:00",
       "t": "Iran's Supreme Leader Orders 'Geographically Unrestricted' Response to Any New U.S. Attack",
@@ -3607,6 +3590,17 @@
         "suckers",
         "tensions"
       ]
+    },
+    {
+      "at": "2026-11-13T14:05:43.390309+00:00",
+      "t": "Fed's Goolsbee: We're not on the way to 2% inflation and we have to deal with that",
+      "w": [
+        "deal",
+        "fed",
+        "goolsbee",
+        "inflation",
+        "way"
+      ]
     }
   ],
   "resolved_events": [
@@ -3634,9 +3628,18 @@
     "b16150e4fd92508a8b8bbe7d",
     "7b6b7d884a09f3457ccc88aa",
     "00a185bf063e99570a35a63d",
-    "8ccbaeff6976654d45d8efa5"
+    "8ccbaeff6976654d45d8efa5",
+    "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "b401f9fa86539e885b51fd2b8737837bb9e7710fc48db6f8b37f094eb78dbd5b",
+    "d8002eac5f7d6e7878cc883a0c7ca8f16d2528f6ef9d9803dbcc0740c15ac9d8",
+    "3f0d133e08f2e1f6d7aef6e057d6ed374f525284d7a6019b36518a7f60266d1a",
+    "dd602c978c607f75e6841a681f923f797a485227e15c00971a15d9715b132e25",
+    "728e39401d1ccc946c4db60f77498c70ff05a8aef66dc6d56500dcdd92d32683",
+    "26a628589b92cf9f2aee9abd1607fab92fabd9d9fd9931f7437ae9f8c8b1b861",
+    "83a15a175ddb2897179c4d8901aa09a42629c052f12e7c79a53b8e3d644ba27e",
+    "4de7714c79fd25e7f8a3b51723ea224cb9a4d064415ef50dfb96adbef1d14f89",
     "fc2b78b48ba51b3c75ad4d4182f3d47b274e995503ec13a02ffdf9839f11c16b",
     "131c887c27552ba0e662d6a36494cedc11b706a4ec5cb3fb0bc507b87e00bc1d",
     "5f0e9cc34e2c9cb0b5f2192c487d5734ff651f27db6c1feac48717ba95123d22",
@@ -4628,15 +4631,7 @@
     "e1804d184ebc8224ec5aed81be5dcb246b5b4f513996b02c4e2c8d0deb9100ab",
     "79f0db7399df3a1f0e801689668d9a88561d1b0c1d437750a6a5f96543084f83",
     "895642e4ccbad6c1d3870123fcf1bf1d36f499312760b6e463d95fc8285449a0",
-    "ecbf19d9a6d4e5f697b1be32e0cfecaf23e11f13bf3f7508e8ffe3fd7f6bc340",
-    "58782d9906ea506115b92a4e0a52558ef1b7dd0bc466ef7ca6e48d33d977d4e7",
-    "29b1ea724a6700d9d87035c8ab44bb7dfa3909a415195b8c7885ce23b7b2fc9c",
-    "c57530ebf81462d66c88d728f73babcb3cfffd873d0b9222f1809584ccf3a45e",
-    "dc581c8dce560305f98b4713cdbfb583588e54ac83bf8799bdb1eeb877952c6f",
-    "e0f1c8b7611bad6662e67de7d0989819529bc0e1a84ecbd0cb6eab4cabc9940c",
-    "80df12806e13ea0c625b78da35c9c3a642197d6054208a02b0669cac617ddb89",
-    "478e6fab3b251480fcc90afd208d18e72eb638b5d7b8d28af7c2dd93cca0c4f9",
-    "085dafa2b11dde74f3482fac4a2fa25318c8af78f79213a1000b850e8890d7a1"
+    "ecbf19d9a6d4e5f697b1be32e0cfecaf23e11f13bf3f7508e8ffe3fd7f6bc340"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
