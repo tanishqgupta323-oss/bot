@@ -621,22 +621,10 @@
   "calendar_fetched_at": "2026-11-13T10:31:05.660626+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 48,
+    "count": 49,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-02T03:25:39.317948+00:00",
-      "t": "Trump says ‘at some point’ US will have to give Iran ‘the hammer’",
-      "w": [
-        "give",
-        "hammer",
-        "iran",
-        "point",
-        "some",
-        "trump"
-      ]
-    },
     {
       "at": "2026-11-02T04:05:39.106436+00:00",
       "t": "Tucker Carlson claims Trump weighing nuclear strike on Iran’s Pickaxe Mountain",
@@ -3602,6 +3590,19 @@
         "strike",
         "town"
       ]
+    },
+    {
+      "at": "2026-11-13T12:25:38.339376+00:00",
+      "t": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
+      "w": [
+        "69k",
+        "bitcoin",
+        "concentrated",
+        "demand",
+        "drops",
+        "liquidation",
+        "weakening"
+      ]
     }
   ],
   "resolved_events": [
@@ -3632,6 +3633,9 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "e9f1da1ce5dfc080a72355cda8482ec5777dbb77d0cb545d5da7a1252d721ceb",
+    "07e9c7a177f0f6cff22e7a74d7e9d3cf8aa458cb4b0b308c1e85131b6fa44c4f",
+    "f579c18292e80e8aed54f7c6118f5573f7baea741ab13687d30ec27949e9dce0",
     "48ce631907743751399a97785aad01cb2bc8a568e6e0c66879e7b87bba502d91",
     "967dd740fd6647145e20606eee726b07b43bb5541c456fda57d5f9a9dd6d091c",
     "0f286e15f232c942d4272aeaa389659b08eaf9d0bc360802cbb042cc5aca3f32",
@@ -4628,10 +4632,7 @@
     "b0c11ad99f824f2fe89bac39c0d2f4ff15944808e0c4f895636d76804cf56615",
     "5fa4d5e39b4283a66444d36f96401fd8d45e1713b0b114dbe345f3675087e21d",
     "d560a37b9f4484ef9287c4c17a8513a144442535d97437b4003d70d045ceb496",
-    "9b1d312c7a8096c880cab8f035fca606dfa63e39e8ac9921d25b3891170278e1",
-    "4e7169e27815382f70f48bd4723739edf8db4e23294cee000e139e8283d2ccbc",
-    "b046563e9a3f4dbb6baabd172a3189aa88b8c173530d850c0ae39a8cb7f42b76",
-    "b06d1c1eee9bde2046db08695927a504f24ad9646b77fa20be12990b5af4dcf5"
+    "9b1d312c7a8096c880cab8f035fca606dfa63e39e8ac9921d25b3891170278e1"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -17416,5 +17416,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0hkai12ZXlyejJQMGR5aXRmYU9CLWk3WXlXeEtRWmRCeDVwcU4xbFM3WjRDWUViWjFHb2x0VzBSQnNnajltWk5VMDJ4QXlXcC1SMGhCbDBIUkhUZUE0RjR3U2tFWXMxWlNoV251cEwwX0JoZV9Ia0w2VVJCSVFGSDJiSTRKUXRRVXBuZklDZ0pWWFJWdTBBS2VULVRWbGpwTGZIY25adE1aX0U?oc=5",
+  "published_at": "2026-11-13T11:20:44+00:00",
+  "sent_at": "2026-11-13T12:25:39.522766+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0221,
+    "XAUUSD": -0.1283,
+    "BTCUSD": -0.2863
+   },
+   "60": {
+    "EURUSD": -0.0221,
+    "XAUUSD": 0.0513,
+    "BTCUSD": -0.0683
+   }
+  },
+  "checks_base": "published"
  }
 ]
