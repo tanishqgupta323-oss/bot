@@ -557,17 +557,6 @@
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "3fb678a3a24a615f6c2ea2d6",
-      "forecast": "-",
-      "impact": "LOW",
-      "previous": "4.37%",
-      "scheduled_at": "2026-11-13T15:15:00+00:00",
-      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
-      "title": "Mortgage Delinquencies"
-    },
-    {
-      "actual": "-",
-      "currency": "USD",
       "event_id": "ecbe5728eec9efe310e5422f",
       "forecast": "65B",
       "impact": "LOW",
@@ -621,10 +610,10 @@
       "title": "FOMC Member Jefferson Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-13T13:31:07.787338+00:00",
+  "calendar_fetched_at": "2026-11-13T16:35:35.159887+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 111,
+    "count": 112,
     "day": "2026-11-13"
   },
   "recent_stories": [
@@ -3627,6 +3616,9 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "3f3bdb7ff921cf9c821ff2283c86dc93d075eadd9b337334f9addfffcdf98fe4",
+    "5a5973d615e79783110b00965c8bb054b4395e1329be129e343085170cdf68d5",
+    "73a037dc9e271a18c32c848d652710bacf2f0766b1e49eafd48fc13a3844fb31",
     "e6f85f1ccc5795a0fb9ec9aa4c6d163790ac2d4bcb4f71d4544548832d40d942",
     "7fe975e50e16bb3a64e10b83ea48bea9f9e9ffffbb8e76949308be12325f7e76",
     "d8b4580674bc5fe3cfb1a110e9ad14b6c3bc2d3d27b7d2b724ba8eb8ad5485a9",
@@ -4623,10 +4615,7 @@
     "f815549d633fff075e4a10cdc24014c23a2d4235800adc47c392714aceadfbd6",
     "7fb20a13661465faea953a7feb418562800d99c27186f372d69ed07bf6b8ef7c",
     "679bc737ea8554c4dad2367a1a24b7eb313df20be99eedb3b329a73be26c0c39",
-    "d8bf1ce22f0a38fea274c0cacde0b132ca895694668009c8cd94c0582a8ff8ce",
-    "5a31f7e1589aa51f54934f1eeccedb19d283b730b0e276fcdd17fd131beac545",
-    "49f0f7ef17ef1d36950cfa039d8a8e3f0fa8e4704cf1a77f46d26251ea4528fe",
-    "8b77097763906e8f854025b11b10973c697ba849f34fd12b3717c5cf23160385"
+    "d8bf1ce22f0a38fea274c0cacde0b132ca895694668009c8cd94c0582a8ff8ce"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
