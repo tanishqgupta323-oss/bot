@@ -17746,6 +17746,27 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.011,
+    "XAUUSD": -0.1264,
+    "BTCUSD": -0.507
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "StoneX",
+  "title": "Fed's Waller, Bowman and Goolsbee Keep Rate Hike Bets Alive",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTThwXzNmSlowVUJ6d1JXYlZ0bEJwcGM2UTFuSm9KTll5dnpmRFFjc2xqTjFYVzFGQW9SNW5ibE81Nko4eDlMY0ZHY05FZl9PSV9VdnlQRjZpcktReDVOQTI4M21JTTdtOTFCVlFDVWYteVBxYWZlWGZFQ3RzMlJPdHk3TTVpS2hFUE1vcjNUemRnamFycl9vOFdn?oc=5",
+  "published_at": "2026-11-13T21:17:38+00:00",
+  "sent_at": "2026-11-13T21:20:51.953407+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]

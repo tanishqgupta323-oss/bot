@@ -613,30 +613,10 @@
   "calendar_fetched_at": "2026-11-13T19:40:45.131062+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 164,
+    "count": 165,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T00:35:40.618017+00:00",
-      "t": "US-Iran war news: Israel's Benjamin Netanyahu wants Donald Trump administration to carry out new Iran strikes, officials tell AP",
-      "w": [
-        "administration",
-        "benjamin",
-        "carry",
-        "donald",
-        "iran",
-        "israel",
-        "netanyahu",
-        "news",
-        "officials",
-        "strikes",
-        "tell",
-        "trump",
-        "wants",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-03T00:50:52.150730+00:00",
       "t": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
@@ -3588,6 +3568,21 @@
         "strike",
         "tankers"
       ]
+    },
+    {
+      "at": "2026-11-13T21:20:50.137282+00:00",
+      "t": "Fed's Waller, Bowman and Goolsbee Keep Rate Hike Bets Alive",
+      "w": [
+        "alive",
+        "bets",
+        "bowman",
+        "fed",
+        "goolsbee",
+        "hike",
+        "keep",
+        "rate",
+        "waller"
+      ]
     }
   ],
   "resolved_events": [
@@ -3619,6 +3614,16 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "75392d7183e9cba716822d37dcd5a8320d4f505464c06303970dc90c82861430",
+    "08338e2c76f1f843d08bf378151fe1c153de11d6ff6e5f9a28546502e074b5b6",
+    "679234a17db919e177df8582af51047180cf60876b9d3fb215f7e512d870e1d6",
+    "9a2b217e805eb74872b824c61285aef78e05a1972979c4640bc360bb664d50de",
+    "c24bfcf9221d2312bdd56003bf21adceef31dd24af064d6d18c2d9822d6d5c81",
+    "5783ca13df250b6e5232e625caa06b11600a46bc033f351190f251a6679ec308",
+    "606584bf7655b58bb053fccd11e957d4e58a3ff055c634c0475418c0e91a21fa",
+    "92d1927890ed1ff3e9cd4fe4705666bccf6c2c048798c525fd0d79c8ed977bdb",
+    "1e7f390f355aad0a183af126bcdb8ca76cfbeb3d080fa3df864b4cbe1d0be889",
+    "e5b2480c0f1f3155bc62fc7cac53d14cef296e380735ffcf1d0e5bbf421d6765",
     "398ec9c964c253f5584895c999039007e8079c8b386996236006bdada0c08e85",
     "a22135c90087628ccc1754837be42067aa669a5defb75d35cf80c4006aa7dcf4",
     "3eee1fb2aa25b89f08dc31a1e11ea6d1482906fad52fa9a70c315f323d241a9d",
@@ -4608,17 +4613,7 @@
     "545d106bd2a0f82f9d2efa04b5ea2bc3b337c9260465d74dc0ba81d9eceb9779",
     "106d8cc5fa92b5c73bae481fa6f3f47e09f6deb73658dba7a0bf7be70d7de0c7",
     "083b0ad17efef05c243d6864e97d809c52cfaad14e70ffa5ca2b9643470664b4",
-    "080ad26bfa137e156f58bcc369ff43b2da1eaa251e13dffb31bf7b0c5a2199a3",
-    "e8b583c40d9ea2b69e28f3fff151db649f29799bc1f98807d68504b7f5fe82ba",
-    "244010bf1fde0c08a97854f84efdec0fa2b411008d660a722fa974f1e026a3e6",
-    "6c4641f9b38cc173dd15c1a6d0942cf4cd927183463c6f7b3124eceaec33d2d8",
-    "2fae7ba9f529de952fab870c1696c178f3cd1eb706ca3e3489eff22261ffdfbb",
-    "e3c631f3421fe44a2d51fc72880fea372d93fefbe1f4fab511fd79b43730a7cd",
-    "2d8ff71325ab5a5de069a7f3fd092b8aad9d89cc3caaa065a86a6d918e8a4ff4",
-    "4e48a62467cb1464c71121df4b40526a951d0ac0372203f9e4373488ea792686",
-    "1ef201d55f8c67e03f08b0233198046d576de9aaff22d985643d8c0ae971620e",
-    "2cef76fc296d38bacf5812ff355afd4b5fe7a3827792a9cadfd780d076b674ad",
-    "6c362f55d0d05f5c87b50dceb6343a1fb63a5426e7897e5fe95a997fb5c20598"
+    "080ad26bfa137e156f58bcc369ff43b2da1eaa251e13dffb31bf7b0c5a2199a3"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
