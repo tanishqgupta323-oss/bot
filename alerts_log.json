@@ -17222,5 +17222,19 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
+  "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+  "published_at": "2026-11-13T09:16:58+00:00",
+  "sent_at": "2026-11-13T09:20:50.442583+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

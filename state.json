@@ -621,24 +621,10 @@
   "calendar_fetched_at": "2026-11-13T07:26:00.703058+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 13,
+    "count": 14,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-01T20:10:55.249679+00:00",
-      "t": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
-      "w": [
-        "dallas",
-        "fed",
-        "implement",
-        "increases",
-        "least",
-        "logan",
-        "needs",
-        "rate"
-      ]
-    },
     {
       "at": "2026-11-01T20:15:50.390581+00:00",
       "t": "Iran vows response beyond Mideast and target financial assets; oil markets fear generational damage",
@@ -3596,6 +3582,26 @@
         "week",
         "yields"
       ]
+    },
+    {
+      "at": "2026-11-13T09:20:49.237045+00:00",
+      "t": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
+      "w": [
+        "200",
+        "assets",
+        "average",
+        "below",
+        "bitcoin",
+        "dollar",
+        "drops",
+        "live",
+        "moving",
+        "news",
+        "pressures",
+        "risk",
+        "strength",
+        "week"
+      ]
     }
   ],
   "resolved_events": [
@@ -3626,6 +3632,9 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "2d775cf63e60988627b8fdac9e58e8f17776d39ea04b84be18c8dcdee47ab18f",
+    "f71187f41f080f971cd5fc0024e567ce986595c9dafa5234c0a428de33444210",
+    "f214c98a831d04d5b5290421d35fbd0973ce69fabeb0bedecc9a0e7c19e2a438",
     "12179fb962b301a658e873734b279688c73860e94a559d9a15b08d91cbc98dd7",
     "b9eb24acbb767005779de4d061fe0af0ed488ee064ec83ce2871d14a5f2423f5",
     "5d2bf713adf91d0089d0d4dc47f4abf32a3cabec6ab3271e62f553511dd38496",
@@ -4622,10 +4631,7 @@
     "ea93d6d13d4a518207bc8683e9d1cd7a73dcb50dd2f1c69f2e0356d2198cadae",
     "b51438c647cf4138296110c8e805ceea5ce1e8a4266b546eafb884c3a4ba4925",
     "a6535f8da3923cca7c3cb56d88501baaac0605c8f98b40c03ca3cd9af95ff86b",
-    "4190a163a1da9c09f3e982a694e96252dd74229797ffb881f8757b9cc64bc439",
-    "38f2af83c1b7d29a6b953f1d2bd3ee8acf02bb30612ba69548aba54dc12cdf3c",
-    "634a9a6df14ce37f2dbdb4e9a0c27fac94e89114fdef89014480f2216b9884e6",
-    "515d14fe89d3aed9e18c63ae477bc9413a6684e0d5185f6341ba4a5884ca9dff"
+    "4190a163a1da9c09f3e982a694e96252dd74229797ffb881f8757b9cc64bc439"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
