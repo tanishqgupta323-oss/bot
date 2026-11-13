@@ -613,21 +613,10 @@
   "calendar_fetched_at": "2026-11-13T19:40:45.131062+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 156,
+    "count": 157,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-02T19:05:46.441359+00:00",
-      "t": "Iran and US reportedly on verge of preliminary agreement",
-      "w": [
-        "agreement",
-        "iran",
-        "preliminary",
-        "reportedly",
-        "verge"
-      ]
-    },
     {
       "at": "2026-11-02T22:05:41.841312+00:00",
       "t": "Up to six blasts reported near Iran’s Qeshm Island as Israeli TV cites US strike",
@@ -3584,6 +3573,22 @@
         "poised",
         "week"
       ]
+    },
+    {
+      "at": "2026-11-13T20:35:38.061469+00:00",
+      "t": "Fed turns hawkish as CPI beats and officials back further rate hikes",
+      "w": [
+        "back",
+        "beats",
+        "cpi",
+        "fed",
+        "further",
+        "hawkish",
+        "hikes",
+        "officials",
+        "rate",
+        "turns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3615,6 +3620,18 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "b0110aadbcbf642e32b6de36324d1f55c06b2012a09b403b655af0e006c016a5",
+    "90f679e26bbac87a143e5cda3e14a79cf04dc64b138c3e9d8e4e619989ceebde",
+    "77b9af0da55dfc4d167f102cb175d68b74d41c3c21620a386a90de23d772456e",
+    "e3059b1be613c3a9a48c70a6aa6d07767a80b86650a1d9616bd126fdf50e9798",
+    "0ffbb100638114c0a49c7984a635778b3322ea059e427a0a4f3c2682ee3750ca",
+    "01cca358e7ef32aa1cf434dff730768fdb028fa07aca6ef289002fed711dbab9",
+    "f093220820444847250cdf96261dad93d51c467dc916e6ba9e5104e9be5206c8",
+    "3cb1dba77beda6a17336c2af805fcdfb7c577f86cab1ef4019f3467831eee7f8",
+    "76e6bb88e0e5210f44e22edfeb5e25301673dde1beed1e9a971073ec13f1c8c9",
+    "2cdedf60aacd003ed81b62a490f2d21d2e1d9ed14ced80776ed17af6860621dd",
+    "37e72b41cda9883bbbec5950a339591a72a638fe68b1eeb411052ab4652f2fb3",
+    "eb70d1e5dc0e862942915701311d2c3efe777c78ea61146ecd56d04b56637633",
     "b57135dcc0389fbbc175e3c0b9c77bd5305639354694fc3a1b1e7b7c8bfa7f2e",
     "7d41ea76e4c1dea1d3ef211fec60f6187164cb06fc43b655f0145773fb3c8a82",
     "8f9a222e45b35ded28be5ae0ea9e34cb095da13c722463ff9d2cd754b7aad3bc",
@@ -4602,19 +4619,7 @@
     "f95d1a93b1b4830e9ea775826c28f96015efd372ba4cc9f4a553cc455519bbec",
     "030ff5223ee4cc639ab6b4e85fa6d63fa7612a6babf6e171a19f6f8a9c7f5e27",
     "70cbe27d4337ca07a65cc06eaab6b186e74633f3698e98f2b8993c4f7ebe3aff",
-    "d492b8c54d3dfdb1ac3693f972ec5d9b7e0b6f0ac396b0365527716869f5089f",
-    "33584714c4e6a2e0df0f935b3afc1426366b53ad53f9321ab67772ab02eca8ce",
-    "113f745f416554c02af9fbe26506256718ba2620fe8c53aff9a204bd11b59484",
-    "91c098252d38edda8e0e69a109fd8f48cf39661fa30eb2abf2000f4f10378fde",
-    "194153ee2313363d0c970e16104f8e3685794d8fa89abbcd7191d4c4a245e28a",
-    "14edcd6a78d26f7333a1f0d28aafd9b60452fe243b4f9ca9c490c9f8afb4fa84",
-    "8dfb2bfe29c1063d7c26eaf8494b61af3f4598a048d33c92ed9ffb67a4ec0e43",
-    "bc5d4f634e39135d79a79e616b4c467906c62d4c574efb70e9057c45adc81dbd",
-    "e25713b888bc1ccb4ceef5f59c364dd2c5c02be82e5d4469148b53eade0b3e33",
-    "3b75e8c4e95bfc598935e9356c1019f05f09891ae88ecca435f09a6b2e6a8469",
-    "c29426026508ada4536d79ea2cd1034ddcbd7185d024888ff7912ffcf1cc7a91",
-    "889a7316b578de0b44d52ae9939be5f25333307f2fd8c043d104ece64a274850",
-    "bb53c116753b56dbf6bc2f640d9b97fee737e27109dc25ed36cb24bb718c8153"
+    "d492b8c54d3dfdb1ac3693f972ec5d9b7e0b6f0ac396b0365527716869f5089f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
