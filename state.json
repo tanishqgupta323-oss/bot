@@ -613,27 +613,10 @@
   "calendar_fetched_at": "2026-11-13T16:35:35.159887+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 133,
+    "count": 134,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-02T18:05:50.570596+00:00",
-      "t": "US and Iran resume 'very intensive' peace talks on ending war — as Trump threatens new strikes",
-      "w": [
-        "ending",
-        "intensive",
-        "iran",
-        "peace",
-        "resume",
-        "strikes",
-        "talks",
-        "threatens",
-        "trump",
-        "very",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-02T19:05:46.441359+00:00",
       "t": "Iran and US reportedly on verge of preliminary agreement",
@@ -3587,6 +3570,20 @@
         "rates",
         "rise"
       ]
+    },
+    {
+      "at": "2026-11-13T18:40:45.012352+00:00",
+      "t": "Dollar Poised for Best Week in Over a Month on Fed Hike Bets",
+      "w": [
+        "best",
+        "bets",
+        "dollar",
+        "fed",
+        "hike",
+        "month",
+        "poised",
+        "week"
+      ]
     }
   ],
   "resolved_events": [
@@ -3618,6 +3615,11 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "b4f01bddb03ea365a8f7bc4df5178fad15261970267ca6e6a43360806e622d4f",
+    "88f5f32c244e94ce328c6bd158daf6b283c639601f244dfd2fcf7a268d76ab17",
+    "b90b3253d2437322504acd832160170d4f25cb4fc8ba113a2ae50a43c72eaf36",
+    "a9260b06e1e0b55256e6f3bdc67dfd205bc0257be522f7bea7e77f097be3407f",
+    "25118b73a4ea40fb5fe3e8f9748525efbab067591b57f7876fe07b64458dddd4",
     "3345f520807c0d0d3fe32afab27d643173ac0b22c7dff32cf298a9c6af3e63fa",
     "6d8c863b232c2bc219591921c82ff42d36c86fc7c1ca60bd496c890bbaec07e5",
     "3a7cf69956ae4a95f8090c09c38494addc0a9d1389d3f9c977e2b96ff061a585",
@@ -4612,12 +4614,7 @@
     "00a61839e7ed2b627b6af27d3e27524af47e11e75c06efc162200c3557002ba5",
     "b9bb0ff8e4622bb167eef12263e111a0111406a46f79387c7128ba84b37aa8b8",
     "c7e8d3b5dfca2ed05f30e540b5ebb1d32d80fc5c4abad18d5af9cde8be6f0d66",
-    "ff3b420f5ab8d6a81bfd9f3568daed887e04a3151ffc7661c02a0d4a7c8a5ad5",
-    "cc2d34591535c411ac5bed7cd56804963805ef35d1db8277ec669dd1c24b6f59",
-    "71763122815f79a987a3772517dd6932b2698ad440335ca5bc95a60f96a4c58c",
-    "772ef43fa0cf0a1f48a586f2e0f10d802f3fc978f8f074fa7c36cbf3cd2694df",
-    "9b7b36000e2a8c90d96aa9d76b48faecbd672c3adcb1cdc8203e1d4370244fa7",
-    "4e0c6fe1a451172cc3d682175f6c4841089426c684724195a6a08fccf4ad6121"
+    "ff3b420f5ab8d6a81bfd9f3568daed887e04a3151ffc7661c02a0d4a7c8a5ad5"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

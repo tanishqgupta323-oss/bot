@@ -17681,5 +17681,31 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bloomberg.com",
+  "title": "Dollar Poised for Best Week in Over a Month on Fed Hike Bets",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHh5SEF6X2tQTUhkaEpDZk9SWTB2Wk9BTEQxVzRsQTRtOTl3YUswQ2VVaGc2TmQtT2cwRE55SmM2S1BtTFlNMlRmLWNrdklpekpnQV83SVdGOG5PQnRMdEF6NG4zUVZ4NDFNd0xWUU0xNDlwTEdCWWoydmg5aFdZNC1zVU5GOEdlMzFZRlVGckI2OFRJRTdhU3hjNG9TQ0NDWFN6MEFDQW1iOVF3cWJSQQ?oc=5",
+  "published_at": "2026-11-13T16:44:22+00:00",
+  "sent_at": "2026-11-13T18:40:45.871409+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.011,
+    "XAUUSD": -0.1132,
+    "BTCUSD": 0.0268
+   },
+   "60": {
+    "EURUSD": -0.0331,
+    "XAUUSD": 0.1003,
+    "BTCUSD": 0.5317
+   }
+  },
+  "checks_base": "published"
  }
 ]
