@@ -613,26 +613,10 @@
   "calendar_fetched_at": "2026-11-13T19:40:45.131062+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 162,
+    "count": 163,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-02T22:05:41.841312+00:00",
-      "t": "Up to six blasts reported near Iran’s Qeshm Island as Israeli TV cites US strike",
-      "w": [
-        "blasts",
-        "cites",
-        "iran",
-        "island",
-        "israeli",
-        "near",
-        "qeshm",
-        "reported",
-        "six",
-        "strike"
-      ]
-    },
     {
       "at": "2026-11-03T00:35:40.618017+00:00",
       "t": "US-Iran war news: Israel's Benjamin Netanyahu wants Donald Trump administration to carry out new Iran strikes, officials tell AP",
@@ -3589,6 +3573,21 @@
         "rate",
         "turns"
       ]
+    },
+    {
+      "at": "2026-11-13T21:10:51.006817+00:00",
+      "t": "Iran says 2 oil tankers strike mines, catch fire in Strait of Hormuz",
+      "w": [
+        "catch",
+        "fire",
+        "hormuz",
+        "iran",
+        "mines",
+        "oil",
+        "strait",
+        "strike",
+        "tankers"
+      ]
     }
   ],
   "resolved_events": [
@@ -3620,6 +3619,10 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "df11ef964c95b86191775bfc3656f5faa7c3408c8f966e1eef88398625b6aae1",
+    "b40f37f1d75298d8c88f53f05f9564c15ee1b30678c7c1460ab17155c57d1a20",
+    "70adf834ac57a379d25abfe6207a5bddc615983f43f3768b8645e77a28a8aee2",
+    "8f9cba51866d719d8d8a40a13aea9982afc92dedaec453ec12899f0f28c5cd50",
     "98f9c359647376aee311e5efb4ce95dc1b8efc8afa8b07cc2c4759e4aac550a7",
     "0a2511ff2e6a8165b22c28f38a8773f084fbc078b17547949f2bdf9f2600df28",
     "5142837d5c5e161a027a3083fb67c1cba977da3822bb1868a2fbc83d9028d519",
@@ -4615,11 +4618,7 @@
     "6c362f55d0d05f5c87b50dceb6343a1fb63a5426e7897e5fe95a997fb5c20598",
     "eddaa3409604c67ba7dbe1268a2737805036260a1ee3191dafeec09020aea35e",
     "8631d7e5814486088d227ce65e04cafc355082eb4b424e4c24d5c5c5b3f3a80d",
-    "362ac1c944846a60c57a813877a8ce5c25be0dbfc60bb0531604afc156aec1db",
-    "735fcbbf3d21b87244591d0af3b6bf1b656f11fc7b865963628ee3fddf66a2ad",
-    "4043755c1ae76f06f9fe84931c9e2a1054ae85d6c667e26ae52f06570f101f89",
-    "fed1339701eb8a98d33ffcc9c3bbd0f14f796a946c478d1605f541d1a332ad4b",
-    "27e06c5be6e9c5b79dca3fac177fe5dd39ee37efa54111fa06f63dccaab1be4c"
+    "362ac1c944846a60c57a813877a8ce5c25be0dbfc60bb0531604afc156aec1db"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
