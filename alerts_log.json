@@ -17187,5 +17187,40 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Higher real yields and stronger US dollar weigh on gold as Trump puts Iran deal in jeopardy",
+  "link": "https://investinglive.com/commodities/higher-real-yields-and-stronger-us-dollar-weigh-on-gold-as-trump-puts-iran-deal-in-jeopardy/",
+  "published_at": "2026-11-13T08:27:07+00:00",
+  "sent_at": "2026-11-13T09:10:51.412202+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0443,
+    "XAUUSD": 0.0898,
+    "BTCUSD": 0.2453
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Euro yields hit multi-week highs as hawkish Fed shatters global bond rally",
+  "link": "https://www.investing.com/news/forex-news/euro-yields-hit-multiweek-highs-as-hawkish-fed-shatters-global-bond-rally-5024281",
+  "published_at": null,
+  "sent_at": "2026-11-13T09:10:52.143006+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
