@@ -613,26 +613,10 @@
   "calendar_fetched_at": "2026-11-13T16:35:35.159887+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 124,
+    "count": 125,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-02T13:31:18.240387+00:00",
-      "t": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases",
-      "w": [
-        "air",
-        "aircraft",
-        "bases",
-        "buildings",
-        "defenses",
-        "hit",
-        "iran",
-        "mideast",
-        "targeted",
-        "then"
-      ]
-    },
     {
       "at": "2026-11-02T15:20:58.419808+00:00",
       "t": "Fed Holds Rates Steady",
@@ -3582,6 +3566,23 @@
         "time",
         "warsh"
       ]
+    },
+    {
+      "at": "2026-11-13T17:50:47.285576+00:00",
+      "t": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
+      "w": [
+        "bitcoin",
+        "fears",
+        "fed",
+        "hits",
+        "low",
+        "most",
+        "rally",
+        "rate",
+        "summer",
+        "undo",
+        "week"
+      ]
     }
   ],
   "resolved_events": [
@@ -3613,6 +3614,8 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "ae73634ba050bb93dec8a799ab9ffdb7e5c7a95a5c244598a49a450a9cbd7188",
+    "e11df53fd23627544405ffd3d37fe8675be4c44872569ea25e160f9d9e736290",
     "058485040cc3b30267b45f5ab3cb07db894445227cd0d0fa50eea4d01e4a8c00",
     "8379989888ffd1f9cba77432a0957b8f1e85f43f71af8b51b53d5e22a2f2fae4",
     "959caf25a012d325ad0d986200811d8ddb15f2a805ce2751d262b2534f6f5aa7",
@@ -4610,9 +4613,7 @@
     "aeb36a9a26d241a458ae142e501fdb30c13d9c904802e819df45b9c8f75f0c38",
     "709c467bcffd863f7a4c3e2a75571917cc87bfb72ced7b10cfcb9caecccc3e95",
     "52930224e2215db21ddeb1252dd7f24f4594315aea8150b9adb391c1d50dd763",
-    "cd7b1f517f01eb076a034822d0a12cf0c06795f40f521690094bda7a6ec503f2",
-    "3ea631f1b8d97a1a2c039d9525a40c3ab0a6fee9c83cadf1e5ec32efea3d9590",
-    "ec0c0c9f03b02dbf00efe32f7fc910d7b9296519452a96973cbc4a63f12bbcde"
+    "cd7b1f517f01eb076a034822d0a12cf0c06795f40f521690094bda7a6ec503f2"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
