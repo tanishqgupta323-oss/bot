@@ -17548,6 +17548,11 @@
     "EURUSD": -0.0442,
     "XAUUSD": -0.0206,
     "BTCUSD": 0.0588
+   },
+   "60": {
+    "EURUSD": -0.2317,
+    "XAUUSD": -0.4444,
+    "BTCUSD": -0.2096
    }
   },
   "checks_base": "published"
@@ -17569,6 +17574,27 @@
     "EURUSD": -0.0993,
     "XAUUSD": 0.0258,
     "BTCUSD": 0.7947
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Fed's Collins: I would think some additional policy tightening is warranted soon",
+  "link": "https://investinglive.com/central-banks/fed-s-collins-i-would-think-some-additional-policy-tightening-is-warranted-soon/",
+  "published_at": "2026-11-13T15:42:32+00:00",
+  "sent_at": "2026-11-13T16:05:38.462117+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0552,
+    "XAUUSD": -0.1031,
+    "BTCUSD": 0.993
    }
   },
   "checks_base": "published"
