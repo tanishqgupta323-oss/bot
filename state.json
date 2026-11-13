@@ -624,25 +624,10 @@
   "calendar_fetched_at": "2026-11-13T13:31:07.787338+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 92,
+    "count": 93,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-02T04:55:38.012900+00:00",
-      "t": "Iran's Supreme Leader Orders 'Geographically Unrestricted' Response to Any New U.S. Attack",
-      "w": [
-        "any",
-        "attack",
-        "geographically",
-        "iran",
-        "leader",
-        "orders",
-        "response",
-        "supreme",
-        "unrestricted"
-      ]
-    },
     {
       "at": "2026-11-02T05:05:38.472583+00:00",
       "t": "Gold’s slide to one-year low: margin calls amplified a fall driven by Fed hike bets",
@@ -3601,6 +3586,22 @@
         "inflation",
         "way"
       ]
+    },
+    {
+      "at": "2026-11-13T15:05:38.579047+00:00",
+      "t": "Goldman Sachs: We can explain almost the entire US inflation overshoot by tariffs and the war in Iran",
+      "w": [
+        "almost",
+        "entire",
+        "explain",
+        "goldman",
+        "inflation",
+        "iran",
+        "overshoot",
+        "sachs",
+        "tariffs",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3632,6 +3633,11 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "07e648ca0b419ded1e391558f113b8e1e546d4ab5c9b66ed361a385446f9b0ba",
+    "54627cdc42d1ea6cc214e025a217e15f7370cc72a660fda6c7e4314e144fc213",
+    "4abde18c44fdda703bc34e6e41b9d0b260b2b4dc4eed3483d1d9d1b1c26ff78a",
+    "df684002f2027159e4748545f4ed8af620e173528bb28445dd50410f496d805e",
+    "76b19c712d4f6e9af72a2a1e2c6de074fbacd15d7ff4cbb6031e3655e3470efa",
     "aa0ba3597644af10536bdada6af5eab6d1902b80072f59eaf41ba4e8e5b89c33",
     "8f02bd5328f2409d3856d44bfa0969d807c4981d23e6dc696c641f03c75d92c9",
     "8cde3da3e4e5ec1f1afd6256503432e77e8983d5b228c26183b08b4ebb3d1953",
@@ -4626,12 +4632,7 @@
     "3005f1971e0d5242df0d3aa787694c0a772d4a91d6f61ec2bb84a22e3f0b3436",
     "d99e7c2f3be94391aa07da52e54a345f81891bd08eb5661d4974816c04186db4",
     "36be760d52a5084a87478cc316b358c6d68f37fb36a9420b1f1b40c294773434",
-    "1acf5a90b89510827a1e6d8a7fbc9ffec59bc4e614eff8e89a3ca97ab9af7835",
-    "e475b5e5b6a528d5119c5bbf71eaf4da811b80d3398dd9000a600e0638d0de3c",
-    "c6b60172399964eee172badecbd53fddd90026b24c159b8dca4a3747526d317d",
-    "f76a09b2b58f0b211b941d5647085e42d6671671fecffc92e24a82e8d395c1e0",
-    "5cc9cabad3156fd0626e3677b550bd6384150948eb97eec566cb2855312e5fd0",
-    "75bde9f09b450ce467a5f6705d29e70699aaf7f67dec01d0754e9ee28b0d333b"
+    "1acf5a90b89510827a1e6d8a7fbc9ffec59bc4e614eff8e89a3ca97ab9af7835"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

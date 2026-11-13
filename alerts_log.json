@@ -17504,5 +17504,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Goldman Sachs: We can explain almost the entire US inflation overshoot by tariffs and the war in Iran",
+  "link": "https://investinglive.com/central-banks/goldman-sachs-we-can-explain-almost-the-entire-us-inflation-overshoot-by-tariffs-and-the-war-in-iran/",
+  "published_at": "2026-11-13T14:52:47+00:00",
+  "sent_at": "2026-11-13T15:06:00.816551+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
