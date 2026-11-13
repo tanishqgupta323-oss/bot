@@ -17340,6 +17340,11 @@
     "EURUSD": 0.0111,
     "XAUUSD": -0.0513,
     "BTCUSD": 0.0195
+   },
+   "60": {
+    "EURUSD": 0.0664,
+    "XAUUSD": -0.0051,
+    "BTCUSD": 0.0269
    }
   },
   "checks_base": "published"
@@ -17361,6 +17366,11 @@
     "EURUSD": 0.0,
     "XAUUSD": -0.018,
     "BTCUSD": -0.1608
+   },
+   "60": {
+    "EURUSD": 0.0221,
+    "XAUUSD": -0.0051,
+    "BTCUSD": -0.1287
    }
   },
   "checks_base": "published"
@@ -17376,6 +17386,20 @@
   "impact": "HIGH",
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Radio Free Europe/Radio Liberty",
+  "title": "Iran Claims Strike On US Radar In Bahrain After Attack On Hormuz Port Town",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHN2SjZCd0ctVnlmMTZWbXp4U0F1VWJxazlaV0JoWlQ1M1NjZkNraFZCS1BFUlRCV25NR1VidU5fLWpYSjRvRTBBaDdBazF0SjJGZVREVURvTzk3VWJuSkZWQnRGejg4Yy1qNWJCbGlLdnFUM3dla21OVWRtdVE4T0FBb9IBhgFBVV95cUxPeE9jTEI2MWwzeHBONVhsWlFSNXlLam10OUZ0Y3drUG5fR3Bmd01NQmJ2UC04TlEzYU9JME54b2pVTGJOR0JnN2dKUG1CanBLa0JZNkZVRXYwN09sVVRHNDhTUWlRTkV1VDJ2U3dHaXJGbFl2WkZQSUxMSDZZaW43aXlPbE9MUQ?oc=5",
+  "published_at": "2026-11-13T11:47:07+00:00",
+  "sent_at": "2026-11-13T12:01:24.215058+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
  }
