@@ -17010,5 +17010,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Iran’s Guards claim strike on US radar in Bahrain, warn firms over Hormuz oil trade",
+  "link": "https://investinglive.com/commodities/iran-s-guards-claim-strike-on-us-radar-in-bahrain-warn-firms-over-hormuz-oil-trade/",
+  "published_at": "2026-11-13T02:49:17+00:00",
+  "sent_at": "2026-11-13T03:01:25.128651+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

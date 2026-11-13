@@ -621,25 +621,10 @@
   "calendar_fetched_at": "2026-11-13T01:20:46.588214+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 211,
+    "count": 212,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-01T10:10:50.336133+00:00",
-      "t": "Wall Street Journal: Trump and Netanyahu Discuss Resuming Attacks on Iran",
-      "w": [
-        "attacks",
-        "discuss",
-        "iran",
-        "journal",
-        "netanyahu",
-        "resuming",
-        "street",
-        "trump",
-        "wall"
-      ]
-    },
     {
       "at": "2026-11-01T12:25:37.353402+00:00",
       "t": "Gas prices top $4 a gallon as Iran war escalates",
@@ -3579,6 +3564,23 @@
         "usd",
         "yields"
       ]
+    },
+    {
+      "at": "2026-11-13T03:01:19.323170+00:00",
+      "t": "Iran’s Guards claim strike on US radar in Bahrain, warn firms over Hormuz oil trade",
+      "w": [
+        "bahrain",
+        "claim",
+        "firms",
+        "guards",
+        "hormuz",
+        "iran",
+        "oil",
+        "radar",
+        "strike",
+        "trade",
+        "warn"
+      ]
     }
   ],
   "resolved_events": [
@@ -3609,6 +3611,11 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "dc66a27667f2252008a1587fdf4ff354c6648cb141e394a116131343d76fe6f6",
+    "e323e2ffa2ed6b09d59e0fd46789dcb033e700f2185f19b157a1b763977d91ae",
+    "3e6cba7efe8e914c1c82d5782e0a75ff39aa5bb291d336ee7ffcfa4315d272ba",
+    "1e3d4002835eb53abe3fd3596b48f7b157439ea6b994d8fb562aa879442eab53",
+    "98a61aa7079e7bc3cf4a5e9c85defa5ed95786fac96a0772c9e6cf5fcb54c378",
     "d747374b69bfcbd7c5aac12bfca1bb8c8f14e649296461192c888c4d8f87fdac",
     "dfc20109a79f91e2c7117361642b6a8346460806e5abf586f88c0815397436f0",
     "b11f48b18d110e445a1706205116a2c4eb91404edeb04d2b084742763b8568ed",
@@ -4603,12 +4610,7 @@
     "38c38f8afeef1335be312a3d4e5e59d45418a5568c60fe6a220922dac3d5ed21",
     "bcd0d200af236a79a3954416ea5755274d6216da240bd4a8f35af3a8089b17e2",
     "89a4325bf241309e7deeb76b99c6a72660cb1bedc96698933b2d14789c87ec4b",
-    "97861cad726be25d4c540b7c20cb64c8bfbe9bad5078f16eb5508e0d4c60f18c",
-    "0a3aeac393d799311c4f40ce846ca0cc0ffb3bb48020dc6e3b262dd47bc18d48",
-    "bf74c9334d93dd4c3421626ab84c85b3c86431b5f957aaa4fc65da53d7cd7dc2",
-    "44937c19ce1156ae8465fca08a83f6d830665cc120ffdcc9908709fafa4f7af9",
-    "6228b5b65a19d319169a646308cb890f4daa4811faf6fdaa049e4e630793fb93",
-    "9ae7192fc37398b3d1f579ee72f31e963f7a6cf2f940e9c45ac97bee7f4da0a1"
+    "97861cad726be25d4c540b7c20cb64c8bfbe9bad5078f16eb5508e0d4c60f18c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
