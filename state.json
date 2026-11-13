@@ -601,6 +601,17 @@
     {
       "actual": "-",
       "currency": "USD",
+      "event_id": "7adf13a3c0f524fed3e802a2",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "-",
+      "scheduled_at": "2026-11-13T21:00:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "FOMC Financial Stability Report"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
       "event_id": "78d6f18da98e4b89bf4768c4",
       "forecast": "-",
       "impact": "LOW",
@@ -610,10 +621,10 @@
       "title": "FOMC Member Jefferson Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-13T19:40:45.131062+00:00",
+  "calendar_fetched_at": "2026-11-13T22:40:47.357851+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 179,
+    "count": 180,
     "day": "2026-11-13"
   },
   "recent_stories": [
@@ -3614,6 +3625,17 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "15615417e11b8096dcb9de291f0f3a6cc914934ccefcc1202ae0da56894d5feb",
+    "af4db223c1f39258b106b0bc8e2d55f49e95a2f4ebf25eddfa77f265bb100338",
+    "8054ded7b06dc8042c8917a554d03d26283765eb5c8b7ac5b9c7afbf8d8fb2e0",
+    "f79577cb50b782e2e64c72427c94645407af43f70dc2d488daf3589205851ed5",
+    "c359d1c6288999f623b991fd6e69f0a6f260a63a05177a8223263fc385f138bb",
+    "7e7b1b8b25178014ec7d36c63a655da27952161bd0fc4eda12bf290ff2b51170",
+    "23007b945fc3130307fe66afd9596fe32e5a5331ff52f1dd7520f9fa644a2584",
+    "0d2c89e820b46a5f85aae4dca741de34a1ae64993e1394041d772ee0d9dcd2b5",
+    "75ce93e232ea4e2760ca40cf2ce8d9804774e2215b404b3617d53dd97cdf4e03",
+    "7f584e82b79d29086cb0d530c9fed7341d30d6bf07a0465727032a86fc11a1f5",
+    "e70a586c08a1725fb33f7d5b894d22bc71dbb021f3abeff5b2f8183c95c62d38",
     "6ec39d449c0f4183216d5fc07c9b633d6178fede174f1be10a78a718b13f138e",
     "449c18db62349953c8996745c99a0b789c0628d43d4268e42a38933122a59d27",
     "a5cb7c52b82b0d09d9a594c6814ce649fee282cb16320b4373a8751dd6c35085",
@@ -4602,18 +4624,7 @@
     "eb0eb0f13cde6cc69db5761a7b6482b3fc22902e203c0a9eb507d2881573cb0f",
     "6c2bd28572ec95c1ae805d948734a2b1cf6223c8f7fbabfd0ba89c670ddd6e24",
     "4c84c6ae7f66d8ea630402c0a9d563b741d0a0088a63d839857634209356d4f9",
-    "c0c7c32c5b1359c6311857aa1b1e412f44214cd04211d52d7fa4594e591be7d6",
-    "7695c40410cb7a9cd54f934e83249cdd41bb272a6d6a1cd846f9df62a2f5018c",
-    "be1f83bb97daa99e99545d5e90b3f6ac2e3c4bc40dda6f874333b65263b3e950",
-    "1f0a5d77d92ca15d236acf3ddbadbe7777e6860bb09dab330a001d36fbfb1df9",
-    "72255671e536b6fc6e891ac404e2c7844fd8731a6515ddce1ba450e943187d72",
-    "8f79a1c2d0245fadc381e3694e3146ec0948e3ab09c17d509ccd530ccfc005ae",
-    "d5918fcb87333cf05e1fabdf111515b084cd5d8035ba9be3fd4ae44cd688f86f",
-    "d9e7c36d6373e4af1da220ffeef748d9b81ee4358ec1f572abdce7ec77e8c457",
-    "9ce142c748b334a2cd6498d89c1420c413f43d90f8baf12f31ccf25f4b60ec9f",
-    "dc0d3975f2212604b2ffefd84e958421a3221336bef3cc90997e2086999706fe",
-    "1eb8b17e81a35d5098f4cb5a7c23d2eadb4abe5bddb2d3feff13fbc67523ef59",
-    "a37c373f98283d9563eedbb7b31460454633d9e14b294bec3798c3c26e386000"
+    "c0c7c32c5b1359c6311857aa1b1e412f44214cd04211d52d7fa4594e591be7d6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
