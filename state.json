@@ -613,20 +613,10 @@
   "calendar_fetched_at": "2026-11-13T16:35:35.159887+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 126,
+    "count": 127,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-02T15:20:58.419808+00:00",
-      "t": "Fed Holds Rates Steady",
-      "w": [
-        "fed",
-        "holds",
-        "rates",
-        "steady"
-      ]
-    },
     {
       "at": "2026-11-02T18:05:50.570596+00:00",
       "t": "US and Iran resume 'very intensive' peace talks on ending war — as Trump threatens new strikes",
@@ -3583,6 +3573,20 @@
         "undo",
         "week"
       ]
+    },
+    {
+      "at": "2026-11-13T18:01:19.354284+00:00",
+      "t": "Fed’s Daly says rates likely need to rise amid inflation concerns",
+      "w": [
+        "concerns",
+        "daly",
+        "fed",
+        "inflation",
+        "likely",
+        "need",
+        "rates",
+        "rise"
+      ]
     }
   ],
   "resolved_events": [
@@ -3614,6 +3618,13 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "3ff5247dd6eebd539f5a0fc1cbd2015194ad8e34a394f418344a27dc82111595",
+    "ff2f5d985e1f2ed5eeccd6abf2dc4148089f196498f66f43574840d6fb9dca66",
+    "55552e525db2c0992161b21e3f23f802d3e26dcd1293487f8ff31e4704b043f3",
+    "206a3c52938ff14ae5ffac5323fe10da3d2dd90b5b581aaf9e0f586fdd2ea7b2",
+    "3e0354d1dabb5bdcfe4d303b7682bd867d82eb82af20521df5deb2f756c876f9",
+    "bfea31061575bfd324483d9590714c14cf8fab884fc608f281ad2876159f9740",
+    "8a43d5bba61c832e76d95ae7398837803c90524158eb9427fa78926ad8b97ad6",
     "3f86b80a61262115ee90897ec0202fd28ffdd084d6d58c421087e72cc6a0ddae",
     "df8c4f0e5b516183e134342d7c3f1d9f4003c2fb195aaafd91cb67972dbbff79",
     "bc28f158fcddd982687650acf3cab7c2d698f2633a395280b20ccf4dbc012310",
@@ -4606,14 +4617,7 @@
     "841b2da3bd484c5c29ab44f1e51b55482a3337c8b5f982d2a62b1c7c9051e36e",
     "46c14b43ae87c3946dd19faaf7292d8d050de0cb74ff06fb685d09bc23fc4089",
     "c8be8077d3325a0e028d84b34f282ee00d749d1fecc5b517aba401e8768a6fc8",
-    "ad4c41e49c5c438679fb33b01c07f53384ef6f8734226d1c4d20a1ee16ac90d8",
-    "154800c674237802a83832a884cd0e77a9e5d6b617e36735af08c2081e24b2a0",
-    "af2ef85b172a410ead09bf7f1079174ec07a861c65b46d65e1f202159e63dede",
-    "b5300ff56124bfa49a0a374bfa674432aff25ef6d53309c7ec9e1227972a32ca",
-    "68ebd29d8a0861425ba85b58a595f8cdc880158257a106ca68b5b70a9b3a5ce6",
-    "db597821b7cfc9b880d1fa578ebc121e1e73194473fcd369e557bd55b8cd9bb9",
-    "fc2c1dcee02470febc6174c73c857d6def6e46d6704c7fca9f1131ce86d85d7f",
-    "8ad3beb1ebdd7eda41f1c7846667a54cf662b3b0d087cde7b0d2b421b9ab8cbe"
+    "ad4c41e49c5c438679fb33b01c07f53384ef6f8734226d1c4d20a1ee16ac90d8"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
