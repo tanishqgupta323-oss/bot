@@ -17546,5 +17546,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "DW.com",
+  "title": "Bahrain: United States said it intercepted Iranian drone attacks",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzbDBjbGZHcHhaSXNOLUk4ZC1kS2ROSU45YkJfdEN6N1NBdHZTRENtRVJPZ295OFVLVUVUa1BUdDFMai13TVJjcTJmSXN1VkN2RDU0X1owdHM4MUZJd1RFMWJNN2J2aGlsdjVtU1JPZ9IBb0FVX3lxTFAzQmFOME1sV2pfVFc2c0Y3UnB1WExzaUt6d0xUR3NYclNRN1BxRDFrUFdpWU15aHVyVWUzSmI5LVYwSVZiTGtqNWlhODlfRFJjc29LMnJDQnFrdGo0QlAwYVptajl0RXhEMnFXaFlucw?oc=5",
+  "published_at": "2026-11-13T15:35:24+00:00",
+  "sent_at": "2026-11-13T15:50:48.983935+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

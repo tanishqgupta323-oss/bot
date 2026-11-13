@@ -624,26 +624,10 @@
   "calendar_fetched_at": "2026-11-13T13:31:07.787338+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 102,
+    "count": 103,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-02T05:45:50.491900+00:00",
-      "t": "Trump may attack Iran with nuclear weapons within days, Tucker Carlson warns",
-      "w": [
-        "attack",
-        "carlson",
-        "days",
-        "iran",
-        "nuclear",
-        "trump",
-        "tucker",
-        "warns",
-        "weapons",
-        "within"
-      ]
-    },
     {
       "at": "2026-11-02T06:50:51.976838+00:00",
       "t": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
@@ -3600,6 +3584,20 @@
         "trump",
         "warning"
       ]
+    },
+    {
+      "at": "2026-11-13T15:50:48.078716+00:00",
+      "t": "Bahrain: United States said it intercepted Iranian drone attacks",
+      "w": [
+        "attacks",
+        "bahrain",
+        "drone",
+        "intercepted",
+        "iranian",
+        "said",
+        "states",
+        "united"
+      ]
     }
   ],
   "resolved_events": [
@@ -3631,6 +3629,7 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "02b1a65649da84823290048edb4cb43dfcb33a1e658e366dc2600ebb04ba923f",
     "89505f152e2f3ccc6652601f9cf213b6d5abb2c312385297e8e46c8918c7fc7a",
     "9719da4f846715c9f0f515752f9850a9ed3de6de99fb6a0b7cddd0a21541e9bf",
     "a4a862f253d13c3b7e1227008b8d86dad9d565f583a511d0e9bcd9b6b484b33b",
@@ -4629,8 +4628,7 @@
     "8441f9495845241f9b162f56ee836b865646939536bc85d55a2a4447fb09e557",
     "2a1363ed3925b03565157ba6a049294f438a4b1924c3b8c920cfd9a563c6b884",
     "c0df26a3cec54ca07638ee94dee5654463c19557313d114f1c660fc5cab25ae4",
-    "4e9878efa1e57dd56e626758b53789eb19015300a36fe1a866929f55c9cafa91",
-    "cc4ede213c2fe8d8fa50e97e5303649a69e23ac57841be23dabfa79af7b6a9e3"
+    "4e9878efa1e57dd56e626758b53789eb19015300a36fe1a866929f55c9cafa91"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
