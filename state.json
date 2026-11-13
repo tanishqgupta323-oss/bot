@@ -613,28 +613,10 @@
   "calendar_fetched_at": "2026-11-13T16:35:35.159887+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 116,
+    "count": 117,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-02T08:50:57.871067+00:00",
-      "t": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
-      "w": [
-        "billion",
-        "binance",
-        "holdings",
-        "less",
-        "live",
-        "outflows",
-        "records",
-        "starting",
-        "then",
-        "total",
-        "updates",
-        "withdrawals"
-      ]
-    },
     {
       "at": "2026-11-02T13:31:18.240387+00:00",
       "t": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases",
@@ -3585,6 +3567,21 @@
         "tightening",
         "warranted"
       ]
+    },
+    {
+      "at": "2026-11-13T17:01:28.820572+00:00",
+      "t": "Kevin Warsh Puts His Stamp on the Fed, One Canceled Rate Decision at a Time",
+      "w": [
+        "canceled",
+        "decision",
+        "fed",
+        "kevin",
+        "puts",
+        "rate",
+        "stamp",
+        "time",
+        "warsh"
+      ]
     }
   ],
   "resolved_events": [
@@ -3616,6 +3613,18 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "9b9511d616dcdfee4c31e4846e724947801f11da5f6de0d77337773888d31271",
+    "ea566811aff809fc3fa5364613985946c2436075297a516d22174b122ea63b4a",
+    "03215d5ed768365d727dd66c02bba3a4789437c0bb852f241d80b330e118caa0",
+    "6cd057e85d10e477156cc8dc04d1b07e3161e39a3680abeaeeb8b0a962800e2f",
+    "d70caa4e6acce7fcd2e6982abd95380fe392a1bab783f3f1b02dfb9c1963e563",
+    "978d5e9ea51c8276b9699dc1fcc61f101aa324d39bc67c9eb38d9624597a3598",
+    "7c990def1c868f6e78655fdc414a793adb150a510c39c96c81efe1838fa5315b",
+    "69b48694ca682643f955ca975a8bf3069177bf7c797958b7a4a277df1fee58a8",
+    "f6b13f9a1411b42527ce25888effd445682ed6f794b9d1b309623810a27bf540",
+    "076d3ddff9efeef277137a57574a581c3fe4da21088940ccecd2d53ab9794854",
+    "e91f32af81da4ede625533ab6de31c9b18622030eb5c67c9863eeb62ea66c8c7",
+    "6ffec17c9f38900196eebf54b3378eff627abb64fe1dac891c48a0ae3adedb6e",
     "477e3e6e6ca832bc9322aa1f5e5b167591fa32bb71fe0fe00da0391ed516508e",
     "95c5ae414bbe35a98748848c5f85aa5341b61c3e25911f0a5a1c24c58f113090",
     "83d634be1c5444ff26cc7f203ad4f6b95730189902a85b302847e590abe66b8a",
@@ -4603,19 +4612,7 @@
     "725cf43a350f1f91f1d4544ed38eca63fce55c09a0cf8ae4074629c51c9175c8",
     "0a73c4471a87738811ba0456479793ae4da8089907fe6e030b31a07ae5c5eb27",
     "4e097697020fe40ee226107b212754b928ddbc11b1931ed38323496fe5bb7843",
-    "6d8c337c2368fd5e4b490f22daf170dfc920bf777d0a1c47a46e634addcedc4e",
-    "cbe179e2ec2cef0a3c9eaf7a8111e268df7e3326d8dcaa17d8e347b91d5030f9",
-    "55af9aff9c4d5a960d8daf0a76213e4ef3f2f443d93c2e7db31caa949bedf086",
-    "dfc54e71b343ea9062540c04a3207236b06f0c1a2bb7644c0dc6c8145bb80590",
-    "c49f2ab398ffc338f5c600a75c89d851eed68dcbeadfba3d7bb5c9cf5cf82748",
-    "5f46f18bd6073f27f1b24540e6c6114b41dbc31875ef9e187598a5cba228d410",
-    "05d341e6d6ae3a728c199b2f7c5759db2143386ab25632164f2f4b436f31c10c",
-    "86072de26e506ab18f49cb609b47afbb3e684dcca3f99d596b31be505dd45c34",
-    "43ac937311c327ec85be3bd786f6a10de8c0727670510f97ca50bcc4b56f404d",
-    "5a71d83ba3bc7b196f5102986893be75b1b1ababada84f32fbc9fad668ce12f8",
-    "a0c4cca83d20bd24639b44b583fdd808f09e153c846d732230fb9b9a29d0a414",
-    "0fdc8a888ca1dc55d3ec0c5baacd3112e5cc453c7d4f5c1824c8f74847d45b16",
-    "aa143c884f458642f9f4193443b0a2cb357acb95f7d376173543372ba432ab39"
+    "6d8c337c2368fd5e4b490f22daf170dfc920bf777d0a1c47a46e634addcedc4e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

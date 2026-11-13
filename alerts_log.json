@@ -17608,5 +17608,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "WSJ",
+  "title": "Kevin Warsh Puts His Stamp on the Fed, One Canceled Rate Decision at a Time",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWREYWtpWllac2NUdW9FOW1tdXZrTS1FclFzZnA4TEhkOEFJQ0liTEZZdElXbU5BUHMtTnNVME1zYUVpWHY5VXZmM0Z4YWRMY0U4YzVFdldTOEhEQUpSSnluaXNNM2VVVlQ0YnNXR0hUNHRhM1gwSWhtZXl3QlB2QXR5aUVXajZBTTlRdDhB?oc=5",
+  "published_at": "2026-11-13T15:03:13+00:00",
+  "sent_at": "2026-11-13T17:01:30.713790+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0774,
+    "XAUUSD": -0.167,
+    "BTCUSD": 0.0321
+   },
+   "60": {
+    "EURUSD": -0.2317,
+    "XAUUSD": -0.4136,
+    "BTCUSD": -0.1941
+   }
+  },
+  "checks_base": "published"
  }
 ]
