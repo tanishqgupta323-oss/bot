@@ -621,22 +621,10 @@
   "calendar_fetched_at": "2026-11-13T01:20:46.588214+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 223,
+    "count": 224,
     "day": "2026-11-12"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-01T13:01:23.259203+00:00",
-      "t": "Iran warns of 'geographically unrestricted response' if US attacks",
-      "w": [
-        "attacks",
-        "geographically",
-        "iran",
-        "response",
-        "unrestricted",
-        "warns"
-      ]
-    },
     {
       "at": "2026-11-01T14:05:38.249238+00:00",
       "t": "Iranian negotiators in Qatar to continue talks to end the U.S.-Iran war: Reuters",
@@ -3585,6 +3573,21 @@
         "million",
         "nearly"
       ]
+    },
+    {
+      "at": "2026-11-13T04:05:41.020894+00:00",
+      "t": "BTC news: Prices slip below $70K, triggering $1.2 billion in liquidations",
+      "w": [
+        "70k",
+        "below",
+        "billion",
+        "btc",
+        "liquidations",
+        "news",
+        "prices",
+        "slip",
+        "triggering"
+      ]
     }
   ],
   "resolved_events": [
@@ -3615,6 +3618,8 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "1cee7148f23205912d63c2b15dde0b6ce118cd5ca5a69b3e82e5f86eb9c704b4",
+    "11c37f9c7f5977d3cb017c80cf9eb7f4b79ca6d9315a8fb31dd7d5d36308acb0",
     "92679973c87787286b8f2eecc5daf23ac383fa8c4b890a5b10167e7ec9259e14",
     "9f2c98bfa0c6a75020eb7285b9a94a91fa2f220ce6c8ea66ffbbc8d84962ad5a",
     "167aa2baed9ae2a15a34c749bbd1472f5c100ec43a4247579bdc18cf439d42cf",
@@ -4612,9 +4617,7 @@
     "b61c261a4a9678eb7ff51e2e29d074bcded436e78a0fb1dfe81e98ebd46ba281",
     "b679507afca5f9e95dcd34cce74c267422c320c3e3273e5cf6ce9a4948f2b955",
     "7df310fafd7a468a35d9504528e2e870d05be6c4750d3c1035a58f643334adb2",
-    "d9f2140d922d5f32e38c6ef397493b7ca4ec59b04ab8e0fc00a555e104c37454",
-    "c948cbd91423004196b626b7bea216a56e1a6ae6e2edcd0f406ed08aa821531f",
-    "5931532c5242a25c3f2d3067246d73f97ad454163193a3f9b558c24a19f6434e"
+    "d9f2140d922d5f32e38c6ef397493b7ca4ec59b04ab8e0fc00a555e104c37454"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
