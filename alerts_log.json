@@ -17314,6 +17314,11 @@
     "EURUSD": -0.0442,
     "XAUUSD": -0.0769,
     "BTCUSD": 0.1265
+   },
+   "60": {
+    "EURUSD": -0.0111,
+    "XAUUSD": -0.1949,
+    "BTCUSD": -0.0063
    }
   },
   "checks_base": "published"
@@ -17335,6 +17340,27 @@
     "EURUSD": 0.0111,
     "XAUUSD": -0.0513,
     "BTCUSD": 0.0195
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Financial Times",
+  "title": "US Treasuries set for worst week since Trump’s ‘liberation day’",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0FUTktDMERPRkR0VWQyeFdYUXZEZUpGYjFMdFlCekF4YTBVRkJNZzZFY1Fsc2VPeUgzekJnc3Z1XzhaVXZQRTRMWmNGUlJGeEFDNGZlMDc3d2syWDZNRndBeDl2RkY5MnpBM09sUjNSTkVHYWExNU9VSVBUQnhXWjFkaW4?oc=5",
+  "published_at": "2026-11-13T10:57:36+00:00",
+  "sent_at": "2026-11-13T11:45:49.540468+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.018,
+    "BTCUSD": -0.1608
    }
   },
   "checks_base": "published"

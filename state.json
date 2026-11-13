@@ -621,25 +621,10 @@
   "calendar_fetched_at": "2026-11-13T10:31:05.660626+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 40,
+    "count": 41,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-01T23:31:09.058128+00:00",
-      "t": "Iran’s boosted weapons capabilities have caused up to $15B in US base damage: report",
-      "w": [
-        "15b",
-        "base",
-        "boosted",
-        "capabilities",
-        "caused",
-        "damage",
-        "iran",
-        "report",
-        "weapons"
-      ]
-    },
     {
       "at": "2026-11-02T00:05:38.261893+00:00",
       "t": "BTCPay Server tells operators to shut down after reports of hot wallets being drained",
@@ -3603,6 +3588,20 @@
         "threatens",
         "unlimited"
       ]
+    },
+    {
+      "at": "2026-11-13T11:45:48.451799+00:00",
+      "t": "US Treasuries set for worst week since Trump’s ‘liberation day’",
+      "w": [
+        "day",
+        "liberation",
+        "set",
+        "since",
+        "treasuries",
+        "trump",
+        "week",
+        "worst"
+      ]
     }
   ],
   "resolved_events": [
@@ -3633,6 +3632,9 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "eb69989ecd78023b7f161f7b928b5f6ef47c28fdf9909af81c16bd79bb8ca0a1",
+    "ac7488a309e999e0b9fe895a41cbf371bf9d92a6d332c45e70757f124bb63ee5",
+    "c9dffe125d4e9bc50277c850f839ca50fb47239ab812c5a55363336badcf9e67",
     "52c2803b9b71b4c0a757ac1eb922778d6b15351a36c0b40b405065ff4b6b4884",
     "fea96e691eb835483993f6fd9c323a3cd680098e0986701e57a65ffd7237fe50",
     "b2938586d4cbc445061eaf0fc83509a2ef960fc9abb9b3fa2d8f9801fdd69ed9",
@@ -4629,10 +4631,7 @@
     "f40d74037e9a1e03d9decb51b6e45ede63f26d309201243437d566249b5d195f",
     "daa88570e3e1c270f299682cc7bbaaba5cc6e3ad6229e7c79b38f2e3ce8e11d0",
     "ac17fec1e44ed99a309f6a140d27b6f38ce9b1f6eb9787b4b500ac73776c893e",
-    "b62ab42e8a1854d50a8263f85d0dc843be70c2ff1634030f2cb1bce9a6ea6f75",
-    "d41f725702bcc2cc735697eb2560c7c55ed1717025f84172f2ff21c601e3f999",
-    "2493a498e4da05204fc2f6e39fd3685614716472c454ece99180af3dfe0ba801",
-    "de008a329edee705f5de7eb7ca9e9613bbc741c34663eb698c13a9ad221cbdb9"
+    "b62ab42e8a1854d50a8263f85d0dc843be70c2ff1634030f2cb1bce9a6ea6f75"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
