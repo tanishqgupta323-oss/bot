@@ -621,27 +621,10 @@
   "calendar_fetched_at": "2026-11-13T10:31:05.660626+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 42,
+    "count": 43,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-02T00:05:38.261893+00:00",
-      "t": "BTCPay Server tells operators to shut down after reports of hot wallets being drained",
-      "w": [
-        "being",
-        "btcpay",
-        "down",
-        "drained",
-        "hot",
-        "operators",
-        "reports",
-        "server",
-        "shut",
-        "tells",
-        "wallets"
-      ]
-    },
     {
       "at": "2026-11-02T03:05:38.157102+00:00",
       "t": "Tanker hit by two projectiles off Saudi coast as Gulf incidents reach 10 in three days",
@@ -3602,6 +3585,24 @@
         "week",
         "worst"
       ]
+    },
+    {
+      "at": "2026-11-13T11:55:36.737779+00:00",
+      "t": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+      "w": [
+        "billion",
+        "bitcoin",
+        "dollar",
+        "hits",
+        "interest",
+        "liquidations",
+        "low",
+        "outlook",
+        "rallies",
+        "rate",
+        "top",
+        "week"
+      ]
     }
   ],
   "resolved_events": [
@@ -3632,6 +3633,8 @@
     "8ccbaeff6976654d45d8efa5"
   ],
   "seen_headlines": [
+    "6a527989347026d265a39b0dc5fcba46957081bda5889076796c5ff09c70da51",
+    "81cc492e4bd63184517388345229a7d4d90858dcb7974ad73b2a65a654f47e0a",
     "3b6923bd950a1d3f76668eb8e4c07580ee720a1688f5563c690318613604e8e0",
     "f575920bee2bc346363090fc41fe0125b0ba71636889627220694a55bd4552b0",
     "c13839b3bda1d8b690d4fb67b6653999526989867ed60af35b4f5a12a553a313",
@@ -4629,9 +4632,7 @@
     "c2c0ca479adfc944c98d055d0ebcac154ea067aefacb1d7eaa4e0a035ac4ee93",
     "93a978f89e713795fff8c5555478faeda198959d403b8159ad00ea70d68614df",
     "cc97abb4a635982732fe1d8704b443b57a7c4a280790da75b5be9f12a4dcf3e2",
-    "7da4296ba7a6196827904081d2da0e0534acf72f90fb080c19dcf29874e16b58",
-    "63eec2299f61fb02ef044a05729a42643693eb9b6e3b45de2ec68ad7b73742c2",
-    "bb8b127a6f50a7cffba387417ee09baa92f3f5fdd2f36ce9bebdf14cb8c687f5"
+    "7da4296ba7a6196827904081d2da0e0534acf72f90fb080c19dcf29874e16b58"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
