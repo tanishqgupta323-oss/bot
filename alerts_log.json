@@ -18045,5 +18045,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Media Line",
+  "title": "Iran Attacks US Military Base in Gulf for First Time in Nearly 2 Months",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2laSFpfcGl6bDVidFBFZ2hGUDJDajJnOUJCVEZISF9ZMWZEWVBIT0REU0lYazRtTDZKQUdaSHJpQU10MDhzLUxpM2k1cVhXc2V1bmtsbVp0bjFZRXg1a0t3NG5PTzBTZXpIbElGVFBla0RoWGl0bWYtT2dtRFh3T3RUQjRmYUpXelFPRGZMWU9OMkt0bWRTUzg2T1QxVzRfQVZ2RXgxZ1BGZFk?oc=5",
+  "published_at": "2026-11-14T17:48:28+00:00",
+  "sent_at": "2026-11-14T17:50:46.057971+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

@@ -624,23 +624,10 @@
   "calendar_fetched_at": "2026-11-14T16:55:39.819586+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 91,
+    "count": 92,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T15:10:52.715413+00:00",
-      "t": "Job openings surge as U.S. labor market remains robust",
-      "w": [
-        "job",
-        "labor",
-        "market",
-        "openings",
-        "remains",
-        "robust",
-        "surge"
-      ]
-    },
     {
       "at": "2026-11-03T15:41:28.857817+00:00",
       "t": "Trump says he will end billions of dollars in military aid to Israel",
@@ -3599,6 +3586,21 @@
         "unprecedented",
         "white"
       ]
+    },
+    {
+      "at": "2026-11-14T17:50:44.497989+00:00",
+      "t": "Iran Attacks US Military Base in Gulf for First Time in Nearly 2 Months",
+      "w": [
+        "attacks",
+        "base",
+        "first",
+        "gulf",
+        "iran",
+        "military",
+        "months",
+        "nearly",
+        "time"
+      ]
     }
   ],
   "resolved_events": [
@@ -3630,6 +3632,10 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "2e36202d063e6877c60998a37b3592e15ce554e0cc2324a16be99cbefdb11daa",
+    "fc3e5220285b92638b28c1a6ec678f71c93cdb55ebbb34f91c2ce77c05e23393",
+    "a193665ec39e6996de62a14bc739db41efbfe1acd377c45f20829b98040f4081",
+    "d5c81aad4bd777de0e9d16635120134cd010b98647789d6a7c1d73fcfc3e9acc",
     "4e420029832356bc7d0e18991a004a03faab4d75c5a59f319e82ef8e17ec3dbb",
     "6c65901b89433ca6c537ad0361edf3f5a4292fb35b833abeebc23ecbaef8d652",
     "0c115500d83975f3673fd83ac57b058b1abe000f6f629cb6cd17d5b64a5457f6",
@@ -4625,11 +4631,7 @@
     "6adde0a1e92efb449ee9fc78d395598c63c772e2aaac499c7abc8d2be6ae7fda",
     "f9988db212c78aa9e54c29f4979d8079d73c864cb0c4e7ace1018178cf732084",
     "ebdb5070a608ea1940506c80432c3d1f16f66b60a85ed22daed45cb7421794cb",
-    "7a125bebd396ba9f3a43c25bb9862d141e06e82719c42ad7bd613bd15c21bf93",
-    "0a73c4471a87738811ba0456479793ae4da8089907fe6e030b31a07ae5c5eb27",
-    "0a1b1ad3217ffc5a11a722f246b158ff693b2f57639afdb6505122a2a2c9939f",
-    "111ab52497d8a2572ea746742f875edbaf2d421105148e2db1a962f1f7f0a1dc",
-    "75a3b6285bbb3ed761a6d6a29f49d1c62bd0538afcac4afb1bf6e0733bdefa4c"
+    "7a125bebd396ba9f3a43c25bb9862d141e06e82719c42ad7bd613bd15c21bf93"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
