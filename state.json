@@ -624,24 +624,10 @@
   "calendar_fetched_at": "2026-11-14T10:50:43.692657+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 28,
+    "count": 29,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T09:40:53.400375+00:00",
-      "t": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
-      "w": [
-        "dallas",
-        "fed",
-        "implement",
-        "increases",
-        "least",
-        "logan",
-        "needs",
-        "rate"
-      ]
-    },
     {
       "at": "2026-11-03T10:40:56.609419+00:00",
       "t": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases: Analysis",
@@ -3599,6 +3585,19 @@
         "week",
         "withdrawals"
       ]
+    },
+    {
+      "at": "2026-11-14T11:15:50.653152+00:00",
+      "t": "U.S. floats NATO membership for Ukraine in exchange for Donbas, Zelenskyy says",
+      "w": [
+        "donbas",
+        "exchange",
+        "floats",
+        "membership",
+        "nato",
+        "ukraine",
+        "zelenskyy"
+      ]
     }
   ],
   "resolved_events": [
@@ -3630,6 +3629,12 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "cb7285456d374a579b0066ca64329f9eebbfea1558a8f3bad6ae33ac9f35ef6a",
+    "df75407b0e9176e764a62d350a9061891064dfd86493b3344ff82e0a57ca7d3c",
+    "ddb9280f4f06b5c2083f33adabde4bcc2c2c14ebb353b63c8a0295d1b16dba5b",
+    "46c0753f5af6e4dfaadd0f25e4829f2336e61ffede4786f6cc7f65ae5e4758a1",
+    "dd56dfaabbc710f3409f54a6f67fab7390f940dfd9d3e9c34f72c27d1acfd17c",
+    "83a15a175ddb2897179c4d8901aa09a42629c052f12e7c79a53b8e3d644ba27e",
     "7daef602b0b5e25e3455fdaf3d326094ac1bee62950a8d0139f017093cb43330",
     "1862287be4d3b065a3d7347493850bf760925a6b8e4250fd666e01e40026aece",
     "3e578a3aa2487a42443787da624141847d447212bff65282bc76c5b022a786bc",
@@ -4623,13 +4628,7 @@
     "6b901c0af91da251c17a658ba606ee51ebf19638e734eb8982b37b5bec6d01e1",
     "571b82ba6224fb1efd265b145140d01a6df4b22b519a53c03bd6bc5b6ed86c6a",
     "f8f07685f76bdfa0c3bfe1e121c34efa68e559f27e1d9dd6b8170ab5a7c7d6b6",
-    "89b5962a1040e31be55c19f3ab7920db13022ed39bcbfaba32364d7b1aa5517c",
-    "b401f9fa86539e885b51fd2b8737837bb9e7710fc48db6f8b37f094eb78dbd5b",
-    "d8002eac5f7d6e7878cc883a0c7ca8f16d2528f6ef9d9803dbcc0740c15ac9d8",
-    "3f0d133e08f2e1f6d7aef6e057d6ed374f525284d7a6019b36518a7f60266d1a",
-    "dd602c978c607f75e6841a681f923f797a485227e15c00971a15d9715b132e25",
-    "728e39401d1ccc946c4db60f77498c70ff05a8aef66dc6d56500dcdd92d32683",
-    "26a628589b92cf9f2aee9abd1607fab92fabd9d9fd9931f7437ae9f8c8b1b861"
+    "89b5962a1040e31be55c19f3ab7920db13022ed39bcbfaba32364d7b1aa5517c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
