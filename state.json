@@ -624,27 +624,10 @@
   "calendar_fetched_at": "2026-11-14T13:55:36.642968+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 58,
+    "count": 59,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T10:40:56.609419+00:00",
-      "t": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases: Analysis",
-      "w": [
-        "air",
-        "aircraft",
-        "analysis",
-        "bases",
-        "buildings",
-        "defenses",
-        "hit",
-        "iran",
-        "mideast",
-        "targeted",
-        "then"
-      ]
-    },
     {
       "at": "2026-11-03T12:45:54.890376+00:00",
       "t": "US carries out ‘defensive’ strikes on Iran’s Qeshm island in Strait of Hormuz",
@@ -3598,6 +3581,26 @@
         "ukraine",
         "zelenskyy"
       ]
+    },
+    {
+      "at": "2026-11-14T14:40:45.839348+00:00",
+      "t": "‘Don't Wait’—Bitcoin Suddenly In Free Fall As Price ‘Collapse’ Fears Trigger Surprise $2 Trillion Crypto Crash",
+      "w": [
+        "bitcoin",
+        "collapse",
+        "crash",
+        "crypto",
+        "don",
+        "fall",
+        "fears",
+        "free",
+        "price",
+        "suddenly",
+        "surprise",
+        "trigger",
+        "trillion",
+        "wait"
+      ]
     }
   ],
   "resolved_events": [
@@ -3629,6 +3632,10 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "a86044487181d53241e1e61e5a3fc41580900397a169ed30725e44e492867f66",
+    "34dc771421f356843305016f08be8e621353c35692a95465250d3580f7ce2b85",
+    "449306bdb9686953523a35bb444d86f6a54f54b7b9f4b8879ee18651dc4f32d8",
+    "ec87fb6a52df3f7690d22250e70e5921cdec5915aaaf7281e473fbc8f9eaa8a9",
     "3ec360cf553759cc76c2b288dfd35b3d6123da934f99fe7673e7aa0288669805",
     "8ac160bde50bae713450703973de53b5253171b0cf395ca6b5faa957235ddacd",
     "3dc7326cf11112ac2f33032f84fc3ee11c4e800c9b32237531d3c32311077b66",
@@ -4624,11 +4631,7 @@
     "a16df49607640f08f4f040e528a13d198999cddfcb11c7bec5a63eb615a7281e",
     "1cc72473f26f9e2c8e20380436e48fc5aaee7dcd58becf8a97c6f0230e5975de",
     "07e648ca0b419ded1e391558f113b8e1e546d4ab5c9b66ed361a385446f9b0ba",
-    "54627cdc42d1ea6cc214e025a217e15f7370cc72a660fda6c7e4314e144fc213",
-    "4abde18c44fdda703bc34e6e41b9d0b260b2b4dc4eed3483d1d9d1b1c26ff78a",
-    "df684002f2027159e4748545f4ed8af620e173528bb28445dd50410f496d805e",
-    "76b19c712d4f6e9af72a2a1e2c6de074fbacd15d7ff4cbb6031e3655e3470efa",
-    "aa0ba3597644af10536bdada6af5eab6d1902b80072f59eaf41ba4e8e5b89c33"
+    "54627cdc42d1ea6cc214e025a217e15f7370cc72a660fda6c7e4314e144fc213"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
