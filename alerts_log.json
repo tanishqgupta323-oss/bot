@@ -18058,6 +18058,27 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.02
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "FOX 13 Seattle",
+  "title": "Iran claims it destroyed U.S. military radar as conflict heats up again",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ySGxaYkRvcTlyUUY4OVJCWEYtRGNBLXhNd0d1bmFORVV1cDM3dkhtT1VPT1dfTkZOeF9rTGJNZ3NkQlJ4RWVfTXRrT0QzWTJVdlhBWXVPdkZMX2ZDM3hQaHVOX1Uyd9IBa0FVX3lxTE5TSXd1c1ZWSGZQQklRV2dMV3lzR3FWZFhOdVJnOFpIWVZNZ0g2SExTTVpERldfMkhkVUxtTmp1Y1FWcldZM0hiUDBFbHpzd19WbTJPdzNIS0JnR0NDR2UzN3hDSnh4YWItUW1Z?oc=5",
+  "published_at": "2026-11-14T17:53:04+00:00",
+  "sent_at": "2026-11-14T18:05:35.813026+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]

@@ -624,23 +624,10 @@
   "calendar_fetched_at": "2026-11-14T16:55:39.819586+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 93,
+    "count": 94,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T15:41:28.857817+00:00",
-      "t": "Trump says he will end billions of dollars in military aid to Israel",
-      "w": [
-        "aid",
-        "billions",
-        "dollars",
-        "end",
-        "israel",
-        "military",
-        "trump"
-      ]
-    },
     {
       "at": "2026-11-03T16:21:08.556156+00:00",
       "t": "Trump confirms strikes on Iran as Pezeshkian urges against return to war",
@@ -3601,6 +3588,20 @@
         "nearly",
         "time"
       ]
+    },
+    {
+      "at": "2026-11-14T18:05:35.034916+00:00",
+      "t": "Iran claims it destroyed U.S. military radar as conflict heats up again",
+      "w": [
+        "again",
+        "claims",
+        "conflict",
+        "destroyed",
+        "heats",
+        "iran",
+        "military",
+        "radar"
+      ]
     }
   ],
   "resolved_events": [
@@ -3632,6 +3633,8 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "99750b0659b7639c3e77309f7ffac04f3839d9e1d1dee14bd96b74bf4408013b",
+    "5ece12bb33a42878a9facee1f1c21fa23dbd5ac09287744a55d318cb434eab4a",
     "3a84ab9fedb9003b020153036123420d6a0aaf85a2e1aea1b5d9420ec3fae746",
     "1266bee51d7d96e4e4561bb3fc8700bcbc1586e89b57a9562b92f8e213732666",
     "8bea1c50e94505ceef66d82d3f465a01c2949f1ec9eb46f6622572dac58dbcfa",
@@ -4629,9 +4632,7 @@
     "7144c156e2ff2487b6cd68762c45b24940f2b316383180bb7d6183375563b7d0",
     "395562e97a99cdc4fc611ebf6e62f62e19fcdf2ba4b570a47a3d53a5701cfc95",
     "3d01f12784d66501d1f8a224bef7c3b65e1ed80249d4e31cb15f29ba87cd0013",
-    "bafd448b198bf930880c2971f1a15a20302c91587ebd55a82dae818e4a1445b0",
-    "e8be0517897fcb7e2ab7e8dd452e744cf49b543b01c0bde02233f11bf8e8c684",
-    "6eaee536bf353de397c3d07c9c04c2cdbc1e117edda9703a2503c8693f99288a"
+    "bafd448b198bf930880c2971f1a15a20302c91587ebd55a82dae818e4a1445b0"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
