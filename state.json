@@ -624,24 +624,10 @@
   "calendar_fetched_at": "2026-11-14T07:50:41.941389+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 18,
+    "count": 19,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T05:15:51.291667+00:00",
-      "t": "Americans head to the polls for elections that could define Trump's closing chapter",
-      "w": [
-        "americans",
-        "chapter",
-        "closing",
-        "define",
-        "elections",
-        "head",
-        "polls",
-        "trump"
-      ]
-    },
     {
       "at": "2026-11-03T07:45:59.567262+00:00",
       "t": "US strikes Iranian islands as Trump talks up diplomatic progress",
@@ -3594,6 +3580,24 @@
         "tells",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-14T10:15:43.843559+00:00",
+      "t": "New Inflation Data Offers Terrible News for President Donald Trump's Economy and the AI-Driven Bull Market",
+      "w": [
+        "bull",
+        "data",
+        "donald",
+        "driven",
+        "economy",
+        "inflation",
+        "market",
+        "news",
+        "offers",
+        "president",
+        "terrible",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3625,6 +3629,8 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "b917b4e0c2b0f1af0fe554e10797bfb561625841c825a0369507baa095a599e8",
+    "a81030131bfa96efcd07f080764218290da8320f418840344dfd147fdf1b74be",
     "1cc58a80bc1abd0a0e707d28958cf1d1d3ddeb7ee61f92e148c89b22665c2994",
     "266f6aac1bf00026971803fe0a56650acb4d9ab4fe9676e27c07f7b541eab1f9",
     "84c724cc523653e5d41fbe8d058a53b5cd07c9046fca08b87ad7b67825410258",
@@ -4622,9 +4628,7 @@
     "504ffe100d11cf5b0fe427082b3dac0216220cf001a33f7d9c6069087f00e2e5",
     "54f9af319c67cecc54593d20c3264dca9116c114152bb91f1ce59579f4d26cf9",
     "9e6207cb0bfb2a64eed7c3559aba6dc6387eb2f0a90388760e976a3f32549638",
-    "691cc33648ea02ec17cf51f4aa9626391a2c064bc8b4f4fe132d40a5b0c4599b",
-    "b7fff250adff31a2a763070d4c6148781d394662bbb8862af772b3eb9d9a843e",
-    "36f88ba181668dd35eb66de9c75fbfad85f2ff71a9ecde01e639f15a361a783b"
+    "691cc33648ea02ec17cf51f4aa9626391a2c064bc8b4f4fe132d40a5b0c4599b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
