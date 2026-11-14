@@ -17790,5 +17790,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "China Daily Global Edition",
+  "title": "Iran targets US radar in Bahrain",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeXE1bHBtVWxOREdSXzQ0ZnZDSmlPZTNrRGlrZU9fcjdDalBZaGp0bThDVHlyaXIxaU96S1U4Q1FlY2ZFbERrT2ZQa19EWDBxWWF4UWphNTJka1VXbVR0ZW5aTGo2N045MkpUMU11TW1Udlktb25vTTZwZ19XdV84cUdB?oc=5",
+  "published_at": "2026-11-14T00:01:59+00:00",
+  "sent_at": "2026-11-14T00:10:55.454516+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

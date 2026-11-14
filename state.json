@@ -624,26 +624,10 @@
   "calendar_fetched_at": "2026-11-13T22:40:47.357851+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 196,
+    "count": 197,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T00:50:52.150730+00:00",
-      "t": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
-      "w": [
-        "down",
-        "exclusive",
-        "iran",
-        "island",
-        "qeshm",
-        "risks",
-        "strikes",
-        "talks",
-        "trump",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-03T04:55:38.335379+00:00",
       "t": "U.S. forces launch new ‘defensive’ strikes in Iran on eve of election",
@@ -3594,6 +3578,16 @@
         "rate",
         "waller"
       ]
+    },
+    {
+      "at": "2026-11-14T00:10:48.728680+00:00",
+      "t": "Iran targets US radar in Bahrain",
+      "w": [
+        "bahrain",
+        "iran",
+        "radar",
+        "targets"
+      ]
     }
   ],
   "resolved_events": [
@@ -3625,6 +3619,8 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "484aa580460a4fa545b96b1ee9e574e6ef7054157ee358e97977b2bff7a935ed",
+    "3025e4c05b7b3966237cc58bd9beb71bd6a3be5d7baed1cb0aa15555d253f2c5",
     "e77b261320efdf6f181b92721eedc74bd070a9b2ca5032415901f093473a6fea",
     "e25f7c9dcd544c737f512bbca906d24c1f422ceb2896e28ff480ebda8f10e09e",
     "e0f3cb180078da4ea4aa45c32f6813e9a059b1292a7f839efef047f461da78d0",
@@ -4622,9 +4618,7 @@
     "f6df8f38c70eba6af79da7e937c4c42f65f6bbda44e811e165d32d655c2bbf72",
     "217088517392df447a79fad6de63fbe364be4988dc9d872197cc41b257c550ee",
     "5852a9f7d4c3c1085bd4ad26d5501f574e0fe2ccd38d19eda1a7910cdb667a3f",
-    "8ebbd069a6a438a51a7ee46505244dbef322cf9fbdfec1a495c655bcefca9474",
-    "3103f1f7871c9718bb3f37d2d49e9eebef4d3682d18f61be7da87c5679b32831",
-    "3f87db0d5eb77b05662f92c35878f594a48e40ce6ebbd181b2a8ffc2d354e958"
+    "8ebbd069a6a438a51a7ee46505244dbef322cf9fbdfec1a495c655bcefca9474"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
