@@ -624,24 +624,10 @@
   "calendar_fetched_at": "2026-11-14T13:55:36.642968+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 62,
+    "count": 63,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T12:45:54.890376+00:00",
-      "t": "US carries out ‘defensive’ strikes on Iran’s Qeshm island in Strait of Hormuz",
-      "w": [
-        "carries",
-        "defensive",
-        "hormuz",
-        "iran",
-        "island",
-        "qeshm",
-        "strait",
-        "strikes"
-      ]
-    },
     {
       "at": "2026-11-03T13:06:01.732856+00:00",
       "t": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
@@ -3601,6 +3587,20 @@
         "trillion",
         "wait"
       ]
+    },
+    {
+      "at": "2026-11-14T15:05:35.542361+00:00",
+      "t": "Iran’s Revolutionary Guard says it shot down US drone over Qeshm Island",
+      "w": [
+        "down",
+        "drone",
+        "guard",
+        "iran",
+        "island",
+        "qeshm",
+        "revolutionary",
+        "shot"
+      ]
     }
   ],
   "resolved_events": [
@@ -3632,6 +3632,12 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "0e5ad67b26d9538a2303cc7d08bab2f77e3c629142245f38cae08919b814689f",
+    "24da3375cf6560e0ce929746e33c68929cffd5fb5d60d8e962a968d65748a7d0",
+    "100228ba775bd2595eab16cb29f59e7585c2f213f5e2cbd9bd88e2946bf461f5",
+    "4a2acb8a0967471eb2c5c686704ecd466e07acb878beacc6b3a72638a83c07bd",
+    "137587b7208acb8b2544bfd4f933c06b715a5c4505bd2318d9ef4b9095574218",
+    "1ea12ec2a8fc7a4405d6d77e95e88a7b2ef7a7afa90841082fb275b18d9a2f8e",
     "a29ec008e695a75028cc08fb384e07c4d79c1dcff6d6999a4d2622faaa078662",
     "4f144a474c5ac49ac229b0c337acdea5617092c29f4195f96ec8eece1be6ebe9",
     "de19581e7203a8c14f0320719ec196356cc367ee49f2e56b06f50380af091a7e",
@@ -4625,13 +4631,7 @@
     "167c57cb9e46fa78147041bf068e1d874be5f46176fe1ac6310ff1407d48a5db",
     "3f0f0a51e91a8c1072b5512cb7f6d9c94c9a75ad4f94c84bcae697191d9f07f0",
     "d0a91318aa2d1185e2185877d1aafe255a34db813d4452d864f323f29869b1b4",
-    "40c290ecc5d3d704988fe9c92b086ac8f289f3fbff465ba288428f69e402395c",
-    "e1495dbd6e6083230b5909d6936d2cec9909aeef18cd46bf9701ec5cc7ae17ed",
-    "6f57ef804f58b6d0801917a925a259e5e7237e9c2089d570b48b407d7e1b95e5",
-    "81d16334b74f47d4d6d7f96150d10f785e752ffdbb11f4801130c0ab9b3a40ef",
-    "e7ea6ae008ee454a5e08bcfc62a672bfffc4bbb8fafe6e47b15b364cd11fee01",
-    "e53084f0c6d01b9078f070523fef16187c14b3a7674998af1200611f84ffc2e0",
-    "e843d9e32fe854173a89c498885b3f1a29013b69bb6c04da0eeab7ee70d396cb"
+    "40c290ecc5d3d704988fe9c92b086ac8f289f3fbff465ba288428f69e402395c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

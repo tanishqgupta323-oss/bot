@@ -17946,5 +17946,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Anadolu Ajansı",
+  "title": "Iran’s Revolutionary Guard says it shot down US drone over Qeshm Island",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT1dwclZZX1AwOVJyMmZOcEFkaVhSeWhmczN3WldsRzNYdEdXb1QxMUJWVlRYcjZHbzE1dTVzOFBub2Jsb2pHZ1BscGwyQlBYWUNoc3BMazhSRF9Pek1jdWxpLXk2V3RVTGZkZGo5SU5kallOMHc0SlRWaXpaRjZpY25Hb0lWbURLSnVYMkUzUWNfZEMzTWFHRGpPQ3FqbFZRaHhFYjlhaFlrOHBDS01vN0V6dVBzSmM?oc=5",
+  "published_at": "2026-11-14T14:23:10+00:00",
+  "sent_at": "2026-11-14T15:05:36.350434+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.5822
+   }
+  },
+  "checks_base": "published"
  }
 ]
