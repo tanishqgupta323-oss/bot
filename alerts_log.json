@@ -17998,5 +17998,52 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "24/7 Wall St.",
+  "title": "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3NON2VYbkVFX0pfX2pzUU1WSzNCSDRRZFJIeWQ1bjdaTXFYY2tpV1JPY2N3VFVJNGM3dVNtZDd4Wlo2ZVVzTm1OeVBqTlliQjdGVlJteXBIWkZiN0pfWVFCQjlWUV93OUkxUXZaVFducmI2Qm5NcGxEX0U4MF9BVzRRRTRhd3M2NWRPQ1VlcG1lU0NZbjRkNjBfbDY0cXZqVk1VT1NoOWpBYm1rcGJoZ0kzRF9aSGllOFBEOGNLT1hBZDRQSEJNd2RkSQ?oc=5",
+  "published_at": "2026-11-14T16:10:00+00:00",
+  "sent_at": "2026-11-14T17:31:09.544537+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.2277
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.2633
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "fox10tv.com",
+  "title": "Trump, Xi and Putin plan an unprecedented joint meeting, White House says",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjlIYng4NHlrVGJLNTVQUzRua0NtX2dNaGZfU09xTDdKcFczWWpIb3ItRUx6YjhXNmxnMW1hTFRxd2VSZkdDTnlRQ3ZybWJ3MHJGTGhyZ1VoLTdNVHNSclVSQ2FtZ2dLdUsyX0p4UExSckY1WThpa3ZaOVYxRm0yLXZZbWhBcGo1Z3RyQ2MzZk43VWpJMFNJbElSOTdZMkpIdXY3N1R4RjB3ZG94M1E?oc=5",
+  "published_at": "2026-11-14T17:12:00+00:00",
+  "sent_at": "2026-11-14T17:31:10.273418+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.7528
+   }
+  },
+  "checks_base": "published"
  }
 ]

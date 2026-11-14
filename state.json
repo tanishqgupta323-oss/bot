@@ -624,36 +624,10 @@
   "calendar_fetched_at": "2026-11-14T16:55:39.819586+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 87,
+    "count": 88,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T13:55:41.741936+00:00",
-      "t": "Trump Says US Will Stop Paying Israel After Year-End",
-      "w": [
-        "end",
-        "israel",
-        "paying",
-        "stop",
-        "trump",
-        "year"
-      ]
-    },
-    {
-      "at": "2026-11-03T14:55:41.639157+00:00",
-      "t": "Binance's $6.3 billion hack began with a fake job interview, exchange says",
-      "w": [
-        "began",
-        "billion",
-        "binance",
-        "exchange",
-        "fake",
-        "hack",
-        "interview",
-        "job"
-      ]
-    },
     {
       "at": "2026-11-03T15:10:52.715413+00:00",
       "t": "Job openings surge as U.S. labor market remains robust",
@@ -3598,6 +3572,33 @@
         "rate",
         "steady"
       ]
+    },
+    {
+      "at": "2026-11-14T17:31:08.177602+00:00",
+      "t": "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over",
+      "w": [
+        "000",
+        "bitcoin",
+        "crashed",
+        "history",
+        "just",
+        "toward",
+        "worst"
+      ]
+    },
+    {
+      "at": "2026-11-14T17:31:08.177602+00:00",
+      "t": "Trump, Xi and Putin plan an unprecedented joint meeting, White House says",
+      "w": [
+        "house",
+        "joint",
+        "meeting",
+        "plan",
+        "putin",
+        "trump",
+        "unprecedented",
+        "white"
+      ]
     }
   ],
   "resolved_events": [
@@ -3629,6 +3630,9 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "9bc4efa22da9f2c2e87ac020e0ceed2799ecc9b9db0028f19eb6fa5b33c6d76e",
+    "a68d17faaa62a7b5dc8d11baca6c99443e66e59ec9e6a86520465504f7137b15",
+    "22f7e03c373f663f8a03ad64187c294cd264088810e79df1ff423529938281e2",
     "510a5e46c87172a681a705ef081ab0ff3e0685cd2a7b0f8ba8e55dbd5e820f2b",
     "64a502c68c742292e8784d93aee046b75487bba9e9460504687ebf24fe9c51e5",
     "c86188827cebb9a8fcaa61a920121c5c4ef02123e1a0860cc9474b321c4d822e",
@@ -4625,10 +4629,7 @@
     "03215d5ed768365d727dd66c02bba3a4789437c0bb852f241d80b330e118caa0",
     "6cd057e85d10e477156cc8dc04d1b07e3161e39a3680abeaeeb8b0a962800e2f",
     "d70caa4e6acce7fcd2e6982abd95380fe392a1bab783f3f1b02dfb9c1963e563",
-    "978d5e9ea51c8276b9699dc1fcc61f101aa324d39bc67c9eb38d9624597a3598",
-    "7c990def1c868f6e78655fdc414a793adb150a510c39c96c81efe1838fa5315b",
-    "69b48694ca682643f955ca975a8bf3069177bf7c797958b7a4a277df1fee58a8",
-    "f6b13f9a1411b42527ce25888effd445682ed6f794b9d1b309623810a27bf540"
+    "978d5e9ea51c8276b9699dc1fcc61f101aa324d39bc67c9eb38d9624597a3598"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
