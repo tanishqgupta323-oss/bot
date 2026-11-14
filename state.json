@@ -621,10 +621,10 @@
       "title": "FOMC Member Jefferson Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-14T01:40:49.391809+00:00",
+  "calendar_fetched_at": "2026-11-14T04:45:49.913567+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 243,
+    "count": 244,
     "day": "2026-11-13"
   },
   "recent_stories": [
@@ -3625,6 +3625,8 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "71c46fd62f7d98a607569fd02ef138c0940179a618ee44f10e02de1c8cb93a93",
+    "ad7a179cc21f12aa4e0470cf5009d8b7ae39dc8b86068f3285c60b5a663f751d",
     "4e3822ac188f420c15465f0aff2dd7b92d58d06ebbab4048a01feeb3613081c0",
     "d485d0b7fe8bbdee8804fb18f4baa2bb63b454a2a55860336becc6d24f4c6265",
     "552cf11e56bc6986c3aa7e97860bddbae84e6c15719f90891e60279bbebea9f3",
@@ -4622,9 +4624,7 @@
     "9f2684b129315e789844889bf2bb483e4dcbe99dfad24f33b31bee71d8c4b18a",
     "8e594e0a2941de529b67adc1bfb00033b53d88c2dbaf08dcbc7eed5ac5bf3b7c",
     "292d2de2e8b9fb9a3adf0d42378e4b2252a7cd8590133057f339e02891212771",
-    "4d74e309f4022b1b4b73d308e4b4cf4b771cdd2fa5c25327cd641ba30876839c",
-    "6b3e545929e89068664a9a0621351a5e082f155ec2ab81174c25652b0390157e",
-    "2ccc6521c00c34b6771c683ac92d6330342ca7b5b8223ac3f5e5192914bd4cbc"
+    "4d74e309f4022b1b4b73d308e4b4cf4b771cdd2fa5c25327cd641ba30876839c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
