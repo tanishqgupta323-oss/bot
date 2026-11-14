@@ -17816,5 +17816,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "アラブニュース",
+  "title": "Iran fired over 7,000 missiles and drones at Gulf nations since war began, GCC chief tells UN",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTEE0Q0E5dkU4VnhMWUVJVk5ldWdTQUpqSUplMHBPZ20zRHVjUVh3d0h3UzVULTltVG9nNnFhcFdDYVctZy1DbHVaZVk4Vmg3V3hhNTIwRGVBOFI5eF84N0g0OERjcnRuMGtXYjktVXczREZjRkQtWHB6M1l1ZmpWd05JM2QwQ2dsblEyQ3lNcWZ3bVJGcFFNT0o0U1kyZFpTNnV0cE1oOUJQV0ROR2x5WnpMR0dDRmlSYk1sdDc3MkpwUXFHZkY2a3F5RUZtN2pJTnZrRA?oc=5",
+  "published_at": "2026-11-14T04:13:02+00:00",
+  "sent_at": "2026-11-14T04:35:39.474080+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.6496
+   }
+  },
+  "checks_base": "published"
  }
 ]

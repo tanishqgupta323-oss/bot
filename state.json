@@ -624,23 +624,10 @@
   "calendar_fetched_at": "2026-11-14T01:40:49.391809+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 242,
+    "count": 243,
     "day": "2026-11-13"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T04:55:38.335379+00:00",
-      "t": "U.S. forces launch new ‘defensive’ strikes in Iran on eve of election",
-      "w": [
-        "defensive",
-        "election",
-        "eve",
-        "forces",
-        "iran",
-        "launch",
-        "strikes"
-      ]
-    },
     {
       "at": "2026-11-03T05:15:51.291667+00:00",
       "t": "Americans head to the polls for elections that could define Trump's closing chapter",
@@ -3588,6 +3575,25 @@
         "radar",
         "targets"
       ]
+    },
+    {
+      "at": "2026-11-14T04:35:38.719842+00:00",
+      "t": "Iran fired over 7,000 missiles and drones at Gulf nations since war began, GCC chief tells UN",
+      "w": [
+        "000",
+        "began",
+        "chief",
+        "drones",
+        "fired",
+        "gcc",
+        "gulf",
+        "iran",
+        "missiles",
+        "nations",
+        "since",
+        "tells",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3619,6 +3625,15 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "d485d0b7fe8bbdee8804fb18f4baa2bb63b454a2a55860336becc6d24f4c6265",
+    "552cf11e56bc6986c3aa7e97860bddbae84e6c15719f90891e60279bbebea9f3",
+    "4e150867e6e7b02412e5ea9a0a0874d9691918f891510afbb48feff9c860dc76",
+    "a30de81aa2cda6d09afcacfe2ab2a43a666e21b693c2f3b69a91db2ab4f931e4",
+    "5d6fc41312ebf7a0f14ee7e2459ab075e73469206f843a2acb34aa3b4f1a0d61",
+    "60144bbf81e43ea89dffbc08263c8bb98d78af59c3730da1940d180f87241f66",
+    "45917275c4d63befd417f71cf431541706f561cad900a8b8fd86e7827782642c",
+    "4db872ef620e39cea494b81e3437a230ac2169ed2c023973d543311bae2ae9a2",
+    "31b59ae0f8891e1c6f1c3a0778c1f4ff1fcb565571c75225305fd0db3be30c69",
     "0949d767caecba5ca83fdeeb80edf3cb46b675970c4991910c1e96d0a0a47311",
     "157ba829cda8db1b0224c2692fc1edeb74bccdaf8f2403eef71bc63a706684fa",
     "30393994cabc4a82c9d9f110fd940cb55c2ef18654fdcc5d3948a68fd70c5b96",
@@ -4609,16 +4624,7 @@
     "4d74e309f4022b1b4b73d308e4b4cf4b771cdd2fa5c25327cd641ba30876839c",
     "6b3e545929e89068664a9a0621351a5e082f155ec2ab81174c25652b0390157e",
     "2ccc6521c00c34b6771c683ac92d6330342ca7b5b8223ac3f5e5192914bd4cbc",
-    "08b375bf1cff2859cb88de618863f3baf2b10c586510f6844c0acafdb3a57cfd",
-    "37fc0c8807312f899b8eb0f0e156952f8306b43da15f868749a83bc1553b7e25",
-    "a0fc00782a3828fe2596952484f3420a1d7ef394554901977026235e52a761b7",
-    "2276a1c34fa95968f54e323a5c1badb7dc9f9e4d9a12e7bd9648c292699dcbbd",
-    "4e3822ac188f420c15465f0aff2dd7b92d58d06ebbab4048a01feeb3613081c0",
-    "05b26337e906ebbed05bfe5b421ae86adb2fd97b86a73333078954f6c75e1ac6",
-    "76da662f6e11c04c5d8b0cae2f4e17c620382d2bdfaf25ca195ccac2beea16b2",
-    "8efb4ac3eb23b7e18606ef54efef5baee46c97af4c8f774812ad78b4194adfc7",
-    "cecb9bd7ba911cb1cc50450cc9d31bbb851152bdc60cb9bdf2ed9b7948445776",
-    "d7d277a430b320d974f548839ce7130e745df683403fb362c5000c35a88c9f34"
+    "08b375bf1cff2859cb88de618863f3baf2b10c586510f6844c0acafdb3a57cfd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
