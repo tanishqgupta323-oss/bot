@@ -17868,5 +17868,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Binance aims to restore all withdrawals next week after $6.3 billion hack",
+  "link": "https://www.investing.com/news/company-news/binance-aims-to-restore-all-withdrawals-next-week-after-63-billion-hack-5027266",
+  "published_at": null,
+  "sent_at": "2026-11-14T10:35:36.778108+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

@@ -624,23 +624,10 @@
   "calendar_fetched_at": "2026-11-14T07:50:41.941389+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 22,
+    "count": 23,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T07:45:59.567262+00:00",
-      "t": "US strikes Iranian islands as Trump talks up diplomatic progress",
-      "w": [
-        "diplomatic",
-        "iranian",
-        "islands",
-        "progress",
-        "strikes",
-        "talks",
-        "trump"
-      ]
-    },
     {
       "at": "2026-11-03T09:40:53.400375+00:00",
       "t": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
@@ -3598,6 +3585,20 @@
         "terrible",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-14T10:35:35.091469+00:00",
+      "t": "Binance aims to restore all withdrawals next week after $6.3 billion hack",
+      "w": [
+        "aims",
+        "billion",
+        "binance",
+        "hack",
+        "next",
+        "restore",
+        "week",
+        "withdrawals"
+      ]
     }
   ],
   "resolved_events": [
@@ -3629,6 +3630,11 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "c6560ee60d3fb3aaa8ce678e7d1b08230e50207985049f425d545d32b0518116",
+    "daf89e00d48743218b4ff772877cf8022d58e2967c40d5f3e4d97812813039fb",
+    "d61393762e8f1cb408bba7ef9a7e7f53872aa94765e51dc101d918ed60e315f6",
+    "0702f0f60ae47a76e028708474367235a23aa3e425f939fd49e5f281db2c0727",
+    "eb230fb601b48b9973d0ac9066e6a14f18e2114360d40fc2e42ee75e977aaace",
     "00ec80a804c307d680e10ef6a25dbd318403c2a6f5e9327f9f53c7d3401d3df8",
     "9d93e64477874d36e6612806d2ae0d3a5bf3de8b66d902c2a07f2177052f5c8a",
     "206fc7e264dd62ff1794c0d96c14a2ec45de0736299e9649c861e079d90c8de3",
@@ -4623,12 +4629,7 @@
     "8945b46d2c82202e65a4d4f070a29d0da0c7aaea9b6e786392dc2b47bf6bf680",
     "d228fe5d8f532646ca2703f7aa6321b48c471fd954f7ad5fdbef33d437d5f6b4",
     "6d4896e8fca7aeadef1e04aeace4f4892b8c080014ddfabce025feb6b35036bc",
-    "a682d49f19be97efd2895ae52a9ad0d92dca3647fbe110146c59cc624905b02e",
-    "a756c5e712f639fa0753a6806a6b9b6c6bf3928799094b86f0df74a4dc1b0158",
-    "9bf404dd65d0e374edfbd8fa78b0fe123269c0a1b7a25ef38f2270e4110dc071",
-    "929f8875e9bcaea3d4e57edafab29d0209c943e96a12dfbbebb764cc55578282",
-    "f553b560bda1d8c637450503882b5c2a465149830df13d4dfabb79fb4106d0b3",
-    "504ffe100d11cf5b0fe427082b3dac0216220cf001a33f7d9c6069087f00e2e5"
+    "a682d49f19be97efd2895ae52a9ad0d92dca3647fbe110146c59cc624905b02e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
