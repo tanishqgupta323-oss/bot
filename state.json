@@ -624,22 +624,10 @@
   "calendar_fetched_at": "2026-11-14T23:01:28.031792+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 171,
+    "count": 172,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T18:31:20.868695+00:00",
-      "t": "ECB likely to raise rates in December, says Nagel",
-      "w": [
-        "december",
-        "ecb",
-        "likely",
-        "nagel",
-        "raise",
-        "rates"
-      ]
-    },
     {
       "at": "2026-11-03T19:15:55.753274+00:00",
       "t": "Israel Warns The US That Iran Is Considering Chemical Weapons Use - Report",
@@ -3601,6 +3589,19 @@
         "three",
         "tumbles"
       ]
+    },
+    {
+      "at": "2026-11-15T02:01:16.853429+00:00",
+      "t": "Binance Liquidations Near $800 Million as Bitcoin Sinks",
+      "w": [
+        "800",
+        "binance",
+        "bitcoin",
+        "liquidations",
+        "million",
+        "near",
+        "sinks"
+      ]
     }
   ],
   "resolved_events": [
@@ -3632,6 +3633,9 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "96c1c64274c122b351f2babece593f5b9292a365a7dff777efb8fe3e1dba381e",
+    "5cb796c74b056fe9a4cdbbfa27957788d2cb553cc9d9dc57bd5301578034f429",
+    "4a5ce79cf140067a3f04a8568c3f6600b29b0a0852394ab5d9e83e97cc1f1da8",
     "75465b4d5042e61384aee35584e122839a1be1efea06082a8a64615ab0d713d6",
     "424af3a9df97b27cb395a0410d5c63ca8d330a29e5bd0d44e726f4055f4e9279",
     "acd81c5005ad0cdb203a260c8ea3f464ff0e5731c7fa03a5907a72b341ebaf75",
@@ -4628,10 +4632,7 @@
     "346623afc94e084941f6b878b992883ea87e4f40f592bb381aaec7495602011e",
     "c28f94b2c71c142944a25825da7b4e9e688c7b3d9644bb3fd073798ee6bdaa8d",
     "965708c7793e9f43e2a1254df149bde93e34bf3199456ead0c8f82c8d4c49069",
-    "4bfeb52648fc7b59626851d28665094b6b764bc7dad2e1ca624f1c6a06ccb8b7",
-    "5c6176208a0a1a691985c1d63d5aac5f043bcdf09b833d20896e0a6f6fcbe017",
-    "4dfde0d05cec952cdae04aaa5d849f4efd63b5357692867d6ccfb1515f1359d4",
-    "e63986a920e8f5561d4776c3b5f6989532c8848ef5fc1e3c0e340cfb00c853b3"
+    "4bfeb52648fc7b59626851d28665094b6b764bc7dad2e1ca624f1c6a06ccb8b7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

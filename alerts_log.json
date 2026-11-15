@@ -18154,5 +18154,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Defiant",
+  "title": "Binance Liquidations Near $800 Million as Bitcoin Sinks",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZE9keE5La2FscnRTTVpvLUJFSk5yaFFYUFZvT0lBN093Q212TUFyMU5JT01uam9SX1B1dDJoS1lDOG9yejRqa1U0eFdkZHZXR0twTWk4OVNjZ2o5M0VEdXBfOC00eDF3TzNOOFRHeldYV0tLV3Fnc2txZktsRWJ3THZhUVFvWldBNVd0MHZ5TUVSZ3c?oc=5",
+  "published_at": "2026-11-15T00:40:19+00:00",
+  "sent_at": "2026-11-15T02:01:17.897302+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.6326
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -2.7479
+   }
+  },
+  "checks_base": "published"
  }
 ]
