@@ -18128,5 +18128,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bloomberg.com",
+  "title": "Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFN4Yk1qMGk3ejFQc2RuVXlMMWoxUmd6T3NHOGM1WEFCd2E2ZFplM0NXMGRhb3VFS0VtWEtVajlzUS1UV0N6aVpZSlB5Wm5rbWNTUG9nNTNoNUI1LXB1OF9vUWxRNHVSaXBkbmJlbXFYZ1BWWllpY2FoUm5KWXdycXM4VTZXNldjVDJTUHYzRG1IWUt5Ujc3NjFvYWVab1IyUWxQaVVkb2E0NWlLY1hyRHZ3?oc=5",
+  "published_at": "2026-11-14T23:53:48+00:00",
+  "sent_at": "2026-11-15T00:31:02.407996+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.3825
+   }
+  },
+  "checks_base": "published"
  }
 ]

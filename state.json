@@ -624,23 +624,10 @@
   "calendar_fetched_at": "2026-11-14T23:01:28.031792+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 156,
+    "count": 157,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T18:31:20.868695+00:00",
-      "t": "Dollar Rises With US Yields as Focus on Iran Outweighs Election",
-      "w": [
-        "dollar",
-        "election",
-        "focus",
-        "iran",
-        "outweighs",
-        "rises",
-        "yields"
-      ]
-    },
     {
       "at": "2026-11-03T18:31:20.868695+00:00",
       "t": "ECB likely to raise rates in December, says Nagel",
@@ -3601,6 +3588,19 @@
         "tankers",
         "three"
       ]
+    },
+    {
+      "at": "2026-11-15T00:31:01.716734+00:00",
+      "t": "Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate",
+      "w": [
+        "accelerate",
+        "bitcoin",
+        "liquidations",
+        "low",
+        "month",
+        "three",
+        "tumbles"
+      ]
     }
   ],
   "resolved_events": [
@@ -3632,6 +3632,7 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "0ff455fa6fa2d7c41d11c57161b1bfcfbf49fe104cd80446c7f77ab073676a82",
     "de893e772e598e25ca9a3138482471e8fb77c296922ae13a87cf758473a7f207",
     "cd514a6fc7055c3539704249e007db8574aef02e79eb645d7563b792a6610a93",
     "daf92f4b66fd673e3ff59ea1f66eef96982f51d103aef723131916fceddc3632",
@@ -4630,8 +4631,7 @@
     "5652744d92df9cbf5f619f192fc519d97b4ec42a02ec753edef67db62b07dd9e",
     "922effb6fd21748f69c658bec51722ab0e14bf6adbea74deb6f587116efd55fd",
     "3e4c7f8ed20269637834fee43634003373df5ba71d96c67f39b2881ce4a74bee",
-    "9c044a1233985221b897c99f9e8e700dcedc8939bbb1d14904a579667fbcd1e7",
-    "09da8a0ebf4c4b7ec2017c4bb5f60fda3b1b7db495ad992ca30223dbdace1665"
+    "9c044a1233985221b897c99f9e8e700dcedc8939bbb1d14904a579667fbcd1e7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
