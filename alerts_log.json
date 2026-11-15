@@ -18258,5 +18258,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Jerusalem Post",
+  "title": "US intercepts two Iranian drones as IRGC claims strike on radar in Bahrain",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uWFRmVVJGY3FWZXdNNF9LRFJMMGpIaUxsMWhIejF6MnN1QkJFVjRndHFGaEw5RXlrYWRWMWNTMkFIaHNkeURhM01ZcGRFUTlTOFlBVTA4b3Y1Y2dZX0Y1M0cxakxyM0RKbmc?oc=5",
+  "published_at": "2026-11-15T04:31:53+00:00",
+  "sent_at": "2026-11-15T04:55:35.991831+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1509
+   }
+  },
+  "checks_base": "published"
  }
 ]
