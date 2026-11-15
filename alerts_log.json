@@ -18570,5 +18570,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "New York Post",
+  "title": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlB1SEVVNFVLT3JzZ2p0Z1h2UU5SWi1ZSkRheVNtZHVqWUcySFl3VXFDdV84WnBNUlJWOFMzMm1yYTE5TGJGbXl0aWJOMU9saVJybHJGa2xGdHFYTkExY1R5ZGw1NlpQU3N2WFVyZ2sxaHhjeWd4cl9yQzc5T0U0WjMzMWNJWlBTU0h3dzJ5d2s0cTRGUVptMmFId1JVRUhPX3hxaA?oc=5",
+  "published_at": "2026-11-15T21:05:00+00:00",
+  "sent_at": "2026-11-15T21:10:47.727855+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

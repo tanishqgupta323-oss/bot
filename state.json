@@ -632,24 +632,10 @@
   "calendar_fetched_at": "2026-11-15T20:20:51.583103+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 137,
+    "count": 138,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-04T07:10:54.998548+00:00",
-      "t": "Trump says 'we're blowing up the whole country' if no Iran deal is reached in 48 hours",
-      "w": [
-        "blowing",
-        "country",
-        "deal",
-        "hours",
-        "iran",
-        "reached",
-        "trump",
-        "whole"
-      ]
-    },
     {
       "at": "2026-11-04T08:40:59.346095+00:00",
       "t": "Gold Climbs on Softer Dollar, Falling Treasury Yields After U.S. Midterms",
@@ -3600,6 +3586,22 @@
         "trump",
         "waiting"
       ]
+    },
+    {
+      "at": "2026-11-15T21:10:46.358301+00:00",
+      "t": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too",
+      "w": [
+        "back",
+        "door",
+        "hormuz",
+        "iran",
+        "now",
+        "slam",
+        "squeeze",
+        "strangled",
+        "too",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3631,6 +3633,9 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "2ade2e9868653ff0ef74ef7514b58beaf885b556a8eb1303a15a92a81ef345d1",
+    "d8e58f6ab276303a9a64b165608f91ee5c5bf54facef5ea2830ddf72926a2fe9",
+    "0f68c493a568361a96e4d5df331d4e2db9f858476fd98360125841b16129792d",
     "22b3b6fd545a25be087fa4416bb97758a14cdf7bc92df851dd6163ca77f62ed4",
     "856509d40b0d67708d5440dce6d9593c51134d1caf983894c9366b8df0ac2282",
     "5d16acaa7923ad4896c3ab11785b42b3d5f12ae2078f7882ef6ce3e79042a655",
@@ -4627,10 +4632,7 @@
     "4a2acb8a0967471eb2c5c686704ecd466e07acb878beacc6b3a72638a83c07bd",
     "137587b7208acb8b2544bfd4f933c06b715a5c4505bd2318d9ef4b9095574218",
     "1ea12ec2a8fc7a4405d6d77e95e88a7b2ef7a7afa90841082fb275b18d9a2f8e",
-    "a29ec008e695a75028cc08fb384e07c4d79c1dcff6d6999a4d2622faaa078662",
-    "4f144a474c5ac49ac229b0c337acdea5617092c29f4195f96ec8eece1be6ebe9",
-    "de19581e7203a8c14f0320719ec196356cc367ee49f2e56b06f50380af091a7e",
-    "a9565ea0dee0da6b7270489fc5fdae48e8a707a07dfd72bb5bf036b1b401986b"
+    "a29ec008e695a75028cc08fb384e07c4d79c1dcff6d6999a4d2622faaa078662"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
