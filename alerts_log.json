@@ -18302,8 +18302,41 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.4752
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.634
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Anadolu Ajansı",
+  "title": "Iran says it targeted US radar site in Bahrain with 6 drones",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdkZsWDY2dGxBdW1ZMDAyWGN0anFWT2h2YkcxMnJ1VGd4Rnc1Uy1YVnl5ejJtNWJ4a0F0X2RRcnEwNzktVTZQUnVEb3RXSkl3bDJEeVFpZEFiQXdPQlpSS1daYXFVaGJfQW5jTlRiN2RRaFMyaW5MUE9ObTdBbkk0c2F1SEViNGhNZTNKUlJOYU8wTHdsYUxUeG5VNGxsOVdlZW1tUDRDTjc?oc=5",
+  "published_at": "2026-11-15T05:53:23+00:00",
+  "sent_at": "2026-11-15T05:55:34.177833+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Bitcoin slides toward $60,000 as ETF outflows and liquidations intensify",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
+  "published_at": null,
+  "sent_at": "2026-11-15T05:55:34.826498+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

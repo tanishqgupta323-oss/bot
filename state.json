@@ -624,38 +624,10 @@
   "calendar_fetched_at": "2026-11-15T05:05:43.246749+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 215,
+    "count": 216,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T23:45:51.682474+00:00",
-      "t": "US has no immediate plan to strike Iran, Trump tells FT",
-      "w": [
-        "immediate",
-        "iran",
-        "plan",
-        "strike",
-        "tells",
-        "trump"
-      ]
-    },
-    {
-      "at": "2026-11-04T01:35:43.912847+00:00",
-      "t": "Trump launches Iran strikes hours before midterms despite saying he wouldn't",
-      "w": [
-        "before",
-        "despite",
-        "hours",
-        "iran",
-        "launches",
-        "midterms",
-        "saying",
-        "strikes",
-        "trump",
-        "wouldn"
-      ]
-    },
     {
       "at": "2026-11-04T02:05:38.475876+00:00",
       "t": "Sell tech, sell USD and other signals from the massive blue wave that's unfolding",
@@ -3605,6 +3577,32 @@
         "escalates",
         "iran"
       ]
+    },
+    {
+      "at": "2026-11-15T05:55:33.112576+00:00",
+      "t": "Iran says it targeted US radar site in Bahrain with 6 drones",
+      "w": [
+        "bahrain",
+        "drones",
+        "iran",
+        "radar",
+        "site",
+        "targeted"
+      ]
+    },
+    {
+      "at": "2026-11-15T05:55:33.112576+00:00",
+      "t": "Bitcoin slides toward $60,000 as ETF outflows and liquidations intensify",
+      "w": [
+        "000",
+        "bitcoin",
+        "etf",
+        "intensify",
+        "liquidations",
+        "outflows",
+        "slides",
+        "toward"
+      ]
     }
   ],
   "resolved_events": [
@@ -3636,6 +3634,9 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "f5d9d7548dc0cea6685f45ac99b901d714618107ede4cfba7bf707ebdba52993",
+    "b7742fec92f6b0888c88df127b610c04bbfe3063d76d446163210e26b3df3edc",
+    "19d395f368a9a7e7b9caa32570aeb520510fa403153709b7fce3adb16b369bd8",
     "1164c55cd93f25ba717ed433b73ae66445c2439bbab12533a73e8f8d02f02515",
     "65422afe8a31ba16a8edd2b050c50c0a09c5fe0c9c7698137bfd29b267d1c5df",
     "4d0ac754e4494c306eb26cd7383f28ad4710773f2dc00d1905644fbb3665a2a5",
@@ -4632,10 +4633,7 @@
     "a6b2c45e5e4e339d9f1292ab187bf51c756c8d9169d1c328a426f26a281a1e4e",
     "4c46573b60a001c4efbc40f9ad40e7868f54543ffd28e989c7356432d30d573c",
     "1114dafdedcd46aa5aa4d2dfb67be4c9cf379f572ce3264edd98c943187bac06",
-    "5dc3a77119997707b8c5f5a359e57b623417c85f2698ef90aadd79b43ccb5da9",
-    "70544b96fc4ce94fd87f6dcca5a898f39e9ae3a849d023fc9500ddc497ec0028",
-    "02a9322218f59485791af8b77b6f337d5efde9bc2aa7715162081a51eeec15fe",
-    "fda2a7a1b473586829db5f17a3078aa840d2f6c0125b9b3046252c91b3e9d5fc"
+    "5dc3a77119997707b8c5f5a359e57b623417c85f2698ef90aadd79b43ccb5da9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
