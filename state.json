@@ -624,24 +624,10 @@
   "calendar_fetched_at": "2026-11-15T02:05:36.210843+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 183,
+    "count": 184,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T19:15:55.753274+00:00",
-      "t": "Israel Warns The US That Iran Is Considering Chemical Weapons Use - Report",
-      "w": [
-        "chemical",
-        "considering",
-        "iran",
-        "israel",
-        "report",
-        "use",
-        "warns",
-        "weapons"
-      ]
-    },
     {
       "at": "2026-11-03T19:21:05.265878+00:00",
       "t": "U.S. launches new attacks on Iranian targets days after Netanyahu pressed Trump for more strikes",
@@ -3602,6 +3588,18 @@
         "near",
         "sinks"
       ]
+    },
+    {
+      "at": "2026-11-15T02:55:35.184516+00:00",
+      "t": "Bitcoin Price Crashes to $62,000: Will the $60,000 Level Hold?",
+      "w": [
+        "000",
+        "bitcoin",
+        "crashes",
+        "hold",
+        "level",
+        "price"
+      ]
     }
   ],
   "resolved_events": [
@@ -3633,6 +3631,9 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "55e65d1272956070593eb8b04af970f6e732b4d15ef72000b7d6206c7646a43f",
+    "c1bb11920d6a3d5ce03e059a0454d10833e50a8e3f42ab31d85c1acefa19652e",
+    "b217f286d9f3c4723056c9fce99bde949999087cc8e5798baac1f6a768a7741d",
     "3701659604960a6a583f9da3d419067ce9a5a906194a923f1188f401623e0b7b",
     "9f84202371ae5e681439e8666bdfb4b17d3e501157928ee82075706e9b835679",
     "e576d1e23d4dbdfe27d72bd5eec178cb4800a2b30ac697af6272fb80d86e9732",
@@ -4629,10 +4630,7 @@
     "f093220820444847250cdf96261dad93d51c467dc916e6ba9e5104e9be5206c8",
     "3cb1dba77beda6a17336c2af805fcdfb7c577f86cab1ef4019f3467831eee7f8",
     "76e6bb88e0e5210f44e22edfeb5e25301673dde1beed1e9a971073ec13f1c8c9",
-    "2cdedf60aacd003ed81b62a490f2d21d2e1d9ed14ced80776ed17af6860621dd",
-    "37e72b41cda9883bbbec5950a339591a72a638fe68b1eeb411052ab4652f2fb3",
-    "eb70d1e5dc0e862942915701311d2c3efe777c78ea61146ecd56d04b56637633",
-    "b57135dcc0389fbbc175e3c0b9c77bd5305639354694fc3a1b1e7b7c8bfa7f2e"
+    "2cdedf60aacd003ed81b62a490f2d21d2e1d9ed14ced80776ed17af6860621dd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

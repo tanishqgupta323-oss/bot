@@ -18180,5 +18180,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CryptoTicker.io",
+  "title": "Bitcoin Price Crashes to $62,000: Will the $60,000 Level Hold?",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT05yTnlUZUxwbEtrbmR5RjJ0UTdqS1UyaEtoSEtTZ2R0Z0hYbUdCNnB0SDlscEIzSE0weHU5VEh3b0JVQ0dGM1Zac2wxRkhUOEFUOHUxWFRDc3F0SHVPNm56LThiTzFmbXg1WDRzZW5wa0Z2TjJ3Mlh4TVYzOTN5Z2JLdEM0X3hiN3JMdkJJZ3lRVmVOUVE?oc=5",
+  "published_at": "2026-11-15T02:36:08+00:00",
+  "sent_at": "2026-11-15T02:55:36.118995+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.3987
+   }
+  },
+  "checks_base": "published"
  }
 ]
