@@ -632,25 +632,10 @@
   "calendar_fetched_at": "2026-11-15T08:10:44.440707+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 4,
+    "count": 5,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-04T03:20:58.964576+00:00",
-      "t": "Democrats projected to win House as voters rebuke Trump’s Iran war",
-      "w": [
-        "democrats",
-        "house",
-        "iran",
-        "projected",
-        "rebuke",
-        "trump",
-        "voters",
-        "war",
-        "win"
-      ]
-    },
     {
       "at": "2026-11-04T03:45:54.567034+00:00",
       "t": "Qatar says remains ‘hopeful’ of a US-Iran deal; Trump confirms strikes on Qeshm",
@@ -3609,6 +3594,21 @@
         "shipping",
         "strike"
       ]
+    },
+    {
+      "at": "2026-11-15T08:31:02.342148+00:00",
+      "t": "Iran Strikes Bahrain Base, Repeats Path to US Deal Remains Open",
+      "w": [
+        "bahrain",
+        "base",
+        "deal",
+        "iran",
+        "open",
+        "path",
+        "remains",
+        "repeats",
+        "strikes"
+      ]
     }
   ],
   "resolved_events": [
@@ -3640,6 +3640,7 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "4c6af0141041ab322c6941e27561b225b5dde5b8397a6ad28c85e8c927d15a60",
     "bc75767eb2cc1917400528929d49c602346f08f152ab1c8fab51bb70da60d196",
     "d79f2f64e98c8c06c20cdcec5da2651fdff9e08890d4605c0548eca3a135c928",
     "2ef0fb01d6138580a9e993d2a36f50bbda53a2843c90bd483d25395204eb95ac",
@@ -4638,8 +4639,7 @@
     "f79577cb50b782e2e64c72427c94645407af43f70dc2d488daf3589205851ed5",
     "c359d1c6288999f623b991fd6e69f0a6f260a63a05177a8223263fc385f138bb",
     "7e7b1b8b25178014ec7d36c63a655da27952161bd0fc4eda12bf290ff2b51170",
-    "23007b945fc3130307fe66afd9596fe32e5a5331ff52f1dd7520f9fa644a2584",
-    "0d2c89e820b46a5f85aae4dca741de34a1ae64993e1394041d772ee0d9dcd2b5"
+    "23007b945fc3130307fe66afd9596fe32e5a5331ff52f1dd7520f9fa644a2584"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
