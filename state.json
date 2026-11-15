@@ -632,23 +632,10 @@
   "calendar_fetched_at": "2026-11-15T20:20:51.583103+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 154,
+    "count": 155,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-04T10:15:53.471328+00:00",
-      "t": "Eurozone October inflation accelerates to 4% as energy costs jump",
-      "w": [
-        "accelerates",
-        "costs",
-        "energy",
-        "eurozone",
-        "inflation",
-        "jump",
-        "october"
-      ]
-    },
     {
       "at": "2026-11-04T14:10:51.464857+00:00",
       "t": "Opinion | America’s rejection of Trump and the GOP was broad and deep",
@@ -3606,6 +3593,19 @@
         "trump",
         "warns"
       ]
+    },
+    {
+      "at": "2026-11-15T22:40:47.078823+00:00",
+      "t": "Iran attacks US military base in Bahrain as talks stall",
+      "w": [
+        "attacks",
+        "bahrain",
+        "base",
+        "iran",
+        "military",
+        "stall",
+        "talks"
+      ]
     }
   ],
   "resolved_events": [
@@ -3637,6 +3637,9 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "2c36a1a5fe080c2043424dc754f59acfd8d5e2c57c4b54a47ded788f37947635",
+    "0d82cb65af9cf4fa2907c998b32bd54e06df563b160c6b42109588cc8153bc46",
+    "7c4d6a867a111cb27149b96298746b82671f4cfe5133c7d5435e37d59a8396dc",
     "20cee7ae105f5c176e056f7b0ec7b0227df6599ed2463c4237ca7fe17f24fa59",
     "4f755ce33b819ef49ac19883eaa764a074ace267e66e3b09df9ba86c25a64aee",
     "27af3d274fa7cd444e8dfcb6be7ab74e2384a7334284aee71c999a5e4caa61a5",
@@ -4633,10 +4636,7 @@
     "52e491dbbcd968c318e4d30d418448037d51ae37a8da8aaf476d2cace827d6c8",
     "a2a515b5cb86fbea18963bf767b303bca5391ee47653ff74920dd012d741f298",
     "1c9d8d4fd026e708d951a84b2ae20cfbfe552117063129451c199c7225cdd4c4",
-    "55702da5b58a6baa40be47ec06f5d9f6a6c3f44c4c0be6f1cd46a2fcf7da2cfb",
-    "76fdb999c9cc02d3233d8dd4ca5847e21c5d602034d62e7f0bc2836fb4d38782",
-    "6bc0503d4c6b944c288dbe96c7db69636c4955dc00b15af36defd2a3f7efca34",
-    "5099f15b547855ae091a85a646b6bcaed83a0978c93b704ebca1650cd979880a"
+    "55702da5b58a6baa40be47ec06f5d9f6a6c3f44c4c0be6f1cd46a2fcf7da2cfb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

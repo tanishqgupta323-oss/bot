@@ -18638,5 +18638,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Semafor",
+  "title": "Iran attacks US military base in Bahrain as talks stall",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemlOT1VXbHFPOU92b1hMOU5yZ252ZUYwOU8zaUhZVjBST0dZaEJ4Wl9YRmxmN0l2ejdwWGJLb2xrcEpITDd6U2lyaU1qSF9HcW5VeDIzWWdxNC1EckVDeXFPU1ZjNUdZaFVDdHhGb1dXa25pRGNKLWR2QTFsZmgyTzNxSDI?oc=5",
+  "published_at": "2026-11-15T22:34:00+00:00",
+  "sent_at": "2026-11-15T22:40:47.796204+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
