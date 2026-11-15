@@ -632,25 +632,10 @@
   "calendar_fetched_at": "2026-11-15T14:15:44.877941+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 70,
+    "count": 71,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-04T04:50:49.906369+00:00",
-      "t": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
-      "w": [
-        "700",
-        "bets",
-        "bitcoin",
-        "briefly",
-        "democratic",
-        "markets",
-        "rattle",
-        "sinks",
-        "sweep"
-      ]
-    },
     {
       "at": "2026-11-04T04:55:39.412282+00:00",
       "t": "Democrats win control of Senate as US voters reject Trump’s agenda",
@@ -3599,6 +3584,21 @@
         "settle",
         "territory"
       ]
+    },
+    {
+      "at": "2026-11-15T15:10:44.296550+00:00",
+      "t": "Iran says 2 oil tankers hit mines near Strait of Hormuz, 1 sinks",
+      "w": [
+        "hit",
+        "hormuz",
+        "iran",
+        "mines",
+        "near",
+        "oil",
+        "sinks",
+        "strait",
+        "tankers"
+      ]
     }
   ],
   "resolved_events": [
@@ -3630,6 +3630,8 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "2bdcdecbd4466cbcdd002014c59004129675bfdb325783f9210769d7a44c141d",
+    "696eae4cde2060970e6ccac86d4bd982d512017347e414253dfcad370a6a4ede",
     "d07723bdd14693f7d17db8776a294d091ead3153c26fff0a04cb65433b6bc80f",
     "6518af8ce88461ca2121084c38edfc2df90ff6797d189420607d44faf77f6ce1",
     "8dc5c9b6404c3d403e636b13c2aa7caf3c920cb5cd1712fb4ab67688084c82c8",
@@ -4627,9 +4629,7 @@
     "71c46fd62f7d98a607569fd02ef138c0940179a618ee44f10e02de1c8cb93a93",
     "ad7a179cc21f12aa4e0470cf5009d8b7ae39dc8b86068f3285c60b5a663f751d",
     "4e3822ac188f420c15465f0aff2dd7b92d58d06ebbab4048a01feeb3613081c0",
-    "d485d0b7fe8bbdee8804fb18f4baa2bb63b454a2a55860336becc6d24f4c6265",
-    "552cf11e56bc6986c3aa7e97860bddbae84e6c15719f90891e60279bbebea9f3",
-    "4e150867e6e7b02412e5ea9a0a0874d9691918f891510afbb48feff9c860dc76"
+    "d485d0b7fe8bbdee8804fb18f4baa2bb63b454a2a55860336becc6d24f4c6265"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

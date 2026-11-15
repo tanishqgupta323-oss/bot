@@ -18518,5 +18518,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Anadolu Ajansı",
+  "title": "Iran says 2 oil tankers hit mines near Strait of Hormuz, 1 sinks",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVpyVXN0aUg3WkJlT2lSODV2bnF4RE1BUjZLSkIxYlA3YktPZjlNcGZUUDFBU2k5VThpbFBydWN0eHMyOWZtN01iUnNBdEMxd096M2FoUENtcHlzMlBaZGR4ME8tMU9sYm9HaTQ1a0tCSDI1WlBUUDV2cDRmQjdXaVdYV0RValpHb19EVWhiMFIzZXR1WmpRTnhhOFVuVEhvVGs5YjVyRjJTZTBj?oc=5",
+  "published_at": "2026-11-15T15:05:26+00:00",
+  "sent_at": "2026-11-15T15:10:45.062077+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
