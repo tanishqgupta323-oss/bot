@@ -18591,5 +18591,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "ECB’s Nagel says another rate hike ‘highly probable’ as energy prices push inflation",
+  "link": "https://investinglive.com/central-banks/ecb-s-nagel-says-another-rate-hike-highly-probable-as-energy-prices-push-inflation/",
+  "published_at": "2026-11-15T21:51:02+00:00",
+  "sent_at": "2026-11-15T22:05:36.932035+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "NEUTRAL",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

@@ -632,24 +632,10 @@
   "calendar_fetched_at": "2026-11-15T20:20:51.583103+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 148,
+    "count": 149,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-04T08:40:59.346095+00:00",
-      "t": "Gold Climbs on Softer Dollar, Falling Treasury Yields After U.S. Midterms",
-      "w": [
-        "climbs",
-        "dollar",
-        "falling",
-        "gold",
-        "midterms",
-        "softer",
-        "treasury",
-        "yields"
-      ]
-    },
     {
       "at": "2026-11-04T08:50:50.032428+00:00",
       "t": "Democrats projected to take Congress in blue wave fueled by Trump, economy discontent",
@@ -3602,6 +3588,23 @@
         "too",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-15T22:05:35.651907+00:00",
+      "t": "ECB’s Nagel says another rate hike ‘highly probable’ as energy prices push inflation",
+      "w": [
+        "another",
+        "ecb",
+        "energy",
+        "highly",
+        "hike",
+        "inflation",
+        "nagel",
+        "prices",
+        "probable",
+        "push",
+        "rate"
+      ]
     }
   ],
   "resolved_events": [
@@ -3633,6 +3636,13 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "f7220804979363244740f3b95c4dd7d99593138ca2223a6026420b5c0029e10d",
+    "0e967988926987d6f5439b1fc97f5a6338f8babfaa257f4a828613c5e2c569bd",
+    "5e9e932dbd2ad866af33991cdbd1c4bdb2fbb0befaab1630feec43edbd457cb7",
+    "4adac4a25cd8ed3648f0054d62de3fab6ed0b20392d16968643dee333c91fb95",
+    "e58b7104fdc76ff65e0e54476906f9033555c4e269a36443bd8656cfa4c50cad",
+    "62206e959cd142bf106d2dc6e2dbf221309b2d0185bd1c4449a0a470bdf13025",
+    "59ee227a2298d11f47cb080400d1799f91793f770a94841775bfbe8906351220",
     "47af56e2a5a3b6f9f6e0fafe88ca0b28f680a3eaaaa44171885db00085d291b3",
     "51fcd9ecdaf66a53a0b5824ec3308fcb5805f740bd7fc395b0bc704bb8a6a1b9",
     "e8c40c51c74dde1f0bf47b3f619140492ffc3f2b9f2130f98285ca56ed7917a1",
@@ -4625,14 +4635,7 @@
     "e6506544b8ed4bc53be6dc16d8e8a4bd91db97465d428714c454a872c0e7eeaa",
     "156df1ff94b79578eb559eb0e13e05542607127cd6b4f6a8fe3fe875871d5abc",
     "381bf1377563dab51c2e2a4852292d472e29a56f15542ef40b4fbe72e510a9e4",
-    "88a5df1ec5e7a540064d2cc372de07b848e541e0aead5d6ac5eb9d490977fdbd",
-    "de72d890bc5aa1266943d8bc1aa9f28842f2a132d465c8fae6ab3c104bf9ba65",
-    "ea3a34ecf43ed01e47cc3ff868f24f27fe869aa7139020dbbe1be173db3bffcf",
-    "5cebb8a7ad690f815f4d41bef162295e989b9be3d45bf116231cb194c169c8ed",
-    "03c2153615caba48c5f197a99cb24dcc346b4ba0aecb178621ac6b555d8ead22",
-    "48195d2c9a0413e11e3e9dc2cb25a87ee6bb6d515e7d83ee6675839de1cf2807",
-    "bababcc3219b8957c0e9f4fb34884f33db906ab64bdb3954a1462b0b2327d290",
-    "9c40265a02882984b4cc93a504ff8c1af058efa4af1b931b1edf4bf43248cf2c"
+    "88a5df1ec5e7a540064d2cc372de07b848e541e0aead5d6ac5eb9d490977fdbd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
