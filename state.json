@@ -632,28 +632,10 @@
   "calendar_fetched_at": "2026-11-15T08:10:44.440707+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 12,
+    "count": 13,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-04T04:01:25.012568+00:00",
-      "t": "Trump gives Iran a 10-day timeline in Board of Peace meeting on whether he'll continue talks or strike",
-      "w": [
-        "board",
-        "continue",
-        "day",
-        "gives",
-        "iran",
-        "meeting",
-        "peace",
-        "strike",
-        "talks",
-        "timeline",
-        "trump",
-        "whether"
-      ]
-    },
     {
       "at": "2026-11-04T04:05:41.370091+00:00",
       "t": "Iran's IRGC says four tankers ablaze after hitting mines near Strait of Hormuz",
@@ -3606,6 +3588,20 @@
         "limits",
         "tests"
       ]
+    },
+    {
+      "at": "2026-11-15T09:31:00.427384+00:00",
+      "t": "\"If US Makes Another Mistake...\": Top Iran Negotiator Warns Trump",
+      "w": [
+        "another",
+        "iran",
+        "makes",
+        "mistake",
+        "negotiator",
+        "top",
+        "trump",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3637,6 +3633,7 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "33976a431c327686f1381844f5b63aa2b101251a3513ee1582735c9d4e80fdfe",
     "0fe60992b1cc5f135ba3f02575712c25d1f917ba71f0b66978b9d71ebea51d99",
     "8ea181b412061f4f005cf98d183af27c1878f8525c34495ce7edb7d575cd8890",
     "510977ebb8fbe42918b6b220547b8f0168779f348fe00b1f102355455c6de1c2",
@@ -4635,8 +4632,7 @@
     "f5a81dbde7bb6c4f7d7eae910fa00e06061b72b14cea36826675fcdb0a89b863",
     "d38bae6a17309cf5cc148662168676a87a88040637496f05eafb87e02458df89",
     "44fec9842de52a2607e4e009fde3ca38a9b11dbe6e1ac91c28bfea7e657e4ab1",
-    "e7bacbb788b40145b5f088bc39f6a012f101f3184cf212c9d63ab05a4d6f0aef",
-    "7f439ee2bb7606af0d970a1338a646410f044c38f9ab7f65970aa299fa8126db"
+    "e7bacbb788b40145b5f088bc39f6a012f101f3184cf212c9d63ab05a4d6f0aef"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

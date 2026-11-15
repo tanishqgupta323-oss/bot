@@ -18453,6 +18453,34 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.5018
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "NDTV",
+  "title": "\"If US Makes Another Mistake...\": Top Iran Negotiator Warns Trump",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3RWcmcyWDB1ZlB1dHdEYUFaNHl5Ukl6WC1TR2ViVG5paFpldHZjaDQtTmpqSkQ3ZG9JRjlOZHdNNUE0UHRVTWF2b1Q4VldYQUNfWXlHdDFqbWFNZnFzOVFQZHVUWGR6UjhEa1RyWVB2b1U3aW1zUUtsZENma3pyWnZJc0NRbkxuTUJWelpJUWstdzdSemtkX1dHc3o4MlFadEh6bDhDRmZVY1I4UG5aQk0teEF3V0pkU1JfVGx0aDkyY0hHTE80dlNLYnQwX3d3ZFJR0gHbAUFVX3lxTE5MOUpjRVlXV0lZVzBqaHlEU05iLWltcE9YUV95Q3FleWJrTE1wWk02MlRmdnp0UmdQS1NJeG9STVBLT1NqRDF4RndJQUJRcVVaQkNxbThBREpyQ0ktdnVYMHF0Z3RXOXZlVTRNNTkzbzQxTlJ5dTg3bTZoY0NYN3M2SS0xd0ctRWhUSWdkVnRSYlZubGs4NDVNUXNfaWJQZkpsRHNRWlpkelU2OHNtaXhBR0Q5eDhXWThtYmY4R2otanNhNDNIOFdwNjlRUFR4QnJMcWN3SjVJcVlFbw?oc=5",
+  "published_at": "2026-11-15T09:02:25+00:00",
+  "sent_at": "2026-11-15T09:31:01.441216+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1421
+   }
+  },
+  "checks_base": "published"
  }
 ]
