@@ -632,26 +632,10 @@
   "calendar_fetched_at": "2026-11-15T20:20:51.583103+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 150,
+    "count": 151,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-04T08:50:50.032428+00:00",
-      "t": "Democrats projected to take Congress in blue wave fueled by Trump, economy discontent",
-      "w": [
-        "blue",
-        "congress",
-        "democrats",
-        "discontent",
-        "economy",
-        "fueled",
-        "projected",
-        "take",
-        "trump",
-        "wave"
-      ]
-    },
     {
       "at": "2026-11-04T10:15:53.471328+00:00",
       "t": "Eurozone October inflation accelerates to 4% as energy costs jump",
@@ -3605,6 +3589,23 @@
         "push",
         "rate"
       ]
+    },
+    {
+      "at": "2026-11-15T22:20:47.875511+00:00",
+      "t": "Iran attack on US base intercepted as Israel warns of Iranian plot against President Trump",
+      "w": [
+        "against",
+        "attack",
+        "base",
+        "intercepted",
+        "iran",
+        "iranian",
+        "israel",
+        "plot",
+        "president",
+        "trump",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3636,6 +3637,10 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "d9c666ac5b9aa23e87b918224941ad8d3884df1f1584e4f98609f00ff2113ccc",
+    "05cfe7de81caa3ef5eec64ea9933e0151f38880d4d7031cb8830ac9ee45bce47",
+    "52ed89a652739434bf71523741e1b3166750167b1afdac39bb075142985ed120",
+    "92b0a99577432eb75f04191646f6f6a8492565738b503e5b762b77aba3dafee3",
     "b53c45f1ead43253835da1dcbc608436eac5b27c44457c3e06bc616f1ac3c666",
     "6c27a5e7fe4d7647aa7e491ff970f4e070bcdbd7d6ecc2fdb0d226a5bbc12820",
     "9c40265a02882984b4cc93a504ff8c1af058efa4af1b931b1edf4bf43248cf2c",
@@ -4631,11 +4636,7 @@
     "b1267015293f7724ee65f0d3b01316aa68d84171c9b2050812575d1b689feec5",
     "2612550614c139d759a8b5f9518b635d11b1c6f41b1cfadbe0890c9e1dea24ab",
     "dfdf1d79559d4f6b01f5742a3f510e343869424b7ca47d5b9673460e269b987d",
-    "d5c8e46f638667bbf5e18639840ca49b421438501b5311dcba207e1572a1b076",
-    "9a37d75aee282fe8565935a42440311d9cdf910331adb919cae62cd3437c2401",
-    "9cafc2ae679f9004e9122635dae9fc2d09881e4fd79dd55c968a17442fee7bf3",
-    "383796740977f214fe70453d9c84f2883c003bdbb1082d943c97d07dc33408a0",
-    "e6506544b8ed4bc53be6dc16d8e8a4bd91db97465d428714c454a872c0e7eeaa"
+    "d5c8e46f638667bbf5e18639840ca49b421438501b5311dcba207e1572a1b076"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

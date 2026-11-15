@@ -18617,5 +18617,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Fox News",
+  "title": "Iran attack on US base intercepted as Israel warns of Iranian plot against President Trump",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3c2ZkeUI0bkl5S2tERGVlbjN4cEVvNTg3bUVLNTlKc3ZrSVM5MG94NUN4LUM3a2NpNDMxTTlKeUtudFMtckgzTWlfVk1YWVVSWDNpV2lR?oc=5",
+  "published_at": "2026-11-15T21:50:19+00:00",
+  "sent_at": "2026-11-15T22:20:49.108899+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0886
+   }
+  },
+  "checks_base": "published"
  }
 ]
