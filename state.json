@@ -624,22 +624,10 @@
   "calendar_fetched_at": "2026-11-15T02:05:36.210843+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 187,
+    "count": 188,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T19:40:53.034563+00:00",
-      "t": "US has plans to strike Iran as early as tomorrow — report",
-      "w": [
-        "early",
-        "iran",
-        "plans",
-        "report",
-        "strike",
-        "tomorrow"
-      ]
-    },
     {
       "at": "2026-11-03T21:50:56.963407+00:00",
       "t": "Trump’s Election Day bombshell on Israel points to historic shift in US politics",
@@ -3605,6 +3593,22 @@
         "whales",
         "wilderness"
       ]
+    },
+    {
+      "at": "2026-11-15T03:15:45.411751+00:00",
+      "t": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
+      "w": [
+        "coalition",
+        "drones",
+        "eastern",
+        "intercepts",
+        "led",
+        "missiles",
+        "province",
+        "riyadh",
+        "saudi",
+        "towards"
+      ]
     }
   ],
   "resolved_events": [
@@ -3636,6 +3640,10 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "2419df2516d2e0df02f0b645b4cd88e6e1599a29ca4c8c6eab63a390037f1bc3",
+    "efe896fbf88e1764c391986b6da2c0698fe54f831caf61264891c55faecc12db",
+    "a9ec01d803dc78a79e581df3ed606c78ef3d3bf50b50b8ae49c0f751a80bc3a0",
+    "b6e7dee6d2e9075517007a2b09a757c9ac0c2b8a8dc46b4a5c1e95ddcdf5d276",
     "429d67360ff3715446db49bc134d57f9a5175bb0b925b98b21785188ee9c9121",
     "55cca2cbb773fc5c46f2b05201d0dee8b967276313fc8e742bfdb7778d6fd094",
     "6132fa833a5b614b2d13f2bf1c3ed4a65d50772946da9d9552e5ed29273060b7",
@@ -4631,11 +4639,7 @@
     "7fa8daa6b5bf4b956112572a4c086bc5a1db1bf4eec2a7612c262a02a05ee107",
     "be1d23a6e7ad02e50982ac4eea3aae2ff9b695373ce61ff47bd5eb3f56d483d1",
     "2974d442b022f8e68047c63b8c6ea3886def26be4877fe0b23b09986680ad271",
-    "6690a661fa95a6382ed5d15b12125f0a65b5c4abd214ed3554c7274b2be20583",
-    "8b240ae89c066a1cb71b91b20c5cc2e1338b4da0342c87ad7f1e43307802acf1",
-    "17b48e6ee55b49501c8d6a617d0d70bbafff92adf32f2175131573fb672b3ddf",
-    "c66fe18a0dc246a5ba95a93f690ffdde9ae0241b545c2fa5900477d1055d0b41",
-    "00a2e874f07c9ed9472aad3551fe3e27f8b107568e94768c6d3cd805da0d67da"
+    "6690a661fa95a6382ed5d15b12125f0a65b5c4abd214ed3554c7274b2be20583"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

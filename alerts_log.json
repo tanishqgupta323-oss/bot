@@ -18215,5 +18215,19 @@
   "xauusd": "NEUTRAL",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
+  "link": "https://www.investing.com/news/commodities-news/saudiled-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province-5027639",
+  "published_at": null,
+  "sent_at": "2026-11-15T03:15:46.486074+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
