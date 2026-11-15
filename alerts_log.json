@@ -18492,5 +18492,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al Jazeera",
+  "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnZfRlIyYV81ak90RjNRX0c0eHFfVElETDhZTmZfb2F5WDhxOFk4TVRQNFhvV0x4cHJvRVlLQVAtWmpUczhfM0NraTJoblE2bHd3cENGTzhGbWlaczNBZmdZUTd5Nko2S003RmJoOVhCRlFlX2JOSXI3NldfMUszLWg4UDlKeXk1Z090Q3Zma2h3WllQTEpreDFlSGtNOXp6WU5UVXI0Tkdnb1EwYjY5SWg0NNIBuAFBVV95cUxPUE1GeWU3b1pQZkRVS3g0YjVkejJUdEhwNU90QVgxVXA5dEVBOVpzQXd6eHIwNVJkSHUySldvVWk3MGF5T25WSFlGemx0QW1xZS11bVpXdnFkYjlGdFRLRVQyczIyVnVTc1JjOFFFUkxYUW5xQWllbUFsYmlDRUljdDhhVk1udXZseDlwU3IzQjZOVVhFZElsem1HNG9OOTE4UVpYeTZYX09zZW5Za0xVUU5BZlZXeW4x?oc=5",
+  "published_at": "2026-11-15T12:39:53+00:00",
+  "sent_at": "2026-11-15T12:55:36.788808+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
