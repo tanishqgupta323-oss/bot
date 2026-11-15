@@ -632,25 +632,10 @@
   "calendar_fetched_at": "2026-11-15T08:10:44.440707+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 10,
+    "count": 11,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-04T03:45:54.567034+00:00",
-      "t": "Qatar says remains ‘hopeful’ of a US-Iran deal; Trump confirms strikes on Qeshm",
-      "w": [
-        "confirms",
-        "deal",
-        "hopeful",
-        "iran",
-        "qatar",
-        "qeshm",
-        "remains",
-        "strikes",
-        "trump"
-      ]
-    },
     {
       "at": "2026-11-04T04:01:25.012568+00:00",
       "t": "Trump gives Iran a 10-day timeline in Board of Peace meeting on whether he'll continue talks or strike",
@@ -3609,6 +3594,18 @@
         "repeats",
         "strikes"
       ]
+    },
+    {
+      "at": "2026-11-15T09:15:54.792350+00:00",
+      "t": "Iran’s Hormuz Brinkmanship Tests the Limits of Diplomacy",
+      "w": [
+        "brinkmanship",
+        "diplomacy",
+        "hormuz",
+        "iran",
+        "limits",
+        "tests"
+      ]
     }
   ],
   "resolved_events": [
@@ -3640,6 +3637,8 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "64e9716f882dc8b9608a50894cd15cecc7b1088c77198e60badb6e9dc1773be5",
+    "1980729623f748348453be18b1aee3c548056ddc567c62ce0beca43ab4d04692",
     "8c7235c2e9a602ac50252795a39155c81134e72b2cbea51633b6d765955eb0e7",
     "bd7c96b4ef6921df1e53b907188341c1cfed9bc8be0f3df2b3b2ec262eb1ed1f",
     "1eb8b17e81a35d5098f4cb5a7c23d2eadb4abe5bddb2d3feff13fbc67523ef59",
@@ -4637,9 +4636,7 @@
     "0aa7ce4e5cd79ca1ff569e5b0844fa119935d89a97a8ab7868105a2fde0a00bc",
     "df2d966d8fb0b5a166c1be1e219682036610cdad8bb97f8f74a05dc86a931860",
     "31753bcba864a637c4f36b53c1152bf95443eeefd235ff51bff732a852fc2b17",
-    "567b2bd8113467516d9e1d9e4cb649c2751fbea3fe04f28beb58626e44b8e4b5",
-    "5c9fd4f3b1519fb3632efb8089625a1d5030b8e24e71c81077834d0b8e4e05c2",
-    "d3fd51b678cf7c3b6cfb573aa91af21e4b1b719d3220fc15d21d4ecf0d59ba45"
+    "567b2bd8113467516d9e1d9e4cb649c2751fbea3fe04f28beb58626e44b8e4b5"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

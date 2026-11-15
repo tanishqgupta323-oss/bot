@@ -18435,5 +18435,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Jerusalem Center for Security and Foreign Affairs",
+  "title": "Iran’s Hormuz Brinkmanship Tests the Limits of Diplomacy",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QWjhwaVVicDFjcUFjcjNfOHE3UDk2N251R19KWXlSWFVSREVid0ZyeHMxcVR2U09FZEFTSEVrWFp0RmJNRVprVEF2dmptSUxodlZNdm5sbGlLY0RMendvMkI3MA?oc=5",
+  "published_at": "2026-11-15T09:10:20+00:00",
+  "sent_at": "2026-11-15T09:16:00.247681+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
