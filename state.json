@@ -632,24 +632,10 @@
   "calendar_fetched_at": "2026-11-15T14:15:44.877941+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 77,
+    "count": 78,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-04T04:55:39.412282+00:00",
-      "t": "Democrats win control of Senate as US voters reject Trump’s agenda",
-      "w": [
-        "agenda",
-        "control",
-        "democrats",
-        "reject",
-        "senate",
-        "trump",
-        "voters",
-        "win"
-      ]
-    },
     {
       "at": "2026-11-04T07:10:54.998548+00:00",
       "t": "Trump says 'we're blowing up the whole country' if no Iran deal is reached in 48 hours",
@@ -3599,6 +3585,21 @@
         "strait",
         "tankers"
       ]
+    },
+    {
+      "at": "2026-11-15T15:45:48.083787+00:00",
+      "t": "Iran raises stakes with new drone attacks as Trump signals a waiting game",
+      "w": [
+        "attacks",
+        "drone",
+        "game",
+        "iran",
+        "raises",
+        "signals",
+        "stakes",
+        "trump",
+        "waiting"
+      ]
     }
   ],
   "resolved_events": [
@@ -3630,6 +3631,11 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "fe27a4d118f37e9830f360a8edc662d5a350ee738f663529f50a2215f0410ef0",
+    "85d4331f88ca133b3799cc2f34085790d19589ab24c9ef92386a9a37e7faf60c",
+    "5ccfea6dc2dede936ab2769cbc097aa693b4affe1911c0fd749b584004a6cd16",
+    "87cfda9e2dddda998d7baf50ff63d03075c3e1165ba8eaf37f91f9bed99d2802",
+    "62bf36e593b791e0ac2ba63bf3784ae5e07644977412ff5846704a5b56cb4e75",
     "33efec0be4e868cb187944545e5307df3e6d1f68f5fde403a3292aa21601f9ac",
     "fad702055bee26a2ee47d6dd1ecdfa323ae8e617efb0e012c7d0a4de173b7762",
     "8a476f2cc3cb1ade9ed3c1b8bd08940b01985c00a0bbbee2c9ac5bd17c0b36e0",
@@ -4624,12 +4630,7 @@
     "aac9c9a38de7ff709cc5db9da7faf71309c2342475ca93a7c77d89db11f6d14c",
     "ab70c99f6368a075e150321ee16550da36ddd89e3be2b7eb0f2d22ad0a393760",
     "6e66e0c112d4059eb06eab3c9e5f221fc1f041d35c8bc9052c1ce4dee6a1d2ed",
-    "6e20c7c294cf0ee0275fca43a1907d15e55908eb7ba2bf3909b45422c15d9ef7",
-    "79f35e325cb85e80fe024ad5c3f7311f721014a56631678ef5c41fa93362fd6e",
-    "c551735966b2ea8ebe715e3359b74d9c6227b15a87e95569528f6e83513988b2",
-    "e140f99bd31dc39fadcb90d67d132e2fddcdfab1eb86c0d64d45bc4c19f558c6",
-    "90d61eddf57897ee9908dd6d9d442eb94c06555b3be0f441240e6cd7e451101b",
-    "afb32f5508bc23ab6b3ec8c894a05a7cdd143a0c2cc5d215b9d79fb1008e012a"
+    "6e20c7c294cf0ee0275fca43a1907d15e55908eb7ba2bf3909b45422c15d9ef7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
