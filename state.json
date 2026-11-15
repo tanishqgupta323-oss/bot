@@ -624,25 +624,10 @@
   "calendar_fetched_at": "2026-11-15T05:05:43.246749+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 218,
+    "count": 219,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-04T02:05:38.475876+00:00",
-      "t": "Sell tech, sell USD and other signals from the massive blue wave that's unfolding",
-      "w": [
-        "blue",
-        "massive",
-        "other",
-        "sell",
-        "signals",
-        "tech",
-        "unfolding",
-        "usd",
-        "wave"
-      ]
-    },
     {
       "at": "2026-11-04T03:10:52.687974+00:00",
       "t": "Update: Iran says Hormuz stays shut until demands met as US deal remains far off",
@@ -3603,6 +3588,21 @@
         "slides",
         "toward"
       ]
+    },
+    {
+      "at": "2026-11-15T06:10:46.493607+00:00",
+      "t": "How American troops’ data guided Iranian strikes and left a US$9 billion hole",
+      "w": [
+        "american",
+        "billion",
+        "data",
+        "guided",
+        "hole",
+        "iranian",
+        "left",
+        "strikes",
+        "troops"
+      ]
     }
   ],
   "resolved_events": [
@@ -3634,6 +3634,8 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "a78484ff5e37cc44e588b37be9c950edec64dc25e4e7d760777aa4ad3eb53290",
+    "01bf8fc6b0ace386cf2f4484adf50e3ffbd5a874e9565ffd6be614477fa98744",
     "adf6f85d26dde72a9df83fe25f3370bc02195f5611a0474d8c425a8712945357",
     "8b70dfa1085fa6fe28d3114570312f1b814e6d9f93ef742f23fd67630e99d506",
     "a027590038e16e1cdcd95550074a6b5c23cf70f151b5ff448b70a3c365d7ab26",
@@ -4631,9 +4633,7 @@
     "6e83b5aa736a782459a83d13a1a80afff0efa4bfcbb686ccd05e2b355079950c",
     "7fcd8bd6bca30d3bf72cde13284e8ad5efc246a29c4cf74adb8fb2e110d03eb3",
     "44a3ae2ad74f894603ce9fca0ef87b49ffdf0bcc66985a659f50e80497b96237",
-    "8b749033c950bae6ad20ebe3f373d3f9a8eef2be282657e7b7008ab6fbcbc2fb",
-    "ca864d1c47d47f7ab4e3dd1cb4dd9956e433c7f37db6f3595d55232698b462c4",
-    "e203a1d069d8fc47089dfd7ec6b34f306ef71c5594de92fd30fc67cdfb4fc2f6"
+    "8b749033c950bae6ad20ebe3f373d3f9a8eef2be282657e7b7008ab6fbcbc2fb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

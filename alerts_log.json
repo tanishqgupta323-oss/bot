@@ -18323,7 +18323,14 @@
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.6742
+   }
+  },
+  "checks_base": "published"
  },
  {
   "kind": "live_news",
@@ -18336,6 +18343,20 @@
   "impact": "HIGH",
   "eurusd": "NEUTRAL",
   "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "South China Morning Post",
+  "title": "How American troops’ data guided Iranian strikes and left a US$9 billion hole",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSDV6ZEZtdEVnV1h0X1piZDBLYnlqZmRuYkFtd3N0bVA5aHZ2R3oyeXRyUlNvNF9pSHVPMzdNVVdrY0FhV0dQMDJ2Nlo2VjBZcXJMd2tfa0I1ckpxVjlNS01iTWtxMTU2dFM1eDVSRzZiWU90cmI1UXdtUDBzanc2RDJ6WlZxR0R5VE9nVW9EcGEzdGNFQlpIblBNZjEwVFZYeEthMU9qczk5UEVPSDRhcmlBMWdxcDRKMnVvU0lsLXVzUjBQSFVxQUZMUVh5RWNoWFHSAdIBQVVfeXFMTS1PN1hvR1o3Z0xQYW1Hc01WdGhkQUVkNE9JQzJ0bmxwaHBEMHNKZFVLWU1wRDRMMzhFeU90M24wSVpKRC1NeXhKZF9PSU13RGRwRmZfVG5SZUJna0N2WDNUZHhBWndycjA0SU9kNjRDN1dvQ1l3enZ6akVfR1Nob2xQTVM1UUpoQ2JfWG5pSG81dHpRM0xKRnJfSmw1Q3lSQmJpU2VrZElvMW9lNWRlODMxYXV2ZXFFLUFCSHNQa282al9oV0s1c3FSaHZwaW1pRmdn?oc=5",
+  "published_at": "2026-11-15T05:57:18+00:00",
+  "sent_at": "2026-11-15T06:10:52.447423+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
  }
