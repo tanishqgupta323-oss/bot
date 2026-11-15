@@ -624,24 +624,10 @@
   "calendar_fetched_at": "2026-11-15T02:05:36.210843+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 204,
+    "count": 205,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T23:15:54.330740+00:00",
-      "t": "Iran Strikes and Israel Aid Cuts Shake Up Election Day",
-      "w": [
-        "aid",
-        "cuts",
-        "day",
-        "election",
-        "iran",
-        "israel",
-        "shake",
-        "strikes"
-      ]
-    },
     {
       "at": "2026-11-03T23:45:51.682474+00:00",
       "t": "US has no immediate plan to strike Iran, Trump tells FT",
@@ -3608,6 +3594,17 @@
         "radar",
         "strike"
       ]
+    },
+    {
+      "at": "2026-11-15T05:01:15.008136+00:00",
+      "t": "Iran Attacks Bahrain as Conflict Escalates",
+      "w": [
+        "attacks",
+        "bahrain",
+        "conflict",
+        "escalates",
+        "iran"
+      ]
     }
   ],
   "resolved_events": [
@@ -3639,6 +3636,7 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "fd241ba944438d13df117be3fbcef843e497e8847a41fb276883d0f58fbf9408",
     "4e768c295fc0f745f0d7668358acf0b32eda15c472d76243db7c3e699c21bbcc",
     "6f821d7522da86b0501c42e15145d78537f1faa2c872db9f23fe1d42aaf3a9f5",
     "65c7ca2c1f85f61a65dfa9913d2e7f442ee636346f23afea5cc20cdd0eacfe68",
@@ -4637,8 +4635,7 @@
     "c24bfcf9221d2312bdd56003bf21adceef31dd24af064d6d18c2d9822d6d5c81",
     "5783ca13df250b6e5232e625caa06b11600a46bc033f351190f251a6679ec308",
     "606584bf7655b58bb053fccd11e957d4e58a3ff055c634c0475418c0e91a21fa",
-    "92d1927890ed1ff3e9cd4fe4705666bccf6c2c048798c525fd0d79c8ed977bdb",
-    "1e7f390f355aad0a183af126bcdb8ca76cfbeb3d080fa3df864b4cbe1d0be889"
+    "92d1927890ed1ff3e9cd4fe4705666bccf6c2c048798c525fd0d79c8ed977bdb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
