@@ -624,25 +624,10 @@
   "calendar_fetched_at": "2026-11-15T02:05:36.210843+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 185,
+    "count": 186,
     "day": "2026-11-14"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-03T19:21:05.265878+00:00",
-      "t": "U.S. launches new attacks on Iranian targets days after Netanyahu pressed Trump for more strikes",
-      "w": [
-        "attacks",
-        "days",
-        "iranian",
-        "launches",
-        "netanyahu",
-        "pressed",
-        "strikes",
-        "targets",
-        "trump"
-      ]
-    },
     {
       "at": "2026-11-03T19:40:53.034563+00:00",
       "t": "US has plans to strike Iran as early as tomorrow — report",
@@ -3600,6 +3585,26 @@
         "level",
         "price"
       ]
+    },
+    {
+      "at": "2026-11-15T03:05:33.838065+00:00",
+      "t": "Bitcoin Selloff Deepens As Bitwise CIO Warns Of ‘Wilderness’ Ahead, Whales Buy The Dip – But $57K Remains In Sight",
+      "w": [
+        "57k",
+        "ahead",
+        "bitcoin",
+        "bitwise",
+        "buy",
+        "cio",
+        "deepens",
+        "dip",
+        "remains",
+        "selloff",
+        "sight",
+        "warns",
+        "whales",
+        "wilderness"
+      ]
     }
   ],
   "resolved_events": [
@@ -3631,6 +3636,10 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "55cca2cbb773fc5c46f2b05201d0dee8b967276313fc8e742bfdb7778d6fd094",
+    "6132fa833a5b614b2d13f2bf1c3ed4a65d50772946da9d9552e5ed29273060b7",
+    "cab663909c026cd2c41ee549bf491e7d94fa2a7b53a1098618ce0f48cb6d1cf5",
+    "007c3dc799dcbb92a00aaf3f7e9e3a93dc239f62be0e86aba102ab9d52394bfe",
     "29c1cc084f2a5ba75c7128a4cdc0633b43f3c86fd2aa428e870ddb7732053c36",
     "2f473b884a2146c064eb3a612cc650c39b01c25c271773b5bf0ffb03a9d1abfc",
     "42c23a289ec6eceaecd2e5d62c57cfd8d9cce9ffa00966074381da68b0949160",
@@ -4626,11 +4635,7 @@
     "17b48e6ee55b49501c8d6a617d0d70bbafff92adf32f2175131573fb672b3ddf",
     "c66fe18a0dc246a5ba95a93f690ffdde9ae0241b545c2fa5900477d1055d0b41",
     "00a2e874f07c9ed9472aad3551fe3e27f8b107568e94768c6d3cd805da0d67da",
-    "bc5d4f634e39135d79a79e616b4c467906c62d4c574efb70e9057c45adc81dbd",
-    "b0110aadbcbf642e32b6de36324d1f55c06b2012a09b403b655af0e006c016a5",
-    "90f679e26bbac87a143e5cda3e14a79cf04dc64b138c3e9d8e4e619989ceebde",
-    "77b9af0da55dfc4d167f102cb175d68b74d41c3c21620a386a90de23d772456e",
-    "e3059b1be613c3a9a48c70a6aa6d07767a80b86650a1d9616bd126fdf50e9798"
+    "bc5d4f634e39135d79a79e616b4c467906c62d4c574efb70e9057c45adc81dbd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
