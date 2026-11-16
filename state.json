@@ -632,21 +632,10 @@
   "calendar_fetched_at": "2026-11-15T23:25:33.236767+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 181,
+    "count": 182,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-05T00:40:45.543962+00:00",
-      "t": "Can Democrats in Congress end the war in Iran?",
-      "w": [
-        "congress",
-        "democrats",
-        "end",
-        "iran",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-05T01:45:46.142920+00:00",
       "t": "After Election Day rout, Trump returns to the White House ballroom, his ‘safest place’",
@@ -3608,6 +3597,21 @@
         "tehran",
         "warns"
       ]
+    },
+    {
+      "at": "2026-11-16T01:15:42.785381+00:00",
+      "t": "'Iran is not Cuba or Venezuela': Tehran warns it will not wait for US attack before responding",
+      "w": [
+        "attack",
+        "before",
+        "cuba",
+        "iran",
+        "responding",
+        "tehran",
+        "venezuela",
+        "wait",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3639,6 +3643,7 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "78c42595fc642da2321dfa2c023ff24f2e6e456fc8aa5cda4e65612e186f5b65",
     "0a374b738ccc7202d095dd4c08a769c3ab2e5c057cb4931c95f60eff77bec45b",
     "9cdf55cfd6d191b53d1019993efe4a378ff658d5ed20bdf58e2f83014842d995",
     "94908b68ed2763d18658aa876dfeade74ab03dcfadc9431f8b100cd8b575bc4d",
@@ -4637,8 +4642,7 @@
     "5532f15a17d6f0552e0be5ebde5801300bd6f6a5e87b9d45471437fc7db08edb",
     "6b4aa6ec877d65678ccb34be14dd3ed08f3e811e5ad9560de4abc45826859132",
     "0510772ac6e7c33a3ba3a51ef5066c5dbc81596786fcd261af7a4d2c4b3599b7",
-    "6990cf6c02d3ad2b325750753751190684be4a91c688ee8f4a806471dcef3cfa",
-    "02b11871549038783d42e1dd1fa8422c160d08ac45536d261b03213f5a85c634"
+    "6990cf6c02d3ad2b325750753751190684be4a91c688ee8f4a806471dcef3cfa"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -18721,5 +18721,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Times of India",
+  "title": "'Iran is not Cuba or Venezuela': Tehran warns it will not wait for US attack before responding",
+  "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbWt5TnZHTldYYURqU1J5dGx2Z1NaNjhpYmRWQXFUQndKVFhzUVBGdnZfa21IenlmVUs4Z1dpLUU4c0JXX0pGYjlCVzZiMldJWWtZV3lWSExlVnJTTnpVUEN4NGxjdnJHcnNCRXZuR1VPWHBqOXJvWFhWNG5meXRpWGFFWk1hTV84dWszX1BjWjY3MTZBeEV3QzlGMmU2M2J4X19pb193QS1RNlgzOFZlVEJFRVloMnRrcEl3NXNrUmQxbk9uaDNNd25OZ1ItanUtVkNnQ3NUMkhaVThjVTczVzgtYkYwNjFoQkVBM2I1UkJobjV0dXpwMTdNUzFLRlRs0gGGAkFVX3lxTFBuTHlFd05rT1hBLTctU21hWXJKb0hBcTN4THdJZzFPTVg0blZRclQ0Wkc5UWhzOWhZZzI3UGI4dTEwY0xyM181ZzllMmNKYmNTSE9MMzFxdlQ5bFNuTmJCR1pxZ1VaU1U1aTlvTkVGM1hwbkJGTTQtWGtjMWhsLUo2dGJVU3dhc3pjcHRCdEdFRFZ4R1lsdkxRYk1yazNSVUNQcXZWbnhQa3J2bko5aDVMM1UxbXJ3YkhaRzRieXI4eVBXbkxJdklySUg2ZXpyODFqdG50aG5XU0dxSndJZHRqNExHOEd5VTVZaXpFcjZhLVlvalVPeUM2a2dGRUdsa0tZVDl2SUE?oc=5",
+  "published_at": "2026-11-16T00:41:00+00:00",
+  "sent_at": "2026-11-16T01:15:43.655858+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0331,
+    "XAUUSD": 0.1954,
+    "BTCUSD": 0.2505
+   }
+  },
+  "checks_base": "published"
  }
 ]
