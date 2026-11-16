@@ -632,23 +632,10 @@
   "calendar_fetched_at": "2026-11-15T23:25:33.236767+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 171,
+    "count": 172,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-04T14:10:51.464857+00:00",
-      "t": "Opinion | America’s rejection of Trump and the GOP was broad and deep",
-      "w": [
-        "america",
-        "broad",
-        "deep",
-        "gop",
-        "opinion",
-        "rejection",
-        "trump"
-      ]
-    },
     {
       "at": "2026-11-04T23:05:35.599389+00:00",
       "t": "Citi targets $5,000 gold as a Hormuz reopening could flip the Fed from hikes to cuts",
@@ -3606,6 +3593,21 @@
         "stall",
         "talks"
       ]
+    },
+    {
+      "at": "2026-11-16T00:25:34.451195+00:00",
+      "t": "Third US carrier joins Iran blockade, Bessent warns of economic collapse",
+      "w": [
+        "bessent",
+        "blockade",
+        "carrier",
+        "collapse",
+        "economic",
+        "iran",
+        "joins",
+        "third",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3637,6 +3639,8 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "be258a9b317a90f9230b908dcb80b48c31941f51fe12b1720f8e57e8c1aaa57b",
+    "f48ec18bd22fb537fea0a0de65eb67fd53863c3ba582cf859c7a3a0e937abb6a",
     "0c115500d83975f3673fd83ac57b058b1abe000f6f629cb6cd17d5b64a5457f6",
     "d1cacf82db543cb78a14208041331e54de703de0aada5579aa4758911759a614",
     "0e9d697bf8afe4b0672512156429a7e52a5b467ac96136eaaca97a9715b52e2f",
@@ -4634,9 +4638,7 @@
     "72e4b508c322ba5716425dd13b49e55d405140fe7bd04a52ad1b857ed8959801",
     "2e36202d063e6877c60998a37b3592e15ce554e0cc2324a16be99cbefdb11daa",
     "fc3e5220285b92638b28c1a6ec678f71c93cdb55ebbb34f91c2ce77c05e23393",
-    "a193665ec39e6996de62a14bc739db41efbfe1acd377c45f20829b98040f4081",
-    "d5c81aad4bd777de0e9d16635120134cd010b98647789d6a7c1d73fcfc3e9acc",
-    "4e420029832356bc7d0e18991a004a03faab4d75c5a59f319e82ef8e17ec3dbb"
+    "a193665ec39e6996de62a14bc739db41efbfe1acd377c45f20829b98040f4081"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

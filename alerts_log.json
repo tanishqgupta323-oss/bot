@@ -18674,5 +18674,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Iran International",
+  "title": "Third US carrier joins Iran blockade, Bessent warns of economic collapse",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vaTFReTI3LXB0dllUN3JjQ2o0WU5YTkFFV3NiUnpSVXV5RmN0V2d6MDY2ZEpxMnRoVTFQbHBONUFTeGNkYUdMR1VKblREZHA3QWc?oc=5",
+  "published_at": "2026-11-16T00:06:34+00:00",
+  "sent_at": "2026-11-16T00:25:35.296938+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0331,
+    "XAUUSD": -0.0718,
+    "BTCUSD": -0.3609
+   }
+  },
+  "checks_base": "published"
  }
 ]
