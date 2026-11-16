@@ -643,26 +643,10 @@
   "calendar_fetched_at": "2026-11-16T08:40:56.378653+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 11,
+    "count": 12,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-05T23:31:01.626227+00:00",
-      "t": "Trump meets with national security team, says Iran war decision coming \"soon\"",
-      "w": [
-        "coming",
-        "decision",
-        "iran",
-        "meets",
-        "national",
-        "security",
-        "soon",
-        "team",
-        "trump",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-06T03:20:46.038594+00:00",
       "t": "Iran’s security chief meets Putin, delivers message from Khamenei",
@@ -3624,6 +3608,20 @@
         "iran",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-16T09:01:16.693913+00:00",
+      "t": "Gold threatens a major breakdown amid a more hawkish Fed. What to watch next?",
+      "w": [
+        "breakdown",
+        "fed",
+        "gold",
+        "hawkish",
+        "major",
+        "next",
+        "threatens",
+        "watch"
+      ]
     }
   ],
   "resolved_events": [
@@ -3655,6 +3653,17 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "320c7fb0d844c4ab3d5f50136b5b2baa9a4a78e1c24b59b67d499f00804b91fd",
+    "1a58fb9bfdf4ff9e7464a00ea5005817fde6ba207a12d830c71d95f5ad558737",
+    "bcc424e993f9e88c9afbf980834aef9b9d7750bc0291b47e8f6f68a1af8dd0c0",
+    "5b1a820abe86c7ec26a38baa39af15328ff26da06c480af8e069c2bc9a7215d2",
+    "1c83257569720b650f3517924cdf98160fdd06b035e5ab063d9532042903ff49",
+    "7480cf69475c72a6b49d97bc137241093f71b2d83a95daaac2c0a3bca2b3d086",
+    "af3ea2eead7264ad2727581abdf2bc8d7f67a5898b27b072f91da8ff7bdb944b",
+    "64050444f30783020fa5dfe594b46925820d4f791ca5562ce6541066029aade8",
+    "34db1dbbdf3793764ff5fe400feb7aa645dea2cdf0aa15b8a25c74504d939904",
+    "9748337209f5ff2524be2b43386a9ac2399400f866e4dfbab78324f3bb6c6787",
+    "178f47e038a64804fa5e24de3f5a78b2c2497cd4021e2dab43c6a5956fd10cc4",
     "b1f2c1ee56a52b831a05eacc7c1b36558171fc937c46d7e6c7aa7df37520b59e",
     "4147e75a26467d9faaa5ca5b78b9b737562ac092577d8973e50946d754c5e63d",
     "edda4786ba04825be48546dade27f124c3acaf8484f1cad0638e85753f1b5d52",
@@ -4643,18 +4652,7 @@
     "0e907b3e8b3c88980d35573bc6f2cddd484a4ac182646e738fea9a9950aadfb7",
     "2c05e06db1313b8131c7dd25661c2d76dac626439c211f698af7ee4439d5b1b9",
     "33976a431c327686f1381844f5b63aa2b101251a3513ee1582735c9d4e80fdfe",
-    "0fe60992b1cc5f135ba3f02575712c25d1f917ba71f0b66978b9d71ebea51d99",
-    "8ea181b412061f4f005cf98d183af27c1878f8525c34495ce7edb7d575cd8890",
-    "510977ebb8fbe42918b6b220547b8f0168779f348fe00b1f102355455c6de1c2",
-    "70cc3be60acb8eedf50a77bf01ab7dc43602eb525f80a678bb17c8c7374c8eee",
-    "64e9716f882dc8b9608a50894cd15cecc7b1088c77198e60badb6e9dc1773be5",
-    "1980729623f748348453be18b1aee3c548056ddc567c62ce0beca43ab4d04692",
-    "8c7235c2e9a602ac50252795a39155c81134e72b2cbea51633b6d765955eb0e7",
-    "bd7c96b4ef6921df1e53b907188341c1cfed9bc8be0f3df2b3b2ec262eb1ed1f",
-    "1eb8b17e81a35d5098f4cb5a7c23d2eadb4abe5bddb2d3feff13fbc67523ef59",
-    "b773883ce0f523d37a386a7cc4e12742e1691c6954f3437f0b461f067ba55276",
-    "b61588bb2eecfcb697af46ff8339f9d1ba4e20bdafdbaba4dcbca949d6da83c9",
-    "8cdc4661061e26c90e71f2bf229e7525fb795caa791aee35e4c895a4d5da5526"
+    "0fe60992b1cc5f135ba3f02575712c25d1f917ba71f0b66978b9d71ebea51d99"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

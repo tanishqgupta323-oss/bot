@@ -18921,6 +18921,34 @@
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": 0.0772,
+    "XAUUSD": 0.0595,
+    "BTCUSD": -0.1971
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Gold threatens a major breakdown amid a more hawkish Fed. What to watch next?",
+  "link": "https://investinglive.com/commodities/gold-threatens-a-major-breakdown-amid-a-more-hawkish-fed-what-to-watch-next/",
+  "published_at": "2026-11-16T08:30:00+00:00",
+  "sent_at": "2026-11-16T09:01:17.915076+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0331,
+    "XAUUSD": 0.1581,
+    "BTCUSD": 0.0315
+   }
+  },
+  "checks_base": "published"
  }
 ]
