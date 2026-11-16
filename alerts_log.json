@@ -19116,5 +19116,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Forbes",
+  "title": "‘It Needs To Hold’—Bitcoin Is Suddenly Braced For A Massive $500 Billion Price Crash",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ3FhbWw2cWVCR0JCM2hYcWlET2sxb1E4a2dZb21wZWxpYTRBTUREMnBONXlxcWpwQXpQMm9MNDBDR0pCYU91NnZfdDRRMlhqdWNtb2hReDZIUVlraFlKVG1iZUNRR3BfLWRwVTB3czR3Nk5jZ0FxLVJhODNESzhIMWtKZ1NtYl9iMnJTemFmcEZSY0xia3M1QnlDZmtpWmJTcDFVRUVoTFVCYkxpTDFjb1M5LTRHWmFUcHVia0UxZFNrMXFRekIzM1NrdW40c2hRaHlF?oc=5",
+  "published_at": "2026-11-16T13:29:30+00:00",
+  "sent_at": "2026-11-16T13:55:39.607207+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.011,
+    "XAUUSD": 0.0697,
+    "BTCUSD": 0.2374
+   }
+  },
+  "checks_base": "published"
  }
 ]

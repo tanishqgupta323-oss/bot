@@ -643,21 +643,10 @@
   "calendar_fetched_at": "2026-11-16T11:41:11.240680+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 46,
+    "count": 47,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-06T13:40:44.844784+00:00",
-      "t": "U.S. Nonfarm Payrolls Surge, Surpassing Expectations",
-      "w": [
-        "expectations",
-        "nonfarm",
-        "payrolls",
-        "surge",
-        "surpassing"
-      ]
-    },
     {
       "at": "2026-11-06T14:01:15.518267+00:00",
       "t": "Strong October jobs report sends yields higher",
@@ -3627,6 +3616,22 @@
         "underestimating",
         "warns"
       ]
+    },
+    {
+      "at": "2026-11-16T13:55:37.562811+00:00",
+      "t": "‘It Needs To Hold’—Bitcoin Is Suddenly Braced For A Massive $500 Billion Price Crash",
+      "w": [
+        "500",
+        "billion",
+        "bitcoin",
+        "braced",
+        "crash",
+        "hold",
+        "massive",
+        "needs",
+        "price",
+        "suddenly"
+      ]
     }
   ],
   "resolved_events": [
@@ -3658,6 +3663,18 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "a0aa604f01ac9213d0dac4a47c55204014306d307b858069373512b3f6e7e6d0",
+    "62a47cad0e9d0d384d6b5811ccdd5d5c755aaeae1ce709e65f7b34e7639795c0",
+    "7490e856b339977ada68f36a8ae63fac052002b5b42d1d86cf540dfdf65d3bc9",
+    "51f787af51a5e8a45be16186f6911940f696becb34f07ca7da7367e84e3d4447",
+    "bd0f051bfdc458c4883eddd1fe9ded62806da4cb04e82882184f129349e9bffc",
+    "c509484b02318021f9b68a4e04ac7d84fcf0ba80919fb8959b093d2dc7be0587",
+    "dc5e91085b109e0311055d3e176e6b3755c5ad549a2c4c7227f76b8db01b1fd6",
+    "5bd84f8fee2d0a8aa08f08b2fec670f3d0c2d000a8eb4af0094aa6d4a603d4a7",
+    "5e02578c333661ad768f94da06d9001f5026600c52ca4d6fc779167d7a1f2c6b",
+    "0c83b5292b9087e2953100d5a50d5dd4dd827d2e9ca3796b9b8ade958027a565",
+    "0cc9d12d1411cbbb8e45be697a324b28cc9b7bea6cca8ef53c0d2a2541a00660",
+    "889c447d9e78b44b67066c30842828393c56c3e402fa9a56931851dffe21e0b0",
     "894dd6cd8802afb3e55b3ccbbf05f7a256db0d6ea1360716cb3f18a8f838643d",
     "e21cf5ea9ac3ee695f5688e7be11478b9585f809813c283bea1bff45fd76e22c",
     "26ede5123bc64181f0c1a45c7d47be5b9530c2df300ac95c9e2257ba0e3e726a",
@@ -4645,19 +4662,7 @@
     "3f960f8ff31e1f354325346a36ac559e04596bcea7cc2e87869ef05b9396180d",
     "98cd8a56da27427bb72bf9ba1c80c9bbadee7235390b7e15c8f49076143db99f",
     "2c315686a59d28fd8042dbe049989a04f1de01138706ca072f3c87768a1b9520",
-    "2f6ca37db1c902831bd607783cdcd8721029856dc6e705937b46e9adfeeab492",
-    "73522293e2bd8e4297686aeaf6ec6ee6080d43cc90325512cd0f259a394bf163",
-    "e4c6cebc43539aa9085e9a22949de86ee3d4b615eb52d040c164c58310c94c10",
-    "dc5033416b50945b1454b647ef36463241b58ffe88fe892b5efb59b2a999648d",
-    "993cd25f19dda7974b2fab33ecf1d50666b6b0698c07d5ca3d59919a72e14036",
-    "89c0a0ebcdca559252ed037306c4418904e165a4f608af76f8c1b89cf6f6255d",
-    "c0793dbe39463c815b68c23fcb9587386b52b58ab58730f7f7e3553a1e6026e7",
-    "52e44b5aca6f77fed5784806c6ddb1fba892188a545fd29318425eeae8e4d2c2",
-    "cac15971e1bab9b13c289e744b3ff918863f13957f0f57c9fdaab6e109c0cd2f",
-    "64024ce24e46b5f946f340bc1f633c3cd46d7b6bcdc82de5e28a0bc4796def0a",
-    "0fed7b88b3ae108ec52047a8ef5a0bed5f05da051d6ceedfe5cce7d26aef9c3f",
-    "b726ba403d5d54fbeef1c0da2e398bea10b8911e109da947184551f73085235d",
-    "e2edf487c916d49b284bed465641852263b4b82bfbd2bcfcdee424d7a4480cde"
+    "2f6ca37db1c902831bd607783cdcd8721029856dc6e705937b46e9adfeeab492"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
