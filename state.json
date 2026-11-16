@@ -643,24 +643,10 @@
   "calendar_fetched_at": "2026-11-16T08:40:56.378653+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 15,
+    "count": 16,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-06T03:20:46.038594+00:00",
-      "t": "Iran’s security chief meets Putin, delivers message from Khamenei",
-      "w": [
-        "chief",
-        "delivers",
-        "iran",
-        "khamenei",
-        "meets",
-        "message",
-        "putin",
-        "security"
-      ]
-    },
     {
       "at": "2026-11-06T08:01:12.788825+00:00",
       "t": "Goldman lowers year-end gold price forecast on hawkish Fed shift",
@@ -3622,6 +3608,23 @@
         "threatens",
         "watch"
       ]
+    },
+    {
+      "at": "2026-11-16T09:35:37.431317+00:00",
+      "t": "Gold falls to lowest since September 2025 as Fed rate hike bets weigh",
+      "w": [
+        "2025",
+        "bets",
+        "falls",
+        "fed",
+        "gold",
+        "hike",
+        "lowest",
+        "rate",
+        "september",
+        "since",
+        "weigh"
+      ]
     }
   ],
   "resolved_events": [
@@ -3653,6 +3656,8 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "81fbb02b5741d2b30217058a06f02d7ca12299561874e111b1b1d855e6e8647b",
+    "32780a012aad7ac0d18ff2d1d62b0e2a5d0f18fac34a5c50123f554217c2fd7d",
     "1f94b3771b13b5376e1f09ad99e20934abcaf1d4eee55f5ca354d360f28a8338",
     "b9b06e20f606b80fcbd9b588a77767276b613368897db6d4441fb253a7d76558",
     "82923133e3b6f76e020862d94a7db5ef0a82eefc81d0e4a4d744789f0d8e6e7b",
@@ -4650,9 +4655,7 @@
     "5d61083ab0b8385d332e73296faaeac530fdb65d12a4c1d9516fc19f85a0c7b0",
     "7962d12d0486a4145ef0927d0ad507539d5e208da99cfdd19831b4ee33cbe95e",
     "5ad75c124c235aeddf2ad18e1824168e36cbdf772eb38b9253d5fffa6668e092",
-    "86aa79c2502aaf79f4cdb22343f417d6ee234cfa0d02035f16185f307ab28720",
-    "3e1050abe4ffa6e5098128e448c476d3a700f369b37d332e1fcfad7c36be87a6",
-    "5548a83ad4bdc8e900435e899bd9d05920c7a6e2b155136fe63841c17ba4d083"
+    "86aa79c2502aaf79f4cdb22343f417d6ee234cfa0d02035f16185f307ab28720"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

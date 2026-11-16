@@ -18947,6 +18947,32 @@
     "EURUSD": 0.0331,
     "XAUUSD": 0.1581,
     "BTCUSD": 0.0315
+   },
+   "60": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.1607,
+    "BTCUSD": -0.2805
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Anadolu Ajansı",
+  "title": "Gold falls to lowest since September 2025 as Fed rate hike bets weigh",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWW9DZGQ3N0ZtcEd6VFE2Ymk5UEU5c1FLRFlRRlBQbVlJOUdUTW80am8wRU96VWRhLXhUemRqUDVreGpub1gyQXNQbzIzTGU1eUVpaVAxdkRYTDFBTDFyZmthLWVMMFhkTG90a0tvR1RlUlZuY2ozMDNQOTNvc0ZaWjl0RC1BYjVMOG5DR2tvVGM4T1JoT2N6ZGZCaUViN0t2RnZsLVFSLS1MQQ?oc=5",
+  "published_at": "2026-11-16T08:56:58+00:00",
+  "sent_at": "2026-11-16T09:35:42.334607+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0466,
+    "BTCUSD": -0.2431
    }
   },
   "checks_base": "published"
