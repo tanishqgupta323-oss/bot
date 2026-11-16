@@ -19033,7 +19033,7 @@
    },
    "60": {
     "EURUSD": -0.0771,
-    "XAUUSD": 0.3856,
+    "XAUUSD": 0.3675,
     "BTCUSD": 0.1741
    }
   },
@@ -19080,7 +19080,7 @@
   "checks": {
    "15": {
     "EURUSD": 0.0,
-    "XAUUSD": 0.0568,
+    "XAUUSD": 0.1084,
     "BTCUSD": 0.0929
    }
   },
@@ -19093,7 +19093,7 @@
   "title": "Deutsche Bank warns markets may be underestimating rate hike risks",
   "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-warns-markets-may-be-underestimating-rate-hike-risks-5029111",
   "published_at": null,
-  "sent_at": "2026-11-16T11:40:46.847719+00:00",
+  "sent_at": "2026-11-16T11:41:13.400360+00:00",
   "impact": "HIGH",
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
