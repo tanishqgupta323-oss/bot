@@ -19059,5 +19059,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Barron's",
+  "title": "Stocks’ Next Headache? The Fed Could Raise Rates Well Into 2027",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVRqdWxHZTVJYU9nTnNEUFFBZWVVaG11UTdUYmdzUHFSMjVWYTY0b2o0NG5OTE9mcTZ5M3dQc2swdXE0aGpsTnk0THVka0poUi1uMTdfMkF3TGtWTGgtYU9KZm5DdjBrOWp3RDd6bmpFejdwVWxyb3pEYWxjZzFKTk5MME10LTdf?oc=5",
+  "published_at": "2026-11-16T11:00:00+00:00",
+  "sent_at": "2026-11-16T11:10:45.135973+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

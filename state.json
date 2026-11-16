@@ -643,27 +643,10 @@
   "calendar_fetched_at": "2026-11-16T08:40:56.378653+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 31,
+    "count": 32,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-06T12:31:03.465774+00:00",
-      "t": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-      "w": [
-        "bets",
-        "billion",
-        "bullish",
-        "etf",
-        "flows",
-        "help",
-        "liquidated",
-        "market",
-        "spot",
-        "suggest",
-        "while"
-      ]
-    },
     {
       "at": "2026-11-06T13:35:41.737233+00:00",
       "t": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
@@ -3630,6 +3613,20 @@
         "rate",
         "stronger"
       ]
+    },
+    {
+      "at": "2026-11-16T11:10:44.232680+00:00",
+      "t": "Stocks’ Next Headache? The Fed Could Raise Rates Well Into 2027",
+      "w": [
+        "2027",
+        "fed",
+        "headache",
+        "next",
+        "raise",
+        "rates",
+        "stocks",
+        "well"
+      ]
     }
   ],
   "resolved_events": [
@@ -3661,6 +3658,18 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "52fca3849097924e5345f1187a5db1ba04dfaa79c40af5cdc895f2fffe0823a8",
+    "f15f056ef918e7492b32eef08feaf9b86fb8a6122f9f616d183c816cba8de4a0",
+    "8ccf474c6e9c2e63ac3824e9b41175a5f60cd80ed9cde80b1db47188751c0ebf",
+    "1002d835d522c332034889a4f64bd0d1d073892c3843242295dc576cfaa27798",
+    "79746c3e45ebdafc571de4ce1d35e8bf56c94065f2e386d6b3f7ab73ed775dfb",
+    "68ba2f450123fa817e02d5215642ae6658ed4774eae14d2e63d59bccaa87f563",
+    "61f5d077f853d3ecb097cf0db64d7ec9226aa324c264a53a24075a2a0ec4e44c",
+    "d779813ff1feb2d37207f7259d7c55f4de56a12bcac8d23438b6f8ea185074fd",
+    "f0e7093345144cfc5f0c687e17ff5614b06d6ba58e8d076e2f4c16feca2f0e77",
+    "acd776e602d53f3db05127c50cd3f40b819e77230026db95a243324a9a928f3f",
+    "a5565b99df189ba7b6bd91288e51ce1669c55e7cd80add3051da60c41e248070",
+    "c1ac52375231ffb7b937ce9636bc00db862708bc3a0a6bbe0e24195abe524f8e",
     "ccc1b6dca64a726561b94dfdcf1ace14ed082a4de13d7c9f9bd8034df344398e",
     "1890846d37e0a8f6349151613dd98a522d2a64ceceeff511a02a2fbd39efbc8a",
     "bccdfcb8a0a68fbd0494d39ff95d9d35e1cd2abc3994f296bc5524db0473138a",
@@ -4648,19 +4657,7 @@
     "5a28904807dfafc9ed1dffe085d6a62439a687de75087ccc94cc1684aa2712e0",
     "c780b3d1dfb2bc22128a4a38f733c4c355ea3a8e44eb109da88850b2ce53b776",
     "19aa50f49d42752e07d703081ef9dd91a29d7df8e76625618abbb9eb14a46087",
-    "151b4753bcd007c9463eddfcaf413090aa228d3c69dbd0c03502479a1c7e7e15",
-    "9a79bf61161711d7a1566afa5d4bb77c0f1b4d13e99a5b5a5eb119586c9fa6ea",
-    "6393b96d458fe9bea05bca1ee6122c7cb3d155684f50af5a1a74123ea752b6d9",
-    "487bd8002505e6b4af4f48a923dcbfb4af76415771db64ce13a047902db9e748",
-    "f246bc53d10e5f56655a1c5b556ed09f8070b1c8bf763de06c1b146a3abc4ff7",
-    "d3178dc2d5c24d35e449c7355baf396ab41484aea85ccc362ad306063e5dfd33",
-    "da57836348b64085e77a5ec081ebb91a51cb8693b6df296e6561a2e6e9860bf7",
-    "c5442b525165d84a4bb25768556e786ff2277b54810602c376c80a93505ef835",
-    "d19942a9dd178d02d1dcd4ac58765e5be740c6d3c9a674fc279a04f653ac7501",
-    "bdaf85cd4f1b274736540b1b3f5bcd64410e327c0136c05e94a848367e12c43b",
-    "4aec93eb60809bdab1242e37df5e0c496ea762812602fa2523de4e72054a2561",
-    "db3ff8eb04da0b366cbe1aa6057beeff8d9b0c6b29e0aae3717006d2566e3e35",
-    "6b764ae555722141c82f978d9462017310b8affc4c6019f20e4ffc760a363035"
+    "151b4753bcd007c9463eddfcaf413090aa228d3c69dbd0c03502479a1c7e7e15"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
