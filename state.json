@@ -643,26 +643,10 @@
   "calendar_fetched_at": "2026-11-16T08:40:56.378653+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 21,
+    "count": 22,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-06T08:01:12.788825+00:00",
-      "t": "Goldman lowers year-end gold price forecast on hawkish Fed shift",
-      "w": [
-        "end",
-        "fed",
-        "forecast",
-        "gold",
-        "goldman",
-        "hawkish",
-        "lowers",
-        "price",
-        "shift",
-        "year"
-      ]
-    },
     {
       "at": "2026-11-06T12:25:35.478437+00:00",
       "t": "Stable Labor Market to Keep Fed on Track to Raise Rates Gradually",
@@ -3625,6 +3609,22 @@
         "since",
         "weigh"
       ]
+    },
+    {
+      "at": "2026-11-16T10:05:38.753636+00:00",
+      "t": "Hawkish Fed repricing and Iran tensions trigger a major Bitcoin liquidation wave",
+      "w": [
+        "bitcoin",
+        "fed",
+        "hawkish",
+        "iran",
+        "liquidation",
+        "major",
+        "repricing",
+        "tensions",
+        "trigger",
+        "wave"
+      ]
     }
   ],
   "resolved_events": [
@@ -3656,6 +3656,25 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "851c19886bc4d80be15570ab7032b9307a5ee84ad3c2c9ac06d6ded64b3596f6",
+    "5757251004379b9a1e3b1a07c900e1ad416aea3cd1bbfe4df49f7fc4120fefa4",
+    "4d5a6be31757ebf169b930b17b2f5bcc8b07ad4304360cb471aaaab828526c95",
+    "4afb10adaec6d08bf0991a4f4f2892947f6898d240457fb15fe80cb9899814d2",
+    "8c56e65308992e255fc81bfabef5d3482a0c2b7252c67c1acfd941b4cf86ded6",
+    "47b42ca53ddebba489f100eabc311ee05f3f05edf94fe9b51920b0e1f4323fb2",
+    "bb792a5ce6b716049364fef990f2c6ad63092c3c4c821b38b6bbd41222aff7b3",
+    "5dcd6b9b967f85d64d4ecf06297d5426f932ae2ddf5f37674910bca618dbf8fc",
+    "5580f3b802e34931d646109a9267dfc932c39465a532efbfccb43b5eecaf528f",
+    "526104fc50813304e1312dc80dfdb1f06dfa889eaf3d8c9ed33e3d1e19804c7a",
+    "728f116847f09b70c3e939bcd66339eac50e3489468aed03dba2a02493468c1e",
+    "5b0b59d299ec31536d25f1006fe51aba4d0aed326fdbdbf6e337c52db88bc589",
+    "d7a0860541cc82145a0be9dfd035c18abd9b80eff1ed9029b8312b875acbbf9a",
+    "9eefa2d341d3044214f39f8cb822fbf0f5fcd44e32258afa4a281e0dc977db99",
+    "7c6a2857df77e77739a91725b465226fb208f2bcd563b77f8fcc2df7fe8e30e5",
+    "6320c9d5f682c1cce3a5b8598a38e8a29a01fd3620b964d6fb86bcd5f2a0bb83",
+    "396d3e124845848839dc9c352e558bdef4d569e8ee2120d19580a083e5741253",
+    "6db9251afa0b3850b4dd46973149b94fc0d4b0a8388eeb829be84c4124e4771c",
+    "7a749e51eab28e5d6eb0356aeaf8e989184bb33496f88d20a465442239f6c06d",
     "2f391e7ec00c81674941e00382e2810027d0cd545a1ac77d316842babef0500b",
     "a1d3d6e64bb70671cfd1f41abd35f61a433b0e894c5c3a3602aee5f2b4a8879b",
     "f4a0bd05afa720b394ca3d2d5ed3a962422033bd403df35bf3ab18820ea5b719",
@@ -4636,26 +4655,7 @@
     "e25f7c9dcd544c737f512bbca906d24c1f422ceb2896e28ff480ebda8f10e09e",
     "ba3203b7babade5b0c99d6fe3f62762909f5832013cbc89573c1c6367c8dbf9a",
     "0f823a8b526fba357de625c9bc873a90dcaaf97667ac6d58052f05673090e409",
-    "5389769504e57b8fd6a3bbd2cc61367c4f6d448a016d28ef23060686e35e2c47",
-    "ed5e68a39451a8fb604b399674ab97966bfb7a8dd32ebcaf60923bcb88806f9b",
-    "626875555cf2a720121e61fa0a0815e2c44399c279db370abfb94fcbe8de2371",
-    "e59dcc6c96927ff9b729167a5677dddd5d41f64dd2ca9b643ef8d9e97fb2d494",
-    "6856b0d1c1d89175f84876bde3d30267650a588bc1892f9ec0adb7b0e20f0789",
-    "ca6a3ab0a16b5f48176e0082c4967cd679cb0f2f25e0efeaf77a595a8ef629fd",
-    "79b775c4f92cb6414cbdfe4374c1c64a02c69aadc15730d4088a188ea0422cf2",
-    "fef32f79654ccbe2580376c18c3fbecba86e4b3d59b2294d2f6a9e6a3019ff7f",
-    "5acabaf31a6bf2156fdcf7804fe6e7d710bac5cba68285b19dba381bb7b72032",
-    "b290fc5c9684463306a0e4de4dc69f9fda19de4b77345b898bb2164619d87e93",
-    "5276a80ec43d8d25361fc69c48921f1d71d086aa00a0f127b1d01a4559ae2212",
-    "b5578d9b09b2067786a243fa0480493c1293fd02871ef7117dee49636668af5f",
-    "6f8e98aaef107bf8dfcd6ffe82fe62b316d38f9871e811ce096f81d60e11f059",
-    "e49808dda6b0ac09dd4b8fa37ce59be03f0b3bf5d46d0bd1d22986d0ad270628",
-    "c24bfcf9221d2312bdd56003bf21adceef31dd24af064d6d18c2d9822d6d5c81",
-    "e88ff4a9d874bab49517897b08ebb594d9c8a8227542ceb3bc539262337ac18a",
-    "f2e68d32662e2492a5cca1655dd406a645706890c450638bbdec254d514b5081",
-    "4bec594700228be0e0ffaa3cdd363a57489251d60eb9175d029eb0e7ce658404",
-    "29159898d48c198198b25d6f97101d24c696fa8d5bbc0a894a1d1037ec8c91b7",
-    "ad805056459ed17d003b63ae3c7400f9c026cd14f70282532d57d27624458ba0"
+    "5389769504e57b8fd6a3bbd2cc61367c4f6d448a016d28ef23060686e35e2c47"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
