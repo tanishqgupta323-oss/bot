@@ -632,26 +632,10 @@
   "calendar_fetched_at": "2026-11-15T23:25:33.236767+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 175,
+    "count": 176,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-04T23:05:35.599389+00:00",
-      "t": "Citi targets $5,000 gold as a Hormuz reopening could flip the Fed from hikes to cuts",
-      "w": [
-        "000",
-        "citi",
-        "cuts",
-        "fed",
-        "flip",
-        "gold",
-        "hikes",
-        "hormuz",
-        "reopening",
-        "targets"
-      ]
-    },
     {
       "at": "2026-11-05T00:40:45.543962+00:00",
       "t": "Can Democrats in Congress end the war in Iran?",
@@ -3608,6 +3592,22 @@
         "third",
         "warns"
       ]
+    },
+    {
+      "at": "2026-11-16T00:50:50.077969+00:00",
+      "t": "Blinken warns US ground invasion of Iran would be 'absolute disaster' as Tehran escalates attacks",
+      "w": [
+        "absolute",
+        "attacks",
+        "blinken",
+        "disaster",
+        "escalates",
+        "ground",
+        "invasion",
+        "iran",
+        "tehran",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3639,6 +3639,7 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "803326e62b0c475ded268a3398d670f2db7ff2a44d3d3b05712ed5e0d9f8cecb",
     "acbb8cdb714df440fb23054af6f742975f9e7ce3c0ee07e66d5b713576e1cd27",
     "33008b065d7f0e72703e619676a93b414248fcc09776b20ea0e4a30b4c4efbc3",
     "814b7055c0ed54272d343dcdaf384b51c888975066596576483269db76f79abb",
@@ -4637,8 +4638,7 @@
     "ea00722663df08d281dbca4d2596bc564321de4c314b6b86a7b61aef4bce36c2",
     "5f89adc64a65eacaa0422b6ebc16b3d45924f9e2f6e0d4a37eb1c8b5e2668e4a",
     "0e282960dc7184bd6cd7a19c1f47493e69bcae41838046d047d8289bdae07d15",
-    "2fbb1363a848b5a8772c4e5c2eba43a118961205f5a18bb6bd2a78c2572c9f5a",
-    "6a38d83dad1c57b913cb8f11bdb0a86adf0300063874a9e3fe58dd8e159162aa"
+    "2fbb1363a848b5a8772c4e5c2eba43a118961205f5a18bb6bd2a78c2572c9f5a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
