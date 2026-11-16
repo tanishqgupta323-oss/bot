@@ -643,25 +643,10 @@
   "calendar_fetched_at": "2026-11-16T05:35:34.827385+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 241,
+    "count": 242,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-05T18:10:47.293945+00:00",
-      "t": "Bitcoin tumbles below $76,000 as post-election stock rally fades",
-      "w": [
-        "000",
-        "below",
-        "bitcoin",
-        "election",
-        "fades",
-        "post",
-        "rally",
-        "stock",
-        "tumbles"
-      ]
-    },
     {
       "at": "2026-11-05T22:10:47.710065+00:00",
       "t": "’Our phones are exploding’: Goldman Sachs dissects historic Wall Street crash",
@@ -3631,6 +3616,21 @@
         "trump",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-16T06:50:44.617431+00:00",
+      "t": "Iran says 2 oil tankers hit mines, catch fire in Strait of Hormuz",
+      "w": [
+        "catch",
+        "fire",
+        "hit",
+        "hormuz",
+        "iran",
+        "mines",
+        "oil",
+        "strait",
+        "tankers"
+      ]
     }
   ],
   "resolved_events": [
@@ -3662,6 +3662,7 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "9009ba4ae20925683bd29da65d41e5b3005f85954a4fe36657425d5ea68d3b33",
     "58ac5415bdf514bed2fbab12198a7c2fd3e2ed96ebd885f53e6911ca59f16f81",
     "1375c95b43db4aa46e4b6e42dd7fd3e878f80dcf2b43b6862b01024f72f6cb09",
     "4df651849abfe86bbbd8f0da3abccd240b8aca57f29a03dd6404a551e05b58e7",
@@ -4660,8 +4661,7 @@
     "9c6e52938cb16c3c1b8d95237e2f6c43bb61caf0329c4675e66da426974082e4",
     "6f6b935a458fee90e5020c3cfb6983ad98e81ae58eaca7e007f0049340203e8f",
     "d7dd41291d96a7b2e691f952861c590944e2b7b91094eb4fa40f5cb6584f2a52",
-    "4381ea3c729a84f3f3d5e98dc7b0752c588be8839c1bf9beb45107220e5c36dd",
-    "4ea70ad1506255fe50772823dfb86165ab67babc8bb549da162ef0bc74527bb6"
+    "4381ea3c729a84f3f3d5e98dc7b0752c588be8839c1bf9beb45107220e5c36dd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

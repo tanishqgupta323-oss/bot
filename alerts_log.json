@@ -18882,5 +18882,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Anadolu Ajansı",
+  "title": "Iran says 2 oil tankers hit mines, catch fire in Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX3d2bEdHRlVXdGc1WVhHRU1sVFNUQnJTSFNnZVpfMjlaOE5hVXljUHk3Y3R1emZuRm1UQXpOTmdjejlISDBVT3NfTDBES1V1OVFYZUNWYjlKZ2pIbngyX05vbnEyZ3ZsRndnQmJiQ2xraGdOeS1CRGgwMmhJdHZsWTB4YmhIRmNyOWpUZ1loMUJlNEdackpTZG5Pd01fTldpUlF2RFJVNGk?oc=5",
+  "published_at": "2026-11-16T06:41:08+00:00",
+  "sent_at": "2026-11-16T06:50:45.528737+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
