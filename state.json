@@ -643,26 +643,10 @@
   "calendar_fetched_at": "2026-11-16T08:40:56.378653+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 10,
+    "count": 11,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-05T22:10:47.710065+00:00",
-      "t": "’Our phones are exploding’: Goldman Sachs dissects historic Wall Street crash",
-      "w": [
-        "crash",
-        "dissects",
-        "exploding",
-        "goldman",
-        "historic",
-        "our",
-        "phones",
-        "sachs",
-        "street",
-        "wall"
-      ]
-    },
     {
       "at": "2026-11-05T23:31:01.626227+00:00",
       "t": "Trump meets with national security team, says Iran war decision coming \"soon\"",
@@ -3631,6 +3615,15 @@
         "strait",
         "tankers"
       ]
+    },
+    {
+      "at": "2026-11-16T08:55:46.166625+00:00",
+      "t": "It Was Not the Iran War; It Was the Ceasefire",
+      "w": [
+        "ceasefire",
+        "iran",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3662,6 +3655,10 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "b1f2c1ee56a52b831a05eacc7c1b36558171fc937c46d7e6c7aa7df37520b59e",
+    "4147e75a26467d9faaa5ca5b78b9b737562ac092577d8973e50946d754c5e63d",
+    "edda4786ba04825be48546dade27f124c3acaf8484f1cad0638e85753f1b5d52",
+    "6b454ff0b31822d1cfa7080ea5f9c2c0abfa98dbce05312d49a3450a9f151c39",
     "b3b4141692ac025c5de4ca610baf0d0f16d1075e0472c41a333e61b61e154a04",
     "96c8b9bb38f64b99a2200b01a56673395c13a2ec43a35c068f59ae42b4d6a35e",
     "c0da971dcd1f87e3a7a6496097ce20c65ff4b978c8bfa79092b0be581642636d",
@@ -4657,11 +4654,7 @@
     "1eb8b17e81a35d5098f4cb5a7c23d2eadb4abe5bddb2d3feff13fbc67523ef59",
     "b773883ce0f523d37a386a7cc4e12742e1691c6954f3437f0b461f067ba55276",
     "b61588bb2eecfcb697af46ff8339f9d1ba4e20bdafdbaba4dcbca949d6da83c9",
-    "8cdc4661061e26c90e71f2bf229e7525fb795caa791aee35e4c895a4d5da5526",
-    "090a54c132063ddc253d208b999d513ef274502073d484f7bd8c2cdee48a2e1f",
-    "e683c3f0a7d56758586de336700503abeb2eb21edbc3c7891694a89b23364380",
-    "f5c4e228d16401f55f8e4447391a698f0ad5aa0135eddfa83ca0bd3de2f2b8e1",
-    "61d17f9a8f01bf813f77eb393b48997a2e2cb7d35c1a1aeb95fbc7035ceb7f97"
+    "8cdc4661061e26c90e71f2bf229e7525fb795caa791aee35e4c895a4d5da5526"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -18908,5 +18908,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Times of Israel",
+  "title": "It Was Not the Iran War; It Was the Ceasefire",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFRfSUtNVGxKbW90bm12THlGQnJhTTFKUXJMOHZaVmlBaWRPNy01ZFltZmwzVkx1UXZHZGswZTdZUGd2SUJxT3Nvc0kzQy1kbUVQYklKbHVMMUhsM3ZlQlpfMlhKR2J1NnZFNW5JVm5mMWs1eWhNd2MtQjNOeWxmVktVQQ?oc=5",
+  "published_at": "2026-11-16T08:44:00+00:00",
+  "sent_at": "2026-11-16T08:55:47.919404+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
