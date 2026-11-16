@@ -18825,5 +18825,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Seatrade Maritime News",
+  "title": "Tanker confirmed struck in the Gulf, Iran claims VLCC sinking",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMjIyQXFJQXdnZUk4ZGJxeDJ2V2tWTlphSXh2aGhEMmd4Wkl4WHRYdUZrN1plSlJFR2JhbXJZdnh3blpyZVdicWZYOHhwUGwwZTJqcnd6TGRYbXdnLUhBTmZwWThQd19EVVlkQ2dGRzIyV3VqR21xRWpGNjl3SWNrUTdJQjV5U3dfOFU5M2lObldkaGE2TXVnMkF2LUhUTVJQZHF4enRR?oc=5",
+  "published_at": "2026-11-16T03:38:26+00:00",
+  "sent_at": "2026-11-16T04:01:12.703006+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.2276,
+    "BTCUSD": 0.0341
+   }
+  },
+  "checks_base": "published"
  }
 ]

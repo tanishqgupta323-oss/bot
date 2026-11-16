@@ -643,25 +643,10 @@
   "calendar_fetched_at": "2026-11-16T02:31:03.292739+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 208,
+    "count": 209,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-05T16:40:45.780025+00:00",
-      "t": "Bitcoin Price Crashes Over 5% to $75,000 as Tech Rout Wipes Out Leveraged Longs",
-      "w": [
-        "000",
-        "bitcoin",
-        "crashes",
-        "leveraged",
-        "longs",
-        "price",
-        "rout",
-        "tech",
-        "wipes"
-      ]
-    },
     {
       "at": "2026-11-05T17:20:46.801746+00:00",
       "t": "ECB looking at indicators to see if December hike needed, Lagarde says",
@@ -3632,6 +3617,20 @@
         "treasury",
         "urges"
       ]
+    },
+    {
+      "at": "2026-11-16T04:01:11.499499+00:00",
+      "t": "Tanker confirmed struck in the Gulf, Iran claims VLCC sinking",
+      "w": [
+        "claims",
+        "confirmed",
+        "gulf",
+        "iran",
+        "sinking",
+        "struck",
+        "tanker",
+        "vlcc"
+      ]
     }
   ],
   "resolved_events": [
@@ -3663,6 +3662,12 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "7a10ad69769259de58ca8dfbdbd82eaf18e23a356cf3acf0d4a039749e1fb793",
+    "ceb8f109865510825c3b1a2892d06d1ae505927182c318ad5f5d6ffc7e008a66",
+    "1ff92bc7a6d0296e96b41ed2912daffa431de15f0eaff51ea65034631b2ac5fb",
+    "520bd9721ad0c1c66d96e21c77e43ddc3fd5a1f2c766bf280b1f7d6aa2e03e4a",
+    "22a92430efe61023a81e433683265c851833354097746dc654c09df49f15a31a",
+    "7cd554c9c3977befc47051708d725e5bdc65d2353d2f53ec1b124fc342ef2b2d",
     "dde03c1e6738e83d1cb4cd1e5559ef3ce99bfcdf17fb127ecbea87615942e916",
     "6ab1a2cf1e53797cb931e7cf1fabf00756529bfe335640407902b9a2da1196f4",
     "dcd5dc496df9806fdc38e882df4770dc72815098130b5376da1fb2c1534d8f33",
@@ -4656,13 +4661,7 @@
     "c3e842d0a6727827d7558cb94a147dd76c3241f95120069ed8b1dfbf1c0164fe",
     "5e109c022c8ecb308f8863a97179fdb37c7963fd5fc930724e746030261fbcac",
     "ae8b80e9b8aaede64c9338665387e201b6a4b2eaed56bc37435c73e7852cdb53",
-    "bce21110b64ccded4b27b4eaa88fb20c3eba48f9bad764ded2a434072b89508e",
-    "e356e75df6916fde00475bb718f4c7d89457531150fe82e3b73ab1731fa8ae1c",
-    "ad5a477870372c7a252ce36e359a241e39acdf69ee30f52fd327a6672ea16492",
-    "cf7848396acac3dea1b24d920155bd90b02ef803281981ba15a71648ecad15ba",
-    "9ae89d9c2298d5b0f055096125ac8a6f03fc71f029a1c951ce7870e159f5c3b9",
-    "efa0485416c11f213f9db19a158d4c5349dbddb2c412b44be177cbff8cd3d59d",
-    "d2c4f61eda92cbbfbce2c3f94a8c69e75bd1f0273aff62599195b1dbb96a0931"
+    "bce21110b64ccded4b27b4eaa88fb20c3eba48f9bad764ded2a434072b89508e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
