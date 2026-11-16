@@ -82,6 +82,28 @@
     },
     {
       "actual": "-",
+      "currency": "USD",
+      "event_id": "46b8e2788a87f87a3cf613b8",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "-",
+      "scheduled_at": "2026-11-16T23:10:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "FOMC Member Barkin Speaks"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
+      "event_id": "e01f9bc03ff8f934c0b5458e",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "-",
+      "scheduled_at": "2026-11-16T23:30:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "FOMC Member Goolsbee Speaks"
+    },
+    {
+      "actual": "-",
       "currency": "EUR",
       "event_id": "6dba544573185720f3a0c581",
       "forecast": "-",
@@ -479,6 +501,17 @@
     {
       "actual": "-",
       "currency": "USD",
+      "event_id": "f7186dbf6a12ef07d6f72a1d",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "-",
+      "scheduled_at": "2026-11-19T14:25:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "FOMC Member Jefferson Speaks"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
       "event_id": "bfa7034b01c76dcaebb22fa5",
       "forecast": "0.0%",
       "impact": "LOW",
@@ -642,10 +675,10 @@
       "title": "FOMC Member Cook Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-16T17:47:28.984460+00:00",
+  "calendar_fetched_at": "2026-11-16T20:50:45.028771+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 110,
+    "count": 111,
     "day": "2026-11-16"
   },
   "recent_stories": [
@@ -3671,6 +3704,19 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "55a366be53c39fa2b52122c8a7b80f528585325c17bde7a506dff892251ddff2",
+    "604ecd06b1879905c82767506661ba043b533b4221691f29a203dfebe9d5f9fb",
+    "c8b7ccf1c6e267de2ed1c508455611c67d14e20c582c8aed04222ad52381b2fe",
+    "ed10e994d658c81f1ab5536553d74016d74869275ac8b1a99fe34bc45492d8aa",
+    "f45ec80b03444652224883739971f34a960921aeebd6c1797d6b6d08973b1fab",
+    "2064c5a152bb3b53319b035e1a1b0ccb2413831d1a0dd25e9a652e374b616687",
+    "95a1e9b8c032ca6e19ace64a2ff67938621631fc01303d3f29d15a9ebd24adb5",
+    "9defe3757976f42ed6ab09af37e48286c9e25608d8a8bd8ec903e437799c33cf",
+    "ed17e2742b35ddc0df305b08581f03f5fb0d743768447fe6fb5cd987adccc710",
+    "3ee74247a1a6a5c7430b4a6ef05b87cfc1c2506ee175751eb96e7e8fc13dd4de",
+    "67a078a466185883cbf0cd1fd6bbbfc6dce07fc0fc4bbc3248e212a00f246bcb",
+    "51be44c5ad893f789eaa615328b19a5a89c48e85c5b9c259439f91a58863f542",
+    "be7f11a4cc6f5833b545589be06f2dc2e44f6a8fa122ec1ef5b1c7b6b564374d",
     "fdcf835f738cf966dd6cb8a69bfafb2ae3e00bf96658f368eb7dce2461f66bae",
     "f383dd9af88ed63fe3b8e87efa299e56df3a61ab0b0714b73e955a8a0cff37b4",
     "e34dd3967cbec4c25f23878c3cb987229092fb2a70ffa2bf4975fa6b13335560",
@@ -4657,20 +4703,7 @@
     "9285258e81512df5519c4f35536fa64814c8c3a6bec2a5921338b93867677859",
     "0a18d4a35041fc4573bd2bafcb7ac1847d075606fcec39b03b8c1acf0cc29f51",
     "c2a405987185145865ea7309eb558f36eafcdd900d8f5fecbe58353746d55ca7",
-    "2b2e7e94a855c6e3481d2825e960cafb7f0d5f285948fb566122a21da58c3ac0",
-    "0aedf1697662ecb444605c2eb05673a3a875e4cd478a89e4a81acc599d4a89b8",
-    "ebda82d499ebe73b6c9f87320f8a1a92c36f244ecea893769ae8eed68bb1d96b",
-    "6128fdd06852cff4d5852ffad3ac1d7a97ffa3b961ad2ddabca5068b3ece228c",
-    "b730caea06cde4fcf03c65377d2703ee67a006225af7b4bc73b55eb00869e067",
-    "8ccc97d09a4b1e858bef27f03de45fdfedf5ccb84c5d3bf9884d4239b051d546",
-    "10d55d0e3e5c3828dd46370c16564245553c4e14a3259d3750da7307d89a8490",
-    "4c11cddf76ae0a9af11130db440a10d9dded354b66c59cfef727f0cb2dfe9a1c",
-    "a283f63204fab7d7ec0e2e734d54c2d89ee5e0f79b3699ddd9a3bd30005d6093",
-    "3ea885d84a3385ad9c4b77d4e025af3511f02f6fb7f8db7564cd0a00f04f2bf9",
-    "35d4a0bfed8c94b60a2f0b0d83907e751c57e439d2f862347a4c2e046c5d789f",
-    "a1276cf9310ad1e764c25a419f2c8fb26199e55ff8ea88618c140dba9e55d0bf",
-    "6bb3921d94046b65b98688b8cc67d77ba2d35bb00aeb648e61ee13c333ecbf44",
-    "93339ac431131f3fceba5117cb8880437e32b8588f63cf22080c963d9a5b86d4"
+    "2b2e7e94a855c6e3481d2825e960cafb7f0d5f285948fb566122a21da58c3ac0"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
