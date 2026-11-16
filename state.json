@@ -117,7 +117,7 @@
       "actual": "-",
       "currency": "EUR",
       "event_id": "e28161a2984bf06c0386fb03",
-      "forecast": "18.3",
+      "forecast": "19.1",
       "impact": "LOW",
       "previous": "18.5",
       "scheduled_at": "2026-11-17T10:00:00+00:00",
@@ -128,7 +128,7 @@
       "actual": "-",
       "currency": "EUR",
       "event_id": "7b5b7cd64156319e02db55e5",
-      "forecast": "28.3",
+      "forecast": "28.8",
       "impact": "LOW",
       "previous": "28.1",
       "scheduled_at": "2026-11-17T10:00:00+00:00",
@@ -172,7 +172,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "dc749ccbc67d7658177dec45",
-      "forecast": "0.2%",
+      "forecast": "0.1%",
       "impact": "HIGH",
       "previous": "0.8%",
       "scheduled_at": "2026-11-17T13:30:00+00:00",
@@ -216,7 +216,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "01d5812e0db8416e32dbd49b",
-      "forecast": "0.1%",
+      "forecast": "0.0%",
       "impact": "LOW",
       "previous": "0.7%",
       "scheduled_at": "2026-11-17T14:15:00+00:00",
@@ -359,7 +359,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "65d884eb193510f4541571f8",
-      "forecast": "-2.3%",
+      "forecast": "-2.1%",
       "impact": "LOW",
       "previous": "-7.3%",
       "scheduled_at": "2026-11-18T15:00:00+00:00",
@@ -376,6 +376,17 @@
       "scheduled_at": "2026-11-18T15:30:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "Crude Oil Inventories"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
+      "event_id": "268039d4d5a75b75a95479fd",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "-",
+      "scheduled_at": "2026-11-18T17:15:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "FOMC Member Daly Speaks"
     },
     {
       "actual": "-",
@@ -675,10 +686,10 @@
       "title": "FOMC Member Cook Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-16T20:50:45.028771+00:00",
+  "calendar_fetched_at": "2026-11-16T23:55:33.705273+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 143,
+    "count": 144,
     "day": "2026-11-16"
   },
   "recent_stories": [
@@ -3707,6 +3718,10 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "61927b1cd4b01cc12138354589ba322afb33be67c28db5a6281828df2ad90042",
+    "b33adb5677e11f20b44f43efbae3fa5d38686a2f925e17e3530a4ad3103ccd42",
+    "371abfbd34c96df6f528b55dc73507fc6eb66aa08e154b985ad1ea0216dadd4c",
+    "4b6de8e78c131489a6a239e3884a1c049fa676ef57aea70fd33579cc207c62c6",
     "7b3aa91d0f90c4b5d800f05cbc56d313a95cfa63fbf1ead6f40eeafdf3ef0594",
     "86def82b9b1bd592559a254af27ddef79ce4c882f9b404e29e746b67d5bfbdbb",
     "2d0f3e8a9fbe850b519021438e00ef09731d869bc25452b93a99f4654be94cdc",
@@ -4702,11 +4717,7 @@
     "a085a006c421f1bcff930971c644231cf5243fad58373a2c5d558c0fc7652779",
     "8a10a5ebaccfddb080f3e02940b9bf90a70e8723453fd110ff77adba109ff6af",
     "2faaa8e7a0b1ad56801d46885621f43627384bd924d248a5dbc9ff16100fa62b",
-    "2006b1eb43777d59bfa4527d6e0889141e2ed8fd42a57ba06a24baf61043253a",
-    "93290d3dbea9a21e32cfbfa17d1acc60f137edb5c03e7067cdf64e4295fcbff6",
-    "d8c6ac1bb5eff81c67f08e39cc5c48370882259354eb88d96ead52cfb4f93bb8",
-    "1fbbeea590e85f513964f7a98e257a976a1231b2f312ea144923f0b147cea7a8",
-    "ed1fde4c67cb0c975b075b9b1fe941afb8c2414dc7ad64e5ebf74d77930be031"
+    "2006b1eb43777d59bfa4527d6e0889141e2ed8fd42a57ba06a24baf61043253a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
