@@ -643,23 +643,10 @@
   "calendar_fetched_at": "2026-11-16T02:31:03.292739+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 198,
+    "count": 199,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-05T13:50:45.614453+00:00",
-      "t": "US weekly jobless claims at 57-year lows amid low layoffs",
-      "w": [
-        "claims",
-        "jobless",
-        "layoffs",
-        "low",
-        "lows",
-        "weekly",
-        "year"
-      ]
-    },
     {
       "at": "2026-11-05T16:40:45.780025+00:00",
       "t": "Bitcoin Price Crashes Over 5% to $75,000 as Tech Rout Wipes Out Leveraged Longs",
@@ -3626,6 +3613,25 @@
         "top",
         "weekend"
       ]
+    },
+    {
+      "at": "2026-11-16T03:05:37.138593+00:00",
+      "t": "Treasury Secretary Bessent Urges Fed to Look Past Oil as Quarter-Point Hike Odds Reach 92%",
+      "w": [
+        "bessent",
+        "fed",
+        "hike",
+        "look",
+        "odds",
+        "oil",
+        "past",
+        "point",
+        "quarter",
+        "reach",
+        "secretary",
+        "treasury",
+        "urges"
+      ]
     }
   ],
   "resolved_events": [
@@ -3657,6 +3663,8 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "9b7361e78d1d6ce432d62b719a18c6168373ad01752435d947d9941529fc2c70",
+    "163a4d626a7081f58b1cef969cfff3470d9f1037efec0d7fff9586fbacaa4c35",
     "1a52836bbcff559c7bc06dc0d45d92227ac7bcd4e4007843ab0d1ae73a58e734",
     "265c6348d0e4d758fc00c1e12b418589c1bc346333a9fe3384465eeeee28082e",
     "646588e2c767b877aeddbbad1cc946f3d65493409a894b6d7f7b3308851e6e0f",
@@ -4654,9 +4662,7 @@
     "70263ef468eb8b85cecec4601d6b16596111cfef6ce89929e2bf15405e6699ba",
     "17c6c03a847664c2834b723e240554314347fd429f5677dd897a1ba161d50d37",
     "48e72a51575c409c3c5b90d46c798eeaeb59166b125d2efb8664b9b8b06573e4",
-    "ada35918fbcbd6cfe99ad881a431554c63235a8d6cfd50427b53b6f122449f31",
-    "a1a23f4d09c97efe55b9ebe738012ff6780a316f0bdead63d86021cb5d2bcb19",
-    "172848dd99c735559d1a28d2b2059daaa6422ace9699a096a7cb983d5733dacf"
+    "ada35918fbcbd6cfe99ad881a431554c63235a8d6cfd50427b53b6f122449f31"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

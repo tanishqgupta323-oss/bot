@@ -18770,6 +18770,11 @@
     "EURUSD": 0.0,
     "XAUUSD": 0.3717,
     "BTCUSD": 0.2926
+   },
+   "60": {
+    "EURUSD": -0.022,
+    "XAUUSD": 0.1265,
+    "BTCUSD": 0.7028
    }
   },
   "checks_base": "sent"
@@ -18799,5 +18804,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "Treasury Secretary Bessent Urges Fed to Look Past Oil as Quarter-Point Hike Odds Reach 92%",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGo3YWt3SWlSOVVRc19LSGJxUVRoZE1MUHppUUlQNVliU19PZG5qbFRsbnhmM3RzcVJ0c0hwVEFQTGpSMktjNHJRZHZCZ2pFam8zTFY3Rkd6bU5oZ05XbGhxUWdyd0ZKbDduSm9BS2ZjM21VUmV5SUVzMURkOHFfOHFzS05GXzRPWVI3THdyVVR1R2hfWktHWFZYWFItajI5czhr?oc=5",
+  "published_at": "2026-11-16T03:02:02+00:00",
+  "sent_at": "2026-11-16T03:05:38.015808+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
