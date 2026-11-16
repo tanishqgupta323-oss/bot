@@ -678,27 +678,10 @@
   "calendar_fetched_at": "2026-11-16T20:50:45.028771+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 135,
+    "count": 136,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-06T18:55:38.848548+00:00",
-      "t": "San Francisco Fed President Daly says higher rates 'are likely to be needed' in inflation fight",
-      "w": [
-        "daly",
-        "fed",
-        "fight",
-        "francisco",
-        "higher",
-        "inflation",
-        "likely",
-        "needed",
-        "president",
-        "rates",
-        "san"
-      ]
-    },
     {
       "at": "2026-11-06T22:10:45.920069+00:00",
       "t": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
@@ -3673,6 +3656,24 @@
         "restriction",
         "unclear"
       ]
+    },
+    {
+      "at": "2026-11-16T23:16:05.852868+00:00",
+      "t": "Exclusive: US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say",
+      "w": [
+        "bomb",
+        "detonate",
+        "developing",
+        "dirty",
+        "exclusive",
+        "indicates",
+        "intel",
+        "iran",
+        "plans",
+        "potentially",
+        "sources",
+        "washington"
+      ]
     }
   ],
   "resolved_events": [
@@ -3704,6 +3705,14 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "044cb20cbfc5e3f3e731dfb0c2d89d3f240745c322aa95238021e0692cb74553",
+    "5ae63a153087ef672428233831651abdd7217f485a07be886044224b087cf42c",
+    "93300a0265277107c2db90e8419a3d16e8ef3c3e48db727f95b64236d17e4675",
+    "0b2f4a1de6e5b025d2870be72eb8f9abe893d2cdb73df17bb97aac8f3a99c256",
+    "9455448e7d1546287dc71615dad6cae2bc02268df20ba5984163a369e0bb5748",
+    "15cd6dedfebb9e63dec9ae6f21f25807beea502a873f285f3e399bdc0cd9e912",
+    "37268afdfe4b4d5e6e1af89d9fa1fa189dd607bdfe8e0d9523f4b7d4288751ba",
+    "18e99d5e1d6800ae2241d220ce7a9de5ab7767c5c7c5095778037c2acf518465",
     "12534066a86f20b7ee38cde30ea6dc19b516c553273c2f73c607715630b4ba97",
     "3bd170957f7b78a68c6931c570858eb4f27c48c6a357f3f8bcb2a7262c338bd9",
     "4256a24d50c48ec2a7ed5f43e182fe7fbcfb66f0f525477b7432e8e1ec837b05",
@@ -4695,15 +4704,7 @@
     "3d734e023a9a5878baa9b08f202b198b03847ef868c97678679532778db9bc9d",
     "5943c3041bf1fe56e1ed5b37d8207dc96f9f8d1632cd4dd75f08234969a308de",
     "4c4b5efb0c075308e95e67c79491ae028b2a6d667a11e577a35be30c5df0dc98",
-    "f09ec43f7ff06a087993b61ed3f3cad906fcececd32f9c16071d52c7516f9406",
-    "1f4a792cb69402b6a21b16eec2c02005dc6f468856d3012c5e19fef70ec6aff1",
-    "6cfa63fa75be3b4c70c34674fd30a684efb3066e0bbb651c4fa724dd4b2d36b6",
-    "fc277c5bc2d009528531ca40fdd78c174ba48f8625e97e9a4f9b64754eba8305",
-    "263aed38fc51ddaaee03794cdac52e519293fe88978532e6c6f9a0ef0ae04494",
-    "ee249eaaf9fbd6f80ae8491cd455326f215400ffe8341f7166d5dc1bd7a5d284",
-    "9d3f8402b7c873a968a97c6f784e1cbe5d41864ffd7486e469ffc7eca2b3f034",
-    "23ad65a7a19a3af4739d78ebdbe8dcb7160d7bbb3769419cfbade145b40205c7",
-    "9fb5aae963041a5088fa1d685b5151995e7c5b392cfa266371367582ace0913c"
+    "f09ec43f7ff06a087993b61ed3f3cad906fcececd32f9c16071d52c7516f9406"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
