@@ -678,25 +678,10 @@
   "calendar_fetched_at": "2026-11-16T20:50:45.028771+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 138,
+    "count": 139,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-06T22:10:45.920069+00:00",
-      "t": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-      "w": [
-        "americans",
-        "daly",
-        "fed",
-        "high",
-        "hikes",
-        "inflation",
-        "likely",
-        "rate",
-        "treadmill"
-      ]
-    },
     {
       "at": "2026-11-06T23:10:46.175617+00:00",
       "t": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says",
@@ -3674,6 +3659,23 @@
         "sources",
         "washington"
       ]
+    },
+    {
+      "at": "2026-11-16T23:31:03.667618+00:00",
+      "t": "Dollar hits 19-month high as hawkish Fed signals bolster rate hike bets",
+      "w": [
+        "bets",
+        "bolster",
+        "dollar",
+        "fed",
+        "hawkish",
+        "high",
+        "hike",
+        "hits",
+        "month",
+        "rate",
+        "signals"
+      ]
     }
   ],
   "resolved_events": [
@@ -3705,6 +3707,16 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "4c19519191d62d76d0717d11a3045ae5820199d40db9b14bba072c8d8978e1ea",
+    "3e788c8d0a3a1be752c9e53948262e3220ff3a40f6ca5935ae26cfc14b92a1eb",
+    "1cf40ce79d1a8c95f1bb4b20fe961cb9f101a218c92626a8a529a7283dc5dea8",
+    "ebd744e0bc7ebdcb484fc7fcb1bb789fc3fa1f65e55a49b59eb0a86cef75dd17",
+    "36922068ce5285a5aa39ce1dff59b30a0444aa2e56668bdd690ff2ada1394cf8",
+    "15c1d4a8f4979e24b03776dbe68d2db27aafdff5db5c0edd5141c756d5ce5faa",
+    "16f17ed6aa4fe9bf6d0bd51382f33864446bf29e661bff9ee83c4c4e9dc5c995",
+    "071623c8594b81cf767b5c7f260fca9938cd045c8a5498d65cbbe02b4c332f7b",
+    "2ba90f8e50a340b96655d5d3dee7c1c8b988d63eeb402af26046234300ef61f7",
+    "07cc59d018cf8fd95ef9366f8b6af3a679b1f53f84c72bf5f67bc20799bc66e6",
     "cba47ab87133a3eb7bf4b8e62e9fe5ea4f0dde470574d6eded723626bfd131e4",
     "b78d4677cae4f7a63dd03e50975ad8a7c9be5cc12de41e7ae45504e86449447c",
     "bae565c99666de8829b598c036a414bdb135482d34205cca2b88f3f19a1f40c6",
@@ -4694,17 +4706,7 @@
     "4af8f3fb6e16977d32e4ef7d932821d524cd2647a4349029a65d9736b470355c",
     "08bcd81d77f19a80580e6576b6567f19852a71edc295e56f6ade892ce18a6c2d",
     "ed346d458d35d12c3f91a4ce7dfce2c31335a6128c4feb87ec919d072ab82921",
-    "5fc395cab52c5af7496fa2d73800d761e82a19ab709485557f3119637f27969f",
-    "2bb86cc154a2e80c349626a6e6ddfeb1ff8823110599de14c0d1fc6c9f787771",
-    "ec63e29e6b0499a1ab77200bc2059822d27e1e1dd0eb4408575f3b833aef13cb",
-    "080dd8980c466a47e177f2442fae2ca3b6dd8a1cee37a316ab62afda559c3d10",
-    "5d543fe72fccd757416c39a45f59aa12fe3bfec41e8e22227392d591e58edcea",
-    "21660aafd0f756a3d263429864bea26592640ee536597c246d04113645504c8c",
-    "15632d6e71774259fd8ec0a435a380c3bd5c95751293267c77dc460f1347c96d",
-    "5124feeed2cd6611ff1e41ee3b8cc50523ea43ec983ebf55e64c0e515735c4ce",
-    "caa6dbddf9fb42d149cad503e04e4169c1cb152a7e29daf93663ee9686a9fcdd",
-    "59581e95be74ed5abf26a2af3ab294e4424d8c93cbe0a46d53578e16139012bb",
-    "3d734e023a9a5878baa9b08f202b198b03847ef868c97678679532778db9bc9d"
+    "5fc395cab52c5af7496fa2d73800d761e82a19ab709485557f3119637f27969f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
