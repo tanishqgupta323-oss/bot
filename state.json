@@ -645,23 +645,10 @@
   "calendar_fetched_at": "2026-11-16T17:47:28.984460+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 101,
+    "count": 102,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-06T18:25:34.505151+00:00",
-      "t": "Iran war: Gulf tanker attacked, 1 seaferer killed",
-      "w": [
-        "attacked",
-        "gulf",
-        "iran",
-        "killed",
-        "seaferer",
-        "tanker",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-06T18:55:38.848548+00:00",
       "t": "San Francisco Fed President Daly says higher rates 'are likely to be needed' in inflation fight",
@@ -3640,6 +3627,19 @@
         "slow",
         "steady"
       ]
+    },
+    {
+      "at": "2026-11-16T20:01:18.308920+00:00",
+      "t": "Hammack: Economy can handle more restriction, unclear how far Fed has to go",
+      "w": [
+        "economy",
+        "far",
+        "fed",
+        "hammack",
+        "handle",
+        "restriction",
+        "unclear"
+      ]
     }
   ],
   "resolved_events": [
@@ -3671,6 +3671,12 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "cb8835800627089b8924223708a125dcbbe8780452da488ddc546b787c90c4ac",
+    "38c750c4cc95a908655d07e5a7ddb63915725fa9b72a27c506f51572e7ad8d99",
+    "7b8fbde3d7e8cf06c5ce6b097f42946ad71ab3bf3616a7e45449a541637668ee",
+    "846f72df7460a822e21bfddded28e804df4915c7d392adaf79f9190fdf1b9566",
+    "fc8edc3a4a47e46671eb18d051f4fb1a5c2eb0e0ed06948741e333753b3934ad",
+    "44947995404538ee8159cc75310fb911bcfe744159982bc87016972d6a841ea1",
     "78472cd2119b16d0a4eea422f30b7e0122c8e998a91e6e22e50c159d0c1bdc0c",
     "3ea3d886f80bc454e37ab3e1ca8c557206b55c8c49a1f99e8098427bd21cbfd9",
     "44c89bac01954d032731a9712aa98b3148317f84945632a00b59a67f73c35f0f",
@@ -4664,13 +4670,7 @@
     "76348acd30ae71426a28e45648667dae45468c599691f1d32fc42ef738c5674a",
     "bdffb97b56079dc76a25607e849d94fb017125e94ca2267abf5b91f87ca13225",
     "b145dee8150049e0370b852dc3f85e9275a15cde5a8a798a1376cf0bbe4c133f",
-    "c8257500e83da67e824ac80ad708facbd401db366c37a833b0f1c5990c4ac34d",
-    "ada35918fbcbd6cfe99ad881a431554c63235a8d6cfd50427b53b6f122449f31",
-    "fdb8e45e623625d24fb9a6a683aecfdd597a8ce7c22eee35f8421f9a7aa9b115",
-    "55739a24beb2001b4d260d110cddbeeabd87bd3d4a48eb0c02bc96004e3ef869",
-    "178f22f839e6e6e422c45fb7b0ca9ba3a283313e3aeedd5e4c5c6cf756d99edb",
-    "9b7361e78d1d6ce432d62b719a18c6168373ad01752435d947d9941529fc2c70",
-    "163a4d626a7081f58b1cef969cfff3470d9f1037efec0d7fff9586fbacaa4c35"
+    "c8257500e83da67e824ac80ad708facbd401db366c37a833b0f1c5990c4ac34d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

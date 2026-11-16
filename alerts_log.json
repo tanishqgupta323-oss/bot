@@ -19182,5 +19182,26 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Hammack: Economy can handle more restriction, unclear how far Fed has to go",
+  "link": "https://investinglive.com/central-banks/hammack-economy-can-handle-more-restriction-unclear-how-far-fed-has-to-go/",
+  "published_at": "2026-11-16T19:28:18+00:00",
+  "sent_at": "2026-11-16T20:01:19.256041+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.011,
+    "XAUUSD": -0.1163,
+    "BTCUSD": -0.1944
+   }
+  },
+  "checks_base": "published"
  }
 ]
