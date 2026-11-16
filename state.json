@@ -643,23 +643,10 @@
   "calendar_fetched_at": "2026-11-16T08:40:56.378653+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 28,
+    "count": 29,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-06T12:25:35.478437+00:00",
-      "t": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
-      "w": [
-        "flipped",
-        "iran",
-        "missteps",
-        "overnight",
-        "trump",
-        "war",
-        "washington"
-      ]
-    },
     {
       "at": "2026-11-06T12:31:03.465774+00:00",
       "t": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
@@ -3625,6 +3612,24 @@
         "rules",
         "third"
       ]
+    },
+    {
+      "at": "2026-11-16T10:55:36.472571+00:00",
+      "t": "Gold Falls Below $3,900 as Stronger Dollar and Fed Rate Expectations Pressure Precious Metals",
+      "w": [
+        "900",
+        "below",
+        "dollar",
+        "expectations",
+        "falls",
+        "fed",
+        "gold",
+        "metals",
+        "precious",
+        "pressure",
+        "rate",
+        "stronger"
+      ]
     }
   ],
   "resolved_events": [
@@ -3656,6 +3661,10 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "f700ca9833e71b7a8533ee38e67e7b217c1ed3cf9b09ddd87c70db2045376bac",
+    "fe7480d912bdd252496a4dea144589247949cfe2b7bb0ad789db74788243e9c4",
+    "f21cd312159ee9a6560b2325d76ccc33bac6246486bba9c2a54058eb9382e859",
+    "b1dddbea322e4bff36796adb2960dcbfeeeb7c1cdd69ab1ecec20c21a1c2588f",
     "60216dbc0332c5702962100a06fcbcbe2623cd87c3873ebec2036aeb2f8272e9",
     "d171fa8633eaefce6215de844561940161dff6a2c60a66c74b790d289677b8ea",
     "e92cdec66544991b9fe9aa6186a778399da25c752a7126bf64c960bad282c2ac",
@@ -4651,11 +4660,7 @@
     "3c2402a612eb2ba9826ac857ffb567a03b10ed1253333bc2a7537a467468f54a",
     "efc005dc66031008a3b34f8dfe36e280b88fec42aca835ee7d73f66eb624b4e8",
     "3b23b3656e657dd28f01e5c93887b178861af8b260ee2a71d58bd852f143401f",
-    "6d33101d806e2ddaa0187be66e7cd26a10018672fe7e0228cba3869c64773423",
-    "445cc5d7cd83f967ffb0d2818cdf094c0283a39e242ad070ca644763aa620af6",
-    "e041ec6e831fca1e468ae3e06d1a651c367670451e00f965a3c683314e2ae526",
-    "7ca079e7875d09de1d89fe11177670cddac8d85f6d2fecff828ceefc03146e0a",
-    "e2dd6bafddcb9b6a5f418eafe827640bd43f81758d165c531e711874bf2d06b2"
+    "6d33101d806e2ddaa0187be66e7cd26a10018672fe7e0228cba3869c64773423"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

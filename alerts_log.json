@@ -19033,5 +19033,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "Gold Falls Below $3,900 as Stronger Dollar and Fed Rate Expectations Pressure Precious Metals",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPallLTHVuUUpaMVlqNjVpVmVMNTA4QkswZ0tjN2txUjFVT0t1NEtJaDZmS01uNC1tS1Q1a3BvdnlEcEYxUmJiUEpEMmgzclpSYUs1cGJGTFBaNDVGRVd4N3B2dTN5Tm5keGk1ZDU4VXRXZndiSTB4ZUx6YTVrVFdLSWNHQzZ1WGFHMEwxYTBVQUNGT1F0eDV3?oc=5",
+  "published_at": "2026-11-16T10:02:52+00:00",
+  "sent_at": "2026-11-16T10:55:37.637700+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.011,
+    "XAUUSD": 0.1683,
+    "BTCUSD": 0.1282
+   }
+  },
+  "checks_base": "published"
  }
 ]
