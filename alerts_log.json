@@ -19085,5 +19085,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Deutsche Bank warns markets may be underestimating rate hike risks",
+  "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-warns-markets-may-be-underestimating-rate-hike-risks-5029111",
+  "published_at": null,
+  "sent_at": "2026-11-16T11:40:46.847719+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

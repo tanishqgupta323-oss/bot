@@ -643,24 +643,10 @@
   "calendar_fetched_at": "2026-11-16T08:40:56.378653+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 36,
+    "count": 37,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-06T13:35:41.737233+00:00",
-      "t": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-      "w": [
-        "000",
-        "165",
-        "added",
-        "blowing",
-        "estimate",
-        "jobs",
-        "october",
-        "past"
-      ]
-    },
     {
       "at": "2026-11-06T13:40:44.844784+00:00",
       "t": "U.S. Nonfarm Payrolls Surge, Surpassing Expectations",
@@ -3627,6 +3613,20 @@
         "stocks",
         "well"
       ]
+    },
+    {
+      "at": "2026-11-16T11:40:45.750748+00:00",
+      "t": "Deutsche Bank warns markets may be underestimating rate hike risks",
+      "w": [
+        "bank",
+        "deutsche",
+        "hike",
+        "markets",
+        "rate",
+        "risks",
+        "underestimating",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3658,6 +3658,20 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "aee128f30019e0ecee17cfa340eda77e3b26e38b8084e33125b5716178336128",
+    "97f392833217c51e7c4181c17b5fcccd15f64d255e9bc65057c9daebcbe681c8",
+    "ea22184e5b628ac5b085dbcfc16b12cae9385909438cc3761fd50b2e30aee3f2",
+    "965cbfe1c3f26f25ec86edf325961eeda23d356c7a70b5ebabc9a6d86768e19d",
+    "6bdacfaeb3804f05cdcfced50a132abeb469184ab8e13e7e40cfd91081672268",
+    "a9072c79416a7c85c9b646c4206a85087b2074ed0e7ada1db208b8c3f07b0364",
+    "bd70c345b966b6bf70723cb3134470f70e2b827ee6b09fd6cb95da6a2c2d3565",
+    "6f0d9c922705295c515457f43fdfe3d50df2f72c76e5e14ffd5b232c54343472",
+    "52c1a72028a5bbe0270130d6a8b08588191fc3bc1a81acd8d6ef42abaded3c97",
+    "365a2af85c788c7c8f27825c2230106b73dee613a7d322b30f79c0d0fc7c9fcf",
+    "a94f54038da0bf5b42338fdb5439f1707a64c54bf99cc00e13369c2dae55f691",
+    "9a5506aa8c38ec95f352f0dd89281e2403a8779e8c97c3231f83497bbafa9aaa",
+    "8cddf8d7b8095e7b1e7bc552ebf091d68feb0da26d34c0a15343df8f07aefdac",
+    "c1a715585373fd12cd1d2eacb3e238e6fb24e89cbc918622b88bcc8772be9216",
     "ca87fa799f11a7084b148826bf69d05895f7bdfcb4c174ade8328cee7084e9ff",
     "54def4c0f22d30d083b063e456f4ac261da8cbcb19e83602b9c8d39bdaa8158a",
     "65d07f1768c8a30690d5d33969b83a50aade14965c64c3413389f180e429de2b",
@@ -4643,21 +4657,7 @@
     "e2bb4cae59f37fda4b05ea2df635f3297a5c640740d492d47fc93654d5b3c29f",
     "2500c90dcb1bb870c244292a9a7eebafa33b9f0f0e894a1ce5771b429d2fd4bd",
     "9e5d9c82a397d7e4e1e9648ea32be3e415cfafad7850be14b46a2238d61e0ba0",
-    "a8edc7e72fa21b81e74a1f8cf7f2c8fa7ad4441b5f5995270e8dd91b4c0ea42d",
-    "6d6e8a869bcbbbe2bf8893cc7d1dd9337408da54efde4a41da970a63155c87f8",
-    "5df9aeb13c8134e6ec2b18f020b082ba9bfa0f2c58ad0f99210358b5a9869927",
-    "39287687bfefa0b52753c5be6d9e884206cf1c9e169ccb9df74379cce4d89e08",
-    "7145acec83bb97be5e04e47726f4fd962b61d3963c0d70d32e5da9f034adbec2",
-    "6b6062b89ba3edba32937748aa82280c25a81e037c6680ebb26c3b9b6cf7bbdc",
-    "f605bed59e1de1f0494e3e6fe2bcd1eca0cd216490461b3b9d79f35e0cbeb1c2",
-    "01bf6aa003d6a1038e3ac722655825b22067988632d589cc03bff161c869d3e2",
-    "57488a21cc06220ac33e27c4bb5d7f7c979db356981d6a3c4ad9c2947c52a5c0",
-    "ce6566251bbc777518f5f00ec238e1ce64c96d47bb5f543009d14729e481edfc",
-    "41bc08d4312c1917007d3baf1a75a08620cac350ad9114038ee770f76e68f188",
-    "69ed664b583d54ca0d389f819ee60ff17decf07864be31bd65a1d56b24b375f2",
-    "d0833dfdec1b0fe72017918635227d1d31f402ce5f5706a70fbfe6e3ae187e84",
-    "06e8e6fecf3f07a6c7e2b7bea6eb9efd4f3b0143e4e3a3d2b262b500e950b3f6",
-    "b8b2a72facedad8d604360a98c94cd83cdba0526eb435113ae35b9db8e8c99d6"
+    "a8edc7e72fa21b81e74a1f8cf7f2c8fa7ad4441b5f5995270e8dd91b4c0ea42d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
