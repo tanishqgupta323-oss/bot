@@ -643,24 +643,10 @@
   "calendar_fetched_at": "2026-11-16T02:31:03.292739+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 211,
+    "count": 212,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-05T17:20:46.801746+00:00",
-      "t": "ECB looking at indicators to see if December hike needed, Lagarde says",
-      "w": [
-        "december",
-        "ecb",
-        "hike",
-        "indicators",
-        "lagarde",
-        "looking",
-        "needed",
-        "see"
-      ]
-    },
     {
       "at": "2026-11-05T18:10:47.293945+00:00",
       "t": "Bitcoin tumbles below $76,000 as post-election stock rally fades",
@@ -3631,6 +3617,20 @@
         "tanker",
         "vlcc"
       ]
+    },
+    {
+      "at": "2026-11-16T04:15:46.261931+00:00",
+      "t": "‘60 Minutes’ Exposes Shock Scale of Trump’s Iran War Humiliation",
+      "w": [
+        "exposes",
+        "humiliation",
+        "iran",
+        "minutes",
+        "scale",
+        "shock",
+        "trump",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3662,6 +3662,7 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "93339ac431131f3fceba5117cb8880437e32b8588f63cf22080c963d9a5b86d4",
     "84bc59d68f138b05e0067863d9a4d4cf20d9eea764af917c3a0f4c96cc76c31c",
     "172f10b3cccf5a12e76f4b0c53ddde1d5d45eb895147d9739894e82393f1905c",
     "4c6c50a1e83dcbba44938b23e70e58a9d2c2ab859bb2ccb34f73669f9ae86638",
@@ -4660,8 +4661,7 @@
     "20fac947e5a4dce02ca69cf3f0272ac4adf94153bc728726bb6b6339e00509d8",
     "dd0ea9e2b0192fb82bfd4c641ede42ddcd074d007bd153a7820aeb3a1aa708e2",
     "6c5458305c679c22c4e18d7a984cb61bd8fe232e82891e299f786c87da1d1713",
-    "0852460bf9bbb0f119db48454ca68e48fe7cfe66911e59431db4ae52433e5ffd",
-    "248693afeeff75c14999063a21f9faa00ffec771119b03ac0941fb60c263ffae"
+    "0852460bf9bbb0f119db48454ca68e48fe7cfe66911e59431db4ae52433e5ffd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -18851,5 +18851,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Daily Beast",
+  "title": "‘60 Minutes’ Exposes Shock Scale of Trump’s Iran War Humiliation",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHo5Z2wwb2NqX2lvM0swLXdSS2pmeU5obU1vbkF1a0l0NnluVjB1aFJhTnpnRDFsMk9mQUhUMWdOaFg1NExPSXU4UGZKeXUtem1FWHdpRXNwN3l3Q3V2d2U4a25RYU1Sd1ZGNWJJUWQ0d1M2LXI2TmU0dDlYSlhCc3lIbEhYOHdLeG9pcDk4LUlhQ2NTMXc?oc=5",
+  "published_at": "2026-11-16T03:24:00+00:00",
+  "sent_at": "2026-11-16T04:15:47.099897+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.1936,
+    "BTCUSD": -0.3968
+   }
+  },
+  "checks_base": "published"
  }
 ]
