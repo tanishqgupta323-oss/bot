@@ -632,26 +632,10 @@
   "calendar_fetched_at": "2026-11-15T23:25:33.236767+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 189,
+    "count": 190,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-05T02:20:45.234077+00:00",
-      "t": "Gold extends rally above $4,100 as dollar, Treasury yields fall after U.S. vote",
-      "w": [
-        "100",
-        "above",
-        "dollar",
-        "extends",
-        "fall",
-        "gold",
-        "rally",
-        "treasury",
-        "vote",
-        "yields"
-      ]
-    },
     {
       "at": "2026-11-05T13:50:45.614453+00:00",
       "t": "US weekly jobless claims at 57-year lows amid low layoffs",
@@ -3613,6 +3597,24 @@
         "hike",
         "warsh"
       ]
+    },
+    {
+      "at": "2026-11-16T02:05:33.700307+00:00",
+      "t": "Weekend - Bitcoin fell to four-month low near $62,000 as crypto liquidations top $2 billion",
+      "w": [
+        "000",
+        "billion",
+        "bitcoin",
+        "crypto",
+        "fell",
+        "four",
+        "liquidations",
+        "low",
+        "month",
+        "near",
+        "top",
+        "weekend"
+      ]
     }
   ],
   "resolved_events": [
@@ -3644,6 +3646,14 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "0de9acdf05c9e387a3ca9c9cff33c0dfe035160ad309e6a655554e73ae41f863",
+    "24d2c72b6db50d7fedfc9586239095da2b5035ffb6e8c6309fe956f42124c9d4",
+    "678feb6097a07c01214515e96481a4c87590c09815e331d6458d02d220f71ebb",
+    "23e44dbd347f3c25fdab4fdd9c78948758db7f06f39e0e509955467df0cb6bd0",
+    "2abdb72817cfc81fa3c01592da4d229a445368c62aa1011036a3c6e4d241c044",
+    "2a9d2d25ac65ae89404d2e25cb519e0aa66cfbc84a00c4540d463832ba10ee3c",
+    "07f239a8fb06a2feb75698b3bd267da552860bfc7a5b56c8041a6209c1447d51",
+    "45a9ef469fec4bb03130f2d3ba455a9fd0e3ee094c3ddcc80f22aa82c3bc3085",
     "ee975c8bf4c84235a20cb8fe7382e925bbdbbc5d6ba6e173c883e0604db19ff8",
     "b4a5daeec0e39608fd36962920cb211903d3785870d553d8804f7d7fa335bcf0",
     "cd972d8ac69acc0d597dbaa70f0ce92c948d5214c493e32dd5336f9acdfba8df",
@@ -4635,15 +4645,7 @@
     "8ab830abb6c8f17a542a019df7d9e8936c0ebcb4c632ccb16e6bba16bf382ac4",
     "3df18f47c781e54eabc682f8a502f7278783457dc834d4ec20f8eda7ead9d43e",
     "a94fdb46509e6912efb980f1ac0d4780d2998b1c4fbdd497a272e92f9847072a",
-    "4b5eee32235e133d189bb2ea9ddb3044a56ef0d659efe4b33c85d0fec1feb585",
-    "d6f2519b77dcefd57e2070fe96543e577a2572820839de46c106ea54ab6f5589",
-    "a2c177ebd65f79c9d69b16bb446f3197f7b4ae882cdf945cd2187e03413b5bf0",
-    "14fe4a93c76f70b15c68b92d29bd7ea0cde46ef8c99a22c96a221d68b8e8a1fc",
-    "e33fce60e23513395a683341c42b19d89c500ad409bb1e4c96c1f42590924ea8",
-    "0b994571771972f7a9c6c0d4ef89db28c5ae5103826952cdb8623c3f569ac98f",
-    "90b7d7a169affe61a0123e42aa73222dbde5dc74307dd9a18dbcd75ea8780a01",
-    "fe6d2a0bfb1300885d927954805447cf55319be34e91ee93fe9565fee1a2d690",
-    "35cd7b80386781d97e5af1df47cb3f4c5add603a8b293c71ed4c4639e8bd2ad8"
+    "4b5eee32235e133d189bb2ea9ddb3044a56ef0d659efe4b33c85d0fec1feb585"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
