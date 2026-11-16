@@ -1,6 +1,6 @@
 {
   "actual_attempts": {
-    "5dff3c1af11acb7758d1e8b4": 5
+    "5dff3c1af11acb7758d1e8b4": 6
   },
   "calendar": [
     {
@@ -645,7 +645,7 @@
   "calendar_fetched_at": "2026-11-16T14:47:06.106027+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 75,
+    "count": 77,
     "day": "2026-11-16"
   },
   "recent_stories": [
