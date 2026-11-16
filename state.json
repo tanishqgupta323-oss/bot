@@ -632,26 +632,10 @@
   "calendar_fetched_at": "2026-11-15T23:25:33.236767+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 188,
+    "count": 189,
     "day": "2026-11-15"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-05T01:45:46.142920+00:00",
-      "t": "After Election Day rout, Trump returns to the White House ballroom, his ‘safest place’",
-      "w": [
-        "ballroom",
-        "day",
-        "election",
-        "house",
-        "place",
-        "returns",
-        "rout",
-        "safest",
-        "trump",
-        "white"
-      ]
-    },
     {
       "at": "2026-11-05T02:20:45.234077+00:00",
       "t": "Gold extends rally above $4,100 as dollar, Treasury yields fall after U.S. vote",
@@ -3612,6 +3596,23 @@
         "wait",
         "warns"
       ]
+    },
+    {
+      "at": "2026-11-16T02:01:16.355947+00:00",
+      "t": "Gold falls below $3,900 as December Fed hike bets build, Warsh in focus",
+      "w": [
+        "900",
+        "below",
+        "bets",
+        "build",
+        "december",
+        "falls",
+        "fed",
+        "focus",
+        "gold",
+        "hike",
+        "warsh"
+      ]
     }
   ],
   "resolved_events": [
@@ -3643,6 +3644,15 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "ee975c8bf4c84235a20cb8fe7382e925bbdbbc5d6ba6e173c883e0604db19ff8",
+    "b4a5daeec0e39608fd36962920cb211903d3785870d553d8804f7d7fa335bcf0",
+    "cd972d8ac69acc0d597dbaa70f0ce92c948d5214c493e32dd5336f9acdfba8df",
+    "ecda8f2749b6cc6f3cec7b5f222ce80fb040868f6f2756ad5eabec02e08d9d90",
+    "75e020e0d3ea82f775ad6d094f5805c184d186fee52ac7cca5c53e9305fa0038",
+    "06c534f631633ecef31155eaace4bbb436087413dcb1a75221f764bdffd2cd88",
+    "f585f146cfa02139b05aa2cedfa524e6187abf60e8913b4d7bdecab77724e3dc",
+    "e7ac3378f6bffbcfe73496d644a7399c2cddf3d85891780f4b4cdef28c3e26c6",
+    "51be44c5ad893f789eaa615328b19a5a89c48e85c5b9c259439f91a58863f542",
     "b438a8379c4286c5363562e6a6f34b44bb8a23b1dfef77f4d1f3fc81819c6d5d",
     "5435a24980ef00efe5a07fffbf2e05a242a0105fd48d0a819ecd7a1b74e4283d",
     "78e5617fcb5bacd9b9beda138cb5db0779cac9967c5602b50ee15339c07eda55",
@@ -4633,16 +4643,7 @@
     "0b994571771972f7a9c6c0d4ef89db28c5ae5103826952cdb8623c3f569ac98f",
     "90b7d7a169affe61a0123e42aa73222dbde5dc74307dd9a18dbcd75ea8780a01",
     "fe6d2a0bfb1300885d927954805447cf55319be34e91ee93fe9565fee1a2d690",
-    "35cd7b80386781d97e5af1df47cb3f4c5add603a8b293c71ed4c4639e8bd2ad8",
-    "b06d08328ed2c43453461cf895acd04a544c6cfa9d8deb504707cabf1bae55d8",
-    "c40094b905450501df86662ca0030f4cdc953b7a1288ba61b7035ad4ef5b5091",
-    "680e3d94827c3c196138ca01833ce1d61f24ae3700a2d80a728f3a0972fe715f",
-    "b70aad8b932998a406eb7ffe5969f9d156aa0512b199aa7b6f43f1df51823fbd",
-    "24f356b73f4a8469f37b1f865e9b327d9bbd81d9b6ed25d0c1c8c1b4f8859d1d",
-    "90e568f63a759ed2995eca8e67c12614be974d41023a04d8bb867576e83fe8e9",
-    "78b144a9ad99f7a321b595dfc6e8fc7434680140b7fc23d9a721566ca9ddcb3a",
-    "eeda4ee0577c52ffde4e04450e64ca2c8d5d16b4385b947942de8612f78da0ca",
-    "e016926be01311a93bfe2bb2d27aa401e0818a71afee969c5fe2a285724daa5f"
+    "35cd7b80386781d97e5af1df47cb3f4c5add603a8b293c71ed4c4639e8bd2ad8"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
