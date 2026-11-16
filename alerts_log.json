@@ -19168,5 +19168,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Fed’s Hammack reiterates case for slow, steady rate hikes -Bloomberg TV",
+  "link": "https://www.investing.com/news/economy-news/feds-hammack-reiterates-case-for-slow-steady-rate-hikes-bloomberg-tv-5030761",
+  "published_at": null,
+  "sent_at": "2026-11-16T19:50:47.669389+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

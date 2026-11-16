@@ -645,24 +645,10 @@
   "calendar_fetched_at": "2026-11-16T17:47:28.984460+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 99,
+    "count": 100,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-06T14:10:47.226420+00:00",
-      "t": "Traders raise bets of Fed rate hike after jobs report",
-      "w": [
-        "bets",
-        "fed",
-        "hike",
-        "jobs",
-        "raise",
-        "rate",
-        "report",
-        "traders"
-      ]
-    },
     {
       "at": "2026-11-06T18:25:34.505151+00:00",
       "t": "Iran war: Gulf tanker attacked, 1 seaferer killed",
@@ -3639,6 +3625,21 @@
         "year",
         "yields"
       ]
+    },
+    {
+      "at": "2026-11-16T19:50:44.413432+00:00",
+      "t": "Fed’s Hammack reiterates case for slow, steady rate hikes -Bloomberg TV",
+      "w": [
+        "bloomberg",
+        "case",
+        "fed",
+        "hammack",
+        "hikes",
+        "rate",
+        "reiterates",
+        "slow",
+        "steady"
+      ]
     }
   ],
   "resolved_events": [
@@ -3670,6 +3671,17 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "97901942dca488fe058c9e75048c1b458b32cf25efd276fa86a1d6b19a66af54",
+    "aeeac82e5e6681b30b2e0a000a872b4aa0f5ae5b1c132a889d17c56b842ae772",
+    "e4493b4447c71bfc70346fb3d664ade78aec884201f7a1891305060a4f65fe3f",
+    "354b8b1693779e1280d1b66ff502dec9bc7660ee46bc51c6d88d312969d3f455",
+    "90e0259561fced8b3e8f498e9e616b055fdaf40041bb9b9984e33ad9b3e4256f",
+    "8e9e053ac3d7bf79f9e535c5142e2337cc4649244ceb78cdc00c86dd2c88176a",
+    "7a027effa9e74c8acb5bc2054ccd790c5fa1250a89e6e3ea3ba985503c7a956f",
+    "596e505bee2af6446305c29c18a70fb15be40a45d66eddb75513600a065c1947",
+    "2cb2e421e72d7fa32516e612a1f4835dde2e71a2fe860c715b8aadd5f7b0502f",
+    "c6e54ef233801c335c85730b046a9febcab46ab9a7a197bed6ea53fcaa227853",
+    "5f16f25fbedadcd45539e0ef84f822f443b5eeb6a23cca5e5ea7fc146d146d93",
     "e29896bc3a82f1f7c65e279293b1d21e0278ff5d8ddc3b201eb27f7bdac77d6e",
     "6965e074cd19aba6068f373823a219f40b2cb0bc1f5c28c12b33d25a90637db9",
     "2ece523a90e7dc07e284ae93519a51c06488dc9a0b5fe29a4e64dc7f70826daf",
@@ -4658,18 +4670,7 @@
     "3252bbcf1803cf39463a9832f60fc73d0acacb154cd54710a210d2abe42d7ec4",
     "f3acb02ff176ba1dd0cfc82c4c530223cce6eb6f4cf76289d9cfa964e292a5ad",
     "68e80e58a51924ef381068d5c6daf99d55c9d71a372a7fedc7f96a54ef454ff3",
-    "aa09051679412f6977d1b42e7d8c46ece19a1b9bf7ee1a3fe81bd7f84a884cb6",
-    "b206f9c2d4d82b01fc7e7315fd1c747f2185266e95e145cd9c62a6be71c5f9ce",
-    "82f4a60487928c73e8951ec0c6349bc242e5321e1fa71ce9f0966eef6792b5af",
-    "d893d0f92537d5035aa960edc24391b852b33a90b578db92648863fc4acd58a1",
-    "6c60efe3df953492b0ec45928dda5397a30368f07c5477c8799bb932f59b1306",
-    "49c65b01f152cfbf33dae455b3387a374d887b03a682d6409f614622bb9e10d0",
-    "d3cb99e932a1bf94f6c16d8fa80d4134d174e1eed2b09de065ee88a7364e37c6",
-    "486850f65aa5a8018572c3410c31b4ea621433f854d29bac38af14d3ea401f26",
-    "ff2fe0588e758639467d36717bcbde0ddac50aa33e92fcf67b7c404632e3a0f9",
-    "f41de8d6a4bf317f02fa422e2fa71193a1e014e78e2867262a6c44cd30d79260",
-    "8a30cb01db1640bae6fbc3669e1bf8fcb2c021bd8f30d088ac5f8c5478093710",
-    "f3953b2cd72da9807af24a0dbd00366e206e3f37e4181d433209d248aa13b4b7"
+    "aa09051679412f6977d1b42e7d8c46ece19a1b9bf7ee1a3fe81bd7f84a884cb6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
