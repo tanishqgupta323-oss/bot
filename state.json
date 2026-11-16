@@ -1,6 +1,6 @@
 {
   "actual_attempts": {
-    "5dff3c1af11acb7758d1e8b4": 5
+    "5dff3c1af11acb7758d1e8b4": 6
   },
   "calendar": [
     {
@@ -645,23 +645,10 @@
   "calendar_fetched_at": "2026-11-16T17:47:28.984460+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 78,
+    "count": 80,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-06T14:01:15.518267+00:00",
-      "t": "Strong October jobs report sends yields higher",
-      "w": [
-        "higher",
-        "jobs",
-        "october",
-        "report",
-        "sends",
-        "strong",
-        "yields"
-      ]
-    },
     {
       "at": "2026-11-06T14:10:47.226420+00:00",
       "t": "Traders raise bets of Fed rate hike after jobs report",
@@ -3634,6 +3621,24 @@
         "price",
         "suddenly"
       ]
+    },
+    {
+      "at": "2026-11-16T18:10:46.246183+00:00",
+      "t": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015",
+      "w": [
+        "2015",
+        "bite",
+        "dollar",
+        "gold",
+        "low",
+        "set",
+        "since",
+        "sinks",
+        "treasury",
+        "worst",
+        "year",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3665,6 +3670,21 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "fd21e9da062431a797ac6c97fcbf939c4527865a9e2a93878cd6c93ccae295d0",
+    "982551bd2fecf59130b7652a340889b4a3d9d77a592cf669213eebd173e1f66f",
+    "a4dd172cf3ed7ac9839b40460a559a097d148d521fa83305c2d2bf0e21a06816",
+    "5fd08ff6b1e2081e7fc89810f9888ca8910e77d2a2dd5dd758477ce77f50cfd5",
+    "dc18596a080a0364b3f802c55d39b41c4831549a826ddb46f4016e3d4f51782c",
+    "bbd5a22ed957c04d8a4e3f6e273c7895e5e6df0255e873f2e89a20efe95a3a56",
+    "a0af02a9cf0a7e66555159575ff4ad090ae0672db805808bafcb9ddffb549b7c",
+    "0dfbc042e546a55af1eb765155b322aa1a401abbd4f44820fa35c9ee1edb9a6f",
+    "fcbf1e5b0cdc063d64846c70d7eaf69a55a457e73baf65c423e5ae42a2d4eda1",
+    "d13f746603ee88f307f5434725391e8171d70c25b063ab19f1b227474296858c",
+    "bd1c07d05115f1d0f804c6f9960290b3f89c18df16dc13d10e2ffd1297031f13",
+    "d331e8a91a791cd94c20fb9881ceacf34bf6ae953c81c1a902a023a209248f6c",
+    "031a8b175ab81432648cd63d9ef3d340adc989c6ff4c2604b8026da9fd145517",
+    "17944ba228e0f02e954c0e6682b1074e5df39a797b90353284f79b9424c2f329",
+    "8babf3b5a83113266a11d633f93aeb71c102cc8e8e76b567d511f65ba1c0ff44",
     "27604c6a623c37cd2a63269d6938dbce8cea49c649d3e1fe5b4d7daeb59d9c30",
     "e2a052863491da49e1c07720f36999b10f493b571ec1bf8cff74a2af30cfba55",
     "87b372ccaed2673e5139b4c706d4a8a4f3b562412449327be583424de79cc53e",
@@ -4649,22 +4669,7 @@
     "97204e633feae384a567f9653b0714691e12c94d5d4144bf2baa50761448a5c5",
     "db7819ad2b90989ae72a968ebf03d841e8c1112db95029c55afc2e15439f7498",
     "f8a04b19951b60c85de870d2cffb0066351b8026931c09634b67edac265ade3b",
-    "573114dc2317620e541d4c80eef1baad555659809c1ad53de290d1a25beb7576",
-    "fd562ff69e4bbd19129f46d5bcbd802584ee8f0beb9c26731c29fa1e9240670f",
-    "7bf05eec9ed09dd5b18bb8d3626bda8a602881ea6010f4c34163c071841856a4",
-    "94904e0c4aba9276b7e71267be7ff04b0498703a6544669cb2a546441678c358",
-    "e13c49a916baa959fc9f165e169e78272f56417c14c0830f03be6b0201ee2512",
-    "5178086d4da014413fe0a28cd873d4ec1e37de168ea0c3f4c6cc1a89623924eb",
-    "4cc1cb60b4fe776425657a7975f2bc232ba7011f1b3f0d54563968ee726f1de2",
-    "8ec9ea824989e328431527462e3f5cbd5da0f4cf14b6a11b928dce196d7593a7",
-    "41b3808407117faec2e285833b5cb0762d492be76e42f47c3346c3876319f59d",
-    "080ef1fbbcf887da643ca2f1e049615af37fe8e92b10dc83f4a1d89b3cea6e7e",
-    "2da19297a6ad649f2b46bb11bb611e41c7efaf1ab848448d8ea1194f15499833",
-    "7faa51345391ff162a3c0ed60fcd44e06771a8e8fbff3ea670eadec7e1c4a920",
-    "450b11f96390ba5d5ecf427e91acf3aea896055d20e6dabfc0a95e2726f6fe32",
-    "67e44f24fd2c31f519f5c0fb9baa74913c9235cc32330fda8f5daa4350258d73",
-    "56fc70c6ec11494b07b2c1718213ac9d27a5158b843b2fb5ee6235371fd586c1",
-    "806eaa1ab80d6356c1664b5b390c3d24a63b24c2c9004747bdabeb157847ac3c"
+    "573114dc2317620e541d4c80eef1baad555659809c1ad53de290d1a25beb7576"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
