@@ -19740,5 +19740,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Axios",
+  "title": "Top Fed official: AI boom could fuel more rate hikes in 2027",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IQXpTVWgwMlJBMmxXNFd6OEdKUGJiMG9lZUlCXzBDVTQ0NktCR05RTzB2ZHI0a0UxSEZqeWt1V1c2NUdIOWg0U0hQUVc1RmlmeEtZOU9VQmNnOVRpTHVKY19ieVZDdzRHcjhHTzQ4OGFYVktGYzNGTQ?oc=5",
+  "published_at": "2026-11-17T20:18:07+00:00",
+  "sent_at": "2026-11-17T20:50:49.048021+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.022,
+    "XAUUSD": 0.1611,
+    "BTCUSD": 0.2539
+   }
+  },
+  "checks_base": "published"
  }
 ]

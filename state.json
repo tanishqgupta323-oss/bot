@@ -691,26 +691,10 @@
   "calendar_fetched_at": "2026-11-17T18:01:27.352555+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 163,
+    "count": 164,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T23:10:45.820725+00:00",
-      "t": "Explosions heard on Qeshm Island, multiple locations in Iran, state media says - report",
-      "w": [
-        "explosions",
-        "heard",
-        "iran",
-        "island",
-        "locations",
-        "media",
-        "multiple",
-        "qeshm",
-        "report",
-        "state"
-      ]
-    },
     {
       "at": "2026-11-08T01:31:02.547846+00:00",
       "t": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
@@ -3692,6 +3676,20 @@
         "stronger",
         "williams"
       ]
+    },
+    {
+      "at": "2026-11-17T20:50:44.570335+00:00",
+      "t": "Top Fed official: AI boom could fuel more rate hikes in 2027",
+      "w": [
+        "2027",
+        "boom",
+        "fed",
+        "fuel",
+        "hikes",
+        "official",
+        "rate",
+        "top"
+      ]
     }
   ],
   "resolved_events": [
@@ -3724,6 +3722,16 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "76e1e07c5a8f747e2d66651ad51dfc23ddcb3def5dffad99814b1a314e8138a9",
+    "8aa8c1990f242fc73d27ee0daaef0cc22420bbaa3710bb8f2829ad5ef5c1831f",
+    "96fa082c3511b48faf3dc65655d1897870484d82345e0f1b506abf871dbadeb1",
+    "907a3eb292aad146cbe0476d92dda1ab5291074cefc5286037e94f55f88b7d22",
+    "1ee34d0bb55fa1c507a77a9e2560b62ab56d32afd2efeb2764a63f7ed5b7c284",
+    "e678b1d07c6fab44429e176ff2628cc541a8765117420bb077b0d67358c50655",
+    "2bd020bca17c42e8be65c7f2454c39bcf18d56af44df85737c5a71f72a234d87",
+    "5173b6fe7eb575ddc302a74c2fc71ad0c186e1b0ba03e76c4288dbf5ba7ee5ad",
+    "f90f7c596ad8777a0457591f8cc5c695fee380b072f255f5714e5800c61744ab",
+    "bdb7e402588714848bed024a2b42ff5cb1302879d27ac47709e878b4dccf1129",
     "b2c9049da50a43bf4641b9a597f8e9b97fa49e3054da9abfa68bf351137b91ab",
     "5cadb965317effeaf37bb40539a74c62133376eaba1e751a04881ec6c674153b",
     "fa9b3ed8ed523ec70548d1640f8277db59995b2253976ac1f1edbad440721e4e",
@@ -4713,17 +4721,7 @@
     "41539450c115373f3cadabaed7d14deae545367945f5b5ef27e3c3a2007eb42a",
     "83874e8949b2476b2eaf19628f2465eb0b57f9eae6906b85dcc47bcd95ae4a26",
     "d4f1afe277c115a9c97e28f20c173b1bfe95fafdaf8857ae8228850650de372c",
-    "1a56ed320bbf76f42f475b4df0a0caa73171133ac9920311143b6b20a0f9e01f",
-    "ab5b24a9dd27b117900f1b64a329d6a8bb8a7d6cca28d27307d4512290162dbf",
-    "6a5448c567089355b1c53f64f49424f3fb3529bfbecbfa6c82ef3e0a66460db7",
-    "9cce6cc9b5c4ef7b98f27187a1308771fe482106c782315e294ab7e91eb911b3",
-    "8bb135cb1c6306715e4fc8f840b71435ffe616c7d75d367e8aad15e62678c443",
-    "d109bc192803f5bfc40551772148d644b1b2aef47a671ac6ad3a17808be9c8d1",
-    "5c02ed8d2aefbfaf2773c24bdbbd807e155bbe06792bcef50a6802f55bfb5881",
-    "b8595f3887d222533f29e3b72c5320f3d2e4bbfcefef8c911f8938a173451dd4",
-    "e1ae4248486a5fd4cb84e122f39b5ef82284ba01c992d86736d1f6a2daf81ce1",
-    "1685aeb6a13ef74d3f239b5cd8ccd433f26d7567d4c8b43d4f89aa08a5887a78",
-    "67c5ae2164e96ec20d37338d88ad80faded269d5d82f5b1e45f8b7022735f071"
+    "1a56ed320bbf76f42f475b4df0a0caa73171133ac9920311143b6b20a0f9e01f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
