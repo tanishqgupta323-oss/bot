@@ -19631,5 +19631,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "It's not just AI — the dollar 'wrecking ball' is leveling gold and bitcoin as the debasement trade unravels",
+  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY0tFVFdEbVY5ZlhDM2VuZzNfYndTWjJVTktTTmpBNEJEUHR4S1RzclpNN0c2Wk5sbFBBbHFNR2luQUVXeTBuSUwwMGxJTWpFTGhGdmpaZlBDR3pJazdMODhqU3NRa0NGU2ppYlpHZVNzbEJUcWgxRVJoZ3RYNzI0WHluMnRVZm93d2YzWXk5alROTndlZ3pZb0VSc2k3RGJlbFluRlFRaVIxWmlFUHFLMllkb1lNMGU3UTczdDdVaUczdUo4UEZUanBBVjJNUnVaejdnbnFDQWF6V2NHa1Y4UnpFWWNMRnl4X1VXeHZwLUpVUQ?oc=5",
+  "published_at": "2026-11-17T14:36:26+00:00",
+  "sent_at": "2026-11-17T15:10:52.107956+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.011,
+    "XAUUSD": -0.0103,
+    "BTCUSD": -0.1713
+   }
+  },
+  "checks_base": "published"
  }
 ]

@@ -691,24 +691,10 @@
   "calendar_fetched_at": "2026-11-17T15:01:21.606362+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 97,
+    "count": 98,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T17:20:44.975857+00:00",
-      "t": "Binance CFO exits days after catastrophic $6 billion crypto hack",
-      "w": [
-        "billion",
-        "binance",
-        "catastrophic",
-        "cfo",
-        "crypto",
-        "days",
-        "exits",
-        "hack"
-      ]
-    },
     {
       "at": "2026-11-07T17:40:46.767821+00:00",
       "t": "U.S. carries out targeted strikes on Iran as Tehran’s leaders weigh mediator’s proposals",
@@ -3694,6 +3680,22 @@
         "trump",
         "very"
       ]
+    },
+    {
+      "at": "2026-11-17T15:10:47.239819+00:00",
+      "t": "It's not just AI — the dollar 'wrecking ball' is leveling gold and bitcoin as the debasement trade unravels",
+      "w": [
+        "ball",
+        "bitcoin",
+        "debasement",
+        "dollar",
+        "gold",
+        "just",
+        "leveling",
+        "trade",
+        "unravels",
+        "wrecking"
+      ]
     }
   ],
   "resolved_events": [
@@ -3726,6 +3728,16 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "5a3e42b6347e1c637840ee8b6aaf44a29bb318ab72273e3c3805095dcd18ca89",
+    "9794c853f47235079a35488ba2f6fec816bf8e7091e5ca2fa5621e5bc897111b",
+    "1260fc032c37801049c3c25c056c07e044200121ab0d2c65032d6218d3be3ced",
+    "5589f62362a7915dd8683eef6c99da7293e0711c4dfb204bcb0b062d5a42c677",
+    "1b02e98d1386af2a8ed146e6be4169be218811bbb41edb1e49972907585fddad",
+    "db4ce456c6897142ca6d3497fe2325adddf16c735abadbcb84e22aa1adc891e5",
+    "9da2dd758179ef65840cc9bde8ede556481206d84a9e88653110a6d2416bf388",
+    "d8224b42e30c9ff7f7fbb0dfc0ea8b56af7ed62e7934ae9bc8b962a5efbb56c3",
+    "339ff2093bbfa272e8e8bc430a4d04695fc1bd304ed963a784f2be89510a68ee",
+    "cad543826ea8361af6e8a5a4d13753b6d5b652da3a11fd54119eda6064eb35ee",
     "91fb5372580109ce8feebdc2e941f6fecb258395bb770f7e6ce701f6b4f7034d",
     "ea84031320e3c27184938582190cb9e300c13341b65aac109280838994f114f7",
     "8b6442a3c1e75efdb1de5b82c887ca238eb73f3f1d036abcd9d33db88d697ade",
@@ -4715,17 +4727,7 @@
     "452805e7f3251ea16ccc74c6e66aea6a0b437a7cef1be00ad312f1f26d3d22ad",
     "b9b12c93cd6207f7d1aa480fa2c9fa263af2027565c084c4ce9a4196a387541f",
     "bda0ea7695c22662607ba220b6b9a277fbc75478406a5933487cb8e27e7bcb9a",
-    "9c1b7db2a15f19cb33a8d3b9ceb9715f367b79a4af8ab50517cdd2cc8c9da47b",
-    "f5f3abe90d547871ea3df4da5f138d30d74e24a68a9849be18af97daaa68bef3",
-    "2cb1d53b60855ee5a785f48245386e0427db73e16a6fd889b70a6654746f59ca",
-    "bef2ee51326f0cb71c2c28eefb3e16bf82f6cd3ef6dede5cc7e691c97d217f34",
-    "278bc17de769e505902a39ac37d4bf7e26d22b13fcd8f95456baf0eda61be8bb",
-    "78f0a78c7ccd60cb76fb56c059e0bff81ddc9d03fd59f4cc18189fce0488600d",
-    "7cacd628aac2c4c2b645ad8a55251ae4c837708b9a82137d2c6a6dd29e224cd6",
-    "5e614072d989778b99356fdf9feab30f578e5ac4604338f146aa6b81ff0ca19e",
-    "5cd4c520f445ed1babb2960115e2b7dada61aa7b8720f95b0bfa1ba4a06db63a",
-    "a7dee6a92faf518c99b7d5f441cad2f55ed181c81802baafe73144bf62be6a83",
-    "df73be30a7f8513aab4c135151e77b69d81818ec26e875073a01bac2b7897057"
+    "9c1b7db2a15f19cb33a8d3b9ceb9715f367b79a4af8ab50517cdd2cc8c9da47b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
