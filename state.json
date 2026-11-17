@@ -689,22 +689,10 @@
   "calendar_fetched_at": "2026-11-17T12:01:19.389871+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 49,
+    "count": 50,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T08:20:44.569793+00:00",
-      "t": "Iranian Media Report Explosions in Southern Iran",
-      "w": [
-        "explosions",
-        "iran",
-        "iranian",
-        "media",
-        "report",
-        "southern"
-      ]
-    },
     {
       "at": "2026-11-07T09:01:13.562084+00:00",
       "t": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
@@ -3692,6 +3680,20 @@
         "strait",
         "vessels"
       ]
+    },
+    {
+      "at": "2026-11-17T12:20:47.988049+00:00",
+      "t": "US intelligence indicates Iran developing dirty bomb plans for Washington",
+      "w": [
+        "bomb",
+        "developing",
+        "dirty",
+        "indicates",
+        "intelligence",
+        "iran",
+        "plans",
+        "washington"
+      ]
     }
   ],
   "resolved_events": [
@@ -3723,6 +3725,20 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "bac3fe4ec9884410c5475c21d5abde6b0bbcfc603ceed053be51771be69ea484",
+    "58c8986153aa7e8aae8b8dc34acd6b281299b75dd5bd1c28d80a8b4a21f94229",
+    "08abee244912cdf3c7ec13b959308e335052f214d070a5830cec3c0702093eb3",
+    "ee03a36b35017f965d28982bf6f56c22d460266b2951dd50e9923019baaa2614",
+    "c780a23a74132afe18f6e7b48087825d635fba98708bbb74303effc284aab93c",
+    "804b5fe1dcf6bdebd76847077a3963e37749616170edbde9ed10217713cf49d7",
+    "d02e3329cfe8f3cc8e2c6a00038e91547d313cfe82b9337c956cdded00be4b02",
+    "eef142b40731ecf35b806f8c3090aac11cdb6a418c44277427b8557a6d33ea05",
+    "bf2c54a5a70331a19a6ee54c8544cb6508e85c5229b7aecc550145c32d974a0e",
+    "dd15ccf97934781ac57b2274f6b9adcf4a479fba67e4caff4d8f05fb67b22fe9",
+    "bb973ba5c558235aef8a5e5577466448af19fa4263318cf5511293aeebda145b",
+    "5a98c9f2cbaa27201245223a52ffdbe31f289efe52c6b3b4f114047af842d83d",
+    "a50881dcfee13325f1f95134aa6dd677cc1d5499e21dfe5bb2ade8c4e978e154",
+    "47148003bbf756e7c9f95bc886dbde845daf6c4f1403749108eece06b6c81376",
     "ef100f0d329235a7ec8bfdbce2739f0de08f77b97a4b2b60d4ebec159a3dc4f9",
     "6764a50d9e907c63dd794bd6612736360ea74b27bab29a512803e4c9aaa9faef",
     "6dd523a7dcfef4f9a26aa96081975be29cc38a1e9b86885588c24014093f678b",
@@ -4708,21 +4724,7 @@
     "5d41420d27fb3cb31b8a39e5d78b08293c30fede9eced5204cded117f2fbaf03",
     "31972dd5c64a35931958b19b71be31b7ebafe507414c387a890915c62521c4d9",
     "a26a1c12165c648b2918d4b6a696088f9ec3b1a4ba9834a0a07b6a12bd486cf9",
-    "d59f184f7c1dc8bc3f116fedf6e5fcf0ebe1d610ea972631be547fd763c93e39",
-    "8e3387a336eed2c3bbfacf519ea2f1a23e0fd90f73ef0be21c9c04fc026ccd2a",
-    "03ae9405fd41dd13b6cc654b966769738d0c471792b48a72b7a13ccafe13b2dd",
-    "4057c5ff3db60189054fd2eba76ef7059c97820678de7019757f46e6d31602a9",
-    "eda4e4426c7ea0f95925ea37feb6e7f9be88efb02e8ba01cbb5f908edefa7d46",
-    "949d596a3e039af6a01ccfcf66e531a05d86939fa3e22c106b7dd90d8164e74a",
-    "19422b036df81610dc7d9f220eee4148b42effdbd79a3daf73c24f05f83a031d",
-    "898a89fee2a510049b6b95cc45abb48a2f41d9c4d1cc2a7bce66b753f2ed7088",
-    "e37227288c1fd49b35fa943b219dc202a6f762f8dde4cc0eadf062e3c48f11d7",
-    "5867d8415dab1576eaf39c7d62fcf615310d397d5de6215e82fc17eaa8bcbf0a",
-    "969e021b2272b86fa110c3a3640480625c461cf89a07fc4e071a151975d3f893",
-    "745bc636edbd5f1b911db330b9a6a05569356a79713763959419e6acc881282f",
-    "7d28997b089fca46ddc9b784739225742634d3bd3af38d10871fc1dc3a5a11ce",
-    "64afb4b85b3808b5bd6af66181d59e7542acc26a0296d9df6822f43837a7c1ab",
-    "99ab71e050a18cef4d2906bc6786aac62fbe4e4fd8de4650fdbcaa3dcbc99e44"
+    "d59f184f7c1dc8bc3f116fedf6e5fcf0ebe1d610ea972631be547fd763c93e39"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

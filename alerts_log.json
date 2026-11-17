@@ -19475,5 +19475,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Audacy",
+  "title": "US intelligence indicates Iran developing dirty bomb plans for Washington",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDk5ZG5sMXVWMzFEdXB4NjZIWTFjX3pLTzdTaURXY3ZZLWVJZXpYMXZweGJtempHZlhPTHQ1b09xUUhXaVRseWZIbm9JQ3hIZExCeEQ5LUpCeFRzQmtKa09taU1na2dYYm15TENvRUZiTnBtVjQ2anYxNWtJRjRlU3hHeVhLbjhKYllCSEd2Snd0eW14aDBNYkJBdXFVeWVPU0tic2huTlVnNlpJcDFWMUlR?oc=5",
+  "published_at": "2026-11-17T12:15:00+00:00",
+  "sent_at": "2026-11-17T12:20:52.618402+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
