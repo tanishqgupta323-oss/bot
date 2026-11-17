@@ -19662,5 +19662,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNN",
+  "title": "Trump says Iran could pay major price if it carries out dirty-bomb plan",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ORHVZSjFGdGFnWE1WcW1mbVF3S0Q1cElVQTJmMWNzX2ViSXZpUVZRbjVrek83NnZ3RlFWMEdIWXVXRTFuLUtWZGFyVnBldk94UXg0RkpoTEd4TTVKODZvaFZHc214VDVETkduQ045YlFMZTdkYmdYRFFjbV93dw?oc=5",
+  "published_at": "2026-11-17T16:51:10+00:00",
+  "sent_at": "2026-11-17T16:55:57.742295+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

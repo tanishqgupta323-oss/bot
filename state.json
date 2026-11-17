@@ -691,25 +691,10 @@
   "calendar_fetched_at": "2026-11-17T15:01:21.606362+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 118,
+    "count": 119,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T17:40:46.767821+00:00",
-      "t": "U.S. carries out targeted strikes on Iran as Tehran’s leaders weigh mediator’s proposals",
-      "w": [
-        "carries",
-        "iran",
-        "leaders",
-        "mediator",
-        "proposals",
-        "strikes",
-        "targeted",
-        "tehran",
-        "weigh"
-      ]
-    },
     {
       "at": "2026-11-07T17:40:46.767821+00:00",
       "t": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
@@ -3696,6 +3681,21 @@
         "unravels",
         "wrecking"
       ]
+    },
+    {
+      "at": "2026-11-17T16:55:42.334770+00:00",
+      "t": "Trump says Iran could pay major price if it carries out dirty-bomb plan",
+      "w": [
+        "bomb",
+        "carries",
+        "dirty",
+        "iran",
+        "major",
+        "pay",
+        "plan",
+        "price",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3728,6 +3728,9 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "30b2f7204cba6b6bc13c594e6d2ab932f7dd3132b962ee16c10f09fcf043f129",
+    "d556ad834d315c00d48de056ce7e75e8b5513828bf4224a254660b99eef24ef0",
+    "245a7de042a6cc660f75b2844a573d58cde6f941bb87dff2cee18f7e00210921",
     "fb011277efaf2746032daedfe7383f177f9702943c724faad04965e3eb77554a",
     "042ef966a2c7731376c6d9e017be72d1850715a5e91c902b17a559fb5349061e",
     "53242a0b867abbbad21c61783455300e34ce1af2ff5ea41abb295a91e45433a3",
@@ -4724,10 +4727,7 @@
     "ecac5487052950945688cdc35f2847b5371403d76126bc291576e10ec4932fa8",
     "965009fb542d87aca9f57000e2d5a317a62b97cf09f8af00a233009f8628f265",
     "cf13c2c9e54087fd724cae01c177125d73299b8c0d793782435f1bea01b4d53a",
-    "fd241ba944438d13df117be3fbcef843e497e8847a41fb276883d0f58fbf9408",
-    "134c81e78f3961d0a4b9bebbda5a9d5536d0ce8f066cbb6dbb277613b4a878a6",
-    "3ed35fb78fafb837f1986f24a2c98deca84e06e53d9a8e4f8432ca169da66df3",
-    "8e3b6b97335a0f3d63fd0d4a4ba6a81db0d9d2a73ab541dc2494ab1071b02e4f"
+    "fd241ba944438d13df117be3fbcef843e497e8847a41fb276883d0f58fbf9408"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
