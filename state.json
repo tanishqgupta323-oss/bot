@@ -689,25 +689,10 @@
   "calendar_fetched_at": "2026-11-17T12:01:19.389871+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 60,
+    "count": 61,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T12:01:15.347902+00:00",
-      "t": "Iran prepares for war to resume, eyeing new targets and a shift in military tactics",
-      "w": [
-        "eyeing",
-        "iran",
-        "military",
-        "prepares",
-        "resume",
-        "shift",
-        "tactics",
-        "targets",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-07T13:20:48.733532+00:00",
       "t": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
@@ -3695,6 +3680,20 @@
         "several",
         "spring"
       ]
+    },
+    {
+      "at": "2026-11-17T13:16:00.921533+00:00",
+      "t": "Iran claims strike on Bahrain air base as tensions persist",
+      "w": [
+        "air",
+        "bahrain",
+        "base",
+        "claims",
+        "iran",
+        "persist",
+        "strike",
+        "tensions"
+      ]
     }
   ],
   "resolved_events": [
@@ -3726,6 +3725,11 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "80a117fc3c0c425df76d887ee43d448643f8b8dad9b402377b3845337283c385",
+    "b297dad0d5f64c0f3cf6851a46f7f93f3423b481fb57a0dd8161bc6f65fae282",
+    "d8919d3d0d0634000c4209e7812a3e8b107424fcfddf1176f822b1bc55519747",
+    "bd06059105a070c772678a06e67565c8d759e18ce91886a1aebff086529d7268",
+    "95d45c72c7e11d6ba7599922ae60a23ba2dbfd25707f1ee61c1bb64a85ea3118",
     "641aced480b64e661a144df7dec35ba12e77eeaec151b9715b3e44e08e1e0630",
     "001eb11fb08881aa6fb5135cb726033e628c4721af707a076809fc81c0ff5324",
     "45ee34e24fff3f66de6b4398b332ff4e261ea5e1c41917a565625b8808f83414",
@@ -4720,12 +4724,7 @@
     "2fd32edc0297af106a2382117d9cb6ec18c9b71afbd8be89ea762a20dbbb8a7b",
     "cbde3395cff86e77436876eb764e4884f18f4c7c452242e38e162b2f2e7c1f1a",
     "150e50482f5dc3f2ef1abca80978c5ae1531d6e4ed7e378adb73f2a1f0a2b7de",
-    "48a0406c6b43658662a5a0047a10a021fe9d22e8cf41383bf2b0eb283c56c24c",
-    "81731a7130c31cd1e184f1d111592b1831c4feb94b5ce72436c2e39ceacf4160",
-    "7e05f34d1bd321ba8826a2a140aaa9daf507a53568c47e4a900a170da4bd7f2f",
-    "cb8835800627089b8924223708a125dcbbe8780452da488ddc546b787c90c4ac",
-    "38c750c4cc95a908655d07e5a7ddb63915725fa9b72a27c506f51572e7ad8d99",
-    "7b8fbde3d7e8cf06c5ce6b097f42946ad71ab3bf3616a7e45449a541637668ee"
+    "48a0406c6b43658662a5a0047a10a021fe9d22e8cf41383bf2b0eb283c56c24c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

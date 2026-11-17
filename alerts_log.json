@@ -19522,5 +19522,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Vatican News",
+  "title": "Iran claims strike on Bahrain air base as tensions persist",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkVhR0FKbHBHbVhFNmIyMTFnSE1KYWVvRTFkbGEyZ05pOUVtdlVxMU84aDRYNlU3LUFkVEZ4V3BVcmhwWEZ4SWcyb0FDRzJNU05pZ3hnZHFzdFI1a0ZKUEd1dGNxb0xHSzcwR0JaZkZaYmNUOHFPVkFfbFJITkZmMlhHQlU1X1JKVTlxYklHMVE1cnFmR3ZXcU44bWhRcjA0ZUcwMzBDWVkwdw?oc=5",
+  "published_at": "2026-11-17T13:06:23+00:00",
+  "sent_at": "2026-11-17T13:16:02.273476+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
