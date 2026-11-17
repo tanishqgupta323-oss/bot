@@ -19818,5 +19818,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNN",
+  "title": "Putin arrives in China for unprecedented meeting with Trump and Xi",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWUyRUNaM1NYUHZDeno2dXZObTlyYkY2SUtPT3o1S2trUU16SFVTa3AzMDBqNVhRM295aG1md0hvX1lCUFBWb00zNDZZWXFydnVzRXB1ekZWaE9IYmVnTU80aHZ6N1ByUjA1WWpLRXI1WFdmX3FiTW1tMURObnpuMnpqX1plR1BoTTRCSF9QNHp6N1ZnNHkwZmNlVnlnWm5RMlVFcHVJS0luYXJiMXc?oc=5",
+  "published_at": "2026-11-17T22:18:00+00:00",
+  "sent_at": "2026-11-17T23:55:38.946081+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.011,
+    "XAUUSD": null,
+    "BTCUSD": 0.351
+   },
+   "60": {
+    "EURUSD": -0.044,
+    "XAUUSD": null,
+    "BTCUSD": 0.9028
+   }
+  },
+  "checks_base": "published"
  }
 ]

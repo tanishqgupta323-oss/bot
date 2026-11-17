@@ -691,24 +691,10 @@
   "calendar_fetched_at": "2026-11-17T21:05:48.245385+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 195,
+    "count": 196,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T09:01:13.892624+00:00",
-      "t": "Trump says 'we're blowing up the whole country' if no Iran deal is reached in 48 hours",
-      "w": [
-        "blowing",
-        "country",
-        "deal",
-        "hours",
-        "iran",
-        "reached",
-        "trump",
-        "whole"
-      ]
-    },
     {
       "at": "2026-11-08T09:55:34.996803+00:00",
       "t": "US plan to blockade Iranian economy, trade routes, is 'wordplay,' IRGC says",
@@ -3696,6 +3682,18 @@
         "tracking",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-17T23:55:37.770145+00:00",
+      "t": "Putin arrives in China for unprecedented meeting with Trump and Xi",
+      "w": [
+        "arrives",
+        "china",
+        "meeting",
+        "putin",
+        "trump",
+        "unprecedented"
+      ]
     }
   ],
   "resolved_events": [
@@ -3728,6 +3726,15 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "3eb2115ea446890f20334251f1e4654461322abdff9889fd36b0f7fbc0799962",
+    "77b7d8e157ad77046cdc12cac100e2d17eb94345e8777a92b5942eecd470c9c4",
+    "020c45209cd9a058ce1b4285ae4db3a9df207d126bae3d7891775e7a0490b8ff",
+    "5d504a89a8eef749d8570325a039125d292d401cf27a485ba09c33ccbfa2c22a",
+    "3d190b00e270cb432922af6ff95fe36725e42ee11943e186a6161df86e26c0d4",
+    "90d3362a3b5e01ba81a9780acd537fbae153c31477b1bfb1ce22f2f08231b476",
+    "6655ebc9d1fcc863cb735ad50b93fc16d06d13ab6ba6a5f94a6d8fd56ef7a1d9",
+    "13221203693704a1e45cefb4e0df00c2d0f4adaa8cf94765eb79f240ecd4f1ec",
+    "0c4e25d891fa7b2a691e719f0c8fe07fd9f7a74cf565efa930478dfe6e2622b4",
     "83268017c46d53df29da52b30de36b1347898a1670849254a3789452589abba4",
     "3a219e67ca964ecaf5e9192ccaf8b9569403c1eef5ab222b55f32865667e6c13",
     "8a64fd34fff68ab618796e45006ed655c97a39b897ece2bcadcdbcba083089fd",
@@ -4718,16 +4725,7 @@
     "4a68e6aa6206e503f0dd80a129de5843b474a843badc85fd523c1e748e2c26b1",
     "ebef141030a7121770c67e7ecdaee67f727e49f8c640f7b31e3621534105b4b6",
     "4f52b046a93638962668d781cd5e5d9d930343b05e19958f35745f175383e5b0",
-    "2c572a2cfa82f4e3f6332b4e3e81ae05907aad324babf635622ca20dcf62fbbc",
-    "33af947940f3692850349141f2eea550e27ae3e49210faccac8c4a8c9f5e6d9e",
-    "55c09e6fd758ec203de105ea704c515b780c771c22890c9f144d87b3bc5fc5f5",
-    "11e3cf2e5f4af0344da3d3040be344f7e1e65e6406746ca37eed01107d33bed9",
-    "e83890392e8175ffcbbe4f21c210645e60e46b9843efc09a9e08c9583963369f",
-    "a4009aafa60a2619ee57974785dee8369114975cdad50421d4d3b0898696063d",
-    "3d254e31ac7bc94289661830185f9412fcbef41f615b27f4a622338ec464ab14",
-    "331d101aa3f2f95d586af1329d1bbfd51abc890a72925e680d41dfbb03f410fd",
-    "5faf98dda484cc8651d31f49ebe7c4c370a3662650286ffdcd3d00288339e2cd",
-    "59ef340283851ba4c0256b0d223d9956e3e0b4303fe618f8244082907e04feb8"
+    "2c572a2cfa82f4e3f6332b4e3e81ae05907aad324babf635622ca20dcf62fbbc"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
