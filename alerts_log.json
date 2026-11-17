@@ -19449,5 +19449,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al Jazeera",
+  "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHF6MEt6NlBHaGVNVEtHeXBTNUtJUUN1ZUlmcXNwQ2Z4MG1wZGJwMks4RzVJdEJtS3Z2SjBxY0hwdVJXZGkza3VVUEVTQ1Y1aDZtQUNveFlzWm5zVkxrVXIzTXBqeFhkLTVLcFlhNG4zRmh3VUtGQTRaaUxKTWZMZFhQUXRlVjh5am1MUzJUblV2S3I0bDVGVU9hZEdQc2piOEpnU3ZFQi1jR2ZuVzZ5dEJTMHY5Z9IBuwFBVV95cUxOZjA4VVFDWlBDN3BWZmVzRi1RblJhdUdnOE9EUWZBT2lNYzVrc2NxTTBCRXBpWjhuTUE2V2RIOFZkUElvVmxTZldZN01tWlJVNG45Rm1EVFNORWM1NmZvN3JWWGxIS3paZU5yTUt5LWNGbmRIMG9xRDFBcl84ODhkTFMtbnpOX2oyc0J1U0lhUTlBbWdtaURKd0U2bE9FRF9NWDhzVHAxRHVBdVcyRHpGYTZwT2FfWnpkU3lB?oc=5",
+  "published_at": "2026-11-17T11:25:28+00:00",
+  "sent_at": "2026-11-17T11:31:15.121865+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]

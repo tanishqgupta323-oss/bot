@@ -689,22 +689,10 @@
   "calendar_fetched_at": "2026-11-17T09:01:15.113090+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 39,
+    "count": 40,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T07:10:45.242942+00:00",
-      "t": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
-      "w": [
-        "confirms",
-        "insists",
-        "iran",
-        "strikes",
-        "trump",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-07T08:20:44.569793+00:00",
       "t": "Iranian Media Report Explosions in Southern Iran",
@@ -3690,6 +3678,20 @@
         "reported",
         "threat"
       ]
+    },
+    {
+      "at": "2026-11-17T11:31:03.233162+00:00",
+      "t": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
+      "w": [
+        "fire",
+        "hit",
+        "hormuz",
+        "iran",
+        "mine",
+        "naval",
+        "strait",
+        "vessels"
+      ]
     }
   ],
   "resolved_events": [
@@ -3721,6 +3723,10 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "1e159c2e00708d70c4fe40f066e8bb1345803f8d9bd6d1e7ab409b4d299de154",
+    "5ef83aefe038865bfe85ecb60ac73dc9eadea2414a71950decbc583c4f5c8c67",
+    "825dff0df9e490e89b9622b011d31e7eb33f0fe524e7a7d04961817ea7e59f57",
+    "947ac169e582e8c96e6ed0df9b877394e249f022fd5727e315b7392e381b9b09",
     "45bc179cb250dcced017f51d6ff8f91f1352dec0a635dfc37ae182872542acd5",
     "7e717733e72c161be94b6c2e5619964a85e1886a9d41710caa9d95b5b21a3d3c",
     "54f40b24e62bafb6eca3645a0d387dfd933af90e30e3875114e38baede65a6f6",
@@ -4716,11 +4722,7 @@
     "0684701df8cc21cd52e39ecb4b649990fb5eafb4dc4ebb0562b66c36de5a37e6",
     "acf662041aa76cb206afb6c5663535dd6e4dc7e335802211336b97a47b527347",
     "970824ff3c1e24ecf1356fab665ffc598e326d297b9c141d6e4a51183f6e10ef",
-    "a535842f7c8179c74b8e13dede4c9e40507613dc9a9689d01e522ca4b504c3a1",
-    "97a16bfdd38059e35cb9a5dfba27f8f637d6db6b936b5ea798f3067cfacd5d00",
-    "89361298d0949c3ccf83da9db81d7267c17dc6c69cb2c0b6a03329dc2f585bac",
-    "6cd73452ed18996e06483bc25073fe91d8d0fdcac46807a115863f71de906228",
-    "825e9c55c812628fe87253a5b8b5e7a988033fc650f918b51f180ca377fd5906"
+    "a535842f7c8179c74b8e13dede4c9e40507613dc9a9689d01e522ca4b504c3a1"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
