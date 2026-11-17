@@ -689,27 +689,10 @@
   "calendar_fetched_at": "2026-11-17T09:01:15.113090+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 16,
+    "count": 17,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T03:10:45.645250+00:00",
-      "t": "Russia launches ballistic missile attack on Kyiv ahead of Abu Dhabi peace talks",
-      "w": [
-        "abu",
-        "ahead",
-        "attack",
-        "ballistic",
-        "dhabi",
-        "kyiv",
-        "launches",
-        "missile",
-        "peace",
-        "russia",
-        "talks"
-      ]
-    },
     {
       "at": "2026-11-07T05:15:42.320996+00:00",
       "t": "Iran shoots down 2 US drones as Trump announces ‘minor’ strikes",
@@ -3695,6 +3678,23 @@
         "targeting",
         "thwarts"
       ]
+    },
+    {
+      "at": "2026-11-17T09:35:36.345958+00:00",
+      "t": "Iran Again Attacks Bahrain; US Intelligence Warns of Chemical Weapons Plot Against Officials",
+      "w": [
+        "again",
+        "against",
+        "attacks",
+        "bahrain",
+        "chemical",
+        "intelligence",
+        "iran",
+        "officials",
+        "plot",
+        "warns",
+        "weapons"
+      ]
     }
   ],
   "resolved_events": [
@@ -3726,6 +3726,8 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "81c3b4202d47632429a6095f6b55a5a3476be19b98a68f533b29b2ad29cfbfda",
+    "5466b25dc2649e6b710a7aec4e2764bdc6ad3f88213726b81ebfbe6a609e2ee4",
     "0f286e15f232c942d4272aeaa389659b08eaf9d0bc360802cbb042cc5aca3f32",
     "41099b99963fd4467ca298778cac2661a86519fa8bccbccb964822ea7f27f59a",
     "de6a43d877a197e314159c24e77a5b6a81cc7da616acad404abec0e2d844c2b4",
@@ -4723,9 +4725,7 @@
     "fda20eff5a37ddf89c84e806454caf64cd298e04ff33e45f8ebffdb868815055",
     "c0f729d87b6a693fb5ac674a6eab0c5f5bbf65edd425a7afd4262d100b4bb79f",
     "7ffe928fec6ef0f4a490922ff65497e0027054308bd3c5b11767bdd9eb44147f",
-    "0e153117e030c52013e6ee63922d7115c3e546dcd898992d708460ff0c839a03",
-    "dd62e8573692efa92dc9996d8d415bf974ddd6e1cb1dc4f6cf2798cf4694c102",
-    "1cd60210a6d345ffa429e5ca6b7f67047a4fed69ac2fbbcf12d4cd751432d6a9"
+    "0e153117e030c52013e6ee63922d7115c3e546dcd898992d708460ff0c839a03"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

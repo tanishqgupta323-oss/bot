@@ -19376,5 +19376,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Media Line",
+  "title": "Iran Again Attacks Bahrain; US Intelligence Warns of Chemical Weapons Plot Against Officials",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM0JwSmNKSjBkN0xGbW5VZnJ0Um1LTkpuNW1iVjg1Y3NFX0cwN3d0bGpJeElULThLbUg5cUdPYUgzX1B2MENtZjJhTF9WM3hhQWF4bF84UHpkbnYyYTZ2ek10ZDY1WHk5bXRTRmVFVnpxcFpjWGx5T1FoSnZBR0F5aHR2NmNuYk1MTElzbVZrTWxhVEpWY0pmWWNOT0I5ZUVRa3poMmpKaXVJREl4Ry1NX3o4bktUcThHM2dobkR4Zk9CejRwOXc?oc=5",
+  "published_at": "2026-11-17T09:34:33+00:00",
+  "sent_at": "2026-11-17T09:35:37.620795+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
