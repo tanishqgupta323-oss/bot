@@ -689,23 +689,10 @@
   "calendar_fetched_at": "2026-11-16T23:55:33.705273+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 166,
+    "count": 167,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-06T23:20:44.555498+00:00",
-      "t": "Trump briefed on narrow window for a new military campaign in Iran",
-      "w": [
-        "briefed",
-        "campaign",
-        "iran",
-        "military",
-        "narrow",
-        "trump",
-        "window"
-      ]
-    },
     {
       "at": "2026-11-07T00:50:42.408800+00:00",
       "t": "Two missiles struck Iran's Qeshm Island after aircraft heard above - report",
@@ -3689,6 +3676,23 @@
         "potential",
         "said"
       ]
+    },
+    {
+      "at": "2026-11-17T01:55:35.234287+00:00",
+      "t": "Gold hovers near over one-year low as firm dollar, Fed-hike bets weigh",
+      "w": [
+        "bets",
+        "dollar",
+        "fed",
+        "firm",
+        "gold",
+        "hike",
+        "hovers",
+        "low",
+        "near",
+        "weigh",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3720,6 +3724,17 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "a5f01fd627ab24279c6061c5a0347e5457d59dacf5d2ddd4a512d736a3f6c190",
+    "524087cb69bb02f99a2fc470a18e2c069f848afa023d9810206fffc4c88b70f9",
+    "1f631963d19aa8f792fb9c7bc522c2b7b4f740d98bfa6d7b8a0006a7a75cea5d",
+    "7fa17b26e1d6eb0232451909881295a219c582a95783f3bf673bbd6fc772e304",
+    "b333b2df5f29400e61a855ab888ffcdf1f22d25e7906809df4e82f1c123d615f",
+    "16a0a4d20654e5af9ee0ead4787437ec7f5957ea963db85b17812fde46a15b5e",
+    "04231a641add37255016b6911f883d59bc70773cf8a4e5b6bd4b6dc069d20c5a",
+    "77b7d8e157ad77046cdc12cac100e2d17eb94345e8777a92b5942eecd470c9c4",
+    "0bcec072202f3e8d11a513d895b2e7e16bc15493e683be5a23e5046a66fb7325",
+    "5567456cf8f455e525d7795f7329ac270173c9a8f0f82253c82d2740b7463e9e",
+    "cb4b299d1f22e667bc3c75ceb9cca981f6895006631bf166053452757943d96d",
     "4d7670528c3bc89531497ad7e90ba15c144f1d8ac8a40e14f0f7b551343cee91",
     "4b31cb9b3c47a42c0e21a5d033e3debeffe2d2812ec59d5c8bb9f9349a8b39c3",
     "0e742f4e80c0f40e95b706210d2cc462070641b00b8d842f2581de8b9567e203",
@@ -4708,18 +4723,7 @@
     "1f84e05b444e27a9bfc24e311dda836bcdf667666a54cb2c7d09bfc8c8b9e7c8",
     "789fd208e0d299702159a9c957fddd254fb5b5b990d11e24ea4baff650415ce9",
     "eba1ccb6222b823ffb744dcc51bce57186882fff81d25d0138e90db00e504f09",
-    "3afb835e74f4f34617df7e3904ca9db40842e25e22634c99a0dd0457defde6cd",
-    "b5803fc52a415f8f771ccf4c91b4fd73aa7eca9400c10aa22b00825f09972a37",
-    "c146e887d48f9551e5268c488bd9ff34c6edc6212d927f927c3b5b0a8211903f",
-    "ac1e7633e2b49f74f7e4fcffa431ccede93bd1060304efd9cdb87003c17bcdea",
-    "851c19886bc4d80be15570ab7032b9307a5ee84ad3c2c9ac06d6ded64b3596f6",
-    "5757251004379b9a1e3b1a07c900e1ad416aea3cd1bbfe4df49f7fc4120fefa4",
-    "4d5a6be31757ebf169b930b17b2f5bcc8b07ad4304360cb471aaaab828526c95",
-    "4afb10adaec6d08bf0991a4f4f2892947f6898d240457fb15fe80cb9899814d2",
-    "8c56e65308992e255fc81bfabef5d3482a0c2b7252c67c1acfd941b4cf86ded6",
-    "47b42ca53ddebba489f100eabc311ee05f3f05edf94fe9b51920b0e1f4323fb2",
-    "bb792a5ce6b716049364fef990f2c6ad63092c3c4c821b38b6bbd41222aff7b3",
-    "5dcd6b9b967f85d64d4ecf06297d5426f932ae2ddf5f37674910bca618dbf8fc"
+    "3afb835e74f4f34617df7e3904ca9db40842e25e22634c99a0dd0457defde6cd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
