@@ -691,26 +691,10 @@
   "calendar_fetched_at": "2026-11-17T18:01:27.352555+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 154,
+    "count": 155,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T22:05:35.214700+00:00",
-      "t": "US strikes Iran air defense system, unveils new effort to monitor Tehran’s borders",
-      "w": [
-        "air",
-        "borders",
-        "defense",
-        "effort",
-        "iran",
-        "monitor",
-        "strikes",
-        "system",
-        "tehran",
-        "unveils"
-      ]
-    },
     {
       "at": "2026-11-07T23:10:45.820725+00:00",
       "t": "Explosions heard on Qeshm Island, multiple locations in Iran, state media says - report",
@@ -3693,6 +3677,21 @@
         "qeshm",
         "strikes"
       ]
+    },
+    {
+      "at": "2026-11-17T20:05:34.046447+00:00",
+      "t": "Fed's Williams: The economy is getting stronger, inflation not moving in the right direction",
+      "w": [
+        "direction",
+        "economy",
+        "fed",
+        "getting",
+        "inflation",
+        "moving",
+        "right",
+        "stronger",
+        "williams"
+      ]
     }
   ],
   "resolved_events": [
@@ -3725,6 +3724,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "2c1efb2719f69a349c2200b611333dc7948d6118950944215bbe20e9732a71b4",
+    "090f8a8168b55fc94611124aa0ff2e5c1679aec267af6c90e3fe1a79be11cda4",
     "9f459543258ccf04308a70562e22aabe46c8331723c1426ad7074387c48d0045",
     "1061262fabb4f035fce4d382f4f15b27f70e22d0e1bf9822fe36e5d0108637c5",
     "290bc6bebc167355dba9c84ecab5ea798c93fedd3325b13a6db6b5f83d442d29",
@@ -4722,9 +4723,7 @@
     "ebd0f1c9b4e32172d5e5a8cfd050b2c7088e6a5016bf98d6eee5acc9f73f9083",
     "5b5070fad24e4d3d86c0ca068df99e92d7166b23a884b0051949d17e91c2d307",
     "30a87cbda2dc77f83bf74bd35e806729097c669704bc4d86a40f2f1bf2898fc3",
-    "763acad12b35e4587b9c4aed4d17ca29aea60ae1876e16d027153fc82d505688",
-    "3b5c6fefb41fe26d02a36356e15e235c153278724fe64755b0b4bb66f111a2f7",
-    "65a8e4e205b49e9c9d8d7990b9c9c7ac940e5ac235d2160819ac60bdf1b89b98"
+    "763acad12b35e4587b9c4aed4d17ca29aea60ae1876e16d027153fc82d505688"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

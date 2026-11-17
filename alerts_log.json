@@ -19714,5 +19714,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Fed's Williams: The economy is getting stronger, inflation not moving in the right direction",
+  "link": "https://investinglive.com/central-banks/fed-s-williams-the-economy-is-getting-stronger-inflation-not-moving-in-the-right-direction/",
+  "published_at": "2026-11-17T19:34:33+00:00",
+  "sent_at": "2026-11-17T20:05:38.778781+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.1582,
+    "BTCUSD": 0.0666
+   }
+  },
+  "checks_base": "published"
  }
 ]
