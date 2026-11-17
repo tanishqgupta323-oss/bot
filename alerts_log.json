@@ -19680,6 +19680,32 @@
     "EURUSD": 0.0,
     "XAUUSD": 0.0259,
     "BTCUSD": 0.6287
+   },
+   "60": {
+    "EURUSD": 0.0441,
+    "XAUUSD": 0.0284,
+    "BTCUSD": 0.4843
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bloomberg.com",
+  "title": "Iran Says US Attacked Qeshm Island in Latest Exchange of Strikes",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMy04aVlmWEc4cksxcmFWZTdRek9UOGtuZXRQT3VCYUZuNDZwYjFjTEhDRzNDSEM3LTY5dUF3YlpKOExncVR1aFZ3Z2dlM0c1ajN2ZHJUSFdNOW1mZmZiNXc4V0Jqa1BQc3ItYmxOamIxX3FieWc4QldOTFUxRER6bnc1YnVESzhnUXV2VUcwVkstcmdGNkhGRDYtcTNGX29maFV3MmZZR3piZmxDVm9DSVd5M3FoQQ?oc=5",
+  "published_at": "2026-11-17T17:10:08+00:00",
+  "sent_at": "2026-11-17T17:55:22.678705+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0441,
+    "XAUUSD": -0.0155,
+    "BTCUSD": -0.1126
    }
   },
   "checks_base": "published"

@@ -691,26 +691,10 @@
   "calendar_fetched_at": "2026-11-17T15:01:21.606362+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 130,
+    "count": 131,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T17:40:46.767821+00:00",
-      "t": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-      "w": [
-        "alleged",
-        "billion",
-        "crypto",
-        "cut",
-        "exchange",
-        "flows",
-        "illicit",
-        "mexc",
-        "moves",
-        "treasury"
-      ]
-    },
     {
       "at": "2026-11-07T22:05:35.214700+00:00",
       "t": "US strikes Iran air defense system, unveils new effort to monitor Tehran’s borders",
@@ -3696,6 +3680,19 @@
         "price",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-17T17:55:21.617456+00:00",
+      "t": "Iran Says US Attacked Qeshm Island in Latest Exchange of Strikes",
+      "w": [
+        "attacked",
+        "exchange",
+        "iran",
+        "island",
+        "latest",
+        "qeshm",
+        "strikes"
+      ]
     }
   ],
   "resolved_events": [
@@ -3728,6 +3725,17 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "16fffa70db9678b48180a64ec934dc9053f8c94bdcf1cd1af02084c0d1b48afc",
+    "ae0f590f6481ad255d2d14dace93aa5958ea7d5f9425eb4f0f90ace6b62a303a",
+    "6bd6c8a2e4df2bfb3102d716e092dc0dcecbecfef0d6ada09d0a430b21d16dc3",
+    "46b9fc57202da62eeda102a72bc5d6c68d472680456145867df39bc722b5c384",
+    "78a60d31ff6216132198c5a587102fc127468f31e85a86685afc3cd8794ba327",
+    "8ad4fb91670ea530473ef66c41557ce92fa3d557423bb24109f090f6bfa976cc",
+    "df5bad557314e834d7a529231ef317dcf2aa78b67dc58c2abc699ef5962ca8b6",
+    "7005ee57b62f60342206e9992ca152619e776acec925c33724a0d9c5204bb5c0",
+    "c70023b7169a69d6429b361af8f6b95339c55effcafd58b5383446cc56c447b2",
+    "461a31d8839dfe25da286e21c42413764ebecc933dd282cf65674034341d16c0",
+    "11e53144d1bab2b7aed0afac906d7f50cf1be8a4fba19dfa78ba8f79af91bf7a",
     "e9b38079e6c94b93f50e543a2ea58040a7f9add3c2a23631677f8a3ef55e2723",
     "ca261badf0bbbf6c19aa48beffa936fa30b19b9b5aea7d8e59944083ed0a7a2e",
     "cd0246d3330d50e7e40945d80c868c8f2ef76646b559c62d3c1f1eb4c45db707",
@@ -4716,18 +4724,7 @@
     "77b7d8e157ad77046cdc12cac100e2d17eb94345e8777a92b5942eecd470c9c4",
     "0bcec072202f3e8d11a513d895b2e7e16bc15493e683be5a23e5046a66fb7325",
     "5567456cf8f455e525d7795f7329ac270173c9a8f0f82253c82d2740b7463e9e",
-    "cb4b299d1f22e667bc3c75ceb9cca981f6895006631bf166053452757943d96d",
-    "4d7670528c3bc89531497ad7e90ba15c144f1d8ac8a40e14f0f7b551343cee91",
-    "4b31cb9b3c47a42c0e21a5d033e3debeffe2d2812ec59d5c8bb9f9349a8b39c3",
-    "0e742f4e80c0f40e95b706210d2cc462070641b00b8d842f2581de8b9567e203",
-    "0bd3473a36193a6440816e6171581c213bdd613f3b10d60f62336b107a2a0b43",
-    "90f5aadb49c363e1cb9df28cfd4559ac6ac73f991663cd81b6bfaa67e36aa0bf",
-    "a0b4db2e3ce553ef29d8965dc7bacce450e421a8ee76c074d7bd07695fa73579",
-    "38fe5cf772b8d79bd521670eea752e838cba4efc35b5aee4af5a035b0a220e94",
-    "deb44bce22e4c5ceed9ff5cde29a9cd8d2acbcb6093bb3ae42048b18277cc756",
-    "b1b522f45b3ab89ccd74b735345b5400559669883693b1ed6d16095f2bccaa70",
-    "eb5cd9e95c874fe0c9cabdaa724a5a60752271233aeb45f8e951da9b2e5b0686",
-    "270bb0bbf179ba94f5bb3b0a1025816781a042729e8ab85bd09fe29a040f622b"
+    "cb4b299d1f22e667bc3c75ceb9cca981f6895006631bf166053452757943d96d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
