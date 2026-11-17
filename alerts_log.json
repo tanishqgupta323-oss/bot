@@ -19780,5 +19780,19 @@
   "xauusd": "BULLISH",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Washington Post",
+  "title": "Tracking Trump: Trump in Asia; Iran dirty bomb plan; Fed officials to skip firing hearing; and more",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSm1mWW1QR2ozUmkzRnJzbnhQeWt2Zm9FakozVUhGa21lMER4Mm51U3E2ZVYtdkZleFVCZVlEV2RUem5ZcXhmM29GSUt1TTgtQWZXaXdyWTJnVG9Rb2lVVEY4Q2QxMEJsd1k2d2pkS0dzNDk3cXNKWlllOEZJYVZFVjh4WHJQVDJwcnVCZzF2cmdUckNza1FOSExIUG1TcmV3Y1FHWWMtMElDeHZ1ZXVlSHZESy1sazVJMmozVElYQWdCVFY1UzdmNXBvalZsZDViLTJHUTEyNUVBYzlJ?oc=5",
+  "published_at": "2026-11-17T21:45:59+00:00",
+  "sent_at": "2026-11-17T21:50:46.998511+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {}
  }
 ]

@@ -691,23 +691,10 @@
   "calendar_fetched_at": "2026-11-17T21:05:48.245385+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 174,
+    "count": 175,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T02:15:46.524747+00:00",
-      "t": "Trump confirms new US strikes on Iran near Strait of Hormuz",
-      "w": [
-        "confirms",
-        "hormuz",
-        "iran",
-        "near",
-        "strait",
-        "strikes",
-        "trump"
-      ]
-    },
     {
       "at": "2026-11-08T09:01:13.892624+00:00",
       "t": "Trump says 'we're blowing up the whole country' if no Iran deal is reached in 48 hours",
@@ -3691,6 +3678,24 @@
         "strike",
         "targeted"
       ]
+    },
+    {
+      "at": "2026-11-17T21:50:45.701122+00:00",
+      "t": "Tracking Trump: Trump in Asia; Iran dirty bomb plan; Fed officials to skip firing hearing; and more",
+      "w": [
+        "asia",
+        "bomb",
+        "dirty",
+        "fed",
+        "firing",
+        "hearing",
+        "iran",
+        "officials",
+        "plan",
+        "skip",
+        "tracking",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3723,6 +3728,11 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "71da5f665d7638a367cf19c43778296b6fb7bed33373b66996aab4b12d801489",
+    "bffa57c6b8e4323f31e4e710189417965248314aa014bed0e2300388071a9ba7",
+    "c8afd618b033b3bdc952bb362b069bd6352172c66e416fc2bd14892d6f17619e",
+    "bf0ed8f7bba87665d99f6789fc89e3a57d46940077b9d5ca6b916889530cf7ba",
+    "1a9d5d2114e4ae5ed31c82983f12e21525d2db77dbb43055003e880fa400bf64",
     "3537a092c3ac4009da8f60471d3578277ba91a2f8c33443f40352cded6aa511f",
     "93f644f574c4066e286c45ef0d49c64737429f674d52edd3450e888c463efaf2",
     "366690c78f46cc0a451963780e7e42eef0575cc971efd9b705c33713ef9027d2",
@@ -4717,12 +4727,7 @@
     "5a7091845a4cf12cd5827141ed6c8456081a8f7571a2ab9ae8e71dbab4bb741b",
     "ff4899ae4ad7fb4c9d376a5b2bdb0cb7096689459f271d2989a23f00e7ce1492",
     "fe96cd4e59295d536bc43ff6893477f8cae3122a63238de0750910250537cabe",
-    "f6bf30b9c214c083189651056d7633c8fd2c121b97ad810902a60a2d82294111",
-    "7d66b77b0e1dc6884cb3af1d34cfc2113d5bf7244f2dc88d17cf2665d104d22a",
-    "68e3065bc115ab2eeacde3ca2af15ec050a937f771df93c79a238440e120e0be",
-    "dceb6d7af57ea8f12924e076292afb9e6ccc89078cde3ed85aadfcb0de290521",
-    "8386fcd5987499974aab75f15e6c1e2547ad9cbe62f702daeb55345a01e96743",
-    "d4787797aa083e980eef4c87b16ffc11dd717df0cdc9fbe5e19f482f26c4d58e"
+    "f6bf30b9c214c083189651056d7633c8fd2c121b97ad810902a60a2d82294111"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
