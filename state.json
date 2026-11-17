@@ -691,26 +691,10 @@
   "calendar_fetched_at": "2026-11-17T12:01:19.389871+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 91,
+    "count": 92,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T14:23:17.215285+00:00",
-      "t": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce",
-      "w": [
-        "blockade",
-        "commerce",
-        "exclusive",
-        "expanding",
-        "iranian",
-        "land",
-        "looks",
-        "military",
-        "naval",
-        "restrict"
-      ]
-    },
     {
       "at": "2026-11-07T16:35:36.185779+00:00",
       "t": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand",
@@ -3695,6 +3679,22 @@
         "needed",
         "rate"
       ]
+    },
+    {
+      "at": "2026-11-17T14:40:43.190018+00:00",
+      "t": "Gold trades near one-year low as U.S. retail sales slow - Kitco AM Report",
+      "w": [
+        "gold",
+        "kitco",
+        "low",
+        "near",
+        "report",
+        "retail",
+        "sales",
+        "slow",
+        "trades",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3727,6 +3727,10 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "b249a758a96ba721fc742710dd749858e028f97749ee7da3c605ee7ebedc4199",
+    "f4f98c4c748c747284392749647728d06ce1f12174d5c87285f890501a840158",
+    "27b97a6511a297efeb89123418f07faa4fd95c1c3cbd70a83ee752b0bc7dd31a",
+    "9b6763c27e6f97391c783539e784dcb62026f7b73cd432cd14ff5dae7146126d",
     "acd25855254ac3e4a8a0d064727c2ce7419dac0a8dfdcc709fee97ee2fd00a0a",
     "d9be817ffeeedcf8cfa65dfc5c7d912deb44c13bb6cc25180b17e307949ed7ab",
     "bd1f8580eeb9e4ddeb91bca491efeb929d176818e9707c11c906f69648669d39",
@@ -4722,11 +4726,7 @@
     "c690d85be8856c2d20a400471104c7e4f396e6808e992666b8ea59f6031c4882",
     "1844aaff21cc1d68662ac65ce7c0dcfe2c2a1b592843e3e377d9301a93dc755d",
     "ead1bbfd9a1db2972b241f6a120794652a6650f85a2904c390d31285988d6fa4",
-    "88030564646edc09b4f9f70a0965de7905aa3d1b54c4989182cfc1353d476f4b",
-    "8090e938e739b96fabec6629343d7e2e2948a95c549b52973e133fdb75ec4dc6",
-    "e4f2eb1bb04fcee6b4866db693138fcbe02ba9d7deb353c57d0a7500e0da14a7",
-    "7738b61834c79c990020fee7206dae9f2d53fb2edbcbb04d377ed1fb3b26e37f",
-    "72d3a2f2874cb283ff97647c396295951c4145b8cb6668fa95b9c477fe3a1dde"
+    "88030564646edc09b4f9f70a0965de7905aa3d1b54c4989182cfc1353d476f4b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -19576,6 +19576,32 @@
     "EURUSD": 0.0549,
     "XAUUSD": -0.179,
     "BTCUSD": -0.0427
+   },
+   "60": {
+    "EURUSD": 0.1759,
+    "XAUUSD": 0.288,
+    "BTCUSD": -0.0811
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Kitco",
+  "title": "Gold trades near one-year low as U.S. retail sales slow - Kitco AM Report",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNVBMcGpQbmJMNUNTUmt3NkVvVm1TU3JGZ1lEVDFZeXB3cjdsb05lckt1NDAwakNiaVh0cDdYMHF5WGU3VDV6NUE2NXlCZWFFTEJRSUNSN05HRTM5aXJDV2ROTktwbWFCRmZPVjZpM2YyNnhPVmNYVHoxT3Nyb0huY2xrSWRjRTFGNlp3SkJwUFRfdTBrUXFGeFBha1hvUDVZeW9WaTFXRmM3TVlCTWNNa2JB?oc=5",
+  "published_at": "2026-11-17T13:54:57+00:00",
+  "sent_at": "2026-11-17T14:40:48.367457+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0989,
+    "XAUUSD": 0.1817,
+    "BTCUSD": 0.015
    }
   },
   "checks_base": "published"
