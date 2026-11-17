@@ -689,7 +689,7 @@
   "calendar_fetched_at": "2026-11-17T12:01:19.389871+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 61,
+    "count": 62,
     "day": "2026-11-17"
   },
   "recent_stories": [
@@ -4811,7 +4811,9 @@
     "744b11be0b4d7d9130c1bb9b:60",
     "dc749ccbc67d7658177dec45:60",
     "744b11be0b4d7d9130c1bb9b:30",
-    "dc749ccbc67d7658177dec45:30"
+    "dc749ccbc67d7658177dec45:30",
+    "744b11be0b4d7d9130c1bb9b:10",
+    "dc749ccbc67d7658177dec45:10"
   ],
   "version": 2
 }
