@@ -689,25 +689,10 @@
   "calendar_fetched_at": "2026-11-16T23:55:33.705273+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 167,
+    "count": 168,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T00:50:42.408800+00:00",
-      "t": "Two missiles struck Iran's Qeshm Island after aircraft heard above - report",
-      "w": [
-        "above",
-        "aircraft",
-        "heard",
-        "iran",
-        "island",
-        "missiles",
-        "qeshm",
-        "report",
-        "struck"
-      ]
-    },
     {
       "at": "2026-11-07T02:10:45.732421+00:00",
       "t": "US military carries out new targeted strike on Iran as Tehran's leaders weigh mediator's proposals",
@@ -3693,6 +3678,24 @@
         "weigh",
         "year"
       ]
+    },
+    {
+      "at": "2026-11-17T02:01:18.082735+00:00",
+      "t": "Two more Fed hikes, then a long pause: Goldman reads a third hot core CPI print",
+      "w": [
+        "core",
+        "cpi",
+        "fed",
+        "goldman",
+        "hikes",
+        "hot",
+        "long",
+        "pause",
+        "print",
+        "reads",
+        "then",
+        "third"
+      ]
     }
   ],
   "resolved_events": [
@@ -3724,6 +3727,13 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "40f0e84e378edb25b4f8e7331491072b73f4e137bc853d6c957d36b82a74d749",
+    "a67a33700c277a8384d6d24d2e7f0091378fd4f7e4f298523ed8cbfdf3b4e9ae",
+    "ad49b6d1a89b0eaa392b78ed87bce26a2c037d26f88e3d63fe75042be632bbab",
+    "3094464ef535896afaf0e41bd43a6fc9a49f6a110a9afd7905af33a30ad7d08d",
+    "3e27df891de5c970fa66d67693c2a2e33fad64ef477b5c68e1aae8262a973956",
+    "4afb10adaec6d08bf0991a4f4f2892947f6898d240457fb15fe80cb9899814d2",
+    "8c56e65308992e255fc81bfabef5d3482a0c2b7252c67c1acfd941b4cf86ded6",
     "a5f01fd627ab24279c6061c5a0347e5457d59dacf5d2ddd4a512d736a3f6c190",
     "524087cb69bb02f99a2fc470a18e2c069f848afa023d9810206fffc4c88b70f9",
     "1f631963d19aa8f792fb9c7bc522c2b7b4f740d98bfa6d7b8a0006a7a75cea5d",
@@ -4716,14 +4726,7 @@
     "54491445cf278e46d0eef70b6d68070ada8cd66d3e0e927853154631e19babba",
     "b3c6213edb21bb4b62a6535118ce0182379a65d611e1d6d3b3b524d5037888e9",
     "2004d0d630f55f47d43ca5535a505ce3b21e35a4a99e7a07c4070a264394a096",
-    "3105dedbec207392647645af19300b9cecda20f961ce900fe6498d19a5581cfd",
-    "4b1b47e25f64824c1a625d4c60ef6de792a90762e0a25d8da7d385973a121d5e",
-    "5a1b53c2d93841ec3ea127b2b8b8cdd9be7715bf0166d449048ad6e9f6f210b9",
-    "c46b409c6eb909eb540455c367ebad0f823d7d9dfd44521534554b109758259f",
-    "1f84e05b444e27a9bfc24e311dda836bcdf667666a54cb2c7d09bfc8c8b9e7c8",
-    "789fd208e0d299702159a9c957fddd254fb5b5b990d11e24ea4baff650415ce9",
-    "eba1ccb6222b823ffb744dcc51bce57186882fff81d25d0138e90db00e504f09",
-    "3afb835e74f4f34617df7e3904ca9db40842e25e22634c99a0dd0457defde6cd"
+    "3105dedbec207392647645af19300b9cecda20f961ce900fe6498d19a5581cfd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

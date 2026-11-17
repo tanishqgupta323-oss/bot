@@ -19312,5 +19312,19 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Two more Fed hikes, then a long pause: Goldman reads a third hot core CPI print",
+  "link": "https://investinglive.com/central-banks/two-more-fed-hikes-then-a-long-pause-goldman-reads-a-third-hot-core-cpi-print/",
+  "published_at": "2026-11-17T01:55:12+00:00",
+  "sent_at": "2026-11-17T02:01:21.780381+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
