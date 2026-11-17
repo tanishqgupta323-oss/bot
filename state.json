@@ -691,23 +691,10 @@
   "calendar_fetched_at": "2026-11-17T21:05:48.245385+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 172,
+    "count": 173,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T01:31:02.547846+00:00",
-      "t": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
-      "w": [
-        "flipped",
-        "iran",
-        "missteps",
-        "overnight",
-        "trump",
-        "war",
-        "washington"
-      ]
-    },
     {
       "at": "2026-11-08T02:15:46.524747+00:00",
       "t": "Trump confirms new US strikes on Iran near Strait of Hormuz",
@@ -3690,6 +3677,20 @@
         "rate",
         "top"
       ]
+    },
+    {
+      "at": "2026-11-17T21:40:45.484472+00:00",
+      "t": "US Fighters Strike Iran Missile Site After Base in Bahrain Targeted",
+      "w": [
+        "bahrain",
+        "base",
+        "fighters",
+        "iran",
+        "missile",
+        "site",
+        "strike",
+        "targeted"
+      ]
     }
   ],
   "resolved_events": [
@@ -3722,6 +3723,24 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "4955dd4a19a07f120dc79dbc3b4f43c43b1b4c4cb7d7be5423a84c0048646389",
+    "467f1ca0d55edc219f34b4c6ec363350da790b6f9117b069a8ae7511201e0dad",
+    "09587a1c517c1eb122c86de381aed48a6317f9c68c5e10c779e138d2477204c3",
+    "4c82b1e23701d294565ee86bce73fbf1ee2bc017ce62db5fcf503fe62b687e7a",
+    "e2f793d13a8f3c655c42c525db8966956a1e0791218b3994205ae9baeda701ae",
+    "fccf63df957ba95e82af8ae762e4bb09b02eeb33fdff7ff3ee338854bd8f70da",
+    "5532663906c902922a53272e8c5093fd511a2bf2c52a859d4983a8d19471801f",
+    "7c4da0b859134686c456bd923c1b9541750fc6ac48afe1a644d07e5704e03c6a",
+    "66a63e7a97929c14f6451c995692bf06e4331a7cca497d71551e8f6ef3d5521d",
+    "df5b97c366a5dd6545c7e0ae0c99a686f1d51ed002c1d198157d47c5c219a9d9",
+    "3fbe856e2f994760fae38b231db6c1db9833edc26458b79dd103f23b60b0c263",
+    "412903caaa53d92984460880b4e91ab823aff9b37a03dbf0585566c65065dfd0",
+    "a9672612a3d17e9a1a63075c258ce6fac95a8785e6cbfcb49a2c60f6a9af3776",
+    "b287304590cd80ca42aef258500ccb4de24edaab3f4986ba8b82a0db866b6395",
+    "5b204d6324e3efb856e16296670fff64e5f6540241fb0d88311699710613fbc3",
+    "76261dc825af1cf053b1a9e0958182e7035e0ec66a3e81877fa5bbdac5a07587",
+    "5e027b49e4b4047adcedfaf3762848d43c26808660fbc585a5c373c88fcf5f10",
+    "1a39657520099336c259cce1e5de220477bde2a1b8219fa553dccd5569744b6e",
     "10586db10f2b6dd9a4286018d668c54488e0eed72739ef0043d302578fe47d05",
     "f67efeb276711c355d3dfeda4f76a984d103f1f8ea640f29afb78c8c1ea839d7",
     "242fb4dc0e97e8fc54a4c1ca4be0daacf6c229e8c4229b333caaadb54752b51e",
@@ -4703,25 +4722,7 @@
     "7d3d72bc70147757b105d59c57f4f5d5a5a0dfb5fe73c4a39e6814479abe6c67",
     "a50841b3f273f766887e03369dfa35b4c53b35a217998c965c772225cba0edd1",
     "cffab9bfaf2d9dd626365194dac33454a420cb246c3d6d0feae9365e606d52f4",
-    "d2f6760aad7e38ac62c0a545bfc57dc1ee8e9d53e1672b7f40d4dcface6b07a7",
-    "c35e2d933a997a690ee7c7749466abfbde3aa41490e759363676473b4ea83d4f",
-    "3e5ead27ba5ad0203e6bd135407300a6eaf4f7c92a5da49f6d21541764c0a8b2",
-    "e2ee130a3216df1f27bdb18f5b42bc816976a50b6e23f2a9ba270cd6897ea7c2",
-    "ef2390b371513d2ab5b9c44f8de275c9017ba49d1b9ff88233a9376540b3942a",
-    "7490e856b339977ada68f36a8ae63fac052002b5b42d1d86cf540dfdf65d3bc9",
-    "c80751cfaa5751bd6101f76f589092c274b68fbad3e8835f23a48b379562b4aa",
-    "5681887d71e4c63d10b99390e228483a83c8498f93a6f77c9d1f97c7c46f4ce9",
-    "c91f1c79312011f50da171c00e261dda82d69577f18bd1c62ec5ac107a4ddf73",
-    "be411214dbe9c23d48e7bbcd124554b408b1adf878adf87e686e8cf994af0422",
-    "6028a16f4105a7ad86042713d1ef131f62589320832c7ac0ac414c872897eb36",
-    "3cb88779de2f8aeaa823b03b8258b76e94634a7178ef0fb851809c636169bda4",
-    "86f6bf1064b3ab10549f1149c5d97af146efe1a4a03d70b65eff77da5249f7ce",
-    "40f6770dc3d060fcd2212ba31c132ec033470ff1bdd522319ef0166b2da5e8f0",
-    "9653f89270565825dd14885324281319ba2eaee68e69939f68c45b5151130205",
-    "459252f5e2182c83218aaf0df6464d5721e974097755f05f644ebc7497041233",
-    "46e169f6fdd765a5131e920b3ea17a3ad86bc33756c0e4e82d3afdf90370393d",
-    "efb288b653b21efd3f298d32f83192e334470fc94d1cfd16903586b81b67f487",
-    "e22f38bf5d9739faa11c3690446f8bd51802366ac81a0a5c211638602a24d776"
+    "d2f6760aad7e38ac62c0a545bfc57dc1ee8e9d53e1672b7f40d4dcface6b07a7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

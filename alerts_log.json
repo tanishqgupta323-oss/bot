@@ -19766,5 +19766,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Air & Space Forces Magazine",
+  "title": "US Fighters Strike Iran Missile Site After Base in Bahrain Targeted",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QSGpPTC1WS2x6NVVQZXJ6aWFhdHd3OThSbU5WSmlORzh1U0lBUHdtQ3A1dldHVncyT0tERDdxRGpLTUVfWGhTRk1ua2hKYzdqSUlIVjFLYURxVGctSHBsYUxXOElLQkJxbk1DaHVWQlJrcmFQTV9WemZERGFoVjA?oc=5",
+  "published_at": "2026-11-17T21:36:55+00:00",
+  "sent_at": "2026-11-17T21:40:49.506881+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
