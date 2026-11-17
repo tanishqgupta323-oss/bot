@@ -691,27 +691,10 @@
   "calendar_fetched_at": "2026-11-17T12:01:19.389871+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 92,
+    "count": 93,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T16:35:36.185779+00:00",
-      "t": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand",
-      "w": [
-        "cuts",
-        "demand",
-        "federal",
-        "forecasts",
-        "gold",
-        "goldman",
-        "hawkish",
-        "price",
-        "reserve",
-        "sachs",
-        "weighs"
-      ]
-    },
     {
       "at": "2026-11-07T17:20:44.975857+00:00",
       "t": "Binance CFO exits days after catastrophic $6 billion crypto hack",
@@ -3695,6 +3678,22 @@
         "trades",
         "year"
       ]
+    },
+    {
+      "at": "2026-11-17T14:45:45.388024+00:00",
+      "t": "Trump says government takes report of Iranian plans for dirty bomb ‘very seriously’",
+      "w": [
+        "bomb",
+        "dirty",
+        "government",
+        "iranian",
+        "plans",
+        "report",
+        "seriously",
+        "takes",
+        "trump",
+        "very"
+      ]
     }
   ],
   "resolved_events": [
@@ -3727,6 +3726,11 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "4a6577be68162c805fab9f47313716b34b52fc1f0c8a836a2fca4cb0bec636f1",
+    "4a149ba79597b106d1631e2dd6feebde1bc1daec1a46b34f47e3ce222d08a2a9",
+    "9522fe68112c57aaf2ecee31d16d37e243fd249613ba43bbd6cd57bab643284f",
+    "9e540dc689b4d6cf43cc75846720b74c3950877f95c35b0da86a1b37b27677d1",
+    "c6290765016118ecfc7c592ee71b13b910eb961f635f464ccdc334a3f4d79e25",
     "b249a758a96ba721fc742710dd749858e028f97749ee7da3c605ee7ebedc4199",
     "f4f98c4c748c747284392749647728d06ce1f12174d5c87285f890501a840158",
     "27b97a6511a297efeb89123418f07faa4fd95c1c3cbd70a83ee752b0bc7dd31a",
@@ -4721,12 +4725,7 @@
     "3609f3f07b4b5567e19f505064fff9a37e0e309fef12a1a2111cc72ee28465e1",
     "4ec78ebc415425a4a68e16159a0d4bacd7b2cad5592fc9e4423de456d6e9ca75",
     "e0e66d15342ea053cd3c7711e184a32114543e5ca2b4ca9e770f2787d92034bc",
-    "4532dc05ff6ba9e297cb8d6e7e4f999400372b21e4a7e5da92209890bae8d3ba",
-    "94bcee1d341dd68762980f64feb526446b4f3144afb01827b3c47f2251126151",
-    "c690d85be8856c2d20a400471104c7e4f396e6808e992666b8ea59f6031c4882",
-    "1844aaff21cc1d68662ac65ce7c0dcfe2c2a1b592843e3e377d9301a93dc755d",
-    "ead1bbfd9a1db2972b241f6a120794652a6650f85a2904c390d31285988d6fa4",
-    "88030564646edc09b4f9f70a0965de7905aa3d1b54c4989182cfc1353d476f4b"
+    "4532dc05ff6ba9e297cb8d6e7e4f999400372b21e4a7e5da92209890bae8d3ba"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
