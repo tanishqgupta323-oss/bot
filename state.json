@@ -1,8 +1,8 @@
 {
   "actual_attempts": {
     "5dff3c1af11acb7758d1e8b4": 8,
-    "744b11be0b4d7d9130c1bb9b": 2,
-    "dc749ccbc67d7658177dec45": 2
+    "744b11be0b4d7d9130c1bb9b": 3,
+    "dc749ccbc67d7658177dec45": 3
   },
   "calendar": [
     {
@@ -691,26 +691,10 @@
   "calendar_fetched_at": "2026-11-17T12:01:19.389871+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 70,
+    "count": 73,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T13:20:48.733532+00:00",
-      "t": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
-      "w": [
-        "imposed",
-        "iran",
-        "lifted",
-        "limit",
-        "mideast",
-        "missile",
-        "news",
-        "other",
-        "ranges",
-        "self"
-      ]
-    },
     {
       "at": "2026-11-07T14:23:17.215285+00:00",
       "t": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce",
@@ -3696,6 +3680,21 @@
         "strike",
         "tensions"
       ]
+    },
+    {
+      "at": "2026-11-17T13:46:16.162274+00:00",
+      "t": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+      "w": [
+        "coming",
+        "fed",
+        "four",
+        "hikes",
+        "louis",
+        "months",
+        "musalem",
+        "needed",
+        "rate"
+      ]
     }
   ],
   "resolved_events": [
@@ -3727,6 +3726,11 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "8111404a413dc70227c429ba656490b0786f441f03e8fc539f395c0be118998e",
+    "795246cbba8a1a395222d717a788c5055c3776929723befb92eaa64803ffb853",
+    "8f8a6db78b4e38df11f58e490bbbdac3cdd5c11377a023c4b94cfb89065582a5",
+    "367ef2d495a210daa324919cd388bbc7745771364bb1922e3bfd471fdcd20bf8",
+    "5cc53cd878ca6396c030be85367e674f507b82b44959843d62acb072a48ee1fb",
     "d8c0ebae284aeed696299b96ab8744fa548f018219ddccbb684d1c30d2dbe7a5",
     "d0e8d1d7f2784aa5c2ad0a03bd103e191e8cf00601997333d656a9d89d5b822f",
     "b92fd5be155ab84dffa6300925d149cb720f3108c9d4855869984438c22f4bf0",
@@ -4721,12 +4725,7 @@
     "efb3bd5bc90ccf82779a09f1bf9e6c7a9a8755d1f4a520411c97ef36ae667e1c",
     "f3cd2e028551ac4cee8b63b0633f3f31e9bf7006880bd8bee3134db1ce2f06fe",
     "55a366be53c39fa2b52122c8a7b80f528585325c17bde7a506dff892251ddff2",
-    "604ecd06b1879905c82767506661ba043b533b4221691f29a203dfebe9d5f9fb",
-    "c8b7ccf1c6e267de2ed1c508455611c67d14e20c582c8aed04222ad52381b2fe",
-    "ed10e994d658c81f1ab5536553d74016d74869275ac8b1a99fe34bc45492d8aa",
-    "f45ec80b03444652224883739971f34a960921aeebd6c1797d6b6d08973b1fab",
-    "2064c5a152bb3b53319b035e1a1b0ccb2413831d1a0dd25e9a652e374b616687",
-    "95a1e9b8c032ca6e19ace64a2ff67938621631fc01303d3f29d15a9ebd24adb5"
+    "604ecd06b1879905c82767506661ba043b533b4221691f29a203dfebe9d5f9fb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
