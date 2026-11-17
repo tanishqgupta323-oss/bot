@@ -19423,5 +19423,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Time Magazine",
+  "title": "What to Know About the Threat of a ‘Dirty Bomb’ Amid Reported Iran Plot",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlJVRVRIRG9Ja3F0THhhR2FqOGc3RExuN0dZcnB3X1YxUDFTVDRtSkc3TWt6cDh4Z09zWU5Fd0N3TEVzMHhnNzFmSV8xYkdKZHdjdVJZOEZJbXdXS013QkZVSkJvN2NiQTBNbVhDRV9jV0p0Y3drMS1EZ3RhSngyMFNYMzRLT0J0VnlNaWdLZ1BzOXZGRW05b1Q1YmwzTklEazhwMzJjNVlWSVM4QlFCWGNkWQ?oc=5",
+  "published_at": "2026-11-17T11:00:00+00:00",
+  "sent_at": "2026-11-17T11:05:59.058703+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]

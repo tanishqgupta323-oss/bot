@@ -689,28 +689,10 @@
   "calendar_fetched_at": "2026-11-17T09:01:15.113090+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 34,
+    "count": 35,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T06:10:44.030023+00:00",
-      "t": "World in Brief: Stephen Miller to become Trump’s chief of staff; Strong jobs growth in America",
-      "w": [
-        "america",
-        "become",
-        "brief",
-        "chief",
-        "growth",
-        "jobs",
-        "miller",
-        "staff",
-        "stephen",
-        "strong",
-        "trump",
-        "world"
-      ]
-    },
     {
       "at": "2026-11-07T07:10:45.242942+00:00",
       "t": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
@@ -3695,6 +3677,19 @@
         "targets",
         "third"
       ]
+    },
+    {
+      "at": "2026-11-17T11:05:36.717553+00:00",
+      "t": "What to Know About the Threat of a ‘Dirty Bomb’ Amid Reported Iran Plot",
+      "w": [
+        "bomb",
+        "dirty",
+        "iran",
+        "know",
+        "plot",
+        "reported",
+        "threat"
+      ]
     }
   ],
   "resolved_events": [
@@ -3726,6 +3721,14 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "d446ac652396426640f40d62c9910ec1181be7e0f8d4960d2ced060940b8f6c9",
+    "1fcf3bfc9565a151720e9a6f459d0847db6c485b669de59922af5ab17022328e",
+    "06f774a803e18c68493f88ec740187d170e70f912b81c8af9f038deaba17b960",
+    "02e152584bf2a282533f97d5201d8c08136e7090239bd3a7bc1eb6ed0d27f912",
+    "40992a812b29c2a1145378aa8c07873bae2bba02c0b743b256f0638337f8555e",
+    "fa61b3ae91ba296eaaf67251c4a16d09a7af5fce02dbb17d41dcb0d5e7c969a1",
+    "9d40aa2244037014e1a2df25fb7e0cfad7a828a9603d87bae14a8246f6f134d6",
+    "16e62c2badb11d9eb5a7d6ad37cbe9b7064c6f8ec1df01ff71dc7018832e9fa4",
     "4d5f03bb5598a086eb2d4c24e0b821435995476490b2c00f98dd489eb2e28656",
     "4c6ad28e91ca8811cb85374e4a612cdfdbe22c06b6f95414ca1f9c147e22f1b0",
     "e9cb9d88467df246fe22d88f82b5815348c3231854f65e7357b8cfec51f15d5c",
@@ -4717,15 +4720,7 @@
     "68535f105097b937376e4c820e9b9135635210c0f1d528700ddbf6342864ad16",
     "79adae10604e5a79d04a4ab3823708483bda9e8ef32a597c5bc92518bff8f180",
     "d0a8a9b2f28171b48cdbbd6f06b4e6c22cdee956c725d5044416fef9ad5f00fd",
-    "9e27a4ad96b4241ed11986345a96ae138de8a2ec89689769311e1cf4d4af8c02",
-    "d148f83754fd7e7624f733c381f98510667d92e7b855ebd88a89651e0f26ea59",
-    "008290690108942b68cfde0e01df49084f15e10ef5701e966c4a46553f010f0b",
-    "ccfe5792d67d01643f3d40e6eab8136d9871e569f4312914d2ca064f00cb722c",
-    "37f0b7d551cc33f2abd57eebe61b99dc21c2e84add2c838f94e0abef293ca1c9",
-    "3b8072a820b46cbd3e5dcbba4224196698b732cf4fabc356f2a1386c9fedd31a",
-    "f42364bf360127cfe75caf3b8860ec7751e0d14cd3a1a6ad560ecf05f59fa19a",
-    "fa79f4366e98696d35dfe920db2ab1317bb6a4a7fabcc3410d5b1c5638f66c36",
-    "fbcc756a449eff0036e301a7219033b28b35079f553dad1982419cb028e2e96d"
+    "9e27a4ad96b4241ed11986345a96ae138de8a2ec89689769311e1cf4d4af8c02"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
