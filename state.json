@@ -689,26 +689,10 @@
   "calendar_fetched_at": "2026-11-17T06:01:14.567961+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 223,
+    "count": 224,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T02:10:45.732421+00:00",
-      "t": "US military carries out new targeted strike on Iran as Tehran's leaders weigh mediator's proposals",
-      "w": [
-        "carries",
-        "iran",
-        "leaders",
-        "mediator",
-        "military",
-        "proposals",
-        "strike",
-        "targeted",
-        "tehran",
-        "weigh"
-      ]
-    },
     {
       "at": "2026-11-07T03:10:45.645250+00:00",
       "t": "Russia launches ballistic missile attack on Kyiv ahead of Abu Dhabi peace talks",
@@ -3696,6 +3680,21 @@
         "then",
         "third"
       ]
+    },
+    {
+      "at": "2026-11-17T07:45:47.339616+00:00",
+      "t": "Bahrain thwarts drone attack, Iran claims targeting US military radar",
+      "w": [
+        "attack",
+        "bahrain",
+        "claims",
+        "drone",
+        "iran",
+        "military",
+        "radar",
+        "targeting",
+        "thwarts"
+      ]
     }
   ],
   "resolved_events": [
@@ -3727,6 +3726,20 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "c80751cfaa5751bd6101f76f589092c274b68fbad3e8835f23a48b379562b4aa",
+    "5681887d71e4c63d10b99390e228483a83c8498f93a6f77c9d1f97c7c46f4ce9",
+    "c91f1c79312011f50da171c00e261dda82d69577f18bd1c62ec5ac107a4ddf73",
+    "be411214dbe9c23d48e7bbcd124554b408b1adf878adf87e686e8cf994af0422",
+    "6028a16f4105a7ad86042713d1ef131f62589320832c7ac0ac414c872897eb36",
+    "3cb88779de2f8aeaa823b03b8258b76e94634a7178ef0fb851809c636169bda4",
+    "86f6bf1064b3ab10549f1149c5d97af146efe1a4a03d70b65eff77da5249f7ce",
+    "40f6770dc3d060fcd2212ba31c132ec033470ff1bdd522319ef0166b2da5e8f0",
+    "9653f89270565825dd14885324281319ba2eaee68e69939f68c45b5151130205",
+    "459252f5e2182c83218aaf0df6464d5721e974097755f05f644ebc7497041233",
+    "46e169f6fdd765a5131e920b3ea17a3ad86bc33756c0e4e82d3afdf90370393d",
+    "efb288b653b21efd3f298d32f83192e334470fc94d1cfd16903586b81b67f487",
+    "e22f38bf5d9739faa11c3690446f8bd51802366ac81a0a5c211638602a24d776",
+    "e821d2c380f900490ab59afc21cd7fcb95b2bada75071e96428a0be7328c8a2d",
     "b2c62ff3777187de53da256f33a6aedba79474e3b8a614817b0866ae685dace0",
     "8d2577ab4dc2ca3d7e9365e1f68a74eb34d3012888ab692c2123cb0dfcd29df6",
     "8893c9072b065dd6231c477bb1b88eaee45f4186fa672436d1304bffad1843c0",
@@ -4712,21 +4725,7 @@
     "3c03bb24b0bbb4a06edb6345c2aae003be69bbfe991eeb2641c7cdc6131dcdcb",
     "77bd05e6f185db5f6d6443b7cc5a4a1624369b175ced89297fdcca6bce754968",
     "87eae49c72e8d7648d77c7921525abed3db4510a02db3f0e98c47c60c5215475",
-    "fbc51fed10d93050d4e50ca45600e12bb34927e0f756ea3d669adec7460ebfa7",
-    "11da22d0e12d71262015e54827099a038a32b9841d710e55bbeae0b535180b24",
-    "e6154d0ce54f8801bc34bc01ca3af1161322c1da7b05c10a74dbb29db5f3fcd2",
-    "ecf15232df6a57e9dca94a8c5a96026374d36866fdd3b2c8b70468c13bd84ab3",
-    "8a66812c753a65165cd349783093d86d55e09f68e8345890a9dd7c8fbdeb9fb8",
-    "5b01832f0c30adcd184292684195f44788fd2cc8c9fec19cc7e7cea9d6984713",
-    "7b83666132474d834028849436128dee25df4b03e307e1c01a1c610d511cad81",
-    "94c466e8cb29ecae0cf3440aebed926fd9076c21590e4c0630c00aa2e5f517b5",
-    "a0aa604f01ac9213d0dac4a47c55204014306d307b858069373512b3f6e7e6d0",
-    "62a47cad0e9d0d384d6b5811ccdd5d5c755aaeae1ce709e65f7b34e7639795c0",
-    "7490e856b339977ada68f36a8ae63fac052002b5b42d1d86cf540dfdf65d3bc9",
-    "51f787af51a5e8a45be16186f6911940f696becb34f07ca7da7367e84e3d4447",
-    "bd0f051bfdc458c4883eddd1fe9ded62806da4cb04e82882184f129349e9bffc",
-    "c509484b02318021f9b68a4e04ac7d84fcf0ba80919fb8959b093d2dc7be0587",
-    "dc5e91085b109e0311055d3e176e6b3755c5ad549a2c4c7227f76b8db01b1fd6"
+    "fbc51fed10d93050d4e50ca45600e12bb34927e0f756ea3d669adec7460ebfa7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

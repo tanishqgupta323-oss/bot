@@ -19350,5 +19350,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al Jazeera",
+  "title": "Bahrain thwarts drone attack, Iran claims targeting US military radar",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGZCQzBNWXlsNkJNTHdKVzdUSG5PdWR4eFkwZ0VGQ2pGN3BYUVE1Qm55YWg2ZTVMRTZvWjFqRUluUzB6NGUtTWZDX2R4bThna3RQTVN4OUJPSW93WHhlZDRVcVhnenJLd0s0clp2aEh6NEtkQmJ3bG9JcWVHT3picVZzN0dYaWZrSlZwUi1USmttQm5RTHp4MkZydzl6RU04NUl1bzdEd0p1X084eFpJ0gG0AUFVX3lxTFBtSmI2V1R4aXp4WUx2TTNSU3BsXzQ5VnI0M2NiZnVleUNQOEdidnFXOEJ1emxyZ0pGWDVmYS1mX3htRF9kRElQOWZZMTRqdEk5WHBhUkNRN3BGV2F2U3Frd3l5LVFqY19vbmFXNkExb2JPYnNQTjF6Ry00cE5MTjQxYkY1YXM1WUF5UGtHN1hLNVhYUjRkSlFuajlGcFNQelItbDdoV3dyOWptQ09XOGx6Mm9FUg?oc=5",
+  "published_at": "2026-11-17T07:38:07+00:00",
+  "sent_at": "2026-11-17T07:45:51.843394+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
