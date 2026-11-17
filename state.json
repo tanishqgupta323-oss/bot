@@ -361,7 +361,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "65d884eb193510f4541571f8",
-      "forecast": "-2.1%",
+      "forecast": "-1.8%",
       "impact": "LOW",
       "previous": "-7.3%",
       "scheduled_at": "2026-11-18T15:00:00+00:00",
@@ -372,7 +372,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "f762abbfa54c322e95ad6ba8",
-      "forecast": "-",
+      "forecast": "-0.3M",
       "impact": "LOW",
       "previous": "4.7M",
       "scheduled_at": "2026-11-18T15:30:00+00:00",
@@ -688,10 +688,10 @@
       "title": "FOMC Member Cook Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-17T12:01:19.389871+00:00",
+  "calendar_fetched_at": "2026-11-17T15:01:21.606362+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 95,
+    "count": 96,
     "day": "2026-11-17"
   },
   "recent_stories": [
@@ -3726,6 +3726,11 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "2df694eb5f86da8526b28c17b30a8914d05ffc68c03d06212b4544860e9e2a33",
+    "b5ea152b07a3040070b9ec13f7a88dbf595e6b5f8a5df2773d50d2e25a46b9a5",
+    "3343017e412c170e86fbe17bfb55c25b26877959aab9142e314041ae8dc48c30",
+    "0f472014abef0dd5f5cc48b2b18f866a5735b7882f9e2a2742f60dca71f4da2a",
+    "e0e66d15342ea053cd3c7711e184a32114543e5ca2b4ca9e770f2787d92034bc",
     "31f92aaee774892a577731cb129420cb16eac42e5def5914e9dfe20796bcccad",
     "5e353def4e32dccbe691385e426973abc69473be147f3c46097067112bc89524",
     "7845c1382efe8b31a9e78b0727bbd5a94d876ecfd2af94fd059e5acdf7a501be",
@@ -4720,12 +4725,7 @@
     "df73be30a7f8513aab4c135151e77b69d81818ec26e875073a01bac2b7897057",
     "9811bcc5c5d75dd29d834893256f7ea60669a2f258b903bad598995c7c60a1b6",
     "18730ed61796a8280a4f8bf1e2acb366771eaaf85f42cf7307da6317e9a57549",
-    "0bd6b064f658e4f3a1a8a5508ccc669dff605210731c75e6601e6015066b99ac",
-    "d1e5e606cb0dd7b2af0da2f403beeb4c4a4f09564cabfd5a7b1443c6f6cb6ed6",
-    "8af6591bb043ee00ddf843ddeda690e0de379d54f84e8fad1a101e1e713d52c7",
-    "8526ce252fba25dcd1c52738cb78c12d4a3100212b35dff46956aa478d7e9d03",
-    "ad699481f89a2222a115ff00d75646d03911e8de49b1f403e60c8912cf624ac2",
-    "7f5dba37e410d85a0c06b4fbb356676ab4397f6b4dfcbba80589a16170c90047"
+    "0bd6b064f658e4f3a1a8a5508ccc669dff605210731c75e6601e6015066b99ac"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
