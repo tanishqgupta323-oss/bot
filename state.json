@@ -689,24 +689,10 @@
   "calendar_fetched_at": "2026-11-17T09:01:15.113090+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 27,
+    "count": 28,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T05:15:42.320996+00:00",
-      "t": "Iran shoots down 2 US drones as Trump announces ‘minor’ strikes",
-      "w": [
-        "announces",
-        "down",
-        "drones",
-        "iran",
-        "minor",
-        "shoots",
-        "strikes",
-        "trump"
-      ]
-    },
     {
       "at": "2026-11-07T06:10:44.030023+00:00",
       "t": "World in Brief: Stephen Miller to become Trump’s chief of staff; Strong jobs growth in America",
@@ -3695,6 +3681,20 @@
         "warns",
         "weapons"
       ]
+    },
+    {
+      "at": "2026-11-17T10:31:01.138327+00:00",
+      "t": "A 2-month lull ends with Iran’s third strike on US targets in Bahrain",
+      "w": [
+        "bahrain",
+        "ends",
+        "iran",
+        "lull",
+        "month",
+        "strike",
+        "targets",
+        "third"
+      ]
     }
   ],
   "resolved_events": [
@@ -3726,6 +3726,9 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "2082eb69d0205bed169beae14494730384a05bce16182a9957a7896597dca4c2",
+    "4dd722eb1024cc09d697a9c06b123c28da958968fc28912fa2ed4cbf7329de1c",
+    "6a6f82e8bd0b4ab7bdf5948f458f7b1bca404400b8199f62d1393155d3e16e79",
     "0c8fe162e3b40e007a1ac40a5cc897b1c687ba7a6780fb1be9ad318ace326558",
     "705b5b894ca2635f06a8511e6db1cf5cf41989a3185641205ca84683b533eed2",
     "4d3b958a41ec5f5e15b9570999904dedc9cb794be357f9137969223770c5ae60",
@@ -4722,10 +4725,7 @@
     "d148f83754fd7e7624f733c381f98510667d92e7b855ebd88a89651e0f26ea59",
     "008290690108942b68cfde0e01df49084f15e10ef5701e966c4a46553f010f0b",
     "37f0b7d551cc33f2abd57eebe61b99dc21c2e84add2c838f94e0abef293ca1c9",
-    "967aa1cc63d6f6ae27f731c45eb89090b6b246431d62b6661a09d0ad9099ad8f",
-    "3b8072a820b46cbd3e5dcbba4224196698b732cf4fabc356f2a1386c9fedd31a",
-    "0da103bd31a947747bb888f7b8b6d05d72c69e7631872dac6589c394dd0f479c",
-    "1c78b2e6e3ced9f6c0e8c45cd4709ba8a6b3c181328079ccb7aabbb3b1d1d9d8"
+    "967aa1cc63d6f6ae27f731c45eb89090b6b246431d62b6661a09d0ad9099ad8f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

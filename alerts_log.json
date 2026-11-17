@@ -19397,5 +19397,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Audacy",
+  "title": "A 2-month lull ends with Iran’s third strike on US targets in Bahrain",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORlk3NG9fRFhra3Vxazh4bm9Qa240a1NZeEdYWWpQQU1pcXNoZFE5MDRDaTBpcTBCbjVKNmsydGtOU0NfLWtuS2lrN3VUb2NKU0NsZm1nYzJHdlB2aW1XTk1jOWM4bGhENzBKUFRXUFhycjRJdnBaSC1NMzVEN0dBVndNbzA0WnVWd2xGczNRN29hUDhPMFZqMUpFZVJab1JGek9oMW1JOXNOZTRt?oc=5",
+  "published_at": "2026-11-17T10:07:00+00:00",
+  "sent_at": "2026-11-17T10:31:01.922473+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.044,
+    "XAUUSD": -0.0596,
+    "BTCUSD": -0.1046
+   }
+  },
+  "checks_base": "published"
  }
 ]
