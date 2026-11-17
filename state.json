@@ -689,24 +689,10 @@
   "calendar_fetched_at": "2026-11-16T23:55:33.705273+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 145,
+    "count": 146,
     "day": "2026-11-16"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-06T23:10:46.175617+00:00",
-      "t": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says",
-      "w": [
-        "agency",
-        "iran",
-        "island",
-        "missiles",
-        "news",
-        "qeshm",
-        "strike",
-        "tasnim"
-      ]
-    },
     {
       "at": "2026-11-06T23:20:44.555498+00:00",
       "t": "Trump briefed on narrow window for a new military campaign in Iran",
@@ -3687,6 +3673,22 @@
         "rate",
         "signals"
       ]
+    },
+    {
+      "at": "2026-11-17T00:05:38.661870+00:00",
+      "t": "US intel said to indicate Iran is drawing up plans for potential ‘dirty bomb’ attack in DC",
+      "w": [
+        "attack",
+        "bomb",
+        "dirty",
+        "drawing",
+        "indicate",
+        "intel",
+        "iran",
+        "plans",
+        "potential",
+        "said"
+      ]
     }
   ],
   "resolved_events": [
@@ -3718,6 +3720,8 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "06e35f4c3fa22d98b64882f4c9d3a79da1436b7565c33cb681dc11a3b5ceff20",
+    "b8f9c14f60185c0883767d2d35cb769ce26314075aec1c607a667eee31ad0f4e",
     "64625b7920e20ae4fbc0554616e9bcff7c33839bf27152178e2052d5a8fe1aee",
     "a463a00da2d4cc5235eb4d2d1b2963f817b3c59ae046e2d5f114887c70da7263",
     "fd27606c4942e2bfab8363da884d4aaec05ee2c485666fb1c3452e798da3d3f4",
@@ -4715,9 +4719,7 @@
     "24b5e93f716fe028b38e98ef64306846b46ab1d9d943d5aa7a61b95634cf9508",
     "17a8a32131bc6ce83e181447fca8256e72cee693d0b72dcbc0b359d425444261",
     "19716702753aa048666281c666c38cb6135f0f32d877bd182896aa89209554ef",
-    "af7be4aa84b3d411b83c3834b66986ec3255d3b13a306bf2fd9d61aff30804a5",
-    "1a80eb418623e8e223c8ba31e0600ff6bbf4d92d003adf8432c34d2436a98a31",
-    "3e03f5e695c254778acc0205b52f8c8de3892eef28ce8bf1bed5ef9150c031ba"
+    "af7be4aa84b3d411b83c3834b66986ec3255d3b13a306bf2fd9d61aff30804a5"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

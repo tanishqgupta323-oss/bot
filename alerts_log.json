@@ -19238,6 +19238,11 @@
     "EURUSD": 0.044,
     "XAUUSD": null,
     "BTCUSD": -0.0346
+   },
+   "60": {
+    "EURUSD": 0.055,
+    "XAUUSD": null,
+    "BTCUSD": -0.6739
    }
   },
   "checks_base": "published"
@@ -19262,5 +19267,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Times of Israel",
+  "title": "US intel said to indicate Iran is drawing up plans for potential ‘dirty bomb’ attack in DC",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXNqYXI2TmhqbGYxcXZTc3h0RHpYTVdOYmRZM0t1azBVNkg0T3daSE84VUp5N0xseTM1Rjl2Mlk4QWpSY2gxYTlHSGxRNDhLTE5JaG1TbEtIU2tRa2VFTXhOMGxERU9jR2I1RC1GRmtkS05iS2JwZ1hqeUI5bVVTT0xfMDkxeXl0WExnTEtMTmh5WUNJeUotU19KajNyRlUwLUFoWkNGdVhkcEs1UFl2eHB1UVZQSGVHVmlfY1dnOHBObFp3dkc3ZWNrOG9XdnM?oc=5",
+  "published_at": "2026-11-16T23:52:45+00:00",
+  "sent_at": "2026-11-17T00:05:44.693462+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
