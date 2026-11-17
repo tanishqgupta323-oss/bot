@@ -689,25 +689,10 @@
   "calendar_fetched_at": "2026-11-17T12:01:19.389871+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 54,
+    "count": 55,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-07T09:01:13.562084+00:00",
-      "t": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-      "w": [
-        "again",
-        "cognitive",
-        "engages",
-        "iran",
-        "nuclear",
-        "sites",
-        "strike",
-        "trump",
-        "warfare"
-      ]
-    },
     {
       "at": "2026-11-07T12:01:15.347902+00:00",
       "t": "Iran prepares for war to resume, eyeing new targets and a shift in military tactics",
@@ -3694,6 +3679,22 @@
         "plans",
         "washington"
       ]
+    },
+    {
+      "at": "2026-11-17T12:45:46.649740+00:00",
+      "t": "Fed's Musalem: US likely needs several rate hikes by spring to control inflation",
+      "w": [
+        "control",
+        "fed",
+        "hikes",
+        "inflation",
+        "likely",
+        "musalem",
+        "needs",
+        "rate",
+        "several",
+        "spring"
+      ]
     }
   ],
   "resolved_events": [
@@ -3725,6 +3726,12 @@
     "be4aa570f5bc1e9754df08f2"
   ],
   "seen_headlines": [
+    "70e862f453cbb75f42bc3ac1c6cd5b2d90b526408cba1bbc74073c0237f8337c",
+    "4448921dcf288b027428cd7a79e48688c34f9cf9fe76f0fbf171b7518c7b118b",
+    "6cd26be93c57c76478a2ef76119ed510dfd91d438668d21dd64c2e537a2370d9",
+    "0a0265c6aa5af19d0e74772794493b0f04653f044a0145b84a1e0447d3055ccf",
+    "431184b7a566cd8b43e5ff6d730ebc721c7965f8c0284549d02472e0ec2952de",
+    "d8c1bdfbf41be6b7f2c54c4338b782f0563122bd9975484fc0405c3441ae3d2a",
     "b403963a05bfd55d5c6528962a78c4f36f257ebd90b1c7198460bb7e63a154c3",
     "70a106fe184d7b0a572838fadfa4f4f9b6aa24a2d67dd161f9c208a91f65a5eb",
     "798fc55e94ba67a3d71a7a8eedb6b13da69417ca8ae76b0be3ffd4d7d89baee0",
@@ -4718,13 +4725,7 @@
     "095ebcbdf5c2760088ab3c43081c7bef8e374f6386b61d4de22b31e23f7d7e25",
     "ed3b9f9c29c9eed8042326b7f84a4e12d6086f6e28bddf8cd9ab302d7adb75da",
     "5c90f2c6c61a84c99e75c5f57e2fa437c085dc3766b11bd97956aa48e4087e90",
-    "832902ed3e4f694d880c2f6ac98c06ef89173599cc209257fa21409906bf0554",
-    "9300cc67efdce6529d8a9eece8d4d8dd70e776c4c3d480969024d5efc6f75469",
-    "7959716de98fe607affc348b3a548db7ee2cbd9908ddc2bc01c68bd99f397589",
-    "a6b65dcb146e30e0ad628426a094ad800e136cfdddeccded657e3e057ce1f7cb",
-    "e9503eed2cc724d94c24b99d09d36b5706a532a7184cc81385b2b2b08f43a102",
-    "42795e7979133393600396294dda58c30c4139aa8bc86c5b7ca4b06578973f73",
-    "8c4e99c058fc2246fbf6400df5f9909e79448e87453af895c16de2b0788520f0"
+    "832902ed3e4f694d880c2f6ac98c06ef89173599cc209257fa21409906bf0554"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
