@@ -692,25 +692,10 @@
   "calendar_fetched_at": "2026-11-18T18:31:04.812010+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 146,
+    "count": 147,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T06:05:35.370065+00:00",
-      "t": "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink",
-      "w": [
-        "blink",
-        "cooler",
-        "cpi",
-        "fed",
-        "inflation",
-        "preview",
-        "sees",
-        "street",
-        "wall"
-      ]
-    },
     {
       "at": "2026-11-10T09:20:47.714554+00:00",
       "t": "ECB may need to hike in Dec, chief economist says",
@@ -3730,6 +3715,22 @@
         "saw",
         "skip"
       ]
+    },
+    {
+      "at": "2026-11-18T20:05:33.589620+00:00",
+      "t": "FOMC Minutes: A couple of participants noted a hike of more than 25 bps could warrant consideration in December",
+      "w": [
+        "bps",
+        "consideration",
+        "couple",
+        "december",
+        "fomc",
+        "hike",
+        "minutes",
+        "noted",
+        "participants",
+        "warrant"
+      ]
     }
   ],
   "resolved_events": [
@@ -3762,6 +3763,13 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "50ce9e81709c16fcd54f793f0dc0cd1b663db11bdcb91d55cf2e72e368f24f6a",
+    "7986d8535a0186724e0672b5e075d3c7151c51c4da0876adcf430cc39e18e152",
+    "3e809997a2a04c73e990260d154d249a93219769cde65d57b191a76017f57d7a",
+    "b1d3639fd38ed30be7b1a542399f2ad67ee7dc933a83efbfe91f4f770555fb8c",
+    "1c8e9d46fc219f98343c6ceb8daeef7384bed3d506a4231b3e200c7cbecdbe11",
+    "e2a332508436f398b8e19c9eb9142d213537d59359451db70dfa235b9dbcf255",
+    "fe4008e785498b77186bad35364bb3aea85d81bf468fd8e57c08634bd5110f10",
     "c653de7d96b18e2ce17998d43e3577f6c65cf6deea4ca9a891737ac754e6d4ff",
     "4cee05cccc0f862e6df23c78d23a4b11049b297b1c278851abb6abcaa06ab7ae",
     "ce6c65543f28e527bd5fada791e47803e08ea1e495ca785c056c912489c7a04d",
@@ -4754,14 +4762,7 @@
     "8e1327e063dd6949ec7aaf753c3c66125a66ea23bc158ddd753b9822efac1554",
     "e6d18b058b51b6aa58dd420136d479afe542bdca40fb25e8610260ebeb10b8de",
     "383f1f4f493fd809d4bbfc597236a1449180eb68e5714ba6d0793b6c7c0bc745",
-    "285d6af923e7ba34a0e82f277a8177697093e8cd370057d1efe2cf1da83da94a",
-    "30fb47946e53345527b006e560b6d390f2a4a5c0e2926d11f7d43a8396c63123",
-    "673d87d6736536b6e8609189dc6fe24eed518515c84be3ba156359192a7b56ea",
-    "55d70a655dd0ea2f5bd18ed1028849ff65006d13e43ac4a5f407ba34a7b15934",
-    "1cfa85e9eca33f2d261e4bdc526d10b7539a8dbbada224a5cc5e6de615b8746b",
-    "3a011bb2fb0abf8ad55d26cf3cd8c016316b9dad5aa442087aa70c609b7e3152",
-    "4e8748080f5a1eaf3ee7985967ea728c78cd9c00f9b20a0bc9cd28b6c94ce4a2",
-    "af9e858e0485770f98ceda8e02b112595c0006e361b7bf11825409eaa9b45831"
+    "285d6af923e7ba34a0e82f277a8177697093e8cd370057d1efe2cf1da83da94a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

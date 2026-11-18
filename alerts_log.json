@@ -20408,6 +20408,11 @@
     "EURUSD": -0.0439,
     "XAUUSD": -0.083,
     "BTCUSD": -0.2869
+   },
+   "60": {
+    "EURUSD": -0.0877,
+    "XAUUSD": -0.2838,
+    "BTCUSD": -0.4881
    }
   },
   "checks_base": "published"
@@ -20429,6 +20434,32 @@
     "EURUSD": -0.011,
     "XAUUSD": -0.0107,
     "BTCUSD": 0.1436
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "FOMC Minutes: A couple of participants noted a hike of more than 25 bps could warrant consideration in December",
+  "link": "https://investinglive.com/central-banks/fomc-minutes-a-couple-of-participants-noted-a-hike-of-more-than-25-bps-could-warrant-consideration-in-december/",
+  "published_at": "2026-11-18T19:03:20+00:00",
+  "sent_at": "2026-11-18T20:05:36.086491+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.022,
+    "XAUUSD": -0.1739,
+    "BTCUSD": -0.0269
+   },
+   "60": {
+    "EURUSD": -0.0548,
+    "XAUUSD": -0.3211,
+    "BTCUSD": -0.2183
    }
   },
   "checks_base": "published"
