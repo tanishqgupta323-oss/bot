@@ -691,24 +691,10 @@
   "calendar_fetched_at": "2026-11-18T00:11:04.697647+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 211,
+    "count": 212,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T09:55:34.996803+00:00",
-      "t": "US plan to blockade Iranian economy, trade routes, is 'wordplay,' IRGC says",
-      "w": [
-        "blockade",
-        "economy",
-        "iranian",
-        "irgc",
-        "plan",
-        "routes",
-        "trade",
-        "wordplay"
-      ]
-    },
     {
       "at": "2026-11-08T10:40:47.178324+00:00",
       "t": "Saudi Aramco Riyadh office hit as Houthi missiles target kingdom",
@@ -3694,6 +3680,22 @@
         "trump",
         "unprecedented"
       ]
+    },
+    {
+      "at": "2026-11-18T01:20:45.371250+00:00",
+      "t": "Gold falls toward $3,800 as Fed hawks reinforce rate-hike outlook",
+      "w": [
+        "800",
+        "falls",
+        "fed",
+        "gold",
+        "hawks",
+        "hike",
+        "outlook",
+        "rate",
+        "reinforce",
+        "toward"
+      ]
     }
   ],
   "resolved_events": [
@@ -3726,6 +3728,14 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "7dddf84be42dc829b705bfc1a63dcd543ce20c809f2516c9ee19af8d6b616877",
+    "1cc26a42ae2ad7d51cfdb65ee897e8dde798192c97d579ca204b074f449d0e88",
+    "bee88b0adbad8740727027c5c80d24ce92ea41e05e0610e6219cccfbeb2717d0",
+    "4da8bbbaf301de78fe01d8dfaeeb073a7c6fd5df38eb0ba1e8368822e2e1c413",
+    "0bd842c560c9f89cc023ff4a721d9599c700b36b1335902b0b99b23db32e2cb4",
+    "a2795514fc9216d5f8557d11a0f4b723bf138566d73c542886ad0a167195be1e",
+    "0cbb3e6b0c9e4ec7a245934c7989b05c654e4f175c2fe8ccb4a11562cec2659d",
+    "27147d2207739761b1d1d9851f82d272debbea0dc477a6911ff21a4f9ea7d9b8",
     "8b6c65db77145a7ee7529b270a325c10cf37a8e246bf12fe8d5ea3c3022eea20",
     "04a090ad442acf9a1dca65e749674a5f439864cd7b7661c2b5607cc9fdf7cbbd",
     "a63808079d099a2840ff6d89f6de63b337840cb1566f1615a59477f7296a1cc0",
@@ -4717,15 +4727,7 @@
     "02e152584bf2a282533f97d5201d8c08136e7090239bd3a7bc1eb6ed0d27f912",
     "40992a812b29c2a1145378aa8c07873bae2bba02c0b743b256f0638337f8555e",
     "fa61b3ae91ba296eaaf67251c4a16d09a7af5fce02dbb17d41dcb0d5e7c969a1",
-    "9d40aa2244037014e1a2df25fb7e0cfad7a828a9603d87bae14a8246f6f134d6",
-    "16e62c2badb11d9eb5a7d6ad37cbe9b7064c6f8ec1df01ff71dc7018832e9fa4",
-    "4d5f03bb5598a086eb2d4c24e0b821435995476490b2c00f98dd489eb2e28656",
-    "4c6ad28e91ca8811cb85374e4a612cdfdbe22c06b6f95414ca1f9c147e22f1b0",
-    "e9cb9d88467df246fe22d88f82b5815348c3231854f65e7357b8cfec51f15d5c",
-    "cfc845165c11850d056937e266ec1ef9d629b25057df13dea224bd620f7ab5f8",
-    "37ecf955f95832127bcdd3b7aa355edab7e1afa6d4a6f5cb55237e1aa4f004c5",
-    "139ea7bfc8e725e57902dfc751450870f4728d308dc65354f0a6413b96a97b80",
-    "5a4019ec65aba1a33244ee3430fa9cf59bb3702deaa6f303dba0211ea8b99883"
+    "9d40aa2244037014e1a2df25fb7e0cfad7a828a9603d87bae14a8246f6f134d6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
