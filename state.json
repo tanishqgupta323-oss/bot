@@ -361,7 +361,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "65d884eb193510f4541571f8",
-      "forecast": "-1.8%",
+      "forecast": "-2.0%",
       "impact": "LOW",
       "previous": "-7.3%",
       "scheduled_at": "2026-11-18T15:00:00+00:00",
@@ -372,7 +372,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "f762abbfa54c322e95ad6ba8",
-      "forecast": "-0.3M",
+      "forecast": "0.4M",
       "impact": "LOW",
       "previous": "4.7M",
       "scheduled_at": "2026-11-18T15:30:00+00:00",
@@ -482,7 +482,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "58656f62b6274a5c10791069",
-      "forecast": "19.2",
+      "forecast": "20.6",
       "impact": "MEDIUM",
       "previous": "20.9",
       "scheduled_at": "2026-11-19T13:30:00+00:00",
@@ -493,7 +493,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "1bc8da88406731cd95673039",
-      "forecast": "199K",
+      "forecast": "198K",
       "impact": "MEDIUM",
       "previous": "200K",
       "scheduled_at": "2026-11-19T13:30:00+00:00",
@@ -548,7 +548,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "33c92f55db0469be8dcd7c86",
-      "forecast": "-",
+      "forecast": "25B",
       "impact": "LOW",
       "previous": "61B",
       "scheduled_at": "2026-11-19T15:30:00+00:00",
@@ -658,7 +658,7 @@
       "actual": "-",
       "currency": "USD",
       "event_id": "1f3f603292e0702bdba807c1",
-      "forecast": "52.1",
+      "forecast": "51.7",
       "impact": "MEDIUM",
       "previous": "51.0",
       "scheduled_at": "2026-11-20T15:00:00+00:00",
@@ -688,10 +688,10 @@
       "title": "FOMC Member Cook Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-17T21:05:48.245385+00:00",
+  "calendar_fetched_at": "2026-11-18T00:10:49.966822+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 198,
+    "count": 199,
     "day": "2026-11-17"
   },
   "recent_stories": [
@@ -3726,6 +3726,7 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "477502f260da55b807e90df18ea0a0d8887dc627927672604d7af8a11de56e69",
     "d272518baab0a7362d963997d8d8803c65fb2fc32aeb9e1e490c74c769e44ac2",
     "5b41dec119bf75cf1c85d8b2257db766cdbbea0504fc8c63d89dab9309c40f37",
     "d4204c33e7883354987f342afcc8b2224ca5e14bf88ee9966457daff28240928",
@@ -4724,8 +4725,7 @@
     "9871aaa6d52c463eb383509615f859c0087c8fa15fe6e2170bcf55acb18e9331",
     "60d2a45ec28037a484544707b0ec166e77d6c41c800a13f65ae416ef6a54bdb1",
     "aeb005e759d9ebbd3d8d9c90e55e64f810ed36ac0d7a80961f59baf4e558e097",
-    "e564447e5d7f65b9b1e11ae4f8ceec1b1b9f34ed2a67cbd42749b35c15251164",
-    "f259862b8f7a1a83d4cb9044a08c7d1912cfd9a93b08e4d851fc33f185131b5e"
+    "e564447e5d7f65b9b1e11ae4f8ceec1b1b9f34ed2a67cbd42749b35c15251164"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
