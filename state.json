@@ -691,21 +691,10 @@
   "calendar_fetched_at": "2026-11-18T09:20:45.796752+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 45,
+    "count": 46,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T22:45:45.326554+00:00",
-      "t": "Diplomatic agreement with Iran may not be possible, says US' Rubio",
-      "w": [
-        "agreement",
-        "diplomatic",
-        "iran",
-        "possible",
-        "rubio"
-      ]
-    },
     {
       "at": "2026-11-08T23:05:38.936807+00:00",
       "t": "Weekend: Houthis hit Riyadh’s Aramco Tower and target oil storage as Saudi supply risk grows",
@@ -3721,6 +3710,20 @@
         "trump",
         "washington"
       ]
+    },
+    {
+      "at": "2026-11-18T12:10:44.723195+00:00",
+      "t": "Trump says 'we're blowing up the whole country' if no Iran deal is reached in 48 hours",
+      "w": [
+        "blowing",
+        "country",
+        "deal",
+        "hours",
+        "iran",
+        "reached",
+        "trump",
+        "whole"
+      ]
     }
   ],
   "resolved_events": [
@@ -3753,6 +3756,20 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "ad7a179cc21f12aa4e0470cf5009d8b7ae39dc8b86068f3285c60b5a663f751d",
+    "2aac15a0fb8c121dd56ed39724eea5128d8ec248a7a983a32d2dd9dba49ee367",
+    "c031a9ea91d14109733bdc8f43cebad70bc4a9c7cb1c50237afa5c689535c839",
+    "b169e17abe8f288d436062edd70d64ae7e44cf6b645d2484c6cecd6e2d6053fb",
+    "fb46e28b9e2d39d74beb6e4a4361b9c3c5cf2015639a4a6bdb9db2d5b05f2c5f",
+    "a3a72d1579b663e2a155501adee73b4977570eb3a654e6a57e1dabaad692bb5d",
+    "17cd68adb8496cb78c0c766d1c81488d9d7bb49a414448506b52a3485b93d302",
+    "3f36252b3177d290079754177447e50b8f13cc5d58dcde6f576ebfdcf44c2591",
+    "814637bd10c6df4ea89874b0c2a23a6bf4f8869c8b1857f5450a7c1d6a6ac0a4",
+    "cadd040d1da46f3426513f79323066413531b43b598897ca0306ee7e909c11ae",
+    "a9981d515899194e7c784825735d241044536fdb9f455ebb0244c600adb6ea93",
+    "77f436d507d2bf9eb3b2e5e08cabf0c2a807c7128535a14b8be2cf0b693c9aa2",
+    "0eeeaca772dc913eb4d1d4fa27ec0410c0e8bbfd6f2f5d9bdf2212ee0ea1b6af",
+    "64109981cce3da45b19a6004c779d92ef779aa4ff8820d1b3a4fd89526a108de",
     "c8fb3efc9f37e44fed01b799b9a216315d9a7c42a517ebc6e6dd84bdbb8508b0",
     "160a7e2b0bfdc10261b7a6469d0823169f8913b7794d6b79a8930601820ce83d",
     "c512d814cb8c72a94cc5067200f654660c4e3b1f5a7a985ed44a8ec09ca22073",
@@ -4738,21 +4755,7 @@
     "dc0cc1428bc162ee36324e60ae3a992ece6fdde4bf5e5a064bbcb258eef2f27c",
     "6fe4c5a682ee97fb3496371bd165f1739686718e36338ed990b5018f2e228d69",
     "54050aeff56d89b5f2f6f8fbfdd8567a14db0518f48306420686afa49a445c8d",
-    "67a5190f37b6cf21cee4778ddd6859bb6c1af716bbbdc18e149c5e4959ecc55b",
-    "a0ad02613f5af31816b6fa790d28987d92781b43f2d886112847ace6790f1ffc",
-    "f4db185ab058abd5acedb41c970f7ef5dec2e983c56d58117683e9af34428962",
-    "48bd0050d38787b6bcd6e4a03a1f1cf89414dcd7ab7b412455555688a15e1668",
-    "a5bc1865a823501922857987600623522954063084273f3d1bb7ac87a2b00bf5",
-    "68f59e7321107ae431df279cfe99246908fe3459806ca3143310638e98bb774e",
-    "2c9837efaefb37d1c42012bc05f983687e0d6f271605a5c2a7168f37309f5587",
-    "a802a071ccb46724473a023406d26cd2f2c36d6e5138a61d376db6aa4261483a",
-    "f74b0da836d53b1e78f1a3628ab4af4a64580ed50996696795fef19994b7f8c5",
-    "bc4acdf3d0173495070082a56d9c45b389a0252525ca811db7b9fcaa058b875b",
-    "700d5e9206088cf4c7efd6cf7ef87d58d8d0f3a9740e92135ddd7a3a7c79c9b9",
-    "7af0f50e47e6fe19511e7bfcbe9e62399b541e54276a40c11a522c20790e3441",
-    "c9c1b1f4ac60586d428c6d440687efbd63d9fef6cbca3d65c36ba86eab5572ae",
-    "bc94aa516bd4653dd0ff0e59c203fda79825589ee678f39f1516fa5355f28843",
-    "75448fe65718164042c290be0bce0925d094de54143e32c13809d7ae9e5a5790"
+    "67a5190f37b6cf21cee4778ddd6859bb6c1af716bbbdc18e149c5e4959ecc55b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
