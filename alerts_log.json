@@ -20078,5 +20078,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Time Magazine",
+  "title": "U.S. Strikes Qeshm Island as Vance Says Iran Won’t Become ‘Forever War’",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ2ZfMmFJTUpGeWlETnhsTjZDY1NEeXlJdW5Hbkl2c3ZrRmtFcGtnaWVGTTVqejMwRGgtd3RyUWVmdkxmcHdoclB3anU2MjZVR3ZJYnNrSHR6ejZaQ0w1a043VVpiUllXV3AyYUdFQ3pXOW92S1A2THJfT3dmVFNqNU9vLXUwY3JYRENOaE42X1U?oc=5",
+  "published_at": "2026-11-18T10:15:44+00:00",
+  "sent_at": "2026-11-18T10:20:47.535346+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

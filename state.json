@@ -691,23 +691,10 @@
   "calendar_fetched_at": "2026-11-18T09:20:45.796752+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 24,
+    "count": 25,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T20:25:33.224948+00:00",
-      "t": "Iran threatens to ‘rain down hell’ if US escalates war",
-      "w": [
-        "down",
-        "escalates",
-        "hell",
-        "iran",
-        "rain",
-        "threatens",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-08T21:20:43.062624+00:00",
       "t": "Iran gives US two-day diplomacy ultimatum",
@@ -3714,6 +3701,21 @@
         "gulf",
         "iran"
       ]
+    },
+    {
+      "at": "2026-11-18T10:20:46.356609+00:00",
+      "t": "U.S. Strikes Qeshm Island as Vance Says Iran Won’t Become ‘Forever War’",
+      "w": [
+        "become",
+        "forever",
+        "iran",
+        "island",
+        "qeshm",
+        "strikes",
+        "vance",
+        "war",
+        "won"
+      ]
     }
   ],
   "resolved_events": [
@@ -3746,6 +3748,16 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "8814e93b72c657c62ccb033bfea4b301cd45261418740d98fbd422648d899791",
+    "b34dc010671fdc387ad672666e5f3ed2e91870fb2ecd676adc6e286f3ab07648",
+    "973bde8ab1b72d472413b75e6ec14de576c747c7bb6d48e630a2d6909d8e0d90",
+    "97d8c07f9acbe299469a12e83c53bc5d415d5b00b692a2a12b721c9bd35ec77b",
+    "dd5c3c7739f8178c1cf5b6d15d9a34349b48a9a774c41a91d51a5d90844feed2",
+    "7f2f681a461a4543bb82a11fbaf94d509b77dc1b288bbcfa61ac9264eb0cbeac",
+    "b266a559c5108bd7bf29ec1f4a3dc9ba37346e063bae03620c8c4a13db9543a1",
+    "c261bcb9bed6eff12115ee3c9d3f6fb18415eb94b5413b43c0503fae0dc2fd11",
+    "cb09f43ba28cf4ee6d54021c66c70e05272ff07f0784a255fc56b608a503b44f",
+    "30b2f7204cba6b6bc13c594e6d2ab932f7dd3132b962ee16c10f09fcf043f129",
     "832ed99f7369b7df876a9803bae4d6e33ca98da3f043a4c27f31b943955c37f8",
     "2f51a0537d16c2b033041c009767608bc55560f5f20824ff211aa857a73b4738",
     "ca630ff711568cd329c3284879e26a8cc005f134b69a993bb3343a9d0bd98541",
@@ -4735,17 +4747,7 @@
     "f11059df3c4bc93c52e4aa366c3410d7fbd9f5ee5e23bff0671cf6cac48adb29",
     "41bd1fff4b9369274c9329d4e6bbfb497ce6c1ec0a9a0cafe2434d844e8d0d65",
     "77766138aa47f71307c0d1e75e5e32ab9529b04d539f55dc42820349ec89f6d1",
-    "334e72be99f2412b778f75281c249e33d8274a16e3a26dc273bb8faa4045fc42",
-    "3f6c4cf1d9de525eba85dc3e8f3b7e9de35657bc7ad01895b2a73209eeb0f3cd",
-    "87eac3671659ffca3aed1d027edda1587e4c29b0bd942fa105bb572a2d66ce83",
-    "e111983153b91bda11209301505dccc0c1c6f1fad2d84c59852b1434c323b349",
-    "956d8e9334f17461f04e13509feeca6a64293b407500b7b326c32a5ef0a4ae73",
-    "e2bbd44b7f1c8fe9f1ed6692b04f865fe470f2ccd69df71f1f0e300f1a823e9c",
-    "d3de8b8ace8fe23deac4768db896c7341611d7e23e4894eefe80bfc53d730739",
-    "40890f8b44e3e6c4287557c68e6c12d04e06d2f2b96c2a94bcecf2ae360ed76e",
-    "bda7550f6251d514fe235759d503d4344bb1a2456b1533a77d77c6f9d455610c",
-    "0db8aaaeb7703215ce77eb888de2ba2b9c69f195f8e291abac24212cd305a6cd",
-    "c81d1221485ea1e49078e864e134c91bb42564f3a4a90482e48caa1407622c9f"
+    "334e72be99f2412b778f75281c249e33d8274a16e3a26dc273bb8faa4045fc42"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
