@@ -691,24 +691,10 @@
   "calendar_fetched_at": "2026-11-18T03:15:54.460069+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 248,
+    "count": 249,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T15:35:37.100732+00:00",
-      "t": "Trump says U.S. launched ‘minor strikes’ on Iranian targets in Strait of Hormuz",
-      "w": [
-        "hormuz",
-        "iranian",
-        "launched",
-        "minor",
-        "strait",
-        "strikes",
-        "targets",
-        "trump"
-      ]
-    },
     {
       "at": "2026-11-08T17:55:33.734590+00:00",
       "t": "Explosions target southern Iran as CENTCOM announces new land blockade",
@@ -3713,6 +3699,20 @@
         "trump",
         "watch"
       ]
+    },
+    {
+      "at": "2026-11-18T04:45:44.619137+00:00",
+      "t": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
+      "w": [
+        "attacks",
+        "bahrain",
+        "escalating",
+        "fight",
+        "further",
+        "iran",
+        "kuwait",
+        "strait"
+      ]
     }
   ],
   "resolved_events": [
@@ -3745,6 +3745,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "f1ba966364eb980c6149edae5d5171bad30ae17b18efa7370265a5122d75e6c7",
+    "b86386e601ea61aadc5a2febf039f82bc75f0c3458cb65dd8b649313b989b18d",
     "8137dcb003eac6c5014da6796e939de6bc3743af453c139198eec20dc6924f6d",
     "f000850504cf6ed6752e433f07c4c166207c5f61f5d9b0fb6b21dcc18ce70e8c",
     "3690d50ca5626c89101bfcbfb762e08fb6f0dbb0a6640e92b0ee65f072cdbbbf",
@@ -4742,9 +4744,7 @@
     "69b8cd897f839389832dfa05570cca1f0fff766b462a679ecc55c620b0fd109a",
     "55f293fd077931d030a7889b7524c6ea4a80532ea3990963647013b487b6c04d",
     "9d785769d4559870289ec2e619e579426906e7fb9ecebecb382875e7c4a2c6cd",
-    "24f249dfb722d980bba7b2c3e9e32a57e74f81273643d604e258704032e802e1",
-    "d4994f650d7df901155b6fc4ebdb28f3dbeb6f96fcdc942fcf993840568404f6",
-    "e5cd06fba0b1b1978090d684cc709b31c94f4bdabf3887e0196429191287f399"
+    "24f249dfb722d980bba7b2c3e9e32a57e74f81273643d604e258704032e802e1"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
