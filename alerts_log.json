@@ -20325,6 +20325,60 @@
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": -0.0439,
+    "XAUUSD": -0.0401,
+    "BTCUSD": -0.285
+   }
+  },
+  "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "Fed's Waller doubles down on a jumbo rate hike in December, sees more hikes to come",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUXBONFpBZzU3Q3dNWTJzeEdEQ2U4d2Q5ZlZnaGNGVkpuamNqeVlfSnFNU3Nob1VybkNGcElDV3NwTUNVRkFKQjhrcERBMlJHdTlNSFJBc1NSa0pGVFRfdzRpR1RLTWJBdl9HMHB5Z2Z5QkdwRmFROER5NDVtQ1g3cnMtLWtmNDZCOTA0SzNoOG1pY3FVb0xwQjlWMWRYc0tvSVFSNkRBY21mbmpuMk1ETXRNUGxrTVZXX2hxLXQxbzFBMHVJVVF5b0ktektxSEZtR0JYVS1mVW1WWUZXLXc?oc=5",
+  "published_at": "2026-11-18T17:46:16+00:00",
+  "sent_at": "2026-11-18T19:05:40.519513+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0549,
+    "XAUUSD": -0.0561,
+    "BTCUSD": -0.1459
+   },
+   "60": {
+    "EURUSD": 0.0549,
+    "XAUUSD": 0.0134,
+    "BTCUSD": 0.0793
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Fed's Barr supports further rate hikes as inflation remains too high",
+  "link": "https://investinglive.com/central-banks/fed-s-barr-supports-further-rate-hikes-as-inflation-remains-too-high/",
+  "published_at": "2026-11-18T18:39:42+00:00",
+  "sent_at": "2026-11-18T19:05:41.052303+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0329,
+    "XAUUSD": -0.1095,
+    "BTCUSD": -0.1196
+   }
+  },
+  "checks_base": "published"
  }
 ]

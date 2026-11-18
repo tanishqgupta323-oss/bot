@@ -2,6 +2,7 @@
   "actual_attempts": {
     "5dff3c1af11acb7758d1e8b4": 8,
     "744b11be0b4d7d9130c1bb9b": 8,
+    "7fd84fce4ade498bbf5e941d": 1,
     "dc749ccbc67d7658177dec45": 5
   },
   "calendar": [
@@ -691,37 +692,10 @@
   "calendar_fetched_at": "2026-11-18T18:31:04.812010+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 126,
+    "count": 128,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-09T10:50:47.569870+00:00",
-      "t": "Trump says US has ‘won’ Iran war as Rubio reports no progress in talks",
-      "w": [
-        "iran",
-        "progress",
-        "reports",
-        "rubio",
-        "talks",
-        "trump",
-        "war",
-        "won"
-      ]
-    },
-    {
-      "at": "2026-11-09T12:40:46.548458+00:00",
-      "t": "U.S. consumer prices seen rising 3.8% year-on-year in October - Truflation",
-      "w": [
-        "consumer",
-        "october",
-        "prices",
-        "rising",
-        "seen",
-        "truflation",
-        "year"
-      ]
-    },
     {
       "at": "2026-11-10T03:25:40.146345+00:00",
       "t": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
@@ -3720,6 +3694,39 @@
         "rate",
         "rises"
       ]
+    },
+    {
+      "at": "2026-11-18T19:05:37.233588+00:00",
+      "t": "Fed's Waller doubles down on a jumbo rate hike in December, sees more hikes to come",
+      "w": [
+        "come",
+        "december",
+        "doubles",
+        "down",
+        "fed",
+        "hike",
+        "hikes",
+        "jumbo",
+        "rate",
+        "sees",
+        "waller"
+      ]
+    },
+    {
+      "at": "2026-11-18T19:05:37.233588+00:00",
+      "t": "Fed's Barr supports further rate hikes as inflation remains too high",
+      "w": [
+        "barr",
+        "fed",
+        "further",
+        "high",
+        "hikes",
+        "inflation",
+        "rate",
+        "remains",
+        "supports",
+        "too"
+      ]
     }
   ],
   "resolved_events": [
@@ -3752,6 +3759,11 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "4a3c41a1a9e2b83d1a2e723485a0d6cb9cc5594e776ba7be7f735ba2ea10cc33",
+    "f2783de05add0318198a106a8e26f9b9e7defec7c79c698a0444e90852edf1de",
+    "b3c81a4a80ee242e1fd22822b57b3d87a0be1f91ff78efd5f1afef65bf89da39",
+    "6df24501463d1f9da23948c34cc929e2c842aba8261b339ffd9afa7183c7c7a5",
+    "6ec8a1ff209705e4de5854b715b61fe4b8a1c307f90e15d50c1ab03826a39ef6",
     "619d91ee773a895978f708536d3f6f19f77acc637c1d27587466b09dd88a9034",
     "b80f2edcd0376272bd9a44f3fb10fca4e78d2db5ff37d8a0c7a6d114927022d6",
     "c1aa99fd659fccaa4f1f12cb62e59e992586e947f59d4697f50c313172f2a503",
@@ -4746,12 +4758,7 @@
     "cc8c3524c63e51ae54c1f686fc55e1fe4cb69d77e0c2b6fceb9f7365cfafc919",
     "17d34efb4f9aec0b0a451a24b3cdb296a1a93eb3af871ff6ce9ef7e07667fc2d",
     "ff2116d23bf5e6a3d6ebc56c6fc1297c54e6704d9d85c8aca1845b97f1d95952",
-    "2ffd7a8937cbb4016bb3eea767e18d6e595044f6a572df6dcd173056a183db7e",
-    "c8c9f2f9fd1125304006aedeedb0a4095f88ff7c793b3dbc3fe137ca6d027c7c",
-    "f40dae6014e69b5f745554e3361d251e9d14a5fe294909e56af086de32f42030",
-    "236edc1e3ae5b4af8b95a6c1cd8b84b09db971a12a0fc1bba6a0f598af1f28c2",
-    "40992a812b29c2a1145378aa8c07873bae2bba02c0b743b256f0638337f8555e",
-    "11ef2cfb357f3dae777befae078575541aaa0b9811834fb30722ae07828fcfe0"
+    "2ffd7a8937cbb4016bb3eea767e18d6e595044f6a572df6dcd173056a183db7e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
