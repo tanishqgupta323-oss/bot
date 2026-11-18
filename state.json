@@ -691,26 +691,10 @@
   "calendar_fetched_at": "2026-11-18T15:25:36.542334+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 87,
+    "count": 88,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-09T00:15:48.206832+00:00",
-      "t": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets",
-      "w": [
-        "bets",
-        "data",
-        "december",
-        "decline",
-        "fan",
-        "gold",
-        "hike",
-        "holds",
-        "jobs",
-        "rate"
-      ]
-    },
     {
       "at": "2026-11-09T04:40:44.145760+00:00",
       "t": "Iran says no unauthorised vessels transited Strait of Hormuz overnight after navigation aids destroyed",
@@ -3725,6 +3709,18 @@
         "upper",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-18T15:40:45.364376+00:00",
+      "t": "Iran Has Targeted US Energy and Finance Networks, Mullin Says",
+      "w": [
+        "energy",
+        "finance",
+        "iran",
+        "mullin",
+        "networks",
+        "targeted"
+      ]
     }
   ],
   "resolved_events": [
@@ -3757,6 +3753,10 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "24d730d28461461c2151752b70b2e17ee2fd2bbea7c99b1e7d6a2ae54c3d5b36",
+    "41448ef6610b1870e45c5e963aa773d23e663caeabf8c81430dd0baf34ba1886",
+    "973cf8ed87a415dfc334a38dec687cac6165dbc517bed814116f4987f81fa447",
+    "207a849259a8510a66c405a0cd3c3dc138006fae4b9a4000f68b38955faf3f56",
     "880a00c440b49cf432060db8443c10b16a94189df57e13d278fdd33f36a653c7",
     "5dc083188e2b1e9fe9d692bd62eff77e6a0f8028a874095e236a27344a4088e5",
     "2e1b9f4ab25c6b500bd624090155e72a7e6ade5557563313719bb8251e07dbf0",
@@ -4752,11 +4752,7 @@
     "385c68e3d9abe0d2cba992f7eaefc74520908b0dffe7acf8a0046a209f73a815",
     "32ac149c8106bcb7452a3c694ef0a3ab489df7728f18599a48813107784c9b4c",
     "cc6056fa9d7267cbaff15ca7901fc9eaabb456310341069dfd93ddda22a194a6",
-    "0722c6f5cefc2bc62de70582826f4ee3a7d19e0c33db249a506cbddac9cbf52d",
-    "1e7ad2f465690b942cfee918f31e737a37a0c88cc58cbe4d3c8b8f44d4609fc1",
-    "d59e5f7157cdcdb55d27950a1fc0578ac59eff9521cb726d34fe771d2bd57e1a",
-    "d085a812ee3bcadf2bdbf4b94ec0fbd9aeb043bb71d4be1e6c362f2a75fec346",
-    "f4dbfde721493f6f80319af9b211a6af60344e8798b890b7fa6d3e40aec79bc9"
+    "0722c6f5cefc2bc62de70582826f4ee3a7d19e0c33db249a506cbddac9cbf52d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

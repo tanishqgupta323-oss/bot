@@ -20234,5 +20234,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bloomberg.com",
+  "title": "Iran Has Targeted US Energy and Finance Networks, Mullin Says",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmlCcUxqYWp0dE5fbDNLSk5CakswN2ZwSUd4LU93aEhBeWI4ZXlrY2dQLVJkZERhQTIxYW1ueDFOWWFXOWcxTmtLSk84OU1XcXdEWWtjc2NEdmlfTHpxYS1iX2g2S2ZxODNIbXhZUGcwUEVOSmdlYWM4a0Zlb1NNSWdXaFJPTmlteUpiV05KMlMtdUJfT1F4Z2I5QVN4MHB5Z3duUlo3dkNFUjhsM1pacg?oc=5",
+  "published_at": "2026-11-18T15:15:06+00:00",
+  "sent_at": "2026-11-18T15:40:50.356787+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0549,
+    "XAUUSD": 0.0825,
+    "BTCUSD": -0.1866
+   }
+  },
+  "checks_base": "published"
  }
 ]
