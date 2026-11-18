@@ -20092,5 +20092,26 @@
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "France 24",
+  "title": "Trump says ‘taking seriously’ reports Iran planning Washington dirty-bomb attack",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnAtS1RraExRWUFDd0ZjM0QxdEE4c0VPa1RYTDBJTzZndkVLX3htMjFPV1k3ZzZEaEtaUEkxdm9uamN3NHlJN0pibG1OMUZBdHhpbzJFSjlyYjZoY0FUSjNUaVdkY3loMThCNDVjenJuYnZHMHdhdVRYVTl1RUFHWFRzSk5PUE4yd0xlTFdNcUZNUlBpNHhYTDYzdWR1QnFJR3d5STBJUE5ueHVhSVlKVklUaVhaeXZ6aW1JRV9R?oc=5",
+  "published_at": "2026-11-18T09:52:30+00:00",
+  "sent_at": "2026-11-18T10:31:14.731898+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0439,
+    "XAUUSD": -0.1718,
+    "BTCUSD": 0.0588
+   }
+  },
+  "checks_base": "published"
  }
 ]
