@@ -20052,5 +20052,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al-Monitor",
+  "title": "Iran attacks US bases in Gulf countries despite diplomatic efforts",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSFBwaGhhcWp1amV2U2hzUHB6WmpSal9TMGN2b1ZRTW0yRm1ld0xmby1KRUFTTDVyRmNQU0tXaGZid0hWV0cxaFpxeTR3ci14b2ZlazBUUlVGVXUzdE9SRzNFbU01c2pTa1NlWjNMbEp3dGtWQlJWYndZa2NKckUtZ05iWm1vRFk4dXltN2w5U0pzN0E4aEdVUTFQVEplNXF3MGhhSTMzVE5rcTFO?oc=5",
+  "published_at": "2026-11-18T07:39:26+00:00",
+  "sent_at": "2026-11-18T07:50:44.258118+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

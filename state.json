@@ -691,25 +691,10 @@
   "calendar_fetched_at": "2026-11-18T06:20:43.769697+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 275,
+    "count": 276,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T19:35:41.572842+00:00",
-      "t": "Iraq has reached understandings with US to allow oil exports through Hormuz, minister says",
-      "w": [
-        "allow",
-        "exports",
-        "hormuz",
-        "iraq",
-        "minister",
-        "oil",
-        "reached",
-        "through",
-        "understandings"
-      ]
-    },
     {
       "at": "2026-11-08T20:25:33.224948+00:00",
       "t": "Iran threatens to ‘rain down hell’ if US escalates war",
@@ -3715,6 +3700,20 @@
         "sites",
         "targets"
       ]
+    },
+    {
+      "at": "2026-11-18T07:50:43.572326+00:00",
+      "t": "Iran attacks US bases in Gulf countries despite diplomatic efforts",
+      "w": [
+        "attacks",
+        "bases",
+        "countries",
+        "despite",
+        "diplomatic",
+        "efforts",
+        "gulf",
+        "iran"
+      ]
     }
   ],
   "resolved_events": [
@@ -3747,6 +3746,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "f02c252f452fe3270b511b7edaeeea7c6ef1ff764de8d11483c3ee014021bd05",
+    "4d476a973196c01a7da3621999d4e611f11e53aa81f53011f698492c6b671365",
     "ff470803691aa9b83705b7a62f58566b9691ff5e3688a44b66cf9f6ef99e08d5",
     "c1f20f8188bba311fa4b203fa99718adc2afc99a341b8855e0e450efa00c4731",
     "9747cd8eb3ee31c9ab3730e447e356f3983835e116f11f72f7b6bcb3b804b533",
@@ -4744,9 +4745,7 @@
     "8ef0d2d2c80b69bcd41ced230efda7cf854ad90c4cbca3fb4cf4dcfcd0d5d43d",
     "ddcf036c76df181c30c6a4a59f20fac00405d0c2c7b4f94f67b25b82616d1163",
     "8fc4b5deb41683af2ea1309b3003a2e37e52c7be0328f2b3d17b1a814bccaf8b",
-    "219d05da175b62fe4a12764871d53a051741950d5cb78d3857a0730af92b6f13",
-    "14bcbe0d6e2b04a067cf2a6788d3f3ccd92c736e9070c25ec29907f06b9a1cd4",
-    "1c16c170bf172fc19d81078c144b6f00a957365935a5a864725f58b1a0f768e2"
+    "219d05da175b62fe4a12764871d53a051741950d5cb78d3857a0730af92b6f13"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
