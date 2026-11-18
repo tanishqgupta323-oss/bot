@@ -19858,5 +19858,31 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Jerusalem Post",
+  "title": "Kuwait, Bahrain come under attack amid heightened tensions between United States, Iran",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QeTRlNmtkbFdLalhzVlY2NTZkb3hQOS1qQkFOUzJUZEVJMUxINmsyalNEM1JnMnRwYmJpRXE3S2RNTTNsdHIwbVZKRmY1a3BEdXhlNXZ4Qmllek1Z?oc=5",
+  "published_at": "2026-11-18T00:26:18+00:00",
+  "sent_at": "2026-11-18T01:35:37.407741+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.011,
+    "XAUUSD": -0.2816,
+    "BTCUSD": 0.0459
+   },
+   "60": {
+    "EURUSD": -0.011,
+    "XAUUSD": -0.412,
+    "BTCUSD": -0.3329
+   }
+  },
+  "checks_base": "published"
  }
 ]

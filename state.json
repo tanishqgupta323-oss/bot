@@ -691,25 +691,10 @@
   "calendar_fetched_at": "2026-11-18T00:11:04.697647+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 214,
+    "count": 215,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T10:40:47.178324+00:00",
-      "t": "Saudi Aramco Riyadh office hit as Houthi missiles target kingdom",
-      "w": [
-        "aramco",
-        "hit",
-        "houthi",
-        "kingdom",
-        "missiles",
-        "office",
-        "riyadh",
-        "saudi",
-        "target"
-      ]
-    },
     {
       "at": "2026-11-08T10:45:44.630801+00:00",
       "t": "Israel defense minister says ‘mission not complete’ on Iran",
@@ -3696,6 +3681,23 @@
         "reinforce",
         "toward"
       ]
+    },
+    {
+      "at": "2026-11-18T01:35:36.145244+00:00",
+      "t": "Kuwait, Bahrain come under attack amid heightened tensions between United States, Iran",
+      "w": [
+        "attack",
+        "bahrain",
+        "between",
+        "come",
+        "heightened",
+        "iran",
+        "kuwait",
+        "states",
+        "tensions",
+        "under",
+        "united"
+      ]
     }
   ],
   "resolved_events": [
@@ -3728,6 +3730,10 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "0ba53d6338062d174a30d74ee0cb7863b4e3bc50448ce13c0c3d074d033ed25e",
+    "cc8c3524c63e51ae54c1f686fc55e1fe4cb69d77e0c2b6fceb9f7365cfafc919",
+    "17d34efb4f9aec0b0a451a24b3cdb296a1a93eb3af871ff6ce9ef7e07667fc2d",
+    "ff2116d23bf5e6a3d6ebc56c6fc1297c54e6704d9d85c8aca1845b97f1d95952",
     "2ffd7a8937cbb4016bb3eea767e18d6e595044f6a572df6dcd173056a183db7e",
     "c8c9f2f9fd1125304006aedeedb0a4095f88ff7c793b3dbc3fe137ca6d027c7c",
     "f40dae6014e69b5f745554e3361d251e9d14a5fe294909e56af086de32f42030",
@@ -4723,11 +4729,7 @@
     "75d0fe7183cbb5ee61fdc5124d64bf30f22e68c0ffc28a5d386bf5d9c10a2c48",
     "b501fa9ea09e4397e88902e59f6f799377e3418e51fabc6dd1b9c97eb1554357",
     "6225f29aea4dd279b5de52bef5915263b52172b327851b0fdbd71a2ff553c038",
-    "be3e32920869e8cf8c9bb76a0a44fe3fa0e503e31de7092b08b36c7774cecca3",
-    "9a76b4bd68d17998da92180036e4c7839f3e22c9e4ecaeeb59e1f132eea80ea0",
-    "cb11260f7f02bc6d557735889ed60f33c10bf6b6f21c73f95f78a4f289149b7d",
-    "4e998d806cecdecce0cdb75b548fa5c6d8f8533c117c8959f6f4698ac1e25dad",
-    "73e2d13ef0e9ceff53a43a5fefc841e6c72b5ef80548f923fde1cdb0a2f90578"
+    "be3e32920869e8cf8c9bb76a0a44fe3fa0e503e31de7092b08b36c7774cecca3"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
