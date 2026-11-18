@@ -691,24 +691,10 @@
   "calendar_fetched_at": "2026-11-18T03:15:54.460069+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 257,
+    "count": 258,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T17:55:33.734590+00:00",
-      "t": "Explosions target southern Iran as CENTCOM announces new land blockade",
-      "w": [
-        "announces",
-        "blockade",
-        "centcom",
-        "explosions",
-        "iran",
-        "land",
-        "southern",
-        "target"
-      ]
-    },
     {
       "at": "2026-11-08T19:35:41.572842+00:00",
       "t": "Iraq has reached understandings with US to allow oil exports through Hormuz, minister says",
@@ -3713,6 +3699,22 @@
         "kuwait",
         "strait"
       ]
+    },
+    {
+      "at": "2026-11-18T05:35:33.407504+00:00",
+      "t": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+      "w": [
+        "army",
+        "attacks",
+        "drone",
+        "gulf",
+        "iran",
+        "kuwait",
+        "missile",
+        "mount",
+        "sites",
+        "targets"
+      ]
     }
   ],
   "resolved_events": [
@@ -3745,6 +3747,7 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "c47eeb6c6158eb4b412b7343da8b83ae152144d8a6255470052290ffe596e983",
     "015549c20684898df34bc4fccdffba72107bfce19a8f9ce8ad54c30f1b150892",
     "9b37bbafca21466eee2c32ae7c598944a9ee6b6bfc38a563120090f6582d5f05",
     "fe3386ea8210542daa7c838a80fd64ea8efef27460246cb0a9741e6b2ffcdd38",
@@ -4743,8 +4746,7 @@
     "12e6ccd733ac3c2ffc1eb7e424547bea9ed315923d92d3ac7f34aa01d07df072",
     "64f28d54c0a38a440a03b83acd6ac95a3bcd34d3ab461dc3b05c9950d259ccc1",
     "6bbe6e9d722130b6f1a6aefc2c75302c4911549c1556d5fe1ce3cf6ec8f126dd",
-    "d182dfb730b31ee7282f4768fed2ad5a71c4c60914911b42726e858af5dfcaaf",
-    "3e697299ae87fc20094fd479e0d16f393ba98d3ec2a8311b86bd4840cd976200"
+    "d182dfb730b31ee7282f4768fed2ad5a71c4c60914911b42726e858af5dfcaaf"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
