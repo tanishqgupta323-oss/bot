@@ -691,26 +691,10 @@
   "calendar_fetched_at": "2026-11-18T15:25:36.542334+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 105,
+    "count": 106,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-09T04:40:44.145760+00:00",
-      "t": "Iran says no unauthorised vessels transited Strait of Hormuz overnight after navigation aids destroyed",
-      "w": [
-        "aids",
-        "destroyed",
-        "hormuz",
-        "iran",
-        "navigation",
-        "overnight",
-        "strait",
-        "transited",
-        "unauthorised",
-        "vessels"
-      ]
-    },
     {
       "at": "2026-11-09T05:40:46.394552+00:00",
       "t": "U.S. launches new task force as Iran nuclear talks collapse and war escalates",
@@ -3721,6 +3705,22 @@
         "networks",
         "targeted"
       ]
+    },
+    {
+      "at": "2026-11-18T17:15:46.036057+00:00",
+      "t": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
+      "w": [
+        "arab",
+        "drones",
+        "falter",
+        "fires",
+        "gulf",
+        "iran",
+        "missiles",
+        "peace",
+        "states",
+        "talks"
+      ]
     }
   ],
   "resolved_events": [
@@ -3753,6 +3753,9 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "ada2e8a6c173b049c788d27b86d9b0f54c19296504f53f8d8db5af1ebbee5f69",
+    "5c44e0e831ad68f874cbe061ae9cb7eed8d895382c63319ba74997b825fc8aee",
+    "aa3c65d02158adc3712010f18f9f06d58596790e949da034937b531ea33100e3",
     "aab62384d8ee11de9e2a1769e1cc5296694b6b9fc0e57be5ab3429161c7e71a1",
     "d6398520c4349e8abf50b22555744099e65e87b13107f24437c4eda58ea21928",
     "f00309fa2b3c381fc23339a746cc9359c032832acfeb4c2850e83a7c2fde171c",
@@ -4749,10 +4752,7 @@
     "020c45209cd9a058ce1b4285ae4db3a9df207d126bae3d7891775e7a0490b8ff",
     "5d504a89a8eef749d8570325a039125d292d401cf27a485ba09c33ccbfa2c22a",
     "3d190b00e270cb432922af6ff95fe36725e42ee11943e186a6161df86e26c0d4",
-    "90d3362a3b5e01ba81a9780acd537fbae153c31477b1bfb1ce22f2f08231b476",
-    "6655ebc9d1fcc863cb735ad50b93fc16d06d13ab6ba6a5f94a6d8fd56ef7a1d9",
-    "13221203693704a1e45cefb4e0df00c2d0f4adaa8cf94765eb79f240ecd4f1ec",
-    "0c4e25d891fa7b2a691e719f0c8fe07fd9f7a74cf565efa930478dfe6e2622b4"
+    "90d3362a3b5e01ba81a9780acd537fbae153c31477b1bfb1ce22f2f08231b476"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

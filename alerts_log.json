@@ -20260,5 +20260,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The New York Times",
+  "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU2VLOF9QWEItcEJqTnpwSVhhVkhpSktfR0lBLTM1M2JUYzMyUjZQS2U4Umc3VEpvLWdoNUdqaXBvbjNRaVdneFBSMjU2anJtdE5kclE3dDA3SUR0Z2FXLVk5eTJyM2FPS0VHR2xYT3JiYkxXSDU5VklWMDNVNlN3ZE5JQ2ZESjBBOU14djBDOW5GNEpuLWtva0dmcTc3dw?oc=5",
+  "published_at": "2026-11-18T15:37:11+00:00",
+  "sent_at": "2026-11-18T17:15:53.138747+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0439,
+    "XAUUSD": -0.0931,
+    "BTCUSD": -0.5016
+   },
+   "60": {
+    "EURUSD": -0.011,
+    "XAUUSD": -0.447,
+    "BTCUSD": -1.4981
+   }
+  },
+  "checks_base": "published"
  }
 ]
