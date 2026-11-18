@@ -19917,5 +19917,26 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Japan Times",
+  "title": "Ukraine hits Crimean bridge ahead of meeting between Trump, Xi and Putin",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1c0M0pUdWxwRzdYRFM2bHBzUVhvalVQcE5ubU42TjN0eC0wUWRDRDk1empzRFRWNGpMOGRjWktPYkZWNS1RSGRGMldLTlNqUGxnUmpOMFJKNUV5Wldmc3p6VEdBZzh1N0x4LWtyZG9pVkotOW43OFlOdnJFZFFZNzRjV3VQTmpaT3NpUV9BNEp4R3BpWW5rdERn?oc=5",
+  "published_at": "2026-11-18T02:02:00+00:00",
+  "sent_at": "2026-11-18T02:50:44.914158+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.011,
+    "XAUUSD": -0.1945,
+    "BTCUSD": 0.1329
+   }
+  },
+  "checks_base": "published"
  }
 ]

@@ -691,21 +691,10 @@
   "calendar_fetched_at": "2026-11-18T00:11:04.697647+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 228,
+    "count": 229,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T13:35:36.137367+00:00",
-      "t": "Iran says 3 tankers caught fire in Hormuz",
-      "w": [
-        "caught",
-        "fire",
-        "hormuz",
-        "iran",
-        "tankers"
-      ]
-    },
     {
       "at": "2026-11-08T14:20:45.233066+00:00",
       "t": "As tech swoon roils market, US inflation data on tap",
@@ -3702,6 +3691,21 @@
         "rate",
         "supports"
       ]
+    },
+    {
+      "at": "2026-11-18T02:50:44.292174+00:00",
+      "t": "Ukraine hits Crimean bridge ahead of meeting between Trump, Xi and Putin",
+      "w": [
+        "ahead",
+        "between",
+        "bridge",
+        "crimean",
+        "hits",
+        "meeting",
+        "putin",
+        "trump",
+        "ukraine"
+      ]
     }
   ],
   "resolved_events": [
@@ -3734,6 +3738,7 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "bad3a91794d4aa01cbeac53d8c8769f71fc6f8e0a3234c1ed9a9efc8ec8d68fc",
     "1636f297df7f0bd55c8edc1a6249559f193d66c0e9707a041f61eda92a460bb9",
     "9c5030d37e2967bff4b1bd9c78f95ec589451fd2a421089e6c360ea1f7a76655",
     "2aad6328a589877b3507827ddb72e850cb3bba7c704d5d48b0051088e7cbbb8e",
@@ -4732,8 +4737,7 @@
     "47148003bbf756e7c9f95bc886dbde845daf6c4f1403749108eece06b6c81376",
     "ef100f0d329235a7ec8bfdbce2739f0de08f77b97a4b2b60d4ebec159a3dc4f9",
     "6764a50d9e907c63dd794bd6612736360ea74b27bab29a512803e4c9aaa9faef",
-    "6dd523a7dcfef4f9a26aa96081975be29cc38a1e9b86885588c24014093f678b",
-    "73f13e7343fa99fb564ddd00939fd04c23f0ab5c68a78b86b266339899007345"
+    "6dd523a7dcfef4f9a26aa96081975be29cc38a1e9b86885588c24014093f678b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
