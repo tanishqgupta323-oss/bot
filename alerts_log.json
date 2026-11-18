@@ -20312,5 +20312,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Fed’s Barr says rate rises likely lie ahead for economy",
+  "link": "https://www.investing.com/news/economy-news/feds-barr-says-rate-rises-likely-lie-ahead-for-economy-5036832",
+  "published_at": null,
+  "sent_at": "2026-11-18T18:45:45.776515+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

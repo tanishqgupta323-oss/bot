@@ -691,22 +691,10 @@
   "calendar_fetched_at": "2026-11-18T18:31:04.812010+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 122,
+    "count": 123,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-09T07:35:33.426260+00:00",
-      "t": "Trump says Iran war 'highly unlikely' to resume",
-      "w": [
-        "highly",
-        "iran",
-        "resume",
-        "trump",
-        "unlikely",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-09T10:50:47.569870+00:00",
       "t": "Trump says US has ‘won’ Iran war as Rubio reports no progress in talks",
@@ -3718,6 +3706,20 @@
         "substantially",
         "threats"
       ]
+    },
+    {
+      "at": "2026-11-18T18:45:44.455484+00:00",
+      "t": "Fed’s Barr says rate rises likely lie ahead for economy",
+      "w": [
+        "ahead",
+        "barr",
+        "economy",
+        "fed",
+        "lie",
+        "likely",
+        "rate",
+        "rises"
+      ]
     }
   ],
   "resolved_events": [
@@ -3750,6 +3752,15 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "4dc6b4b852375acf01978256bf0e75e07a14f8d71afec7b8bc8022e65f689913",
+    "7814855a351fddd41c3237bccb17826f8014d12e3c00168db0f1ad33dbf74efe",
+    "a818712b7c4bdeea705c77bffd436302669ae56b9ac731073d619c6c9b95faa0",
+    "b6277cb7e9ec91b7ada8a920fa4627fd9887dcb1775566a4e08865a6056b0cab",
+    "0f26252a74b5a7704e1456516427f0fcaf60d3c26eead14e122b7b22747a6a9c",
+    "76916bc08dcabf8b3288a14d87baa8e094679362dc40171e9090ec1db23e3ba9",
+    "6326881478da5e2ab149b382633636e013cd6aff7cbeeceb1aa2282a3a364c06",
+    "a2e70b7e058aa00d9c9c08c221d93656d3c8dca9f5fed7e481bd7358b538e2f7",
+    "d91e9c2f1089a30d4c14f1b66593c6605d16e388abeda8d31537313732349c78",
     "2f20c3d31014e792e7614d07aab2745df683f671e081f202597501cb176b7e98",
     "edaec1a91037dd2f60694125a37a2fc8f2edfcd8646666e876ca16313b99296e",
     "1586289449e5dbed93026afa16e0edf37ed58814783c2cb48a354f801f4e0dbc",
@@ -4740,16 +4751,7 @@
     "3909bd91567e0eb2679afb60968264fdda1b28bc0919122ff09880c794eff032",
     "6d4bf08635f6444f5bb7154e0ca0ba78f24722ab93d8831f638b2f9ab994cd17",
     "7dddf84be42dc829b705bfc1a63dcd543ce20c809f2516c9ee19af8d6b616877",
-    "1cc26a42ae2ad7d51cfdb65ee897e8dde798192c97d579ca204b074f449d0e88",
-    "bee88b0adbad8740727027c5c80d24ce92ea41e05e0610e6219cccfbeb2717d0",
-    "4da8bbbaf301de78fe01d8dfaeeb073a7c6fd5df38eb0ba1e8368822e2e1c413",
-    "0bd842c560c9f89cc023ff4a721d9599c700b36b1335902b0b99b23db32e2cb4",
-    "a2795514fc9216d5f8557d11a0f4b723bf138566d73c542886ad0a167195be1e",
-    "0cbb3e6b0c9e4ec7a245934c7989b05c654e4f175c2fe8ccb4a11562cec2659d",
-    "27147d2207739761b1d1d9851f82d272debbea0dc477a6911ff21a4f9ea7d9b8",
-    "8b6c65db77145a7ee7529b270a325c10cf37a8e246bf12fe8d5ea3c3022eea20",
-    "04a090ad442acf9a1dca65e749674a5f439864cd7b7661c2b5607cc9fdf7cbbd",
-    "a63808079d099a2840ff6d89f6de63b337840cb1566f1615a59477f7296a1cc0"
+    "1cc26a42ae2ad7d51cfdb65ee897e8dde798192c97d579ca204b074f449d0e88"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
