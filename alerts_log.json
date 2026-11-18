@@ -20208,5 +20208,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "تسنیم",
+  "title": "Trump Facing Dead End As Iran Holds Upper Hand in War: IRGC General - Politics news - Tasnim News Agency",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGZqQ0NFdGRVbm5STVpMTElfekpHdGx4WHZ2RDMxSnhGTHlJZ0FrNmJjay0zNGtGWEd4a0RtNmEzWmo3bHhhRFRZV1lQWER4alVBSVcxdFlPaTNZVFBtMUZCaEs1NWZoMlFlZ1NCM3BMdmkwRXlod29pY2ppcjlrV0Z0WTFIU042NWJjMkg0N3ZPRVNvMTY4QkdrMVp2UHoyalJ6cW42M0g5ejcyR3NzV0pxYkh1N0c1U0p3?oc=5",
+  "published_at": "2026-11-18T14:05:58+00:00",
+  "sent_at": "2026-11-18T14:35:56.610648+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.1928,
+    "BTCUSD": 0.0849
+   }
+  },
+  "checks_base": "published"
  }
 ]

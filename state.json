@@ -691,26 +691,10 @@
   "calendar_fetched_at": "2026-11-18T12:20:56.551438+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 74,
+    "count": 75,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-09T00:05:34.059161+00:00",
-      "t": "Trump eyes Xi, Putin meeting at APEC on Iran war, says he’d ‘certainly take’ Huang",
-      "w": [
-        "apec",
-        "certainly",
-        "eyes",
-        "huang",
-        "iran",
-        "meeting",
-        "putin",
-        "take",
-        "trump",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-09T00:15:48.206832+00:00",
       "t": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets",
@@ -3720,6 +3704,27 @@
         "psychology",
         "waller"
       ]
+    },
+    {
+      "at": "2026-11-18T14:35:49.506256+00:00",
+      "t": "Trump Facing Dead End As Iran Holds Upper Hand in War: IRGC General - Politics news - Tasnim News Agency",
+      "w": [
+        "agency",
+        "dead",
+        "end",
+        "facing",
+        "general",
+        "hand",
+        "holds",
+        "iran",
+        "irgc",
+        "news",
+        "politics",
+        "tasnim",
+        "trump",
+        "upper",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3752,6 +3757,11 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "458b57772f25aee9bc2d1f1d4baae6bb9a9e93f732121e9ac0a9d312eae18b9a",
+    "dc5b0b51461286f1cde0fe59c416ae6a4b2c956c97c2599fabd72726c4bd99f1",
+    "83db2827928e231e1d4522ebd7ddd4b53eafe5b3cd93314b956572163ccb6a7d",
+    "325a2be714d2793048c71e773ffc637d87b4ab2da5fb3c04ea1f40eca9cd0d62",
+    "30e0e44e5ab00f21399395eaf1683ac5a6be74751e0349471f212905dcf462a2",
     "1618b8fea9c171e309f52a496304c16cd379b332b911ac1e4e76d4f101fcbebc",
     "f5bc81aa3a8d86d8441d946e77c97b6b936fd73a78de1c3845a495f027317c22",
     "d86d5d4f75e52de33f9177a7a377b9ceef76e26c6d3e72771716283b9688f4eb",
@@ -4746,12 +4756,7 @@
     "a76900e06568341d8b5175765e7e2549b2e4d1c85e3c46e617130eb31838e1b0",
     "b13b6c1a10c007872fc102b11c9fd8408936bf1f80bc21d01620e92c90da1d88",
     "fd2c0518a15e9dc44bbb0ec2a3a87f417ab2669b5d75e54a58a2f79b3043359a",
-    "88a735f3cb5f88036b09f7175db6ad3308a83146bb2b5e3c02142c870317893b",
-    "63a179581eb56bc75762b81e0d7d413fce250ff9c2984bfd79cb8c4714625dbb",
-    "2e154405c77cd283aa4b024a49a019de52a5e47414429b36c512f5c20fe6d203",
-    "d38bada3741662fc04b4a899b31525850a83615a096f83c96b33cc43b6eb908b",
-    "e6ae89bd145b6fcb58a0756887295a5d174fe131c6dd0e0fbd18ec93c4d3546d",
-    "c1cd38324881fc0f804b57c40ad09ce5c08dfc4990eb84ddfaa921607b71f8bd"
+    "88a735f3cb5f88036b09f7175db6ad3308a83146bb2b5e3c02142c870317893b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
