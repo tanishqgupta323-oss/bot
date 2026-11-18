@@ -691,22 +691,10 @@
   "calendar_fetched_at": "2026-11-18T00:11:04.697647+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 219,
+    "count": 220,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T10:45:44.630801+00:00",
-      "t": "Israel defense minister says ‘mission not complete’ on Iran",
-      "w": [
-        "complete",
-        "defense",
-        "iran",
-        "israel",
-        "minister",
-        "mission"
-      ]
-    },
     {
       "at": "2026-11-08T13:35:36.137367+00:00",
       "t": "Iran says 3 tankers caught fire in Hormuz",
@@ -3698,6 +3686,22 @@
         "under",
         "united"
       ]
+    },
+    {
+      "at": "2026-11-18T02:01:13.001070+00:00",
+      "t": "Dollar holds near 19-month high as data supports case for US rate hikes",
+      "w": [
+        "case",
+        "data",
+        "dollar",
+        "high",
+        "hikes",
+        "holds",
+        "month",
+        "near",
+        "rate",
+        "supports"
+      ]
     }
   ],
   "resolved_events": [
@@ -3730,6 +3734,17 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "f8aa0d84c1ca6c77009b8f7c00c13b957ff65ba422a6856ba3c1d9f42bd18e6e",
+    "cd1aba7d956d1cc9f27e7a2b832001f24683c2ca248898afab3ef85119c724ff",
+    "d57e85d83bb4d72c11876bb186bf8cbeb4459b775e43fe0474547b9a3f1eecd5",
+    "fc5941e43cbfb69a1296f2451b677fbc624ba9ab9b93f48cbd5e9cc966462876",
+    "b95a22b96a87e18aee633ead34ef9aa655962eafeb55ae7ac58ec51ba11f476a",
+    "18a6a062230f1b8aee88ca942c5abf8a813812332df0a197c9daac0241d57e21",
+    "011cdb3871a2a1cd640eb9663dbb131be35bd252739f94dfc9ad3b408fc9a26a",
+    "1678233a465f8067862d0e5f10fe415814609ef30a94f8bb03f0bcbde043a913",
+    "b501fa9ea09e4397e88902e59f6f799377e3418e51fabc6dd1b9c97eb1554357",
+    "9cc8fab4bfdf0b77c916e0e8161e32ad38d0068bdbb98d07572a7ee71a2ae18d",
+    "7f4e8d555b1ea1b01e724a62e2509594334d7c42f615a79f76a8036b9d164bc3",
     "d75a10634e3289307f5c5b390dc441a45d1ab85efe33b3f6467423642cd2d5b3",
     "e94dbb9d668ffee3a0737f0d0ae294c64a360799116efa5de126e571ed1aa92b",
     "1e159c2e00708d70c4fe40f066e8bb1345803f8d9bd6d1e7ab409b4d299de154",
@@ -4718,18 +4733,7 @@
     "0132c21acae2aa24ce0389f561e75f769f46fb9cd2f5ab649ef3edff1e760873",
     "5d5fcfcf5eac6d98a2efb4a0d8402a2c474badf1e0327d7e8677aad486022453",
     "08907e0fe8c73bf07fadfa75629f9e0c1b1ca12983d98c3c4faa16fec9ae827e",
-    "1c3efc632c271e06044f66e0523c9b50d33b1f79751a8c6fb2a06ac39fc31085",
-    "9ea913b6a7b6df25af44616d2f3f28e672fbc5fee15b8051c2b9ce8afa6f0ac4",
-    "b876ec02adbb32a40c5d08f1e19519871e7c423c503eff0649e412b9303faecc",
-    "c2363741e17b5259e814a01dc4dde96121313b355429c4b95d41fdf3207136ae",
-    "59d4d2dc7225e0be3a4fbdaeb15ebaa22270a545a64d8768c2630240a57b193f",
-    "a030ba34fee28766f5d51b1a38fd1968554bc930ffe5c2198e2688bd8d7584af",
-    "4db991a257e6ba0d04ff49de707da04c65dd5c81b0a8cddfc92595c71537495a",
-    "160e385b64dc60b1ec3d83cd41ee50769ce0134a78ba5a434ca22ccc6ca4b144",
-    "f1a72ea1e0cb2632813606be8b63e5d46bfbe00070dbfa767e94bf75ce76ec47",
-    "58d619143059ae6b4f0bc90738c3ba2b20e4f1c8dd1042b1092dddcfc34cb985",
-    "011daf7a958a19c843505fc3e22d4e76cbb2b9b19b9030c836a4a8a48c384796",
-    "e490fd6a31252c4c58329a9823b8695dcf3efeeffd21ff87b261a2bd3df540de"
+    "1c3efc632c271e06044f66e0523c9b50d33b1f79751a8c6fb2a06ac39fc31085"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

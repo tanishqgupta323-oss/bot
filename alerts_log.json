@@ -19891,5 +19891,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Dollar holds near 19-month high as data supports case for US rate hikes",
+  "link": "https://www.investing.com/news/economy-news/dollar-holds-near-19month-high-as-data-supports-case-for-us-rate-hikes-5034498",
+  "published_at": null,
+  "sent_at": "2026-11-18T02:01:13.826389+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
