@@ -20286,5 +20286,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al-Monitor",
+  "title": "Threats from Iran have increased substantially, US intelligence director says",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa0NGNU1ERG1ucm1aMWl3VHpqbFBMRXd5S1ZkNjk2UDVhazQ1NGR0N1NDQjFDWDNfNFpsb2Q1dHJuNGdyWWhrMk5BMUdxMW1scmZFZ1MyM0hyZGZSTnVGeEhMQjhKck13UzhScmNCMVZzYnhBWENBd3M1QzhuWE1LUDRHU3Q1dktoSlFWX0xuZHNGd05Uem1aRmwwdkp6dVVrZS1MRmpUVE8zNG14ZHlkWE5zTmlUdnM?oc=5",
+  "published_at": "2026-11-18T17:10:16+00:00",
+  "sent_at": "2026-11-18T18:40:53.703965+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0439,
+    "XAUUSD": 0.1869,
+    "BTCUSD": 0.8767
+   },
+   "60": {
+    "EURUSD": 0.0988,
+    "XAUUSD": -0.1015,
+    "BTCUSD": 0.7432
+   }
+  },
+  "checks_base": "published"
  }
 ]

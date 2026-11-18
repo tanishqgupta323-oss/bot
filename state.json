@@ -691,25 +691,10 @@
   "calendar_fetched_at": "2026-11-18T18:31:04.812010+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 121,
+    "count": 122,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-09T05:40:46.394552+00:00",
-      "t": "U.S. launches new task force as Iran nuclear talks collapse and war escalates",
-      "w": [
-        "collapse",
-        "escalates",
-        "force",
-        "iran",
-        "launches",
-        "nuclear",
-        "talks",
-        "task",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-09T07:35:33.426260+00:00",
       "t": "Trump says Iran war 'highly unlikely' to resume",
@@ -3721,6 +3706,18 @@
         "states",
         "talks"
       ]
+    },
+    {
+      "at": "2026-11-18T18:40:47.624366+00:00",
+      "t": "Threats from Iran have increased substantially, US intelligence director says",
+      "w": [
+        "director",
+        "increased",
+        "intelligence",
+        "iran",
+        "substantially",
+        "threats"
+      ]
     }
   ],
   "resolved_events": [
@@ -3753,6 +3750,9 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "2f20c3d31014e792e7614d07aab2745df683f671e081f202597501cb176b7e98",
+    "edaec1a91037dd2f60694125a37a2fc8f2edfcd8646666e876ca16313b99296e",
+    "1586289449e5dbed93026afa16e0edf37ed58814783c2cb48a354f801f4e0dbc",
     "fb9af51eba5076e8b0c5b42e5b098c2a9869786a6cd58181b6e2bddc0bdfaaa7",
     "53bc480264e8e67472546c257370a5e1e105cb24891a6f3a0a1bb465ec5c970f",
     "424c33dabcbc8783bd5d7a22c088929e335ac9000d9780f9dd5a0d97c4f5f98f",
@@ -4749,10 +4749,7 @@
     "27147d2207739761b1d1d9851f82d272debbea0dc477a6911ff21a4f9ea7d9b8",
     "8b6c65db77145a7ee7529b270a325c10cf37a8e246bf12fe8d5ea3c3022eea20",
     "04a090ad442acf9a1dca65e749674a5f439864cd7b7661c2b5607cc9fdf7cbbd",
-    "a63808079d099a2840ff6d89f6de63b337840cb1566f1615a59477f7296a1cc0",
-    "e8ae2cbd9d298c559729bd0109a6d5f1c2a39faa1b339442eb417d7cb49f0e7c",
-    "32cf1609ad319b18b5df912fb64917ba9def16797371e9ced270e3846d8a9fc9",
-    "5a51fae5a1d857bff229b170274f26fee70f56ffa7a67b1f663691584b069743"
+    "a63808079d099a2840ff6d89f6de63b337840cb1566f1615a59477f7296a1cc0"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
