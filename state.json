@@ -691,29 +691,10 @@
   "calendar_fetched_at": "2026-11-18T12:20:56.551438+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 53,
+    "count": 54,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T23:05:38.936807+00:00",
-      "t": "Weekend: Houthis hit Riyadh’s Aramco Tower and target oil storage as Saudi supply risk grows",
-      "w": [
-        "aramco",
-        "grows",
-        "hit",
-        "houthis",
-        "oil",
-        "risk",
-        "riyadh",
-        "saudi",
-        "storage",
-        "supply",
-        "target",
-        "tower",
-        "weekend"
-      ]
-    },
     {
       "at": "2026-11-08T23:40:44.318559+00:00",
       "t": "Iran vows ‘astonishing’ strikes and lifts missile-range limit as US targets land routes",
@@ -3724,6 +3705,23 @@
         "trump",
         "whole"
       ]
+    },
+    {
+      "at": "2026-11-18T12:50:46.933846+00:00",
+      "t": "Fed officials set to raise rates again in December, but the future still looks murky",
+      "w": [
+        "again",
+        "december",
+        "fed",
+        "future",
+        "looks",
+        "murky",
+        "officials",
+        "raise",
+        "rates",
+        "set",
+        "still"
+      ]
     }
   ],
   "resolved_events": [
@@ -3756,6 +3754,18 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "fd9cc1e535d8641e552983feb417765b2c7e59f0cefd84a0ac89ed3942521149",
+    "7831cecba5ab594e4796718b064f95610f765264d611ab8aa38637676419549c",
+    "a6ee525560f5f1a284b9d8ee0daa9b4ca98eac3d8896430bfb9052d339db1e9b",
+    "507e00010a9261aec0a1d96a839d0babc5397d1384624956add476472704f95f",
+    "4bf9ed0319a6474dc30fb5c82619d8ba6dec40519708c75a5464c9f5053f6ac2",
+    "1425c794a7317523c9d5b45af82c166f39c0b1f6326e8adf5493569fa1551a44",
+    "3eab3010067b096eaf130476478cf72e80ff50dba7951ca002750e2476bc9444",
+    "cab64a72266745151cdd2bf20c31ef187785fec596a44d67606e31f4b777fc35",
+    "b32258306f4c859495f6839a9d2d45b9a164de28a906368d6d19a4e0208e48c6",
+    "1fd940163e55e6e347a66fa9df4757917ab5cf9dff4fac27b417dc9c7e2b436c",
+    "f91b3f24f1698e15f2ce8d352d4be458cb7610e5a1cd4dadc32453921d11b3ba",
+    "7be827d580c94d832165dd9d72aa6540dea503eb352b2c8e842c18c7c4e0e239",
     "00e7495825baa6778b8b8f40de1acbb9ffe80fe5f653d31e37bc1be558f7b618",
     "523d112e9f457a07e434a3d1b01e8ef54f8727213e1aff93d9fd85af985b80fe",
     "362e582140c443b51b6a8715f161e6511a756578ac74dee61f6e641d4cc90918",
@@ -4743,19 +4753,7 @@
     "4bfba60802dcce5fe5b92352768d7709c95e87589318da0830dade736c3eb8b9",
     "91cf1821941249af6f5f370be227d2be60cd334264653d4148fa5af306a214a9",
     "371ff039b1394ca1951eff6c757260534af652de5f9e840e5aef0d752df316fb",
-    "86865ab34285960636c2138c7e378630a64753973315d992a8e9c5e06942707d",
-    "67aca7ad8a326d24f5c0de60ceadcecae1f60ac2cb5e5c3a05aa6e9c451c3c1a",
-    "42a4f30e2793ce5d871be8300aa8bfa581a982877214caff0ed99d48f3be7e60",
-    "45ba1c7d61aefe7358ffabcfcbd82415d8e1b23c96d6e153e76e39caebe39103",
-    "2b79530e312c2eea543bfcc32f346d60c067d8a10f70dbeaf1cddc8ecc8ab4d4",
-    "524087cb69bb02f99a2fc470a18e2c069f848afa023d9810206fffc4c88b70f9",
-    "96fb7d6841ca50ebc0f9cfbcfebe52f2c1f77bdeaf6f7466de20d1e82233c4aa",
-    "284fe25208fb09fd81badb2be89de11f12c49b01c2f3036b8161b1c988ea4acd",
-    "fd5e70202a8e7fea303caae353d18f7f1842107f504733c42d1ff1d1a418cfee",
-    "035e80101ae1b84e6afbb586177de0263534da1c5a3c955c37d94a5500164a08",
-    "7343143a274709be6d14d0f2b9210fc7bdfae35a6bf0ca7e797ddddab26d2f56",
-    "c834d3864fce7d84486ac3f8ead16a65156aff0dcea1be28d2dfbd32d813a055",
-    "0c97591f3320c6324bf29ad18aa02acb28fd9c0203b389c578e03eabbe018cb4"
+    "86865ab34285960636c2138c7e378630a64753973315d992a8e9c5e06942707d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
