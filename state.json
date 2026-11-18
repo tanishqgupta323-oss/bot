@@ -691,27 +691,10 @@
   "calendar_fetched_at": "2026-11-18T12:20:56.551438+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 56,
+    "count": 57,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T23:40:44.318559+00:00",
-      "t": "Iran vows ‘astonishing’ strikes and lifts missile-range limit as US targets land routes",
-      "w": [
-        "astonishing",
-        "iran",
-        "land",
-        "lifts",
-        "limit",
-        "missile",
-        "range",
-        "routes",
-        "strikes",
-        "targets",
-        "vows"
-      ]
-    },
     {
       "at": "2026-11-09T00:05:34.059161+00:00",
       "t": "Trump eyes Xi, Putin meeting at APEC on Iran war, says he’d ‘certainly take’ Huang",
@@ -3722,6 +3705,21 @@
         "set",
         "still"
       ]
+    },
+    {
+      "at": "2026-11-18T13:05:37.189070+00:00",
+      "t": "Fed's Waller calls for more aggressive action to break psychology that 3% inflation is the norm",
+      "w": [
+        "action",
+        "aggressive",
+        "break",
+        "calls",
+        "fed",
+        "inflation",
+        "norm",
+        "psychology",
+        "waller"
+      ]
     }
   ],
   "resolved_events": [
@@ -3754,6 +3752,9 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "bb7bedeba70b1a9d0c578dae3afb548a94996db4803b054faafde6c2da55dab3",
+    "56a5cc7709a7fcd0e26a7ba4583afd250ccd9817a3458710b58a9b11457bcfc3",
+    "55bcfbd3f3c3c7bf117bd459767be4082dc3b75aab924ee889debfd3e2852d23",
     "87edd77ae5c1eaf10a112e6f3ca3b1998e6e96bbdbe73b4f83e078df722b7748",
     "ec930f47d0c2bb2b0ea34fbb729be9e10794721494c124c0c86691ffeae6be08",
     "7c5f1b8be803aba2250757fbc1407dcc91bfa84ba7e5ded8205e47cb98b7ee1e",
@@ -4750,10 +4751,7 @@
     "93b90ac6de9c3104c133042eaa24d77939667ca9846779a0035da5a62284f60d",
     "3ac7bbee2630f8cf24b9638daf93bbf579a41025ef6e44af909d2465682784a8",
     "68b66b52aefe655ebe9cd5a891e4b1f13d58fb008954a4add57eaada95b84350",
-    "edc91a84859d1b626c7f3fd569f70ec387cf611f6c29052c2d8fcde800997d0b",
-    "7e89c00fef4e2c38e6d833396eedb2f687e296eb658e21c2ed132c5cd039d597",
-    "3c04761ff15821828a16da18fc25468e15ca3706012a62b4de9665cdb1cbd998",
-    "a6724bd4a090c9f0036aca911b3b760507b557640f1f5e04d37256d77ca2a1e1"
+    "edc91a84859d1b626c7f3fd569f70ec387cf611f6c29052c2d8fcde800997d0b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
