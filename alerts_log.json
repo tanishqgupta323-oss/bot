@@ -19948,5 +19948,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Gold’s worst enemy right now is a 5% Treasury yield, not the headlines from the Middle East",
+  "link": "https://investinglive.com/commodities/gold-s-worst-enemy-right-now-is-a-5-treasury-yield-not-the-headlines-from-the-middle-east/",
+  "published_at": "2026-11-18T03:23:32+00:00",
+  "sent_at": "2026-11-18T04:05:35.915945+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.2375,
+    "BTCUSD": 0.2954
+   }
+  },
+  "checks_base": "published"
  }
 ]

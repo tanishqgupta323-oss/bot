@@ -691,23 +691,10 @@
   "calendar_fetched_at": "2026-11-18T03:15:54.460069+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 241,
+    "count": 242,
     "day": "2026-11-17"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-08T14:20:45.233066+00:00",
-      "t": "As tech swoon roils market, US inflation data on tap",
-      "w": [
-        "data",
-        "inflation",
-        "market",
-        "roils",
-        "swoon",
-        "tap",
-        "tech"
-      ]
-    },
     {
       "at": "2026-11-08T14:25:35.415559+00:00",
       "t": "US launches new strikes on Iran",
@@ -3706,6 +3693,22 @@
         "trump",
         "ukraine"
       ]
+    },
+    {
+      "at": "2026-11-18T04:05:34.683632+00:00",
+      "t": "Gold’s worst enemy right now is a 5% Treasury yield, not the headlines from the Middle East",
+      "w": [
+        "east",
+        "enemy",
+        "gold",
+        "headlines",
+        "middle",
+        "now",
+        "right",
+        "treasury",
+        "worst",
+        "yield"
+      ]
     }
   ],
   "resolved_events": [
@@ -3738,6 +3741,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "b16edf4dcce8b776835858d4692682a1fd0487a48735c151c5fd6634fb350216",
+    "c678407d29b5d297b321a00493940d95a0edbc964a2bc1cf7cce4ae84170563d",
     "7f08acdce20f370e0a6cffecb75ca4f60d063917d06c70ffe43d43c2313124a4",
     "fc256eed61f3c119ceb0719d72be67898497b002e3124eed09e4bf6b30b3608c",
     "82136a21900643dea26247f265484ba8a75f79da39bd8f9e374b0d8db29e631e",
@@ -4735,9 +4740,7 @@
     "3d3e80e01bc9502229585bf8d265a07f6dc9f5bae7a4816f8965586f3cabbe5d",
     "da9622de32910cce1eec348f9161100dd8d1f748f410ba21d1c08dd64160ade9",
     "f8fa28b880e76d44bb7aacc97d0d9c911d4b15b8ec788918bc57ad3fb14c09df",
-    "81dad241daeaa2cf57a3bf32ccf0fe2395eece071a8847ee99c315a803d727b7",
-    "6d0b25143d5828d03f8b6cedba2ce3d5a7f847801ac5daf3dc9f448eb533e7a2",
-    "5aae5066d23088fefc8c9c7323d5ecb18e1470444e8503e96632473caf66b907"
+    "81dad241daeaa2cf57a3bf32ccf0fe2395eece071a8847ee99c315a803d727b7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
