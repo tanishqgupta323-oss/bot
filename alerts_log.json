@@ -20926,5 +20926,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Foreign Policy",
+  "title": "The U.S. and Iran Are Back to Trading Strikes",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRmRwZnJwc1VVa3JwRm9vcFRTZXRkUUQ3TXc3bGo3VzNFS2g4OHNiR2RITXFKcU0yZzU4aDZJTm9tMWZOZUdMeHptd0YzRVY3RzY1WFY4WlFuaHFTVTExNDBSTjZDUHNWOWF2ekZlQlAwZlVLZ1JhcndPWkRUNjNUSzJsVmVEVjZuekkzeUYtQVZtcW1CZHd5YVFuNXZSc2VN?oc=5",
+  "published_at": "2026-11-19T22:41:57+00:00",
+  "sent_at": "2026-11-19T22:46:13.293615+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
