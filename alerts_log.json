@@ -20619,5 +20619,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bloomberg.com",
+  "title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXdmV3hhblFoX2xZNXU1UVFXemNQdDJXUlpqV3o3bmxiNUVxNTFWRkVRektBa1o0d1N2LWhFcWJYZ0VYWWUydHhnVjFrQ3VYOUI1Z25abXdHV0JucmhFcTFBZTNKSjR6WXB1MnFVanVTekJxY2cyNG9HdzB4NlkyTUtaM3N5bFQwSVd5UGQwaHJNNlRNUU5KU2tCOU5uaEVoRXY5cUhEMHBtZEtxY1B2VkRtRQ?oc=5",
+  "published_at": "2026-11-19T04:41:00+00:00",
+  "sent_at": "2026-11-19T06:15:52.115008+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.0215,
+    "BTCUSD": 0.1426
+   },
+   "60": {
+    "EURUSD": 0.011,
+    "XAUUSD": 0.2765,
+    "BTCUSD": -0.2133
+   }
+  },
+  "checks_base": "published"
  }
 ]

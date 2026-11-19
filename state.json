@@ -692,24 +692,10 @@
   "calendar_fetched_at": "2026-11-19T03:40:45.418604+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 257,
+    "count": 258,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T13:10:46.163417+00:00",
-      "t": "U.S., Iran Exchange Strikes on Islands as They Fight for Control of Strait",
-      "w": [
-        "control",
-        "exchange",
-        "fight",
-        "iran",
-        "islands",
-        "strait",
-        "strikes",
-        "they"
-      ]
-    },
     {
       "at": "2026-11-10T13:35:48.743346+00:00",
       "t": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
@@ -3722,6 +3708,21 @@
         "pentagon",
         "strikes"
       ]
+    },
+    {
+      "at": "2026-11-19T06:15:45.883652+00:00",
+      "t": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
+      "w": [
+        "fed",
+        "gold",
+        "hikes",
+        "low",
+        "month",
+        "near",
+        "rate",
+        "signals",
+        "steadies"
+      ]
     }
   ],
   "resolved_events": [
@@ -3754,6 +3755,10 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "b0bd5759ecb581a453402844cf8e03bbc186710e6a1f8d089a98bcb7718f428a",
+    "98eea4ef6389f0edfd09675312daa641e4e181ee0482a4b74be18e75e114f152",
+    "d85a489fb74247f1b796d4e619d16d375e5b86b349c12cfb391910df0ba3ec02",
+    "330cb9aea8773ea772bea2d2dff57d6cc07625accef8728b0714c45dcbb2eab6",
     "60ec2e91dbb37f45e72391a9657888bb35ec1ddf3fc8a61ea7df58448c1b9eb7",
     "d1667c5d8ec1d9898ad4831e290fcd4b598578bbf0396c9488deb846465b01b8",
     "d3a6340151ab5e76617f00811cf9fe63ca3e4ba2993fb4af0df46b8b6f7fe141",
@@ -4749,11 +4754,7 @@
     "a6724bd4a090c9f0036aca911b3b760507b557640f1f5e04d37256d77ca2a1e1",
     "bb7bedeba70b1a9d0c578dae3afb548a94996db4803b054faafde6c2da55dab3",
     "56a5cc7709a7fcd0e26a7ba4583afd250ccd9817a3458710b58a9b11457bcfc3",
-    "55bcfbd3f3c3c7bf117bd459767be4082dc3b75aab924ee889debfd3e2852d23",
-    "87edd77ae5c1eaf10a112e6f3ca3b1998e6e96bbdbe73b4f83e078df722b7748",
-    "ec930f47d0c2bb2b0ea34fbb729be9e10794721494c124c0c86691ffeae6be08",
-    "7c5f1b8be803aba2250757fbc1407dcc91bfa84ba7e5ded8205e47cb98b7ee1e",
-    "ce4b12fe654546190eaab370e26e1f600e4ab0aa3277962dd680414ad11fc6c9"
+    "55bcfbd3f3c3c7bf117bd459767be4082dc3b75aab924ee889debfd3e2852d23"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
