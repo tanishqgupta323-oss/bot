@@ -692,25 +692,10 @@
   "calendar_fetched_at": "2026-11-19T15:50:43.860898+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 118,
+    "count": 119,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T16:05:34.574015+00:00",
-      "t": "Fed's Logan: It's clear that Fed needs at least two more quarter-point rate hikes",
-      "w": [
-        "clear",
-        "fed",
-        "hikes",
-        "least",
-        "logan",
-        "needs",
-        "point",
-        "quarter",
-        "rate"
-      ]
-    },
     {
       "at": "2026-11-10T16:50:55.831534+00:00",
       "t": "Deutsche Bank expects Fed rate hike in January 2027 after hot inflation data",
@@ -3723,6 +3708,21 @@
         "oil",
         "tankers"
       ]
+    },
+    {
+      "at": "2026-11-19T18:05:33.106254+00:00",
+      "t": "Fed's Goolsbee: Job market is stable, but inflation is \"way higher\" than Fed's 2% target",
+      "w": [
+        "fed",
+        "goolsbee",
+        "higher",
+        "inflation",
+        "job",
+        "market",
+        "stable",
+        "target",
+        "way"
+      ]
     }
   ],
   "resolved_events": [
@@ -3755,6 +3755,12 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "0bacf16ffb5ebcac376817663598df68744fde7271c3198adcdb61d3a13b8a45",
+    "b8f6faf792dca206a351e44d0fcf49cfbd287435edfb85da9eb5c130c255087b",
+    "76cc708422cefd9563ab38fe5ecc9d8b4c65a05f45eb51163d6760d6792f1bf7",
+    "9df94afee15abc1f48bbf48c13ba164f122cff110553f655f5420d29b08499cb",
+    "7bc5db7183f9d28df7aaf27eaedd6752c44b9e2f84b380b49c76e49a09152286",
+    "3fedfc3b7faa1a556f72981d62e7f2b9ced0935065d5ba44837d2be36285a6b1",
     "2324a200b34768bc7e2c4b1f06db53532c7d3f3f1e961939e1806f14ef384d48",
     "1ee66ad3305291a7399b760eedc3db664d289d3cd8bdd10ce72f79427c414dab",
     "aba4ff8660d64805f2ea9fca989acfb86bab43731cd93d64f371fb16b2d80c91",
@@ -4748,13 +4754,7 @@
     "926ab488fce12a8175318eee66225817899d8e21e5c3a2c6741d651ae13ca37b",
     "1fdbdf10b5b7b981f11e38f6771854e79180595c40d06cc5fc0e192cffbdcf4a",
     "d50296f029d09bcf06767455a3d6dfe0dec602043bbcc74855335407645d60c6",
-    "175155e0fed4c031b5fe26ca4044747a17f4a0f536fe2b6f1278040cc398e3c4",
-    "c61410d44eed32e2799b1e22a91effcb28b9412cd58a5fe7899539bce28eb9c4",
-    "2acee9b437e61f6330c9a3509f5c4bff8ba7e6210c9a010f0391ce79a1227de0",
-    "84c8fae205d02197c80825c39dc2453e3836a2524ca4b109a5efbe829f052532",
-    "08b740e6600a67271e26a9df0be3ca6e3a6144eaf69df2cfa9e08aef5199f04c",
-    "81bde766acc7748dc1b2e5e94c35fe95cf5b68ebd97b28b9aa9bbe9913df395b",
-    "3d8d9903e44c64ffb3cd158bee2ff904346643fe894cab1b7c8d8b440a54d169"
+    "175155e0fed4c031b5fe26ca4044747a17f4a0f536fe2b6f1278040cc398e3c4"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -20801,5 +20801,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Fed's Goolsbee: Job market is stable, but inflation is \"way higher\" than Fed's 2% target",
+  "link": "https://investinglive.com/central-banks/fed-s-goolsbee-job-market-is-stable-but-inflation-is-way-higher-than-fed-s-2-target/",
+  "published_at": "2026-11-19T17:59:24+00:00",
+  "sent_at": "2026-11-19T18:05:33.953037+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
