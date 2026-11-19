@@ -692,22 +692,10 @@
   "calendar_fetched_at": "2026-11-19T18:55:36.583351+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 161,
+    "count": 162,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T16:55:39.222471+00:00",
-      "t": "Fed official calls for two more interest rate hikes",
-      "w": [
-        "calls",
-        "fed",
-        "hikes",
-        "interest",
-        "official",
-        "rate"
-      ]
-    },
     {
       "at": "2026-11-10T17:05:40.818867+00:00",
       "t": "Fed officials open door to a half-point hike after inflation beats expectations",
@@ -3719,6 +3707,20 @@
         "path",
         "sees"
       ]
+    },
+    {
+      "at": "2026-11-19T21:40:47.861476+00:00",
+      "t": "Trump, Xi, Putin Hold Historic Trilateral Talks in Shenzhen, China",
+      "w": [
+        "china",
+        "historic",
+        "hold",
+        "putin",
+        "shenzhen",
+        "talks",
+        "trilateral",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3751,6 +3753,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "f197f643bf7353b881ba6a0fb3274ffa273a0dbce8cee49de2eb0478263367a2",
+    "eb06100fe414f6569463219666129484d41bc79b3f80c80fe228f393599200de",
     "eee669f43383ca0d6b398b057a828997493e416cf0e9c2a70a34fddcbad80173",
     "5d6426fddf7147846bdb1cbc7cafeb93b16b675e281960d2d67e6e7bea07a13c",
     "fa02e82f4780fd9c8c88dbe8e02f81898fd683e0655f9df41868d856029d6a07",
@@ -4748,9 +4752,7 @@
     "fc2bcd6fe33b8e18a29a6150791316b325e8553904e58dda30d40e808a63ac14",
     "829c34be6f17ba33f4b2e4e065d140e606792f3739fc2e20309d81f4e38ebe6d",
     "b486cc9b62fb45eafd3aaec538276515172ef0b9b33423880d67ab1d07040bb6",
-    "2667674dd9b3adbc50668c19b7957378c53679f2aa043d0d5603f50661ab6be9",
-    "3e9f5ef15609370e08f2c99d3e4de39b9293ba90d2af8956d3c6f63369b0f81d",
-    "5ee126ebae01d67274a9ecc517bfe7f9fa3d3610f00a094834c00401fba247c9"
+    "2667674dd9b3adbc50668c19b7957378c53679f2aa043d0d5603f50661ab6be9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

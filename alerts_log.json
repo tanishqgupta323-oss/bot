@@ -20853,5 +20853,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Foreign Policy",
+  "title": "Trump, Xi, Putin Hold Historic Trilateral Talks in Shenzhen, China",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdTdoZ3JaMkYtTFFYbnZqd2JVdERhR1NHV3R2MGU3QkY4ZERyWkVEVFlzV1FFUzVTSE53YjhXZ1gxb3NOYzFuM240U0dlYkdHM1pCNU5GYXptWkpfQWpJM01JZFF5dllPWFVpMVNaU3ZoM3RfbnZBYWZvUkpWMGl5VV9VZk4zRGVPbUt0TXBLQ2dxLVJ6UFdzTGNlbm9ja0pobGt4YW5nUTlnYVVORVZfdnY4NnB3MmVuRnhUcjlQdllJdlk?oc=5",
+  "published_at": "2026-11-19T21:29:46+00:00",
+  "sent_at": "2026-11-19T21:40:49.086728+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
