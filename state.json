@@ -692,27 +692,10 @@
   "calendar_fetched_at": "2026-11-19T18:55:36.583351+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 154,
+    "count": 155,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T16:50:55.831534+00:00",
-      "t": "Deutsche Bank expects Fed rate hike in January 2027 after hot inflation data",
-      "w": [
-        "2027",
-        "bank",
-        "data",
-        "deutsche",
-        "expects",
-        "fed",
-        "hike",
-        "hot",
-        "inflation",
-        "january",
-        "rate"
-      ]
-    },
     {
       "at": "2026-11-10T16:55:39.222471+00:00",
       "t": "Fed official calls for two more interest rate hikes",
@@ -3723,6 +3706,19 @@
         "target",
         "way"
       ]
+    },
+    {
+      "at": "2026-11-19T21:05:34.654589+00:00",
+      "t": "Fed’s Goolsbee says he sees no clear path back to 2% inflation",
+      "w": [
+        "back",
+        "clear",
+        "fed",
+        "goolsbee",
+        "inflation",
+        "path",
+        "sees"
+      ]
     }
   ],
   "resolved_events": [
@@ -3755,6 +3751,13 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "511498df01491999bf27633ee4fade86e2f41d5c8a3a2e4f13ee969672293cd1",
+    "68c2399fa76a182c87ca822bd34458d8c001065ef2edaea37cde37c8ea80a40f",
+    "a427d0f35a54064109baa9d310c89e6d442646e49d7372e03da88d86b4df270b",
+    "7b1fc90a9c5811d03ee0a3490b3c0289884fadfc269c296d6c24642b839e6f3d",
+    "d594da97d74e10fa1e869543e45e28000bada4fcd029fa4c1d91d045b5af7ad6",
+    "6bafc32d12292992a185bf4088d66000d5b184a2e69b0224bb44e0a34c433260",
+    "a8bf877d7f665f8dbd9d68aabfdf4783db0fbe22b5fb7ec7ab1055650bb8c09f",
     "50436412b6a31814695cf7c856075d67badf906eb897012b24b9765369be5786",
     "7bc910a996602e2aa2436d5043fdcd371145ba3132b9cb10217ddf96931d2af1",
     "968e352dfa8c28af87ea56217f03228da3f57cc76303792de987f552d8017a77",
@@ -4747,14 +4750,7 @@
     "a881e27e80ad80b48de7e85c2b51bdbb10584d0cdefc1e5877f5ece92ede88db",
     "75827b3c23e4ad2e8119691fcb514226f2b994cd1fe096041208390c9ab8a98d",
     "f40de971d2fd536183a2fa0b3a0f3b9647cd7b6455957c1e56c66e26c921706b",
-    "fea4a806e650e49006e80b1d93a38515598a496221458b97aa15587f6947e04a",
-    "1c8118f51c98773941f2a1f29cbe4b4087ad228c8e25892c9d4576f4ed412701",
-    "dd39a9f685b7edf75bea3c633a51a484199cd7af596526ad8c2cbebefb18c4a7",
-    "2e6a14d0f93142523cf0e3760369bb9bdf0382dc296c7c4426530b077f8438bd",
-    "1782149754dc985f872935b77eca5c881b25bffead03de130679eb19ee6305f5",
-    "ae74f615083e9ecfb4cf15e44d98d5d723c406e6cfcb0c54cff8481799b91cf8",
-    "9f9c83c52040e618df142fcb17e70161d71560505f2bd4b783da1a185f5b31d8",
-    "8f076d59d5765628bc8c451a18ed9150cd6f289ee12d9a7ff09cfbd9b2b1f889"
+    "fea4a806e650e49006e80b1d93a38515598a496221458b97aa15587f6947e04a"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
