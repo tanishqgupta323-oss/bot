@@ -692,25 +692,10 @@
   "calendar_fetched_at": "2026-11-19T00:40:42.061309+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 217,
+    "count": 218,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T10:45:46.946940+00:00",
-      "t": "Bitcoin Sits Out Equity Fund Rush as Fed Hike Odds Reach 84%",
-      "w": [
-        "bitcoin",
-        "equity",
-        "fed",
-        "fund",
-        "hike",
-        "odds",
-        "reach",
-        "rush",
-        "sits"
-      ]
-    },
     {
       "at": "2026-11-10T11:05:36.145171+00:00",
       "t": "Bitcoin stays under pressure ahead of the US CPI report as Waller raises prospect of a 50 bps hike",
@@ -3731,6 +3716,20 @@
         "trump",
         "wipe"
       ]
+    },
+    {
+      "at": "2026-11-19T02:15:42.873633+00:00",
+      "t": "Trump weighs strikes on Iran as Israel warns of chemical weapons",
+      "w": [
+        "chemical",
+        "iran",
+        "israel",
+        "strikes",
+        "trump",
+        "warns",
+        "weapons",
+        "weighs"
+      ]
     }
   ],
   "resolved_events": [
@@ -3763,6 +3762,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "940d61ab3258f780debcbe55b91432a35bf4c9145599a2a9cd48998ea69ab213",
+    "0f286e15f232c942d4272aeaa389659b08eaf9d0bc360802cbb042cc5aca3f32",
     "854aba4df69d9702f035394db417b0f05bad73af4025f61df355fadaac6ef95f",
     "8bbbc0c9d5357aff922cf556c75dcdbc507b1ba1a49e94e1b9f49e0d0d19b04d",
     "5953fe08124b0320f3a60c8d415ac033fd7dc4f847a19810a9573438ffa165f4",
@@ -4760,9 +4761,7 @@
     "8814e93b72c657c62ccb033bfea4b301cd45261418740d98fbd422648d899791",
     "b34dc010671fdc387ad672666e5f3ed2e91870fb2ecd676adc6e286f3ab07648",
     "973bde8ab1b72d472413b75e6ec14de576c747c7bb6d48e630a2d6909d8e0d90",
-    "97d8c07f9acbe299469a12e83c53bc5d415d5b00b692a2a12b721c9bd35ec77b",
-    "dd5c3c7739f8178c1cf5b6d15d9a34349b48a9a774c41a91d51a5d90844feed2",
-    "7f2f681a461a4543bb82a11fbaf94d509b77dc1b288bbcfa61ac9264eb0cbeac"
+    "97d8c07f9acbe299469a12e83c53bc5d415d5b00b692a2a12b721c9bd35ec77b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
