@@ -692,23 +692,10 @@
   "calendar_fetched_at": "2026-11-19T15:50:43.860898+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 115,
+    "count": 116,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T16:05:34.574015+00:00",
-      "t": "US 2-year yields surge as the market realizes the US has an inflation problem",
-      "w": [
-        "inflation",
-        "market",
-        "problem",
-        "realizes",
-        "surge",
-        "year",
-        "yields"
-      ]
-    },
     {
       "at": "2026-11-10T16:05:34.574015+00:00",
       "t": "Fed's Logan: It's clear that Fed needs at least two more quarter-point rate hikes",
@@ -3721,6 +3708,21 @@
         "ships",
         "strait"
       ]
+    },
+    {
+      "at": "2026-11-19T17:50:44.789233+00:00",
+      "t": "Iran’s IRGC says tankers with 4M barrels of oil hit Hormuz mines: What to know",
+      "w": [
+        "barrels",
+        "hit",
+        "hormuz",
+        "iran",
+        "irgc",
+        "know",
+        "mines",
+        "oil",
+        "tankers"
+      ]
     }
   ],
   "resolved_events": [
@@ -3753,6 +3755,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "283fd2d493a9f3f938cc280c32e9b7cfd41cec6d4b13f41b8008a82d4ed8a9b1",
+    "c60d528daf7b98275437426835087b50e410484885189fa498ee0939743dd030",
     "5880115236fd455cad57b45359d905fee788c80b4f1f1a344a550177624d5714",
     "84c09adc9ae64813af5732aad9aa2615e8cd03222e7f3a5a534a9defa39a6888",
     "ce97c6d2d0b6ea0e4c46434c584196bfc6edf9f61da9e6f1237782f093fd94aa",
@@ -4750,9 +4754,7 @@
     "8cc07ff7025d2d672db9b71587733a2ff39feb8e10bf5057c4cf3563850afc46",
     "fa045992c1edecc0466b927029f964989a988e083360d89c541e2ff23b37696c",
     "57ada224ac19e3d34ee627049e983ea01d42bd0730039304a7f32d9e24433080",
-    "3a0acd9a00c212ce9e52b9437840a3220358f6be01f94a766e609c7817fa1dab",
-    "ef688bc4bdeb2661599cf56bf153bae179132398ffe2a85b43db6483b89e437d",
-    "ec823ea0fefa2146e158301b3af7034d4c91461a57637c0fd8180b66c68fce1e"
+    "3a0acd9a00c212ce9e52b9437840a3220358f6be01f94a766e609c7817fa1dab"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
