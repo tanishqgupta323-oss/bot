@@ -692,23 +692,10 @@
   "calendar_fetched_at": "2026-11-19T09:45:44.097557+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 34,
+    "count": 35,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T13:35:48.743346+00:00",
-      "t": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
-      "w": [
-        "core",
-        "cpi",
-        "expected",
-        "october",
-        "rate",
-        "rose",
-        "stronger"
-      ]
-    },
     {
       "at": "2026-11-10T14:25:37.707365+00:00",
       "t": "Inflation remained elevated in October, cementing a Fed rate increase",
@@ -3723,6 +3710,20 @@
         "signals",
         "steadies"
       ]
+    },
+    {
+      "at": "2026-11-19T11:01:25.373024+00:00",
+      "t": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+      "w": [
+        "000",
+        "bitcoin",
+        "etf",
+        "hit",
+        "hold",
+        "november",
+        "outflows",
+        "struggles"
+      ]
     }
   ],
   "resolved_events": [
@@ -3755,6 +3756,16 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "35c5a5bda51669483c83ed541b5bd8df6c1f05d328aa72c205d6ba3a1c66ea9f",
+    "73d99ba37e30a03e925c9a5ca4d4a7ee5007b0429a60dd4b34bf922810752be6",
+    "6bac01a827a0713c7890a9b32c63ff560e10edfaeb01d603150c97d50dd3fe26",
+    "cc379113459bf135f4b093d749eab99ecc56ae6ddc362a322a10ad6e4da84286",
+    "55a503c469f4193aa45f89e45ca5ec50ece6d9132fb472c471165f62c74983c2",
+    "8e485d589d68e49e7c4b93af45752c42c68bfc4f447470f64e94d826a1662f42",
+    "ce94591c35a6a257fe4a4acdbd5e10644aa78d20aa0865abee3f027e435c1c23",
+    "734526503f3e22c9b0a441798b1ae7c25609f2d6c445c9c5bab69cb71ce151ea",
+    "81a8cc406e544b7036f86dd83f65b92dbb4981f1151830dafb875fffb4d013e2",
+    "29be9d2730e1dba2a0fe85b4b3fa307227f97ce4c0e09b3d467a361deff409ef",
     "7e6a2098e386fd5f3fa2046eea41e4611601938a2df4293143d7e3880bc49299",
     "7a9aad01ff2f2aaf3d57e8e423e6c8577e9f6b64ab49e366488a164dce94ed52",
     "c891cb5a12330f2d16158fca3627c8959f2202d3929c0173cd12f167948d22fc",
@@ -4744,17 +4755,7 @@
     "0f107ebafc94db4cdb91232a9885f0018e0db8df0fbc56c4d043da3e91346d17",
     "faa7b510ce2e1885cdff1e5ea9f9c6822f089dc817baab9dc86a5bafd265e177",
     "4edb09080f703caf56b63f60c8c504739bb41f7c9100fa8cf896bfaaaeb550d9",
-    "92a6c4aa9b994238555c4a21d0a83cdbc76c06f471e10ffae353df4e04489852",
-    "49bc86cf1f11a0a2183a87d4b88cd4c520d59367eadcb88c7d87bb45c5271c39",
-    "9791a3b952a2c48c0b8986dfd6d38b131787755eea4f366e9104c0b764a00eec",
-    "d9927613b66c3a076e71b8bbeeffdc1d6e327ccdeb83c81113f95e44db20d23d",
-    "78a3265874589672b57fb41acf5c6b80b07eca779c7fb359f79a1e14be02d0b1",
-    "b978ad944b92d1be474f6ae64b1953eb3ce35c19f4218f7bb4d957e354d088ea",
-    "63588416a42bc0149814fa720abc1a15c4abb48783e94f66d321d9492f7bb53e",
-    "1ce8d6f60a71bfb9d94e5894cd05b3327ec425b6b960441a727470c1e72c6752",
-    "5f7e7e00d2e49721f5fe328566bb4fba3d5190e0e7b5b99b39b7af64b1fd2998",
-    "720df069cda66e6735f328e330fe6b999549a5105ff1bb5f6860b0afd098802b",
-    "71b5a81da22c7801c8baf5b4b5f5e4f9e6c2e924ae92c3fe4c054c6cf59fd2b6"
+    "92a6c4aa9b994238555c4a21d0a83cdbc76c06f471e10ffae353df4e04489852"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

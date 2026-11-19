@@ -20650,5 +20650,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmVtb1Vhd2JQZWtSdUYxVVdob1IxYkt1UW1XRFRCLXdPQ2N5VG9CVU0zcGh2MnFxZVlyeDZkYjA0XzU2YTgzMVpMejhMRE8zcFB0NlFrT25kT0tLbThxVG8xbDFrWFBfWGVnMmNRcjhYSmlDSTFacDh4S0FtMWNVajNQelo2cVFZSm9kRVdvNnBpQXdlalRRalZB?oc=5",
+  "published_at": "2026-11-19T10:25:05+00:00",
+  "sent_at": "2026-11-19T11:01:27.014271+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0661,
+    "XAUUSD": 0.1421,
+    "BTCUSD": -0.0523
+   }
+  },
+  "checks_base": "published"
  }
 ]
