@@ -692,26 +692,10 @@
   "calendar_fetched_at": "2026-11-19T00:40:42.061309+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 216,
+    "count": 217,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T09:25:33.874297+00:00",
-      "t": "Fed's Waller plans to support at least a quarter-point rate hike in December",
-      "w": [
-        "december",
-        "fed",
-        "hike",
-        "least",
-        "plans",
-        "point",
-        "quarter",
-        "rate",
-        "support",
-        "waller"
-      ]
-    },
     {
       "at": "2026-11-10T10:45:46.946940+00:00",
       "t": "Bitcoin Sits Out Equity Fund Rush as Fed Hike Odds Reach 84%",
@@ -3735,6 +3719,18 @@
         "targeting",
         "widens"
       ]
+    },
+    {
+      "at": "2026-11-19T02:10:55.279955+00:00",
+      "t": "Trump says ‘we’ll wipe them out’ if Iran dirty bombs US",
+      "w": [
+        "bombs",
+        "dirty",
+        "iran",
+        "them",
+        "trump",
+        "wipe"
+      ]
     }
   ],
   "resolved_events": [
@@ -3767,6 +3763,19 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "854aba4df69d9702f035394db417b0f05bad73af4025f61df355fadaac6ef95f",
+    "8bbbc0c9d5357aff922cf556c75dcdbc507b1ba1a49e94e1b9f49e0d0d19b04d",
+    "5953fe08124b0320f3a60c8d415ac033fd7dc4f847a19810a9573438ffa165f4",
+    "c5ad9bb1b73029ef43a4902111538d7001e032ac17abed6ec3621943a796d8fa",
+    "689c2e2f1ed0e2dfedee512e7956b8e0aef3cb9e07fcea019f573c87edf17140",
+    "29da9dc697a53ceb846df3705cb3e44dd6ff72db31cff2b84e1c57112312615b",
+    "926ab488fce12a8175318eee66225817899d8e21e5c3a2c6741d651ae13ca37b",
+    "1fdbdf10b5b7b981f11e38f6771854e79180595c40d06cc5fc0e192cffbdcf4a",
+    "d50296f029d09bcf06767455a3d6dfe0dec602043bbcc74855335407645d60c6",
+    "175155e0fed4c031b5fe26ca4044747a17f4a0f536fe2b6f1278040cc398e3c4",
+    "c61410d44eed32e2799b1e22a91effcb28b9412cd58a5fe7899539bce28eb9c4",
+    "2acee9b437e61f6330c9a3509f5c4bff8ba7e6210c9a010f0391ce79a1227de0",
+    "84c8fae205d02197c80825c39dc2453e3836a2524ca4b109a5efbe829f052532",
     "08b740e6600a67271e26a9df0be3ca6e3a6144eaf69df2cfa9e08aef5199f04c",
     "81bde766acc7748dc1b2e5e94c35fe95cf5b68ebd97b28b9aa9bbe9913df395b",
     "3d8d9903e44c64ffb3cd158bee2ff904346643fe894cab1b7c8d8b440a54d169",
@@ -4753,20 +4762,7 @@
     "973bde8ab1b72d472413b75e6ec14de576c747c7bb6d48e630a2d6909d8e0d90",
     "97d8c07f9acbe299469a12e83c53bc5d415d5b00b692a2a12b721c9bd35ec77b",
     "dd5c3c7739f8178c1cf5b6d15d9a34349b48a9a774c41a91d51a5d90844feed2",
-    "7f2f681a461a4543bb82a11fbaf94d509b77dc1b288bbcfa61ac9264eb0cbeac",
-    "b266a559c5108bd7bf29ec1f4a3dc9ba37346e063bae03620c8c4a13db9543a1",
-    "c261bcb9bed6eff12115ee3c9d3f6fb18415eb94b5413b43c0503fae0dc2fd11",
-    "cb09f43ba28cf4ee6d54021c66c70e05272ff07f0784a255fc56b608a503b44f",
-    "30b2f7204cba6b6bc13c594e6d2ab932f7dd3132b962ee16c10f09fcf043f129",
-    "832ed99f7369b7df876a9803bae4d6e33ca98da3f043a4c27f31b943955c37f8",
-    "2f51a0537d16c2b033041c009767608bc55560f5f20824ff211aa857a73b4738",
-    "ca630ff711568cd329c3284879e26a8cc005f134b69a993bb3343a9d0bd98541",
-    "aabdaa3c652996c1dd9836751ec0a21db628654bb19e98ad174466db6078e760",
-    "e05a24ef5400b283694fbd329f19a3a28ca31549eb753ced514ded933412fb27",
-    "3120a3287bdbb916bc52c29bb9a3607f9ff58a75c02303d94370a86732816529",
-    "17a16c83187165e46ee71a515a0291f74b8282795333d247f2e1359fbb5adef2",
-    "888f9504e0c3f3605662cac3e9effd1494705d61f2303b534300aa51144d9143",
-    "8c9918e089ef936aaed1f1d01f1782353c3b5d3731e106fd6069c744736298e5"
+    "7f2f681a461a4543bb82a11fbaf94d509b77dc1b288bbcfa61ac9264eb0cbeac"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

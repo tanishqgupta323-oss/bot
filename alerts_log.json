@@ -20494,5 +20494,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Hill",
+  "title": "Trump says ‘we’ll wipe them out’ if Iran dirty bombs US",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbGlSVUlUMzhEWmk2ZGtXc04xNmlEdGlXY0VDQjBjVmVWa0o0NUpKdFBhZWVOeDg0S0tqcU1LZ0RjeF9vNjRMVFBXcEZYLUdXSS1oaUZKalRCOXI2XzI0SWs4MjN4QUZBTTFRdFBkaW9uSWZCZV9XYnRzcmYxWUx4azVXUExfWWFhUXpjbFFZaWJRV1lnaXdHa0l1UXVEX3JTSlBCMG5GajPSAa4BQVVfeXFMTldPa0xNWUVEd3Q2MzZ5cTBtVnJybXlXODZNdktqamw1aWVCOWFuazdMRlJUSXFNZXk1ZnBrVzFJMVlOamRRWmZNZHNaaUJ2MWVNcVNnOVZhV3RacXhQVC0wRHFRcV9yci0ycHBZX2FKX0lQREx2dTNTamJTdzlmQktYc0xFRFFaZTRCdlAycWc0c1pHbFJzV3hyUVBrem04Y2VQc01TdXN6SUZWTmhB?oc=5",
+  "published_at": "2026-11-19T01:59:00+00:00",
+  "sent_at": "2026-11-19T02:11:24.528326+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
