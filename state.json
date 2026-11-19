@@ -692,23 +692,10 @@
   "calendar_fetched_at": "2026-11-19T12:45:52.914785+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 78,
+    "count": 79,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T15:20:49.525850+00:00",
-      "t": "Inflation remains hot, pointing to Fed rate hikes",
-      "w": [
-        "fed",
-        "hikes",
-        "hot",
-        "inflation",
-        "pointing",
-        "rate",
-        "remains"
-      ]
-    },
     {
       "at": "2026-11-10T16:05:34.574015+00:00",
       "t": "US 2-year yields surge as the market realizes the US has an inflation problem",
@@ -3722,6 +3709,18 @@
         "kuwait",
         "strait"
       ]
+    },
+    {
+      "at": "2026-11-19T14:45:53.623632+00:00",
+      "t": "Iran's attacks on ships in the Strait of Hormuz escalate",
+      "w": [
+        "attacks",
+        "escalate",
+        "hormuz",
+        "iran",
+        "ships",
+        "strait"
+      ]
     }
   ],
   "resolved_events": [
@@ -3754,6 +3753,7 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "09f3cdd935a91da45a3642a40089a40f7a620b32759426d8db5e2ef68071d359",
     "894f23fff246a6c3e9d6d53fe0e29c5c2b46b9a8ec620969ba6b9f704873facd",
     "f7f6aa09f0e3393394e2ab0554efc155b5d0fb206f11d47c36c5244bc5a7f58a",
     "2ac4b80632e1954de9ac836519d21a8f770295845c6cdec3a30788ee9dbe154f",
@@ -4752,8 +4752,7 @@
     "128ea8641d05cc4494d17b1de617c1bd71e9fdab0c840471940d5ac666cad7c3",
     "e6ba2129538562831e74f84ae03ec34e4b2effdf7ff3f018616da24ef915233a",
     "b58badfd3f94bb35b32f7f2bcb517c04c8c51d50d7c12b0c1e48e68096c02e95",
-    "cae10208a2be775fedd951802de190e0e04aae893bc875c78f0a2d954a249fbf",
-    "9732b9dafc2954ceada963faba30a11978df11e4857fb23bebadeddfc8ca3e39"
+    "cae10208a2be775fedd951802de190e0e04aae893bc875c78f0a2d954a249fbf"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -20720,6 +20720,11 @@
     "EURUSD": 0.011,
     "XAUUSD": -0.0377,
     "BTCUSD": 0.4724
+   },
+   "60": {
+    "EURUSD": 0.0,
+    "XAUUSD": 0.0161,
+    "BTCUSD": 0.3828
    }
   },
   "checks_base": "published"
@@ -20741,6 +20746,37 @@
     "EURUSD": 0.011,
     "XAUUSD": -0.0995,
     "BTCUSD": 0.378
+   },
+   "60": {
+    "EURUSD": 0.011,
+    "XAUUSD": -0.0484,
+    "BTCUSD": 0.2095
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "NPR",
+  "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGJYWnJBeEFvZjlDcUZJUWEyTWNNY3RJMjhIc3dUcDJPVm1zbU5uLWtKOTg4T1JmNHA4d2RhS2tZRUZVVXdMUm4yeWdlSVdNbF9NOHU5WVZNLWk2ZC05SUVYMl9zM2szZ2FOOUxKRnVIeV9aWG93VXExcEVxcktBUExTYjZmOFVCN2RZVVB4aXRmbVJRRWZreE9KUXJDVTVlZmc?oc=5",
+  "published_at": "2026-11-19T09:46:24+00:00",
+  "sent_at": "2026-11-19T14:46:02.979416+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.033,
+    "XAUUSD": -0.0884,
+    "BTCUSD": -0.0627
+   },
+   "60": {
+    "EURUSD": 0.1101,
+    "XAUUSD": 0.1045,
+    "BTCUSD": 0.0033
    }
   },
   "checks_base": "published"
