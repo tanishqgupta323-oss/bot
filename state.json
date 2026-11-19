@@ -537,17 +537,6 @@
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "2baffbbc64096ba5da1e66b5",
-      "forecast": "-",
-      "impact": "LOW",
-      "previous": "4.37%",
-      "scheduled_at": "2026-11-19T15:15:00+00:00",
-      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
-      "title": "Mortgage Delinquencies"
-    },
-    {
-      "actual": "-",
-      "currency": "USD",
       "event_id": "33c92f55db0469be8dcd7c86",
       "forecast": "25B",
       "impact": "LOW",
@@ -555,6 +544,17 @@
       "scheduled_at": "2026-11-19T15:30:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "Natural Gas Storage"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
+      "event_id": "31143fa8837e1768f81600dc",
+      "forecast": "-",
+      "impact": "LOW",
+      "previous": "4.37%",
+      "scheduled_at": "2026-11-19T16:30:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "Mortgage Delinquencies"
     },
     {
       "actual": "-",
@@ -689,10 +689,10 @@
       "title": "FOMC Member Cook Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-19T12:45:52.914785+00:00",
+  "calendar_fetched_at": "2026-11-19T15:50:43.860898+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 91,
+    "count": 92,
     "day": "2026-11-19"
   },
   "recent_stories": [
