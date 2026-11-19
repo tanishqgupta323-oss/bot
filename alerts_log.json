@@ -20546,5 +20546,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Ynetnews",
+  "title": "Netanyahu pushes for 4-7 day Iran war as Trump hesitates, NYT reports",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13MGJlaEZyM3daZlJoUkdER0t3bHhlVEZISDY2S1Vodnl0bVhvZk02WFp4RjluQlBEelVvQ3hfbUQ4bXpOQ3NwT1cyTHdTWXlVTk43S3NR?oc=5",
+  "published_at": "2026-11-19T01:59:53+00:00",
+  "sent_at": "2026-11-19T03:20:45.068471+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0219,
+    "XAUUSD": -0.0959,
+    "BTCUSD": 0.048
+   },
+   "60": {
+    "EURUSD": -0.0768,
+    "XAUUSD": -1.2115,
+    "BTCUSD": -0.4031
+   }
+  },
+  "checks_base": "published"
  }
 ]

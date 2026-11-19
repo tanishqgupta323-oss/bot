@@ -692,28 +692,10 @@
   "calendar_fetched_at": "2026-11-19T00:40:42.061309+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 228,
+    "count": 229,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T11:05:36.145171+00:00",
-      "t": "Bitcoin stays under pressure ahead of the US CPI report as Waller raises prospect of a 50 bps hike",
-      "w": [
-        "ahead",
-        "bitcoin",
-        "bps",
-        "cpi",
-        "hike",
-        "pressure",
-        "prospect",
-        "raises",
-        "report",
-        "stays",
-        "under",
-        "waller"
-      ]
-    },
     {
       "at": "2026-11-10T12:01:19.136511+00:00",
       "t": "Fed’s Waller says larger hike should be considered if October CPI runs hot",
@@ -3730,6 +3712,21 @@
         "weapons",
         "weighs"
       ]
+    },
+    {
+      "at": "2026-11-19T03:20:44.336737+00:00",
+      "t": "Netanyahu pushes for 4-7 day Iran war as Trump hesitates, NYT reports",
+      "w": [
+        "day",
+        "hesitates",
+        "iran",
+        "netanyahu",
+        "nyt",
+        "pushes",
+        "reports",
+        "trump",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3762,6 +3759,7 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "86a42262da9982f591e04fa58b6d780e6ad3790de1e7ef4ecabaa1e23ac5a88e",
     "7b64e8f0cbdbbcdde926b9b27a002b9b7bb30a83714a1ed04c8e994fdff2ab64",
     "8c53908522987a6f7fd1933645c12cd416ab22a35e6a50cb6fd409bc87dcc813",
     "7d9d0a57e72c5395b64439dcce8448fec207f224e16e1053dbfaa15d39db3647",
@@ -4760,8 +4758,7 @@
     "a4db95df374d20400651aef7df14a863bb03405cae5550ef4b2b126d06888f01",
     "39cc8a526644df3015e6f1b9d0b78b3ce9c050991c688f50d77212b0f3be6e10",
     "a7a5214ede21ae1d2a0d1433c5b50ac132291dd007aca0065cb4666f668e97ff",
-    "31d7c91ab46bee161f1fb8df1c75836323569249b3616a83ededf1dbae26d76c",
-    "ac20b66723d17dfdc90ed9eda55d30ad8cd1797da5a12309e085d68009666e1c"
+    "31d7c91ab46bee161f1fb8df1c75836323569249b3616a83ededf1dbae26d76c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
