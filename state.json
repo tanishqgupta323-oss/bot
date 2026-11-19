@@ -689,10 +689,10 @@
       "title": "FOMC Member Cook Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-18T21:35:39.016754+00:00",
+  "calendar_fetched_at": "2026-11-19T00:40:42.061309+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 199,
+    "count": 200,
     "day": "2026-11-18"
   },
   "recent_stories": [
@@ -3763,6 +3763,7 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "92529d07512e087221a868942dc0977d79b5768cc98d4c9fb1d4f9ea9d0ee5c4",
     "59a7ea337ebffb229ca4860bdd210d4f9f8c92ff53c74cca4107fb6609982832",
     "b727d5746f93e5b8f86d2d67c9c5c220878736b76281184957e77398416a9757",
     "91b0c35c72e05b3863c09565651a2877ec075f2b2e1b81bce1e357fce662975f",
@@ -4761,8 +4762,7 @@
     "848ee4a8ffcbc7fe3452c4dd75fbd2c9f3b67ff694e4206360b1071f67c1155c",
     "ec0a71e73cc12691418eef6da0c78550006f8b0786f133f14426200bbc0ab1a2",
     "2ca21b6173bcdcabbd6c965c579ac0188d78381e4ddfa506e85c8aabfe4e0025",
-    "3ccf21b36315f2ed14a5caac6a58ae5ff14e1c6d41825230202c4b1ead210ab7",
-    "a2d4a4ca580ebfb9657036053bbecee8839c083b7757613425f3b10f99fc7280"
+    "3ccf21b36315f2ed14a5caac6a58ae5ff14e1c6d41825230202c4b1ead210ab7"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
