@@ -692,26 +692,10 @@
   "calendar_fetched_at": "2026-11-19T12:45:52.914785+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 71,
+    "count": 72,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T15:05:40.615141+00:00",
-      "t": "US stocks slide, yields jump, USD higher after hotter-than-expected October CPI",
-      "w": [
-        "cpi",
-        "expected",
-        "higher",
-        "hotter",
-        "jump",
-        "october",
-        "slide",
-        "stocks",
-        "usd",
-        "yields"
-      ]
-    },
     {
       "at": "2026-11-10T15:20:49.525850+00:00",
       "t": "Inflation remains hot, pointing to Fed rate hikes",
@@ -3724,6 +3708,20 @@
         "sees",
         "three"
       ]
+    },
+    {
+      "at": "2026-11-19T14:10:47.594204+00:00",
+      "t": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
+      "w": [
+        "attacks",
+        "bahrain",
+        "escalating",
+        "fight",
+        "further",
+        "iran",
+        "kuwait",
+        "strait"
+      ]
     }
   ],
   "resolved_events": [
@@ -3756,6 +3754,13 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "0e7449283c9e9bdd21e8d88fa637fa0682d2f1efe1653ba660bde352fdb07bc5",
+    "90604745b39cb0a40f6ee520312cca15aba51d38997af123d51593a74ca2c57d",
+    "d8056cd293191bacbed892a56813a2a1bb1e922ddab2df82bcdc79d8045a07a7",
+    "d1b487e372ef22f2f2181096036d76c126231a2da138185bdd00eea79214e781",
+    "90710f31602aa0408b78f4bad23e87d311255ccf35ef5dd7116e9b405d209d98",
+    "7c0f4eafad24386150e57bd14059df17f3ccfa1335e5bbea097148f2f39c50ce",
+    "f1ba966364eb980c6149edae5d5171bad30ae17b18efa7370265a5122d75e6c7",
     "596b7d36ddcda973f7d39a72c987ee810b9841ba6e3d9b0ca85e2a8fd6c326a4",
     "c3cbcc230f129cd938e14386babae215a7b9dfdf95323f8ddacec96a696e67c4",
     "8015de09fdde93cd9373b965afcd6ff055bc309c3c343649dcad23b11ca66897",
@@ -4748,14 +4753,7 @@
     "d6adaa66a8a6302da01c814d0c9ac2c871cfdee6b6a43a0c1386a2435e41862e",
     "1d2b975be073c30b0773a0d75dc077882e4ce9b67eb298953f9f563c2aba5b4f",
     "27bcefedc3d6c37180e5a2e903f4db65dd80705d432a5215066636149b210c9a",
-    "272cc1a545ea9bc3e95dd1e50e7c9acb4df4d2c64dc7feb0f86e7bb5bc38b99b",
-    "c23f81584a2c63624f98d1ca0aa2ee7a03f682f956859860f0eb6a2021dae1ec",
-    "47298f8be74b4df0696e1ff9cf492d601d6d60dcdb197100345b1f7e1896415d",
-    "d4fb692b555605ebe93001d0d13276653f68ecf288160142ba790b0a44436b31",
-    "5fd6fff88546fc2ee57b38ac68e78f8b86f3adba22a6dff3e7862867a8cdd7a9",
-    "feafc3ddf5851500d6f62dd3e7e73b08b4e4d7bf1f399506d5d3df07a109f342",
-    "a2838e996ba3a19eb98a58f0dcea8d18710001d708011b50dcab97ce9bcb867d",
-    "5a4ab2531b30493888593052f61776aca117ac013520f517583cd700dd013cc5"
+    "272cc1a545ea9bc3e95dd1e50e7c9acb4df4d2c64dc7feb0f86e7bb5bc38b99b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
