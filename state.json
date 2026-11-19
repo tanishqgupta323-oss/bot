@@ -692,22 +692,10 @@
   "calendar_fetched_at": "2026-11-19T00:40:42.061309+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 210,
+    "count": 211,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T09:20:47.714554+00:00",
-      "t": "ECB may need to hike in Dec, chief economist says",
-      "w": [
-        "chief",
-        "dec",
-        "ecb",
-        "economist",
-        "hike",
-        "need"
-      ]
-    },
     {
       "at": "2026-11-10T09:25:33.874297+00:00",
       "t": "Fed's Waller plans to support at least a quarter-point rate hike in December",
@@ -3731,6 +3719,22 @@
         "participants",
         "warrant"
       ]
+    },
+    {
+      "at": "2026-11-19T01:40:50.706037+00:00",
+      "t": "Iran widens Gulf attacks by targeting U.S. air base in Kuwait and sites in Bahrain",
+      "w": [
+        "air",
+        "attacks",
+        "bahrain",
+        "base",
+        "gulf",
+        "iran",
+        "kuwait",
+        "sites",
+        "targeting",
+        "widens"
+      ]
     }
   ],
   "resolved_events": [
@@ -3763,6 +3767,12 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "a19d5b34c6df7efaac22a2422bed90f0624c5daba08afef0da0788942dd0610e",
+    "b39dc0d1fabbd685d20df4e78bff2c687d2d240e393e143d9c697ae61aaee87d",
+    "e4c18e26f61be8d2946833a721e88934b3beaa140d2e005d066567132eddb8d1",
+    "3c4d9fea46c7ecdf1385dc5afb80b575b9f0476d62c7c221e46beca9aa5b8ceb",
+    "a29b6c1ec60f7864c1e3bf29a75752b3c25beb17114588cf152c2bc12f117de5",
+    "8cc07ff7025d2d672db9b71587733a2ff39feb8e10bf5057c4cf3563850afc46",
     "fa045992c1edecc0466b927029f964989a988e083360d89c541e2ff23b37696c",
     "57ada224ac19e3d34ee627049e983ea01d42bd0730039304a7f32d9e24433080",
     "3a0acd9a00c212ce9e52b9437840a3220358f6be01f94a766e609c7817fa1dab",
@@ -4756,13 +4766,7 @@
     "73b4ec7b84cc9c0bcfa1c1a8c9ce07b8f7ba86b786a7e8cee74fc79eeb614c38",
     "dc628b128a6ebd46c99123e0e31b82cb2ed2a28c22c598244e6c661defc40df6",
     "2d0ae98c68aaade1b7f68d50e437849ade53947698137a1c9b3c2717c1fea7e7",
-    "72424683792c0950dd8f4841ea47e9864396e417062ce97ad25e9f6a2d3dd591",
-    "f60ceddc8fcf4f949d5809a0c1b297ce912eb3047634e24896ab607dd9277a43",
-    "b1993ea29a07030fecdd44f7e748cb00861f6ee995e54dea507dbd2328716169",
-    "500b276fbb2d37927919884d43a2760a23f79ea3bd3f84590403c8b43a5e5293",
-    "6624ec70a777a755578e527629e82bc4bc817d24d4b210bf4581ed90740db9f3",
-    "ed377ba968cc425d96233ca1edaecff48c34afd46f91f1c2f338a57e5974ad80",
-    "190627dd5677de91013121aeeeeb60fa9093dec7892f028d1f137bcfb4cfae3e"
+    "72424683792c0950dd8f4841ea47e9864396e417062ce97ad25e9f6a2d3dd591"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
