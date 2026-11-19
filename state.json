@@ -548,11 +548,11 @@
     {
       "actual": "-",
       "currency": "USD",
-      "event_id": "31143fa8837e1768f81600dc",
+      "event_id": "b39f0175e73bf4b4a4c94c84",
       "forecast": "-",
       "impact": "LOW",
       "previous": "4.37%",
-      "scheduled_at": "2026-11-19T16:30:00+00:00",
+      "scheduled_at": "2026-11-19T15:46:00+00:00",
       "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "title": "Mortgage Delinquencies"
     },
@@ -689,10 +689,10 @@
       "title": "FOMC Member Cook Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-19T15:50:43.860898+00:00",
+  "calendar_fetched_at": "2026-11-19T18:55:36.583351+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 127,
+    "count": 128,
     "day": "2026-11-19"
   },
   "recent_stories": [
@@ -3755,6 +3755,12 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "b4125edc23fa771dbc90e5bb34fd703145a11e429fc81d7eb0a1a84e8bc0e7cb",
+    "7e9c9adf38438405a5180a6e6de31125fd28057dc6d36f76ace637cabd884721",
+    "2ebbd9a181b8786c1390e3df2a02ba336c553dfd4d25a9ac7de5648db8a73195",
+    "5a288bad97458dc5301737217f6b9d233461b9e188128fdea6cac337865209fb",
+    "7117537f2a4863e08be172adb9c850380fe612c45ea536947caf6cd97398762b",
+    "32094852343fca156987fa18c3c9ae6a22556d44d9dc2ab64d7a306cb4460655",
     "fdf7b6360180fa0e74b3971a3dea53fb7c82a609aeb23d3bb618a6eddd4822df",
     "e0b6d62600f44e0031e5e68de48bcaf7424a404584ced36982e7aa5e2b97c424",
     "f3c004818755f9b4631d2ecd53d12e4f2cbd9e9f3b0b75600de0ff0c4bb0d26c",
@@ -4748,13 +4754,7 @@
     "e71c8ef993dddb9e282f427cba0d986d8aaf4dadc005aeeee759ef3612d89147",
     "8de7f3804dc076a3ee564eae9e6cc751ec2df741bad35f9140af6d541aadb11f",
     "aa750adca56156319576758b1dc721f05c52f3c5d6a4fbd10f760b030cfd6637",
-    "863a8def276f3b4534485fbf0b57bed08bc4c4101ed2bb040808b159a00260aa",
-    "07d3371c4409a083eb46cb26b908d9fb285cfdae0d54ec723b64918240adbfc9",
-    "74dfab0fbb8557da58f83a7fa8e0f4ea2a09dc013b2b7d6eb31f99867a4f49b3",
-    "e933fa6e5472b7169ceb2d95306fcd3a96ab5aecec1d1fd24c9dde54382b7ae0",
-    "002ee0824eb523e20aceafa415e3154059e2ac34cd4d43e5e02356f8f113e8b0",
-    "b4bebe177220a7100b95612c0cb56c4fde78744d402e860694b7d813bd2b1d01",
-    "f50ca76fac3884daf7a88b71cc6227365dbfe1242af9a3b97e0d871dfbdb2ff9"
+    "863a8def276f3b4534485fbf0b57bed08bc4c4101ed2bb040808b159a00260aa"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
