@@ -20676,5 +20676,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "La Voce di New York",
+  "title": "Trump Weighs New Iran Strikes as Netanyahu Urges U.S. Involvement",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLTZCYVQ2a0hYendjb3ZIRVdHNTc0WTUxeDNVaVZNMzNZM3F6Ri1xalQ5VnFaZkNyWENPd1VpZ1NOSGZuNTNad2tKZTVYQU41bFNISUllNTdJdzFjc20zOG16Ni1oeTc4TnlqUmtpM09SdXBTalJQZ3lPd0xBS0hEVlJ0Wm5XVVltR2tNOEhSVHJZUGhMenUtd1c4b1lwSlFrV0JXZ1dXVEVPVFpEZDBzOGlB?oc=5",
+  "published_at": "2026-11-19T11:56:34+00:00",
+  "sent_at": "2026-11-19T12:05:36.520673+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

@@ -692,24 +692,10 @@
   "calendar_fetched_at": "2026-11-19T09:45:44.097557+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 47,
+    "count": 48,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T14:25:37.707365+00:00",
-      "t": "Inflation remained elevated in October, cementing a Fed rate increase",
-      "w": [
-        "cementing",
-        "elevated",
-        "fed",
-        "increase",
-        "inflation",
-        "october",
-        "rate",
-        "remained"
-      ]
-    },
     {
       "at": "2026-11-10T14:50:45.980546+00:00",
       "t": "Market spooked because now the Fed may need a supersized hike in December",
@@ -3724,6 +3710,19 @@
         "outflows",
         "struggles"
       ]
+    },
+    {
+      "at": "2026-11-19T12:05:35.573285+00:00",
+      "t": "Trump Weighs New Iran Strikes as Netanyahu Urges U.S. Involvement",
+      "w": [
+        "involvement",
+        "iran",
+        "netanyahu",
+        "strikes",
+        "trump",
+        "urges",
+        "weighs"
+      ]
     }
   ],
   "resolved_events": [
@@ -3756,6 +3755,10 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "1637e2decfd6404b3e0983bb81673bf38a8481dddba6dae76f055722c94080b6",
+    "f2994847573895392fef4eb810bd62e71b1bb26ced6f87cd7d1bb9562ad44b15",
+    "ea671993377ab3423ecc00ffe5081807d1940ef23bdee0767b03a77fb924347f",
+    "0238caef1d4c77153bda2a53b849c65b9453b7149c9218e54e9c5c1ce29dd5a7",
     "8f199431b49869803e08171a33a3d6370e9963fbe3690c6fcd3c7d6e0bb7fe92",
     "16f70ac43ca70f988c173a21c4d1ee7d7b7cf2cb37a64345b14fea0ad4b4c0a3",
     "87c71a4a883700fa7d30b215644c41df0b3dc1861ee4d1b9ef72dc4658540900",
@@ -4751,11 +4754,7 @@
     "3614b0a6d724d67ba687868ae4fe515287857564991590ec094ee4084876c69f",
     "ec5b610d5c3ebddc9ca7d9d1c406c66a1c0b59e4d560aeb4bdc6058e371ee92f",
     "80ac8a879a21120588bdaa148ea7b07d75c1f6019b47c5f3729502c808ba2175",
-    "f19efa13e26a3c1f943c6ef86ca172a08d6f09b5da3483b67b176335cb61f432",
-    "5e1d13d70ae7d12fb793bc7b6b4b42f28dbcb4e987d92390ac3a6f5b8017a9b5",
-    "0dd615c963cde6bcd629dbf9c097975dcb2cb22f7e964296e161e4124d7f8360",
-    "90c2ce01417506ec95cae9aad34aa7c8c9c3fbde53a63bb2a34f0c027b838017",
-    "25ba40a8df82c75770fcf6414d32ab6ca4ad66d89d096e6aa59e554d254e304d"
+    "f19efa13e26a3c1f943c6ef86ca172a08d6f09b5da3483b67b176335cb61f432"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
