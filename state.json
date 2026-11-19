@@ -692,26 +692,10 @@
   "calendar_fetched_at": "2026-11-19T03:40:45.418604+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 239,
+    "count": 240,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T12:01:19.136511+00:00",
-      "t": "Fed’s Waller says larger hike should be considered if October CPI runs hot",
-      "w": [
-        "considered",
-        "cpi",
-        "fed",
-        "hike",
-        "hot",
-        "larger",
-        "october",
-        "runs",
-        "should",
-        "waller"
-      ]
-    },
     {
       "at": "2026-11-10T13:01:22.231596+00:00",
       "t": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll",
@@ -3727,6 +3711,24 @@
         "trump",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-19T04:31:07.822265+00:00",
+      "t": "Dollar hits fresh 19-mth peak on hawkish Fed; Aussie slides after weak jobs data",
+      "w": [
+        "aussie",
+        "data",
+        "dollar",
+        "fed",
+        "fresh",
+        "hawkish",
+        "hits",
+        "jobs",
+        "mth",
+        "peak",
+        "slides",
+        "weak"
+      ]
     }
   ],
   "resolved_events": [
@@ -3759,6 +3761,13 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "1401e73aa8010af30b58ed638a076b07d2d93af3c680fda4de11089ede28c152",
+    "b09a032161d5b29564dbbea6d8dfdfaa3df3e540507aa11d125ce797f70d96c2",
+    "22afb509d4802762fe4d17ccfb80c46edee61b08bf2f82a617c36a5a1eb9cbdc",
+    "a2b96ac1d25d3a26e80bc790ea488c2c368b9442d1a20c45c30df8c124307433",
+    "1dd27aa1abc74cb116ed1c28100acafd01c3b0215278cb1b588132bf34b3af23",
+    "c35c86418c6edefc84801223c1643e501124047b1a64ccf7c0d4923e3cab4752",
+    "388917a64bfdedd88656feeea2d55353c55d0f4351862c98689246621b48c08d",
     "9759e8d192638b313a8b6579f9475bccd9e65cdc87cc1213cd4a3bfaac41fdc1",
     "59329f046c3f4ecb87df60443c6d337a49439a1d4824cdd0594cf2f5b760969b",
     "16feab107bb88d01a3cdb19f708dcd6d2d6d06f4bfd58cd13ad7552c50bea81b",
@@ -4751,14 +4760,7 @@
     "613f70880a6086ae4a9854774f9bc33b7cd79c33a8ef33986fb5b6eac3763c09",
     "4f14fc2cb819e52858aa37a8c33cf262815ac6447399cbd0d9212c8139716b33",
     "8ece6c4c08c33063efb75338417c6bb2c9d37465c72002861054dfb5794966f0",
-    "34883ecd4ff9e4f0d7492cc2c2341ad2965c49726ef5876bbf4a086f40fea120",
-    "3e197a16e345d1561ad6ee19165526a4c85c52243b24da4ae33611d994652a3b",
-    "94904dd6fb6f801f8c2ddb28f558f34e398101c88f06ec1f1ddd92679645e811",
-    "a05145c4baf63964ef8bc60cb8381324dda6f6e452c4598722a277323fea482e",
-    "ded8bf1b0617a4d05487f19fcd0d303cd32dd0d48c2f9185d65af0c801301341",
-    "4a64a3b278a559b12ae39de32aa8a1299d0342d5e20e5b639a358b9e79c7f403",
-    "8d90642ac6de64d9110c6fd13b67a3cf00ea73e9c98b4d1ff51bd75541d1abb2",
-    "146bbfe582b1a64b45a416d5c21bd176b948c56c743a78e4534b87a5a8a7feb8"
+    "34883ecd4ff9e4f0d7492cc2c2341ad2965c49726ef5876bbf4a086f40fea120"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
