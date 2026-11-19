@@ -20598,5 +20598,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "World Socialist Web Site",
+  "title": "Pentagon launches new strikes on Iran",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PaG9URVpxb1Z3Y1gzaEdIYXp0YmFKb0NmOVJwcnA4azgwckxpSXZVVGgzVUY1Um1KX1dMOWU0Sy0xd1VZX2c1d3RtSGNvQnNMaDkycFpRX25KTzZlQTg0VzFvR3BkY0J4?oc=5",
+  "published_at": "2026-11-19T05:53:10+00:00",
+  "sent_at": "2026-11-19T06:01:17.434334+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

@@ -692,27 +692,10 @@
   "calendar_fetched_at": "2026-11-19T03:40:45.418604+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 254,
+    "count": 255,
     "day": "2026-11-18"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T13:01:22.231596+00:00",
-      "t": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll",
-      "w": [
-        "december",
-        "fed",
-        "high",
-        "inflation",
-        "once",
-        "poll",
-        "raise",
-        "rates",
-        "reuters",
-        "risks",
-        "stay"
-      ]
-    },
     {
       "at": "2026-11-10T13:10:46.163417+00:00",
       "t": "U.S., Iran Exchange Strikes on Islands as They Fight for Control of Strait",
@@ -3729,6 +3712,16 @@
         "slides",
         "weak"
       ]
+    },
+    {
+      "at": "2026-11-19T06:01:15.791790+00:00",
+      "t": "Pentagon launches new strikes on Iran",
+      "w": [
+        "iran",
+        "launches",
+        "pentagon",
+        "strikes"
+      ]
     }
   ],
   "resolved_events": [
@@ -3761,6 +3754,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "8b590ee3ac2fc2edb6a9102c1f41f28a7e432f9ded7607c25ce97149852e04a7",
+    "00e7495825baa6778b8b8f40de1acbb9ffe80fe5f653d31e37bc1be558f7b618",
     "7983ff78e3b9d537df83cf57911ea7ee86719b14386267edd4bd843e4926e56c",
     "90be93f96e43a8d4fc6fa3d19aadb27e39e294b1ee857978aa344836c63082ec",
     "5aa287a7d90755962de7d9e446b3c25ecebb72d07dbc3fa7732ecbfce27f5b52",
@@ -4758,9 +4753,7 @@
     "3eab3010067b096eaf130476478cf72e80ff50dba7951ca002750e2476bc9444",
     "cab64a72266745151cdd2bf20c31ef187785fec596a44d67606e31f4b777fc35",
     "b32258306f4c859495f6839a9d2d45b9a164de28a906368d6d19a4e0208e48c6",
-    "1fd940163e55e6e347a66fa9df4757917ab5cf9dff4fac27b417dc9c7e2b436c",
-    "f91b3f24f1698e15f2ce8d352d4be458cb7610e5a1cd4dadc32453921d11b3ba",
-    "7be827d580c94d832165dd9d72aa6540dea503eb352b2c8e842c18c7c4e0e239"
+    "1fd940163e55e6e347a66fa9df4757917ab5cf9dff4fac27b417dc9c7e2b436c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
