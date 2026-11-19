@@ -692,36 +692,10 @@
   "calendar_fetched_at": "2026-11-19T22:01:14.305218+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 177,
+    "count": 178,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T19:10:44.988953+00:00",
-      "t": "Fed’s Schmid calls for tighter policy to control inflation",
-      "w": [
-        "calls",
-        "control",
-        "fed",
-        "inflation",
-        "policy",
-        "schmid",
-        "tighter"
-      ]
-    },
-    {
-      "at": "2026-11-10T20:01:17.242461+00:00",
-      "t": "Iran War: Latest News, Live Coverage and Video",
-      "w": [
-        "coverage",
-        "iran",
-        "latest",
-        "live",
-        "news",
-        "video",
-        "war"
-      ]
-    },
     {
       "at": "2026-11-10T22:15:46.426125+00:00",
       "t": "As CPI Rises, Fed Rate Hike Looms Pushing Up Borrowing Costs",
@@ -3708,6 +3682,41 @@
         "strikes",
         "trading"
       ]
+    },
+    {
+      "at": "2026-11-19T23:05:39.529648+00:00",
+      "t": "Barclays: Back-to-back Fed hikes give the dollar staying power that a jumbo 50bp move wouldn’t",
+      "w": [
+        "50bp",
+        "back",
+        "barclays",
+        "dollar",
+        "fed",
+        "give",
+        "hikes",
+        "jumbo",
+        "move",
+        "power",
+        "staying",
+        "wouldn"
+      ]
+    },
+    {
+      "at": "2026-11-19T23:05:39.529648+00:00",
+      "t": "Euro breaks below $1.10 as French election risk builds; three banks see $1.08 next",
+      "w": [
+        "banks",
+        "below",
+        "breaks",
+        "builds",
+        "election",
+        "euro",
+        "french",
+        "next",
+        "risk",
+        "see",
+        "three"
+      ]
     }
   ],
   "resolved_events": [
@@ -3740,6 +3749,13 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "300f30f8e80937a35cf02a49bd28da9b685206f801ff92e354bc94ca68b950d0",
+    "f411772048e4d5ab83ea7536f4901aaa2076f6a3892a921645a6101f49e8b643",
+    "33b1ce9667b2e7c13a2ece40234a6a3daa1e133cd57f0aeea3807beebbf17204",
+    "7559a3cd534d1bf4645479c911db023a151023a216162e9802a366535a99b471",
+    "2afe12cfd18170c115a15349fc2c6b0f35ed0884b8063000fb05853296b122da",
+    "94ed539a1374d3d24bc5f2f674623ed7173dbe0611d05843ca87281b083c047e",
+    "41448ef6610b1870e45c5e963aa773d23e663caeabf8c81430dd0baf34ba1886",
     "285b6ee24f76fa96041e514fe798fae1a1790a846e96a9477423925fdb1d80bc",
     "09876c976470f755ae6e42d94f1195efad813520475f722224b373a281baf14c",
     "84807800f0561347fddac8c390e8dd6906dec5b2a46983b3a5805b7046ad30f3",
@@ -4732,14 +4748,7 @@
     "348375f230de1d7e56a2716185e2d5deed965d9e7deb13447ac3a259ef3c1b28",
     "bf355dca8486c2e87d30c677104b5ae398e5f8a171629df88544d7698b8341b1",
     "58d4688878619f025fd759003054a906025e5ddec887cabc0220258e5395935e",
-    "b04ca8a29864aa3aef294ef40f265be3fb5e58a5fd037539256b5f214e17d347",
-    "a751b5bbc82bfa03c2709212746dc374421423e845cc32c858260150c4d9bdd1",
-    "4ebf376c14df06be577953300e67ef17653eec9dd0c80e57222f2dc0205900fb",
-    "f32f5b13ccf996475cde1d5db2849baf1d916468c91827257c335e81242bd919",
-    "973cf8ed87a415dfc334a38dec687cac6165dbc517bed814116f4987f81fa447",
-    "24d730d28461461c2151752b70b2e17ee2fd2bbea7c99b1e7d6a2ae54c3d5b36",
-    "8122e8775741a93a13f04b2e3744aa88ffd9d320687e6b1e6a8bc2aeb159bb46",
-    "28c7d664c256dd20aab4719311b81b3d2d1a4de2b145761668a625f3dba230bc"
+    "b04ca8a29864aa3aef294ef40f265be3fb5e58a5fd037539256b5f214e17d347"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
