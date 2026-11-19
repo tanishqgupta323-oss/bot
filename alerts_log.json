@@ -20866,7 +20866,14 @@
   "eurusd": "NEUTRAL",
   "xauusd": "BEARISH",
   "btcusd": "NEUTRAL",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": 0.011,
+    "XAUUSD": -0.2338,
+    "BTCUSD": 0.0664
+   }
+  },
+  "checks_base": "published"
  },
  {
   "kind": "live_news",
@@ -20879,6 +20886,20 @@
   "impact": "HIGH",
   "eurusd": "BEARISH",
   "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Spot gold hits over 14-month low amid Fed rate hike certainty, AI trade rout",
+  "link": "https://www.investing.com/news/commodities-news/gold-rebounds-from-14month-low-as-bargain-hunters-emerge-despite-fed-hike-risks-5037506",
+  "published_at": null,
+  "sent_at": "2026-11-19T21:50:46.817261+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
  }

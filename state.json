@@ -692,26 +692,10 @@
   "calendar_fetched_at": "2026-11-19T18:55:36.583351+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 163,
+    "count": 164,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T18:05:37.174821+00:00",
-      "t": "European stocks mostly higher as hot US CPI sends Treasury yields above 5%",
-      "w": [
-        "above",
-        "cpi",
-        "european",
-        "higher",
-        "hot",
-        "mostly",
-        "sends",
-        "stocks",
-        "treasury",
-        "yields"
-      ]
-    },
     {
       "at": "2026-11-10T19:05:38.034655+00:00",
       "t": "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
@@ -3715,6 +3699,23 @@
         "putin",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-19T21:50:46.094426+00:00",
+      "t": "Spot gold hits over 14-month low amid Fed rate hike certainty, AI trade rout",
+      "w": [
+        "certainty",
+        "fed",
+        "gold",
+        "hike",
+        "hits",
+        "low",
+        "month",
+        "rate",
+        "rout",
+        "spot",
+        "trade"
+      ]
     }
   ],
   "resolved_events": [
@@ -3747,6 +3748,18 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "feb9e56e87a7bc7270d074056b8d3d1d1a3a77cd263b1a9668f975515dd61bd6",
+    "fc0a53619948741c7c437ca851a3828bdf71db1b18a34d33239cb4b203330844",
+    "0e2bde034102fd7f58d1073fab24ca5f64cdc2e68976b55569a9135f4ccc70bd",
+    "98d45a2a9daa14d5b6eaa5b4b864a40636f838d98b24c618d2a96844ecb1f08d",
+    "314cabc0193c46c15fbc7df1dd2ff0e4056f5a0f7e27fefea82226951b13ffde",
+    "3d9d00d9aa1e60703253c67efd30c9a4bc95dfaef7bdc6530d1cd4c3839b62f8",
+    "7a71991b7b5bc3c340b9930318911b5c068d008ec5753241f49e817f028e2cc9",
+    "c39c902d30d73b51ec239b59a17cf242dece6a24905676831127838d4ec04fd5",
+    "5442c80f3f95a5c43df2a1f5359de04cd20b313003384be637b2ae881367581d",
+    "b3bff6a336e9b0b31eb389a801a5c516ed66f5204c474238519f0cf581644c2d",
+    "6d4c47b93247732c919874b261915266b3756568b1f25ffc934c125631ff9340",
+    "edb08fa929218550d50d0deea726ba20e73350ef1907718c71d65917b319c680",
     "a3144f8008c974a4ad58ee49b2b1ce6c1eb276b56157c42eb6fc69a5ee658130",
     "90be93f96e43a8d4fc6fa3d19aadb27e39e294b1ee857978aa344836c63082ec",
     "77817f0aeb7b90ee9ffe575c70e8c279877a08ca84cb369df298180ae22da102",
@@ -4734,19 +4747,7 @@
     "9f82fc589a20269abebfa7303c86a7566e55ffd3611a801b506d75a79750465e",
     "f1ad21a504b101149e3ff03585cca3c7c666b757dfdee136aa7d33434433c594",
     "ef53c6f5635a3fed5512ffd9c80ecddfac0e99500401651027d34b29df191dc8",
-    "54e62aedfd47c23a0baf79b60058b712bf68130513771da10fd98bd2f297d419",
-    "e6000bd741c9a2f40560781aba94d2f1eba5620d04ce4059fc854e351303cff1",
-    "18db7eff5f0c9d16970b8cd72e9cdd9453a658a38bcb8f2c476cd30f569ec7fe",
-    "c753bdbe01654b19e93c878ed15cc9af914aeea11e37ac213c3e973ac5a73de4",
-    "c7f5b96fabe99e222272bbdf7cb3dcae2bea2f6b3ddfb1df2e7c2bbc0e49c824",
-    "66fab0ccf6cc0ac7ecf0e04b973d8e252c96780b91f8033e157006924f72a173",
-    "9cba9b3272991d53c45a83fc5dc2e7050a64430af6cd3c8940908870ef485261",
-    "3322d5a8b09b567c8c21f978b1183ec6af8c3204f6189e6f3b485697312fa964",
-    "72e92c0534f41554b092b044ee6eda343d6116a7d21a51047383095d5c877f9b",
-    "376b7df2dfff0ad69e8a2cbed6956b9a11a67a49b9300aeaa61c3c18b9667f4a",
-    "136f9f035713ee21ac5e39d27549e610a7a6ad116f7cf241108d1719d6a35bc3",
-    "5a4ed58ddc2b5f2bc57062cfb1b9b01bea5404617d31582f708951e2f3d6954d",
-    "a37c03e62207b607206192a2f3822b14b50f7873c06d3434540859f7b1b30288"
+    "54e62aedfd47c23a0baf79b60058b712bf68130513771da10fd98bd2f297d419"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
