@@ -692,25 +692,10 @@
   "calendar_fetched_at": "2026-11-19T12:45:52.914785+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 67,
+    "count": 68,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T14:50:45.980546+00:00",
-      "t": "Market spooked because now the Fed may need a supersized hike in December",
-      "w": [
-        "because",
-        "december",
-        "fed",
-        "hike",
-        "market",
-        "need",
-        "now",
-        "spooked",
-        "supersized"
-      ]
-    },
     {
       "at": "2026-11-10T15:05:40.615141+00:00",
       "t": "US stocks slide, yields jump, USD higher after hotter-than-expected October CPI",
@@ -3723,6 +3708,22 @@
         "urges",
         "weighs"
       ]
+    },
+    {
+      "at": "2026-11-19T13:50:54.243420+00:00",
+      "t": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
+      "w": [
+        "fed",
+        "hikes",
+        "inflation",
+        "meetings",
+        "morgan",
+        "next",
+        "persists",
+        "rate",
+        "sees",
+        "three"
+      ]
     }
   ],
   "resolved_events": [
@@ -3755,6 +3756,14 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "ec14c97761a5fdcb7410f810a74907eebe72cdef4f0f64d858287ef33eb10a48",
+    "02e426e25b2fff313eae7800cf7bf3a2dc0002c6d4e628c299af28b64e2c9622",
+    "a640387551f56f3f8a178c32f84a9f02c1be5d1792b7970c7fce8cf1e6dc1ff6",
+    "c64825b4db58816360a114414cf31709284862c2829e8501175e8923ecee9fa4",
+    "455e6156b9c620ff93e11d0cfbefe139f9260f0bc0094ae021dbc944b603062c",
+    "825f19cf1eaf6edfae97bf5eea7127c470e8d3a4d74cc36c391b4820d59432aa",
+    "d509855ece91a2d30c9a7bc91adb3ecc0b9fd6a23d1bbd53582304493be11372",
+    "55d9e8d843de09f20b37302300310de8ff65fc946c4dc9847312547423813eb9",
     "fc8414440a8ad58f58de224740cc111975cca919b3faedf45498e405b56b5ed5",
     "57756deb9bc1c9b1c809e17fc570fb7c12ba957e186e3263a29f21ceef8dbb73",
     "e132900842043f0fd6b7614d2aa3010ca6b9a128f6824dcaed8f0ea02d47756a",
@@ -4746,15 +4755,7 @@
     "f1ba966364eb980c6149edae5d5171bad30ae17b18efa7370265a5122d75e6c7",
     "b86386e601ea61aadc5a2febf039f82bc75f0c3458cb65dd8b649313b989b18d",
     "ace41e0a69ba054bf3e9d1242b4e6f3bd8391fc0ebd1f29ff0d16cb9f85df897",
-    "e65183b6bb77f24f0830717fcc3f89bf8624bc6ac130750b8dafd6af221b1ddf",
-    "3e15e4342289c13f09f32f4a53dda9dbe96e69e60b753f0f56745bb572ee05c8",
-    "727dcf4889c55f8d59c8b0f0f41b81d93b41770e8fae112374c8b279c9910771",
-    "a67ca239b2a826ad2b967ab1b8fe4b012f4a0572d8579c5133f8983889320ebc",
-    "8ce0df7c586aa86fabab8c7eaed65eb1b01b6cefdb9801e6a9b6641e43867e29",
-    "f53a010b12123cab19642ca99d8cbee85db1be89e69735440fdb2de9e9a02f71",
-    "b86e9b3dbe1a476a60c646865ac17fedfea955f6c6a2e97f2d9cf6d1628b36bf",
-    "31e4a91e8cb6f2683d56ead24155c84ef261080a0553a0de96ef88544344b6c5",
-    "58089cbd68ca7d119eb8e9ad18b1c8de4591950a4e2c5e6db53777d115f7c175"
+    "e65183b6bb77f24f0830717fcc3f89bf8624bc6ac130750b8dafd6af221b1ddf"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
