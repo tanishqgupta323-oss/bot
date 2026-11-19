@@ -692,26 +692,10 @@
   "calendar_fetched_at": "2026-11-19T18:55:36.583351+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 162,
+    "count": 163,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T17:05:40.818867+00:00",
-      "t": "Fed officials open door to a half-point hike after inflation beats expectations",
-      "w": [
-        "beats",
-        "door",
-        "expectations",
-        "fed",
-        "half",
-        "hike",
-        "inflation",
-        "officials",
-        "open",
-        "point"
-      ]
-    },
     {
       "at": "2026-11-10T18:05:37.174821+00:00",
       "t": "European stocks mostly higher as hot US CPI sends Treasury yields above 5%",
@@ -3721,6 +3705,16 @@
         "trilateral",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-19T21:45:46.245097+00:00",
+      "t": "Trump, Xi, and Putin discuss Iran",
+      "w": [
+        "discuss",
+        "iran",
+        "putin",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3753,6 +3747,11 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "a3144f8008c974a4ad58ee49b2b1ce6c1eb276b56157c42eb6fc69a5ee658130",
+    "90be93f96e43a8d4fc6fa3d19aadb27e39e294b1ee857978aa344836c63082ec",
+    "77817f0aeb7b90ee9ffe575c70e8c279877a08ca84cb369df298180ae22da102",
+    "7f58f55a9c9dde7481e0f1ac66ccfb231b8ddc7b408bea04ac44b547cd979f2d",
+    "60ec2e91dbb37f45e72391a9657888bb35ec1ddf3fc8a61ea7df58448c1b9eb7",
     "f197f643bf7353b881ba6a0fb3274ffa273a0dbce8cee49de2eb0478263367a2",
     "eb06100fe414f6569463219666129484d41bc79b3f80c80fe228f393599200de",
     "eee669f43383ca0d6b398b057a828997493e416cf0e9c2a70a34fddcbad80173",
@@ -4747,12 +4746,7 @@
     "376b7df2dfff0ad69e8a2cbed6956b9a11a67a49b9300aeaa61c3c18b9667f4a",
     "136f9f035713ee21ac5e39d27549e610a7a6ad116f7cf241108d1719d6a35bc3",
     "5a4ed58ddc2b5f2bc57062cfb1b9b01bea5404617d31582f708951e2f3d6954d",
-    "a37c03e62207b607206192a2f3822b14b50f7873c06d3434540859f7b1b30288",
-    "edb08fa929218550d50d0deea726ba20e73350ef1907718c71d65917b319c680",
-    "fc2bcd6fe33b8e18a29a6150791316b325e8553904e58dda30d40e808a63ac14",
-    "829c34be6f17ba33f4b2e4e065d140e606792f3739fc2e20309d81f4e38ebe6d",
-    "b486cc9b62fb45eafd3aaec538276515172ef0b9b33423880d67ab1d07040bb6",
-    "2667674dd9b3adbc50668c19b7957378c53679f2aa043d0d5603f50661ab6be9"
+    "a37c03e62207b607206192a2f3822b14b50f7873c06d3434540859f7b1b30288"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

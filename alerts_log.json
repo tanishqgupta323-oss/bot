@@ -20867,5 +20867,19 @@
   "xauusd": "BEARISH",
   "btcusd": "NEUTRAL",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Foundation for Defense of Democracies",
+  "title": "Trump, Xi, and Putin discuss Iran",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wN0xubFUxQmdSOV9rRmVuXzlWZEJKUU13Mkx3NXVFaWNrSU1wS3VTa0lfanpJTVZEY29IUVpWdWt4SkJNU0ZuS2ZJejd1Y0hyLVYtQTQ1cGJBUFlpNF9LWDBmUVFTT0ZSX3VRXzFSUGFHdw?oc=5",
+  "published_at": "2026-11-19T21:44:34+00:00",
+  "sent_at": "2026-11-19T21:45:47.788562+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
