@@ -692,43 +692,10 @@
   "calendar_fetched_at": "2026-11-20T13:10:58.639378+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 81,
+    "count": 82,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T15:15:50.549722+00:00",
-      "t": "Euro Falls to 18-Month Low Against Dollar on Fed Rate-Hike Bets",
-      "w": [
-        "against",
-        "bets",
-        "dollar",
-        "euro",
-        "falls",
-        "fed",
-        "hike",
-        "low",
-        "month",
-        "rate"
-      ]
-    },
-    {
-      "at": "2026-11-12T01:05:42.940850+00:00",
-      "t": "TD Securities sees gold retesting $3,900 as Fed hike bets and a firm dollar bite",
-      "w": [
-        "900",
-        "bets",
-        "bite",
-        "dollar",
-        "fed",
-        "firm",
-        "gold",
-        "hike",
-        "retesting",
-        "securities",
-        "sees"
-      ]
-    },
     {
       "at": "2026-11-12T01:31:04.614496+00:00",
       "t": "Gold clings below $4,000 as inflation fears fuel bets on bigger Fed hikes",
@@ -3702,6 +3669,41 @@
         "streak",
         "weekly"
       ]
+    },
+    {
+      "at": "2026-11-20T16:05:43.081095+00:00",
+      "t": "Bitcoin falls below $60,000 level",
+      "w": [
+        "000",
+        "below",
+        "bitcoin",
+        "falls",
+        "level"
+      ]
+    },
+    {
+      "at": "2026-11-20T16:05:43.081095+00:00",
+      "t": "Pentagon’s Iran war costs top $48 billion; Saudi strikes Hodeidah port, Ansarallah vows response; Haitian police kill 34 gang members",
+      "w": [
+        "ansarallah",
+        "billion",
+        "costs",
+        "gang",
+        "haitian",
+        "hodeidah",
+        "iran",
+        "kill",
+        "members",
+        "pentagon",
+        "police",
+        "port",
+        "response",
+        "saudi",
+        "strikes",
+        "top",
+        "vows",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3734,6 +3736,31 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "128d7356da4da87a173cee48adc7084a8e57d1fe825a0c1112fb562ae7d9b021",
+    "20960a1f6e382cf6cd3e5da340f2e9b8c8e5d58417926f27c3c44b28f61e755a",
+    "ef8241cc5c0845ecc53234faa20476b7ee82e76366e899839722691bfe2a2dde",
+    "f1e717d3e7435af0e853621f08c9da06f6514866a17fc0af66c2336d805c1e97",
+    "517f7fb60cc3e4584b19e9769d3ef30c61e8818413569dc810b219b10dc455b6",
+    "54e3720146cad73661ea661a559b6b0ced0951027a76c5fe88989875def95507",
+    "3cea1fe11b1d4d7efc403f9d56e3b63e55c0f889e64d8f4dd4e0bc6eae16dc3a",
+    "0ab935f7d77ee160802fbeb8bd29ad84afb0d692a6f36733c1425ba7bd6d9d43",
+    "634b949a59d87c97acff0bdb4b86230175095b78defd38a2624c2f96fd56464f",
+    "6b85e3e6094d77af7fae96be25f39c4d82038044a10afef564c982edfc03ba9a",
+    "fd4279fd369b5b6990f535951754abaa0255c163078537760572ca44c74e3c14",
+    "7b5b6b3fb4891c9b5530e891e6081ea19376ce11f6478647bd0bc3bb64025ab0",
+    "c769d461cd6e7486c7bb74cb4cbf6e8073dfc7784f184688ff023bf251fb8af9",
+    "c1c432cb1565e4b49dc253f2d21f28f7721b1aed737a200928bde6bc7bf0ae2a",
+    "7a95d6f6a7075c4f78cf9255a8123c239364694893afd92d3c278ebccbc1e3d1",
+    "f2668ccf9942dad00feeddaf42586f1561e114020c4355dc51d0b13b739b24e6",
+    "0bae16c70a19599269659a674c731713c567fc781a056ea896ee1ec8cd3d6ef7",
+    "dea69cba1c5c40c1e58b1e7241778ae28fd7b8dbee32b64423b4f971ae857255",
+    "04638f5b3cb0614648b33cbeeaac766d951e50becc643d39e1c8de72fcfc93c9",
+    "b33561dd09e10ce6b4c64b74d7983dfd655e2d64331366f11014597d0a5488f9",
+    "fb488022eac853fc2aa858cad948ad88ae3662f334c368dedb5b4d72b3db86da",
+    "9ecbc28bf5aee4bc2806b6adf5ae8fdb5e158acdb0737483f8c8e3169b2adc51",
+    "8100ef9b02be28799537eb053edd763295072049191ba185b5f86949e28bdf0b",
+    "5e1b0c9bec435900476dd0feb6cefb6efc84c8f95201849d5a9d8107191c54c8",
+    "6e96d519f913bfa56f5aa822561f64972178c1e5c80a5e51dc64c9d3ca52aa74",
     "58964a829d629c8dfddcb0336cf95ea9559aadd055eda972658a563e73cafac8",
     "2cbffdd1d714645aeb53f4d37079107122c3e15ed101a6240929ea5520c96903",
     "1c6511d8bf389d2cc454fd352314e51c64f7d37061119ff2bb129b98b2422568",
@@ -4708,32 +4735,7 @@
     "c0321dc8362196837b03b5bfa1cbbacd0342be6a7b97e1c4a1adb2996abf5e1a",
     "335804070e246d4f9abf79dbb9ca82e1c0181f5ed069382f7c90d644ce76c22b",
     "bf607237392ad757cc46f0e49401382d7ac7c555da03b2c4d6b30af2f3c41d0b",
-    "215d16db68eab171065d49527b9b7d8ae1ce2fd14250439c2049a16cefacefb3",
-    "c2f60afefaf51887407780cb583985a07ecb98788a829186b22cbf7041e7f1a1",
-    "f62900ced6c9bf96c0ce4e5a52d64ae7b72941fa217f943733320cd375bd4068",
-    "4d8d6e5ac1f6b02319ca0356b05555686f9c71a5c4f6a4590c78ca681652beb3",
-    "8c33f6bd23136832c8c3730fe3b8ad782b0e17c43a0dabd22b62ee2462332a6d",
-    "50ea3aff9e8a5916126d3fa6ab155ffce97e025362a24ccc1518584acfe61f39",
-    "c0a181cab286ff66da67a811e60c42d5bdd3d731394356949ff2242035b101f7",
-    "98826bb23e2539dc8298db58b137b8ae3b833b223f94fc1ef723c9fd6a644e50",
-    "5c9e5f3e4a722e0d7c9a560b3522f83332d90acb7a99660821410e03392406cf",
-    "35609c350895af5c52b9e6f582858812209f18a97fa285e8888612ae748037f9",
-    "8b054263af358b5422a5446ce65591b19f56938302b002492615c851f50e2caa",
-    "feab1ec521a267f5626b0c4a8320872cd6359d6a9d3085cc11aa017305472ffb",
-    "839eac39f3ff8f72d4f86290df034d0d163b0fe30c3a9c2f4c23af802d72955f",
-    "1ecedfb00b9144d5763ef6bf921e75270373dc65241e0dac662e98129c99a544",
-    "aa408468b5444f01a03bdf5a3c07cef176d9012423276f2c422ab619a81741d3",
-    "103816942ee2dd15915f04a6e9819ca174152c91013ba20facdbccead49266b7",
-    "511498df01491999bf27633ee4fade86e2f41d5c8a3a2e4f13ee969672293cd1",
-    "68c2399fa76a182c87ca822bd34458d8c001065ef2edaea37cde37c8ea80a40f",
-    "a427d0f35a54064109baa9d310c89e6d442646e49d7372e03da88d86b4df270b",
-    "7b1fc90a9c5811d03ee0a3490b3c0289884fadfc269c296d6c24642b839e6f3d",
-    "d594da97d74e10fa1e869543e45e28000bada4fcd029fa4c1d91d045b5af7ad6",
-    "6bafc32d12292992a185bf4088d66000d5b184a2e69b0224bb44e0a34c433260",
-    "a8bf877d7f665f8dbd9d68aabfdf4783db0fbe22b5fb7ec7ab1055650bb8c09f",
-    "50436412b6a31814695cf7c856075d67badf906eb897012b24b9765369be5786",
-    "7bc910a996602e2aa2436d5043fdcd371145ba3132b9cb10217ddf96931d2af1",
-    "968e352dfa8c28af87ea56217f03228da3f57cc76303792de987f552d8017a77"
+    "215d16db68eab171065d49527b9b7d8ae1ce2fd14250439c2049a16cefacefb3"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

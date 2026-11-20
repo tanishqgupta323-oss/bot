@@ -21503,5 +21503,33 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Reuters",
+  "title": "Bitcoin falls below $60,000 level",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEJfUmdFQ0ZvVC1TbUh4dXZxdzlrTVZYenFybjM0RnpESDZ2aFRsMmRsWHpjbEF4cjlCWWJtQnZiWXhINVZhUng3YW9ILWZXejhNY3BJelJKRWw1TDRzaDRtdU92ZlhRUXRMdVpzYXlWaUQ3MUx2aWtEU2VaVlhLOHlqV2Q?oc=5",
+  "published_at": "2026-11-20T15:52:09+00:00",
+  "sent_at": "2026-11-20T16:05:51.175675+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Drop Site News",
+  "title": "Pentagon’s Iran war costs top $48 billion; Saudi strikes Hodeidah port, Ansarallah vows response; Haitian police kill 34 gang members",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVUtyY2hZV3Vvc0hTMXdFbWw4dUlxUi1XbFJDdFp3NjNaTEZ6NjlrVkx4bWM5WlpsSm9HVGFKMzZMSTFDT3RsLW1pYkx4QktFNUhYRWl5VWE5Zk9STzhGOEVzSUdnSjlCRUV4MTdMZGtRLXhzSk9nSVl5WVdRVlhsdlY5MA?oc=5",
+  "published_at": "2026-11-20T15:57:54+00:00",
+  "sent_at": "2026-11-20T16:05:51.777811+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
