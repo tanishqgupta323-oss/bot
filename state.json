@@ -703,24 +703,10 @@
   "calendar_fetched_at": "2026-11-20T16:11:00.792052+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 108,
+    "count": 109,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T13:05:36.755526+00:00",
-      "t": "Serious Fed Warning Triggers ‘Significant’ Bitcoin Price Flip",
-      "w": [
-        "bitcoin",
-        "fed",
-        "flip",
-        "price",
-        "serious",
-        "significant",
-        "triggers",
-        "warning"
-      ]
-    },
     {
       "at": "2026-11-12T14:50:47.600437+00:00",
       "t": "Gold, silver extend losses as Fed hike bets lift dollar, Treasury yields - Kitco AM Report",
@@ -3705,6 +3691,24 @@
         "rate",
         "september"
       ]
+    },
+    {
+      "at": "2026-11-20T18:20:45.299474+00:00",
+      "t": "Why Crypto Is Crashing: Bitcoin (BTC) nears new 2026 low as strategists say cash Is king amid Fed fears",
+      "w": [
+        "2026",
+        "bitcoin",
+        "btc",
+        "cash",
+        "crashing",
+        "crypto",
+        "fears",
+        "fed",
+        "king",
+        "low",
+        "nears",
+        "strategists"
+      ]
     }
   ],
   "resolved_events": [
@@ -3737,6 +3741,16 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "36965bd5d1865b1dd4fd3db762c41481ed52a9d12519d987f8e382c990b9befd",
+    "2214ccddd1499ac676006e33dc1ca6825cb12d6b5de760e6e1b47031b7b1e92a",
+    "0a972252e2f404dde59ef2abf1433fadaa92c7aec89eb8d838b9750b9ac994e5",
+    "5ef7ee9a4bb2b1778a743f75acf98d4c239dc8a2525c5ba894785862c7883ce9",
+    "4e49c9b7ad9a485057a9731ba78f0ddeac5846b5688daeae85b3f7ca5a2ebe6e",
+    "5fd0491467053ea6715ff748aeecca11f6becf4f910144175bafe4cf27f96915",
+    "a5727963653fe689cd6e9006e2f7811cb1d63e1862ef701a3003c2b29fb8d9ab",
+    "a7dcd89de23ffd34809747aacb8b7274deca1f3d8e2b4f0a7a8db48528e80077",
+    "ae909962002d419bf242ad9e1f002dae06159e1163a9f25e0e2def8e30310ddc",
+    "eed875a50dcf1418053e6342d66f131b858d29771a57ac8bf31788790103832c",
     "9992513aef16f51ca09f611b56a3db13ceee5f1c6bcd28c0964bf22d717b29f7",
     "8e05b39c78d14ad8df4de5af0ea2c20a1a30beb7f7fab42d5d7c802a42c13431",
     "a1962567eea34cb84552b6b6a832a6f45faa9f5820d6a96ac06524efa60a30e2",
@@ -4726,17 +4740,7 @@
     "d6a81433cf49590ce04cdf4e8afc4e8cf65a91d48e4a7b79b1ca567f30c78a60",
     "9a80944644387f558223b19df05812ce87d0a2aaaada591a059a2751a1d2a08d",
     "6fa308680ea16349f11564dd424b2cbcf862ac44e7018c196f6b1f7c6d8732a2",
-    "7ceda43230e6892fe2398cfdf3c8c4b00e0cb37076089279b1c64c35a4e9d8dd",
-    "768f56c18238cac7a8490a657ca640fdfc2d93c20c98176fce643c76f3f1e1d1",
-    "ffeb8642cd61fbc9927f5d8a29287d021f07e6a2fe59ca30612ae9b8da768881",
-    "9a534a32d807ca37a7d9073b748435b4a03070d046e841315c65875d5aad4aff",
-    "f9333c46c9d341026a31e0ecc02fefd991f68ce0799b3a580e2a2e4daa918f71",
-    "c349aaefcd0aa1fc080d540ab4a675007926f5fc9eb0904a339ef1a384750a3e",
-    "7ca47638574159becc301ad2b4da4cbc46de27051d24a750ec5ee619343d523f",
-    "c00eab40f328925c7a441461e2ef6456ac4d89139d3cf244d8a9567aa1508880",
-    "9097e84c5c50f2a9406b0e492e26d0cb9b2c4ae44196e2426ed09d7138314f13",
-    "d4a02f558a5613ddc67875c75b403458256597e787f25ad5f3bdf5a5bf58c0bb",
-    "6af314eb02d839c9f194cbb9c7e4817a81029af651600c69bf293c243cbb2a0b"
+    "7ceda43230e6892fe2398cfdf3c8c4b00e0cb37076089279b1c64c35a4e9d8dd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
