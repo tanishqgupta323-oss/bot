@@ -703,27 +703,10 @@
   "calendar_fetched_at": "2026-11-20T16:11:00.792052+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 93,
+    "count": 94,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T01:31:04.614496+00:00",
-      "t": "Gold clings below $4,000 as inflation fears fuel bets on bigger Fed hikes",
-      "w": [
-        "000",
-        "below",
-        "bets",
-        "bigger",
-        "clings",
-        "fears",
-        "fed",
-        "fuel",
-        "gold",
-        "hikes",
-        "inflation"
-      ]
-    },
     {
       "at": "2026-11-12T03:05:35.398151+00:00",
       "t": "Deutsche Bank sees 3 straight Fed hikes after hot CPI, adding a January move",
@@ -3715,6 +3698,22 @@
         "vows",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-20T17:05:35.535607+00:00",
+      "t": "US-launched missile strikes outskirts of Qeshm Island in southern Iran: Iranian media",
+      "w": [
+        "iran",
+        "iranian",
+        "island",
+        "launched",
+        "media",
+        "missile",
+        "outskirts",
+        "qeshm",
+        "southern",
+        "strikes"
+      ]
     }
   ],
   "resolved_events": [
@@ -3747,6 +3746,14 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "940da4de4b8d6a086d76e0a4c1756466df1d365e5d93b46faddeffb3941898a7",
+    "18b9620d15e3ef70d9cbef8096cb1651a890e0e67c8f13b656745cc66f59bed7",
+    "6e4d6e277f7917db9fd34d46d2dd0413d7b78749cb705b3d27183b26be74e196",
+    "173fff0524665976713fd9a570ffd1ac6883414efc62c5eaa227716bb826b808",
+    "0fae5852601c5a7bf5afc306b8feb0a2aad0e7aa1e87a48e9fa699dac4ce9552",
+    "f54b9775eb2666bdcf9b550dfd13cce17888f458d7ac25a872402f7949630f19",
+    "423588220b43bd2482cebb9d0bda1aedd81d7423404de4c70403afbf26ceb6ed",
+    "3addc8cffa0c61c100502799e1a63fc56d467d78038115b19ec8d22b6318a429",
     "ec516ce1fdfb30d5c61843acb01ea3f81be66074d8a9d4fe955d827f15a473bb",
     "c08b666c6bb908bc934431260d1302c1675105e72077e9e52fa9a3b7d4c0624c",
     "aa8f289ef68e8d3524a4b8fa39973c8151f5e10516d11a7d7c87f3024e39f8d1",
@@ -4738,15 +4745,7 @@
     "54118db693905d3fae6c116897e61e61e3bb33515d965edba3b718b64f160d56",
     "31643a0d5e62cc4ee3de7316b10843a712a0759bc82b99473cbc67ec08e2978c",
     "200edb8eb8896e8b0914ecf729778437943b2bd642a6f39f624fcead7c3594c6",
-    "03e70e5fc0272b3967644f71ab01f4bbef9a1dbcf1ff74caa6dd4b0502d523e9",
-    "2783cd40f051158251484743f234615d15ebe63e4283d048721e7c21f15cd600",
-    "a1b0c6662ae428922bb6e6c5699a173ee3adaa768d8ab9fc769231b2e534c3cb",
-    "e387cade0a9951d65eef61f5b0e5888a0344b6428e3650a7f432576934ecece1",
-    "b3dae35b9b2d68bbda8323a7e199b2436dbc9a3419cf43a06ff5f7253b73a605",
-    "e4bcddcbafde99669334931c735c04466d2cc8157c4f00cd46d02d73f05a4bcc",
-    "e33b8371bf1f17a2c79289fbb242b3f73a4e2432bf7b3623eec36982e30fb616",
-    "0357b40332b1a481b67e3f4fd6711d25290e58cca9b7490d388c99d99a47b488",
-    "320d2219171527a5d08f804ee8e9ead8e3227db027e883292500a608e4b70acd"
+    "03e70e5fc0272b3967644f71ab01f4bbef9a1dbcf1ff74caa6dd4b0502d523e9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
