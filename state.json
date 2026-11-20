@@ -692,24 +692,10 @@
   "calendar_fetched_at": "2026-11-20T04:05:34.035263+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 232,
+    "count": 233,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T01:05:37.631152+00:00",
-      "t": "Dollar gains traction as Fed speakers warn of risks from inflation",
-      "w": [
-        "dollar",
-        "fed",
-        "gains",
-        "inflation",
-        "risks",
-        "speakers",
-        "traction",
-        "warn"
-      ]
-    },
     {
       "at": "2026-11-11T02:40:49.986965+00:00",
       "t": "Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike",
@@ -3710,6 +3696,21 @@
         "tells",
         "tightening"
       ]
+    },
+    {
+      "at": "2026-11-20T05:10:43.052405+00:00",
+      "t": "Gold futures sink below $3,700 as 5% yields pull money out of bullion",
+      "w": [
+        "700",
+        "below",
+        "bullion",
+        "futures",
+        "gold",
+        "money",
+        "pull",
+        "sink",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3742,6 +3743,16 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "1e76735460e652c05d5516416e37f3e4cd0b12af3e832fc8204a3617e617da53",
+    "b7d9c081fb16fd641fd4ceabbdd63b1532dcbd4dca69fa5fd93fd5277c171722",
+    "7c52431ab5fb90e1b8982cf3982c1a12beb981c2bd3b0b61c8806a4f1acabaa9",
+    "b84f1adbe6c15106919555bf44cb96e8e935d56b362b2a0a6fbcf8def2d4aa3c",
+    "76966faaf2789cfea9fac1121e77f3317f6bffc91ce1b6335fdeb53e4a303069",
+    "4c3ea20833af061c1b2800cb5d189afbc39cc558e27a79e5aeafb7a9799d856b",
+    "cc1dc5f94fc254f37ff9674f58b0f6a4ee8bb740363f57aeafaee581585ab4c8",
+    "dffe1e43669ad890c8a21b4cbeb9d4a0dba18625e58114d9a426a19fa59fd078",
+    "b4e110b9c690e1e240cb81e430a144b611465ade6c6404b9eca7f983cb598566",
+    "04b73c854072353fbd5e6b7161454cd5fba5f8a37065b55646c6c11fe83a4e38",
     "6801b71d5d602ed267a8004901099260144015376084979a3b84712227104cee",
     "763423ddef6674a9c8a03ebd099b772922dd80314198a4f76bcbf45acc8336c5",
     "a3ca8814d4df7a4831495b1ce1aab043c2ba03b7898f8cb45e08d4c28a1a7659",
@@ -4731,17 +4742,7 @@
     "15ca52071ceb1190e25aa33f4425a9db75c1b2ebbff35a41d5b68db60e36960e",
     "b0ffdca0c1a341789c5cb1ad7da26e863b4b9327921569b8df1ba0779d890460",
     "98874f9f4014a173c9b1830e7dafa58e8516d19f2553920dac1d7b88af55f441",
-    "19165eb46ff422de6c9871025c817ff2f1378507431191f7b61d3791e15c4335",
-    "edce9da66e76a5de7ca60e011764709e7ca2f306cd2ab5a00bad10265dfe908b",
-    "e4355a463b61a9f0b3692c6ed88b7b137405076ae609db8788a3893350c9a844",
-    "f00764a97e653375fd0df2d2726c4f20ecc88b810cb77a92fde4b16721b2f504",
-    "0acfaa03755f8d65b4a26d375ae896de2059fbe4771d2496804f160d5322feab",
-    "c752bfcad6461c0fb0cabb4f5dd255c501fc8d7ba01735cb753ada7f3ff8bbf4",
-    "25232ea34a5b254e9eeb13be065f2c13f066f871040f3f32b04f3fc890480e6a",
-    "0699ad602e2681ef4861b435fb3e9a8914b69580c5ea28c9fc5f20d0b16eec3b",
-    "86247681f6ee071eda3b5a6a4d105d659b15cab9663dade0fd3d43fc2277532d",
-    "5dd5245a05addb0329c7ab7b6acd10bf0c3d39809403de6d28717553c574c22a",
-    "e48f4a2cf3a42ed91cffa8343aba829ca450dbd579c4027053bdf92aad6e08c2"
+    "19165eb46ff422de6c9871025c817ff2f1378507431191f7b61d3791e15c4335"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

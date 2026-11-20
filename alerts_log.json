@@ -21110,6 +21110,37 @@
     "EURUSD": 0.011,
     "XAUUSD": -0.2089,
     "BTCUSD": -0.1372
+   },
+   "60": {
+    "EURUSD": 0.0329,
+    "XAUUSD": -0.3247,
+    "BTCUSD": -0.4651
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Kitco",
+  "title": "Gold futures sink below $3,700 as 5% yields pull money out of bullion",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlJNYXNXZkw3b1RUbHlCY0hkVHF0OEFjQnpaMDlNc2dYREpHTUpVSHdiVTFsMHlYbXFjX3RhX0VFN3Z5WFZSUFBtRUplVUs3TWx3SWk1UmJYTDk0LWxQOFhIaU1JNS1hQm9QaDlSalNLU1JkRDd5QU9YUHZyTEsxalNySWo0YVUwVkNjZE55SXplYkJMOVJHQkIySk5YM05rV1Bj?oc=5",
+  "published_at": "2026-11-20T02:05:02+00:00",
+  "sent_at": "2026-11-20T05:10:44.138316+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.011,
+    "XAUUSD": -0.4893,
+    "BTCUSD": 0.2357
+   },
+   "60": {
+    "EURUSD": 0.0549,
+    "XAUUSD": -0.5624,
+    "BTCUSD": 0.8141
    }
   },
   "checks_base": "published"
