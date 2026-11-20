@@ -21581,5 +21581,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "KEYE",
+  "title": "Fed officials sound alarm over AI boom's growing inflation risks",
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQblUyUDNrOHR5VlRrTHN1M0kzXzlBbl9fbUxQZG5LOUMyMWp4WnFhRVJNQVBYdWE0dFhEaGxyZFprYW1RbGM3UGJYNmxZeHRCZ3prNWs2dmNJaW9UaUMyVzRXbURURGxnUFVVT29ELV9CVXBLZktrY2MzbmExMTItRGZoSU1NRzNVcVRaeVJ1d05nbXJBZ1VkSlI3Q1V1SjdkcTB0ZWd3S1lfSG9fWWJHeC1Fc2ZNUFNid1BESnlEUTdMajgzUEliWHM5M1ItbjlLYTVnQWViaVhRbndVd2F0Q0M2dzFKVU84N2tkb2VhRnB4OVZRMTZnS0ZSaHNMUHc?oc=5",
+  "published_at": "2026-11-20T17:10:28+00:00",
+  "sent_at": "2026-11-20T17:15:47.258633+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

@@ -703,27 +703,10 @@
   "calendar_fetched_at": "2026-11-20T16:11:00.792052+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 95,
+    "count": 96,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T03:05:35.398151+00:00",
-      "t": "Deutsche Bank sees 3 straight Fed hikes after hot CPI, adding a January move",
-      "w": [
-        "adding",
-        "bank",
-        "cpi",
-        "deutsche",
-        "fed",
-        "hikes",
-        "hot",
-        "january",
-        "move",
-        "sees",
-        "straight"
-      ]
-    },
     {
       "at": "2026-11-12T04:10:45.127039+00:00",
       "t": "Asia FX holds losses as dollar hits 19-mth high; yen nears 160",
@@ -3714,6 +3697,20 @@
         "southern",
         "strikes"
       ]
+    },
+    {
+      "at": "2026-11-20T17:15:46.184976+00:00",
+      "t": "Fed officials sound alarm over AI boom's growing inflation risks",
+      "w": [
+        "alarm",
+        "boom",
+        "fed",
+        "growing",
+        "inflation",
+        "officials",
+        "risks",
+        "sound"
+      ]
     }
   ],
   "resolved_events": [
@@ -3746,6 +3743,20 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "c6961aab4fc5048f5cf2de0e0456451466bc2fccd82ae7a670170dd9b5ba370a",
+    "d6283bbcf97c43796fe4937f8fb0b45f6ef9915e562f496b77fee90d5ad7998a",
+    "a554c50f365121a0a7c33ae57ae506872e1010845ca63f07b1564e1816a2f93f",
+    "39c40f67c252d58f1c9c407325546164451b869a411272f3c5a65db7933a4ae7",
+    "df6408068f6afe271a293d1ecdde91a097b84fdefc837cb8a5cca64f8c64db98",
+    "38b474d3156f9f4a96b3fb220380422e8a426a4013c28c06690e386b9880a4eb",
+    "d592a37afc424fdf659b0150fe6853f4cb6105a99e17dd8c379c166c27a59cdd",
+    "7e4e529b66fd4c4d85dd75e38e0d57cd843355fac00f97b5142b95876db9f236",
+    "faa1c5c45ab3c150fb143663941e1fee6a8d57d4bf984972e43964fb7f95bc0f",
+    "d7828b06ca66f547cf55a1c5fe2b1427621a4ec197a4d8f8691e6e0461da357a",
+    "4d3058d85b96879aa1c4ead6072b713d1d10e668d0601550e45868bcde02a5e0",
+    "5703b246207d6edf47ca1c2e869998d4754a6f75d1fb571007a77d8e55cd2225",
+    "c854fcea7762d3e53a6990603e7cc4a8bc6f15d138c2bd874ac3553e5bf9b58b",
+    "31643a0d5e62cc4ee3de7316b10843a712a0759bc82b99473cbc67ec08e2978c",
     "b6d2f0256b32865a091504a2baf44912e03c7b24607795f3017dcfdf9a365dad",
     "82aaba06b54cdc62defab9500b23bd9298ca2c8c517bb0bb48477267c92b59c2",
     "916038cb943f3566ad57383b93e9cd2c31cca072ee162fd31e90ffaccdf06910",
@@ -4731,21 +4742,7 @@
     "36e2f8352674992d57552313feb36d5ebc5dd885623c8b07e0024935442d71f3",
     "b83f3c56cb191687969ba1c4f612717b4705b23daae4e0295aa43f072d2d6a18",
     "db1eb68bde580667daf1355174dd52526947a09ac4f7536769ef6d320833d05b",
-    "c7b7221f51aebacfc8474b4037786de6c21d2ed6cd118cca8ecd4fb5ba4fbfa1",
-    "8c20613dd0eca728e2b6ca67681e36ea44b128c7bf580c778718a163e047a890",
-    "db5a90198f83f1e7978840f40c6c22da7f8c67fa83485f5e2dd2c02b1e24fe10",
-    "e7a0ae1e66f9bb8cff059bc208f69f10519c43f5231984f9f047d87c4d1a9eee",
-    "ae15f5afb5a2172784ab52bcb502f580d27657f65e500e880b5ca127c27303f9",
-    "c52f07a1d241e9f7832232c6c2e2d79f1e6babd7e032fcd7d0ef7d6bc02e822a",
-    "909f4c9f7d055ea263b692123764542f220706b99fe6702eb417595f7f11540e",
-    "04f5226ed79c933b2e389ec748c88c6f73b496e8c7030947d37537478b38dd4b",
-    "d10649e83b9651323aa01e7549cfc39f3fecfca53db42423208093211c611722",
-    "21bea196f90000ee9eb754cbeb9493556a55ff83d2f85838d2f8c67892d15e04",
-    "d1d7834f7f03d53ee6855abda6e064018a8b9836e989ccf96f7a1d10bb7c4123",
-    "474193a22b8e083c3fc566d4456a8613f472dfd984bfa6040c7866e81fc28c24",
-    "59bd41162c1981a2bef0aa4c6e6fdfa65807356af7c8109f37bb04fcaeafe5c3",
-    "e13da81529f371ba2e5e908820347e4dffa1b074d11001c357c5e8f4393a98f7",
-    "66403f26ffc8329464f52b8344b3736994115081f5249b3f8597204cb48e53b4"
+    "c7b7221f51aebacfc8474b4037786de6c21d2ed6cd118cca8ecd4fb5ba4fbfa1"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
