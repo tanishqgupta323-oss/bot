@@ -21178,6 +21178,27 @@
   "eurusd": "BULLISH",
   "xauusd": "BULLISH",
   "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.033,
+    "XAUUSD": -0.2444,
+    "BTCUSD": -0.0434
+   }
+  },
+  "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Bitcoin hits near 5-mth low below $62k as AI rout batters risk appetite",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-near-5mth-low-below-62k-as-ai-rout-batters-risk-appetite-5040746",
+  "published_at": null,
+  "sent_at": "2026-11-20T06:50:44.602446+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
   "checks": {}
  }
 ]

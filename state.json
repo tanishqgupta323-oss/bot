@@ -692,26 +692,10 @@
   "calendar_fetched_at": "2026-11-20T04:05:34.035263+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 247,
+    "count": 248,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T05:05:35.509594+00:00",
-      "t": "Three reasons Goldman has added another Fed rate hike to its forecast, higher and higher!",
-      "w": [
-        "added",
-        "another",
-        "fed",
-        "forecast",
-        "goldman",
-        "higher",
-        "hike",
-        "rate",
-        "reasons",
-        "three"
-      ]
-    },
     {
       "at": "2026-11-11T05:15:45.150400+00:00",
       "t": "Yen Slumps to Over One-Month Low on Fed Hike Bets",
@@ -3708,6 +3692,23 @@
         "triggers",
         "yields"
       ]
+    },
+    {
+      "at": "2026-11-20T06:50:43.331859+00:00",
+      "t": "Bitcoin hits near 5-mth low below $62k as AI rout batters risk appetite",
+      "w": [
+        "62k",
+        "appetite",
+        "batters",
+        "below",
+        "bitcoin",
+        "hits",
+        "low",
+        "mth",
+        "near",
+        "risk",
+        "rout"
+      ]
     }
   ],
   "resolved_events": [
@@ -3740,6 +3741,14 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "26d15be35707699f59b8dfce5bebba3e5144164c3505e478b7e46cef15f4dba2",
+    "411ded6b2e7f4724ac2f245b283fb234a7522de2cbdc95f9c2b769c1385f652c",
+    "2f45cc4ce889ff8a354b778bbeea4ea235f6fae71a01720df95655e2426c894c",
+    "15951ef5abf28dcdf713672f6f4cbb3aa3238249a72efa544f272604c76e01f2",
+    "650939c653044e2c3739b6b425fa6a27e226b3b7036ed5d0a755984bee318dbe",
+    "315390ca576ea4994876e2c8b8ae49555cf3e7ad3bde07ea9bc22f029bb286e6",
+    "2d9bbc178d2b375b36d7e1908c1691b7a842e0332f31dda4c49eb5112eec22d7",
+    "b791997a20faa90ad990bd39d7881e0ad82ff8c296ee8a655bb357f9889c5a1c",
     "c71e97c68cd927508b304dd01b4512bc0f464bdefcb9ab228ab1d921260b2d9b",
     "fcb628a3047b90f0397e6be26deb7a33c41a1c49eb1835dd7e9c07a48db38d36",
     "f894ee79a20ca1f5e3c8d2b61084ea269260d4919c571c9d173c69ece15c83f3",
@@ -4731,15 +4740,7 @@
     "32af3072af3200dd2976bbfbd2b32e9303eb072585da76d5a5263d53409bc3ea",
     "2f20c3d31014e792e7614d07aab2745df683f671e081f202597501cb176b7e98",
     "cecf40de9754757609a4dee912e36ebc19dd20a35690a0c6c8b22b6c383edd14",
-    "a70227c7906d03b15052b0ee2511e2bf98c1b7cda01cffd89f3b1c2083682f98",
-    "a39e1942d00b78e9d0ef41bc7ae0c913e861cb21ac61440498c6c8e5f7167bc8",
-    "f4ab0c5141172f457c6001432afd99236889c1df3b000c8cd51fd9d44d987ed9",
-    "99d207ffede8c481ba7760bf5dc2c01d333b3419b688c3d35f3620a9ab1f05f7",
-    "2bb5c86e582a350860a68120dcface1e91102797f124ce21d3b413534b2edbed",
-    "fd7d9443ef054a982783290095f00cea4332d79442e30bbd4ebef6517140a13c",
-    "215cd644e6e129735ac0631349380c49696a5229aa3c4a36849331ae59cd2dd7",
-    "ed93d805c1dc5f7a4f6763b14a9885e6d90b7c5f93cc2c214efaf524faca6ce4",
-    "61e37472d6b493844cee26cc33d795da4b7269f61b31568fb844289d28d23475"
+    "a70227c7906d03b15052b0ee2511e2bf98c1b7cda01cffd89f3b1c2083682f98"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
