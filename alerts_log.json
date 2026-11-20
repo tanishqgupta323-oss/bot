@@ -21758,5 +21758,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bloomberg.com",
+  "title": "Fed’s Paulson Argues for Deliberate Rate Hikes to Tame Inflation",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzNrVGozWDhWTXBGWDE1dEt5SlgtZElGUWtERk03U3ZrQ1g1aXg1dUpWZ1ZkMUJsdFNwZ3lSeGNKTDNkajMyZEVOWHA2anFINmJYWHUzY2FUMk9vZ0pxcEJjS3Q1OWpnYzV1VnRZaWJtaDZLWThERzhoenZvbUdzMlFtUzluSDNkNXpteDZzQTl1NDNnbjgwR3dXaXpIYnlIQ1dDYmtEdW5XT0ZDY1MyWGQ5Y2U1UQ?oc=5",
+  "published_at": "2026-11-20T18:25:23+00:00",
+  "sent_at": "2026-11-20T18:55:43.781388+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.011,
+    "XAUUSD": -0.2953,
+    "BTCUSD": -0.6088
+   }
+  },
+  "checks_base": "published"
  }
 ]

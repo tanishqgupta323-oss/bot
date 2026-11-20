@@ -703,29 +703,10 @@
   "calendar_fetched_at": "2026-11-20T16:11:00.792052+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 115,
+    "count": 116,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T14:50:47.600437+00:00",
-      "t": "Gold, silver extend losses as Fed hike bets lift dollar, Treasury yields - Kitco AM Report",
-      "w": [
-        "bets",
-        "dollar",
-        "extend",
-        "fed",
-        "gold",
-        "hike",
-        "kitco",
-        "lift",
-        "losses",
-        "report",
-        "silver",
-        "treasury",
-        "yields"
-      ]
-    },
     {
       "at": "2026-11-12T14:50:47.600437+00:00",
       "t": "Fed’s Hammack Says More Restrictive Rates Are Needed",
@@ -3709,6 +3690,20 @@
         "nears",
         "strategists"
       ]
+    },
+    {
+      "at": "2026-11-20T18:55:39.666492+00:00",
+      "t": "Fed’s Paulson Argues for Deliberate Rate Hikes to Tame Inflation",
+      "w": [
+        "argues",
+        "deliberate",
+        "fed",
+        "hikes",
+        "inflation",
+        "paulson",
+        "rate",
+        "tame"
+      ]
     }
   ],
   "resolved_events": [
@@ -3741,6 +3736,16 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "13b33a17467b536c81efb6fd38ace387822d229eebbf630a3b836c898a0cb030",
+    "561ae03ce8f65396a8970af89291cc2ac36703417c74ef3045be10609b559041",
+    "b5c7b1b104f1f9cfb0d08272e04e546b881718de6d920319bdf9e88a620f80ef",
+    "09b82a4b2bd4550b9621dbf527bff30cadde46a67646712496adbb2d9778a78b",
+    "f0b1ee9eed3f56b7b12b9002b5b0c59be07b3607fbd3f45db599d021e003e2e1",
+    "782090211b5c4d0f915130ac33a4b89649f48c4330fb301a472b94383dbf18f0",
+    "2c8ec1c940218fbb13eefe825c85840efc704a3c40b9594fd07eb229515360a1",
+    "483393176a7a3275ed37a47356eec7aaa13336dc9c5e1a09017d2c974ce373c4",
+    "eb693833d76549bb9bc6524f6fd9da92eac6d8528cecf6387dda12253508a600",
+    "0c0d0f55d029051368acb676c8c029bfc0eafca0ba960d6c550ee6f588b9603e",
     "e118f5f042915082042d6a292a30f0aadd49361f1b46200036682c6255e8909a",
     "ebb0f5f7c0ffbc5075c70bee8c65e8f5a8e8f6f6bfdee0caf03a4af7e898af74",
     "50dbb1c2d22332b5622c4aecc279ce45b8b71fc30adc7a23e88ac685c3003aac",
@@ -4730,17 +4735,7 @@
     "1347ecc680ae84c0a8497ed2f75a85072ac6c98fe3b8ae391185bbce7b3345ae",
     "62ffc58c607e09c71d9742990004ee1b580df6f9842cc8a07cbe8fa47715bb68",
     "525385f059ccae6ae147c063c9e24e674f6be6203fb3bb3b4160c7403a0c9652",
-    "e2af479e95ecfacf85dd54b6a8e59256a2aa8fe32f40d8d7a9386253fe39337f",
-    "9311e9d64d2d964fc931998868ccea653d0169f0f2903a4128b098b8ac8da5a8",
-    "04fc6e33a07661186e47b93ae33b4afbd335da9b5356d9a74244b9158c46d1a7",
-    "4f4c451f24b8ec6319c7e7d2944fc0d0e49d3dfbdd831bcab70a292295c41a66",
-    "3877d5c241849266b38c1cdf155e3ca8fd0803008bfa0d2197de833c2bbbdec3",
-    "5989f6a9675f81de9067568832b7a715d114a4fd7b4239b8a319a1979bc4124e",
-    "f0fd947657990e9cf34e0864c4edcd89ab05d8266c63dde56c89bb62e72d4181",
-    "a843c8d59b143d4ab84e0899baa0327985683354a7ae26058d106898bb74f059",
-    "bb0e61cd6ccf143d130d0388fcfe9546dea870dc61d9efa7ef15d1e5d4145a48",
-    "a6f8675039e4b78cd8bc02e0e75b2f512299d30dc8e2439495c60b8cfa09bd6d",
-    "054c50d2065afbf8dce26983a7769143564cae1e2a7410d6ad40525d675e8343"
+    "e2af479e95ecfacf85dd54b6a8e59256a2aa8fe32f40d8d7a9386253fe39337f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
