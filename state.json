@@ -692,25 +692,10 @@
   "calendar_fetched_at": "2026-11-20T04:05:34.035263+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 245,
+    "count": 246,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T03:45:49.033411+00:00",
-      "t": "Fed rate hike odds in December at 88% after hot CPI- CME Fedwatch",
-      "w": [
-        "cme",
-        "cpi",
-        "december",
-        "fed",
-        "fedwatch",
-        "hike",
-        "hot",
-        "odds",
-        "rate"
-      ]
-    },
     {
       "at": "2026-11-11T05:05:35.509594+00:00",
       "t": "Three reasons Goldman has added another Fed rate hike to its forecast, higher and higher!",
@@ -3709,6 +3694,20 @@
         "too",
         "weighing"
       ]
+    },
+    {
+      "at": "2026-11-20T06:31:13.330406+00:00",
+      "t": "Global bond yields plunge as AI rout triggers flight to safety",
+      "w": [
+        "bond",
+        "flight",
+        "global",
+        "plunge",
+        "rout",
+        "safety",
+        "triggers",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3741,6 +3740,14 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "fcb628a3047b90f0397e6be26deb7a33c41a1c49eb1835dd7e9c07a48db38d36",
+    "f894ee79a20ca1f5e3c8d2b61084ea269260d4919c571c9d173c69ece15c83f3",
+    "384ba946340d4a503f31e7ba1c9977ad8f210290bbb281c8e546d54e135643a4",
+    "c40a778e23594855d37323f1b477c1aa958fc602218d7f21d5b04ff318e90a17",
+    "0e04702d68f0aaea4cfc26a77c770648500acd3146ec2d148e665194c872ebb8",
+    "8caf779450df35f73db196c7c31bfb706386979807e1067be52c1b5af1019de4",
+    "9e701fe6f50d4256dc378340b58fd371f5384c7337a9ebf137e8f55f046f6a24",
+    "66e9c239eca7c77ea18c253e9da0ed34bb31f2cc66379e23bb27108a91305981",
     "de10e8027c7b0d59b9f74801b9cb9df4b96f713024a532a59acda6a83823937f",
     "f5e1b3b6ba75b6a39a7665a633cb1ba512a14ed1dfe1d907d3fc9c2862533e57",
     "a2774c52b8768502c9101091dd274f714b81bb3c23a44c27f8765f207db43df6",
@@ -4732,15 +4739,7 @@
     "215cd644e6e129735ac0631349380c49696a5229aa3c4a36849331ae59cd2dd7",
     "ed93d805c1dc5f7a4f6763b14a9885e6d90b7c5f93cc2c214efaf524faca6ce4",
     "61e37472d6b493844cee26cc33d795da4b7269f61b31568fb844289d28d23475",
-    "43ba226d5c06392b4c7e8cc37548ac2306c59ab8723a6bbe08bfdec62400fefd",
-    "09146452a69186e78fd3049f3f488473c9b3111125e3407fc6e8ce1a3b2171bc",
-    "c35fe4a96af3a9ab10e2af2c1d0ce040d67129435432f1ebdb4e60244e3cbad4",
-    "e6c44646204074be31f4dde266630e16a1382aa4f9c2054e1c4af368f0f395c4",
-    "e4e5d6501ff92e2e1f5c3ec8745ae9f98083f6637417ca4c30ad96c1e3258ca7",
-    "e28b5902017b11b7f3f9173958da379b7e647318a70c3ac979e0ede603797606",
-    "e5103ee2301b3c68152e88059c605951a949c69e6489dc7a28c9cba524050719",
-    "401a1d34ac057b089340257fd5e955b666e065224a1e7751b723eb3fff2cd522",
-    "d2c4800dc42ad891a0525e85910bdf499d5d62286587a1e44a03f9a0c6d0bdc3"
+    "43ba226d5c06392b4c7e8cc37548ac2306c59ab8723a6bbe08bfdec62400fefd"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
