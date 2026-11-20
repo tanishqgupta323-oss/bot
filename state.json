@@ -703,26 +703,10 @@
   "calendar_fetched_at": "2026-11-20T16:11:00.792052+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 98,
+    "count": 99,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T04:10:45.127039+00:00",
-      "t": "Asia FX holds losses as dollar hits 19-mth high; yen nears 160",
-      "w": [
-        "160",
-        "asia",
-        "dollar",
-        "high",
-        "hits",
-        "holds",
-        "losses",
-        "mth",
-        "nears",
-        "yen"
-      ]
-    },
     {
       "at": "2026-11-12T07:40:46.331537+00:00",
       "t": "Treasury Yields Rise as Fed Rate Hike Expectations Remain Strong",
@@ -3711,6 +3695,19 @@
         "risks",
         "sound"
       ]
+    },
+    {
+      "at": "2026-11-20T17:31:02.025282+00:00",
+      "t": "Bitcoin Price Crashes to $59,000 as Market Selloff Deepens",
+      "w": [
+        "000",
+        "bitcoin",
+        "crashes",
+        "deepens",
+        "market",
+        "price",
+        "selloff"
+      ]
     }
   ],
   "resolved_events": [
@@ -3743,6 +3740,16 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "f8cebd88e723d642f95b2d310f24292057cf5e9b8f214298815c96f11c1e11b2",
+    "b2308967ccb29795feaa46563de0392d7cc4805b20990739b18efe968ba2e287",
+    "71234c997b9897f295b0cdaf49758f5c96079ee99191bdf2f4139087a4178f58",
+    "b6cecbb1624b0c16c60db52df295a0c32c1957a7f8a9c6c050c218c4fd0b9359",
+    "c5652f052eb3c1855d4e287562961987e6fd9d82f68b30df930398f37cd31e47",
+    "4b3331354c8f30846ff29ca1d4603c059513b77168766e08c29f7f3be801d4d8",
+    "fb71e9db0123de23fb9d100909e8b501dcf00ef468fc734e4cbd0d6c197836f9",
+    "a45977b775da555403eb2efee2c43a05b9dd22455ee2bc0cf7e4075f6bafc1d1",
+    "bc5f4472c8ba6f8a11ee8b1a09150c48792ce5c9e3eef8d7a921a5a355b0665a",
+    "2cae4888986a46baa5693dde46cf63c50f1a173712a3bcb75745a7e87d93e685",
     "9dffd2beaad97ef1976cb2a65d8e4748f005298ef1e06814385512a457e2135e",
     "847d67bf357bf91c89c45ba451f0e6bb8099cbebbf1858ca015c00931f59efb2",
     "d040a9d11d0e5450abae7427282a2b2cc26133369e7eb7a3dceb70f563aa7491",
@@ -4732,17 +4739,7 @@
     "2e102ab30ea7bb52ec61b52ef16778e56c2c849a3a3b3befda3f260020973672",
     "179a48eb8b857c9fa88b9f7c6dd56f3b8a79e022793590b6f4b5e5f196a81f54",
     "2d2c9167b94cb8b425b09f83ece9796ed116395540dc311697b89363eaf174b3",
-    "cade9fa25014c47e7191dea7168c44ad83175511910db7a3289664be5bc0b21e",
-    "1b6639525a3f76e055f6e0a7dedd708e62f416e5418e7b5172f2936fe9db60b1",
-    "da2d8e307b766a93892be49be0f15382438e21e98fa628232a7db59e1fd6bf77",
-    "7369983f8dfa1abb0867afd034f4d6bcd48fef1646a4280c8176a50d6df0037d",
-    "b6c5067dd9e00b26c1e02f2513ef8aa71b702bf61b36ff24f56ceca2c10b0ed8",
-    "704231d024fd66cd30e2f0584a1840a75505814e72a7d1fb7fef7dcbeee114e1",
-    "e5dbee1e8b7c57f417c6f8f8af18139f5271603355c670d6758698340351e4b4",
-    "ae63cce9af0e0769d8d359fec7ce0ceaf22e7dc8eb821d378ffb4428794b51fe",
-    "e3fd656638378b3a9e638c1081c4498bb085d1c45a164dc3884fef6467da849f",
-    "809bb93f186a6d4f497c6eaae49d73ac5353596033f526705ab199f3dc4d4511",
-    "3bb47e06e72a2b9845f2f6003d70be69f40c80afd265874ed26b087f78f7026f"
+    "cade9fa25014c47e7191dea7168c44ad83175511910db7a3289664be5bc0b21e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

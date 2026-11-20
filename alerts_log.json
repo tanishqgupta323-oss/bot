@@ -21594,6 +21594,39 @@
   "eurusd": "BEARISH",
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
-  "checks": {}
+  "checks": {
+   "15": {
+    "EURUSD": 0.0,
+    "XAUUSD": -0.2376,
+    "BTCUSD": 0.1838
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bitcoin Magazine",
+  "title": "Bitcoin Price Crashes to $59,000 as Market Selloff Deepens",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QdWtrYk45LWxHandBd1R1LXVYb1VfT19jZlF6ZFFReVhxOFZlb0VfRVJJUTFNRlltbkFIaVB4ZmRVblBWbEJDNHZmejl5MlNCc1VFT3JHeDNlbjNZNWk0SURTOWpqQmdaSzNqNlJHWmpzNnRRZWVVTA?oc=5",
+  "published_at": "2026-11-20T15:59:50+00:00",
+  "sent_at": "2026-11-20T17:31:03.065862+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.011,
+    "XAUUSD": 0.1042,
+    "BTCUSD": 0.4738
+   },
+   "60": {
+    "EURUSD": -0.011,
+    "XAUUSD": -0.1239,
+    "BTCUSD": 0.1551
+   }
+  },
+  "checks_base": "published"
  }
 ]
