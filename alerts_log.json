@@ -21628,5 +21628,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Fast Company",
+  "title": "Gold is falling to lows not seen in more than a year: 3 reasons why the precious metal is getting crushed",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekpFRDQzd1hCdmJHYjc4VHNIOFJubVB5a3J6aU5ZODhRUEV2RjFDWEZETU1rd2hienViZTBCdjZJOGtDX3EwUEZnLWVBSDVwXzZLOHNsbXRPRElYSTlFYnR5UEdYbTRjOXRYNmhtS25kd2R5MjU0SUdsQmZTSEVRSEJMTkFHazhpcVc2b004WEZGWWRSbjIxdEZybEowM28?oc=5",
+  "published_at": "2026-11-20T16:40:09+00:00",
+  "sent_at": "2026-11-20T17:35:42.036649+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.022,
+    "XAUUSD": -0.2424,
+    "BTCUSD": 0.0682
+   }
+  },
+  "checks_base": "published"
  }
 ]

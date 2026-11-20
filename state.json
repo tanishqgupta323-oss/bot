@@ -703,25 +703,10 @@
   "calendar_fetched_at": "2026-11-20T16:11:00.792052+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 99,
+    "count": 100,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T07:40:46.331537+00:00",
-      "t": "Treasury Yields Rise as Fed Rate Hike Expectations Remain Strong",
-      "w": [
-        "expectations",
-        "fed",
-        "hike",
-        "rate",
-        "remain",
-        "rise",
-        "strong",
-        "treasury",
-        "yields"
-      ]
-    },
     {
       "at": "2026-11-12T09:01:18.535851+00:00",
       "t": "Iran’s Revolutionary Guard says 2 oil tankers exploded in Strait of Hormuz",
@@ -3708,6 +3693,22 @@
         "price",
         "selloff"
       ]
+    },
+    {
+      "at": "2026-11-20T17:35:37.780254+00:00",
+      "t": "Gold is falling to lows not seen in more than a year: 3 reasons why the precious metal is getting crushed",
+      "w": [
+        "crushed",
+        "falling",
+        "getting",
+        "gold",
+        "lows",
+        "metal",
+        "precious",
+        "reasons",
+        "seen",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3740,6 +3741,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "a73081b6e97c3ec038c25e3a9a375f5d015c3df4a8259ddfb55596ec9d41fc1f",
+    "8ac07744ec579aecf5d4827703dc69f09b5231afb6c34568b2f788d614603986",
     "f8cebd88e723d642f95b2d310f24292057cf5e9b8f214298815c96f11c1e11b2",
     "b2308967ccb29795feaa46563de0392d7cc4805b20990739b18efe968ba2e287",
     "71234c997b9897f295b0cdaf49758f5c96079ee99191bdf2f4139087a4178f58",
@@ -4737,9 +4740,7 @@
     "03d6072959e3f0025f68f6592fe74726dfeb8cfaa5adac31d74ae41203c14294",
     "1b80129ecc0cb35bf4b2874c6435a00202c5950d65b1b365b97bd161f547554b",
     "2e102ab30ea7bb52ec61b52ef16778e56c2c849a3a3b3befda3f260020973672",
-    "179a48eb8b857c9fa88b9f7c6dd56f3b8a79e022793590b6f4b5e5f196a81f54",
-    "2d2c9167b94cb8b425b09f83ece9796ed116395540dc311697b89363eaf174b3",
-    "cade9fa25014c47e7191dea7168c44ad83175511910db7a3289664be5bc0b21e"
+    "179a48eb8b857c9fa88b9f7c6dd56f3b8a79e022793590b6f4b5e5f196a81f54"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
