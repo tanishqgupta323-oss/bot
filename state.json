@@ -703,23 +703,10 @@
   "calendar_fetched_at": "2026-11-20T19:15:48.202506+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 132,
+    "count": 133,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T16:10:52.935508+00:00",
-      "t": "‘We’ve got their Strait!’ Trump dashes hopes of Iran deal",
-      "w": [
-        "dashes",
-        "deal",
-        "got",
-        "hopes",
-        "iran",
-        "strait",
-        "trump"
-      ]
-    },
     {
       "at": "2026-11-12T16:31:17.379081+00:00",
       "t": "Fed Rate Hawks Crush Gold Price $150 to New 13-Month Low",
@@ -3707,6 +3694,19 @@
         "rate",
         "steady"
       ]
+    },
+    {
+      "at": "2026-11-20T20:25:34.605352+00:00",
+      "t": "Bitcoin Falls to More than Two-Year Low as Global Markets Sink",
+      "w": [
+        "bitcoin",
+        "falls",
+        "global",
+        "low",
+        "markets",
+        "sink",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3739,6 +3739,12 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "653c6d4a7aae8375b03b2952b316558afb7286c06945fe15369b712f5a84608f",
+    "99d1cbdf6baaf41645afe9dc0f453020632c587b4293dc20f4aa8419917f0527",
+    "7ffed9138a22380fb02ae80e54af5f2205af03762ea9228cc2bdf2ce6b5f3b75",
+    "5d6947c46806902dbd39912d655bc068f2a5977cfa478a7ed1843e6bbc02a012",
+    "42797ef345d49dc6d0e60907dd7ebfb8caa2a415ba90db25d13a3475ac7bf05c",
+    "7c0df812b527ec01fbfe2df5edaf48dfaf544c98fa484681c6193a312a409ef8",
     "6fe8ca00384b81bacad2c63e309423c9ea8bffb16e8341d5109ea45a1a9f8dc8",
     "130110b70249cc379e0fe072d35164583447f5e44b54818e5f4f610409795e88",
     "82770062be1ff33617c26b85e159f3823600c539a67217b962a2bd0164d5a264",
@@ -4732,13 +4738,7 @@
     "5cddb667c169b881264e80f72ce9e62a110a15e1b95583cbaa0df90a5ea5a30a",
     "5e64bc983c5be248e25691d9a06124ba69d6cdba2942ddbd5161b09ec9fbf5bd",
     "9ea4e01671225b278af3e15b29657ca7922ac1b9de9aa027b6c7967195f15316",
-    "5a0fb501c265db11cdc4330c3ec3948ec6f986465961c5447622ff6e872838cb",
-    "205c51c357c722a53c04468cdbe1c612d02974e16ee32439fb6389530a3dd29d",
-    "2f3d8d5f0c0c832eb24ae777f7d26ee53c65e43da662c98fcc1a5434bf03fb3e",
-    "37a70cc6e7b3d53a18c15420311fbd4e2b9069ad6dcc2718f84c5d184cd3d2fb",
-    "63518712a609d37ea1078f1fcf3e13c0fac2888ed69d69519c8ff0dc61f007d2",
-    "6c16568db07e89713f4f0be20e96a160ddb4a8f887c6dc102d6e917269b42fb6",
-    "000eb05e9f2bd9382a27fb0abad358fa1b5437f4ce0f1eefc08151c3e0f76619"
+    "5a0fb501c265db11cdc4330c3ec3948ec6f986465961c5447622ff6e872838cb"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
