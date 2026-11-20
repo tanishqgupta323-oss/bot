@@ -692,29 +692,10 @@
   "calendar_fetched_at": "2026-11-20T10:10:42.333793+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 31,
+    "count": 32,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T11:05:34.867341+00:00",
-      "t": "Ethereum extends losses as Fed's Waller puts a larger rate hike on the table and US CPI remains hot",
-      "w": [
-        "cpi",
-        "ethereum",
-        "extends",
-        "fed",
-        "hike",
-        "hot",
-        "larger",
-        "losses",
-        "puts",
-        "rate",
-        "remains",
-        "table",
-        "waller"
-      ]
-    },
     {
       "at": "2026-11-11T11:31:05.182177+00:00",
       "t": "Falling US Bond Futures Offer No Relief as Fed Hike Bets Grow",
@@ -3711,6 +3692,18 @@
         "weigh",
         "worst"
       ]
+    },
+    {
+      "at": "2026-11-20T11:31:05.208014+00:00",
+      "t": "The Odds of a Fed Rate Hike Are 100%. Why That Would Be 100% Bad.",
+      "w": [
+        "100",
+        "bad",
+        "fed",
+        "hike",
+        "odds",
+        "rate"
+      ]
     }
   ],
   "resolved_events": [
@@ -3743,6 +3736,22 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "c79fe352e8c1698417e1c8904c71fdc495cc88772f746da83baca7447312f3da",
+    "a01cabad63238ede128342403fdcaf8f34d9d4631117e836d85441b287f20ce8",
+    "6e9fe040d3e03b7b21cbf2ba6a732e393f17e98a89490af0bad6031337b632fe",
+    "d3eeface3fc3a5097a2fe037ebbe5a7344c2765a89b9d306f1c96740e9e8bb16",
+    "83e861a3865c83336628fee1360a269257dc643e77168c64cd44e1dbfa2b31a1",
+    "08651a94cb6663edfdd770915328cd60f7d3db6f062c40e2ac728490c79a7e03",
+    "13ca25ccce181a62379442be1f94e325a18a2ec059e8a275af9fb206498e0fd9",
+    "0f56298a3c8102e5afa25861b82f43320c93f2793609cba058f006b093912f30",
+    "a21c790245b20ef2f6b5f5ee6bbff4bfb81407477a0f658d924a8b959a972b91",
+    "9608f30bf56016ab7c54829fbf2dbb34085e9c5ca0757198d89c33bd107fe906",
+    "768764e8ccbea17a8843d0d86a64b5e930793fefac3a06f40906f2cc3f1a1be7",
+    "8f99f5d09c1fa7bec59f5aa61a3f3da6413a05bc0c7e51df1829aa5e1466ba61",
+    "e68c74cb2ed2fafb4c7236ae481e109ef7fe780dc637235e15604c21f02f4304",
+    "2e703a61ea4f2c5c16b8250202b04f685f5b9ee63fbb3634708c59d29d2298c9",
+    "4f231df235753577f011160083bc026a152a9f36354d40bac4b248990923343b",
+    "b16a3ee472813c4caa3dec9f708ad600b21824a8b76d4c92fb9aa50f881387d6",
     "bccbc778c6d5e352ac7addf2f0f30b54dcc47515753e90072225eced76f046b9",
     "326b68cd54af2b25da4c6be24c8f53264376b76a5bc5a87abd50aed40ef1c7cc",
     "dc78b179c9692d0abd4fee3b544d2229628cf367221bd384bde87520f87424c0",
@@ -4726,23 +4735,7 @@
     "59a7ea337ebffb229ca4860bdd210d4f9f8c92ff53c74cca4107fb6609982832",
     "9ee038a804b069830f3af3089c680f9600ee1b012990f319aea850e94770001c",
     "958a8b90c151898f56530f00d901575359ad24b53571b7ca7d0ba7ac6725287a",
-    "0e07498ba6fce92cedd21c176216a649a5fc22da66424639205bf5d681de6ae3",
-    "b3a01a663e646ec2381e8c1405a9d4bd5decca1393924bc235d5994da3586a40",
-    "476d50b1009f812b22c216242605d9120e332fcc388407f0dd216d7212c69c08",
-    "505fa3fc9adcf9d00fdbbaeee99f9a9ae91d8f4efa4a016b73ab2c02df3d128d",
-    "0b4b4a0ec15be57d4c1b59e684be9fdbac528e90e66f5403125aec35b21f55fa",
-    "30d6669457124748482020f2638c6b26710f080ca904b9a15bdc5a4de1c4d655",
-    "a649aabc15dfb446c46a5f1fc08b16c6d468bd74caa15863311237e2d4bd6ac0",
-    "85e13ef5ed22a28176fb1f1c3f2a64d958804a602077e0da46bee6c0d719794c",
-    "516914bf248bcc19ee8a29f17548315383dc1ae45563bf3522c1433e6626c25a",
-    "4808f1f1335d7a8dc64590a146a7364f053fc43eb01c29ca490bb840048d5fb0",
-    "97e79d270009ae3464efd2a021bef016b34a05aa0a8845b2580432fd13757d29",
-    "2a8de84d2590ffb7625fecc2af819a4626f26bc8cfc969342d026c39bfde97a3",
-    "827a018d3d83a161600ba486e5a7f712ebabffe4d44547cad01b6806bbe08f5d",
-    "0a344d4dfefcb5345cc46f7dea23d4661a84e7f8372fa7ea99381656a86f2a0a",
-    "fedce1aa6665ab96d7910ac2c864e8129c4f41d1c3329ea91789d28eeb29998f",
-    "73344bdfb698439aeeb5d3bf9ae31f42ae09d359cebaa297d420dc0657c69bfe",
-    "b1f72a494591357411386d8be456b90edadaa89722f5e87b11b06745efef5fae"
+    "0e07498ba6fce92cedd21c176216a649a5fc22da66424639205bf5d681de6ae3"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

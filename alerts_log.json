@@ -21326,5 +21326,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Barron's",
+  "title": "The Odds of a Fed Rate Hike Are 100%. Why That Would Be 100% Bad.",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZVVTTzc5d2l6WUZONEdsbXBod1RldnRDc3FzcnljZHRyQmpsQVh5eGdoeEsyRmRBU0xYeVV4VkRnUF9BbXhFQ3RTU05wMUwtLUo4WENKNjhyNy1kVGN3NnU1MEx4LTV6TWd5SmxXNFFUOXhiV2dfVFJkeEZVM0xqbzdB?oc=5",
+  "published_at": "2026-11-20T11:00:00+00:00",
+  "sent_at": "2026-11-20T11:31:12.676193+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.011,
+    "XAUUSD": -0.0947,
+    "BTCUSD": -0.4542
+   }
+  },
+  "checks_base": "published"
  }
 ]
