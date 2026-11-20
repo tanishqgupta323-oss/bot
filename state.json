@@ -692,25 +692,10 @@
   "calendar_fetched_at": "2026-11-19T22:01:14.305218+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 190,
+    "count": 191,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-10T22:15:46.426125+00:00",
-      "t": "As CPI Rises, Fed Rate Hike Looms Pushing Up Borrowing Costs",
-      "w": [
-        "borrowing",
-        "costs",
-        "cpi",
-        "fed",
-        "hike",
-        "looms",
-        "pushing",
-        "rate",
-        "rises"
-      ]
-    },
     {
       "at": "2026-11-11T00:05:36.338084+00:00",
       "t": "Fed’s Paulson backs further gradual rate hikes, names three triggers for faster action",
@@ -3717,6 +3702,19 @@
         "see",
         "three"
       ]
+    },
+    {
+      "at": "2026-11-20T00:25:45.276041+00:00",
+      "t": "AI is fueling \"disturbingly high\" inflation, Chicago Fed president says",
+      "w": [
+        "chicago",
+        "disturbingly",
+        "fed",
+        "fueling",
+        "high",
+        "inflation",
+        "president"
+      ]
     }
   ],
   "resolved_events": [
@@ -3749,6 +3747,10 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "bb219f4657e7bd4c3f7425d0578c633af0a402910dbad1cd4e3675bc1ffafca3",
+    "9968332c87a165c3b1e2e1cf949fe9955a0721ffee58cfae0e1c35529e127260",
+    "9720db0295f6493a8443d89daeea72caecf4e60412c26a3f4a2c11fd6fe202c0",
+    "cd4d75f764739c92f6b32d52e84025a5288f9c85e63f42604a01f2107706b536",
     "68a816b58131c1612d7eccd74ed3603a2857165e89742a37d48117aa5a2b03bd",
     "674a20281fe357006d0def5cd8895b16e2a39e92f25cd3ada24750941d20c446",
     "8b3776215d4bb0839a9aa43094273da832f8ba6e957bc0662a59ee58a3f252a6",
@@ -4744,11 +4746,7 @@
     "50cd5fd6d431f802658aa257003d9ee3ca4fe3f8ae91fcfcdce3447888e7bf70",
     "47fc6f4399e488570f252dab3fff581a1c0e094da53a0a7b1c8ad8cd3871818c",
     "7376fc758d3d7dec340c6ae2fcec2cb4f8e076ea0450373b601d34bf758d020f",
-    "28c999c08da037c2348d6ab066d1017367cc6b98e3297444e7c104bf5ce12ec3",
-    "944c828dc9846ec2836a2195331ed4f7a0e2da0499ab1856dd0b83e5ef722ba3",
-    "6c5982abf1c6a98a34fc3a64dffc0bf23a434c4b33cd2a111f617a88897856d8",
-    "9202f4b7647ff49603017f73f95cfe48232cf03220d3470d2097fed4e236d7be",
-    "40270aabc4dbef31da6f64bcdf26676ae91cdd507f6e5110f680547220c7fd57"
+    "28c999c08da037c2348d6ab066d1017367cc6b98e3297444e7c104bf5ce12ec3"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
