@@ -692,28 +692,10 @@
   "calendar_fetched_at": "2026-11-20T01:01:15.769806+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 206,
+    "count": 207,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T00:05:36.338084+00:00",
-      "t": "Fed’s Paulson backs further gradual rate hikes, names three triggers for faster action",
-      "w": [
-        "action",
-        "backs",
-        "faster",
-        "fed",
-        "further",
-        "gradual",
-        "hikes",
-        "names",
-        "paulson",
-        "rate",
-        "three",
-        "triggers"
-      ]
-    },
     {
       "at": "2026-11-11T00:05:36.338084+00:00",
       "t": "Fed’s Goolsbee calls CPI ‘borderline disturbing’, flags three inflation worries",
@@ -3715,6 +3697,20 @@
         "inflation",
         "president"
       ]
+    },
+    {
+      "at": "2026-11-20T02:10:44.130135+00:00",
+      "t": "Dollar near 19-month peak as AI jitters sap risk appetite",
+      "w": [
+        "appetite",
+        "dollar",
+        "jitters",
+        "month",
+        "near",
+        "peak",
+        "risk",
+        "sap"
+      ]
     }
   ],
   "resolved_events": [
@@ -3747,6 +3743,14 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "1eeae1ad90d363583440ea61ecc1f7bbaad49d085649048875e37f33e06fba25",
+    "86ae9a1cecfa2ca3c9541fc8f7c710e58615425fc243296ed048e9a26cf389c1",
+    "db6e51efd0cc628f292f11635d6a2da1c081f062525ef8f62f030853559289cf",
+    "d15bf39ea13fd14e3cad38268ff5d0291ef1431ac10beddbd2ea71debe0cd4c5",
+    "a6aad6456bd155a4c77a4d4460efec621ba87cdd83e4e941bf6b6aaa3738c754",
+    "bd3c9fbf4c41684ab0c789cc08a8c387a8a1cf43462be0770e8ff86d9741797a",
+    "eaeb6f295379f0436cd34fde7a597e380c01f355b4c88d6e35afda9ad727beef",
+    "f3fb2ff09b21b4eeeddf8c5bc366bc295ba6ecbaa724bd0fc5da1a7e8a9a9152",
     "5492b7845a20d3c7a7aef32cb01eb13fb904ae61c87241846820c13476d34bb3",
     "89738b9298a8d0fd69db2570d1c92ea49cde85f46b9a082c811c84679c26959e",
     "b03daf3cbbdb073c9488d791a8609a2a58673f558d476cc58193dccf1024c9fa",
@@ -4738,15 +4742,7 @@
     "472a9e37244258b0a9368aa122ff330753104562000738b25c8d06c3530b65fc",
     "8b546d5a7af9a655e4bade6cfbf4d4ec603a88af30971a0435d840757ec40eac",
     "18b8ffbc9402a5fb291a317a07ba1b80de0be91659af8f01b1465493af2bd806",
-    "40ee48f5f47a48949266e2cce95956ecf48a3bb0ab0aacafa8d1a16d414508db",
-    "5dcb693a8a123889f75786d7080e6b152adbb690244de1fbc8deb1f9fd95f20d",
-    "b7d9c081fb16fd641fd4ceabbdd63b1532dcbd4dca69fa5fd93fd5277c171722",
-    "b85ef09aaeea41c479241daabec15a68d39f4bcdbbacb8c00ab65d222e5de502",
-    "80fb2dd72b55ccc21776230233e07a5e9db3c36f4cb06123d2ae1afeede48b52",
-    "6f7fd99ddac3aee28f44cd865e8ede927004df14fb1cf266962d44e3e32dfe5e",
-    "33a8c4a4806d4f39bf3613434866b50ff8be79eb12fb41feaa4a15c9685b576a",
-    "3a5d44aa2608e963a24972f17a6837778af71897f83a2fc5073e4eaa3a045a81",
-    "21bbc169215fa91b8b751d6c1c30ac42f08dfafecd3bf232575039e5d5ba6973"
+    "40ee48f5f47a48949266e2cce95956ecf48a3bb0ab0aacafa8d1a16d414508db"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
