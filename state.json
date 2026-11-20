@@ -692,29 +692,10 @@
   "calendar_fetched_at": "2026-11-20T13:10:58.639378+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 78,
+    "count": 79,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T15:01:21.435817+00:00",
-      "t": "Inflation remained elevated in October, CPI report shows, upping odds of Fed interest rate hike",
-      "w": [
-        "cpi",
-        "elevated",
-        "fed",
-        "hike",
-        "inflation",
-        "interest",
-        "october",
-        "odds",
-        "rate",
-        "remained",
-        "report",
-        "shows",
-        "upping"
-      ]
-    },
     {
       "at": "2026-11-11T15:15:50.549722+00:00",
       "t": "Euro Falls to 18-Month Low Against Dollar on Fed Rate-Hike Bets",
@@ -3702,6 +3683,25 @@
         "percentage",
         "point"
       ]
+    },
+    {
+      "at": "2026-11-20T15:40:48.917757+00:00",
+      "t": "Bitcoin Heads For Longest Weekly Losing Streak Since 2022 With BlackRock’s IBIT Clocking Record Outflows",
+      "w": [
+        "2022",
+        "bitcoin",
+        "blackrock",
+        "clocking",
+        "heads",
+        "ibit",
+        "longest",
+        "losing",
+        "outflows",
+        "record",
+        "since",
+        "streak",
+        "weekly"
+      ]
     }
   ],
   "resolved_events": [
@@ -3734,6 +3734,20 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "1c6511d8bf389d2cc454fd352314e51c64f7d37061119ff2bb129b98b2422568",
+    "05513e32a3c6227f70364d059943fd9d801f50fa1ca04518ad0e0cac6be73540",
+    "9e04c7ddbb95d34f5bb92cfc8250d57cc79af446b68872144257116998138abc",
+    "404a272aa6f6268c3f38e3408c28ff16ef1390a64d559b4ed44d181d0be09c59",
+    "6228fc83af9338e8fad0a552a587ad71727a004bbc27dc62f46b4d5c2e724df6",
+    "ed069c99ee439cd59db5444ec8c678792a1541d4af7aa8110a422c3569f47e79",
+    "10e00b3b1d8fef19888b1d9042c6825aae6f77e9fd0786e1272a6389f4098de3",
+    "adf2155bf89a1729f354bc66b4c895a2911f7c3a610f70c1446696a43d09f2c3",
+    "e3eec8751e0002311374bf2d882086816e684884f55e281197ca94c4e3cdf27d",
+    "44e16c147163a90fa8c1daff96adfdcaceb6b026937e5f3fba717b6f66fe0ac5",
+    "463275e141d9669b3aeda7385456fbb3da0d1714919e21d64d0b9c715e2ae654",
+    "855375a9ac81ded3d1003c039e80343e325968b282f0e047b8e755124a70284c",
+    "4221bd4bd41caba43477107ac1f59292e02293d8bcd5b201d7225177984a4e9c",
+    "2ba341bcf7ac3e75b1ceac2dff2249383ab4bec9b3b5786681a994a9dc408a77",
     "a32c7601d4b4c07e93515db3b81bf2fa9e2f919dc2598a352167603911ca6ae0",
     "2ab165f6d7e806fcaf22461c17f606f3a1a5f0826d3d129e85e0564f06055a62",
     "7677a1cf078846c46d0045c9b6c00d4b82534755d65503a579a9f9c25354a9de",
@@ -4719,21 +4733,7 @@
     "7bc910a996602e2aa2436d5043fdcd371145ba3132b9cb10217ddf96931d2af1",
     "968e352dfa8c28af87ea56217f03228da3f57cc76303792de987f552d8017a77",
     "5c3a2a7e3819b3ec0507207528d53725ea4348172d3e808ea464e70dc3034924",
-    "8d7dfcd3806f68ba86a4d4d1a810ec94d1d8abec509efc4ddb8665dd765664ca",
-    "236976da0ed06c53daa631b308e6018b4e87195252f537b4badf3b15224a9780",
-    "357ce534d73762086ca965035f4e03aaa26589c025494222f6e931f6d8e121b2",
-    "57935b6aad5afff0f80917f9f2b22635f1676af3b3c61844befb18784becf63f",
-    "90e7972e2c35a906d3e411fbb06cb685d16667cc71fa1373317cfe7ae6c198ac",
-    "c2210bdac501a6f16a3e9af06698654c8a3ed2913df5f1ed29930483d0957754",
-    "fd663671dbf9a0718833c435761d5257c1a4c71e1b95f451a84cc6ee02f7b7fe",
-    "d0d161fc7c153d47dadbf312bbcbf3950cbad4df547a0d5af32e2b17648b3a39",
-    "bfb564b37b4c1a730a736ebf767093af3efd8b325abc25fd38fdf9e51350b3ab",
-    "2cbffdd1d714645aeb53f4d37079107122c3e15ed101a6240929ea5520c96903",
-    "61175fa1d23be9242985e497d8b0a32c818e2c03ecde4454cf9d66efb3d43bf8",
-    "989af61d95e66736d3accac07e3a6e6c811b71d8b70cb401e13aff8a4267ff42",
-    "8a71a473479ecabb617fbe2672ac087bc86e0c0ed2c4b01e6d3db570716b79d1",
-    "cd99401b865b66c11e214930b0c76d2b9b1a996571ef71ed33f63735f9c92666",
-    "e39b9633d2c8ec12b75e70ac35d194488a5791ea02e131395d86e685e570956b"
+    "8d7dfcd3806f68ba86a4d4d1a810ec94d1d8abec509efc4ddb8665dd765664ca"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -21477,5 +21477,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "Bitcoin Heads For Longest Weekly Losing Streak Since 2022 With BlackRock’s IBIT Clocking Record Outflows",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMXI5UER3LUFIRFR2VVl4U0Fjd0Jtekpmb1BzM2JNYXdXTF9tZFFCNUR0WjlWQXpsb1A3a2VMMkZwOXFVRmxEcDJjam4zN0FlRUZha2lJaVRMeW55RG85OFBTUEtCODhYaFcyUVdiUGd2dmdLaU5oS1YzYXNYTVlMVXRxY0ROVk5jU3BEUHlISVNtS0xuOTA1TnBlbGhUR2VYaXc?oc=5",
+  "published_at": "2026-11-20T15:18:38+00:00",
+  "sent_at": "2026-11-20T15:40:52.255805+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "NEUTRAL",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.033,
+    "XAUUSD": -0.206,
+    "BTCUSD": -0.3422
+   }
+  },
+  "checks_base": "published"
  }
 ]
