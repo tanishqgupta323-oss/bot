@@ -692,23 +692,10 @@
   "calendar_fetched_at": "2026-11-20T07:05:44.130424+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 252,
+    "count": 253,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T05:15:45.150400+00:00",
-      "t": "Yen Slumps to Over One-Month Low on Fed Hike Bets",
-      "w": [
-        "bets",
-        "fed",
-        "hike",
-        "low",
-        "month",
-        "slumps",
-        "yen"
-      ]
-    },
     {
       "at": "2026-11-11T08:05:36.267595+00:00",
       "t": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
@@ -3709,6 +3696,20 @@
         "risk",
         "rout"
       ]
+    },
+    {
+      "at": "2026-11-20T07:50:44.610230+00:00",
+      "t": "Gold tanks, BTC under pressure as 'real rates' surge",
+      "w": [
+        "btc",
+        "gold",
+        "pressure",
+        "rates",
+        "real",
+        "surge",
+        "tanks",
+        "under"
+      ]
     }
   ],
   "resolved_events": [
@@ -3741,6 +3742,17 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "b20a3650dcfe49fbf6aa78dd4a2a30bd717e1115e6942f0f7bab9e1c58573425",
+    "6fffaec02699ee3a340c57c78a8998cb9085b939bbe3339e182c7815723869cd",
+    "96d42c7ff5d81afdbeba9dac4e52e67f97b82f167bfc2f387a2e8921d6174e66",
+    "6759c4fdbc93b8a77f671b71a0f81ae7645d5e98a8ba9ae292f12b03bf673a5d",
+    "50f25c3a39f512160810234abf6a758e0f1be845ec027c87bc2b281832ff41d6",
+    "698763758b5b3d39fa3c1f31b245a4999ed746ecc298a283c46247bd3a0bd9fd",
+    "016da1bbfe3f6edfa70eae32b4270ae2b874fe9ec9b85b1570e8ebf25e0ba2aa",
+    "cf85eb6d422590b40e428dd57a60518ea97a2c2422dd19b5bbe5ff701788e27d",
+    "011f8987334bec9d5c8a9530a67e5f4c6f7c94fcd3fed979d315c82a04e09111",
+    "8b46ffc9779b84c2d0b4825ec5767feca31140475af029bcd39922c6b838086a",
+    "57da13fe78ad39cc8d340e4f0b364f5a494b1776ae0fce8d5d997c58ae6eb0c8",
     "397ee7c86597106c4611ba3d8c443370e7160bf391f9c510d5295958082bed5b",
     "67361bd412deb793745787a077b4800e21b136e36b6d1561374a16e03525b45a",
     "30b56eb711ebd92c7a27738dc90e0da7796d6c183fe04a6bad0b3a5393995c26",
@@ -4729,18 +4741,7 @@
     "01fa001ee501640df58fd84ecc98f7e23360dddc7ec777fd207aa6a174873a41",
     "044d3a490441d77a9890c336219479eaa32992dc11116c597e510c1d58966a7e",
     "ec14c97761a5fdcb7410f810a74907eebe72cdef4f0f64d858287ef33eb10a48",
-    "02e426e25b2fff313eae7800cf7bf3a2dc0002c6d4e628c299af28b64e2c9622",
-    "a640387551f56f3f8a178c32f84a9f02c1be5d1792b7970c7fce8cf1e6dc1ff6",
-    "c64825b4db58816360a114414cf31709284862c2829e8501175e8923ecee9fa4",
-    "455e6156b9c620ff93e11d0cfbefe139f9260f0bc0094ae021dbc944b603062c",
-    "825f19cf1eaf6edfae97bf5eea7127c470e8d3a4d74cc36c391b4820d59432aa",
-    "d509855ece91a2d30c9a7bc91adb3ecc0b9fd6a23d1bbd53582304493be11372",
-    "55d9e8d843de09f20b37302300310de8ff65fc946c4dc9847312547423813eb9",
-    "fc8414440a8ad58f58de224740cc111975cca919b3faedf45498e405b56b5ed5",
-    "57756deb9bc1c9b1c809e17fc570fb7c12ba957e186e3263a29f21ceef8dbb73",
-    "e132900842043f0fd6b7614d2aa3010ca6b9a128f6824dcaed8f0ea02d47756a",
-    "5376e5992c324407000991341423e6fc05d27729f06192c2b9879cc8baedf723",
-    "4e65358ef41870686e64f515d8efc84193750221aad58c678522fa42395c61b9"
+    "02e426e25b2fff313eae7800cf7bf3a2dc0002c6d4e628c299af28b64e2c9622"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
