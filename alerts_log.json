@@ -21092,5 +21092,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Paulson tells Q&A the Fed has more tightening to do, after a speech with no rate steer",
+  "link": "https://investinglive.com/central-banks/paulson-tells-q-a-the-fed-has-more-tightening-to-do-after-a-speech-with-no-rate-steer/",
+  "published_at": "2026-11-20T04:08:37+00:00",
+  "sent_at": "2026-11-20T05:05:35.941965+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.011,
+    "XAUUSD": -0.2089,
+    "BTCUSD": -0.1372
+   }
+  },
+  "checks_base": "published"
  }
 ]

@@ -692,23 +692,10 @@
   "calendar_fetched_at": "2026-11-20T04:05:34.035263+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 231,
+    "count": 232,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T00:15:50.268846+00:00",
-      "t": "Fed’s Paulson Says Gradual Tightening Seems Appropriate for Now",
-      "w": [
-        "appropriate",
-        "fed",
-        "gradual",
-        "now",
-        "paulson",
-        "seems",
-        "tightening"
-      ]
-    },
     {
       "at": "2026-11-11T01:05:37.631152+00:00",
       "t": "Dollar gains traction as Fed speakers warn of risks from inflation",
@@ -3710,6 +3697,19 @@
         "week",
         "worst"
       ]
+    },
+    {
+      "at": "2026-11-20T05:05:33.397721+00:00",
+      "t": "Paulson tells Q&A the Fed has more tightening to do, after a speech with no rate steer",
+      "w": [
+        "fed",
+        "paulson",
+        "rate",
+        "speech",
+        "steer",
+        "tells",
+        "tightening"
+      ]
     }
   ],
   "resolved_events": [
@@ -3742,6 +3742,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "6801b71d5d602ed267a8004901099260144015376084979a3b84712227104cee",
+    "763423ddef6674a9c8a03ebd099b772922dd80314198a4f76bcbf45acc8336c5",
     "a3ca8814d4df7a4831495b1ce1aab043c2ba03b7898f8cb45e08d4c28a1a7659",
     "93281f8090b2a24c1e3445473bad29e75aca9040ae65302995be7fdb25b2dbb7",
     "ec2c08b20af1ec5fe424392757db701b399b76acbe81c3a36b8e9eae478f7d06",
@@ -4739,9 +4741,7 @@
     "0699ad602e2681ef4861b435fb3e9a8914b69580c5ea28c9fc5f20d0b16eec3b",
     "86247681f6ee071eda3b5a6a4d105d659b15cab9663dade0fd3d43fc2277532d",
     "5dd5245a05addb0329c7ab7b6acd10bf0c3d39809403de6d28717553c574c22a",
-    "e48f4a2cf3a42ed91cffa8343aba829ca450dbd579c4027053bdf92aad6e08c2",
-    "2bb4a3b49ab2ddf750788a11f19ed75747b661e23c1085d6b49a0ddb014144aa",
-    "6adaeb11d4e1b603f59701deec34c90f016fdd6c8073acdf2888b40fc4e26f1c"
+    "e48f4a2cf3a42ed91cffa8343aba829ca450dbd579c4027053bdf92aad6e08c2"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
