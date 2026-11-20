@@ -692,25 +692,10 @@
   "calendar_fetched_at": "2026-11-20T07:05:44.130424+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 9,
+    "count": 10,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T08:35:34.215354+00:00",
-      "t": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
-      "w": [
-        "demands",
-        "denies",
-        "hormuz",
-        "iran",
-        "met",
-        "shut",
-        "stay",
-        "talks",
-        "until"
-      ]
-    },
     {
       "at": "2026-11-11T09:05:52.763038+00:00",
       "t": "Gold dips after Fed's Waller drops the 50 bps hike bomb and US CPI comes above expectations",
@@ -3712,6 +3697,20 @@
         "warns",
         "weakness"
       ]
+    },
+    {
+      "at": "2026-11-20T09:10:45.631437+00:00",
+      "t": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
+      "w": [
+        "attacks",
+        "bahrain",
+        "escalating",
+        "fight",
+        "further",
+        "iran",
+        "kuwait",
+        "strait"
+      ]
     }
   ],
   "resolved_events": [
@@ -3744,6 +3743,17 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "f1ba966364eb980c6149edae5d5171bad30ae17b18efa7370265a5122d75e6c7",
+    "ddec5c5d728ecaae9db613a3343c9c08e13bbd302a59f169c53d10db30a11f60",
+    "04e703e0d6fab63ac7fa4428b68571cd3714096a38d73d29947e2d7ae0db6270",
+    "b3408c10a6b1e737e0522284a81f4cdf995e7a1d732b8d411a11ac018ff57b14",
+    "017145ca424684e9cdaf619c8e750558c9c5110acbf3143398826b6f19b227a7",
+    "cad2a3717703a5fc622242168e71711a965684d3e999335645c9452b19408b5e",
+    "4d9cee5f5e9d39ca28a08fd361a90613a80a945a790081e2f35848a034c52ee7",
+    "d702291aa0ca57836bc9466163343740d90d66f73aed7c841cedb4a25c0f1c2d",
+    "7b328cb890babba891ae572c43f56790c1cd8221c33fe1c0756d04d03bd0664d",
+    "1aa362062c24942964258d17830dd633045e2695dae26a378bac484423f08b24",
+    "0064f6059d17f270dbe6a7ac2b83899cba83717562d5410360e4bc12e9dfc255",
     "0468127d66f2af0c0623dbca4bc2ed83520f83f1591f7812dd55a3c9448e6218",
     "2dd37aa9bae9223309248068e96dbe2d3fa64e924ca798aa8f9ffe09caf11795",
     "fb775eb045a0f44ec9f0da37b6ffedc1d3c7912d549ca815842f829654f888a1",
@@ -4732,18 +4742,7 @@
     "0de1f54c358ef11415f262d83c00781d856fd92576a7cd8d276d594d6554d292",
     "a644786c0237719989b1bf46ad3a41e741b492d76397aa67e23c47bf8454bc13",
     "94922f7210938cf7f3b44161c0a0cf199e4cdbf579845b686816e649bf06af7f",
-    "8ac26d2292ab8c9d9d1e3a6441653415b6ac9a787df98e7d453ae7498ddc0539",
-    "d825d54e2e7715688de9c02b6d8d41c9e8e93479f3b7367a3eee02d124279e01",
-    "3826558238ffb8c51ea4024c5919e6e4c98f0c92861a90738a3afcf04cc38126",
-    "ba04716643b9a01d4aff51e08249044f3f64eb9e0a25a0c7c2fcc3a5a8820190",
-    "52c2803b9b71b4c0a757ac1eb922778d6b15351a36c0b40b405065ff4b6b4884",
-    "09f3cdd935a91da45a3642a40089a40f7a620b32759426d8db5e2ef68071d359",
-    "894f23fff246a6c3e9d6d53fe0e29c5c2b46b9a8ec620969ba6b9f704873facd",
-    "f7f6aa09f0e3393394e2ab0554efc155b5d0fb206f11d47c36c5244bc5a7f58a",
-    "2ac4b80632e1954de9ac836519d21a8f770295845c6cdec3a30788ee9dbe154f",
-    "c5be842fdb4c6d0395ede83d313eea8b87bb49c245d9a3f8f77c57ca4f7e6979",
-    "21e9b54b6a183beeea4bd21a3f7f877d037f3543e4bf273dcb13dbb389bd4f60",
-    "b629dc58007d0ecb08593b92d87443275fa347eeaeb189ac7b039f1142f4b2c9"
+    "8ac26d2292ab8c9d9d1e3a6441653415b6ac9a787df98e7d453ae7498ddc0539"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
