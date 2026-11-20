@@ -703,24 +703,10 @@
   "calendar_fetched_at": "2026-11-20T22:15:48.983644+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 161,
+    "count": 162,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T19:35:35.357005+00:00",
-      "t": "Iran threatens US bases in Europe if Washington resumes war: What to know",
-      "w": [
-        "bases",
-        "europe",
-        "iran",
-        "know",
-        "resumes",
-        "threatens",
-        "war",
-        "washington"
-      ]
-    },
     {
       "at": "2026-11-12T20:01:15.852710+00:00",
       "t": "Southern Iranian province Hormozgan hit by 'enemy' military strike, Iran claims",
@@ -3710,6 +3696,20 @@
         "win",
         "yen"
       ]
+    },
+    {
+      "at": "2026-11-20T22:55:42.510074+00:00",
+      "t": "U.S. Treasury yields and global bond yields plunge as traders flee AI rout",
+      "w": [
+        "bond",
+        "flee",
+        "global",
+        "plunge",
+        "rout",
+        "traders",
+        "treasury",
+        "yields"
+      ]
     }
   ],
   "resolved_events": [
@@ -3742,6 +3742,23 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "734d9357013a2078659cbef5aeb9876b1f655f9ff08799a5147a9c0ecb9aac90",
+    "461a48cddbac71ba878998df597ac3a464e2cda61a39e6cf6f1dc3548fcccf8c",
+    "ec1b3f23cf75c5d712377f3a5f003678e4c32ea1252573ffe0b0b1323334126b",
+    "34ef8926992607689db4ee1669695bd3cad9c508b8bc24a8941a84f124bdffa4",
+    "69d141f499f4c8fd3fa48c2d19dde118c1f6446a1849a6b81abb4ac56ea41aa3",
+    "44e71fc1c3bb7e768654cb898c0705ed9533d0656fc39ba616cbf8ad9d9f0a98",
+    "5471ea7a77256b83e085cb655a83ed7c8a46dbbd026d6f2c7464370d2f62ac44",
+    "4743667f310210fb8eb9e8745cb1f1ce43840fd78b60f44d8f1bc80b1c63a6f0",
+    "1eeae1ad90d363583440ea61ecc1f7bbaad49d085649048875e37f33e06fba25",
+    "bd10df173a5f1ba70778b8c1d6c1c8803d1500e457e9018ea719160f13d2c20b",
+    "edddd7d309454c2019325fb1b767768887b11d5db1c6af9862f1281d07211390",
+    "de4e83e0a16d497e87365b5579298317266faf0ee3eb16be92c16f4a4dc9c3a0",
+    "e5d6c1167ff6e77f6267252929d7da44f6f5a87356b92e963af48f17c6500f89",
+    "b1f7f9089d0a1733fd1b9061dcb0245246b608b542e7a94065e2fbaac3b9151e",
+    "9c89edd8065d0d4402e2c2061ee1b6ca08a913a64aff627c6065cdab484e7424",
+    "c40a778e23594855d37323f1b477c1aa958fc602218d7f21d5b04ff318e90a17",
+    "32d32da38b9dcb280234ebc433487b59490d12c585a102efa15c3b532700e098",
     "c39d7e4f1f6b322bd226ae8a474e381197a7d7e52701f321b356d8fabfdd0b7b",
     "2e5c1236045b11c41d01ee1824de690c7e75299f37bc4e6e40cf66d132a4c2dc",
     "1a33b810c35d355a07a1de8f14beb466dd5caf93ddc4139495d78b175099e02d",
@@ -4724,24 +4741,7 @@
     "a8b7393522e3375de1099233885b53abcd4161b848496bc3d9d53a6e7875b366",
     "e66209ff27d49463a4ef1c8c28d974d84f9b86c0b97b423ac87b1bfdeb5702d5",
     "1f1e8d030d0688b6ede4b96d4db61de4d4aef89e57d68acad29590ae50a0072a",
-    "fc967539d942b472cf77811c1852f13e24c1767e60ed25e22f4e283f7a2f1b66",
-    "df26a9360de6da48a9c670274c203e97767e644e62142776ab86fa1657a71240",
-    "ce19acf2f9a2c1966c66b773c159dca7fd3e09c8168c23c7c41168c1b9d60386",
-    "77d20f503ef6658128d1301cc12ed83757423dc19f3487550a0979b69d1567df",
-    "61b4fa6102a3d6e22f7c05d54c64a27c4516678f598e772b33edbd2883414566",
-    "15547bc11e2eba9a2b898f6afe5ec80166623cb7a191c0e255d323fd8f39bbf1",
-    "df57af17acb7f4c62a71da78b5e6d9b54cec4d908d38ece4f8ca67dc6cfca971",
-    "6494f4e7e8a854685243871227b992be18251204919555cd85af05722f8f0fb3",
-    "5bd6bda4022f9fb0341fe693f7e367e5e3e717102dc7a259e9e1ded0aa90175d",
-    "14965afc3220d2f3bf16924ab373010e537f99f53016f80ce46ec9317044afc4",
-    "1421f467ab306a19f3f6c19827b82c1de2430ff85e1f79ce7f31e8f195ef54db",
-    "12139be4f0f53064dba5a4807f1e2386e9cf16a1e8aecc09b9070dda956c0167",
-    "86aee4efd3785e8d8803e95e35cc2c0eac054a51038a6a20db3f3914166cb22b",
-    "a222ad67094173b7f834054d8229a6734309988af3b822b731f8af3962bb10d6",
-    "0a357e576703fa5a4c7447e70f26acf7a97bec5323ae3790a4f896db173e0d7a",
-    "32100d480779a5c053240d0dac97f269a6fe15ab086e4f9f802c4aff779cc51e",
-    "8e518d90ab68cedd9d8cfc536abf2086ce6064d4abac7b102d5b2816d3692df0",
-    "82d8bc128ccb2d002b379e7b083c2d23bc30d89ae43b4c9d643e4f104c9bc605"
+    "fc967539d942b472cf77811c1852f13e24c1767e60ed25e22f4e283f7a2f1b66"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
