@@ -680,6 +680,17 @@
     {
       "actual": "-",
       "currency": "USD",
+      "event_id": "62a8cf5214aebbc1b106506a",
+      "forecast": "-",
+      "impact": "MEDIUM",
+      "previous": "-",
+      "scheduled_at": "2026-11-20T17:00:00+00:00",
+      "source_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "title": "President Trump Speaks"
+    },
+    {
+      "actual": "-",
+      "currency": "USD",
       "event_id": "68dbe8a090c4ae452e3210db",
       "forecast": "-",
       "impact": "LOW",
@@ -689,10 +700,10 @@
       "title": "FOMC Member Cook Speaks"
     }
   ],
-  "calendar_fetched_at": "2026-11-20T13:10:58.639378+00:00",
+  "calendar_fetched_at": "2026-11-20T16:11:00.792052+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 82,
+    "count": 83,
     "day": "2026-11-20"
   },
   "recent_stories": [
@@ -3736,6 +3747,13 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "726cb489e1fbc592d1cab9d0d5bab5ce59a8fe92edaf07badb6c8d52a0843026",
+    "b6009f0ee2f470f28a2c12e897e74e5b946a1c653d9950f33321e0d2506268b9",
+    "87fa401b96b60fae7fa59afa103ad1b6ff98e64e59d8c3e4e8e046d7f9d80f83",
+    "ddfa150a88f25809576d538697707127b81d2bcc9f86ae1e7f1db5f962595932",
+    "42c3809c014291a7c1bb8773ac124a99c47bc601315a3be90055044845fb0ea5",
+    "29a1e70bb6547155296b54961dcbf95ef19c72582728a589053a9eb56ea381c8",
+    "af65186e5c0f0122ae16f56c09776b2cfbf9f4bacd140383adaa5e69b3099dfa",
     "128d7356da4da87a173cee48adc7084a8e57d1fe825a0c1112fb562ae7d9b021",
     "20960a1f6e382cf6cd3e5da340f2e9b8c8e5d58417926f27c3c44b28f61e755a",
     "ef8241cc5c0845ecc53234faa20476b7ee82e76366e899839722691bfe2a2dde",
@@ -4728,14 +4746,7 @@
     "3fda6752b5cb81c931fa5a3731536ad875da4f39682db36d8444692df48046c8",
     "0e97624990f8228d100d1bcdddfb976c23d88575bf8ba5a21c61d28bf3aff42d",
     "ec4d3d2ec248f0ac092dd8e23f5297897e81f3a1bac9556f9c9b86bab560d02e",
-    "881416e7f161a13010c64c746a45e3e7e03a985b94de923aa7e8331fd5d05e13",
-    "a0a772c1bcce66414590654db041c9d5d9305f279325233bc2aaee5f6b1cd390",
-    "87a91cb5bbdafbfb37b693bf0b1e45047dfca9c59ea90b7a5fbae532c1e957db",
-    "fc09adf02c43d5c196f4d1d679c9b7501bb326f2dc4a08d061a78cbf15187bcd",
-    "c0321dc8362196837b03b5bfa1cbbacd0342be6a7b97e1c4a1adb2996abf5e1a",
-    "335804070e246d4f9abf79dbb9ca82e1c0181f5ed069382f7c90d644ce76c22b",
-    "bf607237392ad757cc46f0e49401382d7ac7c555da03b2c4d6b30af2f3c41d0b",
-    "215d16db68eab171065d49527b9b7d8ae1ce2fd14250439c2049a16cefacefb3"
+    "881416e7f161a13010c64c746a45e3e7e03a985b94de923aa7e8331fd5d05e13"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
