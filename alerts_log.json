@@ -21872,5 +21872,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CoinDesk",
+  "title": "Gold tanks, BTC under pressure as 'real rates' surge",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEpseEFwZVVJNExHTzVwMTc5Sk1tRm5LUHNsRXFMUXpZelRqMHFSQTZ6SmgwbXNmTUR4bmp6VVctZFphMVl0NmdaSTlWN21odXhfQy1fZ1czeHp5RC1iak5sallNUnVXOFJCbExuZUVfZ1FhaUFzeUZzTGhnV1dXODJHdjY2Rkw0YzRwcTBycWZQX1dsbElWNmM0SFlJZnFkYzFSNkItcmV0Zw?oc=5",
+  "published_at": "2026-11-20T16:39:15+00:00",
+  "sent_at": "2026-11-20T21:31:01.547127+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.022,
+    "XAUUSD": -0.2648,
+    "BTCUSD": -0.0459
+   },
+   "60": {
+    "EURUSD": -0.0549,
+    "XAUUSD": -0.5889,
+    "BTCUSD": -0.7981
+   }
+  },
+  "checks_base": "published"
  }
 ]

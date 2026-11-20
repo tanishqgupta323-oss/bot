@@ -703,23 +703,10 @@
   "calendar_fetched_at": "2026-11-20T19:15:48.202506+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 145,
+    "count": 146,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T17:05:48.561653+00:00",
-      "t": "The US dollar moves higher as Treasury yields extend their gains",
-      "w": [
-        "dollar",
-        "extend",
-        "gains",
-        "higher",
-        "moves",
-        "treasury",
-        "yields"
-      ]
-    },
     {
       "at": "2026-11-12T18:05:37.185843+00:00",
       "t": "Gold tumbles $112 as sellers break below the late-October/early-November low",
@@ -3706,6 +3693,20 @@
         "trump",
         "warns"
       ]
+    },
+    {
+      "at": "2026-11-20T21:31:00.847516+00:00",
+      "t": "Gold tanks, BTC under pressure as 'real rates' surge",
+      "w": [
+        "btc",
+        "gold",
+        "pressure",
+        "rates",
+        "real",
+        "surge",
+        "tanks",
+        "under"
+      ]
     }
   ],
   "resolved_events": [
@@ -3738,6 +3739,11 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "22774d1d7be033cd093b95076109fdbbdda6e1c94cfd64eebcf9f22c4a1502af",
+    "c168b90cf0ed65525f09b76c619c6e348294d9b78b3a3591ed8383fa81da3b1a",
+    "05afac0b277d1f4cda788761b9b058143cdc208923876c561018dd71d114a855",
+    "4fa779f07207442f34dbff6254b9279fe31096e03c67b7eb52414476009d5a4b",
+    "6fffaec02699ee3a340c57c78a8998cb9085b939bbe3339e182c7815723869cd",
     "c311724db2ab251830cbbf5b33e435f3f1a482ad840c73d88e539305b7b3b598",
     "afaf7b890dce9cecf8e1e165f2fc03534b72579d1437fc4846871cd7d529e378",
     "a94dfb79c4c2f0cda7bd24091dfbe6a7ac6a023c4b95f5b9e18d378d61b98e85",
@@ -4732,12 +4738,7 @@
     "94fef1f4fb1c5172617ac93f67ae0bdeaa217742cebc59f087d4746967f5692e",
     "e8e5c98c53fa1472d47b132101cc9d79cac3317d9561cc12c6cd41d58adbd93b",
     "81f4b93179d271f427e03aa103de4cca58244da357b82b09efc9f9e1ea2b226d",
-    "69dc7aa0d2a9e43cb2221ed7607b2778be25629d77923682182d6fd230405c0c",
-    "799285ed4dba65dd7ed2583674973a31458758eaef6f749d05ea26ad500c6897",
-    "2dc5c85391b016f147765f4e960c0e4f11137589617c8da315a6fdc6ae013ed6",
-    "d829987b1a99dd417413b2f32981584d328771cf971574dd68d91ef939991f0a",
-    "05049f42d3c8cf9c4bad44d9a899a5dfafdeffc1a744f12fa0bab0a7657e916d",
-    "6e833918439bcfe9ea78683329acd170ece9adbdb42bbb69ef7d432382f2f835"
+    "69dc7aa0d2a9e43cb2221ed7607b2778be25629d77923682182d6fd230405c0c"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
