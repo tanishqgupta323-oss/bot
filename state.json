@@ -692,26 +692,10 @@
   "calendar_fetched_at": "2026-11-20T13:10:58.639378+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 57,
+    "count": 58,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T14:05:36.954990+00:00",
-      "t": "As Higher Prices Seep Into Broader Economy, Fed Officials Consider Faster Hikes",
-      "w": [
-        "broader",
-        "consider",
-        "economy",
-        "faster",
-        "fed",
-        "higher",
-        "hikes",
-        "officials",
-        "prices",
-        "seep"
-      ]
-    },
     {
       "at": "2026-11-11T14:35:36.920457+00:00",
       "t": "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
@@ -3703,6 +3687,22 @@
         "refuses",
         "threats"
       ]
+    },
+    {
+      "at": "2026-11-20T13:45:48.753115+00:00",
+      "t": "Israel seeks swift air campaign against Iran as Trump weighs options",
+      "w": [
+        "against",
+        "air",
+        "campaign",
+        "iran",
+        "israel",
+        "options",
+        "seeks",
+        "swift",
+        "trump",
+        "weighs"
+      ]
     }
   ],
   "resolved_events": [
@@ -3735,6 +3735,10 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "61882de97f17d1bd2c5a1ff53da3d2db9ac35435bcb9428503c7ac584c9c4acb",
+    "8cf1d349315713278872c08ddf14f3a4283439cdc71bfc0a363dfb728e0953f8",
+    "57c95479c7d37021d02e865b271d029499e9e5b4335f43db0d6cfdf1a9652757",
+    "a9cf843b7434f15ee2505ce97bf3e67cd823aa6855c2bc3df4b6ac150d361698",
     "8cfc30813e24bda9c979faf7463ffaaaaa7c6ad058ce6cb75a75b87f1da8c477",
     "f4ff6eda458e65319993707c6d054e2c61400333d06eee69ab7eb0210e1fa26b",
     "cf9538247e7ce11767519df39e5983b1009846d5214c9a3c6b1910a33d3156f7",
@@ -4730,11 +4734,7 @@
     "3d7845e7f8798bafc7fecf176ec65617a410db5512ee764be8c546bd354f5190",
     "771e0af743c10a020533e42f2f2253199b009cfa6b3de85706c69460e2e26ed0",
     "8d4f41c92991f56518983e190a6c34af529f5dbdcb39f726decbcd14297cd8a4",
-    "78b7874645d459ebd2d341eaea7ad8e7aba56ca9e98cde32a7dcad3da5dd7cd6",
-    "5bd41f27f31e589f3382fa09e32ac4e1afdec78f4d44a63fbb65c0419f5a8bf6",
-    "144ab3ccaab3fabe9d20e9a3cff2ccc4a75c09346c9b0d8dc60497e21ee110b9",
-    "c4c95a04c4ef0c4b46d0849a1736d24a62f25725cad9faa59da807419b7c518a",
-    "f767950bef2543968b6c8e48e5829994867fd2fdace937587d1fb8b3c20628e0"
+    "78b7874645d459ebd2d341eaea7ad8e7aba56ca9e98cde32a7dcad3da5dd7cd6"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
