@@ -21391,6 +21391,37 @@
     "EURUSD": 0.0548,
     "XAUUSD": -0.0532,
     "BTCUSD": -0.3365
+   },
+   "60": {
+    "EURUSD": 0.2417,
+    "XAUUSD": -0.0028,
+    "BTCUSD": -0.0479
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Crude Oil Prices Today | OilPrice.com",
+  "title": "Iran Refuses Nuclear Inspections as U.S. Military Threats Mount",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXlDUi0xc1ZfTEdoLWxKX0NsVlh5R2xvcWM0QS1CN3A1Nllqc09ZUzZxTGtld2FXaVRrUUpVbDVmd0NrUjUzWTQ1SXNSSGNVRDQtVEg3Sk5tR29sd21FSmlaUzNLQ0xzSVI5bW9mRU43dy1pSTlaNW5PZEgtMzZJWTdRc3pLbU9ybGNsdmtubFY3eVZPX0NNN2xTQ1JoTTdQdm5JdXBLb3AyZ29nTl9DMTc0UHlmYV9R0gG-AUFVX3lxTE9aczJ3TW9ObTc2UGlVLVhqaHA0X0EwMWxoTFRRd0UxaklBTGItT25LbS1WUHVJOGZHYnlhbjktZkxPWWRQWXllbzJHcnFIamZ3UkJKSVkxekIwWkFzNEZfNlUyNy10ZHNKSi02bFB5TkJMcjNPSElVeDZxcUZicG0yZmQ1Zk9tN2drT3NWSlo3RWYtS0d4NVZYWHkyZEZ6SkFna2lMVFhNdlBuZ2RVczVDeEJabG12RkZPcnJNT1E?oc=5",
+  "published_at": "2026-11-20T11:30:00+00:00",
+  "sent_at": "2026-11-20T13:05:43.678194+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0219,
+    "XAUUSD": -0.1838,
+    "BTCUSD": 0.0363
+   },
+   "60": {
+    "EURUSD": 0.0549,
+    "XAUUSD": -0.4232,
+    "BTCUSD": -0.4663
    }
   },
   "checks_base": "published"

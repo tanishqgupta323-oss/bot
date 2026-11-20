@@ -692,27 +692,10 @@
   "calendar_fetched_at": "2026-11-20T10:10:42.333793+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 50,
+    "count": 51,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T13:20:48.041251+00:00",
-      "t": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-      "w": [
-        "bank",
-        "borderline",
-        "calls",
-        "central",
-        "disturbing",
-        "fed",
-        "goolsbee",
-        "hikes",
-        "inflation",
-        "report",
-        "weighs"
-      ]
-    },
     {
       "at": "2026-11-11T14:05:36.954990+00:00",
       "t": "As Higher Prices Seep Into Broader Economy, Fed Officials Consider Faster Hikes",
@@ -3707,6 +3690,19 @@
         "israel",
         "sources"
       ]
+    },
+    {
+      "at": "2026-11-20T13:05:41.440363+00:00",
+      "t": "Iran Refuses Nuclear Inspections as U.S. Military Threats Mount",
+      "w": [
+        "inspections",
+        "iran",
+        "military",
+        "mount",
+        "nuclear",
+        "refuses",
+        "threats"
+      ]
     }
   ],
   "resolved_events": [
@@ -3739,6 +3735,11 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "b74ad58653ab3328d75aa7c0f65c4dadbeba5a059fdcbfb0b754c9983b56c2f5",
+    "64812ca8e66c2c9dd81090af339d0265c1dcb3432c7265fd9a0936b90c7d28eb",
+    "8026d186fff5a9084fdafd50cdd57eee6ab88a034c79c2e99fe96378ab2456e6",
+    "5ca0cac1b3eb048ec12a13971c7593ebbd255ce3ccf86b13730b37213cf366f3",
+    "c2ded6a5e385e2b1c372fcc64207377d4d8860d354c552487a03a4771fbe08e0",
     "da663d544bbc023a337889c16b21f989883d0432e1654260d2c7fdbdfd5c4a48",
     "39ebbeddfb394d93bfceea9c5ff59c8283b8851c08a68367f8ceda54e2e20949",
     "265e48516cf9b4d441220a8c0e98a87ae4bca71dd7c68cbc3e893c3ad12664a6",
@@ -4733,12 +4734,7 @@
     "322682cf9d1a0bae4ac7c06c1dc04e94d5b0520e90dee0fce59c9679ea2f9721",
     "57889bd2442387f00abbebcbbc9af65305bb0c3a5bb54e594f9d422164effe55",
     "4367d02fa1d83dd11b6bbc283be2a7cdb86c61c33157b4838ebee89f6e0d359f",
-    "854aba4df69d9702f035394db417b0f05bad73af4025f61df355fadaac6ef95f",
-    "0bf342c5747a14509e1a3a64e80ec83347e36a36fd2a1b6f500a1228efa313a8",
-    "940d61ab3258f780debcbe55b91432a35bf4c9145599a2a9cd48998ea69ab213",
-    "042c18ea4f551df70d66cd86eeeba4cf4171e271ff88507967e4378004b4a8b1",
-    "cf9d6ec7141416a9235c9ee1bbb3e2b259f0217b01d6dbd7b4736d3201a02eb8",
-    "d56a3dda59c67fdfe0bbcbcdc279a04dd0a4ccdb4b8fd0c6e930b592e0806d0a"
+    "854aba4df69d9702f035394db417b0f05bad73af4025f61df355fadaac6ef95f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
