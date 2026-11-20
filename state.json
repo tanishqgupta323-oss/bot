@@ -692,26 +692,10 @@
   "calendar_fetched_at": "2026-11-20T04:05:34.035263+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 229,
+    "count": 230,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T00:05:36.338084+00:00",
-      "t": "Fed’s Goolsbee calls CPI ‘borderline disturbing’, flags three inflation worries",
-      "w": [
-        "borderline",
-        "calls",
-        "cpi",
-        "disturbing",
-        "fed",
-        "flags",
-        "goolsbee",
-        "inflation",
-        "three",
-        "worries"
-      ]
-    },
     {
       "at": "2026-11-11T00:15:50.268846+00:00",
       "t": "Fed’s Paulson Says Gradual Tightening Seems Appropriate for Now",
@@ -3711,6 +3695,21 @@
         "risk",
         "sap"
       ]
+    },
+    {
+      "at": "2026-11-20T04:45:42.747237+00:00",
+      "t": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+      "w": [
+        "fed",
+        "gold",
+        "hawkish",
+        "march",
+        "selloff",
+        "set",
+        "since",
+        "week",
+        "worst"
+      ]
     }
   ],
   "resolved_events": [
@@ -3743,6 +3742,12 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "93281f8090b2a24c1e3445473bad29e75aca9040ae65302995be7fdb25b2dbb7",
+    "ec2c08b20af1ec5fe424392757db701b399b76acbe81c3a36b8e9eae478f7d06",
+    "8ac44fc6f44031a0928cb074e8206407aceee3dd054c0121c5e7ad9c9ab637b7",
+    "cfe1c8335b2bfb78c29291c7b3d7ffcb7aec9fe58b2a188eb1f2705677644630",
+    "3f955b763371756152911da4d4a9f6f069c02fbe9cc6f0ed1705c0b41573c045",
+    "8c32348d065f2ae44c76db84c0927e1c655036b0de6b031c9e0122f7c72c32f6",
     "a9460e9765a0ede729104d389404c9a992662ffcb32804086c201f905176b3b0",
     "68cbcf28c512666b6b71e31e2abbb9de0946b82740a2ba83b2d4dc9cb85fd00d",
     "f0f0fb4e0be2d0aa30021240bce1776cbec36bf6efe1ce4569b2cc9a56fa9961",
@@ -4736,13 +4741,7 @@
     "e48f4a2cf3a42ed91cffa8343aba829ca450dbd579c4027053bdf92aad6e08c2",
     "2bb4a3b49ab2ddf750788a11f19ed75747b661e23c1085d6b49a0ddb014144aa",
     "6adaeb11d4e1b603f59701deec34c90f016fdd6c8073acdf2888b40fc4e26f1c",
-    "ba0080a7a98dda30aa2c36d4ecd5c7641300856665b6fd7d1454e67cf1118637",
-    "7c390bbf6b5e0c4b1868bcde05259a29734991c63885a4967881cb927ef6c825",
-    "f809feef0e1b3a4594ed3c57a1827166f37d509384387e35c2146e60d53a8d2e",
-    "400ae23a364169b233d48fb87c054a973f674f147e92f925467c503578f8b1c7",
-    "03dc5ffa1bdfb120e2dadcfb9ea56763a6e0dd0d8cb86e24e286c22dc32dbe41",
-    "023c781eb3789b24fd5f1684f259b6e00ea053173360ee70abcf83abaca46f91",
-    "62bba4741d269cc4861ec6834f2daca35bdfe91c9c01e257e8bafeb29fc21228"
+    "ba0080a7a98dda30aa2c36d4ecd5c7641300856665b6fd7d1454e67cf1118637"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

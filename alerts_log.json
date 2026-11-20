@@ -21066,5 +21066,31 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bloomberg.com",
+  "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRDQWZYNXlObXhXM0Q1TEFtSXhxV24ySVdMUnNCVWRRSnJDTkVBLWtJR1lTWEliYzRIbWhWeEFRYzUySHFObzRJajNFWW5wd2lmZ0tIeXpQaFZfdlRZaFJEUTdRVkFKUW1HNDZ1dWhXU1QzSFpIOF80MUJkSWJsdTY1ME9CRUVVYVY0SllFVFYzR0pVVER4YjVSNGp6Y2tIR0ZSRW5yS1VHSHV2OU9MU2lB?oc=5",
+  "published_at": "2026-11-20T02:22:00+00:00",
+  "sent_at": "2026-11-20T04:45:44.028292+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0329,
+    "XAUUSD": 0.246,
+    "BTCUSD": -0.003
+   },
+   "60": {
+    "EURUSD": 0.0549,
+    "XAUUSD": -0.3507,
+    "BTCUSD": 0.8692
+   }
+  },
+  "checks_base": "published"
  }
 ]
