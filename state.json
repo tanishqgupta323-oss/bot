@@ -692,22 +692,10 @@
   "calendar_fetched_at": "2026-11-20T10:10:42.333793+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 41,
+    "count": 42,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T12:05:36.845359+00:00",
-      "t": "The Fed Has to Raise Rates. How Fast To Go Has Officials Divided.",
-      "w": [
-        "divided",
-        "fast",
-        "fed",
-        "officials",
-        "raise",
-        "rates"
-      ]
-    },
     {
       "at": "2026-11-11T13:20:48.041251+00:00",
       "t": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
@@ -3708,6 +3696,17 @@
         "rate",
         "today"
       ]
+    },
+    {
+      "at": "2026-11-20T12:20:48.295962+00:00",
+      "t": "U.S. and Israel considering new assault on Iran, sources say",
+      "w": [
+        "assault",
+        "considering",
+        "iran",
+        "israel",
+        "sources"
+      ]
     }
   ],
   "resolved_events": [
@@ -3740,6 +3739,9 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "384f0a200b598b29a95f3e3dab944b3d17d2af2aff48b7fa5a59b64ec48b7656",
+    "c8f9f67b42900c2bee7bcbb780f9b3190ea049dec982a2a66410bff85966f7c0",
+    "ed6ba555d19fca2dd0b9d09fc5722b1bb0d4432d437397181a5761c9a671299e",
     "93eb5607b9a48e07f696619ce05e8d70fe49455bf9bc12e31caef83aa6ef1111",
     "658723402d89fb9fe430cc86767fcbbe95752c4a8c71fb11f2ea8fc4cca05ab0",
     "1014c323a629afe80185776e4991fe38df94302f16896d4cf1633a3393990c55",
@@ -4736,10 +4738,7 @@
     "ab79582e00e5da09f6ac15db7d792a097f4337f2048a06312287c3696c09ff29",
     "72ae8552af5f520e4fe381c44d07fba1c334ff607d08fcac43c031f3e37dcf21",
     "fa045992c1edecc0466b927029f964989a988e083360d89c541e2ff23b37696c",
-    "a29b6c1ec60f7864c1e3bf29a75752b3c25beb17114588cf152c2bc12f117de5",
-    "cf75d354f7671ea7cfbb2cddd3ed85ee2a3051cec628c508c4f5a34f1987489a",
-    "8627d2dd60e05a555eb43d1f1496b45c589757c6ab777846fc78cb725cafdd15",
-    "19cb0d9471c74647a2103bcef12e58b30683c284697248a99553db3c5c54bd5d"
+    "a29b6c1ec60f7864c1e3bf29a75752b3c25beb17114588cf152c2bc12f117de5"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

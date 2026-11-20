@@ -21366,5 +21366,26 @@
   "xauusd": "BEARISH",
   "btcusd": "BEARISH",
   "checks": {}
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CBS News",
+  "title": "U.S. and Israel considering new assault on Iran, sources say",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdzFPc1pJbDNCSGFPdEUxQjJ6ZTl0eGc2RlYwNVZ0WS1GRnVUWGNtemhtNENVcGFReklwbU9uSVFJcnBRSFJqTFVTX0hqc2VHSG16cUpiY2pCSW5JQ2hWa1J6RzZ2NENMQjQ2LTJNd3A5VFNWNGtFckRpaUFxdzlxN3JfVldfRmVmWE5SVg?oc=5",
+  "published_at": "2026-11-20T12:02:39+00:00",
+  "sent_at": "2026-11-20T12:20:56.437700+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": 0.0548,
+    "XAUUSD": -0.0532,
+    "BTCUSD": -0.3365
+   }
+  },
+  "checks_base": "published"
  }
 ]
