@@ -692,25 +692,10 @@
   "calendar_fetched_at": "2026-11-20T04:05:34.035263+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 243,
+    "count": 244,
     "day": "2026-11-19"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T02:40:49.986965+00:00",
-      "t": "Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike",
-      "w": [
-        "asian",
-        "bond",
-        "expectations",
-        "fed",
-        "growing",
-        "hike",
-        "rate",
-        "rise",
-        "yields"
-      ]
-    },
     {
       "at": "2026-11-11T03:45:49.033411+00:00",
       "t": "Fed rate hike odds in December at 88% after hot CPI- CME Fedwatch",
@@ -3711,6 +3696,19 @@
         "sink",
         "yields"
       ]
+    },
+    {
+      "at": "2026-11-20T06:15:56.271595+00:00",
+      "t": "Here's what's crashing gold and likely weighing on bitcoin too",
+      "w": [
+        "bitcoin",
+        "crashing",
+        "gold",
+        "here",
+        "likely",
+        "too",
+        "weighing"
+      ]
     }
   ],
   "resolved_events": [
@@ -3743,6 +3741,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "a2774c52b8768502c9101091dd274f714b81bb3c23a44c27f8765f207db43df6",
+    "2da44a9573d6857605feb04788bf7d956e48aa48b3e82b6a05d6a9d06f8a78fb",
     "8a3826737349b3f176cd9be1eea1ee664070beada758cde6ad3ff908bf32b185",
     "7a7c7867a47fa8611a60b48f725bec0a13cda8712edb5bd62454f18550628660",
     "970843e5fd03e7f36a666a10f085baba8e0bb2fa7c78152143f41673d9017554",
@@ -4740,9 +4740,7 @@
     "401a1d34ac057b089340257fd5e955b666e065224a1e7751b723eb3fff2cd522",
     "d2c4800dc42ad891a0525e85910bdf499d5d62286587a1e44a03f9a0c6d0bdc3",
     "c2e4bc27be42cdb0d80fdc6ff94ea1a2227b2cbe8fc11696a3a0855b3f68850f",
-    "f6a62e5890eaf2806a855e18c382b666243f2741bdb15a84e49bff5e38b673aa",
-    "225e4ee9277d73b58981735ee049aae44797cb1d18aa0636d3d9acafb3c7fe42",
-    "f5e1b3b6ba75b6a39a7665a633cb1ba512a14ed1dfe1d907d3fc9c2862533e57"
+    "f6a62e5890eaf2806a855e18c382b666243f2741bdb15a84e49bff5e38b673aa"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
