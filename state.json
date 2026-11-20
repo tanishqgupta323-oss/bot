@@ -692,23 +692,10 @@
   "calendar_fetched_at": "2026-11-20T07:05:44.130424+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 2,
+    "count": 3,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T08:05:36.267595+00:00",
-      "t": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
-      "w": [
-        "flipped",
-        "iran",
-        "missteps",
-        "overnight",
-        "trump",
-        "war",
-        "washington"
-      ]
-    },
     {
       "at": "2026-11-11T08:35:34.215354+00:00",
       "t": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
@@ -3710,6 +3697,21 @@
         "tanks",
         "under"
       ]
+    },
+    {
+      "at": "2026-11-20T08:10:47.318562+00:00",
+      "t": "Barclays warns of further equity weakness as hawkish Fed bets build",
+      "w": [
+        "barclays",
+        "bets",
+        "build",
+        "equity",
+        "fed",
+        "further",
+        "hawkish",
+        "warns",
+        "weakness"
+      ]
     }
   ],
   "resolved_events": [
@@ -3742,6 +3744,18 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "6b4b34f39f9ead7f82d0713d29f935f3abe9a99108248ef6ead2c678a7bf5123",
+    "a46a081592ec693aeb96a1877e918b570ff8b9affa9eda677b18ce3083d0b2bc",
+    "6e89d2ae7851882f13b7c955cf313f546b26fd68e35b37aa1826b6548c8d60d4",
+    "e63613b8bcd2f144654bafacea39dac4ef74b80b6e8906505d170a7f301296f8",
+    "8181fb5177a36109a3d1cfd39d98d5b9efd8718645ca0ce948789953aaf67642",
+    "a0e0eff0d64abd12bdc6a8ed3b2b96d431950e286f3756847168c041fa7b77b9",
+    "217cabed6c8949e37ab2d29bac398012f3c11964e19445898dc2918baf8eec5f",
+    "5f23b26a349162ad9741f44faded93869d079d7c819159eff21d9fd7d4394c7a",
+    "53409851c196a6112f5d713ff0620e1171f31fb559b784606f05f2fc77805aed",
+    "a4b974ad3e5557546a34f3bedb825ba224b09899c8c0ae5f6d64d58359200727",
+    "d14ce9e898cb7af66bd2e21f6e1c6a90b2e41ce61ee25cd436703b7345e57619",
+    "90fe099729dfe36447f631cb8efd7d5199d05265720f3410ee5f8262d2635553",
     "94fef1f4fb1c5172617ac93f67ae0bdeaa217742cebc59f087d4746967f5692e",
     "e8e5c98c53fa1472d47b132101cc9d79cac3317d9561cc12c6cd41d58adbd93b",
     "81f4b93179d271f427e03aa103de4cca58244da357b82b09efc9f9e1ea2b226d",
@@ -4729,19 +4743,7 @@
     "90710f31602aa0408b78f4bad23e87d311255ccf35ef5dd7116e9b405d209d98",
     "7c0f4eafad24386150e57bd14059df17f3ccfa1335e5bbea097148f2f39c50ce",
     "f1ba966364eb980c6149edae5d5171bad30ae17b18efa7370265a5122d75e6c7",
-    "596b7d36ddcda973f7d39a72c987ee810b9841ba6e3d9b0ca85e2a8fd6c326a4",
-    "c3cbcc230f129cd938e14386babae215a7b9dfdf95323f8ddacec96a696e67c4",
-    "8015de09fdde93cd9373b965afcd6ff055bc309c3c343649dcad23b11ca66897",
-    "a100d4996dcbc6a98e108a17c6c3161040bebf1cc07dedf43fcaaa8a2d75b373",
-    "79caf2f0f55da9d7dd213332b55a3d1dde65463566f01692693cee81b12ffb39",
-    "f5000fe0e009787709a708df151b5ec9dd98653b98c14b584e86903a9e430ad8",
-    "4aa09b20f5154717aad634527a638011f106444a23699af337e06e7ba55374c1",
-    "fe0640cf7f9cfee03cfb040bb3f16347d72362d5e3553d8c3db5155eb0103523",
-    "7b3ef189808be7b1147b15baebe5a754adfe8b653150480b645a2872ea1cbfb2",
-    "7ee193347b70d1083051168fce44822690d565e405af222cc0ee8c4acf879857",
-    "100df4ca8bac41a11f64ad4cb8bea889a1cc0add2b5581873b829e756452d5bf",
-    "2457180fe5f4c5fe98ec291ce568e52b47e4c78b848a8e099723f302884b122a",
-    "a61ab80e859141e010ab1fe3a4b28b63599070def8eb302c0e5a02e06b2d11d3"
+    "596b7d36ddcda973f7d39a72c987ee810b9841ba6e3d9b0ca85e2a8fd6c326a4"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

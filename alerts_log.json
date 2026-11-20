@@ -21248,5 +21248,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Barclays warns of further equity weakness as hawkish Fed bets build",
+  "link": "https://www.investing.com/news/stock-market-news/barclays-warns-of-further-equity-weakness-as-hawkish-fed-bets-build-5040863",
+  "published_at": null,
+  "sent_at": "2026-11-20T08:10:48.484548+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
