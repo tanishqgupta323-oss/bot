@@ -703,41 +703,10 @@
   "calendar_fetched_at": "2026-11-20T19:15:48.202506+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 149,
+    "count": 150,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T18:05:37.185843+00:00",
-      "t": "Gold tumbles $112 as sellers break below the late-October/early-November low",
-      "w": [
-        "112",
-        "below",
-        "break",
-        "early",
-        "gold",
-        "late",
-        "low",
-        "november",
-        "october",
-        "sellers",
-        "tumbles"
-      ]
-    },
-    {
-      "at": "2026-11-12T19:01:20.493139+00:00",
-      "t": "Fed’s Daly says more rate hikes likely needed to fight inflation",
-      "w": [
-        "daly",
-        "fed",
-        "fight",
-        "hikes",
-        "inflation",
-        "likely",
-        "needed",
-        "rate"
-      ]
-    },
     {
       "at": "2026-11-12T19:35:35.357005+00:00",
       "t": "Iran threatens US bases in Europe if Washington resumes war: What to know",
@@ -3707,6 +3676,40 @@
         "tanks",
         "under"
       ]
+    },
+    {
+      "at": "2026-11-20T21:55:34.753336+00:00",
+      "t": "Bitcoin sinks to lowest level since July, crypto stocks diverge",
+      "w": [
+        "bitcoin",
+        "crypto",
+        "diverge",
+        "july",
+        "level",
+        "lowest",
+        "since",
+        "sinks",
+        "stocks"
+      ]
+    },
+    {
+      "at": "2026-11-20T21:55:34.753336+00:00",
+      "t": "Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data",
+      "w": [
+        "bid",
+        "data",
+        "dollar",
+        "haven",
+        "hot",
+        "inflation",
+        "jumps",
+        "safe",
+        "set",
+        "streak",
+        "week",
+        "win",
+        "yen"
+      ]
     }
   ],
   "resolved_events": [
@@ -3739,6 +3742,18 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "c02c97591307eb6825fc65815a51ec6e4d18ac087dc6ac8e89d8fe733fa1422f",
+    "7474ab15b5d9b01f0c88ac5a353ca35e1c7d5894145d9cf82ae0c3f61bb5b3c9",
+    "ff2cb356b01f895fc15d283128d8ed6de918e168168f2537aac1acb1a7f5336d",
+    "0c9bc28e67a881a4a4ea35b62b8376affbb41bfc406b34912db62507278b9911",
+    "2a267e391e709eaa033775312a40504267a8c083900d31ad482f0f8a525f2830",
+    "7651ac044130a74b981df135c1bf7e080c0bac21c87eb9a61a9b77550c5e2601",
+    "f2c2fbfaec732fd406cd87df2c4d81bc59a072d14572cbd2e6f64810e5244f7b",
+    "c63f51682b5607c2993728de020caa85b290c52d1cbd71f522332054bd7ee833",
+    "7c52431ab5fb90e1b8982cf3982c1a12beb981c2bd3b0b61c8806a4f1acabaa9",
+    "6131ca2494abb52ca65e548615951f9769b0fa17277452b559eae6531aa9176c",
+    "156a6fa8f5c720c7d5a5239146e90e9b32b85630bef14204a2fe67c76c210073",
+    "b3b0803461e67376a9bc224f01fd9b845168c3f35ace02ce0fb811cee3412442",
     "eb98f5cda83b22e711da2bf07ee01b95c97ab748f4d695bb511076ab6adaa6b6",
     "41dddd6bbc27860bc72b8ab5e990f387d625d57bb88e486b3000f1c78d5ad6c0",
     "6dd908562a3a2be4b4a174713f27956700da308b1f3abd8e9b4392e3c851aad7",
@@ -4726,19 +4741,7 @@
     "0468127d66f2af0c0623dbca4bc2ed83520f83f1591f7812dd55a3c9448e6218",
     "2dd37aa9bae9223309248068e96dbe2d3fa64e924ca798aa8f9ffe09caf11795",
     "fb775eb045a0f44ec9f0da37b6ffedc1d3c7912d549ca815842f829654f888a1",
-    "ab3fd61d58d7256f9a48ee61bbc328bcf4236ed14b8f566c5cc7cac832898f3b",
-    "a419e95cf2fe803241703e22fa718c4d926939fa7b13b43ec03d85904d12560b",
-    "7a624f800e87aea02b6f608ccd446bebb5c9568cd1688c8234a8e2ed3c023cf0",
-    "f304d895d1d3036754cea2830da7958c6f55211c827b8dd612c4c893785316fe",
-    "480057b31e01fcd2c3766d3c31fc885ff4fdc5c811d69b6053a83a368651186f",
-    "d73e3d4bc8f05ea3ce4644762088d01f344a5e4b50f667eeaf9967bcb59a3d40",
-    "66d1e4f56e51a29e1e78ab0ca95ba587a934c9217181a7fff8a2812ecc983850",
-    "d67ed14a74943b809de5b91c01f942c0d5ed1728f9793f61ef6d742829d2645b",
-    "98220869d1e74338aaa4abb6added9bd6f7d48b427e289eac78ab731c3015438",
-    "7e8378bd2db59385ef5de9965a9ce0417faf7c22ee98601722e098451bdb21b0",
-    "f0f93c779034de72f57dc5965b1e74443ba9fed3f42df10d1d380529b4484f4a",
-    "20c9aca25928bdd444c0b19452904387d1a435b42c65bab94f1d658b63d2ef0a",
-    "b9c4c11b14076bbdfc601199a6ffd7318aaeda3c5f4c3af3687402cd257ed713"
+    "ab3fd61d58d7256f9a48ee61bbc328bcf4236ed14b8f566c5cc7cac832898f3b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
