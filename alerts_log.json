@@ -21846,5 +21846,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Financial Times",
+  "title": "Trump considering new Iran strikes as US military warns of strain on forces",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQ0hRcVQwczY2Q0dMRXNtM1IyTnU1VVFMM0haY1ZCTEFEb3VPTUpEN0NLejMxMm5zbE9MVmFuc2VSaGJzbl9vMEE3UGJ2bnFndlE3cmZmUUM4T25nNWo2aWNVcnJGVTdYeFl2NEpHaXQ?oc=5",
+  "published_at": "2026-11-20T20:19:49+00:00",
+  "sent_at": "2026-11-20T20:50:48.924221+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.0439,
+    "XAUUSD": -0.4146,
+    "BTCUSD": -0.4933
+   }
+  },
+  "checks_base": "published"
  }
 ]

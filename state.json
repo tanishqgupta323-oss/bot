@@ -703,25 +703,10 @@
   "calendar_fetched_at": "2026-11-20T19:15:48.202506+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 137,
+    "count": 138,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T16:31:17.379081+00:00",
-      "t": "Fed Rate Hawks Crush Gold Price $150 to New 13-Month Low",
-      "w": [
-        "150",
-        "crush",
-        "fed",
-        "gold",
-        "hawks",
-        "low",
-        "month",
-        "price",
-        "rate"
-      ]
-    },
     {
       "at": "2026-11-12T17:05:48.561653+00:00",
       "t": "The US dollar moves higher as Treasury yields extend their gains",
@@ -3707,6 +3692,20 @@
         "sink",
         "year"
       ]
+    },
+    {
+      "at": "2026-11-20T20:50:47.728703+00:00",
+      "t": "Trump considering new Iran strikes as US military warns of strain on forces",
+      "w": [
+        "considering",
+        "forces",
+        "iran",
+        "military",
+        "strain",
+        "strikes",
+        "trump",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3739,6 +3738,19 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "89096c34f4ddc79f54647a5c9c1362b83ea9793c901fc7650c5e125ad0247d46",
+    "bed6c46189a1b8fecd1e9dd879ba03f2145ab3f2c00cb128b1e8b87574fe259f",
+    "13e611910360e512d0977dfddc440bd76816789b9815481f2c726b7de682a103",
+    "d50286dad26572a2e88b0189d0f83938177094f27b69e149a4e2cebce3d30efe",
+    "ecf740dbbde123077d2fcbe83586248e2fed8b917891853ee2975eeac7515340",
+    "ca2f073093813cd3e4704695501dc6f71e8b007daa842462e195af20218b2407",
+    "623a137aa5888c6bbbce24c82cd32f8ec9c9a179916ae482fd7c01be79640e37",
+    "d398c6baf2eeee94b7cd6d952ad2e9f894dd7c5b8c2d874d8759d893b923216b",
+    "f7d9d4c7d01c3107e77abc44c80b69ba8f4acd26fa9b16fdd27a53401d513272",
+    "058698bd1b52bd63019ecb89e75071696650d39e41d1c32e39eb27c52ee2ae57",
+    "231dcee3cac1477a6ba5d9774bf8e571ab05ded03f2abeadf3efd7fa764c52fd",
+    "8c32348d065f2ae44c76db84c0927e1c655036b0de6b031c9e0122f7c72c32f6",
+    "a2774c52b8768502c9101091dd274f714b81bb3c23a44c27f8765f207db43df6",
     "f48b5aee891adabb0955cd65d073871f7f913a66bcf4dbc7433630d042a413de",
     "397aafd0c7554eee622f9b0a3218342420b3e69e4e2cc22c1210c3ed10e2292c",
     "1bf6150104d77f8f478617f9f9f3481117df3f8719c0674f1ca18008896d675a",
@@ -4725,20 +4737,7 @@
     "397c22648a68bf2ccee71f0b9e165e9c6597ab114eefdf30f46279807b7f81dd",
     "ae5b059f3a67d6bdd0448cde7d8725cee25682a39132bb4fa8826739156fe5d6",
     "fe05de72b2328f5afbcfdb31bdd7709bbfb0c479087599a4f75963e8ae960bdc",
-    "26d15be35707699f59b8dfce5bebba3e5144164c3505e478b7e46cef15f4dba2",
-    "411ded6b2e7f4724ac2f245b283fb234a7522de2cbdc95f9c2b769c1385f652c",
-    "2f45cc4ce889ff8a354b778bbeea4ea235f6fae71a01720df95655e2426c894c",
-    "15951ef5abf28dcdf713672f6f4cbb3aa3238249a72efa544f272604c76e01f2",
-    "650939c653044e2c3739b6b425fa6a27e226b3b7036ed5d0a755984bee318dbe",
-    "315390ca576ea4994876e2c8b8ae49555cf3e7ad3bde07ea9bc22f029bb286e6",
-    "2d9bbc178d2b375b36d7e1908c1691b7a842e0332f31dda4c49eb5112eec22d7",
-    "b791997a20faa90ad990bd39d7881e0ad82ff8c296ee8a655bb357f9889c5a1c",
-    "c71e97c68cd927508b304dd01b4512bc0f464bdefcb9ab228ab1d921260b2d9b",
-    "fcb628a3047b90f0397e6be26deb7a33c41a1c49eb1835dd7e9c07a48db38d36",
-    "f894ee79a20ca1f5e3c8d2b61084ea269260d4919c571c9d173c69ece15c83f3",
-    "384ba946340d4a503f31e7ba1c9977ad8f210290bbb281c8e546d54e135643a4",
-    "c40a778e23594855d37323f1b477c1aa958fc602218d7f21d5b04ff318e90a17",
-    "0e04702d68f0aaea4cfc26a77c770648500acd3146ec2d148e665194c872ebb8"
+    "26d15be35707699f59b8dfce5bebba3e5144164c3505e478b7e46cef15f4dba2"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
