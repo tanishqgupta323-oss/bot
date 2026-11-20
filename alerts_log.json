@@ -21680,5 +21680,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "forexlive.com",
+  "publisher": "forexlive.com",
+  "title": "Fed’s Cook says monetary policy isn’t restrictive enough",
+  "link": "https://investinglive.com/central-banks/fed-s-cook-says-monetary-policy-isn-t-restrictive-enough/",
+  "published_at": "2026-11-20T17:21:55+00:00",
+  "sent_at": "2026-11-20T18:05:40.855658+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": -0.022,
+    "XAUUSD": 0.0369,
+    "BTCUSD": -0.4732
+   }
+  },
+  "checks_base": "published"
  }
 ]

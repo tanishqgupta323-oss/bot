@@ -703,25 +703,10 @@
   "calendar_fetched_at": "2026-11-20T16:11:00.792052+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 105,
+    "count": 106,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T11:05:36.453268+00:00",
-      "t": "Fed's Waller, Bowman and Goolsbee Keep Rate Hike Bets Alive",
-      "w": [
-        "alive",
-        "bets",
-        "bowman",
-        "fed",
-        "goolsbee",
-        "hike",
-        "keep",
-        "rate",
-        "waller"
-      ]
-    },
     {
       "at": "2026-11-12T12:11:04.259666+00:00",
       "t": "Zcash tumbles as hawkish Fed repricing weighs on the crypto market; focus remains on the Fed and US-Iran negotiations",
@@ -3709,6 +3694,19 @@
         "needed",
         "rate"
       ]
+    },
+    {
+      "at": "2026-11-20T18:05:34.941874+00:00",
+      "t": "Fed’s Cook says monetary policy isn’t restrictive enough",
+      "w": [
+        "cook",
+        "enough",
+        "fed",
+        "isn",
+        "monetary",
+        "policy",
+        "restrictive"
+      ]
     }
   ],
   "resolved_events": [
@@ -3741,6 +3739,19 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "998a821906931284c3d862894a89c89aeae0775e0860d4bbafcbcd56896a84ef",
+    "eba6ebf5cefe8bac93caf8fc42b8641902d9edc8068c7f10ebe77a7b0aeb2426",
+    "941ec2a97abf15666cc20b03785b520acf1871bf819939ca405f4fd76c547d59",
+    "f4c4f7a6c0b3c5b97fe0bce337640eb25f0ca0c747332690b0d31c3dfa51f8f1",
+    "308715fef3003d24c4cd271234280479322068becb589f3b44ee54cb22bffedb",
+    "21d57ff4539a6c4b8de03a211767896c6f6ab14df4e4915c38134f593d9da570",
+    "f6345e19c0d280ed77e852d5dbcf32114ca99f904d52b660cc2a7b21e32e388b",
+    "bd3de100ebc570bb5760acdc34ab5de8a2d44eb2926b85a64033ecac58de4a03",
+    "002b951e0a2a352a53b11905805d60810fda8b6dd6a964f0f8ca2cd73873dbb8",
+    "835e10c50edde1feb779fd6d511ccf14b5ad6d05fee2f50885c86f7a50fad3bd",
+    "2afe12cfd18170c115a15349fc2c6b0f35ed0884b8063000fb05853296b122da",
+    "4208fd43acf632926ed36456d79aa69043b919058ff8b452a0d9448b06a8778c",
+    "75e528551f7f1d0ac2174e79071c9f75c507e4d550ced3e9af98175350b176aa",
     "8e4ad48fafa3e7018fd0a0c6e0bdf473dc5c7c1e051e5796e000d0bd491bb190",
     "284845fd246773703f91154938cc74403200161e3449b275161921c7e7eddd6e",
     "8773ee70d8ac09ef4450ae8e4986f3b55d08c62b35293fca316b733f79881d9c",
@@ -4727,20 +4738,7 @@
     "a5c2b6cf7a81a1c9cb0b0e9c157264a2cc4fcb21813999ff9f88aff6414ce860",
     "5da7a3f9be32d3e8a6e12d36384512e4cc289c02e31c332d91ffee2c038a5b64",
     "605d946d79e317490fb36175d207e8c030f72ae59ecb05a507d0f65aa4df8cb9",
-    "4bf91251239ba3d5bc37e467619b256d9ccee794966b6b1da2527c40f44e9257",
-    "f2999fa03d4c67469c62fea9acd9379976ea4c9f629870f4d4f7fb8bbaab0bbd",
-    "ea84eeab474991e997c1ed7d6ec174c732a0eb9ea36cc96a0ca8ac72024779b2",
-    "1d6422ebf922a1ce6b67548dfcb655ac77904dcb3bc0269f07ea19a1df77d7d5",
-    "2bb80b5c671ef0ca248c8e1226c7b356a072d2a1afe6c99ee256775c23613d60",
-    "a183d7649f3d5b627a80204f7c9fd9b7c80e9812a69dce0d1e83026a042a6b2b",
-    "dabf8d7310dadd1b3d0ed9fd1b290d526b88663aa3de18fff9f8cb5c6a0f5e1a",
-    "008ebfddd1814c0afd9404e59f73f803e641cf824160455cfe5bf041280e820c",
-    "fab2c33d59289b44b124ffde6f0112a23e1bdfe39be3417a09ab029c8f334211",
-    "e7fdc1d85d3ad338fcfcf0c996d934efb8819b1e30cba9ca7ebcaf6f4c2e051c",
-    "c642a989d167476741e41525a474e1d5524808bbb568a1780aa0628aad92d088",
-    "4855315fae406d7c301fb6c93315430ac6792c8e2f8ee4745d1c0d984f0f2378",
-    "e0ef4538c295688577cb9a6c82431e500e65a94b1a32474501f182d715c23893",
-    "f6c10a18d162dd19cfadf138f564090c526e2575d2c652b1791c5d4eee66bd79"
+    "4bf91251239ba3d5bc37e467619b256d9ccee794966b6b1da2527c40f44e9257"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
