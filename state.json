@@ -692,25 +692,10 @@
   "calendar_fetched_at": "2026-11-20T10:10:42.333793+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 40,
+    "count": 41,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-11T11:31:05.182177+00:00",
-      "t": "Falling US Bond Futures Offer No Relief as Fed Hike Bets Grow",
-      "w": [
-        "bets",
-        "bond",
-        "falling",
-        "fed",
-        "futures",
-        "grow",
-        "hike",
-        "offer",
-        "relief"
-      ]
-    },
     {
       "at": "2026-11-11T12:05:36.845359+00:00",
       "t": "The Fed Has to Raise Rates. How Fast To Go Has Officials Divided.",
@@ -3704,6 +3689,25 @@
         "odds",
         "rate"
       ]
+    },
+    {
+      "at": "2026-11-20T12:15:51.033120+00:00",
+      "t": "Gold price today, Friday, November 20, 2026: Gold prices continue to fall as rate hike expectations crystallize",
+      "w": [
+        "2026",
+        "continue",
+        "crystallize",
+        "expectations",
+        "fall",
+        "friday",
+        "gold",
+        "hike",
+        "november",
+        "price",
+        "prices",
+        "rate",
+        "today"
+      ]
     }
   ],
   "resolved_events": [
@@ -3736,6 +3740,13 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "93eb5607b9a48e07f696619ce05e8d70fe49455bf9bc12e31caef83aa6ef1111",
+    "658723402d89fb9fe430cc86767fcbbe95752c4a8c71fb11f2ea8fc4cca05ab0",
+    "1014c323a629afe80185776e4991fe38df94302f16896d4cf1633a3393990c55",
+    "ad4d3953b79a1741e2d6c042d7460625ed3d1ad1d31e47b6949d99c7024ae70f",
+    "3511f89f8c01aa83ddd1a9b3382a1ce5bcc3e3075e3be18e02d227d604f98822",
+    "0049b082a368d1404af6f2239a55bd91418bd3b420a57a6d6c056fae1fecd7b6",
+    "84c09adc9ae64813af5732aad9aa2615e8cd03222e7f3a5a534a9defa39a6888",
     "3d010236899c1bcce687d21d634609b10f5cefef7f63e5a7c91beff9137aff62",
     "bfecc9eb687279cafbf81652429c649dc311f371721f880ce75ee31dd4d443d4",
     "4249c50d4ad0f46bda02d74c269b64c697c057af935e052fcead1f2357303b4d",
@@ -4728,14 +4739,7 @@
     "a29b6c1ec60f7864c1e3bf29a75752b3c25beb17114588cf152c2bc12f117de5",
     "cf75d354f7671ea7cfbb2cddd3ed85ee2a3051cec628c508c4f5a34f1987489a",
     "8627d2dd60e05a555eb43d1f1496b45c589757c6ab777846fc78cb725cafdd15",
-    "19cb0d9471c74647a2103bcef12e58b30683c284697248a99553db3c5c54bd5d",
-    "15fdb5628cb2cc9f898a8fc043e5c179489c1f50503692385fde5737ac479e17",
-    "c8f9f67b42900c2bee7bcbb780f9b3190ea049dec982a2a66410bff85966f7c0",
-    "62a1fe1b0d7e8eae1098b6dfea56f77bc428c5e20b60def9f2a9c37f5073aa62",
-    "c1ddf7eb8beaca24cb029231382e021ae4c7a1abd8cd5e0f56b468705edaa860",
-    "83f02d426762d0dcde0a6b58de76989a405333fe4dbcc6bd602ed3822785a653",
-    "ed6ba555d19fca2dd0b9d09fc5722b1bb0d4432d437397181a5761c9a671299e",
-    "283fd2d493a9f3f938cc280c32e9b7cfd41cec6d4b13f41b8008a82d4ed8a9b1"
+    "19cb0d9471c74647a2103bcef12e58b30683c284697248a99553db3c5c54bd5d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
