@@ -22418,5 +22418,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTGI3Sng2eVpHTHVCWFlFamhHRWxSYXNtMkU1R0Y1amNNMHRNMXdMQ0RNbHBNSXhvdlVIRU42Z0N4V3RWRGdzYnp6UjdkeDZsY2pwU29iRG9GR29NakVMV1FYRjdvWjdhckM1N0dmSVUwYjNXWU5yVVZQZm92U2tzNlpQMlNJZVRGTzNJbm1KLUpfUQ?oc=5",
+  "published_at": "2026-11-21T22:50:00+00:00",
+  "sent_at": "2026-11-21T23:05:38.972519+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

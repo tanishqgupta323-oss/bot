@@ -703,28 +703,10 @@
   "calendar_fetched_at": "2026-11-21T22:40:52.009738+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 145,
+    "count": 146,
     "day": "2026-11-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T09:10:50.251550+00:00",
-      "t": "Euro yields hit multi-week highs as hawkish Fed shatters global bond rally",
-      "w": [
-        "bond",
-        "euro",
-        "fed",
-        "global",
-        "hawkish",
-        "highs",
-        "hit",
-        "multi",
-        "rally",
-        "shatters",
-        "week",
-        "yields"
-      ]
-    },
     {
       "at": "2026-11-13T09:20:49.237045+00:00",
       "t": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
@@ -3711,6 +3693,19 @@
         "industrial",
         "iranian"
       ]
+    },
+    {
+      "at": "2026-11-21T23:05:35.511564+00:00",
+      "t": "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto",
+      "w": [
+        "bitcoin",
+        "crypto",
+        "falls",
+        "nvidia",
+        "peak",
+        "selloff",
+        "spreads"
+      ]
     }
   ],
   "resolved_events": [
@@ -3743,6 +3738,9 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "c8430b638a12952b763349ab534f0e8a49d0dc8a68e28156ade8e105c7072e9f",
+    "fb91492b6ffaaf6cfd2ba4fdf6aa8922534144e106722ce00ebf73ffafae3876",
+    "4079ad9e7bf8648789575e34c9cdf00afa2d97cc657b7c3853770c8cba548afd",
     "13c98fa46a0eaf756882f28781ba0c9531db66b818a4771c9f6e2bf4010b4eea",
     "d4ce87f5c495e9bb2820881a6479edef34dba3d3a3ea6b674f55d30c0a131439",
     "b1912b21c73f1e232169ed1d72a084439a5b9762d1f6abbfeffddfd25f2f581e",
@@ -4739,10 +4737,7 @@
     "0c0d0f55d029051368acb676c8c029bfc0eafca0ba960d6c550ee6f588b9603e",
     "e118f5f042915082042d6a292a30f0aadd49361f1b46200036682c6255e8909a",
     "ebb0f5f7c0ffbc5075c70bee8c65e8f5a8e8f6f6bfdee0caf03a4af7e898af74",
-    "50dbb1c2d22332b5622c4aecc279ce45b8b71fc30adc7a23e88ac685c3003aac",
-    "708907846863b0fe6e529baa3b6dca809159f991bd724e0e8ec0677fec1d56a0",
-    "2acde8d67e7942f817fa10c9c73cd680cb2cf2eb878982101cbc339430b418ef",
-    "68a9634ec4a69606078e1f62dcf0ed18533e5a9899c36028ce25387d17fb8c37"
+    "50dbb1c2d22332b5622c4aecc279ce45b8b71fc30adc7a23e88ac685c3003aac"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
