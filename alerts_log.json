@@ -22228,6 +22228,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.1827
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.7581
    }
   },
   "checks_base": "published"
@@ -22249,6 +22254,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -1.0038
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.692
    }
   },
   "checks_base": "published"
@@ -22270,6 +22280,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.1682
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.7297
    }
   },
   "checks_base": "published"
