@@ -703,25 +703,10 @@
   "calendar_fetched_at": "2026-11-21T04:20:54.411316+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 211,
+    "count": 212,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T20:20:46.795254+00:00",
-      "t": "Trump removes Vance from Iran talks as U.S. launches strikes on IRGC bases",
-      "w": [
-        "bases",
-        "iran",
-        "irgc",
-        "launches",
-        "removes",
-        "strikes",
-        "talks",
-        "trump",
-        "vance"
-      ]
-    },
     {
       "at": "2026-11-12T21:01:16.001472+00:00",
       "t": "Trump pulls Vance from Iran talks, saying ‘we don’t need a deal’",
@@ -3708,6 +3693,28 @@
         "time",
         "years"
       ]
+    },
+    {
+      "at": "2026-11-21T04:45:45.143568+00:00",
+      "t": "Bitcoin Falls Below $60K For First Time Since July, Saylor's MSTR Hits 52-Week Low Amid $14B Paper Loss",
+      "w": [
+        "14b",
+        "60k",
+        "below",
+        "bitcoin",
+        "falls",
+        "first",
+        "hits",
+        "july",
+        "loss",
+        "low",
+        "mstr",
+        "paper",
+        "saylor",
+        "since",
+        "time",
+        "week"
+      ]
     }
   ],
   "resolved_events": [
@@ -3740,6 +3747,7 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "57ea55225df760df4a0fc54fd2f38b4df36e9f67dec1dc038d17c9d0d20a7e97",
     "43901cb4f5e96c921db863bd4d122c188ff28f9b8275c662fa8e542650b7b6f4",
     "8f0ed4bbadf3096f16ee14b0daf7f2d2b2682e9645a06c8b50dc9e734adb20b2",
     "32c4c86caad0b4c3383403381d7eb3aa4ce25bdfc2bc7862a115d84e9344756e",
@@ -4738,8 +4746,7 @@
     "1ab080851877b1133e4e4c7bb025aa31415a8b237873643a4487ca82f713aebe",
     "cf75d354f7671ea7cfbb2cddd3ed85ee2a3051cec628c508c4f5a34f1987489a",
     "6c06589688440ac5e89c023f4dec52e5b3936e7c36c631fcaf8c4af7217036d9",
-    "610045934b8b96b993a6776d9e71ce6d0500fcbbcd341bdc36267dfa9f58e22d",
-    "38cd1a14c25357aae06bc4d3550b87e36679858ff3834ffd3fcc07b97335b3d8"
+    "610045934b8b96b993a6776d9e71ce6d0500fcbbcd341bdc36267dfa9f58e22d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
