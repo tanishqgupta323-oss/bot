@@ -703,25 +703,10 @@
   "calendar_fetched_at": "2026-11-21T16:31:05.466197+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 103,
+    "count": 104,
     "day": "2026-11-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T08:50:47.899601+00:00",
-      "t": "Treasury yields rise as traders strengthen Fed rate hike bets",
-      "w": [
-        "bets",
-        "fed",
-        "hike",
-        "rate",
-        "rise",
-        "strengthen",
-        "traders",
-        "treasury",
-        "yields"
-      ]
-    },
     {
       "at": "2026-11-13T09:10:50.251550+00:00",
       "t": "Higher real yields and stronger US dollar weigh on gold as Trump puts Iran deal in jeopardy",
@@ -3712,6 +3697,24 @@
         "strikes",
         "tankers"
       ]
+    },
+    {
+      "at": "2026-11-21T19:01:21.043593+00:00",
+      "t": "Iran prepares oil tanker convoy to break US naval blockade, threatens Gulf facilities - report",
+      "w": [
+        "blockade",
+        "break",
+        "convoy",
+        "facilities",
+        "gulf",
+        "iran",
+        "naval",
+        "oil",
+        "prepares",
+        "report",
+        "tanker",
+        "threatens"
+      ]
     }
   ],
   "resolved_events": [
@@ -3744,6 +3747,12 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "b3451ae41027a5901066169c962ac7a3c1f94bca2c55be66d5d81577fc5dcbaf",
+    "3d7fc93ffb96238c6a409bc0a0b8f2c669a24944bbb62e1e93b7225039f675a6",
+    "20928120326a467877d757556ee989e21b18561b3d85ed95bb5104141bc9a2df",
+    "0441174551926b4d6a6f30f1d2c7b504f9c8be50edd5656fe554dcce36136493",
+    "3f2bf33abc2f8e587a4f30128f84c0bdb4f0bd95e99cee12ccf040524590d8b2",
+    "919bba27f5f19a74677cd9e6093eb476ad94feae14c42d3299f26e6d53fe3c79",
     "db8335a9b2b1d9988f68992a16469b51cd5e23030b10aa6166d2a0f9dbb1f891",
     "a5c4249cc2556ccaeaf0923a84a9107eb277478a42d668b33703acff8f903ff2",
     "b8aa3e0f770032e59c0c2cc98b739f32d3c920e09eb1a8c43be5dbfb5253a9e5",
@@ -4737,13 +4746,7 @@
     "835e10c50edde1feb779fd6d511ccf14b5ad6d05fee2f50885c86f7a50fad3bd",
     "2afe12cfd18170c115a15349fc2c6b0f35ed0884b8063000fb05853296b122da",
     "4208fd43acf632926ed36456d79aa69043b919058ff8b452a0d9448b06a8778c",
-    "75e528551f7f1d0ac2174e79071c9f75c507e4d550ced3e9af98175350b176aa",
-    "8e4ad48fafa3e7018fd0a0c6e0bdf473dc5c7c1e051e5796e000d0bd491bb190",
-    "284845fd246773703f91154938cc74403200161e3449b275161921c7e7eddd6e",
-    "8773ee70d8ac09ef4450ae8e4986f3b55d08c62b35293fca316b733f79881d9c",
-    "400e2c8c6a787f674413fa49395804fffed1e109274b340592658e733ca6914b",
-    "ea8bc372bd5d06cb2c51af924320eb1911cd042ebc7327f16a1f05aaad24697e",
-    "6eefa7f3ff6f8ffe00190572614a39444811bd7bb5734a6aa4c41042d9fdd923"
+    "75e528551f7f1d0ac2174e79071c9f75c507e4d550ced3e9af98175350b176aa"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

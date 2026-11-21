@@ -22366,5 +22366,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Jerusalem Post",
+  "title": "Iran prepares oil tanker convoy to break US naval blockade, threatens Gulf facilities - report",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rV0VMYi1lUFA3MTFvdG1tZzhnLThNMElNajh4eF82d2J3SDlXU3p1RlBzdTNGakFPaG42cmxuRjRWaXlCVGtkMV9HUU1BTEdKV19fZUgtUGM2QnJ2bUdTeXFpNnBrRGFWclE?oc=5",
+  "published_at": "2026-11-21T18:29:47+00:00",
+  "sent_at": "2026-11-21T19:01:21.842487+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0944
+   }
+  },
+  "checks_base": "published"
  }
 ]
