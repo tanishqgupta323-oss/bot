@@ -22158,5 +22158,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Forbes",
+  "title": "‘Dump It Now’—Panic Suddenly Sweeps Bitcoin As Crypto Braces For Massive $2 Trillion Weekend Price Crash",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdlBmNjFNYjY0WjVVQXFWb2p3OU1TRHZMSkhaU1gxdVc4eDVJcUpqc293UWU1YnZfRlNtYWwzOTZTa2tiQTg3Y3p1b3RnRzBmZ3ZpYlNBZG1vMzhqOC13UzVhZXROTUhlSnVmQnFPNUVCazAzSUI1TGhCWlhTZ245cnV3MFJ0Y3hNSEo3blVrdTVCRDQyeEtSbzRZd0k1SWNvaUpOS3Mxc1ZmM3ZoWFpMdG4yeXNpa1lnMGU3bzI5YzJZOE4zUGhMMXlZOTlBY3plcXh6Ni16dUZrb3B2RGc?oc=5",
+  "published_at": "2026-11-21T12:10:25+00:00",
+  "sent_at": "2026-11-21T12:55:38.382440+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.6691
+   }
+  },
+  "checks_base": "published"
  }
 ]

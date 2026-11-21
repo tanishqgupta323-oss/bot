@@ -703,25 +703,10 @@
   "calendar_fetched_at": "2026-11-21T10:31:01.532740+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 35,
+    "count": 36,
     "day": "2026-11-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T01:35:35.575233+00:00",
-      "t": "Fed Hike Bets Outrun the BoE and Push the Dollar to a 19-Month High",
-      "w": [
-        "bets",
-        "boe",
-        "dollar",
-        "fed",
-        "high",
-        "hike",
-        "month",
-        "outrun",
-        "push"
-      ]
-    },
     {
       "at": "2026-11-13T01:45:48.874977+00:00",
       "t": "Gold, EUR/USD hit 2026 lows as US yields erupt",
@@ -3710,6 +3695,25 @@
         "strait",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-21T12:55:35.366813+00:00",
+      "t": "‘Dump It Now’—Panic Suddenly Sweeps Bitcoin As Crypto Braces For Massive $2 Trillion Weekend Price Crash",
+      "w": [
+        "bitcoin",
+        "braces",
+        "crash",
+        "crypto",
+        "dump",
+        "massive",
+        "now",
+        "panic",
+        "price",
+        "suddenly",
+        "sweeps",
+        "trillion",
+        "weekend"
+      ]
     }
   ],
   "resolved_events": [
@@ -3742,6 +3746,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "bd3a541ace75ccf4bad21b3fefb7ab7b3222fae8e1fbff4871c25ce70a23218d",
+    "024aa273b5d9500547e1b44959d6da9b838669f56a60a98295658fc30ce7e944",
     "27f688a82b406fab6d8b8ce121e045fe25fe0541dd802313f37f5816724f9335",
     "1ccb04e50b68a4b96ce2174850ccb2578a0b934aa1433cc669934efd808b3376",
     "0594d03480c410b9b340ef1cca59896ec8f5c0667b391aec0393d9001845f440",
@@ -4739,9 +4745,7 @@
     "fd4d571aa9ddc0ee8d934c3407a58864b9376a951bef583723e5da86c2d8e98d",
     "b2696c814af021326fa9703e6a8d92672f059a370d2eb12125cfa6962a38abeb",
     "47916ef596275b24cd8f11fc0612e8e1a1bc48d2222f8de66d1c75b72cfd7479",
-    "14746b8aaa9288232a3d9a6db03b74ae55b8516e377efb3bc1e01158cb19be0f",
-    "33f0612a13f78228e839f027f1d5e63d67851fa455b9016fe09e986cfd5742f9",
-    "c829c1fb3ae768e4d1e43045273ee016fe23b4b59b7f25fc2741fe5bd15beb4f"
+    "14746b8aaa9288232a3d9a6db03b74ae55b8516e377efb3bc1e01158cb19be0f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
