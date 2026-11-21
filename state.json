@@ -703,41 +703,10 @@
   "calendar_fetched_at": "2026-11-21T13:31:02.128796+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 60,
+    "count": 61,
     "day": "2026-11-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T01:45:48.874977+00:00",
-      "t": "Gold, EUR/USD hit 2026 lows as US yields erupt",
-      "w": [
-        "2026",
-        "erupt",
-        "eur",
-        "gold",
-        "hit",
-        "lows",
-        "usd",
-        "yields"
-      ]
-    },
-    {
-      "at": "2026-11-13T03:01:19.323170+00:00",
-      "t": "Iran’s Guards claim strike on US radar in Bahrain, warn firms over Hormuz oil trade",
-      "w": [
-        "bahrain",
-        "claim",
-        "firms",
-        "guards",
-        "hormuz",
-        "iran",
-        "oil",
-        "radar",
-        "strike",
-        "trade",
-        "warn"
-      ]
-    },
     {
       "at": "2026-11-13T03:50:46.031722+00:00",
       "t": "Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows",
@@ -3714,6 +3683,42 @@
         "trillion",
         "weekend"
       ]
+    },
+    {
+      "at": "2026-11-21T15:10:46.920045+00:00",
+      "t": "Iran's army claims it damaged US F-16 over Gulf, forcing emergency landing; no immediate comment from US military",
+      "w": [
+        "army",
+        "claims",
+        "comment",
+        "damaged",
+        "emergency",
+        "forcing",
+        "gulf",
+        "immediate",
+        "iran",
+        "landing",
+        "military"
+      ]
+    },
+    {
+      "at": "2026-11-21T15:10:46.920045+00:00",
+      "t": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March",
+      "w": [
+        "breaks",
+        "forecast",
+        "gold",
+        "march",
+        "multi",
+        "price",
+        "since",
+        "uptrend",
+        "usd",
+        "week",
+        "worst",
+        "xau",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3746,6 +3751,11 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "921ece3cda3628ba964d0f9b221c4ec84153d22008b17edc27e8075020482bcb",
+    "271c6e47ced43eac3445a73fee7ce895d071ee6bd5fab4dca94e3ab6b52e7e6e",
+    "bb91686bb59c698fbaca4bb5a26132cea9089a32faf1312b2e049e9189fd8816",
+    "42e8999beb40314f0606a5442840c5050d52523c9de3cd32c011256b74079f1e",
+    "77e625c092f359ed4c107f166c9e5c240453228fcfc1dc46426604c72e61c563",
     "1a946f60058caa287ebc021b330d59027d340f849e9ed87f269b223ac708360a",
     "c50c9df7f5822c6793d0f10a52516b7f470aaf11facee9dcf41ff31edb4c3d97",
     "3720ced5f91b472a5b3fcf24204b85d30ce67145564ac3657985d26d275f0d95",
@@ -4740,12 +4750,7 @@
     "57889bd2442387f00abbebcbbc9af65305bb0c3a5bb54e594f9d422164effe55",
     "3841ea8fb0738cf46de55eeb5624ea9a524e9eb554769ad565264ce1c919a268",
     "9b4d37b1f2d6611600bfdc187024265226651a50faf408a6ea9197f90885f553",
-    "948d83a2e274518354e6e1ccbcbf7264661b2a35bc528a8ba3d4c1f9380c05d8",
-    "5d6426fddf7147846bdb1cbc7cafeb93b16b675e281960d2d67e6e7bea07a13c",
-    "e3ac60b4423d2bd3dcd488190f181b5858c89000d7ac36cb5fc803d3040a4f4d",
-    "0d9d6fff8db217250261ab2afeff4b1cc59af41f30fb88b20621b76d0ffce665",
-    "f3871a19df9beb16cb41c3aeee75e0b7574f2b94e94b1c0b903d9bc1dc0d7581",
-    "37de6dfbfb47af17757615779ef181ca05a8065ba4236ca18239228ea71797b3"
+    "948d83a2e274518354e6e1ccbcbf7264661b2a35bc528a8ba3d4c1f9380c05d8"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

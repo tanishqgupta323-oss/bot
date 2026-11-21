@@ -22184,5 +22184,40 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "The Times of Israel",
+  "title": "Iran's army claims it damaged US F-16 over Gulf, forcing emergency landing; no immediate comment from US military",
+  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNenBkdUIxaGhDamJvVVdLNWFuek1qU21PQjk1M3ItYXVFTzA4UUYtTlZYQUppdVRYbnB2U1NFcGtub2dfVUlvQ3pXQ2c5aWI0bGJTeENiNHp1ZzVwb0R4V1YtN0NKdUZkTTdkMVExdGtscENDU3NSNEV1bXN1T2ZCbHoybGZrdDFQSlJSaXFqR0RoQ3ZCVUNyU1YxV0xwdnVwNUc4akZ2QU9CTkNDdjFpUEx5WG1yd0E0YWZtWVdUM1NXS3pIQkRxWjBOeU1tNWR2bExmNnRfaG1EeUlDY0U3OWctVTlXZjVoYzhKVw?oc=5",
+  "published_at": "2026-11-21T14:19:35+00:00",
+  "sent_at": "2026-11-21T15:10:48.438852+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "NEUTRAL",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.3469
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "FOREX.com",
+  "title": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQklYQS1uSzlZYkU2V1h0RWtFdFd6WXFJS2ViSHpNeUN1N2s3OTdMSkFlNFd4dzR6cDZ1dUloTjR5LTFaa2tKbEdrT1RaS18xbEN0Q3hQT0VNT0o2OWxmTzhCYWhBWEJrV0dIZ0VuSW9qLTkyLW1xcENzYWVPaElWbE5zV0VyeWFLOUFPMFRUZHdGSlVFa1VHWE8tSmJ1RS1HYjFIOHNJNkVSZkcwelpjWlViNjRfLWxLYnk3ODBpcTRIVGtjempUZ2I1ejBtX0djVks00gHfAUFVX3lxTE9VaE1MdmpROExJM292VnA0a2xIVmhnTHpKS2dha2pIdmJkMmlGQTNEQnVvMEpPMEt6eFZLczhFTkVtTzBPeFBzZHRsVWE0dEhjNXpqd1dFV3hQaE9oMDRxSk0ycGRtSmdKTVcyMTBzM012c3RnVENlRFBPei0tbURvNlFLSkw0ZWVzZ0FDbV9uN08xSE1KNkxvSDlRMDdmaXV2UGN3TlY0aG5STHRWemFxbVlVU1hoUDRGU2RaelBYaEFCQThqTmRaRFZwTldXb0pSdGtzU1hrYzBVLWdpMXM?oc=5",
+  "published_at": "2026-11-21T15:06:42+00:00",
+  "sent_at": "2026-11-21T15:10:49.114574+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "NEUTRAL",
+  "checks": {}
  }
 ]
