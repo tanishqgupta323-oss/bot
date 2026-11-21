@@ -703,28 +703,10 @@
   "calendar_fetched_at": "2026-11-21T07:25:41.929341+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 1,
+    "count": 2,
     "day": "2026-11-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T21:01:16.001472+00:00",
-      "t": "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
-      "w": [
-        "160",
-        "dollar",
-        "first",
-        "fresh",
-        "hits",
-        "month",
-        "peak",
-        "scales",
-        "september",
-        "since",
-        "time",
-        "yen"
-      ]
-    },
     {
       "at": "2026-11-12T21:50:49.658873+00:00",
       "t": "Trump says he may use force against Iran 'right now' if US allies and ships are threatened",
@@ -3709,6 +3691,24 @@
         "falls",
         "rout"
       ]
+    },
+    {
+      "at": "2026-11-21T08:25:33.768828+00:00",
+      "t": "Iran war sees tanker hit near Hormuz as Saudi Arabia intercepts Houthi missiles",
+      "w": [
+        "arabia",
+        "hit",
+        "hormuz",
+        "houthi",
+        "intercepts",
+        "iran",
+        "missiles",
+        "near",
+        "saudi",
+        "sees",
+        "tanker",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3741,6 +3741,7 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "e4dab7090b2aaaf26115d88edd3805ad7e1d7656056ab0d4f0cdfadcdff866ad",
     "35b70de760c3dbc19e2530ecdd7359fdcdc9f33fb470369fbbda61331dcea7ab",
     "5ba97b4f20353a50ac6d51efda44fa66ff2e6fda22cc99f4e923f74b91117b44",
     "ea35a329f8c4262a613d9a8c571c63f4dd455dcab9b04b6a025a3389210784f5",
@@ -4739,8 +4740,7 @@
     "105de07710ef3b0d90c2b2733787803f10d73ae30c375190b02c9269cbc48d60",
     "a3806b91a65d01ae931beedc5fe9f1e770a899dff827f3b14d59e0b307f0572c",
     "86d95a204cfe316e3999d97aedc2ab78a9e3b2547c977d335880d5a720208526",
-    "87f2e70ab525e5f745a99d0a0a04bfec38f52d972bd3ab74617523ce63d8f1c8",
-    "b71c8521366e1592dd2d7794df02973e7945e2f3e94ad2e13b4e6e1d2b6f996a"
+    "87f2e70ab525e5f745a99d0a0a04bfec38f52d972bd3ab74617523ce63d8f1c8"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
