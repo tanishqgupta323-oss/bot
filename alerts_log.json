@@ -21976,5 +21976,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "coindesk.com",
+  "publisher": "coindesk.com",
+  "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+  "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+  "published_at": "2026-11-21T04:10:07+00:00",
+  "sent_at": "2026-11-21T04:16:07.401715+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

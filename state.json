@@ -703,26 +703,10 @@
   "calendar_fetched_at": "2026-11-21T01:20:46.890972+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 207,
+    "count": 208,
     "day": "2026-11-20"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T20:01:15.852710+00:00",
-      "t": "Southern Iranian province Hormozgan hit by 'enemy' military strike, Iran claims",
-      "w": [
-        "claims",
-        "enemy",
-        "hit",
-        "hormozgan",
-        "iran",
-        "iranian",
-        "military",
-        "province",
-        "southern",
-        "strike"
-      ]
-    },
     {
       "at": "2026-11-12T20:20:46.795254+00:00",
       "t": "Trump removes Vance from Iran talks as U.S. launches strikes on IRGC bases",
@@ -3710,6 +3694,20 @@
         "treasury",
         "yields"
       ]
+    },
+    {
+      "at": "2026-11-21T04:15:47.311579+00:00",
+      "t": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "w": [
+        "000",
+        "alone",
+        "below",
+        "bitcoin",
+        "first",
+        "tanks",
+        "time",
+        "years"
+      ]
     }
   ],
   "resolved_events": [
@@ -3742,6 +3740,7 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "28ffad314c63126113d73ceffbc511dc14c3d5dd3941fc0a0f8fffc2963ef962",
     "adac06a39f1ca879687d8c222addf9e4b73215eecbb428c6657eb8441f656783",
     "0464f2a7a67db5c07651e2d705dc86f1a8b773fdfc685b6cef260fcabbfe5bfe",
     "c2ef207e1575ffe5054f60cb46fa14777becc21ea66945703545d9de64cff03a",
@@ -4740,8 +4739,7 @@
     "b8d91682f09c57c30d7da7fed3ff7e8e8d6319b3324e8693f5c124599896080e",
     "7aedfdb19de813a9d2e51e7eecf2d33bb17d8d90a5117e84da12ce539261a788",
     "717a6271133aa9b942ad9a1e9d228c11d11be5398cc7778a6ed60aa6a8dcf34d",
-    "b602d6a3ce1e770415802b59331d97b5a6fc6f3f3c06988bcb2c1daace9abfe2",
-    "cac56ffb8a5fa2c886bcf8d48b17325d6395f4ed40e5620e2fb580f1283585e6"
+    "b602d6a3ce1e770415802b59331d97b5a6fc6f3f3c06988bcb2c1daace9abfe2"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
