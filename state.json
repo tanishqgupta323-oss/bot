@@ -703,27 +703,10 @@
   "calendar_fetched_at": "2026-11-21T10:31:01.532740+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 24,
+    "count": 25,
     "day": "2026-11-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T01:20:48.029283+00:00",
-      "t": "Gold languishes near 13-month low as $96 oil fuels bets on bigger Fed hikes",
-      "w": [
-        "bets",
-        "bigger",
-        "fed",
-        "fuels",
-        "gold",
-        "hikes",
-        "languishes",
-        "low",
-        "month",
-        "near",
-        "oil"
-      ]
-    },
     {
       "at": "2026-11-13T01:35:35.575233+00:00",
       "t": "Fed Hike Bets Outrun the BoE and Push the Dollar to a 19-Month High",
@@ -3711,6 +3694,22 @@
         "report",
         "try"
       ]
+    },
+    {
+      "at": "2026-11-21T11:25:39.666508+00:00",
+      "t": "Strait of Hormuz attacks have increased to highest level since Iran war began",
+      "w": [
+        "attacks",
+        "began",
+        "highest",
+        "hormuz",
+        "increased",
+        "iran",
+        "level",
+        "since",
+        "strait",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3743,6 +3742,10 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "ff3b3bf2a7b32b0c5d70c49aa3f8953114a2f9c9d585cb2ed77de128cc440714",
+    "6b300446c08e2571cebf5d7d52e416127841a77c84ff5dfa73a7f26847173cc6",
+    "dd5fc06d94ce2033da000e8f6e68fce7ede8abc3fe11701e5d9c8b4019d1e290",
+    "e9393dff81bd807c02e70bb4e8b72205bb9cb4e1a9d92404f022c410add0e7c3",
     "678cd12efd8f3432d4d9ea18c0cc8b3310d8862cff9c65463849c13b9ec13a59",
     "86d992680dc6e15bebf632c218f348211de34a2959b2d20e429ad2105279799f",
     "7dbf6d182e6f36bb33780a41806bcde2e23b8b59b733d72dff14fbffeac28e2a",
@@ -4738,11 +4741,7 @@
     "039cfe0199ef73b40f4988f5e23e53c484ec5e7e972a30ee561d057f7b8dd096",
     "5c0eec16544ea4c741a1e94b6053c35cb91c6b9ab84aed40fb792c349ba09b4c",
     "6c7cd54acde8962e01e50a92b63336386ffa775bcead9705d51e92fa2ec9ce7e",
-    "b59c712bd3759c1461c21e4ece2e2a3e5f412e820a86745400c87b30fe9610a9",
-    "3ed66ffa09005d997049bead091494d3ab17db3482393573b90012438dad8a02",
-    "d61ea61e2451de4c79e6b27d348e5e94517b9072f2621bf0f946da7431a84bbe",
-    "ca058331e3ad45ad575c62ece66782ee9087abe5ac61e8ee328af9e26d3a3868",
-    "77580d8590bf1c2c6e056d58b8c9f8aa6eb9e3a006d392829c47339928162c1c"
+    "b59c712bd3759c1461c21e4ece2e2a3e5f412e820a86745400c87b30fe9610a9"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
