@@ -703,25 +703,10 @@
   "calendar_fetched_at": "2026-11-21T16:31:05.466197+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 99,
+    "count": 100,
     "day": "2026-11-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T08:40:46.130976+00:00",
-      "t": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
-      "w": [
-        "carrying",
-        "explosion",
-        "hit",
-        "hormuz",
-        "iran",
-        "lng",
-        "mine",
-        "suffered",
-        "tanker"
-      ]
-    },
     {
       "at": "2026-11-13T08:50:47.899601+00:00",
       "t": "Treasury yields rise as traders strengthen Fed rate hike bets",
@@ -3715,6 +3700,18 @@
         "traders",
         "year"
       ]
+    },
+    {
+      "at": "2026-11-21T18:40:46.458366+00:00",
+      "t": "Iran strikes 3 tankers as it shows off missile launchers",
+      "w": [
+        "iran",
+        "launchers",
+        "missile",
+        "shows",
+        "strikes",
+        "tankers"
+      ]
     }
   ],
   "resolved_events": [
@@ -3747,6 +3744,10 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "0a5cd2875716c7c404aa4dbbb31d44ad9b61d475c0a039403fda76646bda1ae4",
+    "a480cbf83d31306c982fce5c37a2f6dd465605c6dc5f3b9282b8e60382723a8a",
+    "1ee242c7814ee4c9fc0f12f200ec59de6fcf1802e9c35ecac40115de55f164de",
+    "c80019fec19a806b15edc4d61e7a162089d2a65cf57e696a6a0c2de7a8f95a38",
     "fc44f170e3c2e07311b3ef80b5bcaffdffd58b29ee5169f42f36348a136bb083",
     "35d8e8aecf02c28923f089d7cd4623d3758a51e1ed33281dae6b2bfcdb19eb79",
     "b9cc4f4210178ab1e1e23c53e6bad596d3cceb86fd5a8fb0958ae87f193002a7",
@@ -4742,11 +4743,7 @@
     "1b80129ecc0cb35bf4b2874c6435a00202c5950d65b1b365b97bd161f547554b",
     "8d288e42393a469fe8c2f24f64623255e76156720108b14c269efa1af90235de",
     "300f30f8e80937a35cf02a49bd28da9b685206f801ff92e354bc94ca68b950d0",
-    "8cf0b1625ddc91ac759f87e02a54e5e61b62ebe33dadc3a04a00835e400c6d93",
-    "7c2cec4ac9ceb195d1d7cf5f87b6d656fcdbd18e055419c3f6614e7bd1861cb5",
-    "ffa3752c111492af35db0cb48ff85cb03a9836a567ad6a2f8b40c2404d1df1e7",
-    "bd6ecaa8b73cab9dbd9b42a07ba4b76c0374437b2a74d24d7dc5a01a5146528d",
-    "144f6fd6a89736541ce67bae75cd840a7807c1ad9aa37d6e6711c8854574b122"
+    "8cf0b1625ddc91ac759f87e02a54e5e61b62ebe33dadc3a04a00835e400c6d93"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

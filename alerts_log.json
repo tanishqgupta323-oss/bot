@@ -22335,5 +22335,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Los Angeles Times",
+  "title": "Iran strikes 3 tankers as it shows off missile launchers",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQXp4dVpGeGlxVHNEZnRQQTZxTzlCNmlEc3EwTXp5Y0cxZUstd25tVTFsNG5FbE15bzF5WUpGb1hYNGQtQU4yR3dlRU13TGZ6S2sxMGxnZGVZTlFGb2NfaFVjVlBqSkNwVHpaXzJ5UTN0TlBodzJ2SGJhSy1ZRzBReFNzYVhVWXllYlA3NUZhc3o4bzFRa1JmVUNBT3FfQXotOElBelpQbXhqaUNlREtF?oc=5",
+  "published_at": "2026-11-21T17:22:00+00:00",
+  "sent_at": "2026-11-21T18:40:47.237391+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1863
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.072
+   }
+  },
+  "checks_base": "published"
  }
 ]
