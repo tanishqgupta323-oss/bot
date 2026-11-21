@@ -703,28 +703,10 @@
   "calendar_fetched_at": "2026-11-21T19:35:33.355204+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 119,
+    "count": 120,
     "day": "2026-11-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T09:10:50.251550+00:00",
-      "t": "Higher real yields and stronger US dollar weigh on gold as Trump puts Iran deal in jeopardy",
-      "w": [
-        "deal",
-        "dollar",
-        "gold",
-        "higher",
-        "iran",
-        "jeopardy",
-        "puts",
-        "real",
-        "stronger",
-        "trump",
-        "weigh",
-        "yields"
-      ]
-    },
     {
       "at": "2026-11-13T09:10:50.251550+00:00",
       "t": "Euro yields hit multi-week highs as hawkish Fed shatters global bond rally",
@@ -3715,6 +3697,20 @@
         "tanker",
         "threatens"
       ]
+    },
+    {
+      "at": "2026-11-21T20:25:34.303507+00:00",
+      "t": "Bahrain says Iranian attack hits industrial facility, causes fire",
+      "w": [
+        "attack",
+        "bahrain",
+        "causes",
+        "facility",
+        "fire",
+        "hits",
+        "industrial",
+        "iranian"
+      ]
     }
   ],
   "resolved_events": [
@@ -3747,6 +3743,11 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "02907bd1a2a39fbc6af306b20dd2f596efd2a2e852b741467ac7da91389c8432",
+    "16cf6f0caaac9df0e19a74e245ac27e4aa54d4244139793d109c64efe019a14a",
+    "1f3f254d2c0811ec2d87262d2e1b3430523c060503b25c6cdb239d19038e64ac",
+    "00e97ed306b7011b41066400471f99f8c5c0176a9112a60f8cd4cb701bb56279",
+    "29b0db2f47166779eb3f8d815e74beacc34d55ea726374ca6920dbb7d394990e",
     "b28393fb59d26c761d0a6d1b5424f45a89384e04c7422f3e8de97fb015219f90",
     "e4e057bb1d28b51eb790c313ffbc442e51f1b870663c4d226f7f740c7b881949",
     "01ac09c751f233c1a7d857e853368989206b98db916665ea93b71b53f22b2151",
@@ -4741,12 +4742,7 @@
     "9992513aef16f51ca09f611b56a3db13ceee5f1c6bcd28c0964bf22d717b29f7",
     "8e05b39c78d14ad8df4de5af0ea2c20a1a30beb7f7fab42d5d7c802a42c13431",
     "a1962567eea34cb84552b6b6a832a6f45faa9f5820d6a96ac06524efa60a30e2",
-    "10df1b881ab0b75676a9602c29e08508c61b31e8b70af9e7bfb44e310b80a719",
-    "9207aeb24bdbc2ffedcd5012d7be0c8e03a72f68babd32c61dc5919194788483",
-    "0efb4f31605db4d9fffcd3d03e7518d51fe3ed68fedcac8b8528d9d0912507c7",
-    "7ca9324b3ab958d8f3127ac307845b2ab638a01738b85dfc65505e51866caf29",
-    "8a880ecadc9b7714355fb0fbcad00a890a6122bd24347d875f2d97f474e96d35",
-    "60d6cf3cf089ccfec324d9a1593619f970faf96a08abdf6d54b5c8d924ba3e43"
+    "10df1b881ab0b75676a9602c29e08508c61b31e8b70af9e7bfb44e310b80a719"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
