@@ -703,26 +703,10 @@
   "calendar_fetched_at": "2026-11-21T07:25:41.929341+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 10,
+    "count": 11,
     "day": "2026-11-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-12T21:50:49.658873+00:00",
-      "t": "Trump says he may use force against Iran 'right now' if US allies and ships are threatened",
-      "w": [
-        "against",
-        "allies",
-        "force",
-        "iran",
-        "now",
-        "right",
-        "ships",
-        "threatened",
-        "trump",
-        "use"
-      ]
-    },
     {
       "at": "2026-11-13T01:20:48.029283+00:00",
       "t": "Fed’s Williams Says Inflation ‘Far Too High,’ Work to Do",
@@ -3709,6 +3693,22 @@
         "tanker",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-21T09:35:33.569155+00:00",
+      "t": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+      "w": [
+        "downs",
+        "drone",
+        "efforts",
+        "end",
+        "hormuz",
+        "iran",
+        "irgc",
+        "remain",
+        "stalled",
+        "war"
+      ]
     }
   ],
   "resolved_events": [
@@ -3741,6 +3741,7 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "0d75e4bca82146dd0472b51151ad0fe1167e4e1d28c593bfce148da5b480cb17",
     "8bc620b3eed488b237c18d548f6ede643fa8b13131c354196894b53b96f3c79b",
     "4ed8fc6a6be11fe41d150f000615d17207a6ed1a54f6945e0eea81e767679a36",
     "4e52a8f306fa8e51d56301861d3ab82c4fc91478595753a9f23ad3fa7f7206a8",
@@ -4739,8 +4740,7 @@
     "0c34b78e436ca127832f9d7106b23ac95bf1f32b336ced8daed5563ea307e211",
     "5c6453dddfc4e309d83176a25f5826c7d634109050a1f79e23c058b4438641a2",
     "451132074513b280ab1df7fce44fdf7b854ffccdf8e1677c27d25d1ad061d106",
-    "b8f0193e35b952d7c3b7077cc5929319c43ccab347cba3f0b8931ff1f202c747",
-    "815fd4e86ab620fe53db3d7a6c7243bb4c92d60601520547af76d4346d0b20ab"
+    "b8f0193e35b952d7c3b7077cc5929319c43ccab347cba3f0b8931ff1f202c747"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

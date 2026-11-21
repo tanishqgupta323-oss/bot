@@ -22080,5 +22080,19 @@
    }
   },
   "checks_base": "sent"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al Jazeera",
+  "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY?oc=5",
+  "published_at": "2026-11-21T09:31:58+00:00",
+  "sent_at": "2026-11-21T09:35:34.313574+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
