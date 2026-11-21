@@ -703,27 +703,10 @@
   "calendar_fetched_at": "2026-11-21T13:31:02.128796+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 72,
+    "count": 73,
     "day": "2026-11-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T05:05:34.979914+00:00",
-      "t": "US bond market cracks resurface as higher for longer fears return to haunt Wall Street",
-      "w": [
-        "bond",
-        "cracks",
-        "fears",
-        "haunt",
-        "higher",
-        "longer",
-        "market",
-        "resurface",
-        "return",
-        "street",
-        "wall"
-      ]
-    },
     {
       "at": "2026-11-13T05:45:46.771807+00:00",
       "t": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
@@ -3715,6 +3698,20 @@
         "shift",
         "stunning"
       ]
+    },
+    {
+      "at": "2026-11-21T16:15:44.744295+00:00",
+      "t": "Poland says Russian missiles hit its territory; Trump calls it a ‘mistake’",
+      "w": [
+        "calls",
+        "hit",
+        "missiles",
+        "mistake",
+        "poland",
+        "russian",
+        "territory",
+        "trump"
+      ]
     }
   ],
   "resolved_events": [
@@ -3747,6 +3744,7 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "50b8b3f3a318dc137f1b887a0201a68f9650379279f97f55473468ddd8203e53",
     "01cf196fbf4f0d17bf5fc253c4540b0813c36f5fd916ab9e8957e0d2697b2393",
     "28c442f10c1b3027c2728e11048f9cf427b41a5f0cca36c7657a7716e9b5b350",
     "ecf383d21db03d01685ebd3f94ea40aa3170787c633a8fba519ac6cb5a9e303a",
@@ -4745,8 +4743,7 @@
     "41a1a8684f7ba03e48841b2acceca3bd523cc53aca9dfa5886de2463e137273d",
     "cc008d6c4467575e02836df888a84accf05160e4bafe02685e0139b3e143c7a7",
     "5c844c06af0c50ca98dc4672849af707575fd939439b63513a7fff0ebafbfd86",
-    "2776dc2c0cb17a7e6f9d836f5ba6f117d5f8cd9a3277733aa970035271d2fdb5",
-    "2d1fe8f4ead0216f628f4b412f97adc21574793e7091e52995339029214caf51"
+    "2776dc2c0cb17a7e6f9d836f5ba6f117d5f8cd9a3277733aa970035271d2fdb5"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
