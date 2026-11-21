@@ -22252,5 +22252,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Yahoo Finance",
+  "title": "J.P. Morgan prices in stunning shift in Fed rate-hike call",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZW5peFlkWDFqckNnMW01X2ZvU0k1b284SFNIblI2c0FEdTNlTFFmby0wRjF2SFZsTjhGbnZLT2NsNncwUzhoMXhsbjhNQ2tySURBNFM1aHhTdmV6OHZ1SmdVRV9LVXJNRjREZWFIZ2o4cVBoQTR2UWNodDBNek9vYjF3ZFlZelE4ekVMRTBHakhtUVdRMlE?oc=5",
+  "published_at": "2026-11-21T15:07:00+00:00",
+  "sent_at": "2026-11-21T15:31:05.817659+00:00",
+  "impact": "HIGH",
+  "eurusd": "BULLISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BULLISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1682
+   }
+  },
+  "checks_base": "published"
  }
 ]
