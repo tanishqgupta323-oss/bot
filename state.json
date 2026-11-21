@@ -703,23 +703,10 @@
   "calendar_fetched_at": "2026-11-21T10:31:01.532740+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 16,
+    "count": 17,
     "day": "2026-11-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T01:20:48.029283+00:00",
-      "t": "Fed’s Williams Says Inflation ‘Far Too High,’ Work to Do",
-      "w": [
-        "far",
-        "fed",
-        "high",
-        "inflation",
-        "too",
-        "williams",
-        "work"
-      ]
-    },
     {
       "at": "2026-11-13T01:20:48.029283+00:00",
       "t": "Gold languishes near 13-month low as $96 oil fuels bets on bigger Fed hikes",
@@ -3709,6 +3696,21 @@
         "stalled",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-21T10:35:32.511569+00:00",
+      "t": "Report: Iran Likely To Try To Breach US Naval Blockade | LIVE BLOG",
+      "w": [
+        "blockade",
+        "blog",
+        "breach",
+        "iran",
+        "likely",
+        "live",
+        "naval",
+        "report",
+        "try"
+      ]
     }
   ],
   "resolved_events": [
@@ -3741,6 +3743,7 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "13ae6c0bef822b57a19cf43de970f0b6fab3c14fb199c5c3e5eb389c810a114c",
     "dbf78ca856fe1da0ba25a89ac9136a09f32f980a776b9f66b77117a568b919fb",
     "9f3dd3833df3ed1466da9ddfffcc9aadfa697ebfb5a378fff4b5a210fa7565b7",
     "d69e6e041d93ebed9ab60a3d6669bd7b4251a90d70b11431a61daa37fe55b6cb",
@@ -4739,8 +4742,7 @@
     "3bf0a3b24e1be096e60fa78f4f1250760b401eecfcc2115737adce0b4b1c28b0",
     "0fad9a2cf7a9967b6e93c94fe60113a9ff57728eee5bb2f6bd7d20fd25d94afa",
     "911ccfc5b5336e7149b9eec145cdf753333b28a2da717ebae440cac5317cb08f",
-    "ed7e52da992e1bb72154d7cae13fb5c1bd633fdb3d7e4cc489f23fc15b5e8e0b",
-    "f642929be37bfe6de5db226ce6a0d11a5d90c22bb8668403fc4fbb2633bab345"
+    "ed7e52da992e1bb72154d7cae13fb5c1bd633fdb3d7e4cc489f23fc15b5e8e0b"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

@@ -22098,6 +22098,37 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.0088
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0252
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "i24NEWS",
+  "title": "Report: Iran Likely To Try To Breach US Naval Blockade | LIVE BLOG",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2wzeVFpSUI3T1AzRGdSV2dld0NEV19janFPSGkxVDc1RElMSW1KRUtON2Uwd1U0eVpZUHBwVzhzWXpyZnJrV2pOWTFpSUVDRjcwaHJvNFYyQzhCeU1QazloNlRuUEhzMHMxTXc1SDhCOTJoRXZSZFN0MGxaVklwcGJkbF96bFJxUGRsWUJTYjY0NHlZOC1YRllFd3NBdWlWMXZUbUd4bDZhQXd3RkJtdg?oc=5",
+  "published_at": "2026-11-21T09:12:04+00:00",
+  "sent_at": "2026-11-21T10:35:33.313716+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1522
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1357
    }
   },
   "checks_base": "published"
