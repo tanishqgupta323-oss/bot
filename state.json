@@ -703,24 +703,10 @@
   "calendar_fetched_at": "2026-11-21T16:31:05.466197+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 90,
+    "count": 91,
     "day": "2026-11-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T05:45:46.771807+00:00",
-      "t": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-      "w": [
-        "billion",
-        "bitcoin",
-        "down",
-        "etfs",
-        "net",
-        "now",
-        "outflows",
-        "year"
-      ]
-    },
     {
       "at": "2026-11-13T08:40:46.130976+00:00",
       "t": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
@@ -3712,6 +3698,23 @@
         "territory",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-21T17:55:32.795966+00:00",
+      "t": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+      "w": [
+        "000",
+        "bitcoin",
+        "bounces",
+        "eye",
+        "low",
+        "monday",
+        "open",
+        "retake",
+        "stock",
+        "traders",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3744,6 +3747,14 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "00f72752dd3661bd556f73ca019ba8db8769b688cf816019d0ff285fa61b344c",
+    "eeba1bc5b30559dc59c2aa3310c37a1124140c2ed4a8312105a050870acde3fb",
+    "e42107285320e8f45e26e178daded465af6ab16f96241c29d2ad24dcbcdf50e1",
+    "7cb534d972f9344224a09f01e14914a55963f21d50f47c537d9c52a930063a5b",
+    "ff876e4cee9db93f3454534738f20f7b820af780cfe823e271a42867a4826ea5",
+    "da2707c53cf183c8ba020fdcfc5d8c30a0e1118ed8fd246725ecc3ac5321e052",
+    "d673c5db2a61192e38d1d118a5c99cd311de4192ea6e495be111d9d88b1866ee",
+    "8d75fa89f1a082574b3126f4e4178a696ba07437a39d36ad64bd35be3e534f9b",
     "dadaf5acbbc452cb5a1170787fa2462becea6088f939000bc6a835e83c93219a",
     "6f1a490588bce40b059c58f40333a33c1724ed38749ef504743e8b9986bdb32d",
     "c21361017d8c2fc9cebdcaf5028ab3eeb9fedf67ff317bd73e16d0ab4a02c5a9",
@@ -4735,15 +4746,7 @@
     "a45977b775da555403eb2efee2c43a05b9dd22455ee2bc0cf7e4075f6bafc1d1",
     "bc5f4472c8ba6f8a11ee8b1a09150c48792ce5c9e3eef8d7a921a5a355b0665a",
     "2cae4888986a46baa5693dde46cf63c50f1a173712a3bcb75745a7e87d93e685",
-    "9dffd2beaad97ef1976cb2a65d8e4748f005298ef1e06814385512a457e2135e",
-    "847d67bf357bf91c89c45ba451f0e6bb8099cbebbf1858ca015c00931f59efb2",
-    "d040a9d11d0e5450abae7427282a2b2cc26133369e7eb7a3dceb70f563aa7491",
-    "5a2534fdd52b16be9d6ad0b796aa806bb512bb7e8ec76748f91679e262bfeac6",
-    "bba2aa2ec7abaeff1934d41b079adef8b8a3f712014591decc14358a941fa909",
-    "569a7f6c445e530213475197a0223a683d383139a93e6fecb68a86dac760d7a7",
-    "5bd41f27f31e589f3382fa09e32ac4e1afdec78f4d44a63fbb65c0419f5a8bf6",
-    "e2dae1d1b1502a1b931c2f4e82dea19dd1ee2bb7204d8e8fac51da56e8e7a5f1",
-    "14bb70f0e274937e9a1c2b7130ca708801b301f5cdc4ae38a45148f18bdca4e1"
+    "9dffd2beaad97ef1976cb2a65d8e4748f005298ef1e06814385512a457e2135e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
