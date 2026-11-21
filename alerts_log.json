@@ -22028,5 +22028,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "investing.com",
+  "publisher": "investing.com",
+  "title": "Bitcoin Falls 10% In Rout",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-10-in-rout-5043212",
+  "published_at": null,
+  "sent_at": "2026-11-21T06:31:07.494986+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BEARISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]
