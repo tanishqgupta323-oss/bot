@@ -22699,5 +22699,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "NewsNation",
+  "title": "Iran says it attacked 2 US bases",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ueTRHLXpqMm1rYjRibjEyT3BDUGg1SDdjTnBiYjVhRXlWUkg4b25xYmc4c1h5a3RNd0F6X0FmeElEUzlNdzdtVm5WQzJyVTVHcFg2My1zUnMyV3kzc0xlZ1dJUllPRmFYOFRXdjJ3XzVaczhIYUlV0gF8QVVfeXFMTTZWV0JJU1NQN3dXOTBpa2NJcnlWdFM1Y0JqYXFpTTNBdTg4V0E2cWxyekJUaHJpVUo5T1dncmRZX2gwQ3dKRjM3RW9rT2lUSVVnbXJtSVU3RVpoTFpKWGRTcEtnYUZySUxPSVRnZmpNUUFxbzRRcDVWdGNyMQ?oc=5",
+  "published_at": "2026-11-22T11:49:27+00:00",
+  "sent_at": "2026-11-22T13:40:49.176560+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.3399
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.1345
+   }
+  },
+  "checks_base": "published"
  }
 ]
