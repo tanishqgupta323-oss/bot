@@ -22444,5 +22444,19 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Al-Monitor",
+  "title": "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZVluU3NHa0w0eWh0WEdlMEtjVW91V0Ria1VYaGJMMEVTLTRTbzZVeFgwM3RFUmRUS1dzclpZb3AtYVNtM1lWZURrbDdMTGZuZUpMUktXbGhmMVljNjlOcWNrMm1EOU9icFhYOXVYUVdZY051SVVDNm9CZWtKZW5ab0c3aGRlOWRPbE9GT2dhb0tVUFVJWlJ4RGhrV2RFdVVrR0dzVWcyZw?oc=5",
+  "published_at": "2026-11-22T03:30:22+00:00",
+  "sent_at": "2026-11-22T03:45:43.960185+00:00",
+  "impact": "HIGH",
+  "eurusd": "NEUTRAL",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {}
  }
 ]

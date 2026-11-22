@@ -703,30 +703,10 @@
   "calendar_fetched_at": "2026-11-22T01:45:45.297012+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 190,
+    "count": 191,
     "day": "2026-11-21"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T09:20:49.237045+00:00",
-      "t": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
-      "w": [
-        "200",
-        "assets",
-        "average",
-        "below",
-        "bitcoin",
-        "dollar",
-        "drops",
-        "live",
-        "moving",
-        "news",
-        "pressures",
-        "risk",
-        "strength",
-        "week"
-      ]
-    },
     {
       "at": "2026-11-13T10:40:46.373778+00:00",
       "t": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight",
@@ -3706,6 +3686,20 @@
         "selloff",
         "spreads"
       ]
+    },
+    {
+      "at": "2026-11-22T03:45:43.132235+00:00",
+      "t": "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
+      "w": [
+        "bahrain",
+        "hit",
+        "hormuz",
+        "industrial",
+        "iran",
+        "site",
+        "struck",
+        "tankers"
+      ]
     }
   ],
   "resolved_events": [
@@ -3738,6 +3732,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "a2d238b3cecce10a1338cc2bcc92c37477a031ce7f87150eca08d0ccd8911aa0",
+    "1ff15cce570778125c1c4a9c4e92c731e0d40fdde70a64b17227da5912161ae3",
     "c0895f1eea631263ca0d2cb4f450798f5f19d83ad882f08f6b2e0105cb52e737",
     "e859de0a55890b2615fc681f95c5b9de8a3b0489d98d9a53d360977f9e522312",
     "b735d96aad0c078803edfdc27dd4504960571a505c3d38a60e7e85b31d1ff113",
@@ -4735,9 +4731,7 @@
     "1839a01a316e36d6fcd2b2930b0c3b49d93f0791f4e741c6578002c1c7e13764",
     "63dd732d8c1653b5c8250db99a29c0745f1c7b6d40dd5ee5967273a1c51156e7",
     "eeaba9a8be1f5283d4ce081ee4c8131c50660fa67d4a2db7aa8e59a820ff95dc",
-    "f5ff6cdc0baa762696c31242cb4345edf2d1c69ff85089636d6ea3075884d476",
-    "f572113e54bb1fcc8f02527cf4ca77f7f563bd2361f7fc7776e3a83560293fa1",
-    "484543ed1328e49eb85aee2d736bd6ac6bce7a811d5ccc4e35e6703ef80c8b4f"
+    "f5ff6cdc0baa762696c31242cb4345edf2d1c69ff85089636d6ea3075884d476"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
