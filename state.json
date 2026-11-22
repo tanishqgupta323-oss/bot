@@ -500,26 +500,10 @@
   "calendar_fetched_at": "2026-11-22T10:55:33.799227+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 62,
+    "count": 63,
     "day": "2026-11-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T15:10:45.501592+00:00",
-      "t": "Iran Says It Blew Up U.S. Early-Warning Radar as Trump Declares, “We Don’t Need a Deal with Iran”",
-      "w": [
-        "blew",
-        "deal",
-        "declares",
-        "don",
-        "early",
-        "iran",
-        "need",
-        "radar",
-        "trump",
-        "warning"
-      ]
-    },
     {
       "at": "2026-11-13T15:50:48.078716+00:00",
       "t": "Bahrain: United States said it intercepted Iranian drone attacks",
@@ -3497,6 +3481,21 @@
         "bases",
         "iran"
       ]
+    },
+    {
+      "at": "2026-11-22T13:45:43.555031+00:00",
+      "t": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+      "w": [
+        "arabia",
+        "attacks",
+        "bahrain",
+        "deal",
+        "iran",
+        "open",
+        "remains",
+        "report",
+        "saudi"
+      ]
     }
   ],
   "resolved_events": [
@@ -3529,6 +3528,9 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "c0017516671b08bb3ea5fda75832859b13444c0d2c92952d7df0b70a982d4f1c",
+    "70c8efb0524c4d94d21a5d9021880cc95d2565d0c7c33b2a494563fec426c095",
+    "6bbbfa93d8a9c96a71ab502a40270410a6da34207d6c9d6dc249c482e864d171",
     "764fb6e281717f1dbbae5adfec3489bb0130f9120ff4279f283911598a161da4",
     "e00d91d0da0f02255bd85cb4f134e8bf6c32d8df7a1287d92bdef80831917627",
     "1ab35f274688dd69c29499dab01a02a36d304ab6f83ae3c37ad4e6ce6e311fce",
@@ -4525,10 +4527,7 @@
     "faa512607097b1606d36d21445eb5a0091660fe47a27b88229ac04d4c2e92747",
     "b791997a20faa90ad990bd39d7881e0ad82ff8c296ee8a655bb357f9889c5a1c",
     "f88b0dd67b2c8fcfdbb58bc09f17decb92d75d36902e54dfb2d2bc3ece9f87d1",
-    "6defd81d39938b4a990a98e8e6aaa0f774dee00d1c378e1a183029324dbc8512",
-    "788698b7a0c94977f9828b0f914b53d171c0a7fec8168a54e29d17f883db6b0e",
-    "117d70271009485092811aa567942df5e025d94847348ea34883163291b1f5d0",
-    "077be65905c5bfe4f210e671eb8c0233275a58fb1a4eef60b006c6706863ee86"
+    "6defd81d39938b4a990a98e8e6aaa0f774dee00d1c378e1a183029324dbc8512"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",

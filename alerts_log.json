@@ -22696,6 +22696,11 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": 0.3271
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.3058
    }
   },
   "checks_base": "published"
@@ -22722,6 +22727,27 @@
     "EURUSD": null,
     "XAUUSD": null,
     "BTCUSD": -0.1345
+   }
+  },
+  "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "CNBC",
+  "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWExRdGJVYklFVlRzdFJXOWVHb3NjWFQwYTJTeU1CN1h1YkJ1ckswc29IQ28ydHBtWkhFOV83WEJ6V09RZWk3TkRIbnNYdmVnR3l4OXA4WDFLQnI5bUVzNU5RYnlIZnNQNU4yOXNDT3BVSzgxNlplYWhBaGp2YWVLZ0x6MXJOWm1OZVdVTlN30gGTAUFVX3lxTE04Qy1NVGc0RndjU2tZbS1ubW5uWDBSSUZ5NTQzTFZ5MGtCSk52SFg4YWdVTjVOWmN4S1FzMXFQZFJNekptTi1PVmhVY1dHaDVwZHkzTUxvZnhyaHlQVXNzWno0aVFFdjJMcjdIcGV2dnlvMFlhcHp4WVVZYnJMcWFfdzhNVmdfbjY0SU1sS0MtdXUyTQ?oc=5",
+  "published_at": "2026-11-22T13:25:47+00:00",
+  "sent_at": "2026-11-22T13:45:53.358059+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.1914
    }
   },
   "checks_base": "published"
