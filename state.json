@@ -500,26 +500,10 @@
   "calendar_fetched_at": "2026-11-22T07:55:32.553088+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 13,
+    "count": 14,
     "day": "2026-11-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T10:45:47.344398+00:00",
-      "t": "Trump Threatens to Destroy Iran’s Energy Infrastructure and Factories Within Three Days",
-      "w": [
-        "days",
-        "destroy",
-        "energy",
-        "factories",
-        "infrastructure",
-        "iran",
-        "threatens",
-        "three",
-        "trump",
-        "within"
-      ]
-    },
     {
       "at": "2026-11-13T11:01:20.650284+00:00",
       "t": "Iran threatens unlimited response over Strait of Hormuz after US attack",
@@ -3496,6 +3480,18 @@
         "saudi",
         "strikes"
       ]
+    },
+    {
+      "at": "2026-11-22T09:25:33.771965+00:00",
+      "t": "Iran claims it downed US MQ-1 drone near Hormuz",
+      "w": [
+        "claims",
+        "downed",
+        "drone",
+        "hormuz",
+        "iran",
+        "near"
+      ]
     }
   ],
   "resolved_events": [
@@ -3528,6 +3524,12 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "27615347519722ee05d149e6a3a996a6aa5b899aa56273542ea3e98200934202",
+    "fcde8848f9e4f243c1b8e07828b71cf2d4d21a1606922eecd3240a49ee7149b5",
+    "9bb9170b0307d63fae8344c86a7f4301376002673ee502b77318c268ca427b39",
+    "a39e1942d00b78e9d0ef41bc7ae0c913e861cb21ac61440498c6c8e5f7167bc8",
+    "205024d37451abf81578c1ecfc126aeed45e733900260612fe239d637c81d869",
+    "330ebc53c747c2d205fe1f20b35931b8e500d826e2d65f14071f9c1767dc361e",
     "c7d1525dec152bbe1b0620561cba2a85804e0f9d16263d54e04bb0e034dc348b",
     "0e6b3cb92751e4bc5bb0c5dd0d02a8ea0c9419e83437720bec4b3080a8be1fea",
     "dd34a8ca9a55056cc8f671060ac0ae46e873f9d21a9bb38e156a2848f0adc4de",
@@ -4521,13 +4523,7 @@
     "48d2df32e373466a97bba1655705ae08b1537f6aa45b47528b7fbfce72471546",
     "e4d11a21d36e9f3b5cf96c818a1480eabad1206378d151eef59e71930970ec54",
     "0a086f56d7aa7aff873570cce5d023b8385d0ab7c3a0ba726e11ecbb12df7d36",
-    "2d90a3306740f2468053c6793311663333f56f148a161ab2c294dc6fb86cc430",
-    "1c938a13a7536e700bd891e73f0e28b35edc2ed9592b57b36916f73fab6d91d8",
-    "ce51e39addb902e6308565509601be4f829087855e3dad88a352972e274005a5",
-    "a42585d5ab74e91582aa6aa835bc2b5c6869841dbf29a844a281cfcbd4dfd78d",
-    "cd99401b865b66c11e214930b0c76d2b9b1a996571ef71ed33f63735f9c92666",
-    "5ca8fc7bf0a0222c788912db65449199743e45c7f3844716078f66024595a96b",
-    "2e1ebd04ae386aab882997756373cf47a3eab408768cd6379ab9e7541e37a11e"
+    "2d90a3306740f2468053c6793311663333f56f148a161ab2c294dc6fb86cc430"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
