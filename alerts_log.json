@@ -22574,5 +22574,26 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Ynetnews",
+  "title": "Iran's high-stakes gamble: breaking the US naval blockade to force a swift endgame",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JOVRoYUNVZVJDcERjLXExdHcyQ2x1bXVycWs5Zl9ZUTAteXZDNEFfbU02LUVHN0Fyb0VqSFVvM1RiSzlocnE1eE8xMUJWWm5yNEFmWkdiQzRBRzhGdml1Qk5UVEhBS2RjUFJONi1R?oc=5",
+  "published_at": "2026-11-22T10:04:33+00:00",
+  "sent_at": "2026-11-22T10:35:35.402163+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.0577
+   }
+  },
+  "checks_base": "published"
  }
 ]

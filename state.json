@@ -500,28 +500,10 @@
   "calendar_fetched_at": "2026-11-22T07:55:32.553088+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 27,
+    "count": 28,
     "day": "2026-11-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T11:55:36.737779+00:00",
-      "t": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
-      "w": [
-        "billion",
-        "bitcoin",
-        "dollar",
-        "hits",
-        "interest",
-        "liquidations",
-        "low",
-        "outlook",
-        "rallies",
-        "rate",
-        "top",
-        "week"
-      ]
-    },
     {
       "at": "2026-11-13T12:01:23.291163+00:00",
       "t": "Iran Claims Strike On US Radar In Bahrain After Attack On Hormuz Port Town",
@@ -3496,6 +3478,22 @@
         "trade",
         "trump"
       ]
+    },
+    {
+      "at": "2026-11-22T10:35:34.297714+00:00",
+      "t": "Iran's high-stakes gamble: breaking the US naval blockade to force a swift endgame",
+      "w": [
+        "blockade",
+        "breaking",
+        "endgame",
+        "force",
+        "gamble",
+        "high",
+        "iran",
+        "naval",
+        "stakes",
+        "swift"
+      ]
     }
   ],
   "resolved_events": [
@@ -3528,6 +3526,10 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "dd9d4cdef0e9328670958479477b4841352f666773ec9ffaccbdf7deaecf323c",
+    "98645dc8c8c4468476ebfb0bf424f6502feebb05eb951af324098364c6e8f664",
+    "fcf2d1aea8755b10023a24b0bde89f81ad98f6b2bcdbe46f5d8f4dab30068e81",
+    "7c48396d5861ba2a34aa2f1546eea50b98f27da11745c14882bc52e2b0cfb5c3",
     "b9fb0c81694c125cc43a1a9ddce9dd5aab594ecb92afde613084ce90e9188f29",
     "4ce75b730b1d51c80fd519b68998c3dd1d30707ae0a6caf712b39b045dc2ba2c",
     "6f0833b934843b80a77e59d3362eb8666415af870ec808620a3abe0890fd9d63",
@@ -4523,11 +4525,7 @@
     "eb98f5cda83b22e711da2bf07ee01b95c97ab748f4d695bb511076ab6adaa6b6",
     "41dddd6bbc27860bc72b8ab5e990f387d625d57bb88e486b3000f1c78d5ad6c0",
     "6dd908562a3a2be4b4a174713f27956700da308b1f3abd8e9b4392e3c851aad7",
-    "9f8865bcffb9652c74e7608f572f9a5a00bdef9fabc73bfc19248effd0588643",
-    "cf8c2410f657380dbc5bb5ce0210b98d9f87edd5a737fafacd8d08d1a312fbe1",
-    "a120375ecd6ac442fd6796251238bc43da8d1b39c948651e63ddf4ae408f9a57",
-    "fe4cc0ef8cb07f9c65e295488dcdcab94a84fd2577de0ffd2bffa408a6a29e8f",
-    "1cf9499d3e157e3d57dcae698c4561bc0daa08a10d68d945d55d3e33a5f6a69d"
+    "9f8865bcffb9652c74e7608f572f9a5a00bdef9fabc73bfc19248effd0588643"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
