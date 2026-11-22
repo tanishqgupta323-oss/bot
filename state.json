@@ -500,24 +500,10 @@
   "calendar_fetched_at": "2026-11-22T13:55:34.884952+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 73,
+    "count": 74,
     "day": "2026-11-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T15:50:48.078716+00:00",
-      "t": "Bahrain: United States said it intercepted Iranian drone attacks",
-      "w": [
-        "attacks",
-        "bahrain",
-        "drone",
-        "intercepted",
-        "iranian",
-        "said",
-        "states",
-        "united"
-      ]
-    },
     {
       "at": "2026-11-13T16:05:37.373657+00:00",
       "t": "Fed's Collins: I would think some additional policy tightening is warranted soon",
@@ -3496,6 +3482,18 @@
         "report",
         "saudi"
       ]
+    },
+    {
+      "at": "2026-11-22T14:40:45.693596+00:00",
+      "t": "Watch Fed’s Inflation Fight May Require More Hikes",
+      "w": [
+        "fed",
+        "fight",
+        "hikes",
+        "inflation",
+        "require",
+        "watch"
+      ]
     }
   ],
   "resolved_events": [
@@ -3528,6 +3526,10 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "1219faa4388ec53951ce40dc9fb5794c28e6314658390d2e28d98cf753a20ff3",
+    "b3d62b2cdcddd9b74cca080c5a2836b56b955d0fb2f0d01b3a5a42a79a3c9924",
+    "b617ca8e1c63a828b4e50652ff12f5127d9fbe1bc59cc8e3ddff648bc6fc7064",
+    "dffa110ff34314510464eb2245e3441ba54deb0fb32ab2d4657bde38bdb801d7",
     "b85efbbda036549daf23ad2f2d7cfef0a75d5a1ba4e62bcccaaa93122b54eefa",
     "6b7b4ef84af2ff6362996fa5bc38d67ff95d67ffe2d1d32d45e223d77e231b07",
     "e7bde35ac102f9a23c63882bdd40effc0eae0c7d55c40cd9a6ba2913dd981b26",
@@ -4523,11 +4525,7 @@
     "f943d89c1d6d22f48fec7101b511b5badaef304d899c04bc4f3ac7fe26a6b94e",
     "6b164ea0a1fb1877fe9b7db21026123aa375290852996cf628a017d7d52010ac",
     "2ac3272511e728229242ea8d639c00019d6b4241df7b11a6d705aaafcd3b0ada",
-    "86fe96565ba45f9ed1a1d21a482f586f6f9fc599bf16973dd5ac0c4c276a26f5",
-    "5d8425181ffbadc24874c0f9dbe796116e3b4c77567a8f0f438e9c0aa837b76e",
-    "4d0ad39c7bb93bcb8b91e30aff99233430b37a705ed81536c4c88eb662593b31",
-    "fa77ba0d3094b064cbced928c3c15dc8cfddb7b3a34ec7535b6cb85fea25cc98",
-    "47721ccbc28b09d8c9a71233c7ea254ed8ca7f99d849f973bf9a01bb294882c7"
+    "86fe96565ba45f9ed1a1d21a482f586f6f9fc599bf16973dd5ac0c4c276a26f5"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
