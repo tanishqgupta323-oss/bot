@@ -500,38 +500,10 @@
   "calendar_fetched_at": "2026-11-22T10:55:33.799227+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 50,
+    "count": 51,
     "day": "2026-11-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T13:10:46.721974+00:00",
-      "t": "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions",
-      "w": [
-        "approaching",
-        "bets",
-        "fed",
-        "hawkish",
-        "iran",
-        "key",
-        "nasdaq",
-        "rally",
-        "resistance",
-        "suckers",
-        "tensions"
-      ]
-    },
-    {
-      "at": "2026-11-13T14:05:43.390309+00:00",
-      "t": "Fed's Goolsbee: We're not on the way to 2% inflation and we have to deal with that",
-      "w": [
-        "deal",
-        "fed",
-        "goolsbee",
-        "inflation",
-        "way"
-      ]
-    },
     {
       "at": "2026-11-13T15:05:38.579047+00:00",
       "t": "Goldman Sachs: We can explain almost the entire US inflation overshoot by tariffs and the war in Iran",
@@ -3501,6 +3473,37 @@
         "value",
         "year"
       ]
+    },
+    {
+      "at": "2026-11-22T12:45:44.550844+00:00",
+      "t": "Iranian Newspaper Calls For First Strike On US And Its Allies",
+      "w": [
+        "allies",
+        "calls",
+        "first",
+        "iranian",
+        "newspaper",
+        "strike"
+      ]
+    },
+    {
+      "at": "2026-11-22T12:45:44.550844+00:00",
+      "t": "'Shockingly Low'—Trump’s Worst Nightmare Is Suddenly Coming True As The Bitcoin Price And His Crypto Memecoin Crash",
+      "w": [
+        "bitcoin",
+        "coming",
+        "crash",
+        "crypto",
+        "low",
+        "memecoin",
+        "nightmare",
+        "price",
+        "shockingly",
+        "suddenly",
+        "true",
+        "trump",
+        "worst"
+      ]
     }
   ],
   "resolved_events": [
@@ -3533,6 +3536,9 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "6aa4eaefb63fc8d5ad8257b8933eb25b8151b0442553302cb9e549ff757ab3cc",
+    "c7c8419ceef2a2941150dd9272bdc2d918349e997350c2dae979f6a23f32e680",
+    "44b17ab66dd103cdee04df79fac1335de72bfe6f086d60a99eab57343d510483",
     "1a427d90e065364c41e914ceda9b7d4394e7f5453370d3ffbbb3a703e1315eff",
     "ef364453599c430d3c96efde6eab0925a1b36d81c90d0bad6094ddabd4b51a6f",
     "4862ffb0730b9769ba069ddd4909ae4eb343fb6782be9dae5676485b81975ea7",
@@ -4529,10 +4535,7 @@
     "461a48cddbac71ba878998df597ac3a464e2cda61a39e6cf6f1dc3548fcccf8c",
     "ec1b3f23cf75c5d712377f3a5f003678e4c32ea1252573ffe0b0b1323334126b",
     "34ef8926992607689db4ee1669695bd3cad9c508b8bc24a8941a84f124bdffa4",
-    "69d141f499f4c8fd3fa48c2d19dde118c1f6446a1849a6b81abb4ac56ea41aa3",
-    "44e71fc1c3bb7e768654cb898c0705ed9533d0656fc39ba616cbf8ad9d9f0a98",
-    "5471ea7a77256b83e085cb655a83ed7c8a46dbbd026d6f2c7464370d2f62ac44",
-    "4743667f310210fb8eb9e8745cb1f1ce43840fd78b60f44d8f1bc80b1c63a6f0"
+    "69d141f499f4c8fd3fa48c2d19dde118c1f6446a1849a6b81abb4ac56ea41aa3"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
