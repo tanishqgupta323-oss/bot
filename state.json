@@ -500,25 +500,10 @@
   "calendar_fetched_at": "2026-11-22T13:55:34.884952+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 92,
+    "count": 93,
     "day": "2026-11-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T17:01:28.820572+00:00",
-      "t": "Kevin Warsh Puts His Stamp on the Fed, One Canceled Rate Decision at a Time",
-      "w": [
-        "canceled",
-        "decision",
-        "fed",
-        "kevin",
-        "puts",
-        "rate",
-        "stamp",
-        "time",
-        "warsh"
-      ]
-    },
     {
       "at": "2026-11-13T17:50:47.285576+00:00",
       "t": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
@@ -3493,6 +3478,19 @@
         "shrinks",
         "war"
       ]
+    },
+    {
+      "at": "2026-11-22T16:35:40.664594+00:00",
+      "t": "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
+      "w": [
+        "bessent",
+        "fed",
+        "markets",
+        "overtightening",
+        "risks",
+        "swoon",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3525,6 +3523,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "7a7f6f17d3266ca90bb6735c500d218020c3c9ce627729e17f401b54e66bfabd",
+    "9707d62be68213ffeb645d721961061792e1dc2ad7713d47c14a275bc53e759c",
     "70d82e8156b12bc6bff157138c98987fc0004d6eeaa29d130fa89a6ce8828aaf",
     "b5efa988813205b9212e304e15c47f1599b1861ff81c515bd807e41fcff75980",
     "d6dd45b3d168ade23aaccc51ea56d3cf35d418ce9def018a56b928d05dab7de0",
@@ -4522,9 +4522,7 @@
     "22a60e5ca41899acfb1a3a54918be9b9c9d06aa35bda0e5f4c48a3972a3b16b0",
     "264148e500a338ecfc69fb07a395b33029d225d9a4c751214aad614ef90b975e",
     "417d4989136488fcd11624055a1b00d584038f89829a7f6fbfaa2669e5156bf5",
-    "c63fe0e4f11e2197e42ac71b6c017f82c65ff846a3a3e23cd711fc01766d464e",
-    "57c27673e0f265172816e1f2fbe9f576d8f9c36dfc00a361523a56fb3f44aa3c",
-    "7079c03b6c41fb2b481288d88db5a3d709c7c19e0ac3bd3c549c62f9513eaa05"
+    "c63fe0e4f11e2197e42ac71b6c017f82c65ff846a3a3e23cd711fc01766d464e"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
