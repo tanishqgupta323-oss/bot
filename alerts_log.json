@@ -22782,5 +22782,31 @@
    }
   },
   "checks_base": "published"
+ },
+ {
+  "kind": "live_news",
+  "source": "news.google.com",
+  "publisher": "Bloomberg.com",
+  "title": "US Power Advantage Over China Shrinks Further on Iran War Effect",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRWcxd0p2YWVoSzJfOXpVTlhsLVlYLTFkLUdwQ3FxU1F1em9zdFVESHF0YWI1VVlQekxCT1gwTkpEaDBfNWd2d3l4TTRFN05qaTh3Q0NGREFEcFFRbVF3MWJGUlo4Z3dxNzhmZ1lzRjNmeWwwanBGRkJEZU14cnNPWEx3bFctQTI0bHBhWDhRcU9iX1ZEOENObWVJZTdSTjlSWi1acU4yS2dJamZrcFFJQ25Ceml1UQ?oc=5",
+  "published_at": "2026-11-22T11:30:00+00:00",
+  "sent_at": "2026-11-22T15:45:50.936445+00:00",
+  "impact": "HIGH",
+  "eurusd": "BEARISH",
+  "xauusd": "BULLISH",
+  "btcusd": "BEARISH",
+  "checks": {
+   "15": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": 0.0933
+   },
+   "60": {
+    "EURUSD": null,
+    "XAUUSD": null,
+    "BTCUSD": -0.3703
+   }
+  },
+  "checks_base": "published"
  }
 ]
