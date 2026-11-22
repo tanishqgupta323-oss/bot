@@ -500,24 +500,10 @@
   "calendar_fetched_at": "2026-11-22T17:01:17.769506+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 98,
+    "count": 99,
     "day": "2026-11-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T18:01:19.354284+00:00",
-      "t": "Fed’s Daly says rates likely need to rise amid inflation concerns",
-      "w": [
-        "concerns",
-        "daly",
-        "fed",
-        "inflation",
-        "likely",
-        "need",
-        "rates",
-        "rise"
-      ]
-    },
     {
       "at": "2026-11-13T18:40:45.012352+00:00",
       "t": "Dollar Poised for Best Week in Over a Month on Fed Hike Bets",
@@ -3489,6 +3475,20 @@
         "since",
         "strait"
       ]
+    },
+    {
+      "at": "2026-11-22T17:15:47.407093+00:00",
+      "t": "Iran says 2 supertankers struck naval mines near Strait of Hormuz",
+      "w": [
+        "hormuz",
+        "iran",
+        "mines",
+        "naval",
+        "near",
+        "strait",
+        "struck",
+        "supertankers"
+      ]
     }
   ],
   "resolved_events": [
@@ -3521,6 +3521,11 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "03339a8b0ea9c60623b44f4adca9ece54b5ebed6d6eb1fc9396e6b81439a13e9",
+    "d16ea0ece00b2e98d88f549c6331e8962f9b97995265e05bddefe976bd6bebfb",
+    "a73b9301e9d955c2b572e2d51ee3749642d253f590e627adbbd9586e3fac6eb2",
+    "affb584ac8da741c14195f1662a18fa3abce80e156878a1b730bc6dfab2b9778",
+    "e3c1a553851fb2eb0f7e08ab5f12d5a7c3eeff2ebb1cc4cb739742a349d143c9",
     "44fc480f546e5d3a6705d88e73b83c1b5eb5ab4a54f3307dd6d3b6b0468a131e",
     "ccf71acbb053306ee26f77bd01c535c9da4a47f7dd05a069dbc72b9e3f2d047c",
     "c6cb275201a2c48864a05d8675de21c53d946445ccc7077c9a3f7d5136ef70c2",
@@ -4515,12 +4520,7 @@
     "bca6caf2b36682e30493bcdc3a35184ce4a263a3146b105497a16cef37a80cbd",
     "4161094282e69691835ef9dc2d863fccd735b1d8206fd02413f5d83ff404ed9b",
     "0ae4d069e0325c70aeaf7b85a5b45ac71c50b1f15912a9708ab34ae55dcd299b",
-    "31d8dcc162efc49ba3e9113fd3b70a9e707e7b34cf2dd082c444fd8a28bb9062",
-    "5e6ef632b0074b7501ed0f1c6be41c51868b9f7bc8bdf5eb23c53676df5b28d2",
-    "fbf950b0ef84fe9a0f76ffd4ee6e4ba9ea4ab35df32e70747106c679ab006a16",
-    "109c483ab548dcf51f0349431d22bba1068be6f23b684d514988d013bffe0f2b",
-    "c4e3113f1cec7eddb3b7d81d030944dd3a31e43ba2f52e3467f15cfe8e68cd8b",
-    "731f64c61d9e69619ee675343f18253d11e61e61f4054bc57902cc35482d336d"
+    "31d8dcc162efc49ba3e9113fd3b70a9e707e7b34cf2dd082c444fd8a28bb9062"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
