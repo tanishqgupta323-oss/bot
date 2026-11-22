@@ -500,23 +500,10 @@
   "calendar_fetched_at": "2026-11-22T10:55:33.799227+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 46,
+    "count": 47,
     "day": "2026-11-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T12:25:38.339376+00:00",
-      "t": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
-      "w": [
-        "69k",
-        "bitcoin",
-        "concentrated",
-        "demand",
-        "drops",
-        "liquidation",
-        "weakening"
-      ]
-    },
     {
       "at": "2026-11-13T13:10:46.721974+00:00",
       "t": "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions",
@@ -3498,6 +3485,22 @@
         "stock",
         "warns"
       ]
+    },
+    {
+      "at": "2026-11-22T12:20:44.922917+00:00",
+      "t": "Bitcoin crashes to two-year low, losing more than half its value since October peak",
+      "w": [
+        "bitcoin",
+        "crashes",
+        "half",
+        "losing",
+        "low",
+        "october",
+        "peak",
+        "since",
+        "value",
+        "year"
+      ]
     }
   ],
   "resolved_events": [
@@ -3530,6 +3533,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "22db9b576bf3e8f686008bd80bae6b0cbe1b0cdf55b995189050508340caf6e0",
+    "d7985be09f7e6dad73d642085d08a9dbb8d221c83159822687b0d1e094b64bb6",
     "f81b94e051f4c188a9d1307fd59a75ab88bc638657608e7ab88ffb71dd049b27",
     "ca28cf294e95bf84c060ee7d9c981ba4f7eb762f847a505e5db0f412c84b32e9",
     "0834f509cb562af8d4c313511df4d8c6e6dda69ac20ba6173a8beac71d7caa62",
@@ -4527,9 +4532,7 @@
     "bd10df173a5f1ba70778b8c1d6c1c8803d1500e457e9018ea719160f13d2c20b",
     "edddd7d309454c2019325fb1b767768887b11d5db1c6af9862f1281d07211390",
     "de4e83e0a16d497e87365b5579298317266faf0ee3eb16be92c16f4a4dc9c3a0",
-    "e5d6c1167ff6e77f6267252929d7da44f6f5a87356b92e963af48f17c6500f89",
-    "b1f7f9089d0a1733fd1b9061dcb0245246b608b542e7a94065e2fbaac3b9151e",
-    "9c89edd8065d0d4402e2c2061ee1b6ca08a913a64aff627c6065cdab484e7424"
+    "e5d6c1167ff6e77f6267252929d7da44f6f5a87356b92e963af48f17c6500f89"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
