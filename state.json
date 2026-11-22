@@ -500,23 +500,10 @@
   "calendar_fetched_at": "2026-11-22T07:55:32.553088+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 14,
+    "count": 15,
     "day": "2026-11-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T11:01:20.650284+00:00",
-      "t": "Iran threatens unlimited response over Strait of Hormuz after US attack",
-      "w": [
-        "attack",
-        "hormuz",
-        "iran",
-        "response",
-        "strait",
-        "threatens",
-        "unlimited"
-      ]
-    },
     {
       "at": "2026-11-13T11:45:48.451799+00:00",
       "t": "US Treasuries set for worst week since Trump’s ‘liberation day’",
@@ -3492,6 +3479,24 @@
         "iran",
         "near"
       ]
+    },
+    {
+      "at": "2026-11-22T09:31:06.469010+00:00",
+      "t": "'Complete demolition': Trump outlines 4-hour attack plan if Iran deal isn't reached by 8 p.m. ET Tuesday",
+      "w": [
+        "attack",
+        "complete",
+        "deal",
+        "demolition",
+        "hour",
+        "iran",
+        "isn",
+        "outlines",
+        "plan",
+        "reached",
+        "trump",
+        "tuesday"
+      ]
     }
   ],
   "resolved_events": [
@@ -3524,6 +3529,10 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "4d29b348b72fe96a458b611559e369008ba83550bc47a030c0b5bfc122456777",
+    "45ffb026ff86ff7476d65c0473728c57d7641786e1f5d78ba70aec447a6409f7",
+    "ea3d1e43009aff7ab29ca0af4c5b98735dd922212df643dc9f33a846fa723ae5",
+    "1c938a13a7536e700bd891e73f0e28b35edc2ed9592b57b36916f73fab6d91d8",
     "27615347519722ee05d149e6a3a996a6aa5b899aa56273542ea3e98200934202",
     "fcde8848f9e4f243c1b8e07828b71cf2d4d21a1606922eecd3240a49ee7149b5",
     "9bb9170b0307d63fae8344c86a7f4301376002673ee502b77318c268ca427b39",
@@ -4519,11 +4528,7 @@
     "5db18770427cf1620edf3e041f9b70f1feb31e204260fb87b96e9f2448897e2b",
     "b65390215e22b0d55e128cd559601edfe8c1d2c415d04bab482b59e6b81cd5c1",
     "4e5a69f2b41b07eab77b4a6e2800cf5a9ecb848cede5e6409352f77f33134e26",
-    "da946b2b7e7cf40e4deb532bc2277208f63b488472c5f01f44fdc53602122f4d",
-    "48d2df32e373466a97bba1655705ae08b1537f6aa45b47528b7fbfce72471546",
-    "e4d11a21d36e9f3b5cf96c818a1480eabad1206378d151eef59e71930970ec54",
-    "0a086f56d7aa7aff873570cce5d023b8385d0ab7c3a0ba726e11ecbb12df7d36",
-    "2d90a3306740f2468053c6793311663333f56f148a161ab2c294dc6fb86cc430"
+    "da946b2b7e7cf40e4deb532bc2277208f63b488472c5f01f44fdc53602122f4d"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
