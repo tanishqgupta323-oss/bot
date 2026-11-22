@@ -500,25 +500,10 @@
   "calendar_fetched_at": "2026-11-22T10:55:33.799227+00:00",
   "first_run_complete": true,
   "gemini_usage": {
-    "count": 37,
+    "count": 38,
     "day": "2026-11-22"
   },
   "recent_stories": [
-    {
-      "at": "2026-11-13T12:01:23.291163+00:00",
-      "t": "Iran Claims Strike On US Radar In Bahrain After Attack On Hormuz Port Town",
-      "w": [
-        "attack",
-        "bahrain",
-        "claims",
-        "hormuz",
-        "iran",
-        "port",
-        "radar",
-        "strike",
-        "town"
-      ]
-    },
     {
       "at": "2026-11-13T12:25:38.339376+00:00",
       "t": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
@@ -3494,6 +3479,25 @@
         "stakes",
         "swift"
       ]
+    },
+    {
+      "at": "2026-11-22T11:31:02.282802+00:00",
+      "t": "The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over",
+      "w": [
+        "bitcoin",
+        "cash",
+        "crashing",
+        "gold",
+        "goldman",
+        "grab",
+        "great",
+        "isn",
+        "sachs",
+        "selloff",
+        "silver",
+        "stock",
+        "warns"
+      ]
     }
   ],
   "resolved_events": [
@@ -3526,6 +3530,8 @@
     "dc749ccbc67d7658177dec45"
   ],
   "seen_headlines": [
+    "47f56041b86fdfed6cc706d8d30ef1e499c5d565c84d669cc84dd64e736e2b8c",
+    "6d8807c7f10525fbad12f4b991b30aa68c7ab2485fa64d53ca7137b9025455fe",
     "12cc04cfefdac2a4b60a27fbdf965c8c18b8e1076fa17fc8ba05cca3309950fc",
     "0bbe00e602e6aff9a149a08eb5e0f0df604c96e0136a65fc425172b1cdbbd3ec",
     "2120f004a817fca1bc32635b3477543331899dd9492cbd5818770ba12784bc7b",
@@ -4523,9 +4529,7 @@
     "af8bc42a8e810238a2e996b7dc96468cf7286ac3aaca7709a79234c4691e8040",
     "3f2c3ee2e1699a7bc3a7884ee53e6c3dbc40f0d75c1288a9eba441d89d994a39",
     "756eecf16ea0cda17d41c10545db8dc11cdb406e09610decad4d5144d11f56e6",
-    "daa811838776d5c93d7d9bbba0224db03ad531a732ec44c0008dac7ac9d89a2f",
-    "7ae70f02e5252e6930e33917c162fbb23c5df863330c22820f2f8144ad95008a",
-    "f4794468a680e1a153b9755460751cd37ec4c73e22e2c263888bc0b1b6d47900"
+    "daa811838776d5c93d7d9bbba0224db03ad531a732ec44c0008dac7ac9d89a2f"
   ],
   "sent_alerts": [
     "741bbe6ef88663e87a1d8c85:60",
