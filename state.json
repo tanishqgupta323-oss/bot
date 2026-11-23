@@ -155,7 +155,7 @@
     {
       "country": "EUR",
       "date": "2026-11-24T04:00:00-05:00",
-      "forecast": "90.6",
+      "forecast": "90.5",
       "impact": "Low",
       "previous": "90.2",
       "title": "German ifo Business Climate"
@@ -163,7 +163,7 @@
     {
       "country": "GBP",
       "date": "2026-11-24T06:00:00-05:00",
-      "forecast": "-24",
+      "forecast": "-27",
       "impact": "Low",
       "previous": "-10",
       "title": "CBI Realized Sales"
@@ -195,7 +195,7 @@
     {
       "country": "EUR",
       "date": "2026-11-24T09:00:00-05:00",
-      "forecast": "-9.3",
+      "forecast": "-9.4",
       "impact": "Low",
       "previous": "-9.8",
       "title": "Belgian NBB Business Climate"
@@ -219,7 +219,7 @@
     {
       "country": "USD",
       "date": "2026-11-24T10:00:00-05:00",
-      "forecast": "92.1",
+      "forecast": "92.4",
       "impact": "Medium",
       "previous": "91.7",
       "title": "CB Consumer Confidence"
@@ -227,7 +227,7 @@
     {
       "country": "USD",
       "date": "2026-11-24T10:00:00-05:00",
-      "forecast": "-3",
+      "forecast": "-2",
       "impact": "Low",
       "previous": "-2",
       "title": "Richmond Manufacturing Index"
@@ -267,7 +267,7 @@
     {
       "country": "AUD",
       "date": "2026-11-24T19:30:00-05:00",
-      "forecast": "4.8%",
+      "forecast": "4.7%",
       "impact": "High",
       "previous": "4.3%",
       "title": "CPI y/y"
@@ -303,14 +303,6 @@
       "impact": "Low",
       "previous": "0.2%",
       "title": "German Final GDP q/q"
-    },
-    {
-      "country": "CNY",
-      "date": "2026-11-25T02:02:00-05:00",
-      "forecast": "",
-      "impact": "Low",
-      "previous": "-4.3%",
-      "title": "Foreign Direct Investment ytd/y"
     },
     {
       "country": "CHF",
@@ -363,7 +355,7 @@
     {
       "country": "USD",
       "date": "2026-11-25T08:30:00-05:00",
-      "forecast": "0.5%",
+      "forecast": "0.7%",
       "impact": "Low",
       "previous": "1.8%",
       "title": "Durable Goods Orders m/m"
@@ -395,7 +387,7 @@
     {
       "country": "USD",
       "date": "2026-11-25T10:00:00-05:00",
-      "forecast": "649K",
+      "forecast": "650K",
       "impact": "Low",
       "previous": "676K",
       "title": "New Home Sales"
@@ -411,7 +403,7 @@
     {
       "country": "USD",
       "date": "2026-11-25T12:00:00-05:00",
-      "forecast": "",
+      "forecast": "-19B",
       "impact": "Low",
       "previous": "20B",
       "title": "Natural Gas Storage"
@@ -427,7 +419,7 @@
     {
       "country": "AUD",
       "date": "2026-11-25T19:30:00-05:00",
-      "forecast": "4.4%",
+      "forecast": "4.5%",
       "impact": "Low",
       "previous": "-3.6%",
       "title": "Private Capital Expenditure q/q"
@@ -601,7 +593,7 @@
       "title": "Prelim Wholesale Inventories m/m"
     }
   ],
-  "fetched_at": "2026-11-23T20:25:33.469430+00:00",
+  "fetched_at": "2026-11-23T21:25:35.759511+00:00",
   "sent": [],
   "version": 3
 }
