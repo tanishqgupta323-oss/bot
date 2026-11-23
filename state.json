@@ -153,14 +153,6 @@
       "title": "Flash Manufacturing PMI"
     },
     {
-      "country": "CNY",
-      "date": "2026-11-24T02:02:00-05:00",
-      "forecast": "",
-      "impact": "Low",
-      "previous": "-4.3%",
-      "title": "Foreign Direct Investment ytd/y"
-    },
-    {
       "country": "EUR",
       "date": "2026-11-24T04:00:00-05:00",
       "forecast": "90.6",
@@ -311,6 +303,14 @@
       "impact": "Low",
       "previous": "0.2%",
       "title": "German Final GDP q/q"
+    },
+    {
+      "country": "CNY",
+      "date": "2026-11-25T02:02:00-05:00",
+      "forecast": "",
+      "impact": "Low",
+      "previous": "-4.3%",
+      "title": "Foreign Direct Investment ytd/y"
     },
     {
       "country": "CHF",
@@ -601,7 +601,7 @@
       "title": "Prelim Wholesale Inventories m/m"
     }
   ],
-  "fetched_at": "2026-11-23T15:05:35.643053+00:00",
+  "fetched_at": "2026-11-23T16:05:37.668192+00:00",
   "sent": [],
   "version": 3
 }
