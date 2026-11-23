@@ -499,7 +499,7 @@
     {
       "country": "JPY",
       "date": "2026-11-26T18:30:00-05:00",
-      "forecast": "2.9%",
+      "forecast": "3.0%",
       "impact": "Medium",
       "previous": "2.6%",
       "title": "Tokyo Core CPI y/y"
@@ -507,7 +507,7 @@
     {
       "country": "EUR",
       "date": "2026-11-27T02:45:00-05:00",
-      "forecast": "0.2%",
+      "forecast": "0.1%",
       "impact": "Low",
       "previous": "-0.5%",
       "title": "French Consumer Spending m/m"
@@ -523,7 +523,7 @@
     {
       "country": "EUR",
       "date": "2026-11-27T02:45:00-05:00",
-      "forecast": "-0.1%",
+      "forecast": "-0.2%",
       "impact": "Low",
       "previous": "0.4%",
       "title": "French Prelim CPI m/m"
@@ -539,7 +539,7 @@
     {
       "country": "EUR",
       "date": "2026-11-27T03:00:00-05:00",
-      "forecast": "4.8%",
+      "forecast": "4.7%",
       "impact": "Low",
       "previous": "4.9%",
       "title": "Spanish Flash CPI y/y"
@@ -571,7 +571,7 @@
     {
       "country": "CAD",
       "date": "2026-11-27T08:30:00-05:00",
-      "forecast": "9.6B",
+      "forecast": "9.5B",
       "impact": "Low",
       "previous": "8.8B",
       "title": "Current Account"
@@ -579,7 +579,7 @@
     {
       "country": "USD",
       "date": "2026-11-27T08:30:00-05:00",
-      "forecast": "-134.4B",
+      "forecast": "-135.9B",
       "impact": "Low",
       "previous": "-134.9B",
       "title": "Goods Trade Balance"
@@ -587,13 +587,13 @@
     {
       "country": "USD",
       "date": "2026-11-27T08:30:00-05:00",
-      "forecast": "0.7%",
+      "forecast": "0.5%",
       "impact": "Low",
       "previous": "0.6%",
       "title": "Prelim Wholesale Inventories m/m"
     }
   ],
-  "fetched_at": "2026-11-23T21:25:35.759511+00:00",
+  "fetched_at": "2026-11-23T22:31:03.770278+00:00",
   "sent": [],
   "version": 3
 }
