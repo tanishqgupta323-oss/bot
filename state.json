@@ -355,14 +355,6 @@
     {
       "country": "USD",
       "date": "2026-11-25T08:30:00-05:00",
-      "forecast": "201K",
-      "impact": "Medium",
-      "previous": "203K",
-      "title": "Unemployment Claims"
-    },
-    {
-      "country": "USD",
-      "date": "2026-11-25T08:30:00-05:00",
       "forecast": "0.5%",
       "impact": "Low",
       "previous": "0.5%",
@@ -391,6 +383,14 @@
       "impact": "Low",
       "previous": "0.5%",
       "title": "Personal Spending m/m"
+    },
+    {
+      "country": "USD",
+      "date": "2026-11-25T08:30:00-05:00",
+      "forecast": "201K",
+      "impact": "Low",
+      "previous": "203K",
+      "title": "Unemployment Claims"
     },
     {
       "country": "USD",
@@ -601,7 +601,7 @@
       "title": "Prelim Wholesale Inventories m/m"
     }
   ],
-  "fetched_at": "2026-11-23T17:10:45.980707+00:00",
+  "fetched_at": "2026-11-23T18:15:45.996166+00:00",
   "sent": [],
   "version": 3
 }
