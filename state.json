@@ -322,6 +322,14 @@
     },
     {
       "country": "USD",
+      "date": "2026-11-25T07:25:00-05:00",
+      "forecast": "",
+      "impact": "Low",
+      "previous": "",
+      "title": "FOMC Member Bowman Speaks"
+    },
+    {
+      "country": "USD",
       "date": "2026-11-25T08:30:00-05:00",
       "forecast": "0.3%",
       "impact": "High",
@@ -557,7 +565,7 @@
       "date": "2026-11-27T05:33:00-05:00",
       "forecast": "",
       "impact": "Low",
-      "previous": "",
+      "previous": "4.49|1.6",
       "title": "Italian 10-y Bond Auction"
     },
     {
@@ -593,7 +601,7 @@
       "title": "Prelim Wholesale Inventories m/m"
     }
   ],
-  "fetched_at": "2026-11-24T22:40:57.544226+00:00",
+  "fetched_at": "2026-11-24T23:45:41.926710+00:00",
   "sent": [],
   "version": 3
 }
