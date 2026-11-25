@@ -314,7 +314,7 @@
     },
     {
       "country": "EUR",
-      "date": "2026-11-25T05:42:00-05:00",
+      "date": "2026-11-25T05:32:00-05:00",
       "forecast": "",
       "impact": "Low",
       "previous": "3.37|1.1",
@@ -601,7 +601,7 @@
       "title": "Prelim Wholesale Inventories m/m"
     }
   ],
-  "fetched_at": "2026-11-25T10:15:45.812289+00:00",
+  "fetched_at": "2026-11-25T11:20:45.606018+00:00",
   "sent": [],
   "version": 3
 }
