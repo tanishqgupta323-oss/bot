@@ -403,7 +403,7 @@
     {
       "country": "USD",
       "date": "2026-11-25T10:30:00-05:00",
-      "forecast": "",
+      "forecast": "2.0M",
       "impact": "Low",
       "previous": "3.4M",
       "title": "Crude Oil Inventories"
@@ -601,7 +601,7 @@
       "title": "Prelim Wholesale Inventories m/m"
     }
   ],
-  "fetched_at": "2026-11-25T01:50:51.430722+00:00",
+  "fetched_at": "2026-11-25T02:55:34.469429+00:00",
   "sent": [],
   "version": 3
 }
