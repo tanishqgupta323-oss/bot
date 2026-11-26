@@ -473,6 +473,14 @@
       "title": "Private Loans y/y"
     },
     {
+      "country": "EUR",
+      "date": "2026-11-26T04:15:00-05:00",
+      "forecast": "",
+      "impact": "Low",
+      "previous": "",
+      "title": "Euro Summit"
+    },
+    {
       "country": "GBP",
       "date": "2026-11-26T05:30:00-05:00",
       "forecast": "",
@@ -609,7 +617,7 @@
       "title": "Prelim Wholesale Inventories m/m"
     }
   ],
-  "fetched_at": "2026-11-26T00:55:36.248755+00:00",
+  "fetched_at": "2026-11-26T01:55:39.969795+00:00",
   "sent": [],
   "version": 3
 }
